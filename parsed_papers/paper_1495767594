@@ -1,0 +1,39 @@
+{
+    "id": "1495767594",
+    "title": "A ``Bare-Machine'' Implementation of Ada Multi-tasking Beneath the Linux Kernel",
+    "venue": "international conference on reliable software technologies",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Hongfeng Shen",
+            "id": "2145141459",
+            "org": "Florida State University"
+        },
+        {
+            "name": "Arnaud Charlet",
+            "id": "2282175501",
+            "org": "Ada Core Technologies, Inc."
+        },
+        {
+            "name": "Theodore P. Baker",
+            "id": "2157530374",
+            "org": "Florida State University"
+        }
+    ],
+    "fields_of_study": [
+        "sysfs",
+        "Linux kernel",
+        "Computer science",
+        "Scheduling (computing)",
+        "Bare machine",
+        "JFFS2",
+        "Runtime system",
+        "inotify",
+        "Operating system",
+        "Configfs",
+        "Real-time computing"
+    ],
+    "references": [
+        "2093100591"
+    ]
+}

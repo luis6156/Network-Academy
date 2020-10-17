@@ -1,0 +1,40 @@
+{
+    "id": "1639989899",
+    "title": "Object replication using version vector",
+    "venue": "international conference on parallel and distributed systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Kyouji Hasegawa",
+            "id": "2166976753",
+            "org": "Dept. of Comput. & Syst. Eng., Tokyo Denki Univ., Japan"
+        },
+        {
+            "name": "Hiroaki Higaki",
+            "id": "2080390443",
+            "org": "Dept . of Computers and Systems Engineering|Tokyo Denki University"
+        },
+        {
+            "name": "Makoto Takizawa",
+            "id": "2120372136",
+            "org": "Dept . of Computers and Systems Engineering|Tokyo Denki University"
+        }
+    ],
+    "fields_of_study": [
+        "Replica",
+        "Version vector",
+        "Computer science",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Software quality",
+        "Real-time computing"
+    ],
+    "references": [
+        "1506263111",
+        "1544578797",
+        "1545155892",
+        "2052960791",
+        "2091416827",
+        "2108350817"
+    ]
+}

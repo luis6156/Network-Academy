@@ -1,0 +1,72 @@
+{
+    "id": "1502674216",
+    "title": "An Integrated Performance Visualizer for MPI/OpenMP Programs",
+    "venue": "international workshop on openmp",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jay Hoeflinger",
+            "id": "312486069",
+            "org": "KAI Software Intel Americas, Inc."
+        },
+        {
+            "name": "Bob Kuhn",
+            "id": "2120229386",
+            "org": "KAI Software Intel Americas, Inc."
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Center for High Performance Computing Dresden University of Technology"
+        },
+        {
+            "name": "Paul M. Petersen",
+            "id": "2309899957",
+            "org": "KAI Software Intel Americas, Inc."
+        },
+        {
+            "name": "Hrabri Rajic",
+            "id": "1972456395",
+            "org": "KAI Software Intel Americas, Inc."
+        },
+        {
+            "name": "Sanjiv Shah",
+            "id": "2156487896",
+            "org": "KAI Software Intel Americas, Inc."
+        },
+        {
+            "name": "Jeffrey S. Vetter",
+            "id": "2165234532",
+            "org": "Center for Applied Scientific Computing Lawrence Livermore National Laboratory Livermore"
+        },
+        {
+            "name": "Michael Voss",
+            "id": "2158359197",
+            "org": "KAI Software Intel Americas, Inc."
+        },
+        {
+            "name": "Renee Woo",
+            "id": "2417269058",
+            "org": "KAI Software Intel Americas, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Computer architecture",
+        "Software",
+        "Program analysis",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Parallel processing",
+        "Message passing",
+        "Computer cluster"
+    ],
+    "references": [
+        "2051717600",
+        "2129585587",
+        "2130839182",
+        "2160468841"
+    ]
+}

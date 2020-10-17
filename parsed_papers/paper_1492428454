@@ -1,0 +1,46 @@
+{
+    "id": "1492428454",
+    "title": "Modelling and proof analysis of interrupt driven scheduling",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Bill Stoddart",
+            "id": "2128546489",
+            "org": "University of Teesside#TAB#"
+        },
+        {
+            "name": "Dominique Cansell",
+            "id": "2015326120",
+            "org": "INRIA/LORIA, University of Metz#TAB#"
+        },
+        {
+            "name": "Frank Zeyda",
+            "id": "2792613370",
+            "org": "University of Teesside#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interrupt",
+        "Formal specification",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "State diagram",
+        "Uniprocessor system",
+        "Event calculus",
+        "Formal methods",
+        "Real-time computing",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1491103651",
+        "1541877139",
+        "1556500444",
+        "1559958463",
+        "1585758771",
+        "1594381772",
+        "1597822635",
+        "1838372604"
+    ]
+}

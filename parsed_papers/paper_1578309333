@@ -1,0 +1,46 @@
+{
+    "id": "1578309333",
+    "title": "An FPGA-Based parallel accelerator for matrix multiplications in the newton-raphson method",
+    "venue": "embedded and ubiquitous computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xizhen Xu",
+            "id": "2126278495",
+            "org": "Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Newark, NJ#TAB#"
+        },
+        {
+            "name": "Sotirios G. Ziavras",
+            "id": "181040289",
+            "org": "Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Newark, NJ#TAB#"
+        },
+        {
+            "name": "Tae-Gyu Chang",
+            "id": "2128797018",
+            "org": "School of Electrical and Electronics Engineering, Chung-Ang University, Seoul, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Matrix multiplication",
+        "Parallel computing",
+        "Speedup",
+        "Computer science",
+        "Control theory",
+        "Instruction set",
+        "Gate array",
+        "Iterative method",
+        "Power-flow study"
+    ],
+    "references": [
+        "1539534578",
+        "1540366270",
+        "1553214226",
+        "1863888138",
+        "2061624656",
+        "2116202115",
+        "2123969616",
+        "2126069080",
+        "2131959641"
+    ]
+}

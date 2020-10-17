@@ -1,0 +1,64 @@
+{
+    "id": "170107647",
+    "title": "Dynamic load balancing in MPI jobs",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gladys Utrera",
+            "id": "2115393882",
+            "org": "Departament d'Arquitectura de Computadors, Universitat Politecnica de Catalunya#TAB#"
+        },
+        {
+            "name": "Julita Corbalan",
+            "id": "2167232472",
+            "org": "Departament d'Arquitectura de Computadors, Universitat Politecnica de Catalunya#TAB#"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2809917680",
+            "org": "Departament d'Arquitectura de Computadors, Universitat Politecnica de Catalunya#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Job queue",
+        "Context switch",
+        "Parallel computing",
+        "Heuristics",
+        "Multilevel queue",
+        "Job scheduler",
+        "Computer science",
+        "Distributed computing",
+        "Queue",
+        "Run queue",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "88197778",
+        "193356668",
+        "1498503362",
+        "1526929924",
+        "1538073575",
+        "1541093386",
+        "1541858096",
+        "1552942522",
+        "1594744861",
+        "1661854482",
+        "1968504700",
+        "1977495263",
+        "1988781135",
+        "2003465625",
+        "2005803969",
+        "2050241504",
+        "2055228661",
+        "2075048447",
+        "2100445737",
+        "2118090016",
+        "2119663054",
+        "2128252221",
+        "2131543442",
+        "2174818301",
+        "2489559643"
+    ]
+}

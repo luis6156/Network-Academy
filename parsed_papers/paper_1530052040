@@ -1,0 +1,50 @@
+{
+    "id": "1530052040",
+    "title": "JaCk-SAT: a new parallel scheme to solve the satisfiability problem (SAT) based on join-and-check",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Daniel Singer",
+            "id": "2152103829",
+            "org": "LITA, Universite Paul Verlaine-Metz, Metz cedex, France#TAB#"
+        },
+        {
+            "name": "Anthony Monnet",
+            "id": "2508721515",
+            "org": "LITA, Universite Paul Verlaine-Metz, Metz cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Constraint satisfaction problem",
+        "Recursion",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Hypergraph",
+        "Model checking",
+        "Tree decomposition",
+        "Heuristic",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "1507988282",
+        "1549462649",
+        "1555678362",
+        "1583130056",
+        "1600913231",
+        "1606555018",
+        "1686746446",
+        "1832793528",
+        "1966350062",
+        "1970590090",
+        "2015372451",
+        "2057361103",
+        "2105210717",
+        "2131761962",
+        "2143992647",
+        "2159003936",
+        "2169084680",
+        "2626304854"
+    ]
+}

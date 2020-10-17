@@ -1,0 +1,48 @@
+{
+    "id": "136479479",
+    "title": "Verification of TLB virtualization implemented in c",
+    "venue": "verified software theories tools experiments",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Eyad Alkassar",
+            "id": "334789826",
+            "org": "Saarland University, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Ernie Cohen",
+            "id": "2166020432",
+            "org": "European Microsoft Innovation Center (EMIC), Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Mikhail Kovalev",
+            "id": "2702672585",
+            "org": "Saarland University, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang J. Paul",
+            "id": "2169524188",
+            "org": "Saarland University, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Translation lookaside buffer",
+        "Thread (computing)",
+        "Hypervisor",
+        "Full virtualization",
+        "Virtualization",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Virtual device",
+        "Shadow",
+        "Page table"
+    ],
+    "references": [
+        "1253485236",
+        "1545681762",
+        "1594381772",
+        "2101118268",
+        "2136310957"
+    ]
+}

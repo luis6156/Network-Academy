@@ -1,0 +1,84 @@
+{
+    "id": "1533017878",
+    "title": "Using Bitmap Index for Joint Queries on Structured and Text Data",
+    "venue": "Lawrence Berkeley National Laboratory",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Kurt Stockinger",
+            "id": "2463969832",
+            "org": "Lawrence Berkeley National Laboratory, University of California"
+        },
+        {
+            "name": "John Cieslewicz",
+            "id": "1931874561",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Kesheng Wu",
+            "id": "2152841419",
+            "org": "Lawrence Berkeley National Laboratory, University of California"
+        },
+        {
+            "name": "Doron Rotem",
+            "id": "2224036848",
+            "org": "Lawrence Berkeley National Laboratory, University of California"
+        },
+        {
+            "name": "Arie Shoshani",
+            "id": "742538449",
+            "org": "Lawrence Berkeley National Laboratory, University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Data compression",
+        "Computer science",
+        "Bitmap",
+        "Bitmap index",
+        "Database",
+        "Data type",
+        "Inverted index",
+        "SQL",
+        "Data warehouse",
+        "Data model"
+    ],
+    "references": [
+        "67853643",
+        "1501548698",
+        "1516527356",
+        "1527137792",
+        "1538721919",
+        "1553457043",
+        "1567583992",
+        "1570477871",
+        "1576757369",
+        "1660390307",
+        "1723787988",
+        "1833785989",
+        "1971065220",
+        "1981663733",
+        "1982945449",
+        "2006148350",
+        "2025475723",
+        "2072764742",
+        "2081348961",
+        "2091875161",
+        "2101566835",
+        "2108277648",
+        "2117156932",
+        "2117716920",
+        "2122416857",
+        "2125203709",
+        "2125630417",
+        "2135494327",
+        "2138662031",
+        "2141788816",
+        "2141922908",
+        "2144193618",
+        "2161694911",
+        "2169724067",
+        "2170157136",
+        "2171669671",
+        "2285725925"
+    ]
+}

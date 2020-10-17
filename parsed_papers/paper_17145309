@@ -1,0 +1,60 @@
+{
+    "id": "17145309",
+    "title": "Min-sum clustering of protein sequences with limited distance information",
+    "venue": "SIMBAD'11 Proceedings of the First international conference on Similarity-based pattern recognition",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Konstantin Voevodski",
+            "id": "68611093",
+            "org": "Department of Computer Science, Boston University, Boston, MA#TAB#"
+        },
+        {
+            "name": "Maria-Florina Balcan",
+            "id": "2169342471",
+            "org": "College of Computing, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Heiko Roglin",
+            "id": "1994434233",
+            "org": "Department of Computer Science, University of Bonn, Bonn, Germany#TAB#"
+        },
+        {
+            "name": "Shang-Hua Teng",
+            "id": "2103844955",
+            "org": "Computer Science Department, University of Southern California, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "Yu Xia",
+            "id": "2078733490",
+            "org": "Bioinformatics Program and Department of Chemistry, Boston University, Boston, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Pattern recognition",
+        "Data stream clustering",
+        "Constrained clustering",
+        "CURE data clustering algorithm",
+        "Canopy clustering algorithm",
+        "Cluster analysis",
+        "Fuzzy clustering",
+        "k-medians clustering",
+        "Correlation clustering",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1535669030",
+        "1570303324",
+        "1994698869",
+        "2003207175",
+        "2050516752",
+        "2073459066",
+        "2111004121",
+        "2137691837",
+        "2140829309",
+        "2141885858",
+        "2156499390"
+    ]
+}

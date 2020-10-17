@@ -1,0 +1,49 @@
+{
+    "id": "1490653284",
+    "title": "Efficient Public-Key Cryptosystems Provably Secure Against Active Adversaries",
+    "venue": "international cryptology conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Gemplus Cryptography Department"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "LIENS - CNRS, Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Random oracle",
+        "Public-key cryptography",
+        "Semantic security",
+        "Chosen-ciphertext attack",
+        "Provable security"
+    ],
+    "references": [
+        "174706587",
+        "1505785519",
+        "1516512945",
+        "1529862094",
+        "1552695147",
+        "1572695506",
+        "1589176872",
+        "1809974132",
+        "1871739018",
+        "1996360405",
+        "2052267638",
+        "2073210531",
+        "2101803085",
+        "2108834246",
+        "2156186849",
+        "2613229011"
+    ]
+}

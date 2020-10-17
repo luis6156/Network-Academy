@@ -1,0 +1,42 @@
+{
+    "id": "1529042742",
+    "title": "Abstracting C with abC",
+    "venue": "computer aided verification",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dennis Dams",
+            "id": "2776801844",
+            "org": "Bell Labs, Lucent Technologies, Murray Hill, USA"
+        },
+        {
+            "name": "William Hesse",
+            "id": "2293554932",
+            "org": "Dept. of Computer Science, Univ. of Massachusetts, Amherst, USA"
+        },
+        {
+            "name": "Gerard J. Holzmann",
+            "id": "2028047182",
+            "org": "Bell Labs, Lucent Technologies, Murray Hill, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Pointer analysis",
+        "Theoretical computer science",
+        "Algorithm",
+        "Pointer (computer programming)",
+        "Computer science",
+        "Program transformation",
+        "Data modeling",
+        "Abstraction",
+        "Model checking",
+        "Programming language",
+        "Information hiding"
+    ],
+    "references": [
+        "1541969962",
+        "1591601664",
+        "2026965951",
+        "2340735175"
+    ]
+}

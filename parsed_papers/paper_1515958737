@@ -1,0 +1,74 @@
+{
+    "id": "1515958737",
+    "title": "Related-Key boomerang and rectangle attacks",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Mathematics",
+        "XSL attack",
+        "Interpolation attack",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Boomerang attack",
+        "Related-key attack",
+        "Slide attack",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "18798069",
+        "52191336",
+        "1485064528",
+        "1493204363",
+        "1498892963",
+        "1516699468",
+        "1518406241",
+        "1540066842",
+        "1541703086",
+        "1541853791",
+        "1543271574",
+        "1546907539",
+        "1556212265",
+        "1570998442",
+        "1575149347",
+        "1576070627",
+        "1587120902",
+        "1596744447",
+        "1605116544",
+        "1605786664",
+        "1608613499",
+        "1627707404",
+        "1629301835",
+        "1870015754",
+        "1871986277",
+        "1882652738",
+        "1964723977",
+        "1979802565",
+        "1991897749",
+        "2072707905",
+        "2081451319",
+        "2091612798",
+        "2109265351",
+        "2169290761",
+        "2513781444",
+        "2514781489",
+        "2592352276"
+    ]
+}

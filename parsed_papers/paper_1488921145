@@ -1,0 +1,62 @@
+{
+    "id": "1488921145",
+    "title": "Attacking ECDSA-Enabled RFID Devices",
+    "venue": "applied cryptography and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michael Hutter",
+            "id": "2132463570",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria 8010#TAB#"
+        },
+        {
+            "name": "Marcel Medwed",
+            "id": "248606260",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria 8010#TAB#"
+        },
+        {
+            "name": "Daniel M. Hein",
+            "id": "2097618570",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria 8010#TAB#"
+        },
+        {
+            "name": "Johannes Wolkerstorfer",
+            "id": "2017924375",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria 8010#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "CMOS",
+        "Theoretical computer science",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Radio-frequency identification",
+        "Computer science",
+        "Implementation",
+        "Computer security",
+        "Elliptic curve cryptography",
+        "Power analysis",
+        "Digital signature",
+        "Authentication"
+    ],
+    "references": [
+        "189057578",
+        "1511843316",
+        "1514141030",
+        "1519539754",
+        "1522919234",
+        "1535489610",
+        "1565369953",
+        "1569815691",
+        "1583090871",
+        "1596841000",
+        "1613874182",
+        "1664808737",
+        "1675339804",
+        "1724890242",
+        "1894646615",
+        "1996360405",
+        "2144048023",
+        "2154909745",
+        "2263108464"
+    ]
+}

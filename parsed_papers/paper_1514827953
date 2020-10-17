@@ -1,0 +1,71 @@
+{
+    "id": "1514827953",
+    "title": "opaal: a lattice model checker",
+    "venue": "nasa formal methods",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Andreas Engelbredt Dalsgaard",
+            "id": "1993680322",
+            "org": "Department of Computer Science, Aalborg University, Aalborg East, Denmark#TAB#"
+        },
+        {
+            "name": "Rene Rydhof Hansen",
+            "id": "2224720352",
+            "org": "Department of Computer Science, Aalborg University, Aalborg East, Denmark#TAB#"
+        },
+        {
+            "name": "Kenneth Yrke Jorgensen",
+            "id": "2153136191",
+            "org": "Department of Computer Science, Aalborg University, Aalborg East, Denmark#TAB#"
+        },
+        {
+            "name": "Kim Guldstrand Larsen",
+            "id": "2146581609",
+            "org": "Department of Computer Science, Aalborg University, Aalborg East, Denmark#TAB#"
+        },
+        {
+            "name": "Mads Chr. Olesen",
+            "id": "2148648974",
+            "org": "Department of Computer Science, Aalborg University, Aalborg East, Denmark#TAB#"
+        },
+        {
+            "name": "Petur Olsen",
+            "id": "2288094032",
+            "org": "Department of Computer Science, Aalborg University, Aalborg East, Denmark#TAB#"
+        },
+        {
+            "name": "Jiri Srba",
+            "id": "1976754946",
+            "org": "Department of Computer Science, Aalborg University, Aalborg East, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Lossy compression",
+        "High-level verification",
+        "Theoretical computer science",
+        "Lattice (order)",
+        "Computer science",
+        "Communications protocol",
+        "Distributed computing",
+        "Abstraction",
+        "Automaton",
+        "Model checking",
+        "Programming language"
+    ],
+    "references": [
+        "1535237014",
+        "1874478398",
+        "1962072139",
+        "1967174286",
+        "2062066235",
+        "2064145614",
+        "2071187449",
+        "2076285066",
+        "2130773092",
+        "2150220388",
+        "2153439859",
+        "2295903414"
+    ]
+}

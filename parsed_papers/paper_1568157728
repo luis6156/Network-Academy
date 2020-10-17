@@ -1,0 +1,44 @@
+{
+    "id": "1568157728",
+    "title": "Techniques for Enabling Highly Efficient Message Passing on Many-Core Architectures",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Min Si",
+            "id": "2110794844",
+            "org": "Univ. of Tokyo, Tokyo, Japan"
+        },
+        {
+            "name": "Pavan Balaji",
+            "id": "1990703395",
+            "org": "Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Yutaka Ishikawa",
+            "id": "2251886612",
+            "org": "RIKEN Adv. Inst. for Comput. Sci., Kobe, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Massively parallel",
+        "Parallel computing",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing",
+        "Programming paradigm",
+        "Architecture"
+    ],
+    "references": [
+        "1521427322",
+        "1590267976",
+        "1985734797",
+        "1986811934",
+        "2034714579",
+        "2108369438"
+    ]
+}

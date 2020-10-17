@@ -1,0 +1,50 @@
+{
+    "id": "131525165",
+    "title": "Dual lookups in pattern databases",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ariel Felner",
+            "id": "1931601972",
+            "org": "Department of Information Systems Engineering, Ben-Gurion University, Beer-Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Uzi Zahavi",
+            "id": "620746820",
+            "org": "Computer Science Dept., Bar-Ilan University, Ramat-Gan, Israel#TAB#"
+        },
+        {
+            "name": "Jonathan Schaeffer",
+            "id": "2278512575",
+            "org": "Computing Science Department, University of Alberta, Edmonton, Canada#TAB#"
+        },
+        {
+            "name": "Robert C. Holte",
+            "id": "2000740313",
+            "org": "Computing Science Department, University of Alberta, Edmonton, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Order of magnitude",
+        "Protein Data Bank (RCSB PDB)",
+        "Lookup table",
+        "Theoretical computer science",
+        "Heuristic function",
+        "Computer science",
+        "State space",
+        "Database",
+        "Cube",
+        "Heuristic",
+        "Search tree"
+    ],
+    "references": [
+        "96218255",
+        "128952136",
+        "1968808691",
+        "2010549090",
+        "2150470619",
+        "2155675331",
+        "2165040934"
+    ]
+}

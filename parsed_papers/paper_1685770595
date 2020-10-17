@@ -1,0 +1,54 @@
+{
+    "id": "1685770595",
+    "title": "A Differential-Linear Attack on 12-Round Serpent",
+    "venue": "international conference on cryptology in india",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Departement d'Informatique, CNRS, INRIA, Ecole Normale Superieure, Paris, France 75230#TAB#"
+        },
+        {
+            "name": "Sebastiaan Indesteege",
+            "id": "79803544",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC Kasteelpark, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium B-3001#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel 91904#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Block cipher",
+        "Theoretical computer science",
+        "Algorithm",
+        "Cipher",
+        "Computer science",
+        "Slide attack",
+        "Meet-in-the-middle attack",
+        "Linear cryptanalysis",
+        "Serpent (symbolism)",
+        "Differential-linear attack"
+    ],
+    "references": [
+        "52191336",
+        "1518406241",
+        "1532041351",
+        "1540066842",
+        "1556727271",
+        "1558609276",
+        "1598870173",
+        "1732514021",
+        "1862865750",
+        "1870015754",
+        "1920313804",
+        "1964723977",
+        "1979802565",
+        "1991897749",
+        "2091612798",
+        "2615126819"
+    ]
+}

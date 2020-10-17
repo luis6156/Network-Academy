@@ -1,0 +1,53 @@
+{
+    "id": "119142509",
+    "title": "Graph Similarity Join with K-Hop Tree Indexing",
+    "venue": "international conference for young computer scientists",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yue Wang",
+            "id": "2676258686",
+            "org": "Harbin Institute of Technology"
+        },
+        {
+            "name": "Hongzhi Wang",
+            "id": "2589657406",
+            "org": "Harbin Institute of Technology"
+        },
+        {
+            "name": "Chen Ye",
+            "id": "2434424098",
+            "org": "Harbin Institute of Technology"
+        },
+        {
+            "name": "Hong Gao",
+            "id": "2607637236",
+            "org": "Harbin Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Tree (graph theory)",
+        "K-ary tree",
+        "Graph database",
+        "Pattern recognition",
+        "Computer science",
+        "Distributed computing",
+        "Hash join",
+        "Tree decomposition",
+        "Sort-merge join",
+        "SPQR tree",
+        "Gomory-Hu tree",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "81602814",
+        "1605556478",
+        "1973535531",
+        "1975844474",
+        "1979331609",
+        "2010541316",
+        "2072573705",
+        "2123966888",
+        "2164041127"
+    ]
+}

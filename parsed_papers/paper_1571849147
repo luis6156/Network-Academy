@@ -1,0 +1,47 @@
+{
+    "id": "1571849147",
+    "title": "A New Genetic Representation and Common Cluster Crossover for Job Shop Scheduling Problems",
+    "venue": "Real-World Applications of Evolutionary Computing, EvoWorkshops 2000: EvoIASP, EvoSCONDI, EvoTel, EvoSTIM, EvoROB, and EvoFlight",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Masaru Tezuka",
+            "id": "2310777958",
+            "org": "Hitachi Tohoku Software, Ltd. 2-16-10, Honcho, Aoba-ku Sendai, Miyagi 980-0014 Japan"
+        },
+        {
+            "name": "Masahiro Hiji",
+            "id": "2476022867",
+            "org": "Hitachi Tohoku Software, Ltd. 2-16-10, Honcho, Aoba-ku Sendai, Miyagi 980-0014 Japan"
+        },
+        {
+            "name": "Kazunori Miyabayashi",
+            "id": "2556446501",
+            "org": "Hitachi Tohoku Software, Ltd. 2-16-10, Honcho, Aoba-ku Sendai, Miyagi 980-0014 Japan"
+        },
+        {
+            "name": "Keigo Okumura",
+            "id": "2555289385",
+            "org": "Hitachi Tohoku Software, Ltd. 2-16-10, Honcho, Aoba-ku Sendai, Miyagi 980-0014 Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Operator (computer programming)",
+        "Crossover",
+        "Computer science",
+        "Distributed computing",
+        "Genetic representation",
+        "Job shop scheduling",
+        "Flow shop scheduling",
+        "Genetic algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "86946307",
+        "1507363803",
+        "1516301787",
+        "1559513030",
+        "1787544972",
+        "2032257665"
+    ]
+}

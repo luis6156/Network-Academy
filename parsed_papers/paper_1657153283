@@ -1,0 +1,43 @@
+{
+    "id": "1657153283",
+    "title": "Concurrency control using role ordering (RO) scheduler",
+    "venue": "advanced information networking and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tomoya Enokido",
+            "id": "2299825243",
+            "org": "Dept. of Comput. & Syst. Eng., Tokyo Denki Univ., Japan"
+        },
+        {
+            "name": "Makoto Takizawa",
+            "id": "2120372136",
+            "org": "Dept. of Comput. & Syst. Eng., Tokyo Denki Univ., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Timestamp",
+        "Throughput",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Concurrency control",
+        "Role-based access control",
+        "Serialization",
+        "Real-time computing",
+        "Computer network",
+        "Timestamp-based concurrency control",
+        "Two-phase locking"
+    ],
+    "references": [
+        "1740980531",
+        "2007999111",
+        "2016165722",
+        "2047753078",
+        "2094873755",
+        "2104246932",
+        "2106887953",
+        "2109261647",
+        "2166602595"
+    ]
+}

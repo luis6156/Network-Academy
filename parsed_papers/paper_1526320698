@@ -1,0 +1,49 @@
+{
+    "id": "1526320698",
+    "title": "ThresPassport - a distributed single sign-on service",
+    "venue": "international conference on intelligent computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tierui Chen",
+            "id": "2117577847",
+            "org": "Inst. of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Bin B. Zhu",
+            "id": "2798851951",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Shipeng Li",
+            "id": "2779071613",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Xueqi Cheng",
+            "id": "2129598186",
+            "org": "Inst. of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-factor authentication",
+        "Data Authentication Algorithm",
+        "Authentication protocol",
+        "Computer science",
+        "Distributed computing",
+        "Generic Bootstrapping Architecture",
+        "Challenge-Handshake Authentication Protocol",
+        "Chip Authentication Program",
+        "Lightweight Extensible Authentication Protocol",
+        "NTLMSSP"
+    ],
+    "references": [
+        "1528138196",
+        "1574185037",
+        "1660562555",
+        "2104055244",
+        "2112138431",
+        "2118783124",
+        "2141420453"
+    ]
+}

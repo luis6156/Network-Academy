@@ -1,0 +1,96 @@
+{
+    "id": "1580895464",
+    "title": "The RNA Ontology RNAO: An ontology for integrating RNA sequence and structure data",
+    "venue": "Applied Ontology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Robert Hoehndorf",
+            "id": "196825606",
+            "org": "Department of Genetics, University of Cambridge, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Colin R. Batchelor",
+            "id": "2096408448",
+            "org": "Royal Society of Chemistry, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Thomas Bittner",
+            "id": "2108133792",
+            "org": "Department of Philosophy, University at Buffalo, Buffalo, NY, USA#TAB#"
+        },
+        {
+            "name": "Michel Dumontier",
+            "id": "2035111836",
+            "org": "Department of Biology School of Computer Science, Carleton University, Ottawa, ON, Canada#TAB#"
+        },
+        {
+            "name": "Karen Eilbeck",
+            "id": "2213017315",
+            "org": "Department of Human Genetics, Eccles Institute of Human Genetics, University of Utah, Salt Lake City, UT, USA#TAB#"
+        },
+        {
+            "name": "Rob Knight",
+            "id": "2159013505",
+            "org": "Department of Chemistry and Biochemistry, University of Colorado at Boulder, Boulder, CO, USA and Howard Hughes Medical Institute, Boulder, CO, USA#TAB#"
+        },
+        {
+            "name": "Christopher J. Mungall",
+            "id": "575195435",
+            "org": "Life Sciences Division, Lawrence Berkeley National Lab, CA, USA#TAB#"
+        },
+        {
+            "name": "Jane S. Richardson",
+            "id": "2102065301",
+            "org": "Department of Biochemistry, Duke University Medical School, Durham, NC, USA#TAB#"
+        },
+        {
+            "name": "Jesse Stombaugh",
+            "id": "2033600902",
+            "org": "Department of Chemistry and Biochemistry, University of Colorado at Boulder, Boulder, CO, USA#TAB#"
+        },
+        {
+            "name": "Eric Westhof",
+            "id": "71275704",
+            "org": "Architecture et reactivite de l'ARN, Universite de Strasbourg, Institut de Biologie Moleculaire et Cellulaire du CNRS, Strasbourg, France#TAB#"
+        },
+        {
+            "name": "Craig L. Zirbel",
+            "id": "1991288875",
+            "org": "Department of Mathematics and Statistics, Bowling Green State University, Bowling Green, OH, USA#TAB#"
+        },
+        {
+            "name": "Neocles B. Leontis",
+            "id": "261236799",
+            "org": "Department of Chemistry, Bowling Green State University, Bowling Green, OH, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Open Biomedical Ontologies",
+        "Sequence alignment",
+        "Computer science",
+        "Data mining",
+        "Annotation",
+        "Nucleic acid structure",
+        "Ontology",
+        "RNA",
+        "Data model",
+        "Protein tertiary structure"
+    ],
+    "references": [
+        "45955907",
+        "71211195",
+        "104247996",
+        "1519551513",
+        "1533244802",
+        "1564494788",
+        "2005568256",
+        "2007171636",
+        "2017220776",
+        "2027015334",
+        "2033377040",
+        "2112589398",
+        "2138017379",
+        "2159124857"
+    ]
+}

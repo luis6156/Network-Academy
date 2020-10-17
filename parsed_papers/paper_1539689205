@@ -1,0 +1,73 @@
+{
+    "id": "1539689205",
+    "title": "COMET: code offload by migrating execution transparently",
+    "venue": "operating systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Mark S. Gordon",
+            "id": "2235647847",
+            "org": "EECS Department, University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "D. Anoushe Jamshidi",
+            "id": "2133796215",
+            "org": "EECS Department, University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "Scott A. Mahlke",
+            "id": "2171934779",
+            "org": "EECS Department, University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "Z. Morley Mao",
+            "id": "2159635634",
+            "org": "EECS Department, University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "Xu Chen",
+            "id": "2309669235",
+            "org": "AT&T Labs-Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Interpreter",
+        "Comet",
+        "Computer science",
+        "Distributed shared memory",
+        "Embedded system",
+        "Cyber foraging",
+        "Runtime system",
+        "Memory model",
+        "Operating system",
+        "Real-time computing",
+        "Virtual machine"
+    ],
+    "references": [
+        "1474786465",
+        "1483827732",
+        "1609529814",
+        "1963971515",
+        "1982881898",
+        "2023380813",
+        "2097113145",
+        "2101788345",
+        "2101799521",
+        "2104587577",
+        "2113873540",
+        "2115754267",
+        "2117252912",
+        "2121134342",
+        "2122465391",
+        "2129636357",
+        "2129861682",
+        "2131414602",
+        "2132981320",
+        "2148125582",
+        "2157733805",
+        "2170810021",
+        "2214510500",
+        "2295484512"
+    ]
+}

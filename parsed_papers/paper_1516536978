@@ -1,0 +1,53 @@
+{
+    "id": "1516536978",
+    "title": "BitValue Inference: Detecting and Exploiting Narrow Bitwidth Computations",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Mihai Budiu",
+            "id": "2324400913",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Majd F. Sakr",
+            "id": "2086262013",
+            "org": "Pittsburgh University"
+        },
+        {
+            "name": "Kip Walker",
+            "id": "2422569041",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Seth Copen Goldstein",
+            "id": "2108641532",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Parallel computing",
+        "High-level programming language",
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "Microarchitecture",
+        "Inference",
+        "Dataflow",
+        "Optimizing compiler",
+        "Reconfigurable computing"
+    ],
+    "references": [
+        "1965864973",
+        "1997474908",
+        "2021488422",
+        "2038198320",
+        "2115153748",
+        "2115157620",
+        "2117285153",
+        "2119131949",
+        "2136179493",
+        "2137149639"
+    ]
+}

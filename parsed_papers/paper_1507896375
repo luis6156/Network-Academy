@@ -1,0 +1,37 @@
+{
+    "id": "1507896375",
+    "title": "Efficient Rabin-type Digital Signature Scheme",
+    "venue": "Designs, Codes and Cryptography",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Department of Electrical and Electronic Engineering, Faculty of Engineering, Tokyo Institute of Technology, 2-12-1 O-okayama, Meguro-ku, Tokyo 152-8552, Japan#TAB#"
+        },
+        {
+            "name": "Wakaha Ogata",
+            "id": "2058530354",
+            "org": "Department of Computer Engineering, Faculty of Engineering, Himeji Institute of Technology, 2167 Shosha, Himeji, Hyogo 671-2201, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "EdDSA",
+        "Digital signature",
+        "Rabin fingerprint",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1996360405",
+        "2029124121",
+        "2052267638",
+        "2162653919"
+    ]
+}

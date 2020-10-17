@@ -1,0 +1,78 @@
+{
+    "id": "1749587086",
+    "title": "Suffix Array of Alignment: A Practical Index for Similar Data",
+    "venue": "string processing and information retrieval",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Joong Chae Na",
+            "id": "2119701158",
+            "org": "Department of Computer Science and Engineering, Sejong University, Korea#TAB#"
+        },
+        {
+            "name": "Heejin Park",
+            "id": "2302361571",
+            "org": "College of Information and Communications, Hanyang University, Korea#TAB#"
+        },
+        {
+            "name": "Sunho Lee",
+            "id": "2211991165",
+            "org": "School of Computer Science and Engineering, Seoul National University, Korea#TAB#"
+        },
+        {
+            "name": "Minsung Hong",
+            "id": "2410142615",
+            "org": "School of Computer Science and Engineering, Seoul National University, Korea#TAB#"
+        },
+        {
+            "name": "Thierry Lecroq",
+            "id": "116349491",
+            "org": "Department of Computer Science, University of Rouen, France#TAB#"
+        },
+        {
+            "name": "Laurent Mouchard",
+            "id": "1251731867",
+            "org": "Department of Computer Science, University of Rouen, France#TAB#"
+        },
+        {
+            "name": "Kunsoo Park",
+            "id": "2149480606",
+            "org": "School of Computer Science and Engineering, Seoul National University, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Suffix",
+        "Theoretical computer science",
+        "Algorithm",
+        "FM-index",
+        "Longest common substring problem",
+        "Computer science",
+        "Generalized suffix tree",
+        "Suffix array",
+        "Suffix tree",
+        "Data structure",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "1495524224",
+        "1498437305",
+        "1552221124",
+        "1602012035",
+        "1990061958",
+        "2064184672",
+        "2067974452",
+        "2072021854",
+        "2101881908",
+        "2107745473",
+        "2118703123",
+        "2134283755",
+        "2137661542",
+        "2147217460",
+        "2158874082",
+        "2159647614",
+        "2162747936",
+        "2170899819",
+        "2175675288",
+        "2233676531"
+    ]
+}

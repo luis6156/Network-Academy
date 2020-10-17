@@ -1,0 +1,47 @@
+{
+    "id": "136062595",
+    "title": "Static Bug Detection Through Analysis of Inconsistent Clones.",
+    "venue": "Software Engineering (Workshops)",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Elmar Jurgens",
+            "id": "2023870400",
+            "org": "Institut fur Informatik|Technische Universitat Munchen"
+        },
+        {
+            "name": "Benjamin Hummel",
+            "id": "2054963445",
+            "org": "Institut fur Informatik|Technische Universitat Munchen"
+        },
+        {
+            "name": "Florian Deissenboeck",
+            "id": "369595059",
+            "org": "Institut fur Informatik|Technische Universitat Munchen"
+        },
+        {
+            "name": "Martin Feilkas",
+            "id": "999386124",
+            "org": "Institut fur Informatik|Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Redundancy (engineering)",
+        "Software system",
+        "Computer science",
+        "Data mining",
+        "clone (Java method)",
+        "Correctness"
+    ],
+    "references": [
+        "1541063262",
+        "1857184435",
+        "2008085811",
+        "2040151369",
+        "2104301886",
+        "2107024044",
+        "2109943392",
+        "2128698639"
+    ]
+}

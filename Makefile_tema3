@@ -1,0 +1,36 @@
+CC=gcc
+CFLAGS=-Wall -Wextra -Wpedantic -g
+OPT_CFLGAS=-O3 -Wno-unused-result
+
+PARSER=parson
+PUBL=publications
+RUNNER=runner
+CHECKER=checker
+
+INCLUDES=-I$(PARSER) -I.
+LIBS=-lm
+
+.PHONY: build clean
+
+build: tema3
+
+tema3: main.o runner.o $(PARSER).o $(PUBL).o
+	$(CC) $^ -o $@ -g $(LIBS)
+
+main.o: $(CHECKER)/main.c
+	$(CC) $(CFLAGS) $(OPT_CFLGAS) $(INCLUDES) $^ -c
+
+$(RUNNER).o: $(CHECKER)/$(RUNNER).c $(CHECKER)/$(RUNNER).h
+	$(CC) $(CFLAGS) $(OPT_CFLGAS) $(INCLUDES) $^ -c
+
+$(PARSER).o: $(PARSER)/$(PARSER).c $(PARSER)/$(PARSER).h
+	$(CC) $(CFLAGS) $(OPT_CFLGAS) $^ -c
+
+$(PUBL).o: $(PUBL).c $(PUBL).h
+	make --no-print-directory build
+
+clean:
+	rm -f *.o tema3
+	rm -f $(PARSER)/*.h.gch
+	rm -f $(CHECKER)/*.h.gch
+	make --no-print-directory clean

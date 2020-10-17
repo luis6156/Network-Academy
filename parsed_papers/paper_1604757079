@@ -1,0 +1,56 @@
+{
+    "id": "1604757079",
+    "title": "SNP: an interface for secure network programming",
+    "venue": "usenix summer technical conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Thomas Y. Woo",
+            "id": "2148956660",
+            "org": "Department of Computer Sciences, The University of Texas at Austin, Austin, Texas#TAB#"
+        },
+        {
+            "name": "Raghuram Bindignavle",
+            "id": "2280708553",
+            "org": "Department of Computer Sciences, The University of Texas at Austin, Austin, Texas#TAB#"
+        },
+        {
+            "name": "Shaowen Su",
+            "id": "2275243877",
+            "org": "Department of Computer Sciences, The University of Texas at Austin, Austin, Texas#TAB#"
+        },
+        {
+            "name": "Simon S. Lam",
+            "id": "2142037325",
+            "org": "Department of Computer Sciences, The University of Texas at Austin, Austin, Texas#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Information sensitivity",
+        "Computer network programming",
+        "Datagram",
+        "Computer science",
+        "Computer security",
+        "Berkeley sockets",
+        "Data integrity",
+        "Context management",
+        "Authentication"
+    ],
+    "references": [
+        "1514748245",
+        "1533021744",
+        "1610349667",
+        "1989649788",
+        "1995156790",
+        "1996360405",
+        "2067580212",
+        "2118036973",
+        "2134474749",
+        "2146749986",
+        "2146973388",
+        "2154706164",
+        "2163684994",
+        "2407933944"
+    ]
+}

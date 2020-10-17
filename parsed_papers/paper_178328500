@@ -1,0 +1,64 @@
+{
+    "id": "178328500",
+    "title": "iDedup: latency-aware, inline data deduplication for primary storage",
+    "venue": "file and storage technologies",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Kiran Srinivasan",
+            "id": "2127082068",
+            "org": "NetApp, Inc.#TAB#"
+        },
+        {
+            "name": "Timothy Bisson",
+            "id": "2158909042",
+            "org": "NetApp, Inc.#TAB#"
+        },
+        {
+            "name": "Garth R. Goodson",
+            "id": "2083422402",
+            "org": "NetApp, Inc.#TAB#"
+        },
+        {
+            "name": "Kaladhar Voruganti",
+            "id": "2574345817",
+            "org": "NetApp, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Locality",
+        "Computer science",
+        "Data deduplication",
+        "Latency (engineering)",
+        "Fragmentation (computing)",
+        "Metadata",
+        "Real-time computing",
+        "Locality of reference"
+    ],
+    "references": [
+        "5335935",
+        "24740120",
+        "69510097",
+        "182307532",
+        "200233886",
+        "1521407587",
+        "1576397915",
+        "1609518033",
+        "1689590126",
+        "1969126835",
+        "2007842132",
+        "2053449578",
+        "2108183412",
+        "2109485293",
+        "2125788329",
+        "2135348622",
+        "2147407897",
+        "2149993626",
+        "2153158407",
+        "2155463028",
+        "2156719566",
+        "2281363974"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "1551006900",
+    "title": "Designing a High Performance OpenSHMEM Implementation Using Universal Common Communication Substrate as a Communication Middleware",
+    "venue": "OpenSHMEM 2014 Proceedings of the First Workshop on OpenSHMEM and Related Technologies. Experiences, Implementations, and Tools - Volume 8356",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Pavel Shamis",
+            "id": "306578653",
+            "org": "Extreme Scale Systems Center (ESSC), Oak Ridge National Laboratory (ORNL), USA#TAB#"
+        },
+        {
+            "name": "Manjunath Gorentla Venkata",
+            "id": "2133683511",
+            "org": "Extreme Scale Systems Center (ESSC), Oak Ridge National Laboratory (ORNL), USA#TAB#"
+        },
+        {
+            "name": "Stephen W. Poole",
+            "id": "2107434135",
+            "org": "Extreme Scale Systems Center (ESSC), Oak Ridge National Laboratory (ORNL), USA#TAB#"
+        },
+        {
+            "name": "Aaron Welch",
+            "id": "2101172463",
+            "org": "Computer Science Department, University of Houston (UH), USA#TAB#"
+        },
+        {
+            "name": "Tony Curtis",
+            "id": "2104099446",
+            "org": "Computer Science Department, University of Houston (UH), USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Partitioned global address space",
+        "Parallel computing",
+        "Remote memory",
+        "Computer science",
+        "Reference implementation",
+        "Middleware",
+        "Operating system",
+        "SHMEM",
+        "Programming paradigm",
+        "Metrics"
+    ],
+    "references": [
+        "3327594",
+        "1545861726",
+        "1596936080",
+        "1969215126",
+        "1980826401",
+        "2012313745",
+        "2023771287",
+        "2070747130",
+        "2089226814",
+        "2139540534"
+    ]
+}

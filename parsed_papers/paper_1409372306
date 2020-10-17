@@ -1,0 +1,81 @@
+{
+    "id": "1409372306",
+    "title": "Salt: combining ACID and BASE in a distributed database",
+    "venue": "operating systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Chao Xie",
+            "id": "2152479865",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Chunzhi Su",
+            "id": "2225844738",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Manos Kapritsos",
+            "id": "1772270056",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Yang Wang",
+            "id": "2589583944",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Navid Yaghmazadeh",
+            "id": "2292226717",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Lorenzo Alvisi",
+            "id": "2292936287",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Prince Mahajan",
+            "id": "2182661336",
+            "org": "The University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Distributed database",
+        "Computer science",
+        "Distributed computing",
+        "Durability",
+        "Granularity",
+        "Database",
+        "Workflow",
+        "Atomicity",
+        "Ticket",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "23038622",
+        "1494303988",
+        "1577169013",
+        "1964517503",
+        "1970705443",
+        "1977041795",
+        "2013409485",
+        "2044534358",
+        "2060440895",
+        "2087946700",
+        "2106887953",
+        "2107212030",
+        "2112564224",
+        "2117917070",
+        "2127872526",
+        "2130923111",
+        "2143339985",
+        "2144232511",
+        "2150013559",
+        "2153704625",
+        "2154474349",
+        "2624304035"
+    ]
+}

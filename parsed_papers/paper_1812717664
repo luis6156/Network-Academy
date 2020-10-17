@@ -1,0 +1,53 @@
+{
+    "id": "1812717664",
+    "title": "OpenMP runtime support for clusters of multiprocessors",
+    "venue": "international workshop on openmp",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Panagiotis E. Hadjidoukas",
+            "id": "2221444126",
+            "org": "High Performance Information Systems Laboratory, Department of Computer Engineering and Informatics, University of Patras, Patras, Greece#TAB#"
+        },
+        {
+            "name": "Eleftherios D. Polychronopoulos",
+            "id": "56925266",
+            "org": "High Performance Information Systems Laboratory, Department of Computer Engineering and Informatics, University of Patras, Patras, Greece#TAB#"
+        },
+        {
+            "name": "Theodore S. Papatheodorou",
+            "id": "615415263",
+            "org": "High Performance Information Systems Laboratory, Department of Computer Engineering and Informatics, University of Patras, Patras, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "SPMD",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Distributed shared memory",
+        "Runtime system",
+        "Programming paradigm",
+        "Fortran"
+    ],
+    "references": [
+        "154693229",
+        "168162077",
+        "1506064755",
+        "1510728658",
+        "1578711114",
+        "1583973024",
+        "1900747454",
+        "2072201530",
+        "2088915003",
+        "2108027150",
+        "2110965295",
+        "2128826630",
+        "2133766356",
+        "2159145958"
+    ]
+}

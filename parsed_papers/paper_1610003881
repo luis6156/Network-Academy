@@ -1,0 +1,79 @@
+{
+    "id": "1610003881",
+    "title": "A new dedicated 256-bit hash function: FORK-256",
+    "venue": "fast software encryption",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Deukjo Hong",
+            "id": "2226421921",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "Department of Mathematics, University of Seoul, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jaesang Lee",
+            "id": "2236100543",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dukjae Moon",
+            "id": "2590468623",
+            "org": "National Security Research Institute#TAB#"
+        },
+        {
+            "name": "Sungtaek Chee",
+            "id": "2557259371",
+            "org": "National Security Research Institute#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Secure Hash Standard",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1590269592",
+        "1600432225",
+        "1656731780",
+        "1851023053",
+        "2086659222",
+        "2090135172",
+        "2095675261",
+        "2098801947",
+        "2103239853",
+        "2104633167",
+        "2109721530",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2172433705",
+        "2611506938"
+    ]
+}

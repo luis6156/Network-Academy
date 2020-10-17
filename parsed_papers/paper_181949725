@@ -1,0 +1,73 @@
+{
+    "id": "181949725",
+    "title": "From oblivious AES to efficient and secure database join in the multiparty setting",
+    "venue": "applied cryptography and network security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Sven Laur",
+            "id": "2141383827",
+            "org": "Institute of Computer Science, University of Tartu, Tartu, Estonia,Software Technology and Applications Competence Center, Tartu, Estonia#TAB#"
+        },
+        {
+            "name": "Riivo Talviste",
+            "id": "2790277980",
+            "org": "Cybernetica, Tartu, Estonia,Institute of Computer Science, University of Tartu, Tartu, Estonia#TAB#"
+        },
+        {
+            "name": "Jan Willemson",
+            "id": "169085603",
+            "org": "Cybernetica, Tartu, Estonia,Software Technology and Applications Competence Center, Tartu, Estonia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Homomorphic encryption",
+        "Block cipher",
+        "Theoretical computer science",
+        "Row",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Computer security",
+        "Implementation",
+        "Database",
+        "AES implementations",
+        "Plaintext"
+    ],
+    "references": [
+        "17575016",
+        "25045116",
+        "28930810",
+        "150396298",
+        "171045015",
+        "1485800369",
+        "1489706603",
+        "1499906440",
+        "1499934958",
+        "1505629034",
+        "1518622464",
+        "1521253015",
+        "1566273181",
+        "1570043269",
+        "1577801461",
+        "1595357546",
+        "1703129327",
+        "1984680759",
+        "1997859100",
+        "2001084165",
+        "2017839015",
+        "2052207834",
+        "2112329914",
+        "2119948977",
+        "2130901615",
+        "2139979322",
+        "2143087446",
+        "2155783532",
+        "2165368874",
+        "2402235285",
+        "2408098244",
+        "2408640709",
+        "2572799557"
+    ]
+}

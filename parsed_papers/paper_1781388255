@@ -1,0 +1,83 @@
+{
+    "id": "1781388255",
+    "title": "FPGA Implementations of SPRING",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Hai Brenner",
+            "id": "2117769411",
+            "org": "Interdisciplinary Center, Herzliya, Israel#TAB#"
+        },
+        {
+            "name": "Lubos Gaspar",
+            "id": "2100959869",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Gaetan Leurent",
+            "id": "2149886747",
+            "org": "Inria, EPI SECRET, Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Alon Rosen",
+            "id": "2159238162",
+            "org": "Interdisciplinary Center, Herzliya, Israel#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite catholique de Louvain, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Megabit",
+        "Cycles per instruction",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Power analysis",
+        "Real-time computing",
+        "Shuffling"
+    ],
+    "references": [
+        "130128522",
+        "190530026",
+        "1525538795",
+        "1550579237",
+        "1553792294",
+        "1565369953",
+        "1575446397",
+        "1595155753",
+        "1744216657",
+        "1769884570",
+        "1884480624",
+        "1892788402",
+        "1915672942",
+        "1970848480",
+        "2040320008",
+        "2071825329",
+        "2072356129",
+        "2074698817",
+        "2096133993",
+        "2096218735",
+        "2098290658",
+        "2099724084",
+        "2123855359",
+        "2130574782",
+        "2131642892",
+        "2134553300",
+        "2140823840",
+        "2150892302",
+        "2161740631",
+        "2192045618",
+        "2206688872",
+        "2395297223",
+        "2398157180",
+        "2402158772"
+    ]
+}

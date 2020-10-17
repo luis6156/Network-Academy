@@ -1,0 +1,49 @@
+{
+    "id": "1655844021",
+    "title": "Tweakable Block Ciphers",
+    "venue": "international cryptology conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Moses Liskov",
+            "id": "2807452620",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Ronald L. Rivest",
+            "id": "695545146",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "OCB mode",
+        "Theoretical computer science",
+        "Ciphertext stealing",
+        "Block cipher mode of operation",
+        "Cipher",
+        "Computer science",
+        "Residual block termination",
+        "Initialization vector",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1485064528",
+        "1522297845",
+        "1535554763",
+        "1578627459",
+        "1660562555",
+        "1753861823",
+        "1801417685",
+        "1850505544",
+        "1991897749",
+        "2064939672",
+        "2145227448",
+        "2147436504"
+    ]
+}

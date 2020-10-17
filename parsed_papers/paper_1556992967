@@ -1,0 +1,48 @@
+{
+    "id": "1556992967",
+    "title": "Impossible fault analysis of RC4 and differential fault analysis of RC4",
+    "venue": "fast software encryption",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion - Israel Institute of Technology, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Louis Granboulan",
+            "id": "2279506413",
+            "org": "Ecole normale superieure, DI, Paris, France#TAB#"
+        },
+        {
+            "name": "Phong Q. Nguyen",
+            "id": "2426635924",
+            "org": "CNRS/Ecole normale superieure, DI, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "RC4",
+        "Differential fault analysis",
+        "Smart card"
+    ],
+    "references": [
+        "1500414598",
+        "1556597491",
+        "1563937974",
+        "1602293460",
+        "1724890242",
+        "2114197583",
+        "2123460950",
+        "2125815652",
+        "2144724363",
+        "2151074078",
+        "2155441237",
+        "2168767876",
+        "2170489924",
+        "2786219742"
+    ]
+}

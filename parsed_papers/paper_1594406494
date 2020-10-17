@@ -1,0 +1,56 @@
+{
+    "id": "1594406494",
+    "title": "Row-linear feedback shift register-column x-masking technique for simultaneous testing of many-core system chips",
+    "venue": "Iet Computers and Digital Techniques",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "W.-C. Wang",
+            "id": "2671586211",
+            "org": "Department of Electrical Engineering, National Taiwan University, Taipei, 10617, Taiwan"
+        },
+        {
+            "name": "Chih-Yao Hsu",
+            "id": "2668154606",
+            "org": "Department of Electrical Engineering, National Taiwan University, Taipei, 10617, Taiwan"
+        },
+        {
+            "name": "James Chien-Mo Li",
+            "id": "2245989128",
+            "org": "Department of Electrical Engineering, National Taiwan University, Taipei, 10617, Taiwan"
+        },
+        {
+            "name": "Y.-C. Sung",
+            "id": "2431490559",
+            "org": "SynTest Technologies, Inc., Science-Based Industrial Park, Hsinchu, Taiwan"
+        },
+        {
+            "name": "A. Rao",
+            "id": "2426103269",
+            "org": "SynTest Technologies, Inc., Science-Based Industrial Park, Hsinchu, Taiwan"
+        },
+        {
+            "name": "Liangjie Wang",
+            "id": "2303888739",
+            "org": "SynTest Technologies, Inc., Science-Based Industrial Park, Hsinchu, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Masking (art)",
+        "Electronic engineering",
+        "Parallel computing",
+        "Linear feedback shift register",
+        "Computer science",
+        "Shift register",
+        "RLC circuit",
+        "Fault coverage",
+        "Real-time computing"
+    ],
+    "references": [
+        "1601643892",
+        "2120483435",
+        "2135819406",
+        "2139009001",
+        "2167737281"
+    ]
+}

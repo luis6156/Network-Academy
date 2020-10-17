@@ -1,0 +1,57 @@
+{
+    "id": "1713730743",
+    "title": "Cryptanalysis of SPEED",
+    "venue": "financial cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Chris Hall",
+            "id": "2625580935",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "U.C. at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Cipher",
+        "Transposition cipher",
+        "Computer science",
+        "Boomerang attack",
+        "Distributed computing",
+        "Two-square cipher",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Related-key attack",
+        "Slide attack",
+        "Internet privacy"
+    ],
+    "references": [
+        "1500356409",
+        "1540834397",
+        "1544157371",
+        "1546907539",
+        "1591620981",
+        "1636750413",
+        "1978695162",
+        "1991897749",
+        "2000646727",
+        "2127067821",
+        "2131128671",
+        "2150340517"
+    ]
+}

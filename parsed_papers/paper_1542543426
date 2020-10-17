@@ -1,0 +1,53 @@
+{
+    "id": "1542543426",
+    "title": "Parallelizing Irregular Applications with the Vienna HPF+ Compiler VFC",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Siegfried Benker",
+            "id": "1996923792",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Kamran Sanjari",
+            "id": "2608530520",
+            "org": "Institute for Software Technology and Parallel Systems|University of Vienna"
+        },
+        {
+            "name": "Viera Sipkova",
+            "id": "2505716993",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Bob Velkov",
+            "id": "2720951766",
+            "org": "University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "High Performance Fortran",
+        "Message passing",
+        "Optimizing compiler",
+        "Preprocessor",
+        "Data structure",
+        "Program optimization",
+        "Fortran"
+    ],
+    "references": [
+        "1582450890",
+        "1976596991",
+        "1995867215",
+        "2001618530",
+        "2065623206",
+        "2096598152",
+        "2114922436",
+        "2146729303",
+        "2159624996",
+        "2170746310"
+    ]
+}

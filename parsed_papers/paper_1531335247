@@ -1,0 +1,72 @@
+{
+    "id": "1531335247",
+    "title": "VM-centric snapshot deduplication for cloud data backup",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Wei Zhang",
+            "id": "2438311662",
+            "org": "University of California at Santa Barbara"
+        },
+        {
+            "name": "Daniel Agun",
+            "id": "2224413333",
+            "org": "University of California at Santa Barbara"
+        },
+        {
+            "name": "Tao Yang",
+            "id": "2584189575",
+            "org": "University of California at Santa Barbara"
+        },
+        {
+            "name": "Rich Wolski",
+            "id": "2129484326",
+            "org": "University of California at Santa Barbara"
+        },
+        {
+            "name": "Hong Tang",
+            "id": "2309907046",
+            "org": "Alibaba Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Fault tolerance",
+        "Backup",
+        "Data deduplication",
+        "Server",
+        "Snapshot (computer storage)",
+        "Virtual machine",
+        "Real-time computing",
+        "Cloud computing",
+        "Architecture"
+    ],
+    "references": [
+        "5335935",
+        "69510097",
+        "174289249",
+        "178328500",
+        "182307532",
+        "1248878331",
+        "1437397736",
+        "1499057083",
+        "1542686980",
+        "1576397915",
+        "1609518033",
+        "1969067141",
+        "1969126835",
+        "1971212200",
+        "1998817683",
+        "2004958263",
+        "2047439460",
+        "2102294813",
+        "2112053513",
+        "2112671267",
+        "2119565742",
+        "2119738171",
+        "2126116376",
+        "2149993626",
+        "2152565070"
+    ]
+}

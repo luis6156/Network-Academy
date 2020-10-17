@@ -1,0 +1,57 @@
+{
+    "id": "1497401088",
+    "title": "On the parallelization of a cache-optimal iterative solver for PDEs based on hierarchical data structures and space-filling curves",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Frank Gunther",
+            "id": "2584020778",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Andreas Krahnke",
+            "id": "218352920",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Markus Langlotz",
+            "id": "2013050144",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Miriam Mehl",
+            "id": "1972860878",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Markus Pogl",
+            "id": "2228877374",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Christoph Zenger",
+            "id": "2054241634",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Automatic parallelization",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Memory architecture",
+        "Computer science",
+        "Distributed computing",
+        "Queue",
+        "Hierarchical database model",
+        "Data structure",
+        "Solver",
+        "Multigrid method"
+    ],
+    "references": [
+        "1986485161",
+        "2028763350",
+        "2401074413"
+    ]
+}

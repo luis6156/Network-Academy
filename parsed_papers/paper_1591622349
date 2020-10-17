@@ -1,0 +1,50 @@
+{
+    "id": "1591622349",
+    "title": "On the Factorization of RSA-120",
+    "venue": "international cryptology conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Thomas F. Denny",
+            "id": "2780240256",
+            "org": "Univ. des Saarlandes, Saarbru\"cken, Germany#TAB#"
+        },
+        {
+            "name": "Bruce Dodson",
+            "id": "2095898037",
+            "org": "Lehigh Univ., Bethlehem, PA#TAB#"
+        },
+        {
+            "name": "Arjen K. Lenstra",
+            "id": "2436602830",
+            "org": "Bellcore"
+        },
+        {
+            "name": "Mark S. Manasse",
+            "id": "2716939416",
+            "org": "DEC SRC, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dixon's factorization method",
+        "Mathematics",
+        "Discrete mathematics",
+        "Factor base",
+        "Congruence of squares",
+        "General number field sieve",
+        "Special number field sieve",
+        "Integer factorization",
+        "Quadratic sieve",
+        "Trial division"
+    ],
+    "references": [
+        "1480976258",
+        "1512680026",
+        "1542548901",
+        "1966677764",
+        "2053148809",
+        "2142778315",
+        "2175859306",
+        "2179913373"
+    ]
+}

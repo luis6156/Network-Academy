@@ -1,0 +1,68 @@
+{
+    "id": "1567848171",
+    "title": "MPI Correctness Checking with Marmot",
+    "venue": "Parallel Tools Workshop",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Bettina Krammer",
+            "id": "2658165172",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Tobias Hilbrich",
+            "id": "2074480507",
+            "org": "Center for Information Services and High Performance Computing (ZIH)"
+        },
+        {
+            "name": "Valentin Himmler",
+            "id": "2072905219",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Blasius Czink",
+            "id": "283453304",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Kiril Dichev",
+            "id": "2499258856",
+            "org": "Universitat Stuttgart"
+        },
+        {
+            "name": "Matthias S. Muller",
+            "id": "2780366283",
+            "org": "Center for Information Services and High Performance Computing (ZIH)"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer science",
+        "Message Passing Interface",
+        "Message passing",
+        "Architecture",
+        "Software portability",
+        "Correctness",
+        "Debugger",
+        "Debugging"
+    ],
+    "references": [
+        "145355838",
+        "185450128",
+        "1485024849",
+        "1510443042",
+        "1546922458",
+        "1549791546",
+        "1555873941",
+        "1883906974",
+        "2003215037",
+        "2117815739",
+        "2119982682",
+        "2161957670",
+        "2162989857",
+        "2303756261",
+        "2399202761",
+        "2611322616"
+    ]
+}

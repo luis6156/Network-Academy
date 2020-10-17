@@ -1,0 +1,40 @@
+{
+    "id": "1601140780",
+    "title": "Scheduling Algorithms for Advance Resource Reservation",
+    "venue": "HPN '98 Proceedings of the IFIP TC-6 Eigth International Conference on High Performance Networking",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Charlie Xu",
+            "id": "2647786117",
+            "org": "Department of Computer Science, University of Waterloo"
+        },
+        {
+            "name": "J. W. Wong",
+            "id": "2644626662",
+            "org": "Department of Computer Science, University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1591640299",
+        "1967140769",
+        "1968497507",
+        "2033217355",
+        "2034900007",
+        "2108528474",
+        "2118803908",
+        "2172222998"
+    ]
+}

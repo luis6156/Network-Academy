@@ -1,0 +1,51 @@
+{
+    "id": "1632691573",
+    "title": "A Tutorial Implementation of a Dependently Typed Lambda Calculus",
+    "venue": "Fundamenta Informaticae",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andres Loh",
+            "id": "2125306988",
+            "org": "(Correspd.) Utrecht University, The Netherlands. andres@cs.uu.nl#TAB#"
+        },
+        {
+            "name": "Conor McBride",
+            "id": "2097263646",
+            "org": "University of Strathclyde, U.K. conor.mcbride@cis.strath.ac.uk#TAB#"
+        },
+        {
+            "name": "Wouter Swierstra",
+            "id": "334995135",
+            "org": "Vector Fabrics, The Netherlands. wouter@vectorfabrics.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Church encoding",
+        "System F",
+        "Algorithm",
+        "Computer science",
+        "Fixed-point combinator",
+        "Simply typed lambda calculus",
+        "Deductive lambda calculus",
+        "Binary lambda calculus",
+        "Lambda cube",
+        "Typed lambda calculus",
+        "Programming language"
+    ],
+    "references": [
+        "1511916234",
+        "1520936552",
+        "1571937260",
+        "1578634556",
+        "1608714802",
+        "1759945398",
+        "1995675054",
+        "2025407135",
+        "2062887328",
+        "2071866471",
+        "2090046646",
+        "2117477507",
+        "2157073125"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1488984669",
+    "title": "Recursive Query Facilities in Relational Databases: A Survey",
+    "venue": "FGIT-DTA/BSBT",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Piotr Przymus",
+            "id": "2052757278",
+            "org": "Nicolaus Copernicus University"
+        },
+        {
+            "name": "Aleksandra Boniewicz",
+            "id": "176226495",
+            "org": "Nicolaus Copernicus University"
+        },
+        {
+            "name": "Marta Burzanska",
+            "id": "139280791",
+            "org": "Nicolaus Copernicus University"
+        },
+        {
+            "name": "Krzysztof Stencel",
+            "id": "674901608",
+            "org": "Nicolaus Copernicus University"
+        }
+    ],
+    "fields_of_study": [
+        "Codd's theorem",
+        "Data definition language",
+        "Recursive join",
+        "Conjunctive query",
+        "Data mining",
+        "Computer science",
+        "Query by Example",
+        "Spatial query",
+        "Database",
+        "Tuple relational calculus",
+        "Sargable"
+    ],
+    "references": [
+        "1570025952",
+        "1586874102",
+        "2123824212",
+        "2163820446",
+        "2294792814",
+        "2626304854"
+    ]
+}

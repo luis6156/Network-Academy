@@ -1,0 +1,59 @@
+{
+    "id": "1490137709",
+    "title": "Optimizing c multithreaded memory management using thread-local storage",
+    "venue": "compiler construction",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yair Sade",
+            "id": "2547797445",
+            "org": "Tel-Aviv University#TAB#"
+        },
+        {
+            "name": "Mooly Sagiv",
+            "id": "1345056057",
+            "org": "Tel-Aviv University#TAB#"
+        },
+        {
+            "name": "Ran Shaham",
+            "id": "705786232",
+            "org": "IBM Haifa Laboratories#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "C dynamic memory allocation",
+        "Parallel computing",
+        "Escape analysis",
+        "Computer science",
+        "Allocator",
+        "Memory management",
+        "Dynamic random-access memory",
+        "Thread-local storage",
+        "Program optimization"
+    ],
+    "references": [
+        "1512628221",
+        "1560028438",
+        "1734116059",
+        "1969610731",
+        "1989300723",
+        "1991789469",
+        "1997474908",
+        "1999637392",
+        "2014530617",
+        "2036719919",
+        "2038897371",
+        "2069476565",
+        "2087612811",
+        "2091141964",
+        "2094755621",
+        "2095115578",
+        "2122845760",
+        "2127163775",
+        "2128274900",
+        "2131135493",
+        "2147104457",
+        "2158738500"
+    ]
+}

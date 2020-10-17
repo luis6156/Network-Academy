@@ -1,0 +1,49 @@
+{
+    "id": "1568218683",
+    "title": "An FPGA-based re-configurable 24-bit 96kHz sigma-delta audio DAC",
+    "venue": "field-programmable technology",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ray C. C. Cheung",
+            "id": "2158770758",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, China"
+        },
+        {
+            "name": "Kong-Pang Pun",
+            "id": "2120936703",
+            "org": "Department of Electronic Engineering|Chinese University of Hong Kong"
+        },
+        {
+            "name": "Steve C. L. Yuen",
+            "id": "2593217272",
+            "org": "Department of Computer Science & Engineering"
+        },
+        {
+            "name": "Kuen Hung Tsoi",
+            "id": "2034044398",
+            "org": "Department of Computer Science & Engineering"
+        },
+        {
+            "name": "Philip Heng Wai Leong",
+            "id": "2149635049",
+            "org": "Department of Computer Science & Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "24-bit",
+        "Field-programmable gate array",
+        "Computer hardware",
+        "Pulse-code modulation",
+        "Modulation",
+        "Computer science",
+        "Audio bit depth",
+        "Delta-sigma modulation",
+        "Digital-to-analog converter",
+        "Digital audio"
+    ],
+    "references": [
+        "1569009864",
+        "1805374096"
+    ]
+}

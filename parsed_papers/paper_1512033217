@@ -1,0 +1,58 @@
+{
+    "id": "1512033217",
+    "title": "Architecture and Performance of the BlueGene/L Message Layer",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "George S. Almasi",
+            "id": "593384113",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Charles J. Archer",
+            "id": "2620519798",
+            "org": "IBM Systems Group"
+        },
+        {
+            "name": "John A. Gunnels",
+            "id": "2402633652",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Philip Heidelberger",
+            "id": "2244447445",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Xavier Martorell",
+            "id": "2155127561",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Jose E. Moreira",
+            "id": "2194395691",
+            "org": "IBM Thomas J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Tree network",
+        "Parallel computing",
+        "Supercomputer",
+        "Computer science",
+        "Distributed computing",
+        "Cache coherence",
+        "Message passing",
+        "Grid network",
+        "Programming paradigm",
+        "Virtual machine",
+        "Architecture"
+    ],
+    "references": [
+        "10909701",
+        "1501525194",
+        "1971952282",
+        "2035443650",
+        "2068975988"
+    ]
+}

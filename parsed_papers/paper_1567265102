@@ -1,0 +1,41 @@
+{
+    "id": "1567265102",
+    "title": "Analytical modeling of fast retransmission and recovery in TCP-RENO",
+    "venue": "international conference on networks",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tsang-Ling Sheu",
+            "id": "2188121401",
+            "org": "Dept. of Electr. Eng., Nat. Sun Yat-Sen Univ., Kaohsiung, Taiwan"
+        },
+        {
+            "name": "Lien-Wen Wu",
+            "id": "2120972512",
+            "org": "Dept. of Electr. Eng., Nat. Sun Yat-Sen Univ., Kaohsiung, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Round-trip delay time",
+        "TCP congestion-avoidance algorithm",
+        "Retransmission",
+        "Computer science",
+        "Network packet",
+        "Real-time computing",
+        "Computer network",
+        "Internet protocol suite",
+        "Congestion window",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1655636840",
+        "1843231116",
+        "1977765937",
+        "2109223950",
+        "2133147365",
+        "2138677762",
+        "2140490525",
+        "2141405301",
+        "2165105326"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "1606001165",
+    "title": "A job self-scheduling policy for HPC infrastructures",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Francesc Guim",
+            "id": "1377401317",
+            "org": "Barcelona Supercomputing Center#TAB#"
+        },
+        {
+            "name": "Julita Corbalan",
+            "id": "2167232472",
+            "org": "Barcelona Supercomputing Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Flow shop scheduling",
+        "Real-time computing",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Least slack time scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1480072261",
+        "1487076132",
+        "1491450935",
+        "1493147916",
+        "1497081396",
+        "1500581971",
+        "1517890825",
+        "1521086594",
+        "1571646234",
+        "1573602196",
+        "1575773008",
+        "1581615656",
+        "1585314083",
+        "1586654869",
+        "1596277129",
+        "1603445711",
+        "1603527427",
+        "1603868614",
+        "1679159992",
+        "1820389309",
+        "1974910153",
+        "1988027958",
+        "1995070612",
+        "2054341973",
+        "2101204871",
+        "2104184381",
+        "2104741073",
+        "2111996486",
+        "2114888252",
+        "2139712148",
+        "2153609988",
+        "2154010459",
+        "2160544331",
+        "2168011193"
+    ]
+}

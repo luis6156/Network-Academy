@@ -1,0 +1,45 @@
+{
+    "id": "1560093457",
+    "title": "Differential Power Analysis in the Presence of Hardware Countermeasures",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Christophe Clavier",
+            "id": "2516421471",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Nora Dabbous",
+            "id": "2666062546",
+            "org": "Gemplus Card International"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Side channel attack",
+        "Countermeasure",
+        "Computer science",
+        "Computer security",
+        "Workload",
+        "Data acquisition",
+        "Power analysis",
+        "Exploit",
+        "Robust random early detection"
+    ],
+    "references": [
+        "1506530330",
+        "1548656471",
+        "1565369953",
+        "1613874182",
+        "1664808737",
+        "1897761346",
+        "2154909745",
+        "2612208439"
+    ]
+}

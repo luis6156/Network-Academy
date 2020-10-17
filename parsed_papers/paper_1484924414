@@ -1,0 +1,51 @@
+{
+    "id": "1484924414",
+    "title": "Providing QoS Guarantees in a NoC by Virtual Channel Reservation",
+    "venue": "applied reconfigurable computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Nikolay Kavaldjiev",
+            "id": "2776030857",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Gerard Smit",
+            "id": "2139010492",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Pascal T. Wolkotte",
+            "id": "1427775021",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Pierre G. Jansen",
+            "id": "2150546098",
+            "org": "University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Virtual network",
+        "Throughput",
+        "Channel allocation schemes",
+        "Computer science",
+        "Communication channel",
+        "Quality of service",
+        "Network on a chip",
+        "Network architecture",
+        "Computer network"
+    ],
+    "references": [
+        "119289332",
+        "1541459986",
+        "1565186333",
+        "2104674486",
+        "2108727674",
+        "2117648684",
+        "2123184444",
+        "2125028861",
+        "2162660599"
+    ]
+}

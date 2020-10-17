@@ -1,0 +1,60 @@
+{
+    "id": "1558703166",
+    "title": "Loop coarsening in C-based High-Level Synthesis",
+    "venue": "application-specific systems, architectures, and processors",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Moritz Schmid",
+            "id": "2122866323",
+            "org": "Hardware/Software Co-Design, Department of Computer Science, Friedrich-Alexander University Erlangen-Nurnberg (FAU), Germany"
+        },
+        {
+            "name": "Oliver Reiche",
+            "id": "1984180568",
+            "org": "Hardware/Software Co-Design, Department of Computer Science, Friedrich-Alexander University Erlangen-Nurnberg (FAU), Germany"
+        },
+        {
+            "name": "Frank Hannig",
+            "id": "2894537878",
+            "org": "Hardware/Software Co-Design, Department of Computer Science, Friedrich-Alexander University Erlangen-Nurnberg (FAU), Germany"
+        },
+        {
+            "name": "Jurgen Teich",
+            "id": "2017911276",
+            "org": "Hardware/Software Co-Design, Department of Computer Science, Friedrich-Alexander University Erlangen-Nurnberg (FAU), Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Field-programmable gate array",
+        "High-level synthesis",
+        "Parallel computing",
+        "VHDL",
+        "Computer architecture",
+        "Computer science",
+        "Glue logic",
+        "Image processing",
+        "Code generation",
+        "Real-time computing",
+        "Loop tiling"
+    ],
+    "references": [
+        "1530279678",
+        "1820963749",
+        "1967524458",
+        "1980208272",
+        "1999819296",
+        "2018055497",
+        "2063249715",
+        "2067618990",
+        "2075160498",
+        "2103431534",
+        "2127699991",
+        "2128497335",
+        "2129994452",
+        "2150871235",
+        "2157758640",
+        "2171429297"
+    ]
+}

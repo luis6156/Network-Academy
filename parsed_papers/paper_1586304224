@@ -1,0 +1,42 @@
+{
+    "id": "1586304224",
+    "title": "A Membership Agreement Algorithm Detecting and Tolerating Asymmetric Timing Faults",
+    "venue": "Working Conference on Distributed and Parallel Embedded Systems (DIPES 2004) held at the 18th World Computer Congress, Toulouse, FRANCE. AUG 22-27, 2004",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hakan Sivencrona",
+            "id": "1525087410",
+            "org": "SP Swedish National Testing and Research Institute"
+        },
+        {
+            "name": "Mattias Persson",
+            "id": "2126390026",
+            "org": "Chalmers University of Technology"
+        },
+        {
+            "name": "Jan Torin",
+            "id": "2212724726",
+            "org": "Chalmers University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Fault detection and isolation",
+        "Flagging",
+        "FLAGS register",
+        "Real-time computing",
+        "Fault injection"
+    ],
+    "references": [
+        "1482321356",
+        "1551448594",
+        "2024481357",
+        "2120510885",
+        "2130564965",
+        "2154561484",
+        "2171514411"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "1797940162",
+    "title": "Flow-Insensitive Interprocedural Alias Analysis in the Presence of Pointers",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michael G. Burke",
+            "id": "2547328848",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Paul R. Carini",
+            "id": "260795542",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Jong-Deok Choi",
+            "id": "2119173613",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Michael Hind",
+            "id": "1968016868",
+            "org": "State University of New York at New Paltz"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Control flow",
+        "Theoretical computer science",
+        "Pointer (computer programming)",
+        "Computer science",
+        "Alias analysis",
+        "Function pointer",
+        "Data-flow analysis",
+        "Call site"
+    ],
+    "references": [
+        "1567694639",
+        "1966449927",
+        "1966831167",
+        "1970061809",
+        "1980468060",
+        "1984914680",
+        "1985614269",
+        "2002771912",
+        "2004971560",
+        "2006239873",
+        "2021986357",
+        "2025168586",
+        "2031364891",
+        "2047615655",
+        "2047896115",
+        "2048683749",
+        "2057085278",
+        "2073971651",
+        "2086457189",
+        "2089074917",
+        "2092483417",
+        "2102430469",
+        "2102440514",
+        "2103326816",
+        "2103795388",
+        "2110920860",
+        "2116098983",
+        "2151328120",
+        "2151360539",
+        "2161044171"
+    ]
+}

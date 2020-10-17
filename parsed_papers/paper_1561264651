@@ -1,0 +1,41 @@
+{
+    "id": "1561264651",
+    "title": "Extended Hidden Vector State Parser",
+    "venue": "text speech and dialogue",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jan Svec",
+            "id": "2116440222",
+            "org": "Center of Applied Cybernetics, Department of Cybernetics, Faculty of Applied Sciences, University of West Bohemia, Pilsen, Czech Republic 306 14#TAB#"
+        },
+        {
+            "name": "Filip Jurcicek",
+            "id": "110357301",
+            "org": "Engineering Department, Cambridge University, Cambridge, United Kingdom CB21PZ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GLR parser",
+        "Artificial intelligence",
+        "Simple LR parser",
+        "LL parser",
+        "Parser combinator",
+        "Computer science",
+        "Pattern recognition",
+        "Recursive descent parser",
+        "LALR parser",
+        "Top-down parsing",
+        "Canonical LR parser",
+        "Speech recognition",
+        "Natural language processing"
+    ],
+    "references": [
+        "1501061091",
+        "1584475878",
+        "1605903931",
+        "1990549830",
+        "2046406771",
+        "2122678358"
+    ]
+}

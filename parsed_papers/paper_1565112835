@@ -1,0 +1,49 @@
+{
+    "id": "1565112835",
+    "title": "New attacks on PKCS#1 v1.5 encryption",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2130492708",
+            "org": "Ecole Normale Superieure, Paris, France and Gemplus Card International, Issy-les-Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International, Parc d'Activites de Geemenos, Gemenos, France#TAB#"
+        },
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Gemplus Card International, Issy-les-Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Gemplus Card International, Issy-les-Moulineaux, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Optimal asymmetric encryption padding",
+        "Adaptive chosen-ciphertext attack",
+        "Watermarking attack",
+        "Theoretical computer science",
+        "Computer science",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Chosen-ciphertext attack",
+        "PKCS #1"
+    ],
+    "references": [
+        "1510116442",
+        "1552695147",
+        "1749471906",
+        "1809974132",
+        "1996360405",
+        "2101040389",
+        "2168581558"
+    ]
+}

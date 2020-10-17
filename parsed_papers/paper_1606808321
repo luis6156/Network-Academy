@@ -1,0 +1,63 @@
+{
+    "id": "1606808321",
+    "title": "A practical comparison of cluster operating systems implementing sequential and transactional consistency",
+    "venue": "international conference on algorithms and architectures for parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stefan Frenz",
+            "id": "364718577",
+            "org": "Ulm University, Ulm, Germany#TAB#"
+        },
+        {
+            "name": "Renaud Lottiaux",
+            "id": "76159278",
+            "org": "IRISA/INRIA, Rennes, France#TAB#"
+        },
+        {
+            "name": "Michael Schoettner",
+            "id": "1970127091",
+            "org": "Ulm University, Ulm, Germany#TAB#"
+        },
+        {
+            "name": "Christine Morin",
+            "id": "2098877419",
+            "org": "IRISA/INRIA, Rennes, France#TAB#"
+        },
+        {
+            "name": "Ralph Goeckelmann",
+            "id": "2060516280",
+            "org": "Ulm University, Ulm, Germany#TAB#"
+        },
+        {
+            "name": "Peter Schulthess",
+            "id": "1963691583",
+            "org": "Ulm University, Ulm, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Sequential consistency",
+        "Kerrighed",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Cache coherence",
+        "Weak consistency",
+        "Distributed shared memory",
+        "Strong consistency",
+        "Operating system",
+        "Consistency model"
+    ],
+    "references": [
+        "1513913200",
+        "1516599207",
+        "1542985837",
+        "1573838811",
+        "2012426216",
+        "2046793036",
+        "2116647349",
+        "2169000705",
+        "2169031179"
+    ]
+}

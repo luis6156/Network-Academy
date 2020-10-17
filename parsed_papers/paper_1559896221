@@ -1,0 +1,40 @@
+{
+    "id": "1559896221",
+    "title": "Quasi serializability: a correctness criterion for global concurrency control in InterBase",
+    "venue": "very large data bases",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Weimin Du",
+            "id": "2114647707",
+            "org": "Computer Sciences Department|Purdue University"
+        },
+        {
+            "name": "Ahmed K. Elmagarmid",
+            "id": "2057816297",
+            "org": "Computer Sciences Department|Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Commitment ordering",
+        "Schedule (computer science)",
+        "Computer science",
+        "Snapshot isolation",
+        "Global concurrency control",
+        "Serializability",
+        "Database",
+        "Global serializability",
+        "Distributed concurrency control",
+        "Two-phase locking"
+    ],
+    "references": [
+        "176809997",
+        "1527756448",
+        "1545155892",
+        "2031374177",
+        "2044091679",
+        "2083822024",
+        "2105700867",
+        "2148230860"
+    ]
+}

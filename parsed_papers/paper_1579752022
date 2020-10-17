@@ -1,0 +1,35 @@
+{
+    "id": "1579752022",
+    "title": "One pass cross word decoding for large vocabularies based on a lexical tree search organization",
+    "venue": "conference of the international speech communication association",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Xavier L. Aubert",
+            "id": "2396901452",
+            "org": "Philips"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Bigram",
+        "Trigram",
+        "Language model",
+        "Vocabulary",
+        "Tree structure",
+        "Decoding methods",
+        "Pattern recognition",
+        "Computer science",
+        "Lexicon",
+        "Speech recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1501633760",
+        "1878610756",
+        "1884028435",
+        "2081323593",
+        "2158905201",
+        "2164579587"
+    ]
+}

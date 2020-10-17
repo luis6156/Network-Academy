@@ -1,0 +1,65 @@
+{
+    "id": "1490535594",
+    "title": "DriverGuard: a fine-grained protection on I/O flows",
+    "venue": "european symposium on research in computer security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Yueqiang Cheng",
+            "id": "2096108847",
+            "org": "School of Information Systems, Singapore Management University#TAB#"
+        },
+        {
+            "name": "Xuhua Ding",
+            "id": "2104251699",
+            "org": "School of Information Systems, Singapore Management University#TAB#"
+        },
+        {
+            "name": "Robert H. Deng",
+            "id": "2062283694",
+            "org": "School of Information Systems, Singapore Management University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Hypervisor",
+        "Virtualization",
+        "Input/output",
+        "Input device",
+        "Protection mechanism",
+        "Computer science",
+        "Computer security",
+        "Real-time computing",
+        "User space",
+        "Page fault"
+    ],
+    "references": [
+        "88813478",
+        "107025004",
+        "1858426298",
+        "1968274906",
+        "1996931407",
+        "2029224396",
+        "2098656140",
+        "2099382052",
+        "2106869436",
+        "2110756602",
+        "2115175416",
+        "2118201637",
+        "2120715680",
+        "2127784167",
+        "2128159601",
+        "2132324287",
+        "2133592286",
+        "2143999355",
+        "2144006591",
+        "2146878883",
+        "2150709728",
+        "2152132676",
+        "2153950928",
+        "2162800072",
+        "2166004296",
+        "2167804035",
+        "2170510882"
+    ]
+}

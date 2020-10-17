@@ -1,0 +1,44 @@
+{
+    "id": "1564094940",
+    "title": "Query recommendation using query logs in search engines",
+    "venue": "extending database technology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ricardo A. Baeza-Yates",
+            "id": "528588921",
+            "org": "Center for Web Research, Department of Computer Science, Universidad de Chile#TAB#"
+        },
+        {
+            "name": "Carlos A. Hurtado",
+            "id": "2307795220",
+            "org": "Center for Web Research, Department of Computer Science, Universidad de Chile#TAB#"
+        },
+        {
+            "name": "Marcelo Mendoza",
+            "id": "2133008522",
+            "org": "Department of Computer Science, Universidad de Valparaiso#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Query expansion",
+        "Web query classification",
+        "Data mining",
+        "Search engine",
+        "Computer science",
+        "Database",
+        "Ranking (information retrieval)",
+        "Queries per second",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1554796723",
+        "1660390307",
+        "1972645849",
+        "1973867972",
+        "2002306339",
+        "2073853190"
+    ]
+}

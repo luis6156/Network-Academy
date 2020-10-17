@@ -1,0 +1,45 @@
+{
+    "id": "149255625",
+    "title": "Global Internet Routing Forensics: Validation of BGP Paths Using ICMP Traceback.",
+    "venue": "IFIP Int. Conf. Digital Forensics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eunjong Kim",
+            "id": "2101996084",
+            "org": "Department of Computer Science|Colorado State University"
+        },
+        {
+            "name": "Daniel Massey",
+            "id": "2298245802",
+            "org": "Department of Computer Science|Colorado State University"
+        },
+        {
+            "name": "Indrajit Ray",
+            "id": "2004869545",
+            "org": "Department of Computer Science|Colorado State University"
+        }
+    ],
+    "fields_of_study": [
+        "Autonomous system (Internet)",
+        "Border Gateway Protocol",
+        "Interior Gateway Routing Protocol",
+        "Computer science",
+        "Default-free zone",
+        "Internet Control Message Protocol",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "IP forwarding",
+        "Equal-cost multi-path routing"
+    ],
+    "references": [
+        "1498306861",
+        "1660551007",
+        "1967656199",
+        "2003590000",
+        "2103281561",
+        "2149482504",
+        "2162260997",
+        "2169239524"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": "1664413462",
+    "title": "Raccoon: closing digital side-channels through obfuscated execution",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ashay Rane",
+            "id": "2126896440",
+            "org": "Department of Computer Science, The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Calvin Lin",
+            "id": "2188667897",
+            "org": "Department of Computer Science, The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Mohit Tiwari",
+            "id": "2098720564",
+            "org": "Dept. of Electrical and Computer Engineering, The University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Obfuscation",
+        "Source code",
+        "Computer science",
+        "Compiler",
+        "Distributed computing",
+        "Memory address",
+        "Computer security",
+        "Branch predictor",
+        "Communication channel",
+        "Correctness",
+        "Real-time computing"
+    ],
+    "references": [
+        "1488058190",
+        "1511843316",
+        "1545698365",
+        "1584476834",
+        "1584975026",
+        "1587481360",
+        "1664808737",
+        "1992291252",
+        "2024540116",
+        "2034195502",
+        "2036329595",
+        "2053032872",
+        "2056778557",
+        "2067392744",
+        "2073524356",
+        "2097778649",
+        "2099137371",
+        "2104413677",
+        "2106728965",
+        "2107691219",
+        "2108255910",
+        "2111160280",
+        "2112735498",
+        "2119028650",
+        "2122049982",
+        "2142799720",
+        "2143020967",
+        "2144219822",
+        "2144952508",
+        "2147758029",
+        "2154909745",
+        "2162034976",
+        "2166293920",
+        "2168163009",
+        "2169461225",
+        "2170993700",
+        "2171690178",
+        "2187405838",
+        "2240862428",
+        "2530218835"
+    ]
+}

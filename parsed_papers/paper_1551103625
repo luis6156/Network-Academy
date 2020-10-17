@@ -1,0 +1,50 @@
+{
+    "id": "1551103625",
+    "title": "Lazy asynchronous I/O for event-driven servers",
+    "venue": "usenix annual technical conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Khaled Elmeleegy",
+            "id": "2159963788",
+            "org": "Department of Computer Science, Rice University, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Anupam Chanda",
+            "id": "2097996354",
+            "org": "Department of Computer Science, Rice University, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Alan L. Cox",
+            "id": "2139024270",
+            "org": "Department of Computer Science, Rice University, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Willy Zwaenepoel",
+            "id": "2290999210",
+            "org": "School of Computer and Communication Sciences, EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Server",
+        "Continuation",
+        "Web server",
+        "Scheduler activations",
+        "Asynchronous I/O",
+        "Real-time computing"
+    ],
+    "references": [
+        "1485164776",
+        "1532659787",
+        "1556689684",
+        "1966938284",
+        "2126022651",
+        "2148620466",
+        "2167756215"
+    ]
+}

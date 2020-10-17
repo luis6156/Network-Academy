@@ -1,0 +1,50 @@
+{
+    "id": "1595305191",
+    "title": "Formal Analysis of the Bakery Protocol with Consideration of Nonatomic Reads and Writes",
+    "venue": "formal methods",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kazuhiro Ogata",
+            "id": "2159806495",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology (JAIST),#TAB#"
+        },
+        {
+            "name": "Kokichi Futatsugi",
+            "id": "675972888",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology (JAIST),#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Satisfiability",
+        "Computer science",
+        "Distributed computing",
+        "Algebraic specification",
+        "Mutual exclusion",
+        "Data type",
+        "Finite-state machine"
+    ],
+    "references": [
+        "657159919",
+        "1498922229",
+        "1504007491",
+        "1512556106",
+        "1593032089",
+        "1596722521",
+        "1608072156",
+        "2001487918",
+        "2001738739",
+        "2036267700",
+        "2040068897",
+        "2059072516",
+        "2069278684",
+        "2070908350",
+        "2105673930",
+        "2132334337",
+        "2132503848",
+        "2133055134",
+        "2170523074",
+        "2518617841"
+    ]
+}

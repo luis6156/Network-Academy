@@ -1,0 +1,45 @@
+{
+    "id": "1540042460",
+    "title": "Data replication techniques for data-intensive applications",
+    "venue": "international conference on computational science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jaechun No",
+            "id": "2107164162",
+            "org": "Dept. of Computer Software, College of Electronics and Information Engineering, Sejong University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Chang Won Park",
+            "id": "2656506252",
+            "org": "Intelligent IT System Research Center, Korea Electronics Technology Institute, Seongnam-si, Korea#TAB#"
+        },
+        {
+            "name": "Sung Soon Park",
+            "id": "2691731730",
+            "org": "Dept. of Computer Science & Engineering, College of Science and Engineering, Anyang University, Anyang, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "Parallel computing",
+        "Replica",
+        "Replication (computing)",
+        "Data access",
+        "Multi-master replication",
+        "Distributed computing",
+        "Computer science",
+        "File system",
+        "Computer cluster"
+    ],
+    "references": [
+        "1489817976",
+        "1498088313",
+        "1603868614",
+        "1968526517",
+        "1984163103",
+        "1992178984",
+        "2127556182",
+        "2147753581"
+    ]
+}

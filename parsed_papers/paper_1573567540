@@ -1,0 +1,48 @@
+{
+    "id": "1573567540",
+    "title": "Cryptanalysis of the F-FCSR stream cipher family",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eliane Jaulmes",
+            "id": "2757469627",
+            "org": "DCSSI Crypto Lab, Paris-07 SP#TAB#"
+        },
+        {
+            "name": "Frederic Muller",
+            "id": "2755002431",
+            "org": "DCSSI Crypto Lab, Paris-07 SP#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Initialization vector",
+        "Stream cipher",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Real-time computing",
+        "Chosen-ciphertext attack",
+        "Correlation attack"
+    ],
+    "references": [
+        "1699105",
+        "1528967698",
+        "1554090281",
+        "1571721593",
+        "1584542188",
+        "1777865687",
+        "1979198062",
+        "2119509952",
+        "2130943734",
+        "2132247054",
+        "2144045509",
+        "2146561088",
+        "2151074078",
+        "2154271831",
+        "2526305112"
+    ]
+}

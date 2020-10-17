@@ -1,0 +1,52 @@
+{
+    "id": "1508054961",
+    "title": "Sequence Labeling with Reinforcement Learning and Ranking Algorithms",
+    "venue": "european conference on machine learning",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Francis Maes",
+            "id": "2107817447",
+            "org": "LIP6 - University of Paris 6,#TAB#"
+        },
+        {
+            "name": "Ludovic Denoyer",
+            "id": "2080627981",
+            "org": "LIP6 - University of Paris 6,#TAB#"
+        },
+        {
+            "name": "Patrick Gallinari",
+            "id": "2235456028",
+            "org": "LIP6 - University of Paris 6,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Markov decision process",
+        "Partially observable Markov decision process",
+        "Maximum-entropy Markov model",
+        "Pattern recognition",
+        "Computer science",
+        "Markov model",
+        "Conditional random field",
+        "Reinforcement learning",
+        "Learning to rank",
+        "Sequence labeling",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1529355025",
+        "1556902107",
+        "1572572873",
+        "1623072288",
+        "1934019294",
+        "2002806284",
+        "2010624529",
+        "2121863487",
+        "2124175081",
+        "2139686264",
+        "2147880316",
+        "2158349948",
+        "2429914308"
+    ]
+}

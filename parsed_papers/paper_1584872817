@@ -1,0 +1,57 @@
+{
+    "id": "1584872817",
+    "title": "Improving resiliency using capacity-aware multicast tree in p2p-based streaming environments",
+    "venue": "high performance computing and communications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Eunseok Kim",
+            "id": "2581005697",
+            "org": "Department of Computer Science and Interdisciplinary Program of Integrated Biotechnology, Sogang University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jiyong Jang",
+            "id": "2663362563",
+            "org": "Department of Computer Science and Interdisciplinary Program of Integrated Biotechnology, Sogang University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sungyoung Park",
+            "id": "2729190189",
+            "org": "Department of Computer Science and Interdisciplinary Program of Integrated Biotechnology, Sogang University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Alan Sussman",
+            "id": "2101047073",
+            "org": "UMIACS and Department of Computer Science, University of Maryland#TAB#"
+        },
+        {
+            "name": "Jae Soo Yoo",
+            "id": "2794599084",
+            "org": "School of Electrical and Computer Engineering, Chungbuk National University, Cheongju Chungbuk, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Live streaming",
+        "Peer-to-peer",
+        "Selection algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Bandwidth (signal processing)",
+        "End-to-end delay",
+        "Computer network",
+        "Pastry",
+        "Multicast",
+        "Packet loss"
+    ],
+    "references": [
+        "1568849300",
+        "2106020190",
+        "2108104365",
+        "2118428193",
+        "2127494222",
+        "2135980240",
+        "2163059190",
+        "2167898414",
+        "2169047226"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "1513538494",
+    "title": "Differential evolution for strongly noisy optimization: Use 1:01 n resamplings at iteration n and Reach the -1/2 slope",
+    "venue": "congress on evolutionary computation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Shih-Yuan Chiu",
+            "id": "2128294690",
+            "org": "CSIE, in National Dong-Hwa University, Hualien, Taiwan"
+        },
+        {
+            "name": "Ching-Nung Lin",
+            "id": "2151623578",
+            "org": "CSIE, in National Dong-Hwa University, Hualien, Taiwan"
+        },
+        {
+            "name": "Jialin Liu",
+            "id": "2144536694",
+            "org": "TAO, Inria, Univ. Paris-Sud, UMR CNRS 8623, France"
+        },
+        {
+            "name": "Tsang-Cheng Su",
+            "id": "2601991055",
+            "org": "CSIE, in National Dong-Hwa University, Hualien, Taiwan"
+        },
+        {
+            "name": "Fabien Teytaud",
+            "id": "282657274",
+            "org": "Univ. Lille Nord de France, France"
+        },
+        {
+            "name": "Olivier Teytaud",
+            "id": "154712921",
+            "org": "TAO, Inria, Univ. Paris-Sud, UMR CNRS 8623, France"
+        },
+        {
+            "name": "Shi-Jim Yen",
+            "id": "2156136426",
+            "org": "CSIE, in National Dong-Hwa University, Hualien, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Heuristics",
+        "Algorithm design",
+        "Noise measurement",
+        "Standard deviation",
+        "Differential evolution",
+        "Statistics",
+        "Resampling",
+        "Mathematical optimization",
+        "Meta-optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "183745776",
+        "260033399",
+        "1411578850",
+        "1492528531",
+        "1508077025",
+        "1595159159",
+        "1605438009",
+        "1792878200",
+        "1939092911",
+        "1978649107",
+        "1988465479",
+        "2059654640",
+        "2075208118",
+        "2078617346",
+        "2084572100",
+        "2097452095",
+        "2104578628",
+        "2110041316",
+        "2110596580",
+        "2121863487",
+        "2124943577",
+        "2148600622",
+        "2150076307",
+        "2156194072",
+        "2162145193"
+    ]
+}

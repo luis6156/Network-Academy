@@ -1,0 +1,35 @@
+{
+    "id": "1591738014",
+    "title": "Performance Analysis of TCP's Flow Control Mechanisms using Queueing SDL",
+    "venue": "SDL '97: Time for Testing#R##N#SDL, MSC and Trends",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jorg Hintelmann",
+            "id": "2649646900",
+            "org": "University of Essen, Dept. of Mathematics & Computer Science, D 45 117 Essen"
+        },
+        {
+            "name": "Reinhard Westerfeld",
+            "id": "2402587354",
+            "org": "University of Essen, Dept. of Mathematics & Computer Science, D 45 117 Essen"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Zeta-TCP",
+        "Retransmission",
+        "Computer science",
+        "Communications protocol",
+        "TCP tuning",
+        "Reference implementation",
+        "Network packet",
+        "Flow control (data)",
+        "Real-time computing"
+    ],
+    "references": [
+        "1889614459",
+        "2021512083",
+        "2145112413"
+    ]
+}

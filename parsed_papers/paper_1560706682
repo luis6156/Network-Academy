@@ -1,0 +1,66 @@
+{
+    "id": "1560706682",
+    "title": "GEM: A Generic Chosen-Ciphertext Secure Encryption Method",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "Gemplus Card International, Issy-les-Moulineaux, France"
+        },
+        {
+            "name": "Helena Handschuh",
+            "id": "1756865753",
+            "org": "Gemplus Card International, Issy-les-Moulineaux, France"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International, Gemenos Cedex, France"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Gemplus Card International, Issy-les-Moulineaux, France"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "Computer Science Department, Ecole Normale Superieure, Paris Cedex 05, France"
+        },
+        {
+            "name": "Christophe Tymen",
+            "id": "71261984",
+            "org": "Gemplus Card International, Issy-les-Moulineaux, France"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Distributed computing",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "ElGamal encryption",
+        "Ciphertext",
+        "Random oracle",
+        "Hybrid cryptosystem"
+    ],
+    "references": [
+        "1516512945",
+        "1552695147",
+        "1561907855",
+        "1569885018",
+        "1575126375",
+        "1580920982",
+        "1589176872",
+        "1594742286",
+        "1603232528",
+        "1607264302",
+        "2052267638",
+        "2073210531",
+        "2161195863"
+    ]
+}

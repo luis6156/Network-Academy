@@ -1,0 +1,40 @@
+{
+    "id": "1607140588",
+    "title": "Efficient Execution of Aggregation Queries over Encrypted Relational Databases",
+    "venue": "database systems for advanced applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hakan Hacigumus",
+            "id": "2182302550",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Balakrishna R. Iyer",
+            "id": "2309647949",
+            "org": "IBM Silicon Valley Lab."
+        },
+        {
+            "name": "Sharad Mehrotra",
+            "id": "2201039448",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Server-side",
+        "Cryptography",
+        "Theoretical computer science",
+        "Information privacy",
+        "Computer science",
+        "Data mining",
+        "Encryption",
+        "Disjunctive normal form",
+        "Database"
+    ],
+    "references": [
+        "1994233710",
+        "2043508455",
+        "2171027248"
+    ]
+}

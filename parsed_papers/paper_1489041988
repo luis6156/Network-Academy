@@ -1,0 +1,55 @@
+{
+    "id": "1489041988",
+    "title": "Using hash functions as a hedge against chosen ciphertext attack",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Victor Shoup",
+            "id": "2294259183",
+            "org": "IBM Zurich Research Lab, Ruschlikon, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Threshold cryptosystem",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Cramer-Shoup cryptosystem",
+        "Plaintext-aware encryption",
+        "Cryptosystem",
+        "Paillier cryptosystem",
+        "Random oracle",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "140743382",
+        "174706587",
+        "1491251281",
+        "1511186238",
+        "1511745870",
+        "1519080809",
+        "1532961226",
+        "1552695147",
+        "1572695506",
+        "1575893707",
+        "1589176872",
+        "1607264302",
+        "1837145606",
+        "1972792640",
+        "1974664062",
+        "1994386233",
+        "2052267638",
+        "2096832922",
+        "2099391615",
+        "2101803085",
+        "2106583429",
+        "2110824700",
+        "2144560442",
+        "2151748484",
+        "2156186849",
+        "2164988972",
+        "2397756951"
+    ]
+}

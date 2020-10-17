@@ -1,0 +1,51 @@
+{
+    "id": "1519539754",
+    "title": "The EM Side-Channel(s)",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dakshi Agrawal",
+            "id": "2134142736",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Bruce Archambeault",
+            "id": "2030205094",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Josyula R. Rao",
+            "id": "2114007677",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Pankaj Rohatgi",
+            "id": "2121267894",
+            "org": "IBM T.J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic engineering",
+        "CMOS",
+        "Electronic countermeasure",
+        "Side channel attack",
+        "Countermeasure",
+        "Computer science",
+        "Distributed computing",
+        "Telecommunications",
+        "Power analysis",
+        "Integrated circuit",
+        "Clock signal",
+        "Leakage (electronics)"
+    ],
+    "references": [
+        "1511843316",
+        "1548656471",
+        "1613874182",
+        "1664808737",
+        "1724890242",
+        "1897761346",
+        "2154909745"
+    ]
+}

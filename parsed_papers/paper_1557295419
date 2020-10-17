@@ -1,0 +1,40 @@
+{
+    "id": "1557295419",
+    "title": "Using speculative push for unnecessary checkpoint creation avoidance",
+    "venue": "distributed applications and interoperable systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Arkadiusz Danilecki",
+            "id": "2307838922",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland#TAB#"
+        },
+        {
+            "name": "Michal Szychowiak",
+            "id": "1520007386",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speculation",
+        "Shared memory",
+        "Computation",
+        "Computer science",
+        "Distributed computing",
+        "Distributed shared memory",
+        "Interoperability",
+        "Performance improvement",
+        "Real-time computing",
+        "Consistency model",
+        "Virtual memory"
+    ],
+    "references": [
+        "1531190803",
+        "1569520790",
+        "1898787029",
+        "1977480792",
+        "2022075139",
+        "2118383989",
+        "2145021036"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1556251672",
+    "title": "Fast Ciphers for Cheap Hardware: Differential Analysis of SPECTR-H64",
+    "venue": "mathematical methods, models, and architectures for network security systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nick D. Goots",
+            "id": "305646225",
+            "org": "Specialized Center of Program System \"SPECTR\""
+        },
+        {
+            "name": "Boris V. Izotov",
+            "id": "2464043689",
+            "org": "Specialized Center of Program System \"SPECTR\""
+        },
+        {
+            "name": "Alexander A. Moldovyan",
+            "id": "2465250188",
+            "org": "Specialized Center of Program System \"SPECTR\""
+        },
+        {
+            "name": "Nick A. Moldovyan",
+            "id": "2193720681",
+            "org": "Specialized Center of Program System \"SPECTR\""
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Cipher",
+        "Key schedule",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Differential cryptanalysis",
+        "Spectr-H64"
+    ],
+    "references": [
+        "1482776185",
+        "1582964775",
+        "1984275283"
+    ]
+}

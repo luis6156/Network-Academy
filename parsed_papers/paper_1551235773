@@ -1,0 +1,58 @@
+{
+    "id": "1551235773",
+    "title": "An extension to improve OpenMP tasking control",
+    "venue": "international workshop on openmp",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "Barcelona Supercomputing Center#TAB#"
+        },
+        {
+            "name": "James C. Beyer",
+            "id": "2153663904",
+            "org": "Cray Inc.#TAB#"
+        },
+        {
+            "name": "Alejandro Duran",
+            "id": "2601250523",
+            "org": "Barcelona Supercomputing Center#TAB#"
+        },
+        {
+            "name": "Roger Ferrer",
+            "id": "2307706594",
+            "org": "Barcelona Supercomputing Center#TAB#"
+        },
+        {
+            "name": "Grant E. Haab",
+            "id": "2091943512",
+            "org": "Intel Corp.#TAB#"
+        },
+        {
+            "name": "Kelvin Li",
+            "id": "2130997405",
+            "org": "IBM Canada Lab#TAB#"
+        },
+        {
+            "name": "Federico Massaioli",
+            "id": "2634020666",
+            "org": "CASPUR.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Granularity",
+        "Hierarchy",
+        "Final clause"
+    ],
+    "references": [
+        "1600065697",
+        "1695844346",
+        "2070638479",
+        "2108801243",
+        "2137702271"
+    ]
+}

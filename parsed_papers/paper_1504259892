@@ -1,0 +1,54 @@
+{
+    "id": "1504259892",
+    "title": "Parallel Query Support for Multidimensional Data: Inter-object Parallelism",
+    "venue": "database and expert systems applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Karl Hahn",
+            "id": "2520589173",
+            "org": "Bavarian Research Center for Knowledge Based Systems"
+        },
+        {
+            "name": "Bernd Reiner",
+            "id": "2124772580",
+            "org": "Bavarian Research Center for Knowledge Based Systems"
+        },
+        {
+            "name": "Gabriele Hofling",
+            "id": "146242530",
+            "org": "Bavarian Research Center for Knowledge Based Systems"
+        },
+        {
+            "name": "Peter Baumann",
+            "id": "2291928790",
+            "org": "Active Knowledge GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Multidimensional analysis",
+        "Theoretical computer science",
+        "Array DBMS",
+        "Multidimensional systems",
+        "Computer science",
+        "Data mining",
+        "Parallel processing",
+        "Database",
+        "Parallel algorithm",
+        "Relational database management system",
+        "Rasdaman"
+    ],
+    "references": [
+        "1538655963",
+        "1541475832",
+        "1565760524",
+        "1573757358",
+        "1578006587",
+        "1593000629",
+        "1820462258",
+        "1997020216",
+        "2125317170",
+        "2748262150"
+    ]
+}

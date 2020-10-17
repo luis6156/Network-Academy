@@ -1,0 +1,52 @@
+{
+    "id": "1532651964",
+    "title": "Local Synchronization on Oriented Rings",
+    "venue": "international symposium on stabilization safety and security of distributed systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Doina Bein",
+            "id": "2281576247",
+            "org": "University of Texas at Dallas, USA#TAB#"
+        },
+        {
+            "name": "Ajoy Kumar Datta",
+            "id": "2157274810",
+            "org": "University of Nevada, Las Vegas, USA#TAB#"
+        },
+        {
+            "name": "Chitwan K. Gupta",
+            "id": "2317669421",
+            "org": "University of Nevada, Las Vegas, USA#TAB#"
+        },
+        {
+            "name": "Lawrence L. Larmore",
+            "id": "186478180",
+            "org": "University of Nevada, Las Vegas, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Daemon",
+        "Suzuki-Kasami algorithm",
+        "Computer science",
+        "Mutual exclusion",
+        "Maekawa's algorithm",
+        "Distributed computing",
+        "Ring network",
+        "Atomicity",
+        "Dining philosophers problem",
+        "Distributed algorithm"
+    ],
+    "references": [
+        "56611867",
+        "1513904822",
+        "1969320647",
+        "2055073543",
+        "2094159214",
+        "2111132249",
+        "2135985056",
+        "2296752404",
+        "2340995113",
+        "2611515161"
+    ]
+}

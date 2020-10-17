@@ -1,0 +1,54 @@
+{
+    "id": "122256684",
+    "title": "Geodetic distance queries on r-trees for indexing geographic data",
+    "venue": "symposium on large spatial databases",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Erich Schubert",
+            "id": "2011689237",
+            "org": "Ludwig-Maximilians-Universitt Mnchen, Mnchen, Germany#TAB#"
+        },
+        {
+            "name": "Arthur Zimek",
+            "id": "242745652",
+            "org": "Ludwig-Maximilians-Universitt Mnchen, Mnchen, Germany#TAB#"
+        },
+        {
+            "name": "Hans-Peter Kriegel",
+            "id": "1919135125",
+            "org": "Ludwig-Maximilians-Universitt Mnchen, Mnchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Geodetic datum",
+        "Database index",
+        "Computer science",
+        "Data mining",
+        "k-nearest neighbors algorithm",
+        "Search engine indexing",
+        "Euclidean distance",
+        "Spatial database",
+        "Information retrieval",
+        "Range query (data structures)",
+        "Equirectangular projection"
+    ],
+    "references": [
+        "199161718",
+        "1523134890",
+        "1541459201",
+        "2001777280",
+        "2008196645",
+        "2022246275",
+        "2029306088",
+        "2049797265",
+        "2072847879",
+        "2085843229",
+        "2118269922",
+        "2145725688",
+        "2151135734",
+        "2155776210",
+        "2157092487",
+        "2165558283"
+    ]
+}

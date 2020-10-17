@@ -1,0 +1,49 @@
+{
+    "id": "1587382781",
+    "title": "Do broken hash functions affect the security of time-stamping schemes?",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ahto Buldas",
+            "id": "287036867",
+            "org": "Cybernetica, Tallinn, Estonia#TAB#"
+        },
+        {
+            "name": "Sven Laur",
+            "id": "2141383827",
+            "org": "Laboratory for Theoretical Computer Science, Helsinki University of Technology, TKK, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Primary clustering",
+        "Hash buster",
+        "Hash chain",
+        "Computer security",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "81015123",
+        "122805432",
+        "155049767",
+        "170104151",
+        "1499074627",
+        "1533979572",
+        "1548130906",
+        "1555511670",
+        "1590269592",
+        "1656731780",
+        "1993716793",
+        "2103239853",
+        "2108475361",
+        "2131212920",
+        "2155690458",
+        "2611506938"
+    ]
+}

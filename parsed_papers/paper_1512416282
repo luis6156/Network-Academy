@@ -1,0 +1,47 @@
+{
+    "id": "1512416282",
+    "title": "A State-Based Model for Certificate Management Systems",
+    "venue": "public key cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Chuchang Liu",
+            "id": "2096274589",
+            "org": "Information Technology Division|Defence Science and Technology"
+        },
+        {
+            "name": "Maris A. Ozols",
+            "id": "1473222038",
+            "org": "Information Technology Division, Defence Science and Technology Organisation, PO Box 1500, Salisbury, SA 5108, Australia"
+        },
+        {
+            "name": "Marie Henderson",
+            "id": "2610035907",
+            "org": "Information Technology Division, Defence Science and Technology Organisation, PO Box 1500, Salisbury, SA 5108, Australia"
+        },
+        {
+            "name": "Anthony Cant",
+            "id": "1976543032",
+            "org": "Information Technology Division|Defence Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Certificate Management over CMS",
+        "Certificate authority",
+        "Root certificate",
+        "X.509",
+        "Distributed computing",
+        "Public key certificate",
+        "Certificate Management Protocol",
+        "Computer science",
+        "Database",
+        "Online Certificate Status Protocol",
+        "Certificate signing request"
+    ],
+    "references": [
+        "1784288965",
+        "1967951878",
+        "2108834246",
+        "2133126578"
+    ]
+}

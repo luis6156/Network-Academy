@@ -1,0 +1,79 @@
+{
+    "id": "1509243031",
+    "title": "Generic security-amplifying methods of ordinary digital signatures",
+    "venue": "applied cryptography and network security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jin Li",
+            "id": "2257074422",
+            "org": "International Research center for Information Security, Information and Communications University, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Kwangjo Kim",
+            "id": "2421077175",
+            "org": "International Research center for Information Security, Information and Communications University, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Fangguo Zhang",
+            "id": "2129307903",
+            "org": "School of Information Science and Technology, Sun Yat-Sen University, Guangzhou, P.R. China#TAB#"
+        },
+        {
+            "name": "Duncan S. Wong",
+            "id": "2046505287",
+            "org": "Department of Computer Science, City University of Hong Kong, Hong Kong, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Distributed computing",
+        "Computer security",
+        "EdDSA",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "98586311",
+        "1506914504",
+        "1511404237",
+        "1518817958",
+        "1526844866",
+        "1552997993",
+        "1558807623",
+        "1566047571",
+        "1589034595",
+        "1591954407",
+        "1592092778",
+        "1610688607",
+        "1653866131",
+        "1718722133",
+        "1888254701",
+        "1922219439",
+        "1972129951",
+        "1972792640",
+        "1974232544",
+        "1974303722",
+        "1996360405",
+        "2002930326",
+        "2007957887",
+        "2010507480",
+        "2052267638",
+        "2095708839",
+        "2105421071",
+        "2117797270",
+        "2121786567",
+        "2151413173",
+        "2152688060",
+        "2162653919",
+        "2166403741",
+        "2169194339",
+        "2620150568"
+    ]
+}

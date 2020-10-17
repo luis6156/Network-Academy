@@ -1,0 +1,54 @@
+{
+    "id": "1782726444",
+    "title": "Server-assisted latency management for wide-area distributed systems",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Wonho Kim",
+            "id": "2617914145",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        },
+        {
+            "name": "KyoungSoo Park",
+            "id": "2128804186",
+            "org": "Department of Electrical Engineering, KAIST#TAB#"
+        },
+        {
+            "name": "Vivek S. Pai",
+            "id": "2303316918",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Latency (engineering)",
+        "File transfer",
+        "Data transmission",
+        "PlanetLab",
+        "Software deployment",
+        "Synchronization",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "74226230",
+        "151129402",
+        "156208468",
+        "1976986662",
+        "1978749232",
+        "1983786968",
+        "1995593089",
+        "2032775246",
+        "2101204871",
+        "2105310795",
+        "2110104287",
+        "2127494222",
+        "2128462361",
+        "2153171667",
+        "2162250708",
+        "2296427920"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1594719586",
+    "title": "Distributed Test using Logical Clock",
+    "venue": "formal techniques for networked and distributed systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jin-Young Choi",
+            "id": "2798852302",
+            "org": "Information and Communications University"
+        },
+        {
+            "name": "Hee Yong Youn",
+            "id": "2145152158",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Soonuk Seol",
+            "id": "2516713540",
+            "org": "Information and Communications University"
+        },
+        {
+            "name": "Chuck Yoo",
+            "id": "2298039940",
+            "org": "Inha University"
+        }
+    ],
+    "fields_of_study": [
+        "Logical clock",
+        "Clock synchronization",
+        "Vector clock",
+        "Distributed computing",
+        "Computer science",
+        "Distributed object",
+        "Correctness",
+        "Synchronization",
+        "Matrix clock",
+        "Digital clock manager"
+    ],
+    "references": [
+        "1487341525",
+        "1488598622",
+        "1510521236",
+        "1513384635",
+        "1518754760",
+        "1896907122",
+        "2109691981",
+        "2140116462",
+        "2143578569"
+    ]
+}

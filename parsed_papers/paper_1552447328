@@ -1,0 +1,43 @@
+{
+    "id": "1552447328",
+    "title": "Differential Cryptanalysis of the ICE Encryption Algorithm",
+    "venue": "fast software encryption",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Bart Van Rompay",
+            "id": "2126644509",
+            "org": "K.U. Leuven"
+        },
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "University of Bergen"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "K.U. Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1496741827",
+        "1543271574",
+        "1979802565",
+        "2081451319",
+        "2132548943",
+        "2168631744"
+    ]
+}

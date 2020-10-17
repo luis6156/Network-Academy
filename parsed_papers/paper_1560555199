@@ -1,0 +1,53 @@
+{
+    "id": "1560555199",
+    "title": "Managing performance of aging applications via synchronized replica rejuvenation",
+    "venue": "distributed systems operations and management",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Artur Andrzejak",
+            "id": "215664075",
+            "org": "Zuse Institute Berlin, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Monika Moser",
+            "id": "2118605106",
+            "org": "Zuse Institute Berlin, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Luis Moura Silva",
+            "id": "2122353690",
+            "org": "Dep. Engenharia Informatica, Univ. Coimbra, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Replica",
+        "Computer science",
+        "Software aging",
+        "Maximization",
+        "Heuristic",
+        "Virtual machine",
+        "Schedule",
+        "Real-time computing",
+        "Memory leak"
+    ],
+    "references": [
+        "202200800",
+        "1493735863",
+        "1893433911",
+        "1951687984",
+        "1990952744",
+        "2038155581",
+        "2084597192",
+        "2096611465",
+        "2109192777",
+        "2149803257",
+        "2155730217",
+        "2156138095",
+        "2161056315",
+        "2164901581",
+        "2169246841",
+        "2171453084",
+        "2623488153"
+    ]
+}

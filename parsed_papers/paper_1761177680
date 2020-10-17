@@ -1,0 +1,51 @@
+{
+    "id": "1761177680",
+    "title": "Completeness and Nondeterminism in Model Checking Transactional Memories",
+    "venue": "international conference on concurrency theory",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Rachid Guerraoui",
+            "id": "115057321",
+            "org": "EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas A. Henzinger",
+            "id": "2707196735",
+            "org": "EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Vasu Singh",
+            "id": "2289329032",
+            "org": "EPFL, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Theoretical computer science",
+        "Serializability",
+        "Computer science",
+        "Concurrent computing",
+        "Transactional memory",
+        "Distributed computing",
+        "Microarchitecture",
+        "Correctness",
+        "Model checking",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1521923248",
+        "1542975293",
+        "1731774687",
+        "1759214032",
+        "1988800505",
+        "2023304911",
+        "2053935034",
+        "2077571050",
+        "2105055683",
+        "2111134484",
+        "2113751407",
+        "2128585185",
+        "2340530615"
+    ]
+}

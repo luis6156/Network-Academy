@@ -1,0 +1,50 @@
+{
+    "id": "1544560613",
+    "title": "A Solution to the GHI Problem for Best-First Search",
+    "venue": "annual conference on computers",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Dennis M. Breuker",
+            "id": "2052060101",
+            "org": "Universiteit Maastricht"
+        },
+        {
+            "name": "H. Jaap van den Herik",
+            "id": "1206600619",
+            "org": "Universiteit Maastricht"
+        },
+        {
+            "name": "Jos W. H. M. Uiterwijk",
+            "id": "421041004",
+            "org": "Universiteit Maastricht"
+        },
+        {
+            "name": "L. Victor Allis",
+            "id": "2304452346",
+            "org": "Quintiq B.V."
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Interpolation search",
+        "Incremental heuristic search",
+        "Search algorithm",
+        "Iterative deepening depth-first search",
+        "Bidirectional search",
+        "Best-first search",
+        "Fringe search",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1982977005",
+        "1990094342",
+        "1990386132",
+        "2012464823",
+        "2088182101",
+        "2104125501"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1722919363",
+    "title": "Partial Key Exposure Attack on CRT-RSA",
+    "venue": "applied cryptography and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Santanu Sarkar",
+            "id": "2112786597",
+            "org": "Indian Statistical Institute, Kolkata, India 700 108#TAB#"
+        },
+        {
+            "name": "Subhamoy Maitra",
+            "id": "2027980958",
+            "org": "Indian Statistical Institute, Kolkata, India 700 108#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Factorization",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Exponent",
+        "Lattice (order)",
+        "Cryptanalysis",
+        "Encryption",
+        "Computer security"
+    ],
+    "references": [
+        "10068438",
+        "1496801598",
+        "1497375467",
+        "1538302378",
+        "1550863203",
+        "1568839073",
+        "1841270112",
+        "1871879997",
+        "1928437544",
+        "1961022628",
+        "1996360405",
+        "2066425771",
+        "2076645411",
+        "2101040389",
+        "2119569175",
+        "2161758817",
+        "2166780626"
+    ]
+}

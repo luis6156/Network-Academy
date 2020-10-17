@@ -1,0 +1,66 @@
+{
+    "id": "1463173120",
+    "title": "Zero-Correlation Linear Cryptanalysis with FFT and Improved Attacks on ISO Standards Camellia and CLEFIA",
+    "venue": "selected areas in cryptography",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "Technical University of Denmark, Kongens Lyngby, Denmark#TAB#"
+        },
+        {
+            "name": "Huizheng Geng",
+            "id": "2567789080",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Meiqin Wang",
+            "id": "2251995558",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Long Wen",
+            "id": "2302062601",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Baudoin Collard",
+            "id": "2117870018",
+            "org": "Universite Catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Algorithm",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Arithmetic",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "32314634",
+        "57809933",
+        "87476164",
+        "111488668",
+        "1489027369",
+        "1501856114",
+        "1535060573",
+        "1555570710",
+        "1569252980",
+        "1573651642",
+        "1582313396",
+        "1584463697",
+        "1701060964",
+        "1916689065",
+        "1964723977",
+        "2016498616",
+        "2083383916",
+        "2107699024"
+    ]
+}

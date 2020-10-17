@@ -1,0 +1,64 @@
+{
+    "id": "1742473555",
+    "title": "A Browser-Based Kerberos Authentication Scheme",
+    "venue": "european symposium on research in computer security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sebastian Gajek",
+            "id": "224658985",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Tibor Jager",
+            "id": "2210952701",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Mark Manulis",
+            "id": "1588396689",
+            "org": "UCL Crypto Group, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Jorg Schwenk",
+            "id": "2145024463",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University, Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Kerberos",
+        "Kerberized Internet Negotiation of Keys",
+        "Mutual authentication",
+        "SPNEGO",
+        "Security token",
+        "Computer science",
+        "Computer security",
+        "Generic Security Service Algorithm for Secret Key Transaction",
+        "Trusted third party",
+        "Security Assertion Markup Language"
+    ],
+    "references": [
+        "1495266644",
+        "1499934958",
+        "1551910192",
+        "1580416641",
+        "1656028867",
+        "1733713784",
+        "1827890996",
+        "2052267638",
+        "2057703421",
+        "2096733704",
+        "2099180072",
+        "2113247363",
+        "2118783124",
+        "2119708968",
+        "2131906261",
+        "2147976767",
+        "2150477710",
+        "2158889011",
+        "2160343382",
+        "2162316255",
+        "2165214731"
+    ]
+}

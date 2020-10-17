@@ -1,0 +1,50 @@
+{
+    "id": "173413620",
+    "title": "Return-oriented rootkits: bypassing kernel code integrity protection mechanisms",
+    "venue": "usenix security symposium",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ralf Hund",
+            "id": "2035582089",
+            "org": "Laboratory for Dependable Distributed Systems, University of Mannheim, Germany#TAB#"
+        },
+        {
+            "name": "Thorsten Holz",
+            "id": "2568277420",
+            "org": "Laboratory for Dependable Distributed Systems, University of Mannheim, Germany#TAB#"
+        },
+        {
+            "name": "Felix C. Freiling",
+            "id": "201106088",
+            "org": "Laboratory for Dependable Distributed Systems, University of Mannheim, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rootkit",
+        "Return-oriented programming",
+        "Computation",
+        "Protection mechanism",
+        "Computer science",
+        "Computer security",
+        "Software portability",
+        "Universality (philosophy)",
+        "Operating system",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "103986934",
+        "1641762327",
+        "2003250112",
+        "2029224396",
+        "2081768685",
+        "2099382052",
+        "2106412703",
+        "2109219878",
+        "2117115928",
+        "2146431583",
+        "2150709728",
+        "2152507484",
+        "2162800072"
+    ]
+}

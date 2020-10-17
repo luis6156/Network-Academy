@@ -1,0 +1,47 @@
+{
+    "id": "1607328840",
+    "title": "intelliQoS: Rethinking storage QoS implementation for system efficiency",
+    "venue": "networking architecture and storages",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yuehai Xu",
+            "id": "2126589304",
+            "org": "The ECE Department, Wayne State University, Detroit, MI, 48202, USA"
+        },
+        {
+            "name": "Marc Patton",
+            "id": "2231865930",
+            "org": "The ECE Department, Wayne State University, Detroit, MI, 48202, USA"
+        },
+        {
+            "name": "Michael Devon Moore",
+            "id": "2223626163",
+            "org": "The ECE Department, Wayne State University, Detroit, MI, 48202, USA"
+        },
+        {
+            "name": "Song Jiang",
+            "id": "2168837340",
+            "org": "The ECE Department, Wayne State University, Detroit, MI, 48202, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Computer science",
+        "Scheduling (computing)",
+        "Latency (engineering)",
+        "Quality of service",
+        "Server",
+        "Enforcement",
+        "Mobile QoS",
+        "Storage efficiency",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "16408702",
+        "2001500256",
+        "2156599987",
+        "2620706897"
+    ]
+}

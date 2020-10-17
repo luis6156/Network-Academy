@@ -1,0 +1,50 @@
+{
+    "id": "1593238095",
+    "title": "Reducing the space complexity of BDD-Based attacks on keystream generators",
+    "venue": "fast software encryption",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Matthias Krause",
+            "id": "2046237863",
+            "org": "Theoretical Computer Science, University of Mannheim, Germany#TAB#"
+        },
+        {
+            "name": "Dirk Stegemann",
+            "id": "1903481236",
+            "org": "Theoretical Computer Science, University of Mannheim, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "Cipher",
+        "Keystream",
+        "Computer science",
+        "Stream cipher",
+        "Self-shrinking generator",
+        "GSM",
+        "Embedded system",
+        "Stream cipher attack",
+        "Real-time computing",
+        "Correlation attack"
+    ],
+    "references": [
+        "1699105",
+        "1490223983",
+        "1519988299",
+        "1544956979",
+        "1552950345",
+        "1554090281",
+        "1563682735",
+        "1572961947",
+        "1579796941",
+        "1587583117",
+        "1590855138",
+        "1591746785",
+        "1798951030",
+        "1854027143",
+        "2097140439",
+        "2179628750",
+        "2615568084"
+    ]
+}

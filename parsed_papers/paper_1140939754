@@ -1,0 +1,42 @@
+{
+    "id": "1140939754",
+    "title": "SeaHorn: A Framework for Verifying C Programs Competition Contribution",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Arie Gurfinkel",
+            "id": "2397876722",
+            "org": "Software Engineering Institute, CMU, Mountain View, USA#TAB#"
+        },
+        {
+            "name": "Temesghen Kahsai",
+            "id": "2061443204",
+            "org": "NASA Ames Research Center / CMU, Mountain View, USA#TAB#"
+        },
+        {
+            "name": "Jorge A. Navas",
+            "id": "2105628737",
+            "org": "NASA Ames Research Center / SGT, Mountain View, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Theoretical computer science",
+        "Functional verification",
+        "Computer science",
+        "Verification",
+        "Intelligent verification",
+        "Abstract interpretation",
+        "Horn clause",
+        "Modular design",
+        "Safety property"
+    ],
+    "references": [
+        "81626549",
+        "1508927144",
+        "1569188499",
+        "1593110137",
+        "2153185479"
+    ]
+}

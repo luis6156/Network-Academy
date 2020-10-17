@@ -1,0 +1,62 @@
+{
+    "id": "1467126665",
+    "title": "A placement vulnerability study in multi-tenant public clouds",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Venkatanathan Varadarajan",
+            "id": "1988491809",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Yinqian Zhang",
+            "id": "2158166610",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Thomas Ristenpart",
+            "id": "197246800",
+            "org": "Cornell Tech#TAB#"
+        },
+        {
+            "name": "Michael M. Swift",
+            "id": "2304722209",
+            "org": "University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Vulnerability",
+        "Computer science",
+        "Computer security",
+        "Economies of scale",
+        "Web server",
+        "Cloud computing security",
+        "Multitenancy",
+        "Virtual machine",
+        "Internet privacy",
+        "Cloud computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "56540897",
+        "1427174644",
+        "1512975556",
+        "1982989685",
+        "1992291252",
+        "2001759130",
+        "2037322308",
+        "2043487371",
+        "2057306771",
+        "2066660519",
+        "2119028650",
+        "2127133592",
+        "2141181087",
+        "2164373098",
+        "2165666960",
+        "2167088175",
+        "2169461225",
+        "2169965429",
+        "2200264815"
+    ]
+}

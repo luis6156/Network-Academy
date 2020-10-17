@@ -1,0 +1,44 @@
+{
+    "id": "1555413501",
+    "title": "Genomes containing duplicates are hard to compare",
+    "venue": "international conference on computational science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Cedric Chauve",
+            "id": "2003550458",
+            "org": "LaCIM, CGL, Departement d'Informatique, Universite du Quebec A Montreal CP 8888, Montreal, QC, Canada#TAB#"
+        },
+        {
+            "name": "Guillaume Fertin",
+            "id": "64483735",
+            "org": "Laboratoire d'Informatique de Nantes-Atlantique (LINA), FRE CNRS 2729 Universite de Nantes, Nantes Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Romeo Rizzi",
+            "id": "2198486159",
+            "org": "Dipartimento di Matematica e Informatica, Universita di Udine, Italy#TAB#"
+        },
+        {
+            "name": "Stephane Vialette",
+            "id": "49020851",
+            "org": "Laboratoire de Recherche en Informatique (LRI), UMR CNRS 8623, Faculte des Sciences d'Orsay, Universite Paris-Sud, Orsay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Genome",
+        "Combinatorics",
+        "Exemplar theory",
+        "APX",
+        "Similarity measure",
+        "Permutation"
+    ],
+    "references": [
+        "1479777405",
+        "1573866825",
+        "2011039300",
+        "2096466922",
+        "2142096960"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1519828433",
+    "title": "Automatic extraction of functional dependencies",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Eric Gregoire",
+            "id": "2099230921",
+            "org": "CRIL CNRS & IRCICA, Universite d'Artois, Lens Cedex, France#TAB#"
+        },
+        {
+            "name": "Richard Ostrowski",
+            "id": "2128233723",
+            "org": "CRIL CNRS & IRCICA, Universite d'Artois, Lens Cedex, France#TAB#"
+        },
+        {
+            "name": "Bertrand Mazure",
+            "id": "711703943",
+            "org": "CRIL CNRS & IRCICA, Universite d'Artois, Lens Cedex, France#TAB#"
+        },
+        {
+            "name": "Lakhdar Sais",
+            "id": "2152639631",
+            "org": "CRIL CNRS & IRCICA, Universite d'Artois, Lens Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Standard Boolean model",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Maximum satisfiability problem",
+        "Combinatorics",
+        "And-inverter graph",
+        "Functional dependency",
+        "Boolean expression",
+        "Circuit minimization for Boolean functions",
+        "Boolean function"
+    ],
+    "references": [
+        "14839205",
+        "119554023",
+        "1591802374",
+        "1594518690",
+        "1709155369",
+        "1973267383",
+        "2057361103",
+        "2061876041",
+        "2096307462",
+        "2100404896",
+        "2408006898",
+        "2501112583",
+        "2610670194"
+    ]
+}

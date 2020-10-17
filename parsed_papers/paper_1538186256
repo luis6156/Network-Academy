@@ -1,0 +1,68 @@
+{
+    "id": "1538186256",
+    "title": "A Generic Approach to Automatic Deobfuscation of Executable Code",
+    "venue": "ieee symposium on security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Babak Yadegari",
+            "id": "1921198784",
+            "org": "Dept. of Comput. Sci., Univ. of Arizona, Tucson, AZ, USA"
+        },
+        {
+            "name": "Brian Johannesmeyer",
+            "id": "2224131373",
+            "org": "Dept. of Comput. Sci., Univ. of Arizona, Tucson, AZ, USA"
+        },
+        {
+            "name": "Benjamin Whitely",
+            "id": "2224322420",
+            "org": "Dept. of Comput. Sci., Univ. of Arizona, Tucson, AZ, USA"
+        },
+        {
+            "name": "Saumya K. Debray",
+            "id": "2087087990",
+            "org": "Dept. of Comput. Sci., Univ. of Arizona, Tucson, AZ, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Obfuscation",
+        "Malware",
+        "Theoretical computer science",
+        "Executable",
+        "Return-oriented programming",
+        "Countermeasure",
+        "Computer science",
+        "Obfuscation (software)",
+        "Computer security",
+        "Emulation"
+    ],
+    "references": [
+        "1491178396",
+        "1515180657",
+        "1556604985",
+        "1564075167",
+        "1968002620",
+        "1969501726",
+        "1982829328",
+        "1996931407",
+        "2009489720",
+        "2014559961",
+        "2018706164",
+        "2049629426",
+        "2068211976",
+        "2074010768",
+        "2089448621",
+        "2117030266",
+        "2121468041",
+        "2126851641",
+        "2128389850",
+        "2137530017",
+        "2138788987",
+        "2140807364",
+        "2161404565",
+        "2162800072",
+        "2170793790",
+        "2532550198"
+    ]
+}

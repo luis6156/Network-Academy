@@ -1,0 +1,63 @@
+{
+    "id": "1513080359",
+    "title": "Multi-task support for security-enabled embedded processors",
+    "venue": "application-specific systems, architectures, and processors",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Tedy Thomas",
+            "id": "2190440386",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA"
+        },
+        {
+            "name": "Arman Pouraghily",
+            "id": "2232457479",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA"
+        },
+        {
+            "name": "Kekai Hu",
+            "id": "2123822183",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA"
+        },
+        {
+            "name": "Russell Tessier",
+            "id": "2161549466",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA"
+        },
+        {
+            "name": "Tilman Wolf",
+            "id": "2114555486",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Context switch",
+        "Parallel computing",
+        "Computer science",
+        "Embedded operating system",
+        "Embedded system",
+        "Slowdown",
+        "Real-time computing",
+        "Stack buffer overflow"
+    ],
+    "references": [
+        "1674877186",
+        "1825457006",
+        "1964391394",
+        "1964825150",
+        "2022748185",
+        "2023959340",
+        "2057384247",
+        "2100666033",
+        "2106649514",
+        "2141365240",
+        "2141389113",
+        "2146966321",
+        "2149375166",
+        "2155851497",
+        "2162986442",
+        "2171362348",
+        "2171482413"
+    ]
+}

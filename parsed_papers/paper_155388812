@@ -1,0 +1,48 @@
+{
+    "id": "155388812",
+    "title": "A new way of optimizing OLAP queries.",
+    "venue": "BDA",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Arnaud Giacometti",
+            "id": "2129444726",
+            "org": "Universite Francois|Rabelais de Blois-Tours-Chinon"
+        },
+        {
+            "name": "Dominique Laurent",
+            "id": "2125812555",
+            "org": "Universite Francois|Rabelais de Blois-Tours-Chinon"
+        },
+        {
+            "name": "Patrick Marcel",
+            "id": "2137225863",
+            "org": "Universite Francois|Rabelais de Blois-Tours-Chinon"
+        },
+        {
+            "name": "Hassina Mouloudi",
+            "id": "2003080916",
+            "org": "Universite Francois|Rabelais de Blois-Tours-Chinon"
+        }
+    ],
+    "fields_of_study": [
+        "Online analytical processing",
+        "Computer science",
+        "Query language",
+        "RDF query language",
+        "Database",
+        "Information retrieval",
+        "Rewrite rule"
+    ],
+    "references": [
+        "1510810986",
+        "1534246842",
+        "1558832481",
+        "1581894185",
+        "1606507025",
+        "1606849949",
+        "2072764742",
+        "2123931473",
+        "2134217480"
+    ]
+}

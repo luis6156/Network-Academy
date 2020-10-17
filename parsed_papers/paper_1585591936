@@ -1,0 +1,35 @@
+{
+    "id": "1585591936",
+    "title": "On the security of Schnorr's pseudo random generator",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Rainer A. Rueppel",
+            "id": "2309136199",
+            "org": "Crypto AG"
+        }
+    ],
+    "fields_of_study": [
+        "Lavarand",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Self-shrinking generator",
+        "Substring",
+        "Lagged Fibonacci generator",
+        "Random seed",
+        "Random function",
+        "Pseudorandom generator"
+    ],
+    "references": [
+        "1557606368",
+        "1594625647",
+        "1606748595",
+        "2077300005",
+        "2085759780",
+        "2087115651",
+        "2108104892",
+        "2164284862"
+    ]
+}

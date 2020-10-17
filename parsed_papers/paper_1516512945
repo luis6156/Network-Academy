@@ -1,0 +1,58 @@
+{
+    "id": "1516512945",
+    "title": "Relations Among Notions of Security for Public-Key Encryption Schemes",
+    "venue": "international cryptology conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Mihir Bellare",
+            "id": "2052950829",
+            "org": "University of California at San Diego"
+        },
+        {
+            "name": "Anand Desai",
+            "id": "2118632452",
+            "org": "University of California at San Diego"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "Laboratoire d'Informatique de l'Ecole Normale Superieure"
+        },
+        {
+            "name": "Phillip Rogaway",
+            "id": "2106597688",
+            "org": "University of California at Davis"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "Computer science",
+        "Plaintext-aware encryption",
+        "Computer security",
+        "Probabilistic encryption",
+        "Ciphertext indistinguishability",
+        "Deterministic encryption",
+        "Semantic security",
+        "Plaintext"
+    ],
+    "references": [
+        "1589176872",
+        "1809974132",
+        "1920472694",
+        "2000850689",
+        "2015880590",
+        "2052267638",
+        "2055993618",
+        "2073210531",
+        "2101803085",
+        "2109365488",
+        "2112409151",
+        "2117362057",
+        "2170795775",
+        "2397756951",
+        "2401266031"
+    ]
+}

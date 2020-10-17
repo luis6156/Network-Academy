@@ -1,0 +1,109 @@
+{
+    "id": "1508521621",
+    "title": "Depot: cloud storage with minimal trust",
+    "venue": "operating systems design and implementation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Prince Mahajan",
+            "id": "2182661336",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Srinath T. V. Setty",
+            "id": "2164544756",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Sangmin Lee",
+            "id": "2228928683",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Allen Clement",
+            "id": "2121586883",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Lorenzo Alvisi",
+            "id": "2292936287",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Michael Dahlin",
+            "id": "2051666199",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Michael Walfish",
+            "id": "2048602404",
+            "org": "The University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Depot",
+        "Computer science",
+        "Distributed computing",
+        "Causal consistency",
+        "Liveness",
+        "Latency (engineering)",
+        "Server",
+        "Durability",
+        "Cloud storage",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "15308973",
+        "100863554",
+        "182346126",
+        "197675523",
+        "201372435",
+        "1495802359",
+        "1503242180",
+        "1519889149",
+        "1540902136",
+        "1566711011",
+        "1572593068",
+        "1592498192",
+        "1606172465",
+        "1633637678",
+        "1965159636",
+        "1973501242",
+        "1995626000",
+        "2001803004",
+        "2020765652",
+        "2026697016",
+        "2043671329",
+        "2049386870",
+        "2054584570",
+        "2058535975",
+        "2080288192",
+        "2093893029",
+        "2093903294",
+        "2100487606",
+        "2104112849",
+        "2104210894",
+        "2104942083",
+        "2110642323",
+        "2114349788",
+        "2114579022",
+        "2116021422",
+        "2116777751",
+        "2117260615",
+        "2117289367",
+        "2119636671",
+        "2120510885",
+        "2121510533",
+        "2124074197",
+        "2125930899",
+        "2127766933",
+        "2128352062",
+        "2138509363",
+        "2147500445",
+        "2153349749",
+        "2153704625",
+        "2162435051",
+        "2624304035"
+    ]
+}

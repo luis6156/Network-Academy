@@ -1,0 +1,65 @@
+{
+    "id": "105844954",
+    "title": "A Performance Study of Software Prefetching for Tracing Garbage Collectors",
+    "venue": "APPT 2013 Revised Selected Papers of the 10th International Symposium on Advanced Parallel Processing Technologies - Volume 8299",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Hao Wu",
+            "id": "2656454578",
+            "org": "Harbin Institute of Technology, Harbin, China#TAB#"
+        },
+        {
+            "name": "Zhenzhou Ji",
+            "id": "2097306026",
+            "org": "Harbin Institute of Technology, Harbin, China#TAB#"
+        },
+        {
+            "name": "Suxia Zhu",
+            "id": "2698218529",
+            "org": "Harbin Institute of Technology, Harbin, China#TAB#"
+        },
+        {
+            "name": "Zhigang Chen",
+            "id": "2690855256",
+            "org": "Harbin Institute of Technology, Harbin, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Computer science",
+        "Garbage collection",
+        "Instruction prefetch",
+        "Memory management",
+        "Tracing",
+        "Cache-only memory architecture",
+        "Garbage",
+        "Real-time computing",
+        "Memory leak"
+    ],
+    "references": [
+        "151825951",
+        "1489412029",
+        "1515358692",
+        "1989496850",
+        "1990549880",
+        "1999662401",
+        "2014789541",
+        "2036162037",
+        "2092364586",
+        "2098220603",
+        "2102839400",
+        "2107917004",
+        "2113297857",
+        "2118373998",
+        "2124057877",
+        "2126763866",
+        "2145868012",
+        "2147060186",
+        "2152814480",
+        "2166091242",
+        "2166918318",
+        "2171660659"
+    ]
+}

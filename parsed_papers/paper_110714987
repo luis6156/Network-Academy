@@ -1,0 +1,56 @@
+{
+    "id": "110714987",
+    "title": "Extended-DDH and lossy trapdoor functions",
+    "venue": "public key cryptography",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Brett Hemenway",
+            "id": "2041479746",
+            "org": "University of Michigan#TAB#"
+        },
+        {
+            "name": "Rafail Ostrovsky",
+            "id": "1482108584",
+            "org": "UCLA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Trapdoor function",
+        "Cryptosystem",
+        "Deterministic encryption",
+        "Hash function",
+        "Diffie-Hellman key exchange",
+        "Collision"
+    ],
+    "references": [
+        "1502927489",
+        "1513096110",
+        "1549397354",
+        "1589176872",
+        "1590654318",
+        "1604454960",
+        "1949164874",
+        "1979280691",
+        "1982146060",
+        "2027528470",
+        "2036149657",
+        "2058785578",
+        "2096778698",
+        "2101803085",
+        "2132172731",
+        "2138669153",
+        "2147436724",
+        "2147639642",
+        "2152783950",
+        "2165111290",
+        "2167236842",
+        "2295142259",
+        "2403106602"
+    ]
+}

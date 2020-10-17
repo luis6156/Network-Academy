@@ -1,0 +1,89 @@
+{
+    "id": "1710991894",
+    "title": "Public-key encryption with non-interactive opening: new constructions and stronger definitions",
+    "venue": "international conference on cryptology in africa",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "David Galindo",
+            "id": "2278651514",
+            "org": "University of Luxembourg#TAB#"
+        },
+        {
+            "name": "Benoit Libert",
+            "id": "2004097371",
+            "org": "Universite catholique de Louvain, Crypto Group, Belgium#TAB#"
+        },
+        {
+            "name": "Marc Fischlin",
+            "id": "132146421",
+            "org": "TU Darmstadt & CASED, Germany#TAB#"
+        },
+        {
+            "name": "Georg Fuchsbauer",
+            "id": "2081739493",
+            "org": "LIENS - CNRS - INRIA, Ecole normale superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Anja Lehmann",
+            "id": "1986518007",
+            "org": "TU Darmstadt & CASED, Germany#TAB#"
+        },
+        {
+            "name": "Mark Manulis",
+            "id": "1588396689",
+            "org": "TU Darmstadt & CASED, Germany#TAB#"
+        },
+        {
+            "name": "Dominique Schroder",
+            "id": "2343333256",
+            "org": "TU Darmstadt & CASED, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Satisfiability",
+        "Soundness",
+        "Encryption",
+        "Cryptosystem",
+        "Ciphertext",
+        "Random oracle",
+        "Public-key cryptography",
+        "Plaintext"
+    ],
+    "references": [
+        "174706587",
+        "1532186359",
+        "1533880360",
+        "1563221498",
+        "1566345534",
+        "1572695506",
+        "1587391206",
+        "1592092778",
+        "1599446772",
+        "1604454960",
+        "1607264302",
+        "1854738139",
+        "2034313414",
+        "2038761522",
+        "2073210531",
+        "2097638666",
+        "2110326321",
+        "2116881075",
+        "2119420484",
+        "2123123551",
+        "2129359810",
+        "2130056156",
+        "2141462088",
+        "2152783950",
+        "2153193245",
+        "2155217356",
+        "2159339434",
+        "2172174332",
+        "2395635439",
+        "2397273652",
+        "2403106602",
+        "2607627035"
+    ]
+}

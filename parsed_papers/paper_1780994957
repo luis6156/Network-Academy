@@ -1,0 +1,49 @@
+{
+    "id": "1780994957",
+    "title": "Bounded wait-free implementation of optimally resilient byzantine storage without (unproven) cryptographic assumptions",
+    "venue": "international symposium on distributed computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Amitanand S. Aiyer",
+            "id": "2124589941",
+            "org": "Department of Computer Sciences, University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Lorenzo Alvisi",
+            "id": "2292936287",
+            "org": "Department of Computer Sciences, University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Rida A. Bazzi",
+            "id": "1488634745",
+            "org": "Department of Computer Sciences, Arizona State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Bounded function",
+        "Server",
+        "Secret sharing",
+        "Byzantine architecture",
+        "Bandwidth throttling",
+        "Quantum Byzantine agreement"
+    ],
+    "references": [
+        "1487382749",
+        "1503117778",
+        "1868640745",
+        "2018562795",
+        "2043801088",
+        "2085407655",
+        "2089497584",
+        "2100265791",
+        "2151657860",
+        "2152609950",
+        "2165838660",
+        "2532110658"
+    ]
+}

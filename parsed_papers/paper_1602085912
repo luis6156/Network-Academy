@@ -1,0 +1,88 @@
+{
+    "id": "1602085912",
+    "title": "Privacy via the Johnson-Lindenstrauss Transform",
+    "venue": "arXiv: Data Structures and Algorithms",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Krishnaram Kenthapadi",
+            "id": "2088122068",
+            "org": "Microsoft Research, Mountain View, CA"
+        },
+        {
+            "name": "Aleksandra Korolova",
+            "id": "319689334",
+            "org": "Stanford University, Stanford, CA"
+        },
+        {
+            "name": "Ilya Mironov",
+            "id": "2139677914",
+            "org": "Microsoft Research, Mountain View, CA"
+        },
+        {
+            "name": "Nina Mishra",
+            "id": "2124493348",
+            "org": "Microsoft Research, Mountain View, CA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Gaussian noise",
+        "Theoretical computer science",
+        "Bit array",
+        "Discrete mathematics",
+        "Computation",
+        "k-nearest neighbors algorithm",
+        "Sketch",
+        "Differential privacy",
+        "Cluster analysis",
+        "Private information retrieval",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "102825224",
+        "150179085",
+        "1486770802",
+        "1502916507",
+        "1560221996",
+        "1571768186",
+        "1593088422",
+        "1876904555",
+        "1924090694",
+        "2009611335",
+        "2010523825",
+        "2013003500",
+        "2022097286",
+        "2028584480",
+        "2037757210",
+        "2042469398",
+        "2051224630",
+        "2055411402",
+        "2057576485",
+        "2077217970",
+        "2085927849",
+        "2096870293",
+        "2103142290",
+        "2106728444",
+        "2107041969",
+        "2109191808",
+        "2112380340",
+        "2121386703",
+        "2123147099",
+        "2125130625",
+        "2135930857",
+        "2137303700",
+        "2147717514",
+        "2160553465",
+        "2161195135",
+        "2161470918",
+        "2164778205",
+        "2168115528",
+        "2168973828",
+        "2169570643",
+        "2170540710",
+        "2517104773",
+        "2610910029"
+    ]
+}

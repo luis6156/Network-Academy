@@ -1,0 +1,45 @@
+{
+    "id": "1509672724",
+    "title": "Secure password-based authenticated group key agreement for data-sharing peer-to-peer networks",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Qiang Tang",
+            "id": "2777647172",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey, UK#TAB#"
+        },
+        {
+            "name": "Kim-Kwang Raymond Choo",
+            "id": "2318895841",
+            "org": "Information Security Institute, Queensland University of Technology, Brisbane, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Password strength",
+        "Computer science",
+        "Computer security",
+        "Encrypted key exchange",
+        "Key stretching",
+        "One-time password"
+    ],
+    "references": [
+        "126840821",
+        "1526037005",
+        "1566838368",
+        "1589176872",
+        "1603565383",
+        "1795601689",
+        "1866147697",
+        "1977251372",
+        "2035164471",
+        "2117307660",
+        "2117398379",
+        "2125927592",
+        "2404603417"
+    ]
+}

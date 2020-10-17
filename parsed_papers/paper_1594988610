@@ -1,0 +1,47 @@
+{
+    "id": "1594988610",
+    "title": "Parallelized Annealed Particle Filter for real-time marker-less motion tracking via heterogeneous computing",
+    "venue": "international conference on pattern recognition",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yatao Bian",
+            "id": "2756081310",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Xu Zhao",
+            "id": "2527288379",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Jian Song",
+            "id": "2683615145",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Yuncai Liu",
+            "id": "2127547127",
+            "org": "Shanghai Jiao Tong University"
+        }
+    ],
+    "fields_of_study": [
+        "Video tracking",
+        "Particle filter",
+        "Computer science",
+        "Particle number",
+        "Granularity",
+        "Latency (engineering)",
+        "Symmetric multiprocessor system",
+        "Degree of parallelism",
+        "Match moving",
+        "Real-time computing"
+    ],
+    "references": [
+        "1514156535",
+        "1992531212",
+        "2006178360",
+        "2141218264",
+        "2144124341"
+    ]
+}

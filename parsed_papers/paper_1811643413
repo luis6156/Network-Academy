@@ -1,0 +1,37 @@
+{
+    "id": "1811643413",
+    "title": "Efficient hardware implementation of the DES",
+    "venue": "international cryptology conference",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Frank Hoonaert",
+            "id": "2276247077",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Jo Goubert",
+            "id": "2080093513",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Computer science",
+        "Implementation",
+        "Permutation"
+    ],
+    "references": [
+        "1666015432",
+        "1792236423",
+        "1991374982",
+        "2122096983",
+        "2299381987"
+    ]
+}

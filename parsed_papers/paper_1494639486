@@ -1,0 +1,66 @@
+{
+    "id": "1494639486",
+    "title": "Efficient object storage journaling in a distributed parallel file system",
+    "venue": "file and storage technologies",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sarp Oral",
+            "id": "2780220628",
+            "org": "National Center for Computational Sciences, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Feiyi Wang",
+            "id": "2159067116",
+            "org": "National Center for Computational Sciences, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "David A Dillow",
+            "id": "1069931484",
+            "org": "National Center for Computational Sciences, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Galen M. Shipman",
+            "id": "2074390756",
+            "org": "National Center for Computational Sciences, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Ross Miller",
+            "id": "2664822686",
+            "org": "National Center for Computational Sciences, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Oleg Drokin",
+            "id": "883263884",
+            "org": "Lustre Center of Excellence at ORNL, Sun Microsystem Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System Prevalence",
+        "Computer science",
+        "Object storage",
+        "Versioning file system",
+        "Page cache",
+        "Lustre (file system)",
+        "Journaling file system",
+        "Self-certifying File System",
+        "Operating system",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "135447215",
+        "1557990038",
+        "1905472827",
+        "2043759906",
+        "2096263410",
+        "2097590615",
+        "2108183412",
+        "2124213351",
+        "2150697658",
+        "2155463028",
+        "2163785249",
+        "2171352284",
+        "2171906548"
+    ]
+}

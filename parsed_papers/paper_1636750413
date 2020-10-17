@@ -1,0 +1,40 @@
+{
+    "id": "1636750413",
+    "title": "Fast Software Encryption: Designing Encryption Algorithms for Optimal Software Speed on the Intel Pentium Processor",
+    "venue": "fast software encryption",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Doug Whiting",
+            "id": "2305174373",
+            "org": "Stac Electronics"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Parallel computing",
+        "Computer architecture",
+        "Software",
+        "Assembly language",
+        "Algorithm design",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Blowfish",
+        "Pentium"
+    ],
+    "references": [
+        "1481631217",
+        "1500356409",
+        "1527701244",
+        "1664808737",
+        "1978695162",
+        "2157047743"
+    ]
+}

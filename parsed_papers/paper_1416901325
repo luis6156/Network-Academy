@@ -1,0 +1,90 @@
+{
+    "id": "1416901325",
+    "title": "Non-blocking writes to files",
+    "venue": "file and storage technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Daniel Campello",
+            "id": "1974504553",
+            "org": "Florida International University#TAB#"
+        },
+        {
+            "name": "Hector Lopez",
+            "id": "2147052425",
+            "org": "Florida International University#TAB#"
+        },
+        {
+            "name": "Luis Useche",
+            "id": "2781363936",
+            "org": "Google Inc.#TAB#"
+        },
+        {
+            "name": "Ricardo Koller",
+            "id": "2558155273",
+            "org": "IBM TJ Watson Research Center#TAB#"
+        },
+        {
+            "name": "Raju Rangaswami",
+            "id": "1982859237",
+            "org": "Florida International University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Computation",
+        "Computer science",
+        "Page cache",
+        "Latency (engineering)",
+        "Fetch",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "98895588",
+        "135447215",
+        "1267086182",
+        "1520248310",
+        "1534462129",
+        "1551103625",
+        "1567210335",
+        "1669311694",
+        "1677118421",
+        "1679685803",
+        "1741509911",
+        "1793325024",
+        "1816930083",
+        "1916709771",
+        "1967141605",
+        "1989165865",
+        "1992755462",
+        "1995790197",
+        "2009404871",
+        "2023678166",
+        "2029740518",
+        "2047418149",
+        "2048588974",
+        "2062872887",
+        "2084592436",
+        "2102449048",
+        "2113637091",
+        "2115600841",
+        "2125788329",
+        "2128946566",
+        "2132929952",
+        "2135393827",
+        "2142098074",
+        "2143677609",
+        "2149864698",
+        "2150662965",
+        "2159779511",
+        "2163820265",
+        "2164705534",
+        "2168032676",
+        "2172654620",
+        "2209415352",
+        "2236544529",
+        "2620706897"
+    ]
+}

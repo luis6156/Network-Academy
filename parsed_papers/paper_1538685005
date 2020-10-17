@@ -1,0 +1,76 @@
+{
+    "id": "1538685005",
+    "title": "Side channel attacks and countermeasures on pairing based cryptosystems over binary fields",
+    "venue": "cryptology and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tae-Hyun Kim",
+            "id": "2227972863",
+            "org": "Center for Information and Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Tsuyoshi Takagi",
+            "id": "2051837146",
+            "org": "FUTURE UNIVERSITY-HAKODATE, Japan#TAB#"
+        },
+        {
+            "name": "Dong-Guk Han",
+            "id": "2308358469",
+            "org": "Electronics and Telecommunications Research Institute(ETRI), Korea#TAB#"
+        },
+        {
+            "name": "Howon Kim",
+            "id": "2307802398",
+            "org": "Electronics and Telecommunications Research Institute(ETRI), Korea#TAB#"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Center for Information and Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Pairing-based cryptography",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Computation",
+        "Computer science",
+        "Pairing",
+        "Computer security",
+        "Power analysis",
+        "Cryptosystem"
+    ],
+    "references": [
+        "62096399",
+        "68013446",
+        "115792472",
+        "1481574984",
+        "1503689022",
+        "1518871948",
+        "1547639591",
+        "1565369953",
+        "1610688607",
+        "1637905077",
+        "1643928249",
+        "1801647650",
+        "1860992226",
+        "2015453719",
+        "2028372707",
+        "2032767749",
+        "2055083041",
+        "2086042811",
+        "2097493047",
+        "2101458679",
+        "2112914778",
+        "2121371977",
+        "2140216877",
+        "2150637835",
+        "2154909745",
+        "2155998973",
+        "2167006969",
+        "2487059806"
+    ]
+}

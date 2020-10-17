@@ -1,0 +1,30 @@
+{
+    "id": "1533835174",
+    "title": "Proof-Set Search",
+    "venue": "annual conference on computers",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Martin Muller",
+            "id": "2157217378",
+            "org": "University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Interpolation search",
+        "Incremental heuristic search",
+        "Search algorithm",
+        "Iterative deepening depth-first search",
+        "Combinatorics",
+        "Best-first search",
+        "Fringe search",
+        "Search tree"
+    ],
+    "references": [
+        "1497740629",
+        "1544560613",
+        "2049361636"
+    ]
+}

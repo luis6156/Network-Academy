@@ -1,0 +1,54 @@
+{
+    "id": "1581134854",
+    "title": "Bit-Pattern Based Integral Attack",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Muhammad Reza Z'aba",
+            "id": "2303835865",
+            "org": "Information Security Institute, Queensland University of Technology, Brisbane, Australia Queensland 4001#TAB#"
+        },
+        {
+            "name": "Havard Raddum",
+            "id": "174128570",
+            "org": "Selmersenteret, University of Bergen, Norway#TAB#"
+        },
+        {
+            "name": "Matthew Henricksen",
+            "id": "2066623285",
+            "org": "Institute for Infocomm Research, A*STAR, , Singapore, 119613#TAB#"
+        },
+        {
+            "name": "Ed Dawson",
+            "id": "2147948275",
+            "org": "Information Security Institute, Queensland University of Technology, Brisbane, Australia Queensland 4001#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Integral cryptanalysis",
+        "Theoretical computer science",
+        "Higher-order differential cryptanalysis",
+        "Related-key attack",
+        "Stream cipher attack",
+        "Differential cryptanalysis",
+        "Slide attack",
+        "Correlation attack"
+    ],
+    "references": [
+        "82606690",
+        "1518406241",
+        "1532041351",
+        "1540066842",
+        "1558609276",
+        "1565173996",
+        "1616671299",
+        "1870015754",
+        "1894646615",
+        "1920313804",
+        "2061323203",
+        "2615126819"
+    ]
+}

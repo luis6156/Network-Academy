@@ -1,0 +1,81 @@
+{
+    "id": "1588097500",
+    "title": "Strong Adaptive Chosen-Ciphertext Attacks with Memory Dump (or: The Importance of the Order of Decryption and Validation)",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Seungjoo Kim",
+            "id": "2139158536",
+            "org": "KISA (Korea Information Security Agency)"
+        },
+        {
+            "name": "Jung Hee Cheon",
+            "id": "1817788928",
+            "org": "ICU (Information and Communications Univ.)"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Seongan Lim",
+            "id": "2101013755",
+            "org": "KISA (Korea Information Security Agency)"
+        },
+        {
+            "name": "Masahiro Mambo",
+            "id": "2276012637",
+            "org": "Tohoku University"
+        },
+        {
+            "name": "Dongho Won",
+            "id": "2127395087",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Yuliang Zheng",
+            "id": "2299933155",
+            "org": "UNC Charlotte"
+        }
+    ],
+    "fields_of_study": [
+        "Core dump",
+        "Distributed computing",
+        "Computer science",
+        "Encryption",
+        "Cryptosystem",
+        "Attack model",
+        "Ciphertext",
+        "Adversary",
+        "Chosen-ciphertext attack",
+        "Provable security"
+    ],
+    "references": [
+        "78465988",
+        "140743382",
+        "174706587",
+        "1495266644",
+        "1511943692",
+        "1516512945",
+        "1552695147",
+        "1572695506",
+        "1579435243",
+        "1586972594",
+        "1589176872",
+        "1594742286",
+        "1607264302",
+        "1706109527",
+        "1809974132",
+        "1871739018",
+        "1996360405",
+        "2052267638",
+        "2073210531",
+        "2101803085",
+        "2106583429",
+        "2108834246",
+        "2109365488",
+        "2161195863"
+    ]
+}

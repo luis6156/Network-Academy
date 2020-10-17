@@ -1,0 +1,49 @@
+{
+    "id": "1568869856",
+    "title": "Performance Optimization for Large Scale Computing: The Scalable VAMPIR Approach",
+    "venue": "international conference on computational science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Holger Brunst",
+            "id": "2233930081",
+            "org": "Dresden University of Technology Center for High Performance Computing D-01062 Dresden Germany"
+        },
+        {
+            "name": "Hans-Christian Hoppe",
+            "id": "2618840805",
+            "org": "Dresden University of Technology Center for High Performance Computing D-01062 Dresden Germany"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Dresden University of Technology Center for High Performance Computing D-01062 Dresden Germany"
+        },
+        {
+            "name": "Manuela Winkler",
+            "id": "2710447781",
+            "org": "PALLAS GmbH Hermuhlheimer Str. 10 D-50321 Bruhl Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Massively parallel",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Hierarchical database model",
+        "Multithreading",
+        "Message passing",
+        "Evolutionary algorithm",
+        "Data visualization",
+        "Bottleneck"
+    ],
+    "references": [
+        "80878036",
+        "2018714943",
+        "2072982258",
+        "2098984303",
+        "2110368245",
+        "2160468841"
+    ]
+}

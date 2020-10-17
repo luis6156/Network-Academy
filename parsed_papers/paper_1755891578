@@ -1,0 +1,67 @@
+{
+    "id": "1755891578",
+    "title": "Detection of independently moving objects in non-planar scenes via multi-frame monocular epipolar constraint",
+    "venue": "european conference on computer vision",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Soumyabrata Dey",
+            "id": "2128951241",
+            "org": "Computer Vision Lab, University of Central Florida, Orlando#TAB#"
+        },
+        {
+            "name": "Vladimir Reilly",
+            "id": "2118940480",
+            "org": "Computer Vision Lab, University of Central Florida, Orlando#TAB#"
+        },
+        {
+            "name": "Imran Saleemi",
+            "id": "2152303915",
+            "org": "Computer Vision Lab, University of Central Florida, Orlando#TAB#"
+        },
+        {
+            "name": "Mubarak Shah",
+            "id": "2171354718",
+            "org": "Computer Vision Lab, University of Central Florida, Orlando#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Optical flow",
+        "Computer vision",
+        "Camera auto-calibration",
+        "Parameterized complexity",
+        "Epipolar geometry",
+        "Monocular",
+        "Match moving",
+        "Fundamental matrix (computer vision)",
+        "Orthographic projection",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1693345094",
+        "1979521456",
+        "1999052676",
+        "2092598265",
+        "2098079560",
+        "2102481828",
+        "2102625004",
+        "2114701396",
+        "2121153043",
+        "2122423951",
+        "2125824324",
+        "2128903859",
+        "2131729179",
+        "2141720053",
+        "2141822239",
+        "2142912032",
+        "2147251136",
+        "2152246431",
+        "2159669057",
+        "2161348917",
+        "2168813398",
+        "2171885832",
+        "2395887112",
+        "2536706996"
+    ]
+}

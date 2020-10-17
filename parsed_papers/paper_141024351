@@ -1,0 +1,70 @@
+{
+    "id": "141024351",
+    "title": "Recursively cautious congestion control",
+    "venue": "networked systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Radhika Mittal",
+            "id": "2138214042",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Justine Sherry",
+            "id": "2115429334",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Sylvia Ratnasamy",
+            "id": "190228929",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Scott Shenker",
+            "id": "719828399",
+            "org": "UC Berkeley and ICSI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "TCP congestion-avoidance algorithm",
+        "Recursion",
+        "Linux kernel",
+        "Computer science",
+        "Distributed computing",
+        "Bandwidth (signal processing)",
+        "Slow-start",
+        "TCP Friendly Rate Control",
+        "Real-time computing"
+    ],
+    "references": [
+        "1504771965",
+        "1523209876",
+        "1675432432",
+        "1716229707",
+        "1867902620",
+        "1912108019",
+        "1941181913",
+        "1965095275",
+        "1981800388",
+        "1988975763",
+        "1996468553",
+        "2022844530",
+        "2031219179",
+        "2100166367",
+        "2103701891",
+        "2103830109",
+        "2112495447",
+        "2113481187",
+        "2118040869",
+        "2135632979",
+        "2138677762",
+        "2139378549",
+        "2139530603",
+        "2141708177",
+        "2146586903",
+        "2148662748",
+        "2152340385",
+        "2163038493"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1524838773",
+    "title": "Towards provably correct code generation via horn logical continuation semantics",
+    "venue": "practical aspects of declarative languages",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Qian Wang",
+            "id": "2420544303",
+            "org": "Department of Computer Science, University of Texas at Dallas, Richardson, TX#TAB#"
+        },
+        {
+            "name": "Gopal Gupta",
+            "id": "2101413274",
+            "org": "Department of Computer Science, University of Texas at Dallas, Richardson, TX#TAB#"
+        },
+        {
+            "name": "Michael Leuschel",
+            "id": "2319253324",
+            "org": "Department of Electronics and Computer Science, University of Southampton, Southampton, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Well-founded semantics",
+        "Logical framework",
+        "Algorithm",
+        "Computer science",
+        "Denotational semantics",
+        "Continuation",
+        "Code generation",
+        "Action semantics",
+        "Operational semantics",
+        "Programming language",
+        "Proof-theoretic semantics"
+    ],
+    "references": [
+        "170899383",
+        "1502834793",
+        "1555878237",
+        "1556566737",
+        "1613525582",
+        "2037317228",
+        "2077436409",
+        "2125708466",
+        "2137818097",
+        "2139202781",
+        "2155891457",
+        "2158744037",
+        "2161216820",
+        "2166230870"
+    ]
+}

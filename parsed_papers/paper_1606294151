@@ -1,0 +1,40 @@
+{
+    "id": "1606294151",
+    "title": "An Advantage of Low-Exponent RSA with Modulus Primes Sharing Least Significant Bits",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ron Steinfeld",
+            "id": "2146879686",
+            "org": "School of Network Computing Monash University"
+        },
+        {
+            "name": "Yuliang Zheng",
+            "id": "2299933155",
+            "org": "School of Network Computing Monash University"
+        }
+    ],
+    "fields_of_study": [
+        "Modular equation",
+        "Cryptography",
+        "Mathematics",
+        "Discrete mathematics",
+        "Chinese remainder theorem",
+        "Modulus",
+        "Least significant bit",
+        "Lattice reduction",
+        "Public-key cryptography",
+        "Polynomial"
+    ],
+    "references": [
+        "1530462290",
+        "1574208347",
+        "1608326824",
+        "1660562555",
+        "1996360405",
+        "2101040389",
+        "2119569175",
+        "2156666175"
+    ]
+}

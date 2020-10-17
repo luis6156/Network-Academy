@@ -1,0 +1,36 @@
+{
+    "id": "1548708456",
+    "title": "Simple and Efficient Election Algorithms for Anonymous Networks",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Yossi Matias",
+            "id": "1874579918",
+            "org": "Tel-Aviv University"
+        },
+        {
+            "name": "Yehuda Afek",
+            "id": "341823498",
+            "org": "Tel-Aviv University"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous communication",
+        "Distributed computing",
+        "Deterministic algorithm",
+        "Computer science",
+        "Probabilistic analysis of algorithms",
+        "Leader election"
+    ],
+    "references": [
+        "1507828656",
+        "1577466578",
+        "1984515107",
+        "2022143201",
+        "2052504823",
+        "2061496873",
+        "2074638099",
+        "2094021108"
+    ]
+}

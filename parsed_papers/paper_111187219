@@ -1,0 +1,65 @@
+{
+    "id": "111187219",
+    "title": "Adaptive Task Size Control on High Level Programming for GPU/CPU Work Sharing",
+    "venue": "international conference on algorithms and architectures for parallel processing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Tetsuya Odajima",
+            "id": "2062542046",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Japan#TAB#"
+        },
+        {
+            "name": "Taisuke Boku",
+            "id": "184900542",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Japan and Center for Computational Sciences, University of Tsukuba, Japan#TAB#"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Japan and Center for Computational Sciences, University of Tsukuba, Japan#TAB#"
+        },
+        {
+            "name": "Toshihiro Hanawa",
+            "id": "1979354585",
+            "org": "Center for Computational Sciences, University of Tsukuba, Japan#TAB#"
+        },
+        {
+            "name": "Yuetsu Kodama",
+            "id": "1979643770",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Japan and Center for Computational Sciences, University of Tsukuba, Japan#TAB#"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "University of Bordeaux - LaBRI - INRIA Bordeaux Sud-Ouest, France#TAB#"
+        },
+        {
+            "name": "Samuel Thibault",
+            "id": "2085880144",
+            "org": "University of Bordeaux - LaBRI - INRIA Bordeaux Sud-Ouest, France#TAB#"
+        },
+        {
+            "name": "Olivier Aumage",
+            "id": "33265524",
+            "org": "University of Bordeaux - LaBRI - INRIA Bordeaux Sud-Ouest, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Partitioned global address space",
+        "Parallel computing",
+        "High-level programming language",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Symmetric multiprocessor system",
+        "Runtime system",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1673512521",
+        "1991315896",
+        "2050930161",
+        "2073686898"
+    ]
+}

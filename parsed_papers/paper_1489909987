@@ -1,0 +1,66 @@
+{
+    "id": "1489909987",
+    "title": "Linear-Time Longest-Common-Prefix Computation in Suffix Arrays and Its Applications",
+    "venue": "combinatorial pattern matching",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Toru Kasai",
+            "id": "2112586371",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Gunho Lee",
+            "id": "2479822717",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Hiroki Arimura",
+            "id": "2018050652",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Setsuo Arikawa",
+            "id": "1907359370",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Kunsoo Park",
+            "id": "2149480606",
+            "org": "Seoul National University"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "FM-index",
+        "Longest common substring problem",
+        "Computer science",
+        "LCP array",
+        "Combinatorics",
+        "Generalized suffix tree",
+        "Longest repeated substring problem",
+        "Suffix array",
+        "Suffix tree",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "1492127831",
+        "1509982770",
+        "1510415214",
+        "1549947663",
+        "1974983766",
+        "1990061958",
+        "2013697960",
+        "2024147613",
+        "2056707490",
+        "2059513841",
+        "2075136957",
+        "2091694893",
+        "2121252285",
+        "2129351872",
+        "2158322625",
+        "2158874082",
+        "2170899819",
+        "2631637567"
+    ]
+}

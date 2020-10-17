@@ -1,0 +1,52 @@
+{
+    "id": "1539550196",
+    "title": "CompostBin: a DNA composition-based algorithm for binning environmental shotgun reads",
+    "venue": "research in computational molecular biology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sourav Chatterji",
+            "id": "2251107977",
+            "org": "Genome Center, U C Davis, Davis, CA#TAB#"
+        },
+        {
+            "name": "Ichitaro Yamazaki",
+            "id": "1997111001",
+            "org": "Computer Science Department, U C Davis, Davis, CA#TAB#"
+        },
+        {
+            "name": "Zhaojun Bai",
+            "id": "2162882385",
+            "org": "Computer Science Department, U C Davis, Davis, CA#TAB#"
+        },
+        {
+            "name": "Jonathan A. Eisen",
+            "id": "2059282826",
+            "org": "Genome Center, U C Davis, Davis, CA and The Joint Genome Institute, Walnut Creek, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Biology",
+        "Algorithm",
+        "Genome",
+        "Metagenomics",
+        "Shotgun sequencing",
+        "Data set",
+        "Contig",
+        "Bin",
+        "Cluster analysis",
+        "Bioinformatics",
+        "Feature extraction"
+    ],
+    "references": [
+        "1562379206",
+        "2082612735",
+        "2099741732",
+        "2105199251",
+        "2121947440",
+        "2132603077",
+        "2137137397",
+        "2140095548",
+        "2169267759"
+    ]
+}

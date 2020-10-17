@@ -1,0 +1,45 @@
+{
+    "id": "1485920490",
+    "title": "Computing Inverse ST in Linear Complexity",
+    "venue": "combinatorial pattern matching",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ge Nong",
+            "id": "2510438339",
+            "org": "Computer Science Department, Sun Yat-Sen University, P.R.C.#TAB#"
+        },
+        {
+            "name": "Sen Zhang",
+            "id": "2673690922",
+            "org": "Dept. of Math., Comp. Sci. and Stat., SUNY College at Oneonta, U.S.A.#TAB#"
+        },
+        {
+            "name": "Wai Hong Chan",
+            "id": "2154919416",
+            "org": "Department of Mathematics, Hong Kong Baptist University, Hong Kong#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Speedup",
+        "Discrete mathematics",
+        "Burrows-Wheeler transform",
+        "Inverse",
+        "sort",
+        "Combinatorics",
+        "LCP array",
+        "Sorting"
+    ],
+    "references": [
+        "1489909987",
+        "1517211118",
+        "1574401506",
+        "2130025130",
+        "2141473546",
+        "2149949798",
+        "2153183749",
+        "2302931629"
+    ]
+}

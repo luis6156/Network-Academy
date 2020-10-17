@@ -1,0 +1,52 @@
+{
+    "id": "1545342238",
+    "title": "Performance analysis and tuning of automatically parallelized OpenMP applications",
+    "venue": "international workshop on openmp",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Dheya Mustafa",
+            "id": "2274023751",
+            "org": "ECE, Purdue University, West Lafayette, IN#TAB#"
+        },
+        {
+            "name": "Aurangzeb Aurangzeb",
+            "id": "2510793933",
+            "org": "ECE, Purdue University, West Lafayette, IN#TAB#"
+        },
+        {
+            "name": "Rudolf Eigenmann",
+            "id": "2075111996",
+            "org": "ECE, Purdue University, West Lafayette, IN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Performance gap",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Performance metric",
+        "Serialization",
+        "Exploit",
+        "Performance improvement",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1492441999",
+        "1506090700",
+        "1529511812",
+        "1623282124",
+        "1980999196",
+        "1987304299",
+        "2007451249",
+        "2017722158",
+        "2044280736",
+        "2056579078",
+        "2058021293",
+        "2071110673",
+        "2126026097",
+        "2143549041",
+        "2164197394",
+        "2166536280"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "169590971",
+    "title": "Efficient incremental search for moving target search",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Xiaoxun Sun",
+            "id": "2106056835",
+            "org": "Computer Science Department, University of Southern California, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "William Yeoh",
+            "id": "2144475260",
+            "org": "Computer Science Department, University of Southern California, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "Sven Koenig",
+            "id": "2130082723",
+            "org": "Computer Science Department, University of Southern California, Los Angeles, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Interpolation search",
+        "Incremental heuristic search",
+        "Computer science",
+        "Iterative deepening depth-first search",
+        "Bidirectional search",
+        "Beam stack search",
+        "Fringe search",
+        "Backtracking line search",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "61596088",
+        "99943456",
+        "171176510",
+        "256487942",
+        "1516784847",
+        "1646038686",
+        "2113256452",
+        "2122128939",
+        "2145089737",
+        "2155778482",
+        "2293971034"
+    ]
+}

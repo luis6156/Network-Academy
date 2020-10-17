@@ -1,0 +1,33 @@
+{
+    "id": "1503780205",
+    "title": "TLQSolver: A Temporal Logic Query Checker",
+    "venue": "computer aided verification",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Marsha Chechik",
+            "id": "2032435099",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Arie Gurfinkel",
+            "id": "2798019605",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Symbol",
+        "Speedup",
+        "Temporal logic",
+        "Computer science",
+        "CTL*",
+        "Propositional formula"
+    ],
+    "references": [
+        "1526440063",
+        "1549312786",
+        "1933906947",
+        "2203616022"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1500329389",
+    "title": "A new technique for proving self-stabilizing under the distributed scheduler",
+    "venue": "international conference on stabilization safety and security of distributed systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sven Kohler",
+            "id": "2230037816",
+            "org": "Institute of Telematics, Hamburg University of Technology, Hamburg, Germany#TAB#"
+        },
+        {
+            "name": "Volker Turau",
+            "id": "17064567",
+            "org": "Institute of Telematics, Hamburg University of Technology, Hamburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Mutual exclusion",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Mathematical proof",
+        "Scheduler activations",
+        "Open problem",
+        "Fixed-priority pre-emptive scheduling"
+    ],
+    "references": [
+        "1557931337",
+        "1599359157",
+        "1998598162",
+        "2111132249",
+        "2123002654",
+        "2131443605",
+        "2137251846",
+        "2340995113"
+    ]
+}

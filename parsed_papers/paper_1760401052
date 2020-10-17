@@ -1,0 +1,55 @@
+{
+    "id": "1760401052",
+    "title": "Applying Machine Learning Techniques for Detection of Malicious Code in Network Traffic",
+    "venue": "KI '07 Proceedings of the 30th annual German conference on Advances in Artificial Intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yuval Elovici",
+            "id": "284313219",
+            "org": "Deutsche Telekom Laboratories at Ben-Gurion University, Be'er Sheva, 84105, Israel#TAB#"
+        },
+        {
+            "name": "Asaf Shabtai",
+            "id": "1514115001",
+            "org": "Deutsche Telekom Laboratories at Ben-Gurion University, Be'er Sheva, 84105, Israel#TAB#"
+        },
+        {
+            "name": "Robert Moskovitch",
+            "id": "319285823",
+            "org": "Deutsche Telekom Laboratories at Ben-Gurion University, Be'er Sheva, 84105, Israel#TAB#"
+        },
+        {
+            "name": "Gil Tahan",
+            "id": "2051284938",
+            "org": "Deutsche Telekom Laboratories at Ben-Gurion University, Be'er Sheva, 84105, Israel#TAB#"
+        },
+        {
+            "name": "Chanan Glezer",
+            "id": "47481801",
+            "org": "Deutsche Telekom Laboratories at Ben-Gurion University, Be'er Sheva, 84105, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network service",
+        "Machine learning",
+        "Executable",
+        "Bayesian network",
+        "Static program analysis",
+        "Distributed computing",
+        "Computer science",
+        "Feature selection",
+        "Decision tree",
+        "Artificial neural network",
+        "Web traffic",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2099053789",
+        "2125055259",
+        "2143075689",
+        "2144112223",
+        "2152761983",
+        "2170770919"
+    ]
+}

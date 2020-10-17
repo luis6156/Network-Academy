@@ -1,0 +1,47 @@
+{
+    "id": "1507383904",
+    "title": "A Practical Transaction Model and Untrusted Transaction Manager for a Multilevel-Secure Database System.",
+    "venue": "DBSec",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Myong H. Kang",
+            "id": "2144294207",
+            "org": "Center for Secure Information Technology|Naval Research Laboratory"
+        },
+        {
+            "name": "Oliver Costich",
+            "id": "2047646874",
+            "org": "Center for Secure Information Systems|George Mason University"
+        },
+        {
+            "name": "Judith N. Froscher",
+            "id": "167164221",
+            "org": "Center for Secure Information Technology|Naval Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Nested transaction",
+        "Transaction processing system",
+        "Transaction processing",
+        "Computer security",
+        "Business",
+        "X/Open XA",
+        "Autocommit",
+        "Database",
+        "Distributed transaction",
+        "Database transaction"
+    ],
+    "references": [
+        "1550353286",
+        "1559467224",
+        "2044555065",
+        "2068916775",
+        "2103184997",
+        "2110938135",
+        "2134309956",
+        "2137825655",
+        "2174103411"
+    ]
+}

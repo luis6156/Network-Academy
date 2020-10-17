@@ -1,0 +1,62 @@
+{
+    "id": "136886267",
+    "title": "Updates on Generic Attacks against HMAC and NMAC",
+    "venue": "international cryptology conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jian Guo",
+            "id": "2151853455",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2524111462",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Secure Platform Laboratories"
+        },
+        {
+            "name": "Lei Wang",
+            "id": "2713716783",
+            "org": "Nanyang Technological University"
+        }
+    ],
+    "fields_of_study": [
+        "Key-recovery attack",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Computation",
+        "Computer science",
+        "Distributed computing",
+        "Precomputation",
+        "Hash function",
+        "Key (lock)",
+        "Inefficiency",
+        "Adversary"
+    ],
+    "references": [
+        "73035980",
+        "105372217",
+        "114266549",
+        "116297935",
+        "125294948",
+        "172350176",
+        "1533007301",
+        "1550579237",
+        "1553792294",
+        "1582906022",
+        "1656678770",
+        "2012646342",
+        "2103833437",
+        "2127124188",
+        "2131300413",
+        "2151514199",
+        "2226303357",
+        "2340541605",
+        "2585819574"
+    ]
+}

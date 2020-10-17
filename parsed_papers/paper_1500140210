@@ -1,0 +1,63 @@
+{
+    "id": "1500140210",
+    "title": "Trojan Side-Channels: Lightweight Hardware Trojans through Side-Channel Engineering",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Lang Lin",
+            "id": "2178992099",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA#TAB#"
+        },
+        {
+            "name": "Markus Kasper",
+            "id": "2002906178",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Tim Guneysu",
+            "id": "1977790142",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA and Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Wayne Burleson",
+            "id": "324859191",
+            "org": "Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Trojan",
+        "Field-programmable gate array",
+        "Computer hardware",
+        "Side channel attack",
+        "Computer science",
+        "Communication channel",
+        "Encryption",
+        "Embedded system",
+        "Integrated circuit",
+        "Noise power",
+        "Covert channel"
+    ],
+    "references": [
+        "1541663547",
+        "1560022750",
+        "1585450308",
+        "1629850749",
+        "1664808737",
+        "2073203474",
+        "2098536553",
+        "2104671161",
+        "2110601965",
+        "2126541236",
+        "2144007792",
+        "2145937629",
+        "2150928734",
+        "2154909745",
+        "2170602155"
+    ]
+}

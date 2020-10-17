@@ -1,0 +1,55 @@
+{
+    "id": "1775093401",
+    "title": "A portable kernel abstraction for low-overhead ephemeral mapping management",
+    "venue": "usenix annual technical conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Khaled Elmeleegy",
+            "id": "2159963788",
+            "org": "Department of Computer Science, Rice University, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Anupam Chanda",
+            "id": "2097996354",
+            "org": "Department of Computer Science, Rice University, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Alan L. Cox",
+            "id": "2139024270",
+            "org": "Department of Computer Science, Rice University, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Willy Zwaenepoel",
+            "id": "2290999210",
+            "org": "School of Computer and Communication Sciences, EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Inter-process communication",
+        "Ephemeral key",
+        "Parallel computing",
+        "Peer-to-peer",
+        "Ranging",
+        "Computer science",
+        "Multiprocessing",
+        "Architecture",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "40642352",
+        "1495070269",
+        "1496417343",
+        "1551103625",
+        "1971288175",
+        "2048350173",
+        "2049631480",
+        "2097174266",
+        "2108580089",
+        "2108914546",
+        "2112933602",
+        "2121340036"
+    ]
+}

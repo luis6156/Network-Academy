@@ -1,0 +1,56 @@
+{
+    "id": "1605179643",
+    "title": "A note on randomized algorithm for string matching with mismatches",
+    "venue": "prague stringology conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kensuke Baba",
+            "id": "2799894448",
+            "org": "PRESTO, Japan Science and Technology Corporation, Kawaguchi City, Saitama Prefecture 332-0012, Japan#TAB#"
+        },
+        {
+            "name": "Ayumi Shinohara",
+            "id": "2149841904",
+            "org": "PRESTO, Japan Science and Technology Corporation, Kawaguchi City, Saitama Prefecture 332-0012, Japan and Department of Informatics, Kyushu University 33, Fukuoka 812-8581, Japan#TAB#"
+        },
+        {
+            "name": "Masayuki Takeda",
+            "id": "2558385632",
+            "org": "PRESTO, Japan Science and Technology Corporation, Kawaguchi City, Saitama Prefecture 332-0012, Japan and Department of Informatics, Kyushu University 33, Fukuoka 812-8581, Japan#TAB#"
+        },
+        {
+            "name": "Shunsuke Inenaga",
+            "id": "243724773",
+            "org": "Department of Informatics, Kyushu University 33, Fukuoka 812-8581, Japan#TAB#"
+        },
+        {
+            "name": "Setsuo Arikawa",
+            "id": "1907359370",
+            "org": "Department of Informatics, Kyushu University 33, Fukuoka 812-8581, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "String searching algorithm",
+        "Randomized algorithm",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Boyer-Moore string search algorithm",
+        "Rabin-Karp algorithm",
+        "Prime-factor FFT algorithm",
+        "Fast Fourier transform",
+        "Commentz-Walter algorithm",
+        "Approximate string matching"
+    ],
+    "references": [
+        "1536229846",
+        "1981409766",
+        "1987426253",
+        "1989204408",
+        "1990061958",
+        "2008249302",
+        "2077065215",
+        "2611477341"
+    ]
+}

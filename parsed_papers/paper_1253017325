@@ -1,0 +1,63 @@
+{
+    "id": "1253017325",
+    "title": "Software mitigations to hedge AES against cache-based software side channel vulnerabilities.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ernie Brickell",
+            "id": "2098628844",
+            "org": "Intel"
+        },
+        {
+            "name": "Gary L. Graunke",
+            "id": "2491978144",
+            "org": "Intel"
+        },
+        {
+            "name": "Michael Neve",
+            "id": "2363166985",
+            "org": "Intel"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2727304887",
+            "org": "Intel"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Side channel attack",
+        "Software",
+        "Vulnerability",
+        "Computer science",
+        "Communication channel",
+        "AES implementations",
+        "Computer network",
+        "Smart card"
+    ],
+    "references": [
+        "130371449",
+        "172103385",
+        "1482030462",
+        "1488058190",
+        "1566796882",
+        "1571867944",
+        "1592889082",
+        "1890449996",
+        "1994390420",
+        "2003932062",
+        "2016237014",
+        "2099137371",
+        "2107691219",
+        "2110361443",
+        "2111015674",
+        "2126132644",
+        "2137243422",
+        "2137902624",
+        "2145693081",
+        "2156817460",
+        "2166180744",
+        "2612208439"
+    ]
+}

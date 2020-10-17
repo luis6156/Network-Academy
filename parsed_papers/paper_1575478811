@@ -1,0 +1,68 @@
+{
+    "id": "1575478811",
+    "title": "Secure authentication from a weak key, without leaking information",
+    "venue": "international cryptology conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Niek J. Bouman",
+            "id": "2306692917",
+            "org": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Serge Fehr",
+            "id": "2169794331",
+            "org": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key authentication",
+        "Key distribution",
+        "Session key",
+        "Distributed computing",
+        "Weak key",
+        "Computer science",
+        "Derived unique key per transaction",
+        "Static key",
+        "Pre-shared key",
+        "Key generation"
+    ],
+    "references": [
+        "1508777461",
+        "1547785251",
+        "1574185037",
+        "1585844421",
+        "1595513981",
+        "1602249873",
+        "1614939177",
+        "1787639898",
+        "1788452017",
+        "1870725489",
+        "1976385711",
+        "2006664424",
+        "2007866204",
+        "2052207834",
+        "2090418561",
+        "2097079400",
+        "2097707717",
+        "2114805880",
+        "2116926584",
+        "2131300413",
+        "2140805804",
+        "2145821789",
+        "2146749986",
+        "2146813141",
+        "2153971105",
+        "2163122958",
+        "2163552131",
+        "2164253138",
+        "2166827968",
+        "2166986599",
+        "2167179301",
+        "2170255835",
+        "2194772305",
+        "2250927570",
+        "2403732950",
+        "2570008916"
+    ]
+}

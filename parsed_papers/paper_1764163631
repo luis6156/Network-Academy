@@ -1,0 +1,53 @@
+{
+    "id": "1764163631",
+    "title": "Approximate range emptiness in constant time and optimal space",
+    "venue": "symposium on discrete algorithms",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Mayank Goswami",
+            "id": "2159811897",
+            "org": "Max-Planck Institute for Informatics#TAB#"
+        },
+        {
+            "name": "Allan Gronlund",
+            "id": "2081347636",
+            "org": "Aarhus University#TAB#"
+        },
+        {
+            "name": "Kasper Green Larsen",
+            "id": "2099431339",
+            "org": "Aarhus University#TAB#"
+        },
+        {
+            "name": "Rasmus Pagh",
+            "id": "1864519460",
+            "org": "IT University of Copenhagen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Of the form",
+        "Discrete mathematics",
+        "False positive paradox",
+        "Bloom filter",
+        "Combinatorics",
+        "Bounded function",
+        "False positive rate",
+        "Data structure",
+        "Upper and lower bounds",
+        "Succinct data structure"
+    ],
+    "references": [
+        "1562034888",
+        "1965185568",
+        "1991638668",
+        "1993284846",
+        "2018423671",
+        "2081869611",
+        "2112821228",
+        "2123845384",
+        "2145269645",
+        "2296477840"
+    ]
+}

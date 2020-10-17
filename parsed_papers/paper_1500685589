@@ -1,0 +1,41 @@
+{
+    "id": "1500685589",
+    "title": "Adding Inferencing to a Relational Database Management System",
+    "venue": "BTW",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "R. Marti",
+            "id": "2439222536",
+            "org": "ETH-Zentrum"
+        },
+        {
+            "name": "Christian A. Wieland",
+            "id": "2655100376",
+            "org": "ETH-Zentrum"
+        },
+        {
+            "name": "Beat Wuthrich",
+            "id": "2400747139",
+            "org": "ETH-Zentrum"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Object-relational impedance mismatch",
+        "Data definition language",
+        "Database model",
+        "Computer science",
+        "Datalog",
+        "Database",
+        "Relational model",
+        "SQL",
+        "Relational database management system"
+    ],
+    "references": [
+        "1487591965",
+        "1502834793",
+        "2092842298",
+        "2132063146"
+    ]
+}

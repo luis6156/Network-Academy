@@ -1,0 +1,51 @@
+{
+    "id": "116067695",
+    "title": "Distributed Explicit State Model Checking of Deadlock Freedom",
+    "venue": "computer aided verification",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Brad D. Bingham",
+            "id": "2169651204",
+            "org": "Department of Computer Science, University of British Columbia, Canada#TAB#"
+        },
+        {
+            "name": "Jesse D. Bingham",
+            "id": "2063764338",
+            "org": "Intel Corporation, USA#TAB#"
+        },
+        {
+            "name": "John Erickson",
+            "id": "2681537977",
+            "org": "Intel Corporation, USA#TAB#"
+        },
+        {
+            "name": "Mark R. Greenstreet",
+            "id": "306059290",
+            "org": "Department of Computer Science, University of British Columbia, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Enumeration",
+        "Computer science",
+        "Distributed computing",
+        "CTL*",
+        "Liveness",
+        "Model checking",
+        "Deadlock prevention algorithms",
+        "Deadlock"
+    ],
+    "references": [
+        "107427404",
+        "1548312885",
+        "1560229484",
+        "1808035063",
+        "1964718922",
+        "2100509502",
+        "2112117314",
+        "2146839527",
+        "2157127957",
+        "2340735175"
+    ]
+}

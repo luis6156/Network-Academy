@@ -1,0 +1,51 @@
+{
+    "id": "1562318151",
+    "title": "Interval analysis in scheduling",
+    "venue": "principles and practice of constraint programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jerome Fortin",
+            "id": "2602342432",
+            "org": "IRIT/UPS, Toulouse, France#TAB#"
+        },
+        {
+            "name": "Pawel Zielinski",
+            "id": "2114859724",
+            "org": "Institute of Mathematics and Computer Science, Wroclaw University of Technology, Wroclaw, Poland#TAB#"
+        },
+        {
+            "name": "Didier Dubois",
+            "id": "2300659125",
+            "org": "IRIT/UPS, Toulouse, France#TAB#"
+        },
+        {
+            "name": "Helene Fargier",
+            "id": "2043225801",
+            "org": "IRIT/UPS, Toulouse, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Complete information",
+        "Mathematics",
+        "Interval arithmetic",
+        "Partially ordered set",
+        "Critical path method",
+        "Scheduling (computing)",
+        "Job shop scheduling",
+        "Mathematical optimization",
+        "Polynomial"
+    ],
+    "references": [
+        "75420439",
+        "1512327467",
+        "1522982136",
+        "1967135248",
+        "1969972122",
+        "2011800728",
+        "2019561606",
+        "2130182605",
+        "2141364285",
+        "2158349284"
+    ]
+}

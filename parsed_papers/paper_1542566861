@@ -1,0 +1,50 @@
+{
+    "id": "1542566861",
+    "title": "Trace-Based Analysis and Optimization for the Semtex CFD Application --- Hidden Remote Memory Accesses and I/O Performance",
+    "venue": "european conference on parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Holger Mickler",
+            "id": "89040001",
+            "org": "Center for Information Services and High Performance Computing (ZIH), Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        },
+        {
+            "name": "Andreas Knupfer",
+            "id": "2051308727",
+            "org": "Center for Information Services and High Performance Computing (ZIH), Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        },
+        {
+            "name": "Michael Kluge",
+            "id": "2121435400",
+            "org": "Center for Information Services and High Performance Computing (ZIH), Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        },
+        {
+            "name": "Matthias S. Muller",
+            "id": "2403124791",
+            "org": "Center for Information Services and High Performance Computing (ZIH), Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Center for Information Services and High Performance Computing (ZIH), Technische Universitat Dresden, Dresden, Germany 01062#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semtex",
+        "Parallel computing",
+        "Computational fluid dynamics",
+        "Input/output",
+        "Remote memory",
+        "Computer science",
+        "Tracing"
+    ],
+    "references": [
+        "56226570",
+        "153244122",
+        "1518911419",
+        "1567629145",
+        "1568869856",
+        "1983096721"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1512043381",
+    "title": "A Secure Key Management Interface with Asymmetric Cryptography",
+    "venue": "principles of security and trust",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Marion Daubignard",
+            "id": "2706052905",
+            "org": "ANSSI"
+        },
+        {
+            "name": "David Lubicz",
+            "id": "2834060",
+            "org": "DGA.MI"
+        },
+        {
+            "name": "Graham Steel",
+            "id": "2462626393",
+            "org": "INRIA Team Prosecco"
+        }
+    ],
+    "fields_of_study": [
+        "Key exchange",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Cryptoperiod",
+        "Key encapsulation",
+        "Key management",
+        "Security association",
+        "Public-key cryptography",
+        "Pre-shared key"
+    ],
+    "references": [
+        "4332981",
+        "1491991545",
+        "1514302123",
+        "1597184376",
+        "1996015920",
+        "2029693536",
+        "2077836579",
+        "2126272901",
+        "2169819155"
+    ]
+}

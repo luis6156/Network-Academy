@@ -1,0 +1,57 @@
+{
+    "id": "147603856",
+    "title": "A 2 -VM: a cooperative Java VM with support for resource-awareness and cluster-wide thread scheduling",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jose Simao",
+            "id": "1974387266",
+            "org": "Instituto Superior Tecnico, Technical University of Lisbon, INESC, ID, Lisboa and Instituto Superior de Engenharia de Lisboa#TAB#"
+        },
+        {
+            "name": "Joao M. Lemos",
+            "id": "2807312527",
+            "org": "Instituto Superior Tecnico, Technical University of Lisbon, INESC, ID, Lisboa#TAB#"
+        },
+        {
+            "name": "Luis Veiga",
+            "id": "2111737139",
+            "org": "Instituto Superior Tecnico, Technical University of Lisbon, INESC, ID, Lisboa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Java",
+        "Resource allocation",
+        "Computer science",
+        "Garbage collection",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Virtual machine",
+        "Real-time computing",
+        "Computer cluster",
+        "Cloud computing"
+    ],
+    "references": [
+        "1565608745",
+        "1609529814",
+        "1716722719",
+        "2020136418",
+        "2023602151",
+        "2042184212",
+        "2050801173",
+        "2051660131",
+        "2052530637",
+        "2093988883",
+        "2095219028",
+        "2100827887",
+        "2115754267",
+        "2126548992",
+        "2146766856",
+        "2155341313",
+        "2159604625",
+        "2166091242",
+        "2172175286"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "1564416424",
+    "title": "Construction of threshold (hybrid) encryption in the random oracle model: how to construct secure threshold tag-KEM from weakly secure threshold KEM",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Takeru Ishihara",
+            "id": "2152190188",
+            "org": "NTT DoCoMo, Inc., Yokosuka, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Hiroshi Aono",
+            "id": "2007095956",
+            "org": "NTT DoCoMo, Inc., Yokosuka, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Sadayuki Hongo",
+            "id": "2027302457",
+            "org": "NTT DoCoMo, Inc., Yokosuka, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Junji Shikata",
+            "id": "2043902534",
+            "org": "Yokohama National University, Yokohama, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Threshold cryptosystem",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer science",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "174706587",
+        "1505345253",
+        "1522597308",
+        "1526844866",
+        "1546996295",
+        "1552695147",
+        "1561499760",
+        "1563165219",
+        "1563221498",
+        "1572695506",
+        "1586972594",
+        "1587391206",
+        "1604454960",
+        "1606603454",
+        "1882430379",
+        "2007711167",
+        "2034313414",
+        "2106583429",
+        "2112138431",
+        "2116881075",
+        "2122987162",
+        "2132022887",
+        "2158276883",
+        "2164988972",
+        "2610467103"
+    ]
+}

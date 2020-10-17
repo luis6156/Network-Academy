@@ -1,0 +1,48 @@
+{
+    "id": "1587806068",
+    "title": "Type Inference for Late Binding: The SmallEiffel Compiler",
+    "venue": "JMLC '97 Proceedings of the Joint Modular Languages Conference on Modular Programming Languages",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Suzanne Collin",
+            "id": "2501738453",
+            "org": "Batiment LORIA"
+        },
+        {
+            "name": "Dominique Colnet",
+            "id": "146074151",
+            "org": "Batiment LORIA"
+        },
+        {
+            "name": "Olivier Zendra",
+            "id": "1634676051",
+            "org": "Batiment LORIA"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Parallel computing",
+        "Compiler",
+        "Computer science",
+        "Unreachable code",
+        "Inline expansion",
+        "Code bloat",
+        "Code generation",
+        "Late binding",
+        "Dead code elimination",
+        "Programming language"
+    ],
+    "references": [
+        "1502745543",
+        "1555946950",
+        "1600715710",
+        "1948625797",
+        "1990975505",
+        "2053664570",
+        "2061721578",
+        "2127172188",
+        "2166822586",
+        "2611598995"
+    ]
+}

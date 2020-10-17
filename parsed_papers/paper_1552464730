@@ -1,0 +1,34 @@
+{
+    "id": "1552464730",
+    "title": "ScanSSH - Scanning the Internet for SSH Servers",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Niels Provos",
+            "id": "2274458662",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "Peter Honeyman",
+            "id": "2236861272",
+            "org": "University of Michigan"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "SSH File Transfer Protocol",
+        "Technical report",
+        "Software versioning",
+        "Computer science",
+        "Login",
+        "Computer security",
+        "Server",
+        "The Internet",
+        "Strong cryptography"
+    ],
+    "references": [
+        "2033938536",
+        "2105435765"
+    ]
+}

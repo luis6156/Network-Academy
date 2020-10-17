@@ -1,0 +1,51 @@
+{
+    "id": "1809990924",
+    "title": "Robust optimization of SVM hyperparameters in the classification of bioactive compounds",
+    "venue": "Journal of Cheminformatics",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Wojciech Marian Czarnecki",
+            "id": "2283153510",
+            "org": "Faculty of Mathematics and Computer Science, Jagiellonian University, Krakow, Poland"
+        },
+        {
+            "name": "Sabina Podlewska",
+            "id": "935586785",
+            "org": "Polish Academy of Sciences"
+        },
+        {
+            "name": "Andrzej J. Bojarski",
+            "id": "1894276939",
+            "org": "Department of Medicinal Chemistry, Institute of Pharmacology, Polish Academy of Sciences, Krakow, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Robust optimization",
+        "Bayesian optimization",
+        "Random search",
+        "Hyperparameter",
+        "Text mining",
+        "Heuristic",
+        "Support vector machine",
+        "Bioinformatics",
+        "Hyperparameter optimization"
+    ],
+    "references": [
+        "1663973292",
+        "1798702550",
+        "1969513389",
+        "1972156862",
+        "2097998348",
+        "2102539288",
+        "2107081909",
+        "2113145584",
+        "2131241448",
+        "2136213019",
+        "2148797284",
+        "2159887157",
+        "2177026622"
+    ]
+}

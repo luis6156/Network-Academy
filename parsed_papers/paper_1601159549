@@ -1,0 +1,40 @@
+{
+    "id": "1601159549",
+    "title": "Chosen IV statistical analysis for key recovery attacks on stream ciphers",
+    "venue": "international conference on progress in cryptology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Simon Fischer",
+            "id": "2151708303",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Shahram Khazaei",
+            "id": "2081320160",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "eSTREAM",
+        "Key-recovery attack",
+        "Algorithm",
+        "Computer science",
+        "Stream cipher",
+        "Initialization",
+        "Cube attack"
+    ],
+    "references": [
+        "1561363170",
+        "1577801461",
+        "1758759527",
+        "1780696059",
+        "2403571297",
+        "2407496567"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "104938420",
+    "title": "Sequential Aggregate Signatures from Trapdoor Permutations",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anna Lysyanskaya",
+            "id": "204878165",
+            "org": "Brown University"
+        },
+        {
+            "name": "Silvio Micali",
+            "id": "699581604",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Leonid Reyzin",
+            "id": "236344266",
+            "org": "Boston University"
+        },
+        {
+            "name": "Hovav Shacham",
+            "id": "242611019",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Certificate",
+        "Oracle",
+        "Cryptography",
+        "Mathematics",
+        "Discrete mathematics",
+        "Permutation",
+        "Random oracle",
+        "Public-key cryptography",
+        "Merkle signature scheme",
+        "Ring signature"
+    ],
+    "references": [
+        "1567539097",
+        "1610688607",
+        "1788452017",
+        "1963094505",
+        "1970943434",
+        "1996360405",
+        "2052267638",
+        "2086042811",
+        "2109879098",
+        "2112138431",
+        "2134651419",
+        "2135222307",
+        "2151413173",
+        "2167882086",
+        "2398420747"
+    ]
+}

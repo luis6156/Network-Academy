@@ -1,0 +1,56 @@
+{
+    "id": "1549794385",
+    "title": "An analytical model for time-driven cache attacks",
+    "venue": "fast software encryption",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kris Tiri",
+            "id": "2583218792",
+            "org": "Platform Validation Architecture, Intel Corporation, Hillsboro Oregon#TAB#"
+        },
+        {
+            "name": "Onur Aciicmez",
+            "id": "2488166908",
+            "org": "Intel Corporation, Hillsboro Oregon#TAB#"
+        },
+        {
+            "name": "Michael Neve",
+            "id": "2363166985",
+            "org": "Platform Validation Architecture, Intel Corporation, Hillsboro Oregon#TAB#"
+        },
+        {
+            "name": "Flemming L. Andersen",
+            "id": "2604876824",
+            "org": "Intel Corporation, Hillsboro Oregon#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Pipeline burst cache",
+        "Cache pollution",
+        "Cache-oblivious algorithm",
+        "Cache invalidation"
+    ],
+    "references": [
+        "108606907",
+        "1253017325",
+        "1488058190",
+        "1496265857",
+        "1592889082",
+        "1613874182",
+        "1664808737",
+        "1890449996",
+        "1994390420",
+        "1998955763",
+        "2110429202",
+        "2126132644",
+        "2131202839",
+        "2132064685"
+    ]
+}

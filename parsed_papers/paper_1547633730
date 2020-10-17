@@ -1,0 +1,54 @@
+{
+    "id": "1547633730",
+    "title": "Affine precomputation with sole inversion in elliptic curve cryptography",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Erik Dahmen",
+            "id": "2112799382",
+            "org": "Technische Universitat Darmstadt, Fachbereich Informatik, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Katsuyuki Okeya",
+            "id": "1780672632",
+            "org": "Hitachi, Ltd., Systems Development Laboratory, Kawasaki-shi, Kanagawa-ken, Japan#TAB#"
+        },
+        {
+            "name": "Daniel Schepers",
+            "id": "2282459012",
+            "org": "Technische Universitat Darmstadt, Fachbereich Informatik, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Montgomery curve",
+        "Mathematics",
+        "Theoretical computer science",
+        "Edwards curve",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1523293662",
+        "1526011068",
+        "1535504912",
+        "1537065876",
+        "1539482743",
+        "1561697076",
+        "1572990863",
+        "1592482282",
+        "1901598124",
+        "2003736153",
+        "2013613544",
+        "2066709282",
+        "2115190247",
+        "2121866459",
+        "2156186849",
+        "2158594237"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1487516626",
+    "title": "Semantic Analysis of Web Pages Using Cluster Analysis and Nonnegative Matrix Factorization",
+    "venue": "atlantic web intelligence conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Vaclav Snasel",
+            "id": "139560512",
+            "org": "Department of Computer Science, VSB-Technical University of Ostrava, 17. listopadu 15, Ostrava"
+        },
+        {
+            "name": "Hana Rezankova",
+            "id": "1699728027",
+            "org": "Department of Statistics and Probability, University of Economics, Prague, W. Churchill sq. 4, 130 67 Prague"
+        },
+        {
+            "name": "Dusan Husek",
+            "id": "2420780959",
+            "org": "Institute of Computer Science, Academy of Sciences of the Czech Republic, Prague"
+        },
+        {
+            "name": "Milos Kudelka",
+            "id": "1626964231",
+            "org": "Department of Computer Science, VSB-Technical University of Ostrava, 17. listopadu 15, Ostrava"
+        },
+        {
+            "name": "Ondrej Lehecka",
+            "id": "1571213094",
+            "org": "Department of Computer Science, VSB-Technical University of Ostrava, 17. listopadu 15, Ostrava"
+        }
+    ],
+    "fields_of_study": [
+        "Document-term matrix",
+        "Web page",
+        "Computer science",
+        "Data mining",
+        "Non-negative matrix factorization",
+        "Least squares",
+        "Gradient descent",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1555197979",
+        "1985995642",
+        "2043545458",
+        "2105455005",
+        "2107389775",
+        "2113359929",
+        "2158312129"
+    ]
+}

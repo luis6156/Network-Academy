@@ -1,0 +1,68 @@
+{
+    "id": "1542643269",
+    "title": "Automatic communication coalescing for irregular computations in UPC language",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Michail Alvanos",
+            "id": "2807103940",
+            "org": "Programming Models, Barcelona Supercomputing Center#TAB#"
+        },
+        {
+            "name": "Montse Farreras",
+            "id": "1903394479",
+            "org": "Universitat Politecnica de Catalunya#TAB#"
+        },
+        {
+            "name": "Ettore Tiotto",
+            "id": "37774481",
+            "org": "Static Compilation Technology, IBM Canada Software Lab, Canada#TAB#"
+        },
+        {
+            "name": "Xavier Martorell",
+            "id": "2155127561",
+            "org": "Universitat Politecnica de Catalunya#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Partitioned global address space",
+        "Parallel computing",
+        "Unified Parallel C",
+        "Distributed computing",
+        "Computer science",
+        "Compiler",
+        "Latency (engineering)",
+        "Optimizing compiler",
+        "Data mapping",
+        "Real-time computing",
+        "Program optimization",
+        "Programmer"
+    ],
+    "references": [
+        "157408436",
+        "1562271715",
+        "1595141187",
+        "1981772986",
+        "1994994277",
+        "2002571766",
+        "2008654264",
+        "2043340768",
+        "2053454864",
+        "2072797580",
+        "2098446267",
+        "2099911225",
+        "2103393368",
+        "2109065830",
+        "2110161565",
+        "2114489740",
+        "2122625299",
+        "2127924930",
+        "2148590584",
+        "2154955271",
+        "2156742168",
+        "2165570966",
+        "2165575435",
+        "2167548825"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1598820462",
+    "title": "An MPI Benchmark Program Library and Its Application to the Earth Simulator",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hitoshi Uehara",
+            "id": "2490062176",
+            "org": "Earth Simulator Research and Development Center, Japan Atomic Energy Research Institute, Kanagawa, Japan 236-0001#TAB#"
+        },
+        {
+            "name": "Masanori Tamura",
+            "id": "2501905253",
+            "org": "NEC Corporation HPC group, Tokyo, Japan 183-8501#TAB#"
+        },
+        {
+            "name": "Mitsuo Yokokawa",
+            "id": "2661690597",
+            "org": "Earth Simulator Research and Development Center, Japan Atomic Energy Research Institute, Kanagawa, Japan 236-0001#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Theoretical computer science",
+        "De facto standard",
+        "Computational science",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface"
+    ],
+    "references": [
+        "15600572",
+        "1910673522"
+    ]
+}

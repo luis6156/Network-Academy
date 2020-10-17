@@ -1,0 +1,55 @@
+{
+    "id": "1584975026",
+    "title": "Breaking Public Key Cryptosystems on Tamper Resistant Devices in the Presence of Transient Faults",
+    "venue": "international workshop on security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Feng Bao",
+            "id": "2790489527",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Robert H. Deng",
+            "id": "2062283694",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Yongfei Han",
+            "id": "2630090033",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Albert B. Jeng",
+            "id": "2165292187",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "A. Desai Narasimhalu",
+            "id": "682632610",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Teow-Hin Ngair",
+            "id": "2052788744",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Tamper resistance",
+        "Digital Signature Algorithm",
+        "Computer science",
+        "PKCS",
+        "Computer security",
+        "Cryptosystem",
+        "Schnorr signature",
+        "Public-key cryptography",
+        "Internet privacy",
+        "Smart card"
+    ],
+    "references": [
+        "1996360405",
+        "2095708839",
+        "2108834246"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1533007301",
+    "title": "Second preimages on n -bit hash functions for much less than 2 n work",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "National Institute of Standards and Technology#TAB#"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Internet Security, Inc#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MDC-2",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Computer science",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "81015123",
+        "116501369",
+        "1493566387",
+        "1512388984",
+        "1536935781",
+        "1547537489",
+        "1549228503",
+        "1590624619",
+        "1600432225",
+        "1604454960",
+        "1660562555",
+        "1688363050",
+        "1756321105",
+        "1863270349",
+        "1979802565",
+        "2008272678",
+        "2033778422",
+        "2104633167"
+    ]
+}

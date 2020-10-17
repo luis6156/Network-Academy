@@ -1,0 +1,50 @@
+{
+    "id": "1549566111",
+    "title": "SIMT/OMP: a toolset to study and exploit memory locality of OpenMP applications on NUMA architectures",
+    "venue": "international workshop on openmp",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Institut fur Rechnerentwurf und Fehlertoleranz, Universitat Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Martin Schulz",
+            "id": "2122506644",
+            "org": "School of Electrical and Computer Engineering, Ithaca, NY#TAB#"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Institut fur Rechnerentwurf und Fehlertoleranz, Universitat Karlsruhe, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "SPMD",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Non-uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Cache-only memory architecture"
+    ],
+    "references": [
+        "301660381",
+        "1551889632",
+        "1804921254",
+        "2019614051",
+        "2023186718",
+        "2100720297",
+        "2110965295",
+        "2111560436",
+        "2113267301",
+        "2134747623",
+        "2138399561",
+        "2145021036"
+    ]
+}

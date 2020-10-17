@@ -1,0 +1,50 @@
+{
+    "id": "1567707405",
+    "title": "Optimistic Concurrency Control Algorithm with Dynamic Serialization Adjustment for Firm Deadline Real-Time Database Systems",
+    "venue": "advances in databases and information systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Piotr Krzyzagorski",
+            "id": "566425638",
+            "org": "Pozna University of Technology"
+        },
+        {
+            "name": "Tadeusz Morzy",
+            "id": "103756503",
+            "org": "Pozna University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Algorithm",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Database",
+        "Real-time computing",
+        "Distributed concurrency control",
+        "Timestamp-based concurrency control",
+        "Isolation (database systems)",
+        "Database transaction"
+    ],
+    "references": [
+        "1515350503",
+        "1573217167",
+        "1574895192",
+        "1959689746",
+        "1987692705",
+        "2018649989",
+        "2022436301",
+        "2023671193",
+        "2059137485",
+        "2097608272",
+        "2120114814",
+        "2133386065",
+        "2143766776",
+        "2147674396",
+        "2160293203"
+    ]
+}

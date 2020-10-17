@@ -1,0 +1,104 @@
+{
+    "id": "1695243693",
+    "title": "Unified model for assessing checkpointing protocols at extreme-scale",
+    "venue": "Concurrency and Computation: Practice and Experience",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "George Bosilca",
+            "id": "339462875",
+            "org": "University of Tennessee, Knoxville, Tennessee, USA#TAB#"
+        },
+        {
+            "name": "Aurelien Bouteiller",
+            "id": "2121807780",
+            "org": "University of Tennessee, Knoxville, Tennessee, USA#TAB#"
+        },
+        {
+            "name": "Elisabeth Brunet",
+            "id": "2161592088",
+            "org": "Telecom SudParis, Paris, France#TAB#"
+        },
+        {
+            "name": "Franck Cappello",
+            "id": "1927643586",
+            "org": "INRIA & University of Illinois, Urbana Champaign, Illinois, USA#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee, Knoxville, Tennessee, USA#TAB#"
+        },
+        {
+            "name": "Amina Guermouche",
+            "id": "406035681",
+            "org": "Ecole Normale Superieure de Lyon & INRIA, Lyon, France#TAB#"
+        },
+        {
+            "name": "Thomas Herault",
+            "id": "177990261",
+            "org": "University of Tennessee, Knoxville, Tennessee, USA#TAB#"
+        },
+        {
+            "name": "Yves Robert",
+            "id": "2892485887",
+            "org": "University of Tennessee Knoxville Tennessee USA"
+        },
+        {
+            "name": "Frederic Vivien",
+            "id": "2140966149",
+            "org": "Ecole Normale Superieure de Lyon & INRIA, Lyon, France#TAB#"
+        },
+        {
+            "name": "Dounia Zaidouni",
+            "id": "254562860",
+            "org": "Ecole Normale Superieure de Lyon & INRIA, Lyon, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Real-time computing",
+        "Unified Model",
+        "Fault tolerance"
+    ],
+    "references": [
+        "23377417",
+        "1558516248",
+        "1848988118",
+        "1969359541",
+        "1984564341",
+        "1992344118",
+        "2017838136",
+        "2033656974",
+        "2045271686",
+        "2063924830",
+        "2064388050",
+        "2081235423",
+        "2098259808",
+        "2098631346",
+        "2100970777",
+        "2102576651",
+        "2102924960",
+        "2106017997",
+        "2117667603",
+        "2121575774",
+        "2123126199",
+        "2131053137",
+        "2133046454",
+        "2137787140",
+        "2138544153",
+        "2142234387",
+        "2148109481",
+        "2150798641",
+        "2161537327",
+        "2163295644",
+        "2164590718",
+        "2165022815",
+        "2170454619",
+        "2296772319",
+        "2730583186"
+    ]
+}

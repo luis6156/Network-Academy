@@ -1,0 +1,58 @@
+{
+    "id": "1586000195",
+    "title": "On Avoiding ZVP-Attacks Using Isogeny Volcanoes",
+    "venue": "workshop on information security applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Josep M. Miret",
+            "id": "2166544569",
+            "org": "Dept. de Matematica, Universitat de Lleida,#TAB#"
+        },
+        {
+            "name": "Daniel Sadornil",
+            "id": "2014263301",
+            "org": "Dept. de Matematicas, Estadostica y Computacion, Universidad de Cantabria,#TAB#"
+        },
+        {
+            "name": "Juan Tena",
+            "id": "2132415545",
+            "org": "Dept. de Algebra, Geometria y Topologia, Universidad de Valladolid,#TAB#"
+        },
+        {
+            "name": "Rosana Tomas",
+            "id": "2469206310",
+            "org": "Dept. de Matematica, Universitat de Lleida,#TAB#"
+        },
+        {
+            "name": "Magda Valls",
+            "id": "2102187982",
+            "org": "Dept. de Matematica, Universitat de Lleida,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperelliptic curve cryptography",
+        "Schoof-Elkies-Atkin algorithm",
+        "Curve25519",
+        "Computer science",
+        "Elliptic curve Diffie-Hellman",
+        "Computer security",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1482850715",
+        "1521664783",
+        "1536742018",
+        "1565369953",
+        "1846216834",
+        "2086936456",
+        "2091434244",
+        "2104841597",
+        "2137567577",
+        "2154909745",
+        "2156704072"
+    ]
+}

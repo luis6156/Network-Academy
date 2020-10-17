@@ -1,0 +1,56 @@
+{
+    "id": "1486700809",
+    "title": "KSEQ: a new scalable synchronous I/O multiplexing mechanism for event-driven applications",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Hongtao Xia",
+            "id": "2047178039",
+            "org": "Zhejiang Electric Power Corp. 310007, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Weiping Sun",
+            "id": "2715754217",
+            "org": "Huazhong University of Sci. & Tech., 430074, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Jingli Zhou",
+            "id": "2695627705",
+            "org": "Huazhong University of Sci. & Tech., 430074, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Yunhua Huang",
+            "id": "2671450924",
+            "org": "Zhejiang Electric Power Corp. 310007, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Jifeng Yu",
+            "id": "2100347637",
+            "org": "Huazhong University of Sci. & Tech., 430074, Wuhan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Multiplexing",
+        "Input/output",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "System call",
+        "Web server",
+        "Proxy server",
+        "Synchronization",
+        "Real-time computing"
+    ],
+    "references": [
+        "56843469",
+        "170067106",
+        "1527961683",
+        "1590303417",
+        "1851082386",
+        "2105321788",
+        "2140727382",
+        "2148620466"
+    ]
+}

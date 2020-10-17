@@ -1,0 +1,42 @@
+{
+    "id": "1596952919",
+    "title": "MSE approximation for model-based compression of multiresolution semiregular meshes",
+    "venue": "european signal processing conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Frederic Payan",
+            "id": "2137884115",
+            "org": "Laboratoire I3S - UMR 6070 CNRS - Universite de Nice - Sophia Antipolis, Route des Lucioles - F-06903 FRANCE"
+        },
+        {
+            "name": "Marc Antonini",
+            "id": "2098945646",
+            "org": "Laboratoire I3S - UMR 6070 CNRS - Universite de Nice - Sophia Antipolis, Route des Lucioles - F-06903 FRANCE"
+        }
+    ],
+    "fields_of_study": [
+        "Quantization (signal processing)",
+        "Mathematics",
+        "Lifting scheme",
+        "Polygon mesh",
+        "Grid",
+        "Multiresolution analysis",
+        "Filter bank",
+        "Wavelet",
+        "Mathematical optimization",
+        "Mean squared error"
+    ],
+    "references": [
+        "1590549688",
+        "1989480677",
+        "2012909180",
+        "2095711217",
+        "2127547766",
+        "2130470231",
+        "2132441534",
+        "2144105585",
+        "2169371923",
+        "2294238806"
+    ]
+}

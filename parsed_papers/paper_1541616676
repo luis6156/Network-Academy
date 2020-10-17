@@ -1,0 +1,45 @@
+{
+    "id": "1541616676",
+    "title": "The Performance of Parallel Disk Write Methods for Linux Multiprocessor Nodes",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Gregory D. Benson",
+            "id": "1972485582",
+            "org": "University of San Francisco"
+        },
+        {
+            "name": "Kai Long",
+            "id": "2433085350",
+            "org": "University of San Francisco"
+        },
+        {
+            "name": "Peter S. Pacheco",
+            "id": "2616740025",
+            "org": "University of San Francisco"
+        }
+    ],
+    "fields_of_study": [
+        "mmap",
+        "Thread (computing)",
+        "Parallel computing",
+        "Input/output",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Multiprocessing",
+        "Message passing",
+        "POSIX Threads",
+        "Parallel algorithm"
+    ],
+    "references": [
+        "1581762248",
+        "1963820564",
+        "1971343078",
+        "1995795072",
+        "2104486653",
+        "2110298485",
+        "2115312455"
+    ]
+}

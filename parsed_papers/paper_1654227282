@@ -1,0 +1,84 @@
+{
+    "id": "1654227282",
+    "title": "Adapting helios for provable ballot privacy",
+    "venue": "european symposium on research in computer security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "David Bernhard",
+            "id": "2147908029",
+            "org": "University of Bristol, England#TAB#"
+        },
+        {
+            "name": "Veronique Cortier",
+            "id": "492607290",
+            "org": "LORIA - CNRS, France#TAB#"
+        },
+        {
+            "name": "Olivier Pereira",
+            "id": "2136049035",
+            "org": "Universite Catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Ben Smyth",
+            "id": "2101704388",
+            "org": "LORIA - CNRS, France#TAB#"
+        },
+        {
+            "name": "Bogdan Warinschi",
+            "id": "669060945",
+            "org": "University of Bristol, England#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic voting",
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "HeliOS",
+        "Encryption",
+        "Computer security",
+        "Ballot",
+        "Voting",
+        "ElGamal encryption",
+        "Random oracle"
+    ],
+    "references": [
+        "40134741",
+        "135216775",
+        "157159099",
+        "170425430",
+        "1489133925",
+        "1497351799",
+        "1505345253",
+        "1506886582",
+        "1533609319",
+        "1572695506",
+        "1586972594",
+        "1589034595",
+        "1603759597",
+        "1667689828",
+        "1733124164",
+        "2003593381",
+        "2007216019",
+        "2052267638",
+        "2072519641",
+        "2073210531",
+        "2095708839",
+        "2101803085",
+        "2106583429",
+        "2108834246",
+        "2121170230",
+        "2134829861",
+        "2136369197",
+        "2138784757",
+        "2147584309",
+        "2147591189",
+        "2148791173",
+        "2159339434",
+        "2164222678",
+        "2164988972",
+        "2194223632",
+        "2397332134"
+    ]
+}

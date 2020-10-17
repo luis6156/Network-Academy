@@ -1,0 +1,49 @@
+{
+    "id": "1730519770",
+    "title": "Supporting RFID-based item tracking applications in Oracle DBMS using a bitmap datatype",
+    "venue": "very large data bases",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ying Hu",
+            "id": "2762078360",
+            "org": "Oracle, One Oracle Drive, Nashua, NH#TAB#"
+        },
+        {
+            "name": "Seema Sundara",
+            "id": "2781092821",
+            "org": "Oracle, One Oracle Drive, Nashua, NH#TAB#"
+        },
+        {
+            "name": "Timothy Chorma",
+            "id": "2069895604",
+            "org": "Oracle, One Oracle Drive, Nashua, NH#TAB#"
+        },
+        {
+            "name": "Jagannathan Srinivasan",
+            "id": "2627290768",
+            "org": "Oracle, One Oracle Drive, Nashua, NH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Oracle",
+        "Electronic Product Code",
+        "Identifier",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Radio-frequency identification",
+        "Bitmap",
+        "Bitmap index",
+        "Database",
+        "Persistent identifier"
+    ],
+    "references": [
+        "1485569066",
+        "1527137792",
+        "1982945449",
+        "2111967617",
+        "2117156932",
+        "2285725925"
+    ]
+}

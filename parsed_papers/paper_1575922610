@@ -1,0 +1,66 @@
+{
+    "id": "1575922610",
+    "title": "A Strategy for Constructing Fast Round Functions with Practical Security Against Differential and Linear Cryptanalysis",
+    "venue": "selected areas in cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Masayuki Kanda",
+            "id": "2136074932",
+            "org": "NTT Information and Communication Laboratories"
+        },
+        {
+            "name": "Youichi Takashima",
+            "id": "2104656460",
+            "org": "NTT Human Interface Laboratories"
+        },
+        {
+            "name": "Tsutomu Matsumoto",
+            "id": "2253012118",
+            "org": "Yokohama National University"
+        },
+        {
+            "name": "Kazumaro Aoki",
+            "id": "2437729937",
+            "org": "NTT Information and Communication Laboratories"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "NTT Information and Communication Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Matrix (mathematics)",
+        "Linear map",
+        "Higher-order differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Theorems and definitions in linear algebra",
+        "Matrix representation"
+    ],
+    "references": [
+        "380217570",
+        "1497721867",
+        "1531810027",
+        "1540875416",
+        "1546257376",
+        "1629301835",
+        "1654806544",
+        "1862865750",
+        "1964723977",
+        "1978695162",
+        "1985969574",
+        "2024729203",
+        "2027325533",
+        "2069489561",
+        "2103717651",
+        "2120464016",
+        "2132548943",
+        "2137326899",
+        "2234576048"
+    ]
+}

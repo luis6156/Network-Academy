@@ -1,0 +1,66 @@
+{
+    "id": "103183877",
+    "title": "Looking Back at a New Hash Function",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Olivier Billet",
+            "id": "1572106382",
+            "org": "Orange Labs, Issy les Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Matthew J. B. Robshaw",
+            "id": "2297649051",
+            "org": "Orange Labs, Issy les Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Yannick Seurin",
+            "id": "484327046",
+            "org": "Orange Labs, Issy les Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Yiqun Lisa Yin",
+            "id": "2098722298",
+            "org": "Independent Security Consultant,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Primary clustering",
+        "Cryptographic hash function",
+        "Rolling hash",
+        "Distributed computing",
+        "Computer science",
+        "Hash chain",
+        "Hash buster",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "81015123",
+        "91031763",
+        "1479724230",
+        "1500356409",
+        "1518029257",
+        "1522297845",
+        "1533007301",
+        "1542662906",
+        "1544857718",
+        "1549228503",
+        "1567888865",
+        "1569252980",
+        "1596576235",
+        "1600432225",
+        "1656731780",
+        "1660562555",
+        "1831862684",
+        "1863270349",
+        "1894646615",
+        "1939171670",
+        "1964723977",
+        "1979802565",
+        "2103239853"
+    ]
+}

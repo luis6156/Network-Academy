@@ -1,0 +1,59 @@
+{
+    "id": "1522705574",
+    "title": "A randomized algorithm for finding frequent elements in streams using o(loglog n ) space",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Masatora Ogata",
+            "id": "2439728514",
+            "org": "Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Yukiko Yamauchi",
+            "id": "2104197905",
+            "org": "Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Shuji Kijima",
+            "id": "2152799992",
+            "org": "Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Masafumi Yamashita",
+            "id": "2124808177",
+            "org": "Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "STREAMS",
+        "Randomized algorithm",
+        "Data stream",
+        "Discrete mathematics",
+        "Binary logarithm",
+        "Online algorithm",
+        "Combinatorics",
+        "Streaming algorithm",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1493892051",
+        "1525132895",
+        "1597561788",
+        "1634257591",
+        "1965107048",
+        "1993482412",
+        "2003262311",
+        "2060324268",
+        "2064379477",
+        "2064710146",
+        "2069980026",
+        "2080745194",
+        "2113139394",
+        "2152637787",
+        "2164530213",
+        "2166332856",
+        "2597765082"
+    ]
+}

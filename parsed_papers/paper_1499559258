@@ -1,0 +1,79 @@
+{
+    "id": "1499559258",
+    "title": "Server network scalability and TCP offload",
+    "venue": "usenix annual technical conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Douglas M. Freimuth",
+            "id": "2088119290",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Elbert C. Hu",
+            "id": "2099810229",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Jason D. LaVoie",
+            "id": "2143742600",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Ronald Mraz",
+            "id": "2092636676",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Erich M. Nahum",
+            "id": "252313521",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Prashant Pradhan",
+            "id": "2288887153",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "John M. Tracey",
+            "id": "2139781401",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Remote direct memory access",
+        "Adapter (computing)",
+        "Scalability",
+        "Network performance",
+        "Parallel computing",
+        "TCP offload engine",
+        "Component-based software engineering",
+        "Computer science",
+        "Exploit",
+        "Real-time computing"
+    ],
+    "references": [
+        "142090398",
+        "154335262",
+        "1495070269",
+        "1525126243",
+        "1862553259",
+        "1984271460",
+        "2032798968",
+        "2053856160",
+        "2066660519",
+        "2075350206",
+        "2092119328",
+        "2096241833",
+        "2105321788",
+        "2119775865",
+        "2131198439",
+        "2132108934",
+        "2138415632",
+        "2140727382",
+        "2148620466",
+        "2160094191",
+        "2648953955"
+    ]
+}

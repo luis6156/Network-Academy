@@ -1,0 +1,46 @@
+{
+    "id": "1544393419",
+    "title": "Generating efficient code from strictness annotations",
+    "venue": "TAPSOFT '87 Proceedings of the International Joint Conference on Theory and Practice of Software Development, Volume 2: Advanced Seminar on Foundations of Innovative Software Development II and Colloquium on Functional and Logic Programming and Specifications (CFLP)",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Gary Lindstrom",
+            "id": "2082267274",
+            "org": "Univ. of Utah, Salt Lake City#TAB#"
+        },
+        {
+            "name": "Lal George",
+            "id": "2109352877",
+            "org": "Univ. of Utah, Salt Lake City#TAB#"
+        },
+        {
+            "name": "Dowming Yeh",
+            "id": "2320467407",
+            "org": "Univ. of Utah, Salt Lake City#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Basic block",
+        "Compiler",
+        "Computer science",
+        "Strictness analysis",
+        "Object code",
+        "Functional programming",
+        "Lisp",
+        "Imperative programming",
+        "Von Neumann architecture",
+        "Programming language"
+    ],
+    "references": [
+        "1512248102",
+        "1526879784",
+        "1566674182",
+        "1571035569",
+        "1968185772",
+        "1998702072",
+        "2071166391",
+        "2071457257"
+    ]
+}

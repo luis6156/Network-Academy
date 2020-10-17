@@ -1,0 +1,35 @@
+{
+    "id": "1595293097",
+    "title": "The Secure Remote Password Protocol.",
+    "venue": "network and distributed system security symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Thomas D. Wu",
+            "id": "2100418737",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Password strength",
+        "Secure Remote Password protocol",
+        "Computer science",
+        "Computer security",
+        "Password",
+        "One-time password"
+    ],
+    "references": [
+        "2039471385",
+        "2043926312",
+        "2080302839",
+        "2091020476",
+        "2133432179",
+        "2156186849",
+        "2157604883",
+        "2167006959"
+    ]
+}

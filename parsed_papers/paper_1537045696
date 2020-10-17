@@ -1,0 +1,63 @@
+{
+    "id": "1537045696",
+    "title": "Screaming fast Galois field arithmetic using intel SIMD instructions",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "James S. Plank",
+            "id": "2111410311",
+            "org": "EECS Department, University of Tennessee#TAB#"
+        },
+        {
+            "name": "Kevin M. Greenan",
+            "id": "251667281",
+            "org": "EMC Backup Recovery, Systems Division#TAB#"
+        },
+        {
+            "name": "Ethan L. Miller",
+            "id": "2168190067",
+            "org": "Computer Science Department, UC Santa Cruz#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SIMD",
+        "Galois theory",
+        "Software",
+        "Theoretical computer science",
+        "Computer science",
+        "Streaming SIMD Extensions",
+        "Saturation arithmetic",
+        "Erasure code",
+        "Multiplication",
+        "Logarithm",
+        "Arithmetic"
+    ],
+    "references": [
+        "130792636",
+        "154253821",
+        "188037868",
+        "330091898",
+        "1482576848",
+        "1526843360",
+        "1586130370",
+        "1600328410",
+        "1960027378",
+        "1963726333",
+        "1974401809",
+        "1993611003",
+        "1998176833",
+        "2018060431",
+        "2029467255",
+        "2039915451",
+        "2058863419",
+        "2099837838",
+        "2104812861",
+        "2129716147",
+        "2137291643",
+        "2147343704",
+        "2150441244",
+        "2163775180"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1499324867",
+    "title": "First-Order Constrained Lambda Calculus",
+    "venue": "frontiers of combining systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "John N. Crossley",
+            "id": "2101311741",
+            "org": "Monash University"
+        },
+        {
+            "name": "Luis Mandel",
+            "id": "2141896135",
+            "org": "Institut fur Informatik, Ludwig-Maximilians- Universitat Munchen"
+        },
+        {
+            "name": "Martin Wirsing",
+            "id": "2069719606",
+            "org": "Institut fur Informatik, Ludwig-Maximilians- Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Church encoding",
+        "System F",
+        "Discrete mathematics",
+        "Computer science",
+        "Fixed-point combinator",
+        "Hindley-Milner type system",
+        "Simply typed lambda calculus",
+        "Binary lambda calculus",
+        "Lambda cube",
+        "Typed lambda calculus"
+    ],
+    "references": [
+        "177435153",
+        "1495207734",
+        "1569531568",
+        "2132233302"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "1503287972",
+    "title": "PicoDBMS: Scaling down database techniques for the smartcard",
+    "venue": "very large data bases",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Philippe Pucheral",
+            "id": "2779084476",
+            "org": "University of Versailles, PRiSM Laboratory, Versailles, France; E-mail: {philippe.pucheral;luc.bouganim;christophe.bobineau}@prism.uvsq.fr#TAB#"
+        },
+        {
+            "name": "Luc Bouganim",
+            "id": "2777530070",
+            "org": "University of Versailles, PRiSM Laboratory, Versailles, France; E-mail: {philippe.pucheral;luc.bouganim;christophe.bobineau}@prism.uvsq.fr#TAB#"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "University Paris 6, LIP6 Laboratory, Paris, France; E-mail: patrick.valduriez@lip6.fr#TAB#"
+        },
+        {
+            "name": "Christophe Bobineau",
+            "id": "2307988893",
+            "org": "University of Versailles, PRiSM Laboratory, Versailles, France; E-mail: {philippe.pucheral;luc.bouganim;christophe.bobineau}@prism.uvsq.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Scaling",
+        "Durability",
+        "Storage model",
+        "Execution model",
+        "Database",
+        "Atomicity",
+        "Data structure",
+        "Smart card",
+        "Query optimization"
+    ],
+    "references": [
+        "31622817",
+        "1512539161",
+        "1515932031",
+        "1535462869",
+        "1545155892",
+        "1829550030",
+        "1878777455",
+        "1965659121",
+        "1986843683",
+        "2078528123",
+        "2081569295",
+        "2132981149",
+        "2154186643",
+        "2158237121",
+        "2295596515",
+        "2405586383"
+    ]
+}

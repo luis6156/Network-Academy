@@ -1,0 +1,40 @@
+{
+    "id": "1534901184",
+    "title": "A Public-Key Cryptosystem and a Digital Signature System BAsed on the Lucas Function Analogue to Discrete Logarithms",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Peter Smith",
+            "id": "2114374561",
+            "org": "LUC Encryption Technology, Ltd"
+        },
+        {
+            "name": "Christopher Skinner",
+            "id": "2493495514",
+            "org": "LUC Encryption Technology, Ltd"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete logarithm",
+        "Exponentiation",
+        "Public-key cryptography",
+        "Discrete mathematics",
+        "Computer science",
+        "Cryptosystem",
+        "Paillier cryptosystem",
+        "Schnorr signature",
+        "Arithmetic",
+        "Baby-step giant-step",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1559083592",
+        "1582531806",
+        "1591622349",
+        "1595231197",
+        "1969728959",
+        "2108834246",
+        "2111310412"
+    ]
+}

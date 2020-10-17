@@ -1,0 +1,78 @@
+{
+    "id": "1489027369",
+    "title": "Camellia: A 128-Bit Block Cipher Suitable for Multiple Platforms - Design and Analysis",
+    "venue": "selected areas in cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kazumaro Aoki",
+            "id": "2437729937",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        },
+        {
+            "name": "Tetsuya Ichikawa",
+            "id": "2160922307",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Masayuki Kanda",
+            "id": "2136074932",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        },
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Shiho Moriai",
+            "id": "2305488482",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        },
+        {
+            "name": "Junko Nakajima",
+            "id": "1974280691",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Toshio Tokita",
+            "id": "1974084302",
+            "org": "Mitsubishi Electric Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Block size",
+        "Parallel computing",
+        "Key schedule",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Twofish",
+        "Triple DES",
+        "Embedded system",
+        "Advanced Encryption Standard process"
+    ],
+    "references": [
+        "52191336",
+        "380217570",
+        "1488537309",
+        "1534818369",
+        "1540875416",
+        "1543271574",
+        "1546907539",
+        "1575922610",
+        "1654806544",
+        "1964723977",
+        "1978695162",
+        "1979802565",
+        "1991897749",
+        "2024729203",
+        "2109265351",
+        "2115355035",
+        "2120464016",
+        "2163466490",
+        "2234576048"
+    ]
+}

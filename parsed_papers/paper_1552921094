@@ -1,0 +1,47 @@
+{
+    "id": "1552921094",
+    "title": "Formal verification of a c compiler front-end",
+    "venue": "formal methods",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sandrine Blazy",
+            "id": "2618548387",
+            "org": "INRIA Rocquencourt, Le Chesnay, France#TAB#"
+        },
+        {
+            "name": "Zaynah Dargaye",
+            "id": "232688380",
+            "org": "INRIA Rocquencourt, Le Chesnay, France#TAB#"
+        },
+        {
+            "name": "Xavier Leroy",
+            "id": "2780386900",
+            "org": "INRIA Rocquencourt, Le Chesnay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Specification language",
+        "Formal verification",
+        "Theoretical computer science",
+        "Executable",
+        "Compiler",
+        "Functional compiler",
+        "Computer science",
+        "Compiler construction",
+        "Compiler correctness",
+        "Code generation",
+        "Programming language"
+    ],
+    "references": [
+        "1527060954",
+        "1529949989",
+        "1818561783",
+        "2006674970",
+        "2050469558",
+        "2052735108",
+        "2129695855",
+        "2132638915",
+        "2149590446"
+    ]
+}

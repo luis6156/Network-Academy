@@ -1,0 +1,40 @@
+{
+    "id": "1556517738",
+    "title": "Practical lock-free and wait-free LL/SC/VL implementations using 64-bit CAS",
+    "venue": "international symposium on distributed computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Maged M. Michael",
+            "id": "2105933217",
+            "org": "IBM Thomas J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Thread (computing)",
+        "Parallel computing",
+        "ABA problem",
+        "Computer science",
+        "Compare-and-swap",
+        "Implementation",
+        "Non-blocking algorithm",
+        "Parallel algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "1572227025",
+        "1598318328",
+        "1964252984",
+        "1981393723",
+        "1989300723",
+        "1996931099",
+        "2013021588",
+        "2029881550",
+        "2030333832",
+        "2034485694",
+        "2085407655",
+        "2100357382",
+        "2101939036"
+    ]
+}

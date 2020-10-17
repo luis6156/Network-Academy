@@ -1,0 +1,46 @@
+{
+    "id": "136912419",
+    "title": "Towards parallel direct SAT-based cryptanalysis",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Pawel Dudek",
+            "id": "2097892533",
+            "org": "Institute of Computer and Information Sciences, Czestochowa University of Technology, Czestochowa, Poland#TAB#"
+        },
+        {
+            "name": "Miroslaw Kurkowski",
+            "id": "1964890079",
+            "org": "Institute of Computer and Information Sciences, Czestochowa University of Technology, Czestochowa, Poland#TAB#"
+        },
+        {
+            "name": "Marian Srebrny",
+            "id": "1908311267",
+            "org": "Institute of Computer Science, Polish Academy of Sciences, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "165268098",
+        "1537206908",
+        "1586677474",
+        "1629301835",
+        "1660562555",
+        "2057361103",
+        "2062897452",
+        "2124509406"
+    ]
+}

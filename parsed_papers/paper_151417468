@@ -1,0 +1,41 @@
+{
+    "id": "151417468",
+    "title": "A new approach to distributed memory management in the mach microkernel",
+    "venue": "usenix annual technical conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Stephan Zeisset",
+            "id": "297242139",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Stefan Tritscher",
+            "id": "38435400",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Martin Mairandres",
+            "id": "2720498371",
+            "org": "Intel Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Uniform memory access",
+        "Memory management",
+        "Distributed shared memory",
+        "Data diffusion machine",
+        "Conventional memory",
+        "Real-time computing",
+        "Flat memory model",
+        "Virtual memory"
+    ],
+    "references": [
+        "1542985837",
+        "1597212252",
+        "2098815550"
+    ]
+}

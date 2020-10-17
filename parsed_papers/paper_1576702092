@@ -1,0 +1,51 @@
+{
+    "id": "1576702092",
+    "title": "Some New Observations on the SMS4 Block Cipher in the Chinese WAPI Standard",
+    "venue": "information security practice and experience",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Wentao Zhang",
+            "id": "2682674952",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P. R. China 100190#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P. R. China 100190#TAB#"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2100868817",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P. R. China 100190#TAB#"
+        },
+        {
+            "name": "Bozhan Su",
+            "id": "2123245575",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P. R. China 100190#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Affine cipher",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Running key cipher",
+        "Two-square cipher",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Triple DES",
+        "CBC-MAC"
+    ],
+    "references": [
+        "106587005",
+        "150724439",
+        "1504695911",
+        "1534818369",
+        "1565579953",
+        "1760415648",
+        "1811291318",
+        "2136016758"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1514915193",
+    "title": "Dynamic z-fast tries",
+    "venue": "string processing and information retrieval",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Djamal Belazzougui",
+            "id": "2780052285",
+            "org": "Universite Paris Diderot, Paris 7, France#TAB#"
+        },
+        {
+            "name": "Paolo Boldi",
+            "id": "252564519",
+            "org": "Universita degli Studi di Milano, Italy#TAB#"
+        },
+        {
+            "name": "Sebastiano Vigna",
+            "id": "2010447242",
+            "org": "Universita degli Studi di Milano, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Y-fast trie",
+        "Van Emde Boas tree",
+        "Mathematics",
+        "Integer",
+        "Pointer (computer programming)",
+        "Range query (data structures)",
+        "Combinatorics",
+        "Trie",
+        "X-fast trie",
+        "Data structure"
+    ],
+    "references": [
+        "1705602972",
+        "1993217935",
+        "2015323532",
+        "2074286662",
+        "2077229436",
+        "2087721273",
+        "2090021115",
+        "2090747326",
+        "2095875205",
+        "2149710566"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1560720671",
+    "title": "Remote timing attacks are practical",
+    "venue": "usenix security symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David Brumley",
+            "id": "2157466369",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Local area network",
+        "Software system",
+        "Computer science",
+        "Timing attack",
+        "Computer security",
+        "Server",
+        "Web server",
+        "Key (lock)",
+        "Internet privacy",
+        "Smart card"
+    ],
+    "references": [
+        "42025440",
+        "1584759454",
+        "1587481360",
+        "1664808737",
+        "1824485463",
+        "2101040389",
+        "2154909745"
+    ]
+}

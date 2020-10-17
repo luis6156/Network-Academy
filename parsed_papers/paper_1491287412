@@ -1,0 +1,42 @@
+{
+    "id": "1491287412",
+    "title": "Fast, parallel watershed algorithm based on path tracing",
+    "venue": "international conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Michal Swiercz",
+            "id": "1902635528",
+            "org": "Institute of Control and Industrial Electronics, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Marcin Iwanowski",
+            "id": "2151323278",
+            "org": "Institute of Control and Industrial Electronics, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Shared nothing architecture",
+        "Thread (computing)",
+        "Path tracing",
+        "Watershed",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computation",
+        "Computer science",
+        "Correctness",
+        "Synchronization"
+    ],
+    "references": [
+        "203596501",
+        "1652775531",
+        "1979725404",
+        "1993267702",
+        "2005361883",
+        "2030088149",
+        "2056545258",
+        "2119379074",
+        "2124260943",
+        "2149373586"
+    ]
+}

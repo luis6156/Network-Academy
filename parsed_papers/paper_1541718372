@@ -1,0 +1,37 @@
+{
+    "id": "1541718372",
+    "title": "Real Time - Mach Timers: Exporting Time to the User",
+    "venue": "USENIX MACH III Symposium",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Stefan Savage",
+            "id": "2171030022",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Hideyuki Tokuda",
+            "id": "2583824008",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Timestamp",
+        "Timeout",
+        "Generality",
+        "Microkernel",
+        "Scheduling (computing)",
+        "Mach number",
+        "Synchronization",
+        "Real-time computing",
+        "Engineering"
+    ],
+    "references": [
+        "178711978",
+        "1486435130",
+        "1524209511",
+        "1966938284",
+        "1992534729",
+        "2023209622"
+    ]
+}

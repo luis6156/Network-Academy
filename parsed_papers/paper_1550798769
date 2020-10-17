@@ -1,0 +1,51 @@
+{
+    "id": "1550798769",
+    "title": "Hindering Eavesdropping via IPv6 Opportunistic Encryption",
+    "venue": "european symposium on research in computer security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Claude Castelluccia",
+            "id": "227365023",
+            "org": "INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Gabriel Montenegro",
+            "id": "2276018784",
+            "org": "Sun Labs, Europe"
+        },
+        {
+            "name": "Julien Laganier",
+            "id": "2032661633",
+            "org": "Sun Labs, Europe"
+        },
+        {
+            "name": "Christoph Neumann",
+            "id": "2163897730",
+            "org": "INRIA Rhone-Alpes"
+        }
+    ],
+    "fields_of_study": [
+        "Public key infrastructure",
+        "Computer science",
+        "Distributed computing",
+        "Anycast",
+        "IPsec",
+        "Computer security",
+        "Encryption",
+        "Opportunistic encryption",
+        "Multiple encryption",
+        "On-the-fly encryption",
+        "Computer network",
+        "Trusted third party"
+    ],
+    "references": [
+        "1506423323",
+        "1552489884",
+        "1949661937",
+        "1985656666",
+        "2051053018",
+        "2102356633",
+        "2153281696"
+    ]
+}

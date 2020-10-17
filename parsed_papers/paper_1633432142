@@ -1,0 +1,45 @@
+{
+    "id": "1633432142",
+    "title": "Greedy approach based heuristics for partitioning SpMxV on FPGAs",
+    "venue": "field programmable logic and applications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jiasen Huang",
+            "id": "2708363942",
+            "org": "State Key Laboratory of ASIC and System, Fudan University, Shanghai, China"
+        },
+        {
+            "name": "Weina Lu",
+            "id": "2235710344",
+            "org": "Institute of Computing Technology Chinese Academy of Sciences, China"
+        },
+        {
+            "name": "Junyan Ren",
+            "id": "2699873920",
+            "org": "State Key Laboratory of ASIC and System, Fudan University, Shanghai, China"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Field-programmable gate array",
+        "Recursion",
+        "Parallel computing",
+        "Speedup",
+        "Heuristics",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Padding",
+        "Multiplication",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1518969538",
+        "1983797753",
+        "2025890876",
+        "2035080386",
+        "2072806558",
+        "2095292158",
+        "2164904521"
+    ]
+}

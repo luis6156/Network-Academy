@@ -1,0 +1,50 @@
+{
+    "id": "1578563085",
+    "title": "A new algorithm for computing the minimal enclosing sphere in feature space",
+    "venue": "fuzzy systems and knowledge discovery",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Chonghui Guo",
+            "id": "2777376795",
+            "org": "Department of Applied Mathematics, Dalian University of Technology, Dalian, China#TAB#"
+        },
+        {
+            "name": "Mingyu Lu",
+            "id": "2689600741",
+            "org": "Department of Computer Science, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Jiantao Sun",
+            "id": "2694253457",
+            "org": "Department of Computer Science, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yuchang Lu",
+            "id": "2147239323",
+            "org": "Department of Computer Science, Tsinghua University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Quadratic programming",
+        "Algorithm",
+        "Discrete mathematics",
+        "Principle of maximum entropy",
+        "Feature vector",
+        "Convergence (routing)",
+        "Maximum entropy probability distribution",
+        "Support vector machine",
+        "Maximum principle",
+        "Mathematical optimization",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1548139318",
+        "1606594487",
+        "1943383135",
+        "2139594840",
+        "2148603752",
+        "2149906774"
+    ]
+}

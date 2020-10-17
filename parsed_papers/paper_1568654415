@@ -1,0 +1,44 @@
+{
+    "id": "1568654415",
+    "title": "Automatic Segmentation of the Cortical Grey and White Matter in MRI Using a Region-Growing Approach Based on Anatomical Knowledge",
+    "venue": "Bildverarbeitung f&uuml;r die Medizin",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christian Wasserthal",
+            "id": "2749147808",
+            "org": "Otto-von-Guericke University"
+        },
+        {
+            "name": "Karin Engel",
+            "id": "2122948772",
+            "org": "Otto-von-Guericke University"
+        },
+        {
+            "name": "Karsten Rink",
+            "id": "2164324763",
+            "org": "Otto-von-Guericke University"
+        },
+        {
+            "name": "Andr'e Brechmann",
+            "id": "2502170283",
+            "org": "Leibniz Institute for Neurobiology"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Human brain",
+        "Active contour model",
+        "White matter",
+        "Computer science",
+        "Region growing",
+        "Grey matter",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1711469356",
+        "2105868963",
+        "2107165478"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1536061269",
+    "title": "Identifying feature relevance using a random forest",
+    "venue": "SLSFS'05 Proceedings of the 2005 international conference on Subspace, Latent Structure and Feature Selection",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jeremy D. Rogers",
+            "id": "2500662284",
+            "org": "Image, Speech and Intelligent Systems Research Group, School of Electronics and Computer Science, University of Southampton, UK#TAB#"
+        },
+        {
+            "name": "Steve R. Gunn",
+            "id": "2171658156",
+            "org": "Image, Speech and Intelligent Systems Research Group, School of Electronics and Computer Science, University of Southampton, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Random forest",
+        "Statistical hypothesis testing",
+        "Feature (computer vision)",
+        "Kanade-Lucas-Tomasi feature tracker",
+        "Dimensionality reduction",
+        "Feature selection",
+        "Minimum redundancy feature selection",
+        "Rate of convergence",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "70551643",
+        "1497310198",
+        "1560107318",
+        "1605688901",
+        "1619226191",
+        "1661871015"
+    ]
+}

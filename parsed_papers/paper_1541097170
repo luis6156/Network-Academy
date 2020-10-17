@@ -1,0 +1,40 @@
+{
+    "id": "1541097170",
+    "title": "Design of testable random bit generators",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marco Bucci",
+            "id": "2203906007",
+            "org": "Infineon Technologies Austria AG, Graz, AUSTRIA#TAB#"
+        },
+        {
+            "name": "Raimondo Luzzi",
+            "id": "2079417542",
+            "org": "Infineon Technologies Austria AG, Graz, AUSTRIA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Data compression",
+        "Theoretical computer science",
+        "Algorithm",
+        "Stateless protocol",
+        "Statistic",
+        "Stochastic process",
+        "Estimator",
+        "Sound quality",
+        "Adaptive algorithm",
+        "Entropy estimation",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "206222754",
+        "1529494323",
+        "1660562555",
+        "2094932420",
+        "2098543956",
+        "2171992767"
+    ]
+}

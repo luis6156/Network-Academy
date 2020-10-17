@@ -1,0 +1,54 @@
+{
+    "id": "1538046926",
+    "title": "Extracting a Data Flow Analyser in Constructive Logic",
+    "venue": "european symposium on programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David Cachera",
+            "id": "1272424757",
+            "org": "IRISA / ENS Cachan (Bretagne)"
+        },
+        {
+            "name": "Thomas P. Jensen",
+            "id": "2424583698",
+            "org": "IRISA / CNRS"
+        },
+        {
+            "name": "David Pichardie",
+            "id": "2736621580",
+            "org": "IRISA / ENS Cachan (Bretagne)"
+        },
+        {
+            "name": "Vlad Rusu",
+            "id": "2252077257",
+            "org": "IRISA / INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Specification language",
+        "Theoretical computer science",
+        "Proof assistant",
+        "Intuitionistic logic",
+        "Computer science",
+        "Abstract interpretation",
+        "Automated theorem proving",
+        "Correctness",
+        "Dependent type",
+        "Operational semantics",
+        "Programming language"
+    ],
+    "references": [
+        "1525726734",
+        "1565777932",
+        "1576896531",
+        "1592189276",
+        "1594975933",
+        "1869829327",
+        "2043100293",
+        "2116590474",
+        "2125346056",
+        "2143963275",
+        "2675276594"
+    ]
+}

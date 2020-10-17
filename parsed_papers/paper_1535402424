@@ -1,0 +1,46 @@
+{
+    "id": "1535402424",
+    "title": "Time-Memory trade-offs: false alarm detection using checkpoints",
+    "venue": "international conference on cryptology in india",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gildas Avoine",
+            "id": "2642342647",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Pascal Junod",
+            "id": "2172142368",
+            "org": "Nagravision SA (Kudelski Group), Cheseaux, Switzerland#TAB#"
+        },
+        {
+            "name": "Philippe Oechslin",
+            "id": "2328117895",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Rainbow table",
+        "False alarm",
+        "Distributed computing",
+        "Computer science",
+        "Precomputation",
+        "Constant false alarm rate"
+    ],
+    "references": [
+        "112271350",
+        "1544956979",
+        "1549671385",
+        "1882297107",
+        "1923545420",
+        "1930460466",
+        "1971282587",
+        "2008272678",
+        "2012646342",
+        "2020306457"
+    ]
+}

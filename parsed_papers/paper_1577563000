@@ -1,0 +1,47 @@
+{
+    "id": "1577563000",
+    "title": "Exploiting monotonicity in interval constraint propagation",
+    "venue": "national conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ignacio Araya",
+            "id": "2894047614",
+            "org": "COPRIN INRIA, Universite Nice-Sophia, Imagine LIGM Universite Paris-Est INRIA, Sophia Antipolis, France#TAB#"
+        },
+        {
+            "name": "Gilles Trombettoni",
+            "id": "51025899",
+            "org": "COPRIN INRIA, Universite Nice-Sophia, Imagine LIGM Universite Paris-Est INRIA, Sophia Antipolis, France#TAB#"
+        },
+        {
+            "name": "Bertrand Neveu",
+            "id": "2147035274",
+            "org": "COPRIN INRIA, Universite Nice-Sophia, Imagine LIGM Universite Paris-Est INRIA, Sophia Antipolis, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint graph",
+        "Binary constraint",
+        "Computer science",
+        "Constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Local consistency",
+        "Monotonic function",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "63626580",
+        "101601014",
+        "1548650523",
+        "1588693185",
+        "1595068075",
+        "1600978948",
+        "1831455817",
+        "1974614603",
+        "2167206762",
+        "2394668579"
+    ]
+}

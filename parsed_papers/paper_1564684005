@@ -1,0 +1,55 @@
+{
+    "id": "1564684005",
+    "title": "Traffic matrix reloaded: impact of routing changes",
+    "venue": "passive and active network measurement",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Renata Teixeira",
+            "id": "2122330853",
+            "org": "U. California, San Diego#TAB#"
+        },
+        {
+            "name": "Nick G. Duffield",
+            "id": "2017920553",
+            "org": "AT&T Labs-Research#TAB#"
+        },
+        {
+            "name": "Jennifer Rexford",
+            "id": "1998722161",
+            "org": "AT&T Labs-Research#TAB#"
+        },
+        {
+            "name": "Matthew Roughan",
+            "id": "1231305195",
+            "org": "University of Adelaide#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet Protocol",
+        "Static routing",
+        "Network traffic control",
+        "Traffic generation model",
+        "Traffic congestion reconstruction with Kerner's three-phase theory",
+        "Routing table",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Traffic shaping",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "1607215488",
+        "1970701242",
+        "1997299558",
+        "2083793737",
+        "2104254326",
+        "2124430127",
+        "2127455097",
+        "2133646105",
+        "2139054829",
+        "2143538614",
+        "2144936818",
+        "2171839243"
+    ]
+}

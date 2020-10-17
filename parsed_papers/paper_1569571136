@@ -1,0 +1,47 @@
+{
+    "id": "1569571136",
+    "title": "An Adaptive Parallel Distributive Join Algorithm on a Cluster of Workstations",
+    "venue": "The Journal of Supercomputing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Soon Myoung Chung",
+            "id": "2145880949",
+            "org": "Department of Computer Science and Engineering, Wright State University, Dayton, OH 45435 schung@cs.wright.edu#TAB#"
+        },
+        {
+            "name": "Arindam Chatterjee",
+            "id": "2577169941",
+            "org": "Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399 arindamc@microsoft.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Analysis of parallel algorithms",
+        "Parallel computing",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Hash join",
+        "Distributive property",
+        "Block nested loop",
+        "Virtual machine",
+        "Skew",
+        "Workstation",
+        "Operand"
+    ],
+    "references": [
+        "1569570229",
+        "1597532222",
+        "1873786720",
+        "1998891443",
+        "2005272677",
+        "2078528123",
+        "2093425206",
+        "2100981089",
+        "2111519186",
+        "2115919907",
+        "2117545614",
+        "2143163927",
+        "2147853062"
+    ]
+}

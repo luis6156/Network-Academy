@@ -1,0 +1,48 @@
+{
+    "id": "1559895627",
+    "title": "Lucy-n: a n-synchronous extension of Lustre",
+    "venue": "mathematics of program construction",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Louis Mandel",
+            "id": "2027215001",
+            "org": "LRI, Univ. Paris-Sud 11, Orsay, France and INRIA Saclay#TAB#"
+        },
+        {
+            "name": "Florence Plateau",
+            "id": "2101874667",
+            "org": "LRI, Univ. Paris-Sud 11, Orsay, France and INRIA Saclay#TAB#"
+        },
+        {
+            "name": "Marc Pouzet",
+            "id": "1487162167",
+            "org": "LRI, Univ. Paris-Sud 11, Orsay, France and INRIA Saclay and Institut Universitaire de France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Synchronous circuit",
+        "Clock synchronization",
+        "Discrete mathematics",
+        "Vector clock",
+        "Kahn process networks",
+        "Temporal Process Language",
+        "Functional programming",
+        "Matrix clock",
+        "Subtyping",
+        "Real-time computing"
+    ],
+    "references": [
+        "1545436911",
+        "1548666647",
+        "1568192366",
+        "1597755753",
+        "2005976511",
+        "2104922219",
+        "2114980032",
+        "2149377475",
+        "2194223632"
+    ]
+}

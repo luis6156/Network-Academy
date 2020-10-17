@@ -1,0 +1,73 @@
+{
+    "id": "1528433278",
+    "title": "Voxelwise multivariate statistics and brain-wide machine learning using the full diffusion tensor",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Anne-Laure Fouque",
+            "id": "2113801506",
+            "org": "CEA, Neurospin, LNAO, Saclay, France and INSERM-CEA U.1000 Imaging and Psychiatry, Orsay, France#TAB#"
+        },
+        {
+            "name": "Pierre Fillard",
+            "id": "2019788076",
+            "org": "CEA, Neurospin, LNAO, Saclay, France and INRIA Saclay-Ile-de-France, Parietal, Saclay, France#TAB#"
+        },
+        {
+            "name": "Anne Bargiacchi",
+            "id": "2666113903",
+            "org": "INSERM-CEA U.1000 Imaging and Psychiatry, Orsay, France#TAB#"
+        },
+        {
+            "name": "Arnaud Cachia",
+            "id": "2762826643",
+            "org": "UMR 894 INSERM - Paris Descartes University, Laboratory of Pathophysiology of Psychiatric Diseases, Sainte-Anne Hospital, Paris, France#TAB#"
+        },
+        {
+            "name": "Monica Zilbovicius",
+            "id": "2052643562",
+            "org": "INSERM-CEA U.1000 Imaging and Psychiatry, Orsay, France#TAB#"
+        },
+        {
+            "name": "Benjamin Thyreau",
+            "id": "2583725377",
+            "org": "CEA, Neurospin, LNAO, Saclay, France#TAB#"
+        },
+        {
+            "name": "Edith Le Floch",
+            "id": "2747670836",
+            "org": "CEA, Neurospin, LNAO, Saclay, France and INSERM-CEA U.1000 Imaging and Psychiatry, Orsay, France#TAB#"
+        },
+        {
+            "name": "Philippe Ciuciu",
+            "id": "2286323142",
+            "org": "CEA, Neurospin, LNAO, Saclay, France#TAB#"
+        },
+        {
+            "name": "Edouard Duchesnay",
+            "id": "2333099729",
+            "org": "CEA, Neurospin, LNAO, Saclay, France and INSERM-CEA U.1000 Imaging and Psychiatry, Orsay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Mathematics",
+        "Pattern recognition",
+        "Smoothing",
+        "Feature selection",
+        "Diffusion MRI",
+        "Fractional anisotropy",
+        "Statistics",
+        "Scalar (physics)",
+        "Multivariate statistics",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1808712535",
+        "1983496390",
+        "2097047986",
+        "2138903016"
+    ]
+}

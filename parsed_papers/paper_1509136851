@@ -1,0 +1,72 @@
+{
+    "id": "1509136851",
+    "title": "On symmetric encryption and point obfuscation",
+    "venue": "theory of cryptography conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ran Canetti",
+            "id": "687553606",
+            "org": "School of Computer Science, Tel Aviv University#TAB#"
+        },
+        {
+            "name": "Yael Tauman Kalai",
+            "id": "64276155",
+            "org": "Microsoft Research New England#TAB#"
+        },
+        {
+            "name": "Mayank Varia",
+            "id": "2321820632",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Daniel Wichs",
+            "id": "234122163",
+            "org": "New York University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Symmetric-key algorithm",
+        "Mathematics",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Key distribution",
+        "Discrete mathematics",
+        "Weak key",
+        "Encryption",
+        "Probabilistic encryption",
+        "56-bit encryption"
+    ],
+    "references": [
+        "111085860",
+        "236432643",
+        "1485489906",
+        "1489922337",
+        "1493465382",
+        "1495266644",
+        "1509316335",
+        "1547517307",
+        "1588518948",
+        "1606729219",
+        "1855708869",
+        "1949164874",
+        "2039594335",
+        "2084641398",
+        "2089413537",
+        "2096290348",
+        "2097724213",
+        "2102632421",
+        "2113333997",
+        "2133701468",
+        "2139033758",
+        "2139440619",
+        "2147436724",
+        "2148888468",
+        "2159460804",
+        "2160155646",
+        "2169265599",
+        "2169985476",
+        "2175377689"
+    ]
+}

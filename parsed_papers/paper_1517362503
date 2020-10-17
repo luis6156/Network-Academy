@@ -1,0 +1,50 @@
+{
+    "id": "1517362503",
+    "title": "Trading one-wayness against chosen-ciphertext security in factoring-based encryption",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Cryptography Group, Security Labs, Gemalto#TAB#"
+        },
+        {
+            "name": "Jorge L. Villar",
+            "id": "2137851336",
+            "org": "Departament de Matematica Aplicada, Universitat Politecnica de Catalunya#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "Factoring",
+        "Discrete mathematics",
+        "Computer science",
+        "Encryption",
+        "Ciphertext",
+        "Random oracle",
+        "Public-key cryptography",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1515644111",
+        "1516512945",
+        "1534385083",
+        "1540889651",
+        "1552695147",
+        "1557014463",
+        "1569930334",
+        "1603331866",
+        "1606412873",
+        "1880955573",
+        "2052267638",
+        "2073210531",
+        "2132172731",
+        "2151413173",
+        "2161195863",
+        "2167989228",
+        "2593949227"
+    ]
+}

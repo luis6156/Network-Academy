@@ -1,0 +1,54 @@
+{
+    "id": "103873316",
+    "title": "Model-Based Segmentation of the Left Atrium in CT and MRI Scans",
+    "venue": "Revised Selected Papers of the 4th International Workshop on Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges - Volume 8330",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Birgit Stender",
+            "id": "2048519480",
+            "org": "Institute for Robotics and Cognitive Systems, Medical Robotics Group, University of Lubeck, Germany#TAB#"
+        },
+        {
+            "name": "Oliver Blanck",
+            "id": "2461431993",
+            "org": "Departement for Radiation Oncology, University Clinic Schleswig-Holstein, Lubeck, Germany and CyberKnife Center Northern Germany, Gustrow, Germany#TAB#"
+        },
+        {
+            "name": "B. Wang",
+            "id": "2662075814",
+            "org": "Institute of Biomedical Analytical Technology and Instrumentation, Xi'an Jiaotong University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Alexander Schlaefer",
+            "id": "279046443",
+            "org": "Institute for Robotics and Cognitive Systems, Medical Robotics Group, University of Lubeck, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Medicine",
+        "Image registration",
+        "Computer vision",
+        "Region growing",
+        "Pulmonary vein",
+        "Radiology",
+        "Left atrium",
+        "Cross-validation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "29661792",
+        "135516704",
+        "1488415922",
+        "1522965957",
+        "1567539409",
+        "1870947790",
+        "2038952578",
+        "2103857226",
+        "2104276184",
+        "2123971620",
+        "2152826865",
+        "2258943000"
+    ]
+}

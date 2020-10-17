@@ -1,0 +1,67 @@
+{
+    "id": "1568547784",
+    "title": "An efficient algorithm for reverse furthest neighbors query with metric index",
+    "venue": "database and expert systems applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jianquan Liu",
+            "id": "2806427556",
+            "org": "Department of Computer Science, Graduate School of SIE, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        },
+        {
+            "name": "Hanxiong Chen",
+            "id": "2096892702",
+            "org": "Department of Computer Science, Graduate School of SIE, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        },
+        {
+            "name": "Kazutaka Furuse",
+            "id": "1467882240",
+            "org": "Department of Computer Science, Graduate School of SIE, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        },
+        {
+            "name": "Hiroyuki Kitagawa",
+            "id": "2124997989",
+            "org": "Department of Computer Science, Graduate School of SIE, University of Tsukuba, Tsukuba, Ibaraki, Japan and Center for Computational Sciences, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Nearest neighbor search",
+        "Triangle inequality",
+        "Algorithm",
+        "Computer science",
+        "Data mining",
+        "k-nearest neighbors algorithm",
+        "Voronoi diagram",
+        "Range query (data structures)",
+        "Convex hull",
+        "Query optimization"
+    ],
+    "references": [
+        "1499049447",
+        "1503832576",
+        "1541459201",
+        "1608524621",
+        "1982768666",
+        "1990111898",
+        "2008908114",
+        "2046144220",
+        "2057175746",
+        "2070074980",
+        "2076287166",
+        "2077695545",
+        "2097309979",
+        "2101586458",
+        "2111993661",
+        "2117616929",
+        "2118269922",
+        "2126777999",
+        "2129875280",
+        "2137507206",
+        "2148306163",
+        "2149173084",
+        "2155502235",
+        "2166632516"
+    ]
+}

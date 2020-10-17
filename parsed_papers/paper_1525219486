@@ -1,0 +1,44 @@
+{
+    "id": "1525219486",
+    "title": "Die Sicherheit von MS CardSpace und verwandten Single-Sign-On-Protokollen",
+    "venue": "Datenschutz Und Datensicherheit - Dud",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Xuan Chen",
+            "id": "2496122587",
+            "org": "IT-Sicherheit an der Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Christoph Lohr",
+            "id": "2138753299",
+            "org": "IT-Sicherheit an der Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Sebastian Gajek",
+            "id": "2789976415",
+            "org": "Kryptografische Protokolle"
+        },
+        {
+            "name": "Sven Schage",
+            "id": "665923922",
+            "org": "Kryptografische Protokolle"
+        }
+    ],
+    "fields_of_study": [
+        "Same-origin policy",
+        "Computer science",
+        "Domain Name System",
+        "Internet privacy",
+        "Single sign-on"
+    ],
+    "references": [
+        "1580416641",
+        "1742473555",
+        "2096733704",
+        "2118783124",
+        "2131906261",
+        "2150477710",
+        "2160343382"
+    ]
+}

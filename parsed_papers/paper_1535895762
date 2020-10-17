@@ -1,0 +1,60 @@
+{
+    "id": "1535895762",
+    "title": "A Chosen Plaintext Linear Attack on Block Cipher CIKS-1",
+    "venue": "international conference on information and communication security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Changhoon Lee",
+            "id": "2584912906",
+            "org": "Korea University"
+        },
+        {
+            "name": "Deukjo Hong",
+            "id": "2810097668",
+            "org": "Korea University"
+        },
+        {
+            "name": "Sungjae Lee",
+            "id": "2604503229",
+            "org": "Korea Information Security Agency(KISA)"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Hyung-Jin Yang",
+            "id": "2851717091",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Linear approximation",
+        "Cipher",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Permutation",
+        "Plaintext"
+    ],
+    "references": [
+        "1500356409",
+        "1534177130",
+        "1553595359",
+        "1553753418",
+        "1862865750",
+        "1964723977",
+        "1979802565",
+        "1984275283"
+    ]
+}

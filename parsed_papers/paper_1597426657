@@ -1,0 +1,48 @@
+{
+    "id": "1597426657",
+    "title": "Adaptive MPI multirail tuning for non-uniform input/output access",
+    "venue": "EuroMPI'10 Proceedings of the 17th European MPI users' group meeting conference on Recent advances in the message passing interface",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Stephanie Moreaud",
+            "id": "133158889",
+            "org": "Universite de Bordeaux, INRIA, LaBRI, Talence Cedex, France#TAB#"
+        },
+        {
+            "name": "Brice Goglin",
+            "id": "121241302",
+            "org": "Universite de Bordeaux, INRIA, LaBRI, Talence Cedex, France#TAB#"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "Universite de Bordeaux, INRIA, LaBRI, Talence Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Multi-core processor",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Network interface",
+        "Non-uniform memory access",
+        "Network interface controller",
+        "Output device"
+    ],
+    "references": [
+        "1578454829",
+        "1756027381",
+        "1825216778",
+        "1969215126",
+        "1969923711",
+        "2132405508",
+        "2133352850",
+        "2138782497",
+        "2141956610",
+        "2146542985",
+        "2156108862"
+    ]
+}

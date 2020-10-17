@@ -1,0 +1,68 @@
+{
+    "id": "1509650914",
+    "title": "Data mining for defects in multicore applications: an entropy-based call-graph technique",
+    "venue": "Concurrency and Computation: Practice and Experience",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Frank Eichinger",
+            "id": "2060963310",
+            "org": "SAP Research Karlsruhe Germany"
+        },
+        {
+            "name": "Victor Pankratius",
+            "id": "2689463753",
+            "org": "Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology Cambridge MA USA"
+        },
+        {
+            "name": "Klemens Bohm",
+            "id": "2245547659",
+            "org": "Karlsruhe Institute of Technology (KIT) Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented programming",
+        "Parallel computing",
+        "Control flow",
+        "Software",
+        "Multi-core processor",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Race condition",
+        "Exploit",
+        "Call graph",
+        "Debugging"
+    ],
+    "references": [
+        "143021158",
+        "1484205489",
+        "1519426318",
+        "1598567364",
+        "1616338336",
+        "1767990287",
+        "1964962870",
+        "1972544179",
+        "1989657183",
+        "1994816063",
+        "1996182867",
+        "2083882002",
+        "2101161997",
+        "2101819268",
+        "2105300539",
+        "2116163025",
+        "2119826996",
+        "2125571188",
+        "2127989655",
+        "2128274900",
+        "2133990480",
+        "2137839528",
+        "2142647473",
+        "2146652621",
+        "2159765571",
+        "2162045655",
+        "2165663378",
+        "2166007208",
+        "2172035080"
+    ]
+}

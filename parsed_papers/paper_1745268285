@@ -1,0 +1,75 @@
+{
+    "id": "1745268285",
+    "title": "Transactional consistency and automatic management in an application data cache",
+    "venue": "operating systems design and implementation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dan R. K. Ports",
+            "id": "1513655371",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Austin T. Clements",
+            "id": "2171474616",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Irene Zhang",
+            "id": "2145632935",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Samuel Madden",
+            "id": "2139913828",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Barbara Liskov",
+            "id": "2084056563",
+            "org": "MIT CSAIL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Application server",
+        "Cache algorithms",
+        "Cache invalidation",
+        "Computer science",
+        "Cache coherence",
+        "Database",
+        "Web application",
+        "Snapshot (computer storage)",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "46412898",
+        "51518710",
+        "1500987966",
+        "1555114514",
+        "1574320195",
+        "1648820737",
+        "1935402982",
+        "1973501242",
+        "1988311692",
+        "2001803004",
+        "2010959974",
+        "2012670464",
+        "2020765652",
+        "2022261236",
+        "2025964097",
+        "2058068178",
+        "2087912304",
+        "2111586962",
+        "2117917070",
+        "2118428193",
+        "2131751093",
+        "2143278699",
+        "2154813713",
+        "2161676522",
+        "2167898414",
+        "2294041420",
+        "2610957259"
+    ]
+}

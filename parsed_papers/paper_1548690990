@@ -1,0 +1,94 @@
+{
+    "id": "1548690990",
+    "title": "Time Space Sharing Scheduling and Architectural Support",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Atsushi Hori",
+            "id": "2049159172",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Takashi Yokota",
+            "id": "2779003852",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Yutaka Ishikawa",
+            "id": "2251886612",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Shuichi Sakai",
+            "id": "2149404630",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Hiroki Konaka",
+            "id": "739754672",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Munenori Maeda",
+            "id": "2279582093",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Takashi Tomokiyo",
+            "id": "1183866536",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Jorg Nolte",
+            "id": "2149088118",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Hiroshi Matsuoka",
+            "id": "2234890286",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Kazuaki Okamoto",
+            "id": "2123875076",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Hideo Hirono",
+            "id": "1276916287",
+            "org": "Real World Computing Partnership"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "59594273",
+        "1589576271",
+        "1976008287",
+        "1986053068",
+        "1998040188",
+        "2011311244",
+        "2019818275",
+        "2019874334",
+        "2057016891",
+        "2057726682",
+        "2099413756",
+        "2106293656",
+        "2149434632",
+        "2156634017",
+        "2170471564",
+        "2336679799"
+    ]
+}

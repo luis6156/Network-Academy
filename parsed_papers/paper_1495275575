@@ -1,0 +1,55 @@
+{
+    "id": "1495275575",
+    "title": "A Generator for Time-Predictable Code",
+    "venue": "international symposium on object/component/service-oriented real-time distributed computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Daniel Prokesch",
+            "id": "266733718",
+            "org": "Inst. of Comput. Eng., Vienna Univ. of Technol., Vienna, Austria"
+        },
+        {
+            "name": "Stefan Hepp",
+            "id": "2035109030",
+            "org": "Inst. of Comput. Eng., Vienna Univ. of Technol., Vienna, Austria"
+        },
+        {
+            "name": "Peter P. Puschner",
+            "id": "1980714858",
+            "org": "Inst. of Comput. Eng., Vienna Univ. of Technol., Vienna, Austria"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Computer architecture",
+        "Source code",
+        "Computer science",
+        "KPI-driven code analysis",
+        "Unreachable code",
+        "Loop-invariant code motion",
+        "Code bloat",
+        "Systematic code",
+        "Code generation",
+        "Real-time computing"
+    ],
+    "references": [
+        "32753533",
+        "115402818",
+        "1563826489",
+        "1715210439",
+        "2033576476",
+        "2060184975",
+        "2076285066",
+        "2103401394",
+        "2115153453",
+        "2116299797",
+        "2128255161",
+        "2133374836",
+        "2137169528",
+        "2144344516",
+        "2147654959",
+        "2153185479",
+        "2242288615"
+    ]
+}

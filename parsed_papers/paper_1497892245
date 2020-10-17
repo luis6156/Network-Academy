@@ -1,0 +1,50 @@
+{
+    "id": "1497892245",
+    "title": "Cryptanalysis of the CFB mode of the DES with a reduced number of rounds",
+    "venue": "international cryptology conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Marnix Nuttin",
+            "id": "2076854744",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Johan Buelens",
+            "id": "2307437823",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Theoretical computer science",
+        "Cipher",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Meet-in-the-middle attack",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1527545029",
+        "1533793622",
+        "1550568061",
+        "1576495995",
+        "1584896380",
+        "1629301835",
+        "1964723977"
+    ]
+}

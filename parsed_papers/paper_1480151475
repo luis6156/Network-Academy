@@ -1,0 +1,40 @@
+{
+    "id": "1480151475",
+    "title": "Implementing MPI with the Memory-Based Communication Facilities on the SSS-CORE Operating System",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Kenji Morimoto",
+            "id": "2505473440",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Takashi Matsumoto",
+            "id": "2657516794",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Kei Hiraki",
+            "id": "2301738485",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Address space",
+        "Software",
+        "FIFO (computing and electronics)",
+        "Remote memory",
+        "Computer science",
+        "Distributed computing",
+        "Embedded system",
+        "Message passing",
+        "Ethernet",
+        "Operating system"
+    ],
+    "references": [
+        "1530488840",
+        "2041577576",
+        "2081612620"
+    ]
+}

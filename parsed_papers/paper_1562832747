@@ -1,0 +1,59 @@
+{
+    "id": "1562832747",
+    "title": "A non-prenex, non-clausal QBF solver with game-state learning",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "William Klieber",
+            "id": "1966173252",
+            "org": "Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        },
+        {
+            "name": "Samir Sapra",
+            "id": "2120636544",
+            "org": "Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        },
+        {
+            "name": "Sicun Gao",
+            "id": "2110529662",
+            "org": "Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "DPLL algorithm",
+        "Discrete mathematics",
+        "Cube",
+        "Model checking",
+        "Solver"
+    ],
+    "references": [
+        "38499500",
+        "69898213",
+        "153481334",
+        "1487809834",
+        "1496518193",
+        "1513176853",
+        "1513754266",
+        "1544998733",
+        "1553565837",
+        "1606555018",
+        "1807142225",
+        "1916519491",
+        "2005573219",
+        "2036901448",
+        "2099101936",
+        "2108447646",
+        "2114574336",
+        "2142785340",
+        "2146662253",
+        "2501112583"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1535821106",
+    "title": "A Fully Parallel LISP2 Compactor with Preservation of the Sliding Properties",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Xiao-Feng Li",
+            "id": "2657496419",
+            "org": "Managed Runtime Optimization, Intel China Research Center, Beijing, China#TAB#"
+        },
+        {
+            "name": "Ligang Wang",
+            "id": "2659641738",
+            "org": "Managed Runtime Optimization, Intel China Research Center, Beijing, China#TAB#"
+        },
+        {
+            "name": "Chen Yang",
+            "id": "2721819346",
+            "org": "Managed Runtime Optimization, Intel China Research Center, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Java",
+        "Computer science",
+        "Garbage collection",
+        "Implementation",
+        "Heap (data structure)",
+        "Correctness",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "1583464938",
+        "1702434361",
+        "2016022395",
+        "2025899651",
+        "2061248378",
+        "2062989232",
+        "2134377938",
+        "2137736443",
+        "2156225894"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1532576421",
+    "title": "Longer randomly blinded RSA keys may be weaker than shorter ones",
+    "venue": "workshop on information security applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Colin D. Walter",
+            "id": "2170406325",
+            "org": "Comodo Research Laboratory, Bradford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Blinding",
+        "Side channel attack",
+        "Computer science",
+        "Security token",
+        "Computer security",
+        "Power analysis",
+        "Working hypothesis",
+        "Key (lock)",
+        "Real-time computing",
+        "Key size"
+    ],
+    "references": [
+        "1495728876",
+        "1536508214",
+        "1584759454",
+        "1587865420",
+        "1600832482",
+        "1613874182",
+        "1664808737",
+        "1864311428",
+        "2154909745"
+    ]
+}

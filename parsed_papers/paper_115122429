@@ -1,0 +1,37 @@
+{
+    "id": "115122429",
+    "title": "On the software virtual machine for the real hardware stack machine",
+    "venue": "JVM'01 Proceedings of the 2001 Symposium on JavaTM Virtual Machine Research and Technology Symposium - Volume 1",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Takashi Aoki",
+            "id": "2300966967",
+            "org": "Autonomous System Laboratory, Fujitsu Laboratories Limited#TAB#"
+        },
+        {
+            "name": "Takeshi Eto",
+            "id": "2498583083",
+            "org": "Semiconductor Group, Fujitsu Limited#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer hardware",
+        "Full virtualization",
+        "Parallel computing",
+        "Virtual finite-state machine",
+        "Java",
+        "Stack machine",
+        "Computer science",
+        "Just-in-time compilation",
+        "Pointer machine",
+        "strictfp",
+        "Virtual machine"
+    ],
+    "references": [
+        "1587813347",
+        "1644882639",
+        "1987200495",
+        "2066444215"
+    ]
+}

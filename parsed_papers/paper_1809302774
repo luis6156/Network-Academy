@@ -1,0 +1,82 @@
+{
+    "id": "1809302774",
+    "title": "Parallel key-insulated public key encryption without random oracles",
+    "venue": "public key cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Benoit Libert",
+            "id": "2004097371",
+            "org": "UCL, Microelectronics Laboratory, Crypto Group, Belgium#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL, Microelectronics Laboratory, Crypto Group, Belgium#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "RSA Labs and Columbia University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal asymmetric encryption padding",
+        "40-bit encryption",
+        "Theoretical computer science",
+        "Computer science",
+        "Encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Random oracle",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "1481068248",
+        "1486107224",
+        "1489041988",
+        "1495266644",
+        "1498063506",
+        "1505202270",
+        "1505884345",
+        "1515791612",
+        "1528401650",
+        "1532836984",
+        "1551969482",
+        "1553019265",
+        "1561407045",
+        "1569083856",
+        "1587391206",
+        "1592092778",
+        "1603068992",
+        "1604454960",
+        "1610688607",
+        "1788452017",
+        "1871739018",
+        "1925483862",
+        "1998368731",
+        "2033838428",
+        "2034313414",
+        "2046871034",
+        "2052267638",
+        "2068136832",
+        "2072813709",
+        "2085733527",
+        "2086042811",
+        "2097638666",
+        "2108891943",
+        "2116556172",
+        "2117685508",
+        "2145255308",
+        "2147104527",
+        "2152688060",
+        "2152924492",
+        "2157679418",
+        "2166428549",
+        "2171872859",
+        "2585529823",
+        "2605928589",
+        "2610275508"
+    ]
+}

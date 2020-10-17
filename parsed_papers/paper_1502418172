@@ -1,0 +1,58 @@
+{
+    "id": "1502418172",
+    "title": "Help when needed, but no more: efficient read/write partial snapshot",
+    "venue": "international symposium on distributed computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Damien Imbs",
+            "id": "2810731885",
+            "org": "IRISA, Universite de Rennes 1, Rennes, France#TAB#"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA, Universite de Rennes 1, Rennes, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Snapshot (computer storage)",
+        "Linearizability",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Concurrency",
+        "Snapshot algorithm",
+        "Atomicity",
+        "Synchronization",
+        "Adaptive algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "1505970569",
+        "1599934884",
+        "1865373973",
+        "1983056589",
+        "1983572666",
+        "1993805917",
+        "2013021588",
+        "2025062383",
+        "2042885752",
+        "2073256416",
+        "2080922475",
+        "2081960123",
+        "2085407655",
+        "2086231977",
+        "2101939036",
+        "2124525591",
+        "2128585185",
+        "2131053137",
+        "2145500022",
+        "2155298875",
+        "2167680229",
+        "2204731804",
+        "2294148481",
+        "2611515161",
+        "2769656678"
+    ]
+}

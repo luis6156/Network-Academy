@@ -1,0 +1,54 @@
+{
+    "id": "1495728876",
+    "title": "Power attack on small RSA public exponent",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Ecole normale superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Sebastien Kunz-Jacques",
+            "id": "2673471788",
+            "org": "Ecole normale superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Gwenaelle Martinet",
+            "id": "2115066413",
+            "org": "DCSSI Crypto Lab, Paris 07 SP, France#TAB#"
+        },
+        {
+            "name": "Frederic Muller",
+            "id": "2165156849",
+            "org": "HSBC, France#TAB#"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "CELAR, 35 Bruz, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Blinding",
+        "Exponent",
+        "Cryptanalysis",
+        "Distributed computing",
+        "Randomization",
+        "Sliding window protocol",
+        "Power analysis",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1502105705",
+        "1570820619",
+        "1591503962",
+        "1664808737",
+        "2090769756",
+        "2119569175",
+        "2148862943"
+    ]
+}

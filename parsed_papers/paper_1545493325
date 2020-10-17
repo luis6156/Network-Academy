@@ -1,0 +1,92 @@
+{
+    "id": "1545493325",
+    "title": "SecDep: A user-aware efficient fine-grained secure deduplication scheme with multi-level key management",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yukun Zhou",
+            "id": "2163114421",
+            "org": "Wuhan National Laboratory for Optoelectronics School of Computer, Huazhong University of Science and Technology, Wuhan, China"
+        },
+        {
+            "name": "Dan Feng",
+            "id": "2112861373",
+            "org": "Wuhan National Laboratory for Optoelectronics School of Computer, Huazhong University of Science and Technology, Wuhan, China"
+        },
+        {
+            "name": "Wen Xia",
+            "id": "2126719784",
+            "org": "Wuhan National Laboratory for Optoelectronics School of Computer, Huazhong University of Science and Technology, Wuhan, China"
+        },
+        {
+            "name": "Min Fu",
+            "id": "2443862508",
+            "org": "Wuhan National Laboratory for Optoelectronics School of Computer, Huazhong University of Science and Technology, Wuhan, China"
+        },
+        {
+            "name": "Fangting Huang",
+            "id": "2169301155",
+            "org": "Wuhan National Laboratory for Optoelectronics School of Computer, Huazhong University of Science and Technology, Wuhan, China"
+        },
+        {
+            "name": "Yucheng Zhang",
+            "id": "2497934003",
+            "org": "Wuhan National Laboratory for Optoelectronics School of Computer, Huazhong University of Science and Technology, Wuhan, China"
+        },
+        {
+            "name": "Chunguang Li",
+            "id": "2428216881",
+            "org": "Wuhan National Laboratory for Optoelectronics School of Computer, Huazhong University of Science and Technology, Wuhan, China"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Backup",
+        "Encryption",
+        "Key space",
+        "Server",
+        "Data deduplication",
+        "Database",
+        "Cloud storage",
+        "Convergent encryption",
+        "Key management"
+    ],
+    "references": [
+        "22807665",
+        "48174705",
+        "169466422",
+        "200233886",
+        "1474119323",
+        "1490390347",
+        "1519809459",
+        "1534695542",
+        "1576397915",
+        "1601001795",
+        "1856507064",
+        "1969067141",
+        "1971608926",
+        "1975868314",
+        "1979664098",
+        "1985943827",
+        "1996360405",
+        "2006196087",
+        "2009191935",
+        "2020928798",
+        "2083695892",
+        "2098431880",
+        "2099516661",
+        "2124218043",
+        "2124632914",
+        "2129167380",
+        "2138033199",
+        "2141420453",
+        "2142606934",
+        "2157240622",
+        "2158935814",
+        "2165257856",
+        "2281363974",
+        "2793618823"
+    ]
+}

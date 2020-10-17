@@ -1,0 +1,63 @@
+{
+    "id": "1572900211",
+    "title": "Exploiting execution context for the detection of anomalous system calls",
+    "venue": "recent advances in intrusion detection",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Darren Mutz",
+            "id": "2014304584",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "William K. Robertson",
+            "id": "2709865077",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Giovanni Vigna",
+            "id": "2192390985",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Richard A. Kemmerer",
+            "id": "233538037",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sequence analysis",
+        "Computer science",
+        "Computer security",
+        "Anomaly-based intrusion detection system",
+        "Intrusion detection system",
+        "System call",
+        "Real-time computing"
+    ],
+    "references": [
+        "87384950",
+        "123548525",
+        "1497959280",
+        "1575798196",
+        "1586807939",
+        "1600911019",
+        "1832277845",
+        "1903577715",
+        "1947347140",
+        "1984350393",
+        "1988927353",
+        "1996146601",
+        "2069482167",
+        "2104593144",
+        "2106649514",
+        "2123886726",
+        "2128217000",
+        "2129860818",
+        "2135143063",
+        "2137569638",
+        "2143776233",
+        "2162995740",
+        "2164055093",
+        "2167332015"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1583090871",
+    "title": "EM analysis of rijndael and ECC on a wireless java-based PDA",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Catherine H. Gebotys",
+            "id": "258752153",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Simon Ho",
+            "id": "2157345073",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "C. C. Tiu",
+            "id": "2440062427",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Cryptography",
+        "Parallel computing",
+        "Java",
+        "Countermeasure",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Elliptic curve cryptography",
+        "Power analysis",
+        "Embedded system",
+        "Mobile computing",
+        "Real-time computing"
+    ],
+    "references": [
+        "1503689022",
+        "1511843316",
+        "1519539754",
+        "1531102506",
+        "1548524713",
+        "1548656471",
+        "1565369953",
+        "1569151289",
+        "1602453119",
+        "1603321026",
+        "1664808737",
+        "1748081333",
+        "1838435525",
+        "1853876455",
+        "2105374413",
+        "2108830258",
+        "2121268634",
+        "2125272473",
+        "2132250906",
+        "2137567577",
+        "2143954265",
+        "2145829971",
+        "2154909745",
+        "2163020747",
+        "2612208439"
+    ]
+}

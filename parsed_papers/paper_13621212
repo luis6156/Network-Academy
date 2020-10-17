@@ -1,0 +1,40 @@
+{
+    "id": "13621212",
+    "title": "A Client/Server User-Based Collaborative Filtering Algorithm: Model and Implementation",
+    "venue": "european conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sylvain Castagnos",
+            "id": "226734966",
+            "org": "LORIA --Universite Nancy 2, B.P.239, 54506 Vandoeuvre-les-Nancy Cedex, France, email: {sylvain.castagnos, anne.boyer}@loria.fr#TAB#"
+        },
+        {
+            "name": "Anne Boyer",
+            "id": "2173413873",
+            "org": "LORIA --Universite Nancy 2, B.P.239, 54506 Vandoeuvre-les-Nancy Cedex, France, email: {sylvain.castagnos, anne.boyer}@loria.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Collaborative filtering",
+        "Software",
+        "Algorithm",
+        "Computation",
+        "Computer science",
+        "Client-server model",
+        "Software architecture",
+        "Recommender system",
+        "CPU cache"
+    ],
+    "references": [
+        "1611682757",
+        "1959619913",
+        "2042281163",
+        "2085937320",
+        "2109992782",
+        "2110325612",
+        "2124591829",
+        "2155106456"
+    ]
+}

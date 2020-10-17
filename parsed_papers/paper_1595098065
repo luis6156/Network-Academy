@@ -1,0 +1,49 @@
+{
+    "id": "1595098065",
+    "title": "Replication-Based Incremental Copying Collection",
+    "venue": "international symposium on memory management",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Scott Nettles",
+            "id": "2617158886",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "James O'Toole",
+            "id": "2144886982",
+            "org": "Laboratory for Computer Science"
+        },
+        {
+            "name": "David Pierce",
+            "id": "2779390143",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Nicholas Haines",
+            "id": "2696197492",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Replica",
+        "Computer science",
+        "Standard ML of New Jersey",
+        "Garbage collection",
+        "Persistence (computer science)",
+        "Data reduction",
+        "Copying",
+        "Garbage",
+        "Real-time computing",
+        "Virtual memory"
+    ],
+    "references": [
+        "1595620876",
+        "1993621349",
+        "2076602346",
+        "2079813853",
+        "2127007340",
+        "2161531345"
+    ]
+}

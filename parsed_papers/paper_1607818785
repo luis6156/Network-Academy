@@ -1,0 +1,63 @@
+{
+    "id": "1607818785",
+    "title": "Efficient Certificateless Signature Schemes",
+    "venue": "applied cryptography and network security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kyu Young Choi",
+            "id": "2128616283",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jong Hwan Park",
+            "id": "2705738191",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jung Yeon Hwang",
+            "id": "2714189782",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2133942762",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Theoretical computer science",
+        "Computer science",
+        "Computer security",
+        "Random oracle",
+        "Schnorr signature",
+        "ID-based cryptography",
+        "Public-key cryptography",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "64710386",
+        "70239856",
+        "1481735483",
+        "1518817958",
+        "1525576396",
+        "1552851303",
+        "1569083856",
+        "1591524234",
+        "1910390680",
+        "2014239329",
+        "2028372707",
+        "2055083041",
+        "2117797270",
+        "2136039867",
+        "2141375261",
+        "2166462813",
+        "2166690231",
+        "2403351145",
+        "2611849650",
+        "2611874568"
+    ]
+}

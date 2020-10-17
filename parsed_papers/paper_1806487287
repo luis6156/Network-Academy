@@ -1,0 +1,52 @@
+{
+    "id": "1806487287",
+    "title": "Impact of rotations in SHA-1 and related hash functions",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "155049767",
+        "1494920542",
+        "1521015940",
+        "1533979572",
+        "1574517553",
+        "1590269592",
+        "1656731780",
+        "2093465763",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2611506938",
+        "2785938443"
+    ]
+}

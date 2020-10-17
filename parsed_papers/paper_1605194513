@@ -1,0 +1,44 @@
+{
+    "id": "1605194513",
+    "title": "On Combined DVS and Processor Evaluation",
+    "venue": "power and timing modeling optimization and simulation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anders Brodlos Olsen",
+            "id": "2137367674",
+            "org": "Aalborg University"
+        },
+        {
+            "name": "Finn Buttner",
+            "id": "2179951502",
+            "org": "Analog Devices"
+        },
+        {
+            "name": "Peter Koch",
+            "id": "2212711636",
+            "org": "Aalborg University"
+        }
+    ],
+    "fields_of_study": [
+        "Least slack time scheduling",
+        "Software",
+        "Low-power electronics",
+        "Earliest deadline first scheduling",
+        "Computer science",
+        "Abstraction layer",
+        "Dynamic voltage scaling",
+        "Real-time computing"
+    ],
+    "references": [
+        "151825951",
+        "1531200360",
+        "2005456951",
+        "2088337139",
+        "2093582532",
+        "2108989039",
+        "2136390804",
+        "2141238076",
+        "2154336593"
+    ]
+}

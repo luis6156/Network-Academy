@@ -1,0 +1,50 @@
+{
+    "id": "1807554065",
+    "title": "Architecting Solvers for SAT Modulo Theories: Nelson-Oppen with DPLL",
+    "venue": "frontiers of combining systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sava Krstic",
+            "id": "2057467911",
+            "org": "Strategic CAD Labs, Intel Corporation,#TAB#"
+        },
+        {
+            "name": "Amit Goel",
+            "id": "2139635517",
+            "org": "Strategic CAD Labs, Intel Corporation,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "DPLL algorithm",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Computer science",
+        "Backjumping",
+        "Transition system",
+        "Propositional variable",
+        "Solver",
+        "Modulo",
+        "Architecture"
+    ],
+    "references": [
+        "326743114",
+        "1518705996",
+        "1531082700",
+        "1543051890",
+        "1559664284",
+        "1583295953",
+        "1592502301",
+        "2022846948",
+        "2055477538",
+        "2056350513",
+        "2057361103",
+        "2069422398",
+        "2114037873",
+        "2142785340",
+        "2159786179",
+        "2164778826"
+    ]
+}

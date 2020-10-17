@@ -1,0 +1,50 @@
+{
+    "id": "1601366707",
+    "title": "Cellular automata on regular rooted trees",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Tullio Ceccherini-Silberstein",
+            "id": "2601548909",
+            "org": "Dipartimento di Ingegneria, Universita del Sannio, Benevento, Italy#TAB#"
+        },
+        {
+            "name": "Michel Coornaert",
+            "id": "2031575891",
+            "org": "Institut de Recherche Mathematique Avancee, UMR 7501, Univ. Strasbourg, Strasbourg Cedex, France#TAB#"
+        },
+        {
+            "name": "Francesca Fiorenzi",
+            "id": "2776870650",
+            "org": "Laboratoire de Recherche en Informatique, UMR 8623, Bat 650 Univ. Paris-Sud 11, Orsay Cedex, Orsay, France#TAB#"
+        },
+        {
+            "name": "Zoran Suni",
+            "id": "2519664324",
+            "org": "Department of Mathematics, Texas A&M University, College Station, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Quantum finite automata",
+        "Combinatorics",
+        "o-automaton",
+        "Two-way deterministic finite automaton",
+        "Mobile automaton",
+        "Nondeterministic finite automaton",
+        "Block cellular automaton",
+        "Stochastic cellular automaton",
+        "Continuous spatial automaton"
+    ],
+    "references": [
+        "1584858174",
+        "1600687463",
+        "1971416129",
+        "2000451777",
+        "2002624489",
+        "2035020702",
+        "2040657429"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1502188834",
+    "title": "Exploiting Atomic Broadcast in Replicated Databases",
+    "venue": "european conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Fernando Pedone",
+            "id": "237383867",
+            "org": "Ecole Polytechnique Federale de Lausanne"
+        },
+        {
+            "name": "Rachid Guerraoui",
+            "id": "115057321",
+            "org": "Ecole Polytechnique Federale de Lausanne"
+        },
+        {
+            "name": "Andre Schiper",
+            "id": "2016580195",
+            "org": "Ecole Polytechnique Federale de Lausanne"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Throughput",
+        "Response time",
+        "Replication (computing)",
+        "Vector clock",
+        "Distributed computing",
+        "Computer science",
+        "Client-server model",
+        "Information system",
+        "Database",
+        "Atomic broadcast"
+    ],
+    "references": [
+        "1515751549",
+        "1515932031",
+        "1545155892",
+        "1884778945",
+        "1985349143",
+        "2003581449",
+        "2035300188",
+        "2038562061",
+        "2043877046",
+        "2053684268",
+        "2070941848",
+        "2096167494",
+        "2110765100",
+        "2111586962",
+        "2133386065",
+        "2133943294",
+        "2142849519",
+        "2153531297",
+        "2153953370"
+    ]
+}

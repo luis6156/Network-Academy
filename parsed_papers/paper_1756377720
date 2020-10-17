@@ -1,0 +1,81 @@
+{
+    "id": "1756377720",
+    "title": "Robust Segmentation of Multiple Intersecting Manifolds from Unoriented Noisy Point Clouds",
+    "venue": "Computer Graphics Forum",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jacek Kustra",
+            "id": "1964658433",
+            "org": "University of Groningen, Groningen, Netherlands#TAB#"
+        },
+        {
+            "name": "Andrei C. Jalba",
+            "id": "724127772",
+            "org": "Eindhoven University of Technology, Eindhoven, Netherlands#TAB#"
+        },
+        {
+            "name": "Alexandru Telea",
+            "id": "2080617136",
+            "org": "University of Groningen, Groningen, Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Manifold",
+        "Mathematics",
+        "Segmentation",
+        "Computer vision",
+        "Graph",
+        "Point cloud",
+        "Topology",
+        "Flood fill",
+        "Robustness (computer science)",
+        "Computational geometry",
+        "Surface reconstruction",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "204779855",
+        "1483689901",
+        "1506622324",
+        "1517851215",
+        "1992389079",
+        "2008073424",
+        "2014032117",
+        "2015365486",
+        "2020065037",
+        "2021563983",
+        "2036364699",
+        "2040237850",
+        "2050893212",
+        "2059496137",
+        "2061240327",
+        "2070188987",
+        "2072723786",
+        "2080751646",
+        "2083485913",
+        "2087423500",
+        "2097823352",
+        "2100534376",
+        "2102507429",
+        "2106540986",
+        "2113795754",
+        "2119381501",
+        "2121535648",
+        "2124767316",
+        "2131723805",
+        "2133621861",
+        "2138724753",
+        "2138750422",
+        "2143112496",
+        "2144182447",
+        "2144846603",
+        "2160370033",
+        "2163387321",
+        "2166993911",
+        "2177347332",
+        "2199460564",
+        "2234155815",
+        "2295046650"
+    ]
+}

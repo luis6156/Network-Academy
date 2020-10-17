@@ -1,0 +1,46 @@
+{
+    "id": "1507441866",
+    "title": "An analysis of proxy signatures: is a secure channel necessary?",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jung-Yeun Lee",
+            "id": "2120259195",
+            "org": "International Research Center for Information Security, Information and Communications Univ., Korea#TAB#"
+        },
+        {
+            "name": "Jung Hee Cheon",
+            "id": "1817788928",
+            "org": "International Research Center for Information Security, Information and Communications Univ., Korea#TAB#"
+        },
+        {
+            "name": "Seungjoo Kim",
+            "id": "2139158536",
+            "org": "Korea Information Security Agency, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Theoretical computer science",
+        "Universal hashing",
+        "Computer science",
+        "Prime (order theory)",
+        "Secure channel",
+        "Hash function",
+        "Message authentication code",
+        "Real-time computing",
+        "Key size",
+        "Provable security"
+    ],
+    "references": [
+        "76190783",
+        "1492137673",
+        "1506251333",
+        "1511186238",
+        "1565658545",
+        "1567501709",
+        "1572559454",
+        "1578627459"
+    ]
+}

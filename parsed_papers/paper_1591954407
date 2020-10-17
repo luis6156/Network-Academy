@@ -1,0 +1,54 @@
+{
+    "id": "1591954407",
+    "title": "Secure hash-and-sign signatures without the random oracle",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "IBM T.J.Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Shai Halevi",
+            "id": "1686185850",
+            "org": "IBM T.J.Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "IBM T.J.Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Computer science",
+        "Strong RSA assumption",
+        "Digital signature",
+        "Hash function",
+        "Schnorr signature",
+        "Random oracle",
+        "Random function"
+    ],
+    "references": [
+        "1493969756",
+        "1589205472",
+        "1922219439",
+        "1996360405",
+        "2002930326",
+        "2031714952",
+        "2052207834",
+        "2052267638",
+        "2087115651",
+        "2145301648",
+        "2151413173",
+        "2151433956",
+        "2152688060",
+        "2162653919",
+        "2166462813",
+        "2403237970"
+    ]
+}

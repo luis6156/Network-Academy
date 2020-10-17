@@ -1,0 +1,73 @@
+{
+    "id": "1679271494",
+    "title": "Using conditional random fields for result identification in biomedical abstracts",
+    "venue": "Computer-Aided Engineering",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ryan T.K. Lin",
+            "id": "2136076126",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Hong-Jie Dai",
+            "id": "2112372583",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan and Department of Computer Science, National Tsing-Hua University, Hsinchu, Taiwan#TAB#"
+        },
+        {
+            "name": "Yue-Yang Bow",
+            "id": "2152188467",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Justing Lian-Te Chiu",
+            "id": "2785580973",
+            "org": "Department of Computer Science & Engineering, National Taiwan University, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Richardg Tzon-Han Tsai",
+            "id": "2785978388",
+            "org": "(Correspd. Tel.: +886 3 4638800x3004; Fax: +886 3 4638850; E-mail: thtsai@saturn.yzu.edu.tw) Department of Computer Science & Engineering, Yuan Ze University, Chung-Li, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Recall",
+        "Computer science",
+        "Conditional random field",
+        "Parameter identification problem",
+        "Word lists by frequency",
+        "CRFS",
+        "Named entity",
+        "Sequence labeling",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "165838864",
+        "192665053",
+        "1504995446",
+        "1740019157",
+        "1833354599",
+        "1919338776",
+        "1934019294",
+        "1946413303",
+        "1956559956",
+        "1994485670",
+        "2004761926",
+        "2008639146",
+        "2008830554",
+        "2036935277",
+        "2114361266",
+        "2121678130",
+        "2140266725",
+        "2142560900",
+        "2147880316",
+        "2152197045",
+        "2156515921",
+        "2159640576",
+        "2162461580",
+        "2402929825",
+        "2442495973"
+    ]
+}

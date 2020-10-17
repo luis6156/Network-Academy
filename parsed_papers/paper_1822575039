@@ -1,0 +1,67 @@
+{
+    "id": "1822575039",
+    "title": "Distributed garbage collection for mobile actor systems: the pseudo root approach",
+    "venue": "grid and pervasive computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wei-Jen Wang",
+            "id": "2125851607",
+            "org": "Department of Computer Science, Rensselaer Polytechnic Institute, Troy, NY#TAB#"
+        },
+        {
+            "name": "Carlos A. Varela",
+            "id": "2134843463",
+            "org": "Department of Computer Science, Rensselaer Polytechnic Institute, Troy, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Resource management",
+        "Resource allocation",
+        "Input/output",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Garbage collection",
+        "Software quality",
+        "Garbage",
+        "Real-time computing"
+    ],
+    "references": [
+        "13011609",
+        "1512716375",
+        "1516778075",
+        "1535161403",
+        "1542535131",
+        "1579270891",
+        "1584322803",
+        "1690796504",
+        "1876014853",
+        "1965917732",
+        "1990138733",
+        "1990595067",
+        "2006930875",
+        "2012098586",
+        "2013173096",
+        "2021856974",
+        "2036521380",
+        "2050083119",
+        "2053100497",
+        "2056388187",
+        "2088368317",
+        "2096606790",
+        "2116399507",
+        "2118098427",
+        "2118421087",
+        "2119155637",
+        "2131053137",
+        "2141190557",
+        "2157598146",
+        "2169543445",
+        "2175673467",
+        "2176714706",
+        "2296352387",
+        "2614013577"
+    ]
+}

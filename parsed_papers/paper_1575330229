@@ -1,0 +1,37 @@
+{
+    "id": "1575330229",
+    "title": "EARL - A Programmable and Extensible Toolkit for Analyzing Event Traces of Message Passing Programs",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "TU Darmstadt"
+        },
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "ZAM"
+        }
+    ],
+    "fields_of_study": [
+        "Interpreter",
+        "Parallel computing",
+        "Computer science",
+        "Extensibility",
+        "Domain specificity",
+        "Message passing",
+        "Event type",
+        "Operating system",
+        "Programming language"
+    ],
+    "references": [
+        "1983560552",
+        "2070078161",
+        "2098984303",
+        "2134342348",
+        "2142925533",
+        "2165197170"
+    ]
+}

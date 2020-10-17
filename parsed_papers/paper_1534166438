@@ -1,0 +1,53 @@
+{
+    "id": "1534166438",
+    "title": "Managing Schema Versions in a Time-Versioned Non-First-Normal-Form Relational Database",
+    "venue": "BTW",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Peter Dadam",
+            "id": "2682128836",
+            "org": "IBM Wissenschaftliches Zentrum"
+        },
+        {
+            "name": "Jukka Teuhola",
+            "id": "2434105430",
+            "org": "IBM Wissenschaftliches Zentrum"
+        }
+    ],
+    "fields_of_study": [
+        "Database schema",
+        "View",
+        "Semi-structured model",
+        "Database model",
+        "Computer science",
+        "Data mining",
+        "Information schema",
+        "Conceptual schema",
+        "Database",
+        "Star schema",
+        "Schema migration"
+    ],
+    "references": [
+        "1482799780",
+        "1493559668",
+        "1507837977",
+        "1508355855",
+        "1537933743",
+        "1540464923",
+        "1549212411",
+        "1549841564",
+        "1759890077",
+        "1966294080",
+        "1984219405",
+        "2005471433",
+        "2009980092",
+        "2019156246",
+        "2022843938",
+        "2059252897",
+        "2089781037",
+        "2116436709",
+        "2138709157",
+        "2158655585"
+    ]
+}

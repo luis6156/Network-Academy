@@ -1,0 +1,63 @@
+{
+    "id": "1585188069",
+    "title": "Dynamics of TCP/RED and a scalable control",
+    "venue": "international conference on computer communications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Steven H. Low",
+            "id": "2097134209",
+            "org": "California Inst. of Technol., Pasadena, CA, USA"
+        },
+        {
+            "name": "Fernando Paganini",
+            "id": "2706067123",
+            "org": "California Institute of Technology"
+        },
+        {
+            "name": "Jiantao Wang",
+            "id": "2099894876",
+            "org": "California Institute of Technology"
+        },
+        {
+            "name": "Sachin Adlakha",
+            "id": "2401684281",
+            "org": "University of California, Los Angeles"
+        },
+        {
+            "name": "John Doyle",
+            "id": "2893729322",
+            "org": "University of California, Los Angeles"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Computer science",
+        "CUBIC TCP",
+        "HSTCP",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1804414343",
+        "2007594468",
+        "2017093377",
+        "2087635921",
+        "2101182788",
+        "2107319503",
+        "2108093369",
+        "2109574448",
+        "2124920704",
+        "2125134431",
+        "2127638367",
+        "2130301482",
+        "2142579743",
+        "2145942024",
+        "2174430759"
+    ]
+}

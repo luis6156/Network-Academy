@@ -1,0 +1,42 @@
+{
+    "id": "1551138974",
+    "title": "Pipelined parallelism for multi-join queries on shared nothing machines",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mostafa Bamha",
+            "id": "1120993694",
+            "org": "Laboratoire d'Informatique Fondamentale d'Orleans, Universite d'Orleans, BP 6759, 45067 Orleans cedex 2, France"
+        },
+        {
+            "name": "Matthieu Exbrayat",
+            "id": "2130797554",
+            "org": "Laboratoire d'Informatique Fondamentale d'Orleans, Universite d'Orleans, BP 6759, 45067 Orleans cedex 2, France"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Shared nothing architecture",
+        "Parallel computing",
+        "Recursive join",
+        "Distributed computing",
+        "Data parallelism",
+        "Computer science",
+        "Hash join",
+        "Parallel database",
+        "Query optimization",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1487093789",
+        "1554177507",
+        "1570320352",
+        "1597532222",
+        "1973797056",
+        "1997020216",
+        "2078528123",
+        "2108127784",
+        "2151197771"
+    ]
+}

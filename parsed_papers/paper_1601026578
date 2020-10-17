@@ -1,0 +1,56 @@
+{
+    "id": "1601026578",
+    "title": "Hardware realization of an FPGA processor -- Operating system call offload and experiences",
+    "venue": "conference on design and architectures for signal and image processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Andreas Erik Hindborg",
+            "id": "674979046",
+            "org": "DTU Compute - Technical University of Denmark"
+        },
+        {
+            "name": "Pascal Schleuniger",
+            "id": "167203293",
+            "org": "DTU Compute - Technical University of Denmark"
+        },
+        {
+            "name": "Nicklas Bo Jensen",
+            "id": "2222899968",
+            "org": "DTU Compute - Technical University of Denmark"
+        },
+        {
+            "name": "Sven Karlsson",
+            "id": "2544841527",
+            "org": "DTU Compute - Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Computer hardware",
+        "Parallel computing",
+        "Speedup",
+        "Multi-core processor",
+        "Microprocessor",
+        "Computer science",
+        "MicroBlaze",
+        "Embedded system",
+        "Operating system",
+        "Image processing",
+        "Parallel algorithm",
+        "Reconfigurable computing"
+    ],
+    "references": [
+        "39695077",
+        "122440332",
+        "184921283",
+        "1479772908",
+        "1990079240",
+        "2036853599",
+        "2108157916",
+        "2116299797",
+        "2125744812",
+        "2140311411",
+        "2145021036"
+    ]
+}

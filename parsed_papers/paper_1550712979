@@ -1,0 +1,40 @@
+{
+    "id": "1550712979",
+    "title": "Parallel 3D Adaptive Compressible Navier-Stokes Solver in GeoFEM with Dynamic Load-Balancing by DRAMA Library",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kengo Nakajima",
+            "id": "2303078039",
+            "org": "Research Organization for Information Science and Technology (RIST)"
+        },
+        {
+            "name": "Jochen Fingberg",
+            "id": "2803401036",
+            "org": "C&C Research Laboratories, NEC Europe Ltd."
+        },
+        {
+            "name": "Hiroshi Okuda",
+            "id": "2103940504",
+            "org": "The University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Polygon mesh",
+        "Computer science",
+        "Grid",
+        "Adaptive coding",
+        "Parallel algorithm",
+        "Data structure",
+        "Solver",
+        "Load balancing (computing)",
+        "Hitachi SR2201"
+    ],
+    "references": [
+        "1537753733",
+        "1995005469",
+        "2100507911"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "124860231",
+    "title": "Implementing resettable UC-Functionalities with untrusted tamper-proof hardware-tokens",
+    "venue": "theory of cryptography conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Nico Dottling",
+            "id": "2307319777",
+            "org": "Karlsruhe Institute of Technology, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Thilo Mie",
+            "id": "2028785239",
+            "org": "Karlsruhe Institute of Technology, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Jorn Muller-Quade",
+            "id": "135566254",
+            "org": "Karlsruhe Institute of Technology, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Tobias Nilges",
+            "id": "2123031927",
+            "org": "Karlsruhe Institute of Technology, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer hardware",
+        "Tamper resistance",
+        "Theoretical computer science",
+        "Universal composability",
+        "Computer science",
+        "Security token",
+        "Distributed computing",
+        "Communication channel",
+        "Software token",
+        "Initialization",
+        "Smart card"
+    ],
+    "references": [
+        "185553",
+        "1495266644",
+        "1499934958",
+        "1501386175",
+        "1521848494",
+        "1526379157",
+        "1542455165",
+        "1556000166",
+        "1557386445",
+        "1567016883",
+        "1594985992",
+        "1660755136",
+        "1867273832",
+        "1972792640",
+        "2002919335",
+        "2021733015",
+        "2074594718",
+        "2074929468",
+        "2084641398",
+        "2099446123",
+        "2100862778",
+        "2111749650",
+        "2113085788",
+        "2116653107",
+        "2134645244",
+        "2148888468",
+        "2153825963",
+        "2153971105",
+        "2158889011",
+        "2177399963",
+        "2227818793",
+        "2407435798",
+        "2572799557"
+    ]
+}

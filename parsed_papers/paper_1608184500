@@ -1,0 +1,43 @@
+{
+    "id": "1608184500",
+    "title": "Provable STM Properties: Leveraging Clock and Locks to Favor Commit and Early Abort",
+    "venue": "international conference of distributed computing and networking",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Damien Imbs",
+            "id": "2810731885",
+            "org": "IRISA, Universite de Rennes 1, Rennes, France 35042#TAB#"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA, Universite de Rennes 1, Rennes, France 35042#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Three-phase commit protocol",
+        "Online transaction processing",
+        "Commit",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Transaction processing",
+        "Compensating transaction",
+        "X/Open XA",
+        "Distributed transaction",
+        "Real-time computing"
+    ],
+    "references": [
+        "1505970569",
+        "1533810997",
+        "1542975293",
+        "2054739713",
+        "2092301279",
+        "2101939036",
+        "2103642785",
+        "2128585185",
+        "2162847293",
+        "2769656678"
+    ]
+}

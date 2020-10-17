@@ -1,0 +1,46 @@
+{
+    "id": "1820162952",
+    "title": "Distributed particle filter with GMM approximation for multiple targets localization and tracking in wireless sensor network",
+    "venue": "information processing in sensor networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xiaohong Sheng",
+            "id": "2127712630",
+            "org": "Sch. of Electr. & Comput. Eng., Wisconsin Univ., Madison, WI, USA"
+        },
+        {
+            "name": "Yu Hen Hu",
+            "id": "2105997349",
+            "org": "Sch. of Electr. & Comput. Eng., Wisconsin Univ., Madison, WI, USA"
+        },
+        {
+            "name": "Parameswaran Ramanathan",
+            "id": "1769695214",
+            "org": "Sch. of Electr. & Comput. Eng., Wisconsin Univ., Madison, WI, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Particle filter",
+        "Computer science",
+        "Approximation algorithm",
+        "Sufficient statistic",
+        "Wireless sensor network",
+        "Bandwidth (signal processing)",
+        "Gaussian process",
+        "Approximation theory",
+        "Mathematical optimization",
+        "Mixture model"
+    ],
+    "references": [
+        "10100052",
+        "1581531227",
+        "1985749405",
+        "2105906326",
+        "2109089704",
+        "2111980455",
+        "2114404361",
+        "2145075206",
+        "2167947196"
+    ]
+}

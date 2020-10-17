@@ -1,0 +1,71 @@
+{
+    "id": "1603290441",
+    "title": "Confidential signatures and deterministic signcryption",
+    "venue": "public key cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alexander W. Dent",
+            "id": "2164332690",
+            "org": "Royal Holloway, University of London, U.K.#TAB#"
+        },
+        {
+            "name": "Marc Fischlin",
+            "id": "132146421",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Mark Manulis",
+            "id": "1588396689",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Martijn Stam",
+            "id": "2110137027",
+            "org": "LACAL, EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Dominique Schroder",
+            "id": "2343333256",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Signcryption",
+        "Theoretical computer science",
+        "Confidentiality",
+        "Computer science",
+        "Pseudorandom function family",
+        "Full Domain Hash",
+        "Hash function",
+        "Random oracle"
+    ],
+    "references": [
+        "1493190649",
+        "1501696897",
+        "1502927489",
+        "1511514754",
+        "1512372863",
+        "1516634197",
+        "1520399166",
+        "1529116031",
+        "1589034595",
+        "1589176872",
+        "1599446772",
+        "1604454960",
+        "1805549252",
+        "1991914881",
+        "2039594335",
+        "2060474153",
+        "2106895305",
+        "2115109072",
+        "2138669153",
+        "2139033758",
+        "2147436724",
+        "2153145614",
+        "2162653919",
+        "2163833991",
+        "2607627035"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1576668169",
+    "title": "Data Sequence Locality: A Generalization of Temporal Locality",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Vincent Loechner",
+            "id": "121541012",
+            "org": "Universite Louis Pasteur"
+        },
+        {
+            "name": "Benoit Meister",
+            "id": "2656426271",
+            "org": "Universite Louis Pasteur"
+        },
+        {
+            "name": "Philippe Clauss",
+            "id": "2049982228",
+            "org": "Universite Louis Pasteur"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Cache",
+        "Translation lookaside buffer",
+        "Parallel computing",
+        "Memory hierarchy",
+        "Locality",
+        "Computer science",
+        "Temporal database",
+        "Real-time computing",
+        "Locality of reference"
+    ],
+    "references": [
+        "21449722",
+        "1504751168",
+        "1512982031",
+        "1533186609",
+        "1535302738",
+        "1537849868",
+        "1973122629",
+        "2028669517",
+        "2063249715",
+        "2097773861",
+        "2098220211",
+        "2112059128",
+        "2112482891",
+        "2153499233",
+        "2162959959",
+        "2423928556"
+    ]
+}

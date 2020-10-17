@@ -1,0 +1,59 @@
+{
+    "id": "1481321904",
+    "title": "Verification of the Futurebus+ Cache Coherence Protocol",
+    "venue": "CHDL '93 Proceedings of the 11th IFIP WG10.2 International Conference sponsored by IFIP WG10.2 and in cooperation with IEEE COMPSOC on Computer Hardware Description Languages and their Applications",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, U.S.A."
+        },
+        {
+            "name": "Orna Grumberg",
+            "id": "1993734283",
+            "org": "Computer Science Department, The Technion, Haifa 32000, Israel; currently visiting at AT&T Bell Laboratories, Murray Hill, NJ 07974, U.S.A."
+        },
+        {
+            "name": "Hiromi Hiraishi",
+            "id": "2029702051",
+            "org": "Department of Information and Communication Sciences, Kyoto Sangyo University, Kyoto 603, Japan"
+        },
+        {
+            "name": "Somesh Jha",
+            "id": "2193269139",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, U.S.A."
+        },
+        {
+            "name": "David E. Long",
+            "id": "2154899043",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, U.S.A."
+        },
+        {
+            "name": "Kenneth L. McMillan",
+            "id": "2078776729",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, U.S.A."
+        },
+        {
+            "name": "Linda A. Ness",
+            "id": "2495161617",
+            "org": "Bellcore, Morristown, NJ 07962, U.S.A."
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Temporal logic",
+        "Computer science",
+        "MSI protocol",
+        "MESI protocol",
+        "Cache coherence",
+        "Model checking",
+        "MESIF protocol",
+        "Futurebus",
+        "Hardware description language"
+    ],
+    "references": [
+        "2080267935",
+        "2117189826"
+    ]
+}

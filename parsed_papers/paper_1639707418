@@ -1,0 +1,59 @@
+{
+    "id": "1639707418",
+    "title": "Directive-Based Auto-Tuning for the Finite Difference Method on the Xeon Phi",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Takahiro Katagiri",
+            "id": "2134556276",
+            "org": "Inf. Technol. Center, Univ. of Tokyo, Tokyo, Japan"
+        },
+        {
+            "name": "Satoshi Ohshima",
+            "id": "2023232221",
+            "org": "Inf. Technol. Center, Univ. of Tokyo, Tokyo, Japan"
+        },
+        {
+            "name": "Masaharu Matsumoto",
+            "id": "2514256564",
+            "org": "Inf. Technol. Center, Univ. of Tokyo, Tokyo, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Xeon Phi",
+        "Software",
+        "Directive",
+        "Speedup",
+        "Computer science",
+        "Scaling",
+        "Computer architecture",
+        "Finite difference method",
+        "Architecture",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1582138098",
+        "1779740778",
+        "1844404537",
+        "1961470747",
+        "1964031104",
+        "1996022525",
+        "1997539353",
+        "2057043354",
+        "2068516599",
+        "2072277531",
+        "2089003024",
+        "2092703362",
+        "2096070062",
+        "2098446267",
+        "2098688018",
+        "2103414666",
+        "2112502633",
+        "2130289795",
+        "2139097432",
+        "2140707050",
+        "2214214281"
+    ]
+}

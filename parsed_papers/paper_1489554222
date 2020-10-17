@@ -1,0 +1,92 @@
+{
+    "id": "1489554222",
+    "title": "The HOPSA workflow and tools",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "Forschungszentrum Julich GmbH"
+        },
+        {
+            "name": "Vladimir Voevodin",
+            "id": "2022990595",
+            "org": "Moscow State University, RCC"
+        },
+        {
+            "name": "Judit Gimenez",
+            "id": "2137437763",
+            "org": "Barcelona Supercomputing Centre"
+        },
+        {
+            "name": "Erik Hagersten",
+            "id": "1982114091",
+            "org": "Rogue Wave Software AB"
+        },
+        {
+            "name": "Andreas Knupfer",
+            "id": "2051308727",
+            "org": "Technical University Dresden"
+        },
+        {
+            "name": "Dmitry A. Nikitenko",
+            "id": "2337297027",
+            "org": "Moscow State University, RCC"
+        },
+        {
+            "name": "Mats Nilsson",
+            "id": "2560417317",
+            "org": "Rogue Wave Software AB"
+        },
+        {
+            "name": "Harald Servat",
+            "id": "2122716431",
+            "org": "Barcelona Supercomputing Centre"
+        },
+        {
+            "name": "Aamer Shah",
+            "id": "2293151652",
+            "org": "German Research School for Simulation Sciences GmbH / RWTH Aachen University"
+        },
+        {
+            "name": "Frank Winkler",
+            "id": "2005167607",
+            "org": "Technical University Dresden"
+        },
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "German Research School for Simulation Sciences GmbH / RWTH Aachen University"
+        },
+        {
+            "name": "Ilya Zhukov",
+            "id": "1988945634",
+            "org": "Forschungszentrum Julich GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Root cause",
+        "Throughput",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Computational Science and Engineering",
+        "Computer Applications",
+        "Workflow",
+        "System administrator"
+    ],
+    "references": [
+        "172780760",
+        "1566403276",
+        "1595501290",
+        "2023697041",
+        "2103559542",
+        "2112686638",
+        "2136434791",
+        "2152419477",
+        "2160112364",
+        "2401404692"
+    ]
+}

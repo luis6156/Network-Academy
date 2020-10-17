@@ -1,0 +1,47 @@
+{
+    "id": "1548444083",
+    "title": "Tracking heaps that hop with heap-hop",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jules Villard",
+            "id": "2762106422",
+            "org": "LSV, ENS Cachan, CNRS#TAB#"
+        },
+        {
+            "name": "Etienne Lozes",
+            "id": "2038737587",
+            "org": "LSV, ENS Cachan, CNRS#TAB#"
+        },
+        {
+            "name": "Cristiano Calcagno",
+            "id": "2115355226",
+            "org": "Monoidics Ltd#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop invariant",
+        "Service provider",
+        "Synchronization",
+        "Separation logic",
+        "Computer science",
+        "Symbolic execution",
+        "Distributed computing",
+        "Heap (data structure)",
+        "Hop (networking)",
+        "Real-time computing",
+        "Memory leak"
+    ],
+    "references": [
+        "1498393124",
+        "1551175180",
+        "1555656963",
+        "1562865234",
+        "1569479239",
+        "1600923511",
+        "1822136335",
+        "2137186143",
+        "2137628566"
+    ]
+}

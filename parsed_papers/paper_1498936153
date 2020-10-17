@@ -1,0 +1,85 @@
+{
+    "id": "1498936153",
+    "title": "BORG: block-reORGanization for self-optimizing storage systems",
+    "venue": "file and storage technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Medha Bhadkamkar",
+            "id": "1769089667",
+            "org": "Florida International University#TAB#"
+        },
+        {
+            "name": "Jorge Guerra",
+            "id": "2130153108",
+            "org": "Florida International University#TAB#"
+        },
+        {
+            "name": "Luis Useche",
+            "id": "2162862523",
+            "org": "Florida International University#TAB#"
+        },
+        {
+            "name": "Sam Burnett",
+            "id": "2134026769",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Jason Liptak",
+            "id": "2014692759",
+            "org": "Syracuse University#TAB#"
+        },
+        {
+            "name": "Raju Rangaswami",
+            "id": "1982859237",
+            "org": "Florida International University#TAB#"
+        },
+        {
+            "name": "Vagelis Hristidis",
+            "id": "238786035",
+            "org": "Florida International University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "Hypervisor",
+        "Parallel computing",
+        "Computer science",
+        "Implementation",
+        "Workload",
+        "File system",
+        "Real-time computing",
+        "Locality of reference"
+    ],
+    "references": [
+        "73598622",
+        "126443840",
+        "135339695",
+        "1492565218",
+        "1506596325",
+        "1558370646",
+        "1814217792",
+        "1841617228",
+        "2025371316",
+        "2036627877",
+        "2076252126",
+        "2080232995",
+        "2103939416",
+        "2111711118",
+        "2114167330",
+        "2122244530",
+        "2124349089",
+        "2128575529",
+        "2130264549",
+        "2131726714",
+        "2140815597",
+        "2143694779",
+        "2149273293",
+        "2150864656",
+        "2153747271",
+        "2160356600",
+        "2167819041",
+        "2205436351",
+        "2294212370"
+    ]
+}

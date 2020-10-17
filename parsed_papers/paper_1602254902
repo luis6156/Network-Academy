@@ -1,0 +1,76 @@
+{
+    "id": "1602254902",
+    "title": "Static Detection of Place Locality and Elimination of Runtime Checks",
+    "venue": "asian symposium on programming languages and systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Shivali Agarwal",
+            "id": "2154300049",
+            "org": "IBM India Research Lab, New Delhi,#TAB#"
+        },
+        {
+            "name": "Rajkishore Barik",
+            "id": "2000552746",
+            "org": "IBM India Research Lab, New Delhi,#TAB#"
+        },
+        {
+            "name": "V. Krishna Nandivada",
+            "id": "353300815",
+            "org": "IBM India Research Lab, New Delhi,#TAB#"
+        },
+        {
+            "name": "Rudrapatna K. Shyamasundar",
+            "id": "2780788009",
+            "org": "IBM India Research Lab, New Delhi,#TAB#"
+        },
+        {
+            "name": "Pradeep Varma",
+            "id": "2154407316",
+            "org": "IBM India Research Lab, New Delhi,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Partitioned global address space",
+        "Theoretical computer science",
+        "Address space",
+        "Parallel computing",
+        "Escape analysis",
+        "Locality",
+        "Computer science",
+        "Compiler",
+        "Distributed computing",
+        "Model of computation",
+        "Automatic parallelization",
+        "Programming language"
+    ],
+    "references": [
+        "1579794848",
+        "1623282124",
+        "1834331905",
+        "1969454562",
+        "1986459908",
+        "1991837261",
+        "1992122785",
+        "2000931227",
+        "2004420781",
+        "2014530617",
+        "2019565705",
+        "2036581653",
+        "2077850509",
+        "2083878525",
+        "2094439101",
+        "2101582621",
+        "2114067856",
+        "2116681399",
+        "2127959721",
+        "2130711572",
+        "2134045882",
+        "2140611647",
+        "2143602127",
+        "2156742168",
+        "2158738500",
+        "2500569857"
+    ]
+}

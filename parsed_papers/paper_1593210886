@@ -1,0 +1,55 @@
+{
+    "id": "1593210886",
+    "title": "Experiments with the CHIME Parallel Processing System",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Anjaneya R. Chagam",
+            "id": "2518567731",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Partha Dasgupta",
+            "id": "2475704237",
+            "org": "Arizona State University"
+        },
+        {
+            "name": "Rajkumar Khandelwal",
+            "id": "2655006718",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Shashi P. Reddy",
+            "id": "2516085123",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Shantanu Sardesai",
+            "id": "2119926391",
+            "org": "Microsoft Corporation Redmond"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Recursion",
+        "Shared memory",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Parallel processing",
+        "Real-time computing",
+        "Fault tolerance",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1510543252",
+        "1690788913",
+        "1982881898",
+        "2006774019",
+        "2044902313",
+        "2132572305",
+        "2138180780",
+        "2138862411"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1491781341",
+    "title": "A rule driven bi-directional translation system for remapping queries and result sets between a mediated schema and heterogeneous data sources.",
+    "venue": "american medical informatics association annual symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ron Shaker",
+            "id": "2135837841",
+            "org": "Computer Science & Engineering|Biomedical & Health Informatics|University of Washington"
+        },
+        {
+            "name": "Peter Mork",
+            "id": "2311045380",
+            "org": "Computer Science & Engineering|Biomedical & Health Informatics|University of Washington"
+        },
+        {
+            "name": "Matt Barclay",
+            "id": "2659299277",
+            "org": "Computer Science & Engineering|Biomedical & Health Informatics|University of Washington"
+        },
+        {
+            "name": "Peter Tarczy-Hornoch",
+            "id": "2075786899",
+            "org": "Computer Science & Engineering|Biomedical & Health Informatics|University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Semantic mapping",
+        "Scalability",
+        "XML",
+        "Data access",
+        "Computer science",
+        "Data mining",
+        "Information schema",
+        "IDEF1X",
+        "Information retrieval",
+        "Data warehouse"
+    ],
+    "references": [
+        "1603224403",
+        "2112101330",
+        "2889831412"
+    ]
+}

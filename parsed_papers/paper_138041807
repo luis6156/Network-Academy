@@ -1,0 +1,58 @@
+{
+    "id": "138041807",
+    "title": "Optimizing MPI one sided communication on multi-core infiniband clusters using shared memory backed windows",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Sreeram Potluri",
+            "id": "1961600270",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Hao Wang",
+            "id": "2635837628",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Vijay Dhanraj",
+            "id": "2483009345",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Sayantan Sur",
+            "id": "2158064558",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Dhabaleswar K. Panda",
+            "id": "2126583185",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph500",
+        "Parallel computing",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Message Passing Interface",
+        "Fold (higher-order function)",
+        "Synchronization",
+        "Cluster (physics)"
+    ],
+    "references": [
+        "1600857929",
+        "1966285605",
+        "1969215126",
+        "1995396170",
+        "2100451941",
+        "2102345128",
+        "2106103789",
+        "2133117395",
+        "2141291138",
+        "2169812695"
+    ]
+}

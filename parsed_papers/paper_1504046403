@@ -1,0 +1,61 @@
+{
+    "id": "1504046403",
+    "title": "Memory performance attacks: denial of memory service in multi-core systems",
+    "venue": "usenix security symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Thomas Moscibroda",
+            "id": "139673579",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Onur Mutlu",
+            "id": "2160510735",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Conventional memory",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Computer security",
+        "Memory coherence",
+        "Distributed memory",
+        "Registered memory",
+        "Real-time computing",
+        "Flat memory model"
+    ],
+    "references": [
+        "1517334976",
+        "1981756989",
+        "1983096721",
+        "2014809728",
+        "2025304002",
+        "2058819785",
+        "2095347595",
+        "2100418159",
+        "2102871765",
+        "2106553998",
+        "2111804126",
+        "2115172404",
+        "2116271549",
+        "2123306627",
+        "2128315927",
+        "2129816520",
+        "2134633067",
+        "2141859544",
+        "2143823686",
+        "2145451976",
+        "2149684006",
+        "2151795327",
+        "2153456949",
+        "2154554979",
+        "2156672769",
+        "2165697076",
+        "2166004296",
+        "2176566884"
+    ]
+}

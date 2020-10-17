@@ -1,0 +1,45 @@
+{
+    "id": "168700050",
+    "title": "Highly Scalable Discriminative Spam Filtering.",
+    "venue": "text retrieval conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Bruckner",
+            "id": "2602597016",
+            "org": "Institute for Computer Science|Humboldt Universitat zu Berlin"
+        },
+        {
+            "name": "Peter Haider",
+            "id": "1539679250",
+            "org": "Institute for Computer Science|Humboldt Universitat zu Berlin"
+        },
+        {
+            "name": "Tobias Scheffer",
+            "id": "2609429555",
+            "org": "Institute for Computer Science|Humboldt Universitat zu Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Bigram",
+        "Scalability",
+        "Decoding methods",
+        "Computer science",
+        "Winnow",
+        "Bag-of-words model",
+        "Active learning",
+        "Tokenization (data security)",
+        "Discriminative model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1482320265",
+        "1513874326",
+        "1540586255",
+        "2041954531",
+        "2095343223",
+        "2129113961",
+        "2169075655"
+    ]
+}

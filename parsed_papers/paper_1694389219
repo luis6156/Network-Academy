@@ -1,0 +1,246 @@
+{
+    "id": "1694389219",
+    "title": "On the results of the first mobile biometry (MOBIO) face and speaker verification evaluation",
+    "venue": "international conference on pattern recognition",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sebastien Marcel",
+            "id": "2082640432",
+            "org": "Idiap Research Institute, CH#TAB#"
+        },
+        {
+            "name": "Chris McCool",
+            "id": "2779314022",
+            "org": "Idiap Research Institute, CH#TAB#"
+        },
+        {
+            "name": "Pavel Matejka",
+            "id": "1821005863",
+            "org": "Brno University of Technology, CZ#TAB#"
+        },
+        {
+            "name": "Timo Ahonen",
+            "id": "2136475958",
+            "org": "University of Oulu, FI#TAB#"
+        },
+        {
+            "name": "Jan Cernocky",
+            "id": "2045416630",
+            "org": "Brno University of Technology, CZ#TAB#"
+        },
+        {
+            "name": "Shayok Chakraborty",
+            "id": "2183505635",
+            "org": "Center for Cognitive Ubiquitous Computing, Arizona State University#TAB#"
+        },
+        {
+            "name": "Vineeth Nallure Balasubramanian",
+            "id": "2167359976",
+            "org": "Center for Cognitive Ubiquitous Computing, Arizona State University#TAB#"
+        },
+        {
+            "name": "Sethuraman Panchanathan",
+            "id": "2055909567",
+            "org": "Center for Cognitive Ubiquitous Computing, Arizona State University#TAB#"
+        },
+        {
+            "name": "Chi-Ho Chan",
+            "id": "2134277328",
+            "org": "Centre for Vision, Speech and Signal Processing, University of Surrey, UK#TAB#"
+        },
+        {
+            "name": "Josef Kittler",
+            "id": "2129457005",
+            "org": "Centre for Vision, Speech and Signal Processing, University of Surrey, UK#TAB#"
+        },
+        {
+            "name": "Norman Poh",
+            "id": "1678769217",
+            "org": "Centre for Vision, Speech and Signal Processing, University of Surrey, UK#TAB#"
+        },
+        {
+            "name": "Benoit G. B. Fauve",
+            "id": "726644980",
+            "org": "Validsoft Ltd., UK#TAB#"
+        },
+        {
+            "name": "Ondrej Glembek",
+            "id": "1981308659",
+            "org": "Brno University of Technology, CZ#TAB#"
+        },
+        {
+            "name": "Oldrich Plchot",
+            "id": "1597315402",
+            "org": "Brno University of Technology, CZ#TAB#"
+        },
+        {
+            "name": "Zdenek Jancik",
+            "id": "2279397901",
+            "org": "Brno University of Technology, CZ#TAB#"
+        },
+        {
+            "name": "Anthony Larcher",
+            "id": "2131618076",
+            "org": "University of Avignon, LIA, FR#TAB#"
+        },
+        {
+            "name": "Christophe Levy",
+            "id": "2169675766",
+            "org": "University of Avignon, LIA, FR#TAB#"
+        },
+        {
+            "name": "Driss Matrouf",
+            "id": "1977399946",
+            "org": "University of Avignon, LIA, FR#TAB#"
+        },
+        {
+            "name": "Jean-Francois Bonastre",
+            "id": "1965683459",
+            "org": "University of Avignon, LIA, FR#TAB#"
+        },
+        {
+            "name": "Ping Han Lee",
+            "id": "2618648467",
+            "org": "National Taiwan University, TW#TAB#"
+        },
+        {
+            "name": "Jui Yu Hung",
+            "id": "2228272290",
+            "org": "National Taiwan University, TW#TAB#"
+        },
+        {
+            "name": "Si Wei Wu",
+            "id": "2427276801",
+            "org": "National Taiwan University, TW#TAB#"
+        },
+        {
+            "name": "Yi-Ping Hung",
+            "id": "2127637003",
+            "org": "National Taiwan University, TW#TAB#"
+        },
+        {
+            "name": "Lukas Machlica",
+            "id": "71139252",
+            "org": "University of West Bohemia, CZ#TAB#"
+        },
+        {
+            "name": "John S. D. Mason",
+            "id": "2171881999",
+            "org": "Swansea University, UK#TAB#"
+        },
+        {
+            "name": "Sandra Mau",
+            "id": "2133129304",
+            "org": "NICTA, AU#TAB#"
+        },
+        {
+            "name": "Conrad Sanderson",
+            "id": "2090845954",
+            "org": "NICTA, AU#TAB#"
+        },
+        {
+            "name": "David Monzo",
+            "id": "2112147641",
+            "org": "iTEAM, Universidad Politecnica de Valencia, ES#TAB#"
+        },
+        {
+            "name": "Antonio Albiol",
+            "id": "2074170867",
+            "org": "iTEAM, Universidad Politecnica de Valencia, ES#TAB#"
+        },
+        {
+            "name": "Hieu V. Nguyen",
+            "id": "2166507393",
+            "org": "University of Nottingham, UK#TAB#"
+        },
+        {
+            "name": "Li Bai",
+            "id": "2054971419",
+            "org": "University of Nottingham, UK#TAB#"
+        },
+        {
+            "name": "Yan Wang",
+            "id": "2789335318",
+            "org": "University of Nottingham, UK#TAB#"
+        },
+        {
+            "name": "Matti Niskanen",
+            "id": "2210616176",
+            "org": "Visidon Ltd, FI#TAB#"
+        },
+        {
+            "name": "Markus Turtinen",
+            "id": "1936618895",
+            "org": "Visidon Ltd, FI#TAB#"
+        },
+        {
+            "name": "Juan Arturo Nolazco-Flores",
+            "id": "2007694239",
+            "org": "Tecnologico de Monterrey, MX#TAB#"
+        },
+        {
+            "name": "Leibny Paola Garcia-Perera",
+            "id": "2226877765",
+            "org": "Tecnologico de Monterrey, MX#TAB#"
+        },
+        {
+            "name": "Roberto Aceves-Lopez",
+            "id": "2286924957",
+            "org": "Tecnologico de Monterrey, MX#TAB#"
+        },
+        {
+            "name": "Mauricio Villegas",
+            "id": "2123402623",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, ES#TAB#"
+        },
+        {
+            "name": "Roberto Paredes",
+            "id": "2158227529",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, ES#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Computer science",
+        "Biometrics",
+        "Facial recognition system",
+        "Speech recognition",
+        "Speaker recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "7296353",
+        "111477576",
+        "1482998036",
+        "1545641654",
+        "1553271421",
+        "1573965745",
+        "1593693679",
+        "1596028639",
+        "1800461853",
+        "1861997810",
+        "1980807921",
+        "1989702938",
+        "2033419168",
+        "2041823554",
+        "2051396567",
+        "2059270003",
+        "2078238952",
+        "2103124626",
+        "2105036318",
+        "2108767394",
+        "2117072267",
+        "2127469750",
+        "2136879537",
+        "2137659841",
+        "2143873874",
+        "2144119003",
+        "2144760012",
+        "2147147599",
+        "2153265531",
+        "2159128898",
+        "2160367227",
+        "2169882840"
+    ]
+}

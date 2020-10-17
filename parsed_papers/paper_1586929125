@@ -1,0 +1,72 @@
+{
+    "id": "1586929125",
+    "title": "Automated security proof for symmetric encryption modes",
+    "venue": "ASIAN'09 Proceedings of the 13th Asian conference on Advances in Computer Science: information Security and Privacy",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Gagne",
+            "id": "2685785228",
+            "org": "Department of Computer Science, University of Calgary, Canada#TAB#"
+        },
+        {
+            "name": "Pascal Lafourcade",
+            "id": "2080337957",
+            "org": "Universite Grenoble 1, CNRS, VERIMAG, France#TAB#"
+        },
+        {
+            "name": "Yassine Lakhnech",
+            "id": "2894656828",
+            "org": "Universite Grenoble 1, CNRS, VERIMAG, France#TAB#"
+        },
+        {
+            "name": "Reihaneh Safavi-Naini",
+            "id": "1967715543",
+            "org": "Department of Computer Science, University of Calgary, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Computer science",
+        "Initialization vector",
+        "Disk encryption theory",
+        "Triple DES",
+        "CBC-MAC",
+        "Galois/Counter Mode"
+    ],
+    "references": [
+        "122619279",
+        "1504211573",
+        "1514739653",
+        "1520309614",
+        "1525995698",
+        "1528724153",
+        "1537849967",
+        "1551325341",
+        "1553929445",
+        "1567910635",
+        "1569469989",
+        "1586481148",
+        "1587868574",
+        "1599415687",
+        "1655844021",
+        "1891091891",
+        "2050586071",
+        "2112460803",
+        "2113999696",
+        "2125591151",
+        "2126290606",
+        "2133065964",
+        "2138992486",
+        "2139172211",
+        "2145227448",
+        "2146350800",
+        "2149158041",
+        "2152723805",
+        "2155115217",
+        "2404275717"
+    ]
+}

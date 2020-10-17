@@ -1,0 +1,57 @@
+{
+    "id": "1599684279",
+    "title": "Cryptanalysis of ORYX",
+    "venue": "selected areas in cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California"
+        },
+        {
+            "name": "Leonie Simpson",
+            "id": "2115390127",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Ed Dawson",
+            "id": "2147948275",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "William Millan",
+            "id": "1971674438",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Oryx",
+        "Cipher",
+        "Key schedule",
+        "Cryptanalysis",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Stream cipher",
+        "Computer network",
+        "Known-plaintext attack"
+    ],
+    "references": [
+        "1554090281",
+        "1587679486",
+        "1603033878",
+        "2083781982"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1522181683",
+    "title": "Secure and efficient AES software implementation for smart cards",
+    "venue": "workshop on information security applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Elena Trichina",
+            "id": "2636716400",
+            "org": "Department of Computer Science, University of Kuopio, Kuopio, Finland#TAB#"
+        },
+        {
+            "name": "Lesya Korkishko",
+            "id": "2688096547",
+            "org": "Institute of Computer Information Technologies, Ternopol Academy of National Economy, Ukraine#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Countermeasure",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Timing attack",
+        "Computer security",
+        "Power analysis",
+        "Data masking",
+        "Smart card"
+    ],
+    "references": [
+        "1511843316",
+        "1512062395",
+        "1529013801",
+        "1548656471",
+        "1556212265",
+        "1569151289",
+        "1664808737",
+        "1724890242",
+        "2105114022",
+        "2112002249",
+        "2132250906",
+        "2133739828",
+        "2145829971",
+        "2154909745",
+        "2155938490",
+        "2612208439"
+    ]
+}

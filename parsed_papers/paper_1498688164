@@ -1,0 +1,55 @@
+{
+    "id": "1498688164",
+    "title": "Translating discrete-time Simulink to Lustre",
+    "venue": "embedded software",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Paul Caspi",
+            "id": "2111205943",
+            "org": "VERIMAG, Centre Equation"
+        },
+        {
+            "name": "Adrian Curic",
+            "id": "1490455997",
+            "org": "VERIMAG, Centre Equation"
+        },
+        {
+            "name": "Aude Maignan",
+            "id": "2303321142",
+            "org": "VERIMAG, Centre Equation"
+        },
+        {
+            "name": "Christos Sofronis",
+            "id": "319042175",
+            "org": "VERIMAG, Centre Equation"
+        },
+        {
+            "name": "Stavros Tripakis",
+            "id": "80538963",
+            "org": "VERIMAG, Centre Equation"
+        }
+    ],
+    "fields_of_study": [
+        "Software development",
+        "Computer science",
+        "Type theory",
+        "Type inference",
+        "Control theory",
+        "Inference",
+        "Discrete time and continuous time",
+        "Real-time computing",
+        "Typing"
+    ],
+    "references": [
+        "1597755753",
+        "1755674822",
+        "1780966789",
+        "1884521777",
+        "2005976511",
+        "2071229589",
+        "2131441094",
+        "2147765639",
+        "2171235097"
+    ]
+}

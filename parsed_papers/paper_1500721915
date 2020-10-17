@@ -1,0 +1,42 @@
+{
+    "id": "1500721915",
+    "title": "Optimizing cache access: A tool for source-to-source transformations and real-life compiler tests",
+    "venue": "european conference on parallel processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ralph Muller-Pfefferkorn",
+            "id": "2631185482",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Bernd Trenkler",
+            "id": "186462184",
+            "org": "Dresden University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Loop interchange",
+        "Parallel computing",
+        "Computer architecture",
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "Optimizing compiler",
+        "Parallel algorithm",
+        "Loop nest optimization",
+        "Loop optimization",
+        "CPU cache"
+    ],
+    "references": [
+        "1496064480",
+        "1568869856",
+        "2130271596"
+    ]
+}

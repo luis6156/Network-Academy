@@ -1,0 +1,38 @@
+{
+    "id": "169204319",
+    "title": "On Pseudo-random Number Generation Using Elliptic Curve Cryptography",
+    "venue": "international symposium on security in computing and communication",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Manali Dubal",
+            "id": "2090587006",
+            "org": "University of Pune"
+        },
+        {
+            "name": "Aaradhana Deshmukh",
+            "id": "2264065924",
+            "org": "University of Pune"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Curve25519",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1545021118",
+        "1994429123",
+        "2147227696",
+        "2159786810",
+        "2164201637",
+        "2607627035"
+    ]
+}

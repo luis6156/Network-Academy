@@ -1,0 +1,49 @@
+{
+    "id": "1565956254",
+    "title": "Cox-Rower architecture for fast parallel montgomery multiplication",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Shinichi Kawamura",
+            "id": "2175791543",
+            "org": "Toshiba Research and Development Center, Saiwai-ku, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Masanobu Koike",
+            "id": "2520617110",
+            "org": "Toshiba System Integration Technology Center, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Fumihiko Sano",
+            "id": "2332743274",
+            "org": "Toshiba System Integration Technology Center, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Atsushi Shimbo",
+            "id": "1842456160",
+            "org": "Toshiba Research and Development Center, Saiwai-ku, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Adder",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Radix",
+        "Residue number system",
+        "Kochanski multiplication",
+        "Computer science",
+        "Exponentiation",
+        "Cryptosystem",
+        "Modular exponentiation",
+        "Architecture"
+    ],
+    "references": [
+        "1601624599",
+        "1968875548",
+        "1996360405",
+        "2058358002",
+        "2132249288",
+        "2563139900"
+    ]
+}

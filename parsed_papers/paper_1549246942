@@ -1,0 +1,54 @@
+{
+    "id": "1549246942",
+    "title": "The Raleigh Activity Model: Integrating Versions, Concurrency, and Access Control",
+    "venue": "british national conference on databases",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "M. H. Kay",
+            "id": "2707519768",
+            "org": "ICL Kings House"
+        },
+        {
+            "name": "P. J. Rivett",
+            "id": "2687422137",
+            "org": "ICL Kings House"
+        },
+        {
+            "name": "T. J. Walters",
+            "id": "2686120963",
+            "org": "ICL Kings House"
+        }
+    ],
+    "fields_of_study": [
+        "Real-time Control System Software",
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Database",
+        "Distributed concurrency control",
+        "Concurrency",
+        "Timestamp-based concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "60836690",
+        "104132764",
+        "113394001",
+        "174454281",
+        "1497115611",
+        "1524141096",
+        "1524936640",
+        "1526858686",
+        "1590555157",
+        "1847783354",
+        "1887907765",
+        "1995007672",
+        "1999670122",
+        "2000417180",
+        "2072346647",
+        "2118996373"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1554371160",
+    "title": "On the use of TCP passive measurements for anomaly detection: a case study from an operational 3G network",
+    "venue": "traffic monitoring and analysis",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Peter Romirer-Maierhofer",
+            "id": "344960913",
+            "org": "Forschungszentrum Telekommunikation Wien (FTW), Austria#TAB#"
+        },
+        {
+            "name": "Angelo Coluccia",
+            "id": "2074878432",
+            "org": "Universita del Salento, Italy#TAB#"
+        },
+        {
+            "name": "Tobias Witek",
+            "id": "2690980818",
+            "org": "Forschungszentrum Telekommunikation Wien (FTW), Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Zeta-TCP",
+        "Computer science",
+        "Packet loss",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "Real-time computing",
+        "TCP sequence prediction attack",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1500037751",
+        "2098043728",
+        "2103319318",
+        "2116830857",
+        "2122312526",
+        "2137273017",
+        "2153486199",
+        "2156529038",
+        "2159623399"
+    ]
+}

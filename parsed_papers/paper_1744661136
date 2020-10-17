@@ -1,0 +1,42 @@
+{
+    "id": "1744661136",
+    "title": "A 3D Simulator of Multiple Legged Robots Based on USARSim",
+    "venue": "robot soccer world cup",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Marco Zaratti",
+            "id": "2674326297",
+            "org": "Dipartimento di Informatica e Sistemistica, Universita \"La Sapienza\", Rome, Italy, Via Salaria 113 00198 Rome, Italy#TAB#"
+        },
+        {
+            "name": "Marco Fratarcangeli",
+            "id": "90717886",
+            "org": "Dipartimento di Informatica e Sistemistica, Universita \"La Sapienza\", Rome, Italy, Via Salaria 113 00198 Rome, Italy#TAB#"
+        },
+        {
+            "name": "Luca Iocchi",
+            "id": "1975788265",
+            "org": "Dipartimento di Informatica e Sistemistica, Universita \"La Sapienza\", Rome, Italy, Via Salaria 113 00198 Rome, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Robot",
+        "Rendering (computer graphics)",
+        "AIBO",
+        "Turns, rounds and time-keeping systems in games",
+        "Computer science",
+        "Legged robot",
+        "Dynamical simulation",
+        "Embedded system",
+        "Scripting language",
+        "Virtual machine"
+    ],
+    "references": [
+        "1484439861",
+        "1517523385",
+        "1586775594",
+        "2030664771"
+    ]
+}

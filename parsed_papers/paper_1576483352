@@ -1,0 +1,44 @@
+{
+    "id": "1576483352",
+    "title": "DAEDALUS: a peer-to-peer shared memory system for ubiquitous computing",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Peter Ibach",
+            "id": "1966999724",
+            "org": "Lehrstuhl Rechnerorganisation und Kommunikation, Institut fur Informatik, Humboldt-Universitat zu Berlin, Berlin#TAB#"
+        },
+        {
+            "name": "Vladimir Stantchev",
+            "id": "1156422826",
+            "org": "Net Business Center, Fachgebiet Systemanalyse und EDV, Technische Universitat Berlin, Berlin#TAB#"
+        },
+        {
+            "name": "Christian Keller",
+            "id": "2236916557",
+            "org": "Lehrstuhl Rechnerorganisation und Kommunikation, Institut fur Informatik, Humboldt-Universitat zu Berlin, Berlin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Peer-to-peer",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Client-server model",
+        "Multiprocessing",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine"
+    ],
+    "references": [
+        "153175389",
+        "1600328410",
+        "1663493649",
+        "2059481223",
+        "2071958655",
+        "2174507869"
+    ]
+}

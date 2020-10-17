@@ -1,0 +1,36 @@
+{
+    "id": "1571694740",
+    "title": "Resource Allocation and Scheduling in Metasystems",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Uwe Schwiegelshohn",
+            "id": "219282350",
+            "org": "University Dortmund"
+        },
+        {
+            "name": "Ramin Yahyapour",
+            "id": "380037160",
+            "org": "University Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (production processes)",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1599248213",
+        "1862101486",
+        "2111996486"
+    ]
+}

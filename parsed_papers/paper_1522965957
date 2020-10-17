@@ -1,0 +1,69 @@
+{
+    "id": "1522965957",
+    "title": "Robust atlas-based segmentation of highly variable anatomy: left atrium segmentation",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Michal Depa",
+            "id": "2106304643",
+            "org": "Computer Science and Artificial Intelligence Lab, MIT, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Mert R. Sabuncu",
+            "id": "1207328436",
+            "org": "Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Boston, MA#TAB#"
+        },
+        {
+            "name": "Godtfred Holmvang",
+            "id": "291879041",
+            "org": "Cardiac MRI Unit, Massachusetts General Hospital, Boston, MA#TAB#"
+        },
+        {
+            "name": "Reza Nezafat",
+            "id": "668655278",
+            "org": "Department of Medicine, Cardiovascular Division, Beth Israel Deaconess Medical Center, Boston, MA#TAB#"
+        },
+        {
+            "name": "Ehud J. Schmidt",
+            "id": "2153991157",
+            "org": "Department of Radiology, Brigham & Women's Hospital, Boston, MA#TAB#"
+        },
+        {
+            "name": "Polina Golland",
+            "id": "289127100",
+            "org": "Computer Science and Artificial Intelligence Lab, MIT, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Weighted voting",
+        "Left atrium",
+        "Atrial Ablation",
+        "Atlas (anatomy)",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1502589619",
+        "1567539409",
+        "1579576867",
+        "1777631236",
+        "1978425155",
+        "2004537679",
+        "2016618123",
+        "2018174766",
+        "2018662705",
+        "2056046662",
+        "2101689475",
+        "2103857226",
+        "2114218028",
+        "2130686832",
+        "2133086277",
+        "2158167845",
+        "2162140684"
+    ]
+}

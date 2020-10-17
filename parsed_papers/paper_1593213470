@@ -1,0 +1,68 @@
+{
+    "id": "1593213470",
+    "title": "Semi-supervised learning of edge filters for volumetric image segmentation",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Margret Keuper",
+            "id": "1966434052",
+            "org": "Lehrstuhl fur Mustererkennung und Bildverarbeitung, Institut fur Informatik and Centre of Biological Signalling Studies, Albert-Ludwigs-Universitat Freiburg#TAB#"
+        },
+        {
+            "name": "Robert Bensch",
+            "id": "2044412058",
+            "org": "Lehrstuhl fur Mustererkennung und Bildverarbeitung, Institut fur Informatik and Centre of Biological Signalling Studies, Albert-Ludwigs-Universitat Freiburg#TAB#"
+        },
+        {
+            "name": "Karsten Voigt",
+            "id": "2110914896",
+            "org": "Centre of Biological Signalling Studies and Institut fur Biologie II, Albert-Ludwigs-Universitat Freiburg#TAB#"
+        },
+        {
+            "name": "Alexander Dovzhenko",
+            "id": "1960929867",
+            "org": "Centre of Biological Signalling Studies and Institut fur Biologie II, Albert-Ludwigs-Universitat Freiburg#TAB#"
+        },
+        {
+            "name": "Klaus Palme",
+            "id": "2004672570",
+            "org": "Centre of Biological Signalling Studies and Institut fur Biologie II and Freiburg Inst. for Advanced Studies (FRIAS), Albert-Ludwigs-Universitat Freiburg#TAB#"
+        },
+        {
+            "name": "Hans Burkhardt",
+            "id": "2159837319",
+            "org": "Lehrstuhl fur Mustererkennung und Bildverarbeitung, Institut fur Informatik and Centre of Biological Signalling Studies, Albert-Ludwigs-Universitat Freiburg#TAB#"
+        },
+        {
+            "name": "Olaf Ronneberger",
+            "id": "2044097715",
+            "org": "Lehrstuhl fur Mustererkennung und Bildverarbeitung, Institut fur Informatik and Centre of Biological Signalling Studies, Albert-Ludwigs-Universitat Freiburg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Segmentation",
+        "Computer vision",
+        "Supervised learning",
+        "Active contour model",
+        "Computer science",
+        "Pattern recognition",
+        "Image segmentation",
+        "Segmentation-based object categorization",
+        "Labeled data",
+        "Scale-space segmentation",
+        "Semi-supervised learning"
+    ],
+    "references": [
+        "125557800",
+        "1553729992",
+        "1608916426",
+        "2019064108",
+        "2033173964",
+        "2034987376",
+        "2127890285",
+        "2145803225",
+        "2152826865"
+    ]
+}

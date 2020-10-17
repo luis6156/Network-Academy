@@ -1,0 +1,33 @@
+{
+    "id": "104909822",
+    "title": "Lumberjack: A Log-Structured Persistent Object Store.",
+    "venue": "POS/PJW",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "David Hulse",
+            "id": "2141130073",
+            "org": "Department of Computing Science and Mathematics|University of Stirling"
+        },
+        {
+            "name": "Alan Dearle",
+            "id": "45027165",
+            "org": "Department of Computing Science and Mathematics|University of Stirling"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Garbage collection",
+        "Persistent object store",
+        "Distributed computing",
+        "Database"
+    ],
+    "references": [
+        "157661739",
+        "1493148263",
+        "1985467476",
+        "2101468026",
+        "2163285366",
+        "2205436351"
+    ]
+}

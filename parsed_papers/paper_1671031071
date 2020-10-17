@@ -1,0 +1,42 @@
+{
+    "id": "1671031071",
+    "title": "Statistics and Secret Leakage",
+    "venue": "financial cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2796177003",
+            "org": "DMI"
+        },
+        {
+            "name": "Paul C. Kocher",
+            "id": "1984824673",
+            "org": "Cryptography Research, Inc."
+        },
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Gemplus Card International"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer science",
+        "Leakage (electronics)",
+        "Computer security"
+    ],
+    "references": [
+        "1519080809",
+        "1545698176",
+        "1563937974",
+        "1613874182",
+        "1664808737",
+        "1666015432",
+        "1897761346",
+        "2025905409",
+        "2154909745",
+        "2170489924",
+        "2601560571"
+    ]
+}

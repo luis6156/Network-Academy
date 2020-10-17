@@ -1,0 +1,79 @@
+{
+    "id": "1569184546",
+    "title": "Argon: performance insulation for shared storage servers",
+    "venue": "file and storage technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Matthew Wachs",
+            "id": "2150833760",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Michael Abd-El-Malek",
+            "id": "2159186115",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Eno Thereska",
+            "id": "2152541190",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Gregory R. Ganger",
+            "id": "2791808",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Computer data storage",
+        "Throughput",
+        "Computer science",
+        "Hit rate",
+        "Instruction prefetch",
+        "Server",
+        "File server",
+        "Inefficiency",
+        "Real-time computing"
+    ],
+    "references": [
+        "126443840",
+        "1516312903",
+        "1520815598",
+        "1552890190",
+        "1574895192",
+        "1577469378",
+        "1586999867",
+        "1595924276",
+        "1841617228",
+        "1899676114",
+        "1998927861",
+        "2001500256",
+        "2012706015",
+        "2049717788",
+        "2064359039",
+        "2076265406",
+        "2081461624",
+        "2092537111",
+        "2097052930",
+        "2099148956",
+        "2099404265",
+        "2100844052",
+        "2106773533",
+        "2111132632",
+        "2112090336",
+        "2121542813",
+        "2130843735",
+        "2132777729",
+        "2138428327",
+        "2141689805",
+        "2142591010",
+        "2144916960",
+        "2149273293",
+        "2150864656",
+        "2151795327",
+        "2164965053",
+        "2171368566"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "143190347",
+    "title": "Distributed Scheduling of Mobile Priority Requests",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ahmed Housni",
+            "id": "2022433786",
+            "org": "Universite de Franche Comte"
+        },
+        {
+            "name": "Michel Lacroix",
+            "id": "2660338738",
+            "org": "Universite de Franche Comte"
+        },
+        {
+            "name": "Michel Trehel",
+            "id": "320303430",
+            "org": "Universite de Franche Comte"
+        }
+    ],
+    "fields_of_study": [
+        "Priority inheritance",
+        "Critical section",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Priority queue",
+        "Queue",
+        "Mutual exclusion",
+        "Computer network",
+        "Shared resource"
+    ],
+    "references": [
+        "1560383917",
+        "1979885075"
+    ]
+}

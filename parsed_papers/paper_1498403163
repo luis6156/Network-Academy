@@ -1,0 +1,58 @@
+{
+    "id": "1498403163",
+    "title": "Abstraction and BDDs complement SAT-based BMC in DiVer",
+    "venue": "computer aided verification",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Aarti Gupta",
+            "id": "2129619966",
+            "org": "NEC Laboratories America"
+        },
+        {
+            "name": "Malay K. Ganai",
+            "id": "2117247149",
+            "org": "NEC Laboratories America"
+        },
+        {
+            "name": "Chao Wang",
+            "id": "2854535502",
+            "org": "University of Colorado"
+        },
+        {
+            "name": "Zijiang Yang",
+            "id": "2265437558",
+            "org": "NEC Laboratories America"
+        },
+        {
+            "name": "Pranav Ashar",
+            "id": "1987321661",
+            "org": "NEC Laboratories America"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Satisfiability",
+        "Boolean algebra",
+        "Mathematical induction",
+        "Computer science",
+        "Binary decision diagram",
+        "Bounded function",
+        "Constraint satisfaction",
+        "Model checking",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "1495266209",
+        "1501649906",
+        "1550458165",
+        "1662204117",
+        "1787074469",
+        "2080267935",
+        "2103351789",
+        "2127988328",
+        "2146662253",
+        "2340735175"
+    ]
+}

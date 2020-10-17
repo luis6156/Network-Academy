@@ -1,0 +1,44 @@
+{
+    "id": "1655281040",
+    "title": "Distributing Trust Amongst Multiple Authentication Servers",
+    "venue": "Journal of Computer Security",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Liqun Chen",
+            "id": "2109441081",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey TW20 0EX,UK, e-mail: {liqun,dieter,cjm}@dcs.rhbnc.ac.uk#TAB#"
+        },
+        {
+            "name": "Dieter Gollmann",
+            "id": "104857274",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey TW20 0EX,UK, e-mail: {liqun,dieter,cjm}@dcs.rhbnc.ac.uk#TAB#"
+        },
+        {
+            "name": "Chris J. Mitchell",
+            "id": "2132562382",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey TW20 0EX,UK, e-mail: {liqun,dieter,cjm}@dcs.rhbnc.ac.uk#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Candidate key",
+        "Authentication protocol",
+        "Key generation",
+        "Key distribution",
+        "Computer science",
+        "Computer security",
+        "Server",
+        "Authentication",
+        "Checksum",
+        "Inappropriate behaviour"
+    ],
+    "references": [
+        "1585274363",
+        "1590395676",
+        "2033778422",
+        "2141420453",
+        "2147335449",
+        "2156186849",
+        "2168692788"
+    ]
+}

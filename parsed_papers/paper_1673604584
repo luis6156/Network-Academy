@@ -1,0 +1,73 @@
+{
+    "id": "1673604584",
+    "title": "Revisiting SSL/TLS implementations: new Bleichenbacher side channels and attacks",
+    "venue": "usenix security symposium",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Christopher Meyer",
+            "id": "2119313690",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum#TAB#"
+        },
+        {
+            "name": "Juraj Somorovsky",
+            "id": "227543715",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum#TAB#"
+        },
+        {
+            "name": "Eugen Weiss",
+            "id": "2320201663",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum#TAB#"
+        },
+        {
+            "name": "Jorg Schwenk",
+            "id": "2145024463",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum#TAB#"
+        },
+        {
+            "name": "Sebastian Schinzel",
+            "id": "1975262869",
+            "org": "Department of Computer Science, Munster University of Applied Sciences#TAB#"
+        },
+        {
+            "name": "Erik Tews",
+            "id": "1485344885",
+            "org": "European Center for Security and Privacy by Design, Technische Universitat Darmstadt#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transport Layer Security",
+        "Countermeasure",
+        "Chip",
+        "Computer science",
+        "Communication channel",
+        "Computer security",
+        "Implementation",
+        "Hardware security module",
+        "SSL acceleration",
+        "Internet privacy",
+        "Java Secure Socket Extension"
+    ],
+    "references": [
+        "39167138",
+        "50107694",
+        "185864230",
+        "1452942402",
+        "1511943692",
+        "1519351129",
+        "1571203384",
+        "1681309784",
+        "1733713784",
+        "1809974132",
+        "1984097153",
+        "2001162307",
+        "2107506969",
+        "2107691219",
+        "2119028650",
+        "2132147947",
+        "2153041122",
+        "2163005041",
+        "2166093784",
+        "2408532056"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1529903076",
+    "title": "Robust pulmonary nodule segmentation in CT: improving performance for juxtapleural cases",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kazunori Okada",
+            "id": "2253084681",
+            "org": "Real-Time Vision & Modeling Dept., Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Visvanathan Ramesh",
+            "id": "2140766645",
+            "org": "Real-Time Vision & Modeling Dept., Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Arun Krishnan",
+            "id": "2236486307",
+            "org": "CAD Program, Siemens Medical Solutions, Malvern#TAB#"
+        },
+        {
+            "name": "Maneesh Kumar Singh",
+            "id": "2168691803",
+            "org": "Real-Time Vision & Modeling Dept., Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Umut Akdemir",
+            "id": "1896427380",
+            "org": "Real-Time Vision & Modeling Dept., Siemens Corporate Research, Princeton#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Jensen-Shannon divergence",
+        "Mean-shift",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Structuring element",
+        "TARGET NODULE",
+        "Gaussian",
+        "Opening",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "169367702",
+        "1520012284",
+        "2053449489",
+        "2103913463",
+        "2104775919",
+        "2109711012",
+        "2111209861",
+        "2132001627",
+        "2151695813"
+    ]
+}

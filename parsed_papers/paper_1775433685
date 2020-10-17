@@ -1,0 +1,59 @@
+{
+    "id": "1775433685",
+    "title": "FPGA implementation of a statistical saturation attack against PRESENT",
+    "venue": "international conference on progress in cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Stephanie Kerckhof",
+            "id": "56200024",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Baudoin Collard",
+            "id": "2117870018",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2574550259",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Cipher",
+        "Cryptanalysis",
+        "Computer science",
+        "Differential cryptanalysis",
+        "CBC-MAC",
+        "Linear cryptanalysis",
+        "Substitution-permutation network",
+        "Ciphertext"
+    ],
+    "references": [
+        "1489195210",
+        "1502608166",
+        "1506559511",
+        "1510442823",
+        "1533392870",
+        "1534885379",
+        "1568642505",
+        "1581134854",
+        "1583896587",
+        "1588259322",
+        "1591203762",
+        "1704209912",
+        "1734967783",
+        "1875601660",
+        "1894646615",
+        "1964723977",
+        "1985969574",
+        "2096485488",
+        "2137326899",
+        "2150208140",
+        "2401629018",
+        "2403206731"
+    ]
+}

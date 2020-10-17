@@ -1,0 +1,42 @@
+{
+    "id": "156879605",
+    "title": "Towards Distributed Memory Parallel Program Analysis",
+    "venue": "dagstuhl seminar proceedings",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2126332795",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Gergo Barany",
+            "id": "2780560441",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Thomas Panas",
+            "id": "2781097344",
+            "org": "Vienna University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Program analysis",
+        "Shared memory",
+        "Compiler",
+        "Distributed computing",
+        "Attribute grammar",
+        "Automation",
+        "Computer science",
+        "Distributed memory",
+        "Extensibility",
+        "Rule-based machine translation"
+    ],
+    "references": [
+        "73531603",
+        "1490452695",
+        "2118437239",
+        "2124377830",
+        "2160670045"
+    ]
+}

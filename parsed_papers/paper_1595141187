@@ -1,0 +1,75 @@
+{
+    "id": "1595141187",
+    "title": "Performance and experience with LAPI-a new high-performance communication library for the IBM RS/6000 SP",
+    "venue": "merged international parallel processing symposium and symposium on parallel and distributed processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gautam H. Shah",
+            "id": "2574693654",
+            "org": "IBM Power Parallel Syst., Poughkeepsie, NY, USA"
+        },
+        {
+            "name": "Jarek Nieplocha",
+            "id": "2056935207",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Jamshed H. Mirza",
+            "id": "2798434116",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Chulho Kim",
+            "id": "2799268039",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Robert J. Harrison",
+            "id": "2141208563",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Rama Govindaraju",
+            "id": "2798780222",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Kevin J. Gildea",
+            "id": "2799006196",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Paul DiNicola",
+            "id": "2798602386",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Carl A. Bender",
+            "id": "2798791001",
+            "org": "IBM Power Parallel Systems|Pacific Northwest National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "Synchronization",
+        "Computer science",
+        "Global Arrays",
+        "IBM",
+        "Latency (engineering)",
+        "Bandwidth (signal processing)",
+        "Message passing",
+        "Exploit",
+        "Operating system"
+    ],
+    "references": [
+        "1965498649",
+        "1967800745",
+        "2023339323",
+        "2099905360",
+        "2109982223",
+        "2138180780",
+        "2145760549",
+        "2149970695"
+    ]
+}

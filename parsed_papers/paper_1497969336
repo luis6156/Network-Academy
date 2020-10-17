@@ -1,0 +1,47 @@
+{
+    "id": "1497969336",
+    "title": "Recovery strategies for linear replication",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ruben de Juan-Marin",
+            "id": "294250301",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Luis Irun-Briz",
+            "id": "1968476822",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Francesc D. Munoz-Escoi",
+            "id": "2089263920",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Snapshot isolation",
+        "Computer science",
+        "Distributed computing",
+        "Serializability",
+        "Parallel algorithm",
+        "Real-time computing",
+        "Atomic broadcast",
+        "Fault tolerance",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "1541259691",
+        "1545155892",
+        "1664586803",
+        "2034747525",
+        "2112187863",
+        "2117917070",
+        "2122533354",
+        "2127953641",
+        "2154909541",
+        "2155374901",
+        "2168346544"
+    ]
+}

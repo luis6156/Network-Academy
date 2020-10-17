@@ -1,0 +1,42 @@
+{
+    "id": "1570131853",
+    "title": "Fast Communication Mechanisms--Coupling Hardware Distributed Shared Memory and User-Level Messaging",
+    "venue": "parallel and distributed processing techniques and applications",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hermann Hellwagner",
+            "id": "44680932",
+            "org": "Lehr|Institut fur Informatik|Technischen Universitat Munchen"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Lehr|Institut fur Informatik|Technischen Universitat Munchen"
+        },
+        {
+            "name": "Markus Leberecht",
+            "id": "326409450",
+            "org": "Lehr|Institut fur Informatik|Technischen Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Context switch",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Network layer",
+        "Real-time computing",
+        "Shared disk architecture",
+        "Scalable Coherent Interface"
+    ],
+    "references": [
+        "1510543252",
+        "1808621770",
+        "2155066383"
+    ]
+}

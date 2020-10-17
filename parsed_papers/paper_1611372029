@@ -1,0 +1,87 @@
+{
+    "id": "1611372029",
+    "title": "Two-Server password-only authenticated key exchange",
+    "venue": "applied cryptography and network security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Dept. of Computer Science, University of Maryland#TAB#"
+        },
+        {
+            "name": "Philip D. MacKenzie",
+            "id": "2167787271",
+            "org": "DoCoMo USA Labs#TAB#"
+        },
+        {
+            "name": "Gelareh Taban",
+            "id": "2680462468",
+            "org": "Dept. of Electrical and Computer Engineering, University of Maryland#TAB#"
+        },
+        {
+            "name": "Virgil D. Gligor",
+            "id": "417821493",
+            "org": "Dept. of Electrical and Computer Engineering, University of Maryland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Password policy",
+        "Cognitive password",
+        "Password strength",
+        "Syskey",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Password",
+        "One-time password"
+    ],
+    "references": [
+        "152471209",
+        "203500824",
+        "206433945",
+        "1486852732",
+        "1503670812",
+        "1516161674",
+        "1523871498",
+        "1542059364",
+        "1552333418",
+        "1580900067",
+        "1595293097",
+        "1595522037",
+        "1599966639",
+        "1601218083",
+        "1602484190",
+        "1759759811",
+        "1888768993",
+        "1895302964",
+        "1991621171",
+        "1992506132",
+        "2011793105",
+        "2034641841",
+        "2035164471",
+        "2047241038",
+        "2052267638",
+        "2074861055",
+        "2083744087",
+        "2091020476",
+        "2101803085",
+        "2102632861",
+        "2108834246",
+        "2110804296",
+        "2123544182",
+        "2124926080",
+        "2133432179",
+        "2134475940",
+        "2136451687",
+        "2152688060",
+        "2156186849",
+        "2157604883",
+        "2157679418",
+        "2167006959",
+        "2170220035",
+        "2405015683"
+    ]
+}

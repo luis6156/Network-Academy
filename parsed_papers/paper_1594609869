@@ -1,0 +1,52 @@
+{
+    "id": "1594609869",
+    "title": "Evaluating Two Loop Transformations for Reducing Multiple Writer False Sharing",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Francois Bodin",
+            "id": "2307936961",
+            "org": "IRISA"
+        },
+        {
+            "name": "Elana D. Granston",
+            "id": "2661631929",
+            "org": "Rice University"
+        },
+        {
+            "name": "Thierry Montaut",
+            "id": "2273850893",
+            "org": "IRISA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Address space",
+        "Computer science",
+        "Compiler",
+        "Distributed computing",
+        "False sharing",
+        "Virtual memory",
+        "Distributed shared memory",
+        "Support vector machine",
+        "Real-time computing",
+        "Fortran",
+        "Page fault"
+    ],
+    "references": [
+        "114707664",
+        "1510356447",
+        "1536760432",
+        "1542985837",
+        "1564462959",
+        "1769402780",
+        "2001880793",
+        "2029764709",
+        "2070922326",
+        "2077960035",
+        "2085757544",
+        "2119609467",
+        "2128317922"
+    ]
+}

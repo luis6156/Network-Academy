@@ -1,0 +1,56 @@
+{
+    "id": "1527032490",
+    "title": "Formal Techniques for Java-like Programs",
+    "venue": "european conference on object-oriented programming",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Davide Ancona",
+            "id": "2097229627",
+            "org": "No Affiliation"
+        },
+        {
+            "name": "Sophia Drossopoulou",
+            "id": "152419205",
+            "org": "No Affiliation"
+        },
+        {
+            "name": "Atsushi Igarashi",
+            "id": "2097080023",
+            "org": "No Affiliation"
+        },
+        {
+            "name": "Gary T. Leavens",
+            "id": "2308881956",
+            "org": "No Affiliation"
+        },
+        {
+            "name": "Arnd Poetzsch-Heffter",
+            "id": "2343845410",
+            "org": "No Affiliation"
+        },
+        {
+            "name": "Elena Zucca",
+            "id": "2442926778",
+            "org": "No Affiliation"
+        }
+    ],
+    "fields_of_study": [
+        "Type safety",
+        "Specification language",
+        "Abstract state machines",
+        "Java",
+        "Software development",
+        "Program analysis",
+        "Type constructor",
+        "Computer science",
+        "Formal methods",
+        "Programming language"
+    ],
+    "references": [
+        "1546460551",
+        "2135785452",
+        "2159484187",
+        "2732199723"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1490489754",
+    "title": "Using inference to reduce arc consistency computation",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Christian Bessiere",
+            "id": "2168734674",
+            "org": "LIRMM, Montpellier cedex 5, France#TAB#"
+        },
+        {
+            "name": "Eugene C. Freuder",
+            "id": "1993946344",
+            "org": "University of New Hampshire, Durham, NH#TAB#"
+        },
+        {
+            "name": "Jean-Charles Regin",
+            "id": "2639779594",
+            "org": "CNRS, LIRMM, Montpellier cedex 5, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Mathematics",
+        "Constraint satisfaction problem",
+        "Discrete mathematics",
+        "Consistency model",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Local consistency",
+        "AC-3 algorithm",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "191924552",
+        "1541781200",
+        "2002847164",
+        "2072755230",
+        "2135432705",
+        "2167359257",
+        "2178160012"
+    ]
+}

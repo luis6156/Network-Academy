@@ -1,0 +1,41 @@
+{
+    "id": "1518329611",
+    "title": "Exploiting Contextual Information for Speech/Non-Speech Detection",
+    "venue": "text speech and dialogue",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sree Hari Krishnan Parthasarathi",
+            "id": "2103974994",
+            "org": "IDIAP Research Institute, Martigny Swiss Federal Institute of Technology at Lausanne (EPFL), Switzerland#TAB#"
+        },
+        {
+            "name": "Petr Motlicek",
+            "id": "188602560",
+            "org": "IDIAP Research Institute, Martigny Swiss Federal Institute of Technology at Lausanne (EPFL), Switzerland#TAB#"
+        },
+        {
+            "name": "Hynek Hermansky",
+            "id": "316105680",
+            "org": "IDIAP Research Institute, Martigny Swiss Federal Institute of Technology at Lausanne (EPFL), Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multilayer perceptron",
+        "Test data",
+        "Perceptron",
+        "Computer science",
+        "Absolute gain",
+        "Voice activity detection",
+        "Temporal context",
+        "Speech recognition"
+    ],
+    "references": [
+        "190289757",
+        "1509663858",
+        "2080619776",
+        "2104835909",
+        "2130426352",
+        "2137075158"
+    ]
+}

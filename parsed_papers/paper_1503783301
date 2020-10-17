@@ -1,0 +1,53 @@
+{
+    "id": "1503783301",
+    "title": "An Evolutionary Approach to Automatic Generation of VHDL Code for Low-Power Digital Filters",
+    "venue": "european conference on genetic programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Massimiliano Erba",
+            "id": "2139430405",
+            "org": "Universita degli Studi di Pavia"
+        },
+        {
+            "name": "Roberto Rossi",
+            "id": "2494939782",
+            "org": "Universita degli Studi di Pavia"
+        },
+        {
+            "name": "Valentino Liberali",
+            "id": "2015802754",
+            "org": "Universita degli Studi di Milano"
+        },
+        {
+            "name": "Andrea G. B. Tettamanzi",
+            "id": "97377755",
+            "org": "Universita degli Studi di Milano"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Control engineering",
+        "Impulse response",
+        "Theoretical computer science",
+        "VHDL",
+        "Computer science",
+        "Digital filter",
+        "Fitness function",
+        "Finite impulse response",
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Adaptive filter"
+    ],
+    "references": [
+        "1559956479",
+        "1576818901",
+        "1607038717",
+        "1775913388",
+        "2041757279",
+        "2079170559",
+        "2108548117",
+        "2149362532",
+        "2160146048"
+    ]
+}

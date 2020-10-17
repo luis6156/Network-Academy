@@ -1,0 +1,42 @@
+{
+    "id": "1527342679",
+    "title": "Tissue classification of noisy MR brain images using constrained GMM",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Amit Ruf",
+            "id": "2711262257",
+            "org": "Department of Biomedical Engineering, Tel-Aviv University, Israel#TAB#"
+        },
+        {
+            "name": "Hayit Greenspan",
+            "id": "2005450025",
+            "org": "Department of Biomedical Engineering, Tel-Aviv University, Israel#TAB#"
+        },
+        {
+            "name": "Jacob Goldberger",
+            "id": "2023985210",
+            "org": "School of Engineering, Bar-Ilan University, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Maximum likelihood",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Expectation-maximization algorithm",
+        "Voxel",
+        "Gaussian",
+        "Initialization",
+        "Mixture model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1508889050",
+        "1600458598",
+        "2130686832",
+        "2131036905",
+        "2136573752"
+    ]
+}

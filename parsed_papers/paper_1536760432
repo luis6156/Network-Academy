@@ -1,0 +1,39 @@
+{
+    "id": "1536760432",
+    "title": "Toward a Compile-Time Methodology for Reducing False Sharing and Communication Traffic in Shared Virtual Memory Systems",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Elana D. Granston",
+            "id": "2683275645",
+            "org": "Leiden University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "False sharing",
+        "Uniform memory access",
+        "Memory management",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Real-time computing",
+        "Virtual memory"
+    ],
+    "references": [
+        "1499545882",
+        "1510356447",
+        "1597212252",
+        "1977214734",
+        "2029764709",
+        "2035794753",
+        "2077960035",
+        "2119609467",
+        "2128317922",
+        "2133373086"
+    ]
+}

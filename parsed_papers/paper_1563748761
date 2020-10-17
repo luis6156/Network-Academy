@@ -1,0 +1,48 @@
+{
+    "id": "1563748761",
+    "title": "SIMD Vectorization of Straight Line FFT Code",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stefan Kral",
+            "id": "2129748880",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Franz Franchetti",
+            "id": "131649368",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Juergen Lorenz",
+            "id": "2153120343",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Christoph W. Ueberhuber",
+            "id": "1984981406",
+            "org": "Vienna University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "SIMD",
+        "Instruction scheduling",
+        "Parallel computing",
+        "Computer architecture",
+        "Microprocessor",
+        "Compiler",
+        "Computer science",
+        "Data parallelism",
+        "Scheduling (computing)",
+        "Register allocation",
+        "Fast Fourier transform"
+    ],
+    "references": [
+        "2096070062",
+        "2114067856",
+        "2140080674",
+        "2147423491",
+        "2164197394"
+    ]
+}

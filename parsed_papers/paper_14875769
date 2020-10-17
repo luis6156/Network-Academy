@@ -1,0 +1,90 @@
+{
+    "id": "14875769",
+    "title": "Less is more: trading a little bandwidth for ultra-low latency in the data center",
+    "venue": "networked systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Mohammad Alizadeh",
+            "id": "2309837544",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Abdul Kabbani",
+            "id": "2040576934",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Tom Edsall",
+            "id": "2308806257",
+            "org": "Cisco Systems#TAB#"
+        },
+        {
+            "name": "Balaji Prabhakar",
+            "id": "2108719851",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Amin Vahdat",
+            "id": "295064773",
+            "org": "Google and U.C. San Diego#TAB#"
+        },
+        {
+            "name": "Masato Yasuda",
+            "id": "2103443988",
+            "org": "NEC Corporation, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Network traffic control",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic bandwidth allocation",
+        "Latency (engineering)",
+        "Computer network",
+        "Real-time computing",
+        "Interrupt coalescing",
+        "Architecture",
+        "Bandwidth management"
+    ],
+    "references": [
+        "1572571795",
+        "1579768150",
+        "1609755472",
+        "1731982387",
+        "1965095275",
+        "2001037010",
+        "2003597767",
+        "2023140037",
+        "2041406071",
+        "2057728993",
+        "2067348620",
+        "2071314114",
+        "2073410927",
+        "2073440460",
+        "2096812769",
+        "2098450166",
+        "2098506891",
+        "2101349595",
+        "2103701891",
+        "2112495447",
+        "2118414100",
+        "2123205020",
+        "2124198909",
+        "2130531694",
+        "2133581580",
+        "2134172439",
+        "2145393623",
+        "2145942024",
+        "2155981613",
+        "2157614013",
+        "2158733823",
+        "2163038493",
+        "2164740236",
+        "2171872428",
+        "2176566884",
+        "2613694343",
+        "2753542457"
+    ]
+}

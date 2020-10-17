@@ -1,0 +1,48 @@
+{
+    "id": "1578512165",
+    "title": "The Star Schema Benchmark and Augmented Fact Table Indexing",
+    "venue": "Performance Evaluation and Benchmarking",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Patrick E. O'Neil",
+            "id": "2136822424",
+            "org": "University of Massachusetts at Boston, Boston, USA 02125-3393#TAB#"
+        },
+        {
+            "name": "Elizabeth J. O'Neil",
+            "id": "2154033516",
+            "org": "University of Massachusetts at Boston, Boston, USA 02125-3393#TAB#"
+        },
+        {
+            "name": "Xuedong Chen",
+            "id": "2283538061",
+            "org": "University of Massachusetts at Boston, Boston, USA 02125-3393#TAB#"
+        },
+        {
+            "name": "Stephen Revilak",
+            "id": "2303247494",
+            "org": "University of Massachusetts at Boston, Boston, USA 02125-3393#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Row",
+        "Indexation",
+        "Computer science",
+        "Search engine indexing",
+        "Star schema",
+        "A* search algorithm",
+        "Cluster analysis",
+        "Fact table",
+        "Data warehouse"
+    ],
+    "references": [
+        "1586923923",
+        "1587512879",
+        "1791587242",
+        "1964691382",
+        "1996406244",
+        "2084757499"
+    ]
+}

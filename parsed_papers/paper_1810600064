@@ -1,0 +1,39 @@
+{
+    "id": "1810600064",
+    "title": "Shortest-Path Queries in Planar Graphs on GPU-Accelerated Architectures",
+    "venue": "international conference on large-scale scientific computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Guillaume Chapuis",
+            "id": "2010133721",
+            "org": "Los Alamos National Laboratory"
+        },
+        {
+            "name": "Hristo Djidjev",
+            "id": "66546813",
+            "org": "Los Alamos National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Shortest path problem",
+        "Discrete mathematics",
+        "Graph partition",
+        "Combinatorics",
+        "Planar graph",
+        "General-purpose computing on graphics processing units",
+        "Parallel algorithm",
+        "Data structure",
+        "GPU cluster",
+        "Vertex (geometry)"
+    ],
+    "references": [
+        "1551891681",
+        "1985248597",
+        "2065759448",
+        "2117758387",
+        "2120424341",
+        "2140883685"
+    ]
+}

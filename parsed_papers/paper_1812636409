@@ -1,0 +1,41 @@
+{
+    "id": "1812636409",
+    "title": "Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema",
+    "venue": "international semantic web conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jeen Broekstra",
+            "id": "2105860987",
+            "org": "Aidministrator Nederland b.v."
+        },
+        {
+            "name": "Arjohn Kampman",
+            "id": "2102335513",
+            "org": "Aidministrator Nederland b.v."
+        },
+        {
+            "name": "Frank van Harmelen",
+            "id": "333553561",
+            "org": "Vrije Universiteit"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "RDF/XML",
+        "RDF query language",
+        "Database",
+        "RDF Schema",
+        "SPARQL",
+        "Cwm",
+        "Simple Knowledge Organization System",
+        "Information retrieval",
+        "RDF",
+        "Blank node"
+    ],
+    "references": [
+        "1995213245",
+        "2075351444",
+        "2123975697"
+    ]
+}

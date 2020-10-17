@@ -1,0 +1,42 @@
+{
+    "id": "1516292169",
+    "title": "Issues of the Automatic Generation of HPF Loop Programs",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Peter Faber",
+            "id": "2601731012",
+            "org": "Universitat Passau"
+        },
+        {
+            "name": "Martin Griebl",
+            "id": "19254038",
+            "org": "Universitat Passau"
+        },
+        {
+            "name": "Christian Lengauer",
+            "id": "2083084814",
+            "org": "Universitat Passau"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Code generation",
+        "Fortran",
+        "Automatic parallelization",
+        "Polyhedron model"
+    ],
+    "references": [
+        "1504751168",
+        "1515448847",
+        "1581546239",
+        "1998857607",
+        "2032391783",
+        "2077805988",
+        "2099758780"
+    ]
+}

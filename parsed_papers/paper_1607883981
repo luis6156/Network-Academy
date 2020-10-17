@@ -1,0 +1,56 @@
+{
+    "id": "1607883981",
+    "title": "Two-dimensional block partitionings for the parallel sparse Cholesky factorization",
+    "venue": "Numerical Algorithms",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Bogdan Dumitrescu",
+            "id": "2112464018",
+            "org": "Department of Automatic Control and Computers, Politehnica University of Bucharest, Bucharest, Romania"
+        },
+        {
+            "name": "Mathias Doreille",
+            "id": "2173689822",
+            "org": "IMAG-LMC, Grenoble Cedex, France"
+        },
+        {
+            "name": "Jean-Louis Roch",
+            "id": "2778472547",
+            "org": "IMAG-LMC, Grenoble Cedex, France"
+        },
+        {
+            "name": "Denis Trystram",
+            "id": "1997557714",
+            "org": "IMAG-LMC, Grenoble Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Cholesky decomposition",
+        "Theoretical computer science",
+        "MIMD",
+        "Grid",
+        "Incomplete Cholesky factorization",
+        "Distributed memory",
+        "Parallel algorithm",
+        "Mathematical optimization",
+        "Minimum degree algorithm"
+    ],
+    "references": [
+        "1992935334",
+        "1993274656",
+        "1996471375",
+        "1998276913",
+        "2002257715",
+        "2014730252",
+        "2025695688",
+        "2026139385",
+        "2043616552",
+        "2045325210",
+        "2065166766",
+        "2094542090",
+        "2123291824",
+        "2127144731"
+    ]
+}

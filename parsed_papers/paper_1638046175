@@ -1,0 +1,69 @@
+{
+    "id": "1638046175",
+    "title": "Your computer is already a distributed system. why isn't your OS?",
+    "venue": "workshop on hot topics in operating systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Andrew Baumann",
+            "id": "2150586784",
+            "org": "Systems Group, Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Simon Peter",
+            "id": "2154122045",
+            "org": "Systems Group, Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Adrian Schupbach",
+            "id": "2055228407",
+            "org": "Systems Group, Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Akhilesh Singhania",
+            "id": "2123743220",
+            "org": "Systems Group, Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Timothy Roscoe",
+            "id": "1981466420",
+            "org": "Systems Group, Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Paul Barham",
+            "id": "2296249340",
+            "org": "Microsoft Research, Cambridge#TAB#"
+        },
+        {
+            "name": "Rebecca Isaacs",
+            "id": "2118758609",
+            "org": "Microsoft Research, Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Cache coherence",
+        "Latency (engineering)",
+        "Exploit",
+        "Architecture"
+    ],
+    "references": [
+        "190062532",
+        "1518919505",
+        "1557386661",
+        "1973960860",
+        "2001738739",
+        "2004937484",
+        "2006816934",
+        "2031491316",
+        "2071515131",
+        "2088723365",
+        "2100817684",
+        "2127784167",
+        "2138180780",
+        "2144807611",
+        "2153950928"
+    ]
+}

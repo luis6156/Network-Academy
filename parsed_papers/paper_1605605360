@@ -1,0 +1,33 @@
+{
+    "id": "1605605360",
+    "title": "A Secure Medium Access Control Protocol: Security vs Performances",
+    "venue": "european symposium on research in computer security",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Pierre Siron",
+            "id": "686166469",
+            "org": "CERT-ONERA Departement d'Etudes et de Recherches en Informatique"
+        },
+        {
+            "name": "Bruno d'Ausbourg",
+            "id": "116616757",
+            "org": "CERT-ONERA Departement d'Etudes et de Recherches en Informatique"
+        }
+    ],
+    "fields_of_study": [
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Computer network",
+        "Multilevel security",
+        "Architecture",
+        "Covert channel"
+    ],
+    "references": [
+        "1517477525",
+        "1547030198",
+        "1571216376",
+        "2753542457"
+    ]
+}

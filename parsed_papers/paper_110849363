@@ -1,0 +1,35 @@
+{
+    "id": "110849363",
+    "title": "Multiple forgery attacks against Message Authentication Codes.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David A. McGrew",
+            "id": "425109773",
+            "org": "Cisco Systems"
+        },
+        {
+            "name": "Scott R. Fluhrer",
+            "id": "305559842",
+            "org": "Cisco Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Hash-based message authentication code",
+        "Block cipher mode of operation",
+        "Universal hashing",
+        "Computer science",
+        "Computer security",
+        "CBC-MAC",
+        "Galois/Counter Mode",
+        "Message authentication code",
+        "Data Authentication Algorithm"
+    ],
+    "references": [
+        "1484640685",
+        "2112006428",
+        "2125591151"
+    ]
+}

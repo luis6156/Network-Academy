@@ -1,0 +1,42 @@
+{
+    "id": "1598877338",
+    "title": "Implementing Multithreaded Protocols for Release Consistency on Top of the Generic DSM-PM Platform",
+    "venue": "IWCC '01 Proceedings of the NATO Advanced Research Workshop on Advanced Environments, Tools, and Applications for Cluster Computing-Revised Papers",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Gabriel Antoniu",
+            "id": "14287156",
+            "org": "LIP, ENS Lyon"
+        },
+        {
+            "name": "Luc Bouge",
+            "id": "2610466900",
+            "org": "LIP, ENS Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Critical section",
+        "Release consistency",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Cache coherence",
+        "Distributed shared memory",
+        "Runtime system",
+        "Consistency model",
+        "Page fault"
+    ],
+    "references": [
+        "1521734293",
+        "1596975177",
+        "1598240236",
+        "1964092730",
+        "1982881898",
+        "2023186718",
+        "2044902313",
+        "2145021036",
+        "2148560604"
+    ]
+}

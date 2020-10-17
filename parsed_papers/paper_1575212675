@@ -1,0 +1,52 @@
+{
+    "id": "1575212675",
+    "title": "Verifying deadlock-freedom of communication fabrics",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Alexander Gotmanov",
+            "id": "319912791",
+            "org": "Intel Corporation, Moscow, Russia#TAB#"
+        },
+        {
+            "name": "Satrajit Chatterjee",
+            "id": "2148584339",
+            "org": "Intel Corporation, Hillsboro, Oregon#TAB#"
+        },
+        {
+            "name": "Michael Kishinevsky",
+            "id": "2008844840",
+            "org": "Intel Corporation, Hillsboro, Oregon#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Boolean algebra",
+        "Distributed computing",
+        "Liveness",
+        "Computer science",
+        "Queue",
+        "Microarchitecture",
+        "Mathematical proof",
+        "Network on a chip",
+        "Deadlock"
+    ],
+    "references": [
+        "1542895703",
+        "1544543122",
+        "1591313063",
+        "1820612096",
+        "1971042690",
+        "1980451599",
+        "2034592364",
+        "2081911632",
+        "2124552466",
+        "2124945255",
+        "2141772875",
+        "2147348835",
+        "2160344873",
+        "2161380643"
+    ]
+}

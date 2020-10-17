@@ -1,0 +1,58 @@
+{
+    "id": "1565378820",
+    "title": "Virtualization aware file systems: getting beyond the limitations of virtual disks",
+    "venue": "networked systems design and implementation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ben Pfaff",
+            "id": "2122690630",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Tal Garfinkel",
+            "id": "1590983864",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Mendel Rosenblum",
+            "id": "2102969555",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Virtualization",
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Rollback",
+        "Virtual file system",
+        "Self-certifying File System",
+        "Virtual machine",
+        "File system",
+        "Real-time computing",
+        "Distributed File System"
+    ],
+    "references": [
+        "1485389564",
+        "1495241705",
+        "1558464214",
+        "1576397915",
+        "1641762327",
+        "1659340666",
+        "1744795482",
+        "1946211190",
+        "1987108387",
+        "1997269120",
+        "2023149034",
+        "2079045792",
+        "2097829252",
+        "2100100130",
+        "2113201593",
+        "2124074197",
+        "2127766933",
+        "2131746365",
+        "2151847079",
+        "2166667085"
+    ]
+}

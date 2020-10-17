@@ -1,0 +1,54 @@
+{
+    "id": "1503181547",
+    "title": "High-Speed Pseudorandom Number Generation with Small Memory",
+    "venue": "fast software encryption",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "William Aiello",
+            "id": "1971187209",
+            "org": "ATT Labs -- Research"
+        },
+        {
+            "name": "Sivaramakrishnan Rajagopalan",
+            "id": "2284609316",
+            "org": "Telcordia Technologies"
+        },
+        {
+            "name": "Ramarathnam Venkatesan",
+            "id": "2126319880",
+            "org": "Microsoft Research, One Microsoft Way"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom number generator",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Pseudorandomness",
+        "Pseudorandom permutation",
+        "SWIFFT",
+        "Random seed",
+        "Pseudorandom generator theorem",
+        "Pseudorandom generator"
+    ],
+    "references": [
+        "1519080809",
+        "1552402248",
+        "1588297800",
+        "1631603072",
+        "1636750413",
+        "1909955916",
+        "1961257075",
+        "2015826302",
+        "2026522166",
+        "2048958388",
+        "2099785391",
+        "2131300413",
+        "2138109426",
+        "2144560442",
+        "2148555789",
+        "2164284862",
+        "2172433705"
+    ]
+}

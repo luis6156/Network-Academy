@@ -1,0 +1,47 @@
+{
+    "id": "112196779",
+    "title": "Scarab: a rapid prototyping tool for SAT-based constraint programming systems",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Takehide Soh",
+            "id": "2153184750",
+            "org": "Kobe University, Kobe, Hyogo, Japan#TAB#"
+        },
+        {
+            "name": "Naoyuki Tamura",
+            "id": "2004240429",
+            "org": "Kobe University, Kobe, Hyogo, Japan#TAB#"
+        },
+        {
+            "name": "Mutsunori Banbara",
+            "id": "99608674",
+            "org": "Kobe University, Kobe, Hyogo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction problem",
+        "Theoretical computer science",
+        "Computer science",
+        "Encoder",
+        "Constraint programming",
+        "Scala",
+        "Programmer",
+        "Rapid prototyping",
+        "Boolean data type",
+        "Modeling language"
+    ],
+    "references": [
+        "5815757",
+        "47957325",
+        "1538681263",
+        "1542386705",
+        "1550483759",
+        "1554965393",
+        "1586677474",
+        "1604110421",
+        "1986964870",
+        "2164279585"
+    ]
+}

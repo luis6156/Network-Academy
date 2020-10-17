@@ -1,0 +1,69 @@
+{
+    "id": "1597879689",
+    "title": "Automatic cardiac MRI segmentation using a biventricular deformable medial model",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hui Sun",
+            "id": "2695660571",
+            "org": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia#TAB#"
+        },
+        {
+            "name": "Alejandro F. Frangi",
+            "id": "2147779349",
+            "org": "Center for Computational Imaging & Simulation Technologies in Biomedicine, Universitat Pompeu Fabra, Barcelona, Spain and Centro de Investigacion Biomedica en Red en Bioingenier&#237 ...#TAB#"
+        },
+        {
+            "name": "Hongzhi Wang",
+            "id": "2590792114",
+            "org": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia#TAB#"
+        },
+        {
+            "name": "Federico M. Sukno",
+            "id": "2302846526",
+            "org": "Center for Computational Imaging & Simulation Technologies in Biomedicine, Universitat Pompeu Fabra, Barcelona, Spain and Centro de Investigacion Biomedica en Red en Bioingenier&#237 ...#TAB#"
+        },
+        {
+            "name": "Catalina Tobon-Gomez",
+            "id": "2190510966",
+            "org": "Center for Computational Imaging & Simulation Technologies in Biomedicine, Universitat Pompeu Fabra, Barcelona, Spain and Centro de Investigacion Biomedica en Red en Bioingenier&#237 ...#TAB#"
+        },
+        {
+            "name": "Paul A. Yushkevich",
+            "id": "272559230",
+            "org": "Penn Image Computing and Science Laboratory, Department of Radiology, University of Pennsylvania, Philadelphia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active appearance model",
+        "Segmentation",
+        "Computer vision",
+        "Active shape model",
+        "Pattern recognition",
+        "Computer science",
+        "Local search (optimization)",
+        "Markov chain",
+        "Left and right",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1589124700",
+        "1604605276",
+        "1605601497",
+        "1973165631",
+        "1988790447",
+        "2032051785",
+        "2038952578",
+        "2042084395",
+        "2045784023",
+        "2077246452",
+        "2113521994",
+        "2130531442",
+        "2134053173",
+        "2135981539",
+        "2136312257",
+        "2160165970"
+    ]
+}

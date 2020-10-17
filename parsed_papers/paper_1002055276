@@ -1,0 +1,86 @@
+{
+    "id": "1002055276",
+    "title": "The CASE histogram: privacy-aware processing of trajectory data using aggregates",
+    "venue": "Geoinformatica",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Maryam Fanaeepour",
+            "id": "266336517",
+            "org": "Department of Computing and Information Systems, University of Melbourne, Parkville, Australia 3010 and National ICT Australia (NICTA), Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Lars Kulik",
+            "id": "1899350157",
+            "org": "Department of Computing and Information Systems, University of Melbourne, Parkville, Australia 3010 and National ICT Australia (NICTA), Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Egemen Tanin",
+            "id": "66485931",
+            "org": "Department of Computing and Information Systems, University of Melbourne, Parkville, Australia 3010 and National ICT Australia (NICTA), Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Benjamin I. P. Rubinstein",
+            "id": "617941202",
+            "org": "Department of Computing and Information Systems, University of Melbourne, Parkville, Australia 3010#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Counting problem",
+        "Computer science",
+        "Data mining",
+        "Analytics",
+        "Differential privacy",
+        "Histogram",
+        "Spatial analysis",
+        "Trajectory",
+        "Range query (data structures)",
+        "Aggregate data"
+    ],
+    "references": [
+        "79497337",
+        "126996204",
+        "131411882",
+        "1479871334",
+        "1499328747",
+        "1502953220",
+        "1508454112",
+        "1520033739",
+        "1546365363",
+        "1601418983",
+        "1646008930",
+        "1655958391",
+        "1873763122",
+        "1949832274",
+        "1978945372",
+        "1994292329",
+        "1997458143",
+        "1997954441",
+        "2007965640",
+        "2012580531",
+        "2019451904",
+        "2019972606",
+        "2023578311",
+        "2025531600",
+        "2031674781",
+        "2035311901",
+        "2073731237",
+        "2080206036",
+        "2080393976",
+        "2089381274",
+        "2109426455",
+        "2112128729",
+        "2115760869",
+        "2116347193",
+        "2117010345",
+        "2123733729",
+        "2126818112",
+        "2127628926",
+        "2137816999",
+        "2141854027",
+        "2159024459",
+        "2172041433",
+        "2248271641",
+        "2294763053"
+    ]
+}

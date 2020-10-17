@@ -1,0 +1,46 @@
+{
+    "id": "1740712605",
+    "title": "TCP and UDP processing requirements for network interface design at 100 Gbps",
+    "venue": "international conference on ultra modern telecommunications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mohamed Elbeshti",
+            "id": "2034763220",
+            "org": "School of IT. Murdoch University, Perth, WA., Australia 6150"
+        },
+        {
+            "name": "Michael Dixon",
+            "id": "2104656115",
+            "org": "School of IT. Murdoch University, Perth, WA., Australia 6150"
+        },
+        {
+            "name": "Terry Koziniec",
+            "id": "2065753559",
+            "org": "School of IT. Murdoch University, Perth, WA., Australia 6150"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Internet Protocol",
+        "Local area network",
+        "TCP offload engine",
+        "Computer science",
+        "Network interface",
+        "Reduced instruction set computing",
+        "Real-time computing",
+        "Ethernet",
+        "Computer network",
+        "Gigabit"
+    ],
+    "references": [
+        "154335262",
+        "1514491576",
+        "1623805093",
+        "1973846251",
+        "2042027091",
+        "2127917167",
+        "2144408689",
+        "2622748762"
+    ]
+}

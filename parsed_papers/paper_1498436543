@@ -1,0 +1,43 @@
+{
+    "id": "1498436543",
+    "title": "Using selective acknowledgements to reduce the memory footprint of replicated services",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Roy Friedman",
+            "id": "2158327636",
+            "org": "Computer Science Department, Technion - Israel Institute of Technology, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Erez Hadad",
+            "id": "2310280705",
+            "org": "IBM Haifa Research Labs, Haifa University, Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Memory footprint",
+        "Sack",
+        "Computer science",
+        "Distributed computing",
+        "The Internet",
+        "CPU cache",
+        "Remote procedure call"
+    ],
+    "references": [
+        "95872656",
+        "177943921",
+        "1589122423",
+        "2033175455",
+        "2075854425",
+        "2102296573",
+        "2111723824",
+        "2122238154",
+        "2131929623",
+        "2133135944",
+        "2141381176",
+        "2155463028",
+        "2160307081",
+        "2166928138"
+    ]
+}

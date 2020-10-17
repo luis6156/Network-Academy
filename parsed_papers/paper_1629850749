@@ -1,0 +1,48 @@
+{
+    "id": "1629850749",
+    "title": "Power Analysis of FPGAs: How Practical Is the Attack?",
+    "venue": "field-programmable logic and applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Loic van Oldeneel tot Oldenzeel",
+            "id": "2028284665",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "David Samyde",
+            "id": "2708458472",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Universite Catholique de Louvain"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Secure transmission",
+        "Side channel attack",
+        "Computer science",
+        "Encryption",
+        "Information technology",
+        "Power analysis",
+        "Cryptosystem",
+        "Real-time computing"
+    ],
+    "references": [
+        "1664808737",
+        "1724890242",
+        "1996360405",
+        "2105114022",
+        "2117420234",
+        "2154909745"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "1566252749",
+    "title": "X-FCSR: a new software oriented stream cipher based upon FCSRs",
+    "venue": "international conference on progress in cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Francois Arnault",
+            "id": "2096920769",
+            "org": "XLIM, UMR CNRS, Universite de Limoges, Limoges Cedex, France#TAB#"
+        },
+        {
+            "name": "Thierry P. Berger",
+            "id": "2230282940",
+            "org": "XLIM, UMR CNRS, Universite de Limoges, Limoges Cedex, France#TAB#"
+        },
+        {
+            "name": "Cedric Lauradoux",
+            "id": "2222034797",
+            "org": "INRIA, Le Chesnay Cedex, France#TAB#"
+        },
+        {
+            "name": "Marine Minier",
+            "id": "2170245978",
+            "org": "INSA de Lyon - Laboratoire CITI, Villeurbanne Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software design",
+        "Byte",
+        "Parallel computing",
+        "Throughput",
+        "Theoretical computer science",
+        "Software",
+        "Computer science",
+        "Cryptanalysis",
+        "Stream cipher",
+        "Feedback with Carry Shift Registers"
+    ],
+    "references": [
+        "1699105",
+        "122104886",
+        "166836854",
+        "1484219147",
+        "1546392762",
+        "1573567540",
+        "1584542188",
+        "1595368350",
+        "1596744447",
+        "1598002630",
+        "1599058895",
+        "1661175875",
+        "1883830449",
+        "2101613390",
+        "2132247054",
+        "2161517294",
+        "2163925910",
+        "2610935322"
+    ]
+}

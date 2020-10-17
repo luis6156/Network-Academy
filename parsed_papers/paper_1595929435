@@ -1,0 +1,51 @@
+{
+    "id": "1595929435",
+    "title": "Integrated runtime measurement summarisation and selective event tracing for scalable parallel execution performance diagnosis",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Brian J. N. Wylie",
+            "id": "2675025197",
+            "org": "John von Neumann Institute for Computing, Forschungszentrum Julich, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "John von Neumann Institute for Computing, Forschungszentrum Julich, Julich, Germany and Dept. Computer Science, RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "John von Neumann Institute for Computing, Forschungszentrum Julich, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Markus Geimer",
+            "id": "2129830298",
+            "org": "John von Neumann Institute for Computing, Forschungszentrum Julich, Julich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Partitioned global address space",
+        "Parallel computing",
+        "Computer science",
+        "Tracing",
+        "Instrumentation"
+    ],
+    "references": [
+        "1507544966",
+        "1552339343",
+        "1555873941",
+        "1566403276",
+        "1595501290",
+        "1969215126",
+        "1971952282",
+        "2033848632",
+        "2112858958",
+        "2114525093",
+        "2121694085",
+        "2129317091",
+        "2136434791"
+    ]
+}

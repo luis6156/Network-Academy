@@ -1,0 +1,79 @@
+{
+    "id": "1572954901",
+    "title": "Constructions of certificate-based signature secure against key replacement attacks",
+    "venue": "Journal of Computer Security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jiguo Li",
+            "id": "2134068307",
+            "org": "(Correspd. Tel.: +86 2583787590; Fax: +86 2583787793; E-mail: [email protected]) College of Computer and Information Engineering, Hohai University, Nanjing, 210098, P. R. China. E-mail: [email protected] ...#TAB#"
+        },
+        {
+            "name": "Xinyi Huang",
+            "id": "2100338126",
+            "org": "Centre for Computer and Information Security Research, School of Computer Science and Software Engineering, University of Wollongong, Australia. E-mails: {xh068, ymu, wsusilo}@uow.edu.au#TAB#"
+        },
+        {
+            "name": "Yi Mu",
+            "id": "2050318273",
+            "org": "Centre for Computer and Information Security Research, School of Computer Science and Software Engineering, University of Wollongong, Australia. E-mails: {xh068, ymu, wsusilo}@uow.edu.au#TAB#"
+        },
+        {
+            "name": "Willy Susilo",
+            "id": "2114127059",
+            "org": "Centre for Computer and Information Security Research, School of Computer Science and Software Engineering, University of Wollongong, Australia. E-mails: {xh068, ymu, wsusilo}@uow.edu.au#TAB#"
+        },
+        {
+            "name": "Qianhong Wu",
+            "id": "2168981420",
+            "org": "School of Computer Science and Technology, Wuhan University, Wuhan, 430072, P. R. China. E-mail: qhwu@xidian.edu.cn and Department of Computer Engineering and Mathematics, University Rovira i Virg ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Implicit certificate",
+        "Self-signed certificate",
+        "Theoretical computer science",
+        "Root certificate",
+        "Certificate authority",
+        "Computer science",
+        "Distributed computing",
+        "Public key certificate",
+        "X.509",
+        "Schnorr signature",
+        "Online Certificate Status Protocol"
+    ],
+    "references": [
+        "175174171",
+        "1481735483",
+        "1497626621",
+        "1505884345",
+        "1508632300",
+        "1514982017",
+        "1537884477",
+        "1542057243",
+        "1547928704",
+        "1556480499",
+        "1559628144",
+        "1563032947",
+        "1568486000",
+        "1569083856",
+        "1587391206",
+        "1590902397",
+        "1591524234",
+        "1592092778",
+        "1597702549",
+        "1959942577",
+        "2086042811",
+        "2111712517",
+        "2113686079",
+        "2118876714",
+        "2120283530",
+        "2130399984",
+        "2136039867",
+        "2141375261",
+        "2160878415",
+        "2168571148",
+        "2611874568"
+    ]
+}

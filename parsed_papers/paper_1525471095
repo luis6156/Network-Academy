@@ -1,0 +1,56 @@
+{
+    "id": "1525471095",
+    "title": "Calculating genomic distances in parallel using OpenMP",
+    "venue": "Transactions on Computational Systems Biology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Vijaya Smitha Kolli",
+            "id": "2574040426",
+            "org": "Department of Computer Science, Georgia State University, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Hui Liu",
+            "id": "2304217163",
+            "org": "Department of Computer Science, Georgia State University, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Jieyue He",
+            "id": "2154845708",
+            "org": "Department of Computer Science, Georgia State University, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Michelle Hong Pan",
+            "id": "2307275443",
+            "org": "Centers for Disease Control and Prevention, Office of Workforce and Career Development, Career Development Division, Public Health Informatics Fellow Program, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Yi Pan",
+            "id": "2163480178",
+            "org": "Department of Computer Science, Georgia State University, Atlanta, GA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Algorithm",
+        "Compiler",
+        "Computer science",
+        "Approximation algorithm",
+        "Sorting",
+        "Edit distance",
+        "Permutation"
+    ],
+    "references": [
+        "1507091143",
+        "1547622250",
+        "1550917065",
+        "1965701660",
+        "1989978323",
+        "2070449673",
+        "2096466922",
+        "2102813451",
+        "2124862004"
+    ]
+}

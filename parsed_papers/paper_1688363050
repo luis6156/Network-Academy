@@ -1,0 +1,48 @@
+{
+    "id": "1688363050",
+    "title": "Yarrow-160: Notes on the Design and Analysis of the Yarrow Cryptographic Pseudorandom Number Generator",
+    "venue": "selected areas in cryptography",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Niels Ferguson",
+            "id": "2798793505",
+            "org": "Counterpane Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Block cipher",
+        "Pseudorandom number generator",
+        "Design elements and principles",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Hash function",
+        "Communication theory"
+    ],
+    "references": [
+        "1561485272",
+        "1564219727",
+        "1578184507",
+        "1607313240",
+        "1664808737",
+        "1793054443",
+        "1890449996",
+        "1977568210",
+        "2154909745",
+        "2407933944"
+    ]
+}

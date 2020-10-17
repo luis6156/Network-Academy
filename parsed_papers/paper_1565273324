@@ -1,0 +1,38 @@
+{
+    "id": "1565273324",
+    "title": "The Frequency Injection Attack on Ring-Oscillator-Based True Random Number Generators",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "A. Theodore Markettos",
+            "id": "425652306",
+            "org": "Computer Laboratory, University of Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Simon W. Moore",
+            "id": "2105532398",
+            "org": "Computer Laboratory, University of Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ring oscillator",
+        "Payment card",
+        "Computer hardware",
+        "Parallel computing",
+        "Keyspace",
+        "Microcontroller",
+        "Computer science",
+        "Lock (computer science)",
+        "Phase noise",
+        "Jitter",
+        "Random number generation",
+        "Real-time computing"
+    ],
+    "references": [
+        "204854894",
+        "2073766244",
+        "2125582658",
+        "2167352984"
+    ]
+}

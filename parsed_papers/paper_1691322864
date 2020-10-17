@@ -1,0 +1,51 @@
+{
+    "id": "1691322864",
+    "title": "Oxymoron: making fine-grained memory randomization practical by allowing code sharing",
+    "venue": "usenix security symposium",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Michael Backes",
+            "id": "2045355816",
+            "org": "Saarland University, Germany and Max-Planck-Institute for Software Systems, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Nurnberger",
+            "id": "2115849954",
+            "org": "Saarland University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Code reuse",
+        "Executable",
+        "Computer science",
+        "Computer security",
+        "Randomization",
+        "Oxymoron",
+        "Drawback"
+    ],
+    "references": [
+        "164984320",
+        "201766245",
+        "1489781149",
+        "1495630617",
+        "1593678010",
+        "1632845499",
+        "1963947298",
+        "2004877887",
+        "2009801020",
+        "2056608406",
+        "2086277109",
+        "2098010707",
+        "2109219878",
+        "2111927651",
+        "2132806808",
+        "2147625551",
+        "2154555738",
+        "2155943969",
+        "2162800072",
+        "2165134790",
+        "2168843528",
+        "2397986719"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1801417685",
+    "title": "How to Protect DES Against Exhaustive Key Search",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Joe Kilian",
+            "id": "2130358780",
+            "org": "NEC Research Institute"
+        },
+        {
+            "name": "Phillip Rogaway",
+            "id": "2106597688",
+            "org": "University of California at Davis"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Brute-force attack",
+        "Discrete mathematics",
+        "Random permutation",
+        "Bitwise operation",
+        "Linear cryptanalysis",
+        "Adversary",
+        "Key size"
+    ],
+    "references": [
+        "1482922493",
+        "1537206908",
+        "1850505544",
+        "1979802565",
+        "1991374982",
+        "2008272678",
+        "2064939672",
+        "2147436504",
+        "2159339961"
+    ]
+}

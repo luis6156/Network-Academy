@@ -1,0 +1,66 @@
+{
+    "id": "1632631493",
+    "title": "FPGA implementation of point multiplication on koblitz curves using kleinian integers",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vassil S. Dimitrov",
+            "id": "2011046490",
+            "org": "Department of Electrical and Computer Engineering, University of Calgary, Calgary, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Kimmo Jarvinen",
+            "id": "2152405023",
+            "org": "Signal Processing Laboratory, Helsinki University of Technology, Espoo, Finland#TAB#"
+        },
+        {
+            "name": "Michael J. Jacobson",
+            "id": "2108239203",
+            "org": "Department of Computer Science, University of Calgary, Calgary, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "W. F. Chan",
+            "id": "2174049136",
+            "org": "Department of Computer Science, University of Calgary, Calgary, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Zhun Huang",
+            "id": "2576405748",
+            "org": "Department of Electrical and Computer Engineering, University of Calgary, Calgary, Alberta, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Non-adjacent form",
+        "Mathematics",
+        "Conjecture",
+        "Theoretical computer science",
+        "Integer",
+        "Bit-length",
+        "Sublinear function",
+        "Multiplication algorithm",
+        "Elliptic curve",
+        "Multiplication"
+    ],
+    "references": [
+        "1487297807",
+        "1500494440",
+        "1564047975",
+        "1634503271",
+        "1889596231",
+        "2003736153",
+        "2007751412",
+        "2025568631",
+        "2042037294",
+        "2098240387",
+        "2115190247",
+        "2127789392",
+        "2136119832",
+        "2139813613",
+        "2161531038",
+        "2169155140",
+        "2172744096",
+        "2402957761",
+        "2593595080"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1598054144",
+    "title": "A local search SAT solver using an effective switching strategy and an efficient unit propagation",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Xiao Yu Li",
+            "id": "2169896274",
+            "org": "NC State Univ."
+        },
+        {
+            "name": "Matthias F. M. Stallmann",
+            "id": "2023965137",
+            "org": "NC State Univ."
+        },
+        {
+            "name": "Franc Brglez",
+            "id": "2185949847",
+            "org": "NC State Univ."
+        }
+    ],
+    "fields_of_study": [
+        "Unit propagation",
+        "Theoretical computer science",
+        "DPLL algorithm",
+        "Satisfiability",
+        "Computer science",
+        "WalkSAT",
+        "Local search (optimization)",
+        "Constraint satisfaction",
+        "Solver",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "1511155470",
+        "1543889792",
+        "1585537805",
+        "2026355757",
+        "2106264093",
+        "2106440199",
+        "2142785340",
+        "2156708389",
+        "2165372647"
+    ]
+}

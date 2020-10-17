@@ -1,0 +1,49 @@
+{
+    "id": "1492016884",
+    "title": "Robust Inter-slice Intensity Normalization Using Histogram Scale-Space Analysis",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Julien Dauguet",
+            "id": "1949695263",
+            "org": "CEA"
+        },
+        {
+            "name": "Jean-Francois Mangin",
+            "id": "2063363982",
+            "org": "Service Hospitalier Frederic Joliot, CEA, Orsay, France"
+        },
+        {
+            "name": "Thierry Delzescaux",
+            "id": "2305540445",
+            "org": "Service Hospitalier Frederic Joliot, CEA, Orsay, France"
+        },
+        {
+            "name": "Vincent Frouin",
+            "id": "254349368",
+            "org": "Service Hospitalier Frederic Joliot, CEA, Orsay, France"
+        }
+    ],
+    "fields_of_study": [
+        "Normalization (image processing)",
+        "Contiguity (probability theory)",
+        "Computer vision",
+        "Heuristics",
+        "Pattern recognition",
+        "Computer science",
+        "Scale space",
+        "Histogram matching",
+        "Histogram",
+        "Normalization (statistics)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "76787384",
+        "146270171",
+        "1711469356",
+        "1870947790",
+        "1888496801",
+        "2109863423"
+    ]
+}

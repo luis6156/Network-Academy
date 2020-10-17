@@ -1,0 +1,46 @@
+{
+    "id": "17989877",
+    "title": "Explicit Untainting to Reduce Shadow Memory Usage and Access Frequency in Taint Analysis",
+    "venue": "international conference on computational science and its applications",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Jae-Won Min",
+            "id": "2115648437",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Young-Hyun Choi",
+            "id": "2584686652",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Jung-Ho Eom",
+            "id": "2421440233",
+            "org": "Daejeon University"
+        },
+        {
+            "name": "Tai-Myoung Chung",
+            "id": "2111060561",
+            "org": "Sungkyunkwan University"
+        }
+    ],
+    "fields_of_study": [
+        "Black-box testing",
+        "Software",
+        "Source code",
+        "Computer science",
+        "Shadow memory",
+        "Real-time computing",
+        "Data-flow analysis",
+        "Exploit",
+        "Taint checking",
+        "White-box testing"
+    ],
+    "references": [
+        "17195072",
+        "2089745089",
+        "2119251836",
+        "2138788987"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1578811296",
+    "title": "On-the-fly Global Garbage Collection Based on Partly Mark-Sweep",
+    "venue": "international symposium on memory management",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Munenori Maeda",
+            "id": "2279582093",
+            "org": "Tsukuba Research Center"
+        },
+        {
+            "name": "Hiroki Konaka",
+            "id": "739754672",
+            "org": "Tsukuba Research Center"
+        },
+        {
+            "name": "Yutaka Ishikawa",
+            "id": "2251886612",
+            "org": "Tsukuba Research Center"
+        },
+        {
+            "name": "Takashi Tomokiyo",
+            "id": "1183866536",
+            "org": "Tsukuba Research Center"
+        },
+        {
+            "name": "Atsushi Hori",
+            "id": "2049159172",
+            "org": "Tsukuba Research Center"
+        },
+        {
+            "name": "Jorg Nolte",
+            "id": "2149088118",
+            "org": "Tsukuba Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Transitive closure",
+        "Parallel computing",
+        "Asynchronous communication",
+        "Computer science",
+        "Garbage collection",
+        "Distributed computing",
+        "Tracing",
+        "Message passing",
+        "Reference counting",
+        "Garbage",
+        "Real-time computing"
+    ],
+    "references": [
+        "1515007114",
+        "1526569681",
+        "1551177999",
+        "1965336482",
+        "2031707629",
+        "2112686013",
+        "2118098427"
+    ]
+}

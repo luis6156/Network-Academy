@@ -1,0 +1,66 @@
+{
+    "id": "1500790286",
+    "title": "vtkSMP: task-based parallel operators for vtk filters",
+    "venue": "eurographics workshop on parallel graphics and visualization",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Mathias Ettinger",
+            "id": "2130871062",
+            "org": "Inria, France#TAB#"
+        },
+        {
+            "name": "Francois Broquedis",
+            "id": "66313114",
+            "org": "Grenoble INP, France#TAB#"
+        },
+        {
+            "name": "Thierry Gautier",
+            "id": "2059405868",
+            "org": "Inria, France#TAB#"
+        },
+        {
+            "name": "Stephane Ploix",
+            "id": "2429656793",
+            "org": "EDF, France#TAB#"
+        },
+        {
+            "name": "Bruno Raffin",
+            "id": "140422703",
+            "org": "Inria, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Operator (computer programming)",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Memory hierarchy",
+        "Computer science",
+        "Concurrent computing",
+        "Isosurface",
+        "Plug-in",
+        "Hardware architecture",
+        "Code refactoring",
+        "Architecture"
+    ],
+    "references": [
+        "157734009",
+        "1969923711",
+        "1972090741",
+        "1983292127",
+        "2000673357",
+        "2032401773",
+        "2072725684",
+        "2083322535",
+        "2101431901",
+        "2101863832",
+        "2104861744",
+        "2113941519",
+        "2129053762",
+        "2132220514",
+        "2141672427",
+        "2144404616",
+        "2254258569",
+        "2264962371"
+    ]
+}

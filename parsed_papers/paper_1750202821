@@ -1,0 +1,44 @@
+{
+    "id": "1750202821",
+    "title": "Top-Down Parsing With Simultaneous Evaluation Of Noncircular Attribute Grammars",
+    "venue": "Fundamenta Informaticae",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Thomas Noll",
+            "id": "2176979352",
+            "org": "Lehrstuhl fur Informatik II, RWTH Aachen, Ahornstrafsse 55, D-52056 Aachen, Germany, noll@informatik.rwth-aachen.de#TAB#"
+        },
+        {
+            "name": "Heiko Vogler",
+            "id": "2263559574",
+            "org": "Abt. Theoretische Informatik, Universitat Ulm, Oberer Eselsberg, D-89069 Ulm, Germany, vogler@informatik.uni-ulm.de#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Abstract syntax tree",
+        "Tree traversal",
+        "L-attributed grammar",
+        "Attribute grammar",
+        "S-attributed grammar",
+        "Computer science",
+        "Attribute domain",
+        "Parsing",
+        "Top-down parsing"
+    ],
+    "references": [
+        "1483164218",
+        "1491178396",
+        "1580408214",
+        "1964071625",
+        "1968022708",
+        "2011998974",
+        "2014847886",
+        "2034392976",
+        "2072500626",
+        "2073788202",
+        "2079625718",
+        "2103411350"
+    ]
+}

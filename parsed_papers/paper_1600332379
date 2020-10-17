@@ -1,0 +1,53 @@
+{
+    "id": "1600332379",
+    "title": "Moving object detection in color image sequences using region-level graph labeling",
+    "venue": "international conference on image processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ronan Fablet",
+            "id": "26130675",
+            "org": "IRISA, CNRS, Rennes, France"
+        },
+        {
+            "name": "P. Bouyhemy",
+            "id": "2226809003",
+            "org": "Campus Universitaire de Beaulieu"
+        },
+        {
+            "name": "M. Gelgon",
+            "id": "2712033551",
+            "org": "Campus Universitaire de Beaulieu"
+        }
+    ],
+    "fields_of_study": [
+        "Connected-component labeling",
+        "Feature detection (computer vision)",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Region growing",
+        "Image segmentation",
+        "Scale-space segmentation",
+        "Range segmentation",
+        "Minimum spanning tree-based segmentation",
+        "Segmentation-based object categorization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1547698714",
+        "1983578033",
+        "2020999234",
+        "2037476862",
+        "2058815346",
+        "2074392786",
+        "2085669808",
+        "2086465792",
+        "2095940513",
+        "2121537089",
+        "2132623663",
+        "2141720053",
+        "2142912032",
+        "2149437667"
+    ]
+}

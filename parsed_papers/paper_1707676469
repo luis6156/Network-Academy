@@ -1,0 +1,61 @@
+{
+    "id": "1707676469",
+    "title": "A Stochastic Quasi-Newton Method for Large-Scale Optimization",
+    "venue": "Siam Journal on Optimization",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Richard H. Byrd",
+            "id": "2113812912",
+            "org": "University of Colorado Boulder"
+        },
+        {
+            "name": "Samantha Hansen",
+            "id": "2144471514",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Jorge Nocedal",
+            "id": "2070638347",
+            "org": "Industrial Engineering and Management Sciences"
+        },
+        {
+            "name": "Yoram Singer",
+            "id": "2647602479",
+            "org": "Google Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Quasi-Newton method",
+        "Pointwise",
+        "Stochastic approximation",
+        "Broyden-Fletcher-Goldfarb-Shanno algorithm",
+        "Stochastic optimization",
+        "Robustness (computer science)",
+        "Sub-sampling",
+        "Mathematical optimization",
+        "Curvature"
+    ],
+    "references": [
+        "1491622225",
+        "1598497354",
+        "1970789124",
+        "1992208280",
+        "2020107577",
+        "2039050532",
+        "2042173174",
+        "2051434435",
+        "2061570747",
+        "2080335539",
+        "2107486802",
+        "2113651538",
+        "2119939946",
+        "2137515395",
+        "2146502635",
+        "2150102617",
+        "2159930037",
+        "2164273299",
+        "2209036162"
+    ]
+}

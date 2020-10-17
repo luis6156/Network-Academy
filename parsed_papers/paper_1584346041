@@ -1,0 +1,44 @@
+{
+    "id": "1584346041",
+    "title": "Deadlock problems in a multidatabase environment",
+    "venue": "COMPCON Spring '91 Digest of Papers",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Yuri Breitbart",
+            "id": "1985207418",
+            "org": "Kentucky Univ., Lexington, KY, USA"
+        },
+        {
+            "name": "Witold Litwin",
+            "id": "1969171325",
+            "org": "Kentucky Univ., Lexington, KY, USA"
+        },
+        {
+            "name": "Avi Silberschatz",
+            "id": "2469426895",
+            "org": "Kentucky Univ., Lexington, KY, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Wait-for graph",
+        "Concurrency control",
+        "Graph",
+        "Correctness",
+        "Deadlock prevention algorithms",
+        "Deadlock"
+    ],
+    "references": [
+        "66944296",
+        "176809997",
+        "1545155892",
+        "1991199257",
+        "2009998184",
+        "2083822024",
+        "2103184997",
+        "2148199530"
+    ]
+}

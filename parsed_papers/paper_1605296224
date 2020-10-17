@@ -1,0 +1,39 @@
+{
+    "id": "1605296224",
+    "title": "A memory-efficient search strategy for multiobjective shortest path problems",
+    "venue": "KI'09 Proceedings of the 32nd annual German conference on Advances in artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "L. Mandow",
+            "id": "2479933579",
+            "org": "Dpto. Lenguajes y Ciencias de la Computacion, Universidad de Malaga, Malaga, Spain#TAB#"
+        },
+        {
+            "name": "J. L. Perez de la Cruz",
+            "id": "2479713558",
+            "org": "Dpto. Lenguajes y Ciencias de la Computacion, Universidad de Malaga, Malaga, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Search algorithm",
+        "Incremental heuristic search",
+        "Shortest path problem",
+        "Iterative deepening depth-first search",
+        "Bidirectional search",
+        "K shortest path routing",
+        "Best-first search",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1513540105",
+        "1526834678",
+        "1969483458",
+        "1993371203",
+        "2293358747"
+    ]
+}

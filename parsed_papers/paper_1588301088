@@ -1,0 +1,48 @@
+{
+    "id": "1588301088",
+    "title": "Efficient Generic Forward-Secure Signatures with an Unbounded Number Of Time Periods",
+    "venue": "international cryptology conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Tal Malkin",
+            "id": "2138775625",
+            "org": "AT&T Labs Research"
+        },
+        {
+            "name": "Daniele Micciancio",
+            "id": "83353782",
+            "org": "University of California, San Diego"
+        },
+        {
+            "name": "Sara K. Miner",
+            "id": "2092839326",
+            "org": "University of California, San Diego"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Security parameter",
+        "Discrete mathematics",
+        "Brute-force search",
+        "Bounded function",
+        "Digital signature",
+        "Hash function",
+        "Schnorr signature",
+        "Random oracle",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1498063506",
+        "1532140623",
+        "1566345534",
+        "1579435243",
+        "1911825786",
+        "1972792640",
+        "2011550196",
+        "2074594718",
+        "2117362057",
+        "2151413173",
+        "2164284862"
+    ]
+}

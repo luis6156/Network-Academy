@@ -1,0 +1,41 @@
+{
+    "id": "1564302021",
+    "title": "Experiences in Parallelizing an Existing CFD Algorithm",
+    "venue": "distributed memory computing conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Thomas Bemmerl",
+            "id": "2641942967",
+            "org": "Institut fur Informatik der TU Munchen"
+        },
+        {
+            "name": "Udo Graf",
+            "id": "2633882493",
+            "org": "Gesellschaft fur Reaktorsicherheit (GRS) Forschungsgelande"
+        },
+        {
+            "name": "Rainer Knodlseder",
+            "id": "2408287958",
+            "org": "Institut fur Informatik der TU Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computational fluid dynamics",
+        "Speedup",
+        "Algorithm",
+        "Partial differential equation",
+        "Computer science",
+        "Multiprocessing",
+        "Fluid dynamics",
+        "Distributed memory",
+        "Multiphase flow",
+        "Computer simulation"
+    ],
+    "references": [
+        "1531861293",
+        "1564371809",
+        "1813437825"
+    ]
+}

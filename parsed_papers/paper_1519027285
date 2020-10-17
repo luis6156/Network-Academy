@@ -1,0 +1,46 @@
+{
+    "id": "1519027285",
+    "title": "Omnidirectional camera model and epipolar geometry estimation by RANSAC with bucketing",
+    "venue": "scandinavian conference on image analysis",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Branislav Micusik",
+            "id": "1982545482",
+            "org": "Center for Machine Perception, Dept. of Cybernetics, Czech Technical University, Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Tomas Pajdla",
+            "id": "1996122094",
+            "org": "Center for Machine Perception, Dept. of Cybernetics, Czech Technical University, Prague, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Camera resectioning",
+        "Omnidirectional camera",
+        "RANSAC",
+        "Pinhole camera model",
+        "Mathematics",
+        "Computer vision",
+        "Pattern recognition",
+        "Camera auto-calibration",
+        "Epipolar geometry",
+        "Image formation",
+        "Distortion (optics)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1509632079",
+        "1581235021",
+        "1970606629",
+        "2011891945",
+        "2066680906",
+        "2103569660",
+        "2105060035",
+        "2124404372",
+        "2147867079",
+        "2150023056",
+        "2157876708",
+        "2160888640"
+    ]
+}

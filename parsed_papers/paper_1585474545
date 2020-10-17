@@ -1,0 +1,87 @@
+{
+    "id": "1585474545",
+    "title": "Bounded CCA2-secure encryption",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ronald Cramer",
+            "id": "2156861640",
+            "org": "Centrum voor Wiskunde en Informatica, Amsterdam and Leiden University#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "National Institute of Advanced Industrial Science and Technology, Tokyo#TAB#"
+        },
+        {
+            "name": "Dennis Hofheinz",
+            "id": "2311125173",
+            "org": "Centrum voor Wiskunde en Informatica, Amsterdam#TAB#"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "National Institute of Advanced Industrial Science and Technology, Tokyo and Chuo University#TAB#"
+        },
+        {
+            "name": "Eike Kiltz",
+            "id": "2158633350",
+            "org": "Centrum voor Wiskunde en Informatica, Amsterdam#TAB#"
+        },
+        {
+            "name": "Rafael Pass",
+            "id": "2091057165",
+            "org": "Cornell University#TAB#"
+        },
+        {
+            "name": "Abhi Shelat",
+            "id": "2162155095",
+            "org": "University of Virginia#TAB#"
+        },
+        {
+            "name": "Vinod Vaikuntanathan",
+            "id": "330291328",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Discrete mathematics",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "Disk encryption theory",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Multiple encryption"
+    ],
+    "references": [
+        "1516444320",
+        "1516512945",
+        "1541483074",
+        "1551969482",
+        "1562872124",
+        "1588312749",
+        "1589176872",
+        "1604454960",
+        "1779689106",
+        "1801447676",
+        "1864490743",
+        "1972792640",
+        "2073210531",
+        "2074594718",
+        "2097638666",
+        "2101803085",
+        "2102632861",
+        "2129956927",
+        "2157679418",
+        "2159339434",
+        "2165111290",
+        "2165195304",
+        "2585529823",
+        "2788224102"
+    ]
+}

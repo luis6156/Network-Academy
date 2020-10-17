@@ -1,0 +1,52 @@
+{
+    "id": "1600816621",
+    "title": "A flexible general-purpose parallelizing architecture for nested loops in reconfigurable platforms",
+    "venue": "power and timing modeling optimization and simulation",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ioannis Panagopoulos",
+            "id": "2574915452",
+            "org": "Dept. of Electrical and Computer Engineering, National Technical University of Athens, Zografou, Athens, Greece#TAB#"
+        },
+        {
+            "name": "Christos Pavlatos",
+            "id": "2021218738",
+            "org": "Dept. of Electrical and Computer Engineering, National Technical University of Athens, Zografou, Athens, Greece#TAB#"
+        },
+        {
+            "name": "George Manis",
+            "id": "2053426450",
+            "org": "Dept. of Computer Science, University of Ioannina, Ioannina, Giannena, Greece#TAB#"
+        },
+        {
+            "name": "George K. Papakonstantinou",
+            "id": "299079588",
+            "org": "Dept. of Electrical and Computer Engineering, National Technical University of Athens, Zografou, Athens, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Parallel computing",
+        "Computer science",
+        "Combinatorial optimization",
+        "Dynamic priority scheduling",
+        "Workload",
+        "Control reconfiguration",
+        "Application domain",
+        "Real-time computing",
+        "Architecture",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "164873639",
+        "1557555443",
+        "2048167605",
+        "2091244768",
+        "2113868971",
+        "2126753236",
+        "2131033512",
+        "2131359566",
+        "2156965212"
+    ]
+}

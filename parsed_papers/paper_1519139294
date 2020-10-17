@@ -1,0 +1,45 @@
+{
+    "id": "1519139294",
+    "title": "Hierarchical automatic differentiation by vertex elimination and source transformation",
+    "venue": "international conference on computational science and its applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mohamed Tadjouddine",
+            "id": "1826637586",
+            "org": "Applied Mathematics & Operational Research, ESD Cranfield University, Swindon, UK#TAB#"
+        },
+        {
+            "name": "Shaun A. Forth",
+            "id": "2160075811",
+            "org": "Applied Mathematics & Operational Research, ESD Cranfield University, Swindon, UK#TAB#"
+        },
+        {
+            "name": "John D. Pryce",
+            "id": "2664344299",
+            "org": "Computer Information Systems Engineering, DOIS Cranfield University, Swindon, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Automatic differentiation",
+        "Speedup",
+        "Abstract syntax tree",
+        "Computer science",
+        "Basic block",
+        "Vertex (geometry)",
+        "Subroutine",
+        "Call graph",
+        "Mathematical optimization",
+        "Source transformation"
+    ],
+    "references": [
+        "1488314083",
+        "1491178396",
+        "1554052041",
+        "1996852196",
+        "2037929850",
+        "2057377421",
+        "2130345504"
+    ]
+}

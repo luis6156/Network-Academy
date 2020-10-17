@@ -1,0 +1,61 @@
+{
+    "id": "1502062763",
+    "title": "Cryptanalysis of the Full AES Using GPU-Like Special-Purpose Hardware",
+    "venue": "Fundamenta Informaticae",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "(Correspd.) Laboratory of Algorithmics, Cryptology and Security (LACS), University of Luxembourg, 6, rue Richard Coudenhove-Kalergi, L-1359 Luxembourg, Luxembourg. alex.biryukov@uni.lu; johann.gro ...#TAB#"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "1467307631",
+            "org": "Laboratory of Algorithmics, Cryptology and Security (LACS), University of Luxembourg, 6, rue Richard Coudenhove-Kalergi, L-1359 Luxembourg, Luxembourg. alex.biryukov@uni.lu; johann.groszschaedl@un ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Computer hardware",
+        "Supercomputer",
+        "Parallel computing",
+        "Cryptanalysis",
+        "Advanced Encryption Standard",
+        "Very-large-scale integration",
+        "Computer science",
+        "Graphics processing unit",
+        "CUDA",
+        "AES implementations"
+    ],
+    "references": [
+        "85295516",
+        "1493204363",
+        "1510442823",
+        "1515958737",
+        "1518051266",
+        "1545756401",
+        "1546981154",
+        "1554865288",
+        "1556212265",
+        "1568817903",
+        "1569821321",
+        "1575164904",
+        "1581948531",
+        "1587120902",
+        "1592379185",
+        "1597699498",
+        "1742694499",
+        "2012646342",
+        "2095934050",
+        "2101984821",
+        "2103359950",
+        "2127075094",
+        "2130943734",
+        "2144007792",
+        "2159214235",
+        "2161964967",
+        "2171599245",
+        "2514781489"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1580659472",
+    "title": "A Cost Model for Spatial Intersection Queries on RI-Trees",
+    "venue": "database systems for advanced applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hans-Peter Kriegel",
+            "id": "1919135125",
+            "org": "University of Munich"
+        },
+        {
+            "name": "Martin Pfeifle",
+            "id": "2108078646",
+            "org": "University of Munich"
+        },
+        {
+            "name": "Marco Potke",
+            "id": "47138358",
+            "org": "sd&m AG software design & management"
+        },
+        {
+            "name": "Thomas Seidl",
+            "id": "2140301036",
+            "org": "RWTH Aachen University"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Interval tree",
+        "Oracle",
+        "Access method",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Database",
+        "Temporal database",
+        "Spatial database",
+        "Database server"
+    ],
+    "references": [
+        "1508632717",
+        "1994940626",
+        "2096659092",
+        "2105830880",
+        "2161879423"
+    ]
+}

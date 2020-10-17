@@ -1,0 +1,81 @@
+{
+    "id": "1466072757",
+    "title": "SmartCon: SmartCon: Smart Context Switching for Fast Storage Devices",
+    "venue": "ACM Transactions on Storage",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jongmin Gim",
+            "id": "2305633985",
+            "org": "Texas A&M University"
+        },
+        {
+            "name": "Taeho Hwang",
+            "id": "2153876522",
+            "org": "Hanyang University"
+        },
+        {
+            "name": "Youjip Won",
+            "id": "2148748949",
+            "org": "Hanyang University"
+        },
+        {
+            "name": "Krishna Kant",
+            "id": "2781020282",
+            "org": "Temple University"
+        }
+    ],
+    "fields_of_study": [
+        "Translation lookaside buffer",
+        "Thread (computing)",
+        "Cache",
+        "Context switch",
+        "Parallel computing",
+        "Multi-core processor",
+        "Computer science",
+        "Device file",
+        "Real-time computing",
+        "CPU cache",
+        "CPU time"
+    ],
+    "references": [
+        "31171581",
+        "143350511",
+        "1551103625",
+        "1567210335",
+        "1971886849",
+        "2004340162",
+        "2006798699",
+        "2015370755",
+        "2022422850",
+        "2024219610",
+        "2028052812",
+        "2033476545",
+        "2040483504",
+        "2048588974",
+        "2064977311",
+        "2069077908",
+        "2069219069",
+        "2093755302",
+        "2096791627",
+        "2102449048",
+        "2105271931",
+        "2105321788",
+        "2113637091",
+        "2120111376",
+        "2121862294",
+        "2123669678",
+        "2123728009",
+        "2124306283",
+        "2129805525",
+        "2132564321",
+        "2137302811",
+        "2137568514",
+        "2138433591",
+        "2148394909",
+        "2150662965",
+        "2157808045",
+        "2160701576",
+        "2236544529"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "id": "1511806592",
+    "title": "D 3 S: debugging deployed distributed systems",
+    "venue": "networked systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Xuezheng Liu",
+            "id": "2161334724",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Zhenyu Guo",
+            "id": "2097628309",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Xi Wang",
+            "id": "2303948204",
+            "org": "Tsinghua University#TAB#"
+        },
+        {
+            "name": "Feibo Chen",
+            "id": "2122192152",
+            "org": "Fudan University#TAB#"
+        },
+        {
+            "name": "Xiaochen Lian",
+            "id": "2701024335",
+            "org": "Shanghai Jiaotong University#TAB#"
+        },
+        {
+            "name": "Jian Tang",
+            "id": "2707162136",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Ming Wu",
+            "id": "2307017422",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "M. Frans Kaashoek",
+            "id": "2779384724",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Zheng Zhang",
+            "id": "2707661792",
+            "org": "Microsoft Research Asia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Root cause",
+        "Programming style",
+        "Distributed computing",
+        "Fault tolerance",
+        "Computer science",
+        "Correctness",
+        "Instrumentation",
+        "Real-time computing",
+        "Debugging",
+        "Legacy system"
+    ],
+    "references": [
+        "163140174",
+        "207759855",
+        "1497150730",
+        "1524673069",
+        "1537198022",
+        "1568471959",
+        "1973501242",
+        "1974322070",
+        "1992479210",
+        "2012481411",
+        "2054584570",
+        "2069689069",
+        "2073904762",
+        "2075854425",
+        "2100830825",
+        "2106913893",
+        "2117020308",
+        "2120626294",
+        "2122465391",
+        "2124877509",
+        "2133943294",
+        "2143149536",
+        "2143522309",
+        "2152226783",
+        "2156523427",
+        "2157593310",
+        "2158022840",
+        "2165202235",
+        "2171581420",
+        "2173213060",
+        "2624304035"
+    ]
+}

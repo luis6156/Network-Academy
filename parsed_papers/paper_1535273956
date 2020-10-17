@@ -1,0 +1,52 @@
+{
+    "id": "1535273956",
+    "title": "A multipurpose delegation proxy for WWW credentials",
+    "venue": "european public key infrastructure workshop",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tobias Straub",
+            "id": "2019663577",
+            "org": "Computer Science Department, Darmstadt University of Technology, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Thilo-Alexander Ginkel",
+            "id": "2555386580",
+            "org": "TG Byte Software GmbH, Bensheim, Germany#TAB#"
+        },
+        {
+            "name": "Johannes A. Buchmann",
+            "id": "1552168940",
+            "org": "Computer Science Department, Darmstadt University of Technology, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Credential",
+        "Reverse proxy",
+        "Access control",
+        "Authentication",
+        "X.509",
+        "Distributed computing",
+        "Computer science",
+        "Computer security",
+        "Web server",
+        "Digital credential",
+        "Man-in-the-middle attack",
+        "Internet privacy"
+    ],
+    "references": [
+        "143925557",
+        "1574185037",
+        "1595513981",
+        "1635413415",
+        "1733713784",
+        "1770773933",
+        "1863896037",
+        "1985656666",
+        "2105470748",
+        "2112578244",
+        "2113959882",
+        "2260599271"
+    ]
+}

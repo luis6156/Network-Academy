@@ -1,0 +1,40 @@
+{
+    "id": "1557321694",
+    "title": "On the possibility of constructing meaningful hash collisions for public keys",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Arjen K. Lenstra",
+            "id": "2893124387",
+            "org": "Lucent Technologies, Bell Laboratories, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Benne de Weger",
+            "id": "1170375562",
+            "org": "Technische Universiteit Eindhoven, Eindhoven, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Public-key cryptography",
+        "Dynamic perfect hashing",
+        "Collision",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "104228007",
+        "104980622",
+        "1527059802",
+        "1533007301",
+        "1580300316",
+        "1580913585",
+        "1590269592",
+        "1994376122",
+        "2103239853",
+        "2169649500",
+        "2611506938"
+    ]
+}

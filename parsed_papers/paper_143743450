@@ -1,0 +1,38 @@
+{
+    "id": "143743450",
+    "title": "Proof of Forward Security for Password-Based Authenticated Key Exchange",
+    "venue": "International Journal of Network Security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Shu-Hua Wu",
+            "id": "2644172827",
+            "org": "Zhengzhou Information Science|Technology Institute"
+        },
+        {
+            "name": "Yue-Fei Zhu",
+            "id": "2646368461",
+            "org": "Department of Networks Engineering|Information Engineering Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Key exchange",
+        "Computer science",
+        "Forward secrecy",
+        "Computer security",
+        "Password",
+        "Random oracle",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "1509298722",
+        "1535125298",
+        "1560431798",
+        "1589586740",
+        "2091020476",
+        "2124926080",
+        "2149093588",
+        "2149445117",
+        "2157604883"
+    ]
+}

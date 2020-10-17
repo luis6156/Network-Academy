@@ -1,0 +1,105 @@
+{
+    "id": "1522919234",
+    "title": "HIGHT: a new block cipher suitable for low-resource device",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Deukjo Hong",
+            "id": "2226421921",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "Department of Mathematics, University of Seoul, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Bonseok Koo",
+            "id": "2153673522",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Changhoon Lee",
+            "id": "2809353927",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jesang Lee",
+            "id": "2117857588",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Kitae Jeong",
+            "id": "2128984430",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Hyun Kim",
+            "id": "2310709433",
+            "org": "Korea Information Security Agency (KISA), Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seongtaek Chee",
+            "id": "2119796974",
+            "org": "National Security Research Institute (NSRI), Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Radio-frequency identification",
+        "Computer science",
+        "Encryption",
+        "Embedded system",
+        "CBC-MAC",
+        "CLEFIA",
+        "Ubiquitous computing",
+        "Key size"
+    ],
+    "references": [
+        "52191336",
+        "1514141030",
+        "1518406241",
+        "1537206908",
+        "1540066842",
+        "1541703086",
+        "1542020576",
+        "1565173996",
+        "1588952639",
+        "1654806544",
+        "1660562555",
+        "1870015754",
+        "1964723977",
+        "1979802565",
+        "1991897749",
+        "2109265351",
+        "2163466490",
+        "2234576048"
+    ]
+}

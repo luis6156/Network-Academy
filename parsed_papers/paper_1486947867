@@ -1,0 +1,45 @@
+{
+    "id": "1486947867",
+    "title": "A flash-memory based file system",
+    "venue": "usenix annual technical conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Atsuo Kawaguchi",
+            "id": "2155959538",
+            "org": "Advanced Research Laboratory, Hitachi, Ltd.#TAB#"
+        },
+        {
+            "name": "Shingo Nishioka",
+            "id": "2166223470",
+            "org": "Advanced Research Laboratory, Hitachi, Ltd.#TAB#"
+        },
+        {
+            "name": "Hiroshi Motoda",
+            "id": "323689644",
+            "org": "Advanced Research Laboratory, Hitachi, Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Unix file types",
+        "Flash memory",
+        "Computer science",
+        "Flash file system",
+        "Stub file",
+        "File Control Block",
+        "Operating system",
+        "Device file",
+        "File system",
+        "Memory-mapped file"
+    ],
+    "references": [
+        "161981760",
+        "201248661",
+        "2005373714",
+        "2006803879",
+        "2108183412",
+        "2151745115",
+        "2167819041"
+    ]
+}

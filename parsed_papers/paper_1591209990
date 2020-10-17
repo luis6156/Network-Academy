@@ -1,0 +1,48 @@
+{
+    "id": "1591209990",
+    "title": "Power Analysis Breaks Elliptic Curve Cryptosystems even Secure against the Timing Attack",
+    "venue": "international conference on progress in cryptology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Katsuyuki Okeya",
+            "id": "1780672632",
+            "org": "Hitachi, Ltd., Software Division"
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Power analysis",
+        "Elliptic curve",
+        "Timing attack"
+    ],
+    "references": [
+        "1501115028",
+        "1522228241",
+        "1539482743",
+        "1561414281",
+        "1565369953",
+        "1569151289",
+        "1613874182",
+        "1664808737",
+        "1832719378",
+        "1869939343",
+        "1897761346",
+        "1996360405",
+        "2003736153",
+        "2121110380",
+        "2154909745",
+        "2612208439"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1495206645",
+    "title": "Breaking the Ong-Schnorr-Shamir signature scheme for quadratic number fields",
+    "venue": "international cryptology conference",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Dennis R. Estes",
+            "id": "2584235992",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Leonard M. Adleman",
+            "id": "2009176085",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Kireeti Kompella",
+            "id": "2705680265",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Kevin S. McCurley",
+            "id": "2697603557",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Gary L. Miller",
+            "id": "2155251200",
+            "org": "University of Southern California"
+        }
+    ],
+    "fields_of_study": [
+        "Quadratic equation",
+        "Integer",
+        "Congruence (geometry)",
+        "Discrete mathematics",
+        "Quadratic integer",
+        "Computer science",
+        "Algebraic number field",
+        "Schnorr signature",
+        "Public-key cryptography",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1592578919",
+        "2047360699"
+    ]
+}

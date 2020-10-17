@@ -1,0 +1,53 @@
+{
+    "id": "1572794069",
+    "title": "On fully distributed adaptive load balancing",
+    "venue": "distributed systems operations and management",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Breitgand",
+            "id": "34713905",
+            "org": "IBM Haifa Research Lab, Israel#TAB#"
+        },
+        {
+            "name": "Rami Cohen",
+            "id": "2141423801",
+            "org": "CS Department, Technion, Haifa#TAB#"
+        },
+        {
+            "name": "Amir Nahir",
+            "id": "2136775269",
+            "org": "IBM Haifa Research Lab, Israel#TAB#"
+        },
+        {
+            "name": "Danny Raz",
+            "id": "2198148421",
+            "org": "CS Department, Technion, Haifa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Network Load Balancing Services",
+        "Round-robin DNS",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Information sharing",
+        "Network packet",
+        "Robustness (computer science)",
+        "Computer network",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1576691175",
+        "1601612287",
+        "1736306442",
+        "2098257137",
+        "2099694856",
+        "2105969594",
+        "2108541111",
+        "2117702591",
+        "2154007983"
+    ]
+}

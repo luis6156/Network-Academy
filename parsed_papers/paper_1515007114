@@ -1,0 +1,35 @@
+{
+    "id": "1515007114",
+    "title": "Cyclic Weighted Reference Counting without Delay",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Richard Jones",
+            "id": "2136714444",
+            "org": "University of Kent at Canterbury"
+        },
+        {
+            "name": "Rafael Dueire Lins",
+            "id": "2113644456",
+            "org": "University of Kent at Canterbury"
+        }
+    ],
+    "fields_of_study": [
+        "Computer programming",
+        "Transitive closure",
+        "Theoretical computer science",
+        "Computation",
+        "Distributed computing",
+        "Garbage collection",
+        "Computer science",
+        "Reference counting",
+        "Distributed data store",
+        "Data structure"
+    ],
+    "references": [
+        "1876014853",
+        "2031707629",
+        "2118098427"
+    ]
+}

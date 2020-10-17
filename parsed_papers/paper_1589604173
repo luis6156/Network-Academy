@@ -1,0 +1,38 @@
+{
+    "id": "1589604173",
+    "title": "Using Garbage Collection in Model Checking",
+    "venue": "international workshop on model checking software",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Radu Iosif",
+            "id": "2780572699",
+            "org": "Politecnico di Torino"
+        },
+        {
+            "name": "Riccardo Sisto",
+            "id": "2163144633",
+            "org": "Politecnico di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "Data pre-processing",
+        "Hazard pointer",
+        "Computer science",
+        "Garbage collection",
+        "Reference counting",
+        "Garbage",
+        "Manual memory management",
+        "Model checking",
+        "Real-time computing",
+        "Memory leak"
+    ],
+    "references": [
+        "1557417437",
+        "1599489402",
+        "1605034451",
+        "2051020320",
+        "2059224852",
+        "2135274583"
+    ]
+}

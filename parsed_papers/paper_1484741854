@@ -1,0 +1,57 @@
+{
+    "id": "1484741854",
+    "title": "A checkpoint/recovery model for heterogeneous dataflow computations using work-stealing",
+    "venue": "european conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Samir Jafar",
+            "id": "2132593399",
+            "org": "Laboratoire ID - IMAG, Pre-project MOAIS (CNRS-INRIA, INPG-UJF), Montbonnot St. Martin, France#TAB#"
+        },
+        {
+            "name": "Thierry Gautier",
+            "id": "2059405868",
+            "org": "Laboratoire ID - IMAG, Pre-project MOAIS (CNRS-INRIA, INPG-UJF), Montbonnot St. Martin, France#TAB#"
+        },
+        {
+            "name": "Axel W. Krings",
+            "id": "2267280885",
+            "org": "Computer Science Dept, University of Idaho, Moscow, ID#TAB#"
+        },
+        {
+            "name": "Jean-Louis Roch",
+            "id": "2092360786",
+            "org": "Laboratoire ID - IMAG, Pre-project MOAIS (CNRS-INRIA, INPG-UJF), Montbonnot St. Martin, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Macro",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Grid",
+        "Dataflow",
+        "Data flow diagram",
+        "Formal methods",
+        "Computer cluster",
+        "Work stealing"
+    ],
+    "references": [
+        "2013121458",
+        "2046113975",
+        "2052915895",
+        "2064073280",
+        "2072725684",
+        "2100970777",
+        "2104680817",
+        "2131053137",
+        "2140362910",
+        "2151708923",
+        "2155204206",
+        "2160123909",
+        "2169164058",
+        "2171453084"
+    ]
+}

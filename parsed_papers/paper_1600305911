@@ -1,0 +1,45 @@
+{
+    "id": "1600305911",
+    "title": "Evolution of an efficient search algorithm for the mate-in-N problem in chess",
+    "venue": "european conference on genetic programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ami Hauptman",
+            "id": "2051118348",
+            "org": "Dept. of Computer Science, Ben-Gurion University, Beer-Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Moshe Sipper",
+            "id": "2001962658",
+            "org": "Dept. of Computer Science, Ben-Gurion University, Beer-Sheva, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Transposition table",
+        "Theoretical computer science",
+        "Combinatorial search",
+        "Computer science",
+        "Iterative deepening depth-first search",
+        "Genetic programming",
+        "Best-first search",
+        "Quiescence search",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1517016597",
+        "1568793067",
+        "1577427285",
+        "1990386132",
+        "2036143874",
+        "2062127750",
+        "2082899948",
+        "2134055442",
+        "2134950052",
+        "2145538617",
+        "2786315279"
+    ]
+}

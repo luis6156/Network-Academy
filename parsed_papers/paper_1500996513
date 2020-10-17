@@ -1,0 +1,79 @@
+{
+    "id": "1500996513",
+    "title": "A (corrected) DAA scheme using batch proof and verification",
+    "venue": "international conference on trusted systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ernie Brickell",
+            "id": "2098628844",
+            "org": "Intel Corporation, Hillsboro, Oregon#TAB#"
+        },
+        {
+            "name": "Liqun Chen",
+            "id": "2109441081",
+            "org": "Hewlett-Packard Laboratories, Bristol, UK#TAB#"
+        },
+        {
+            "name": "Jiangtao Li",
+            "id": "2115155359",
+            "org": "Intel Corporation, Hillsboro, Oregon#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Trusted Platform Module",
+        "Trusted Computing",
+        "Computer science",
+        "Distributed computing",
+        "Random oracle",
+        "Authentication",
+        "Public-key cryptography",
+        "Direct Anonymous Attestation",
+        "Nice"
+    ],
+    "references": [
+        "1483916328",
+        "1507297697",
+        "1521092767",
+        "1522190667",
+        "1524043790",
+        "1526993157",
+        "1531230025",
+        "1545373992",
+        "1568106975",
+        "1577950161",
+        "1588782201",
+        "1589034595",
+        "1599369946",
+        "1604454960",
+        "1606810390",
+        "1607967859",
+        "1646354800",
+        "1865317441",
+        "1888254701",
+        "1978183200",
+        "1993242942",
+        "2026892462",
+        "2033838428",
+        "2052267638",
+        "2065458100",
+        "2076965705",
+        "2096113448",
+        "2109365902",
+        "2117797270",
+        "2128514900",
+        "2130056156",
+        "2134071831",
+        "2137218059",
+        "2148820333",
+        "2159372323",
+        "2159617506",
+        "2160094989",
+        "2163614799",
+        "2277781126",
+        "2398644494",
+        "2607627035",
+        "2610931382"
+    ]
+}

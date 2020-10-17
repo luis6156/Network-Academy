@@ -1,0 +1,68 @@
+{
+    "id": "1807294333",
+    "title": "UTS: an unbalanced tree search benchmark",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stephen L. Olivier",
+            "id": "2151607511",
+            "org": "Dept. of Computer Science, Univ. of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "Jun Huan",
+            "id": "2139058963",
+            "org": "Dept. of Computer Science, Univ. of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "Jinze Liu",
+            "id": "2100997562",
+            "org": "Dept. of Computer Science, Univ. of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "Jan F. Prins",
+            "id": "2111985519",
+            "org": "Dept. of Computer Science, Univ. of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "James Dinan",
+            "id": "2893411332",
+            "org": "Dept. of Computer Science and Engineering, The Ohio State Univ.#TAB#"
+        },
+        {
+            "name": "P. Sadayappan",
+            "id": "1966094299",
+            "org": "Dept. of Computer Science and Engineering, The Ohio State Univ.#TAB#"
+        },
+        {
+            "name": "Chau-Wen Tseng",
+            "id": "2105068653",
+            "org": "Dept. of Computer Science, Univ. of Maryland at College Park#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Unified Parallel C",
+        "Distributed computing",
+        "Dynamic load testing",
+        "Degree of parallelism",
+        "Distributed memory",
+        "Software portability",
+        "Work stealing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1623282124",
+        "1988185570",
+        "2016559894",
+        "2054583871",
+        "2072725684",
+        "2081597309",
+        "2111708605",
+        "2114489740",
+        "2117968869",
+        "2165606466"
+    ]
+}

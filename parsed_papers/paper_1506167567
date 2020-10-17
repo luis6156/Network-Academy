@@ -1,0 +1,44 @@
+{
+    "id": "1506167567",
+    "title": "Bait your hook: a novel detection technique for keyloggers",
+    "venue": "recent advances in intrusion detection",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Stefano Ortolani",
+            "id": "2036485015",
+            "org": "Vrije Universiteit, Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Cristiano Giuffrida",
+            "id": "2064923061",
+            "org": "Vrije Universiteit, Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Bruno Crispo",
+            "id": "2091485889",
+            "org": "University of Trento, Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Keystroke logging",
+        "Software",
+        "Computer science",
+        "Hook",
+        "Computer security",
+        "Real-time computing",
+        "User space"
+    ],
+    "references": [
+        "97507690",
+        "1515180657",
+        "1552150632",
+        "1552906779",
+        "2034822440",
+        "2102661631",
+        "2112104279",
+        "2117030266",
+        "2170053607"
+    ]
+}

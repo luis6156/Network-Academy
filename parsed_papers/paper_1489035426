@@ -1,0 +1,80 @@
+{
+    "id": "1489035426",
+    "title": "Multiple differential cryptanalysis using LLR and kh 2",
+    "venue": "security and cryptography for networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Celine Blondeau",
+            "id": "1996688774",
+            "org": "Department of Information and Computer Science, Aalto University School of Science, Finland#TAB#"
+        },
+        {
+            "name": "Benoit Gerard",
+            "id": "2107041562",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, ICTEAM Institute, Belgium#TAB#"
+        },
+        {
+            "name": "Kaisa Nyberg",
+            "id": "2152819472",
+            "org": "Department of Information and Computer Science, Aalto University School of Science, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Piling-up lemma",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Contact analysis"
+    ],
+    "references": [
+        "17575016",
+        "32121401",
+        "121367636",
+        "1490056131",
+        "1507705751",
+        "1519447501",
+        "1525538795",
+        "1533392870",
+        "1542500920",
+        "1554153316",
+        "1557689908",
+        "1570998442",
+        "1575598731",
+        "1579367023",
+        "1583896587",
+        "1591203762",
+        "1597211008",
+        "1601793793",
+        "1629301835",
+        "1675339804",
+        "1761303171",
+        "1766548092",
+        "1839785783",
+        "1846045953",
+        "1894646615",
+        "1966655096",
+        "2007466965",
+        "2045479946",
+        "2061949491",
+        "2071825329",
+        "2091612798",
+        "2098290658",
+        "2106970188",
+        "2142048307",
+        "2146633075",
+        "2150208140",
+        "2164327070",
+        "2234576048",
+        "2284958238",
+        "2395555281",
+        "2401629018",
+        "2404788957",
+        "2514326694"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1560301721",
+    "title": "A Transaction Replication Scheme for a Replicated Database with Node Autonomy",
+    "venue": "very large data bases",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ada Wai-Chee Fu",
+            "id": "2165551961",
+            "org": "Chinese University of Hong Kong|University of Hong Kong"
+        },
+        {
+            "name": "David Wai-Lok Cheung",
+            "id": "2893352990",
+            "org": "Chinese University of Hong Kong|University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Commit",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Concurrency control",
+        "Distributed transaction",
+        "Database",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1545155892",
+        "1965799783",
+        "1966536657",
+        "1973501242",
+        "1982013159",
+        "1982329267",
+        "1985188419",
+        "1993505169",
+        "2014104232",
+        "2030653663",
+        "2056862375",
+        "2070941848",
+        "2089267822",
+        "2098564014",
+        "2101675843",
+        "2142849519"
+    ]
+}

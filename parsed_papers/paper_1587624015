@@ -1,0 +1,79 @@
+{
+    "id": "1587624015",
+    "title": "ASCAR: Automating contention management for high-performance storage systems",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yan Li",
+            "id": "2577747123",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz"
+        },
+        {
+            "name": "Xiaoyuan Lu",
+            "id": "2483474561",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz"
+        },
+        {
+            "name": "Ethan L. Miller",
+            "id": "2168190067",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz"
+        },
+        {
+            "name": "Darrell D. E. Long",
+            "id": "2171999619",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz"
+        }
+    ],
+    "fields_of_study": [
+        "Rule-based system",
+        "Throughput",
+        "Process control",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Workload",
+        "Rate limiting",
+        "Real-time computing",
+        "Bottleneck"
+    ],
+    "references": [
+        "16408702",
+        "137206813",
+        "137391248",
+        "1663973292",
+        "1672988363",
+        "1693661933",
+        "1785664926",
+        "1964137381",
+        "1972121796",
+        "1988975763",
+        "1991376651",
+        "1999354630",
+        "1999984505",
+        "2020839020",
+        "2022711632",
+        "2036745989",
+        "2041937524",
+        "2062617656",
+        "2088956500",
+        "2090275183",
+        "2100857980",
+        "2101343419",
+        "2103689761",
+        "2104206309",
+        "2112032515",
+        "2116063105",
+        "2131526655",
+        "2131645490",
+        "2143955124",
+        "2144518192",
+        "2144916960",
+        "2147793911",
+        "2168456801",
+        "2168830306",
+        "2296370775",
+        "2773863946"
+    ]
+}

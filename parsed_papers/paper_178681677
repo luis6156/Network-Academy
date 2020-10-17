@@ -1,0 +1,86 @@
+{
+    "id": "178681677",
+    "title": "EPCBC: a block cipher suitable for electronic product code encryption",
+    "venue": "cryptology and network security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Huihui Yap",
+            "id": "2160250037",
+            "org": "DSO National Laboratories, Singapore#TAB#"
+        },
+        {
+            "name": "Khoongming Khoo",
+            "id": "2155732702",
+            "org": "DSO National Laboratories, Singapore#TAB#"
+        },
+        {
+            "name": "Axel Poschmann",
+            "id": "1981858454",
+            "org": "Division of Mathematical Sciences, School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Matthew Henricksen",
+            "id": "2066623285",
+            "org": "Institute for Infocomm Research, A*STAR, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Two-square cipher",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Related-key attack",
+        "Differential cryptanalysis",
+        "Triple DES",
+        "Slide attack",
+        "CBC-MAC"
+    ],
+    "references": [
+        "29269980",
+        "1492619099",
+        "1495086674",
+        "1498330251",
+        "1516699468",
+        "1520260307",
+        "1521253015",
+        "1522919234",
+        "1541098965",
+        "1542020576",
+        "1549300373",
+        "1554865288",
+        "1563341929",
+        "1565173996",
+        "1575062508",
+        "1578155860",
+        "1581134854",
+        "1588952639",
+        "1596841000",
+        "1597699498",
+        "1604454960",
+        "1607874478",
+        "1627303988",
+        "1704209912",
+        "1734967783",
+        "1853704432",
+        "1862712733",
+        "1894646615",
+        "2101800793",
+        "2106698019",
+        "2112137829",
+        "2115893326",
+        "2117422777",
+        "2139958505",
+        "2148579805",
+        "2151783055",
+        "2163466490",
+        "2167654758",
+        "2404788957",
+        "2406405902",
+        "2408220704",
+        "2493686639",
+        "2592352276"
+    ]
+}

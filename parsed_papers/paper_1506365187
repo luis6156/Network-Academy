@@ -1,0 +1,34 @@
+{
+    "id": "1506365187",
+    "title": "Accurate Computation of the Radiosity Gradient for Constant and Linear Emitters",
+    "venue": "eurographics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Nicolas Holzschuch",
+            "id": "2093513829",
+            "org": "iMAGIS/IMAG"
+        },
+        {
+            "name": "Francois X. Sillion",
+            "id": "1998591544",
+            "org": "iMAGIS/IMAG"
+        }
+    ],
+    "fields_of_study": [
+        "Global illumination",
+        "Mathematics",
+        "Arbitrary-precision arithmetic",
+        "Radiosity (computer graphics)",
+        "Computation",
+        "Discretization",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1964020871",
+        "2001026944",
+        "2090663078",
+        "2131750471",
+        "2170485458"
+    ]
+}

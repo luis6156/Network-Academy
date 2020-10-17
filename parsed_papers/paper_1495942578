@@ -1,0 +1,42 @@
+{
+    "id": "1495942578",
+    "title": "On Solving MaxSAT Through SAT",
+    "venue": "conference on artificial intelligence research and development",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Carlos Ansotegui",
+            "id": "2303474802",
+            "org": "Universitat de Lleida (DIEI, UdL)#TAB#"
+        },
+        {
+            "name": "Maria Luisa Bonet",
+            "id": "2309649928",
+            "org": "Universitat Politecnica de Catalunya (LSI, UPC)#TAB#"
+        },
+        {
+            "name": "Jordi Levy",
+            "id": "2164105720",
+            "org": "Artificial Intelligence Research Institute (IIIA, CSIC)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cardinality",
+        "Mathematics",
+        "Satisfiability",
+        "Maximum satisfiability problem",
+        "Correctness",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "153078869",
+        "1531103278",
+        "1559357575",
+        "1678664543",
+        "2098984274",
+        "2100609826",
+        "2118943303"
+    ]
+}

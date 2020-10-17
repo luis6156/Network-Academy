@@ -1,0 +1,41 @@
+{
+    "id": "1593702530",
+    "title": "Receipt-free mix-type voting scheme: a practical solution to the implementation of a voting booth",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Kazue Sako",
+            "id": "2151356658",
+            "org": "NEC Corporation, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Joe Kilian",
+            "id": "2130358780",
+            "org": "NEC Research Institute, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Communication channel",
+        "Computer security",
+        "Mix network",
+        "Anti-plurality voting",
+        "Voting",
+        "Eavesdropping",
+        "Receipt",
+        "Adversary",
+        "Cardinal voting systems"
+    ],
+    "references": [
+        "1479744988",
+        "1579136474",
+        "1589034595",
+        "1839300275",
+        "1973527459",
+        "2003593381",
+        "2103647628",
+        "2151433956"
+    ]
+}

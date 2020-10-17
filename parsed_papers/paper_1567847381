@@ -1,0 +1,40 @@
+{
+    "id": "1567847381",
+    "title": "Is parallelism already concurrency? Part 2: Non-sequential processes in graph grammars",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Hans-Jorg Kreowski",
+            "id": "1971382267",
+            "org": "Universitat Bremen"
+        },
+        {
+            "name": "Anne Wilharm",
+            "id": "2550425925",
+            "org": "Universitat Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "Computer science",
+        "Tree-adjoining grammar",
+        "Graph rewriting",
+        "Context-sensitive grammar",
+        "Concurrency",
+        "Observable",
+        "Rule-based machine translation",
+        "Clique-width"
+    ],
+    "references": [
+        "57763564",
+        "1522209613",
+        "1551176011",
+        "1969395632",
+        "2001748564",
+        "2047907247",
+        "2154565107",
+        "2180713429"
+    ]
+}

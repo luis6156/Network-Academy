@@ -1,0 +1,34 @@
+{
+    "id": "1480815770",
+    "title": "Accelerating AES with Vector Permute Instructions",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Mike Hamburg",
+            "id": "2824015014",
+            "org": "Computer Science Dept., Stanford University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Parallel computing",
+        "Block cipher mode of operation",
+        "Computer science",
+        "AltiVec",
+        "Triple DES",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Substitution-permutation network",
+        "MDC-2"
+    ],
+    "references": [
+        "1488058190",
+        "1489027369",
+        "1515225084",
+        "1523982624",
+        "1541150254",
+        "1996182770",
+        "2127752881"
+    ]
+}

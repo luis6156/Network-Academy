@@ -1,0 +1,56 @@
+{
+    "id": "1479788314",
+    "title": "Secure multiplicative masking of power functions",
+    "venue": "applied cryptography and network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Laurie Genelle",
+            "id": "41329827",
+            "org": "Oberthur Technologies#TAB#"
+        },
+        {
+            "name": "Emmanuel Prouff",
+            "id": "50202740",
+            "org": "Oberthur Technologies#TAB#"
+        },
+        {
+            "name": "Michael Quisquater",
+            "id": "1970640690",
+            "org": "University of Versailles#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Masking (art)",
+        "Key-recovery attack",
+        "Block cipher",
+        "Mathematics",
+        "Side channel attack",
+        "Computer security",
+        "Multiplicative function",
+        "Variables",
+        "Affine transformation",
+        "AES implementations"
+    ],
+    "references": [
+        "130371449",
+        "154749848",
+        "1489706603",
+        "1494911169",
+        "1503689022",
+        "1504218001",
+        "1506890909",
+        "1512062395",
+        "1522181683",
+        "1562542037",
+        "1569151289",
+        "1748081333",
+        "1897761346",
+        "2112002249",
+        "2127752881",
+        "2131544010",
+        "2145829971",
+        "2154909745",
+        "2612208439"
+    ]
+}

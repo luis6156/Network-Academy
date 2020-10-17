@@ -1,0 +1,49 @@
+{
+    "id": "1510582395",
+    "title": "Paillier's Trapdoor Function Hides up to O(n) Bits",
+    "venue": "Journal of Cryptology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dario Catalano",
+            "id": "2289125662",
+            "org": "Departement d'Informatique, Ecole Normale Superieure, 45 Rue d'Ulm, 75230 Paris, France Dario.Catalano@ens.fr, FR#TAB#"
+        },
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "I.B.M. I. J. Watson Research Center, P.O. Box 704, Yorktown Heights, NY 10598, U.S.A. rosario@watson.ibm.com, US#TAB#"
+        },
+        {
+            "name": "Nick Howgrave-Graham",
+            "id": "700721243",
+            "org": "NTRU Cryptosystems, 5 Burlington Woods, Burlington, MA 01803, U.S.A. NHowgraveGraham@ntru.com, US#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Residue (complex analysis)",
+        "Encryption",
+        "Trapdoor function",
+        "Least significant bit",
+        "Paillier cryptosystem",
+        "Public-key cryptography",
+        "Semantic security"
+    ],
+    "references": [
+        "1529862094",
+        "1569930334",
+        "1588934224",
+        "1969694673",
+        "1996360405",
+        "2018738738",
+        "2027528470",
+        "2042226948",
+        "2108104892",
+        "2114827420",
+        "2132172731",
+        "2164284862"
+    ]
+}

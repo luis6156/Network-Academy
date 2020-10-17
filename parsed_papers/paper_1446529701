@@ -1,0 +1,49 @@
+{
+    "id": "1446529701",
+    "title": "Memory-Efficient sierpinski-order traversals on dynamically adaptive, recursively structured triangular grids",
+    "venue": "parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Michael Bader",
+            "id": "2153404012",
+            "org": "Institute of Parallel and Distributed Systems, Universitat Stuttgart, Germany#TAB#"
+        },
+        {
+            "name": "Kaveh Rahnema",
+            "id": "248031959",
+            "org": "Institute of Parallel and Distributed Systems, Universitat Stuttgart, Germany#TAB#"
+        },
+        {
+            "name": "Csaba Vigh",
+            "id": "2115477940",
+            "org": "Department of Informatics, Technische Universitat Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Throughput",
+        "Parallel computing",
+        "Adaptive mesh refinement",
+        "Theoretical computer science",
+        "Computer science",
+        "Tree traversal",
+        "Grid",
+        "Sierpinski triangle",
+        "Cache-oblivious algorithm",
+        "Floating point"
+    ],
+    "references": [
+        "1519407296",
+        "1546076255",
+        "1967385755",
+        "1968013322",
+        "2011979138",
+        "2038142281",
+        "2054729225",
+        "2056345907",
+        "2074048905",
+        "2099404391",
+        "2154707273"
+    ]
+}

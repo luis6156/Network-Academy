@@ -1,0 +1,54 @@
+{
+    "id": "1510100894",
+    "title": "On the Security of RSA Encryption in TLS",
+    "venue": "international cryptology conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jakob Jonsson",
+            "id": "2342491064",
+            "org": "RSA Laboratories"
+        },
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2229857280",
+            "org": "RSA Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Oracle",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Key encapsulation",
+        "Hash function",
+        "Public-key cryptography",
+        "Random function"
+    ],
+    "references": [
+        "1511745870",
+        "1511943692",
+        "1531848080",
+        "1560706682",
+        "1561907855",
+        "1565112835",
+        "1589176872",
+        "1589586740",
+        "1660562555",
+        "1809974132",
+        "1996360405",
+        "1996736473",
+        "2052267638",
+        "2101040389",
+        "2108228210",
+        "2108834246",
+        "2156186849",
+        "2161195863",
+        "2168581558",
+        "2172433705",
+        "2405015683"
+    ]
+}

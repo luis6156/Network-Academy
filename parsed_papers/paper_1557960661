@@ -1,0 +1,39 @@
+{
+    "id": "1557960661",
+    "title": "Building TMR-Based Reliable Servers Despite Bounded Input Lifetimes",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Paul D. Ezhilchelvan",
+            "id": "2012211723",
+            "org": "University of Newcastle"
+        },
+        {
+            "name": "Jean-Michel Helary",
+            "id": "2037917894",
+            "org": "IRISA"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Client-server model",
+        "Server",
+        "Bounded function",
+        "Broadcasting",
+        "Triple modular redundancy",
+        "Operating system"
+    ],
+    "references": [
+        "1566154655",
+        "1996360405",
+        "2105202747",
+        "2152465173",
+        "2156205360"
+    ]
+}

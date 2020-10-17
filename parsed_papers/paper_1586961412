@@ -1,0 +1,58 @@
+{
+    "id": "1586961412",
+    "title": "Continuous timestamping for efficient replication management in DHTs",
+    "venue": "international conference on data management in grid and p2p systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Reza Akbarinia",
+            "id": "295546380",
+            "org": "INRIA and LINA, Univ. Nantes, France#TAB#"
+        },
+        {
+            "name": "Mounir Tlili",
+            "id": "1969142552",
+            "org": "INRIA and LINA, Univ. Nantes, France#TAB#"
+        },
+        {
+            "name": "Esther Pacitti",
+            "id": "1678409130",
+            "org": "LIRMM and INRIA, Univ. Montpellier, France#TAB#"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "INRIA and LIRMM, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Alexandre A. B. Lima",
+            "id": "2161022388",
+            "org": "COPPE, UFRJ, Rio de Janeiro, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Timestamp",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Distributed hash table",
+        "Real-time computing",
+        "Hash function",
+        "Data retrieval",
+        "Timestamping",
+        "Data availability"
+    ],
+    "references": [
+        "1600328410",
+        "1775738142",
+        "1979799156",
+        "2085922198",
+        "2111227779",
+        "2118428193",
+        "2121074361",
+        "2150676586",
+        "2162061797",
+        "2163059190"
+    ]
+}

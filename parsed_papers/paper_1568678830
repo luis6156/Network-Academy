@@ -1,0 +1,35 @@
+{
+    "id": "1568678830",
+    "title": "OpenMP/MPI Hybrid vs. Flat MPI on the Earth Simulator: Parallel Iterative Solvers for Finite Element Method",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kengo Nakajima",
+            "id": "2303078039",
+            "org": "Research Organization for Information Science and Technology (RIST)"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical analysis",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Vectorization (mathematics)",
+        "Computer science",
+        "Finite element method",
+        "Parallel programming model",
+        "Domain decomposition methods",
+        "Vector processor",
+        "Parallel algorithm",
+        "Iterative method"
+    ],
+    "references": [
+        "1497913154",
+        "1506342804",
+        "1537753733",
+        "1541937702",
+        "1971343078",
+        "2000250112",
+        "2071447748"
+    ]
+}

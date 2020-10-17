@@ -1,0 +1,58 @@
+{
+    "id": "1576603624",
+    "title": "Impossible Differential Cryptanalysis of Zodiac",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Deukjo Hong",
+            "id": "2810097668",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2810404144",
+            "org": "Korea University"
+        },
+        {
+            "name": "Shiho Moriai",
+            "id": "2305488482",
+            "org": "NTT Laboratories"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Algorithm",
+        "Cryptanalysis",
+        "Impossible differential cryptanalysis",
+        "Encryption",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Key size"
+    ],
+    "references": [
+        "52191336",
+        "1523702841",
+        "1541703086",
+        "1552447328",
+        "1629301835",
+        "1654806544",
+        "1974104427",
+        "2081451319",
+        "2168631744",
+        "2234576048",
+        "2801701818"
+    ]
+}

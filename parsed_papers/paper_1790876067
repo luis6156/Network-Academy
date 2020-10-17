@@ -1,0 +1,48 @@
+{
+    "id": "1790876067",
+    "title": "Why is diagnosis using belief networks insensitive to imprecision in probabilities",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Max Henrion",
+            "id": "2038277194",
+            "org": "The Decision Laboratory, Institute for Decision Systems Research, Los Altos, CA#TAB#"
+        },
+        {
+            "name": "Malcolm Pradhan",
+            "id": "2139474224",
+            "org": "Medical Informatics, Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Brendan Del Favero",
+            "id": "2281106656",
+            "org": "Engineering-Economic Systems, Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Gregory M. Provan",
+            "id": "329377719",
+            "org": "The Decision Laboratory, Institute for Decision Systems Research, Los Altos, CA#TAB#"
+        },
+        {
+            "name": "Paul O'rorke",
+            "id": "2305362716",
+            "org": "The Cognition Institute, University of West Florida, Pensacola, FL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Bayesian network",
+        "Statistics",
+        "Posterior probability",
+        "Medical diagnosis",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1573686114",
+        "1748109475",
+        "2004920427",
+        "2037309121"
+    ]
+}

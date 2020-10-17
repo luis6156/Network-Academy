@@ -1,0 +1,53 @@
+{
+    "id": "1548447377",
+    "title": "Prism: providing flexible and fast filesystem cloning service for virtual servers",
+    "venue": "acm ifip usenix international conference on middleware",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Xin Zhao",
+            "id": "2557945013",
+            "org": "Google Inc., Mountain View, CA#TAB#"
+        },
+        {
+            "name": "Kevin Borders",
+            "id": "2116502629",
+            "org": "University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "Atul Prakash",
+            "id": "2222476460",
+            "org": "University of Michigan, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Block (data storage)",
+        "Server",
+        "Database",
+        "Specfs",
+        "Reference counting",
+        "inotify",
+        "Utility computing",
+        "Operating system",
+        "File system",
+        "Virtual machine"
+    ],
+    "references": [
+        "161866744",
+        "182375779",
+        "1565378820",
+        "1744795482",
+        "2001438822",
+        "2005373714",
+        "2100100130",
+        "2115457697",
+        "2115837944",
+        "2151227991",
+        "2154022444",
+        "2157657700",
+        "2161212857",
+        "2162314411",
+        "2535134046"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1582341970",
+    "title": "Graph-Based Pancreatic Islet Segmentation for Early Type 2 Diabetes Mellitus on Histopathological Tissue",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Xenofon Floros",
+            "id": "2232737512",
+            "org": "Department of Computer Science, ETH Zurich, Switzerland and Life Science Zurich PhD Program on Systems Biology of Complex Diseases, and Competence Centre for Systems Physiology and Metabolic Disea ...#TAB#"
+        },
+        {
+            "name": "Thomas J. Fuchs",
+            "id": "2050944474",
+            "org": "Department of Computer Science, ETH Zurich, Switzerland and Life Science Zurich PhD Program on Systems Biology of Complex Diseases, and Competence Centre for Systems Physiology and Metabolic Disea ...#TAB#"
+        },
+        {
+            "name": "Markus Rechsteiner",
+            "id": "1970200624",
+            "org": "Institute of Pathology, University Hospital Zurich, University Zurich, and Competence Centre for Systems Physiology and Metabolic Diseases, Zurich#TAB#"
+        },
+        {
+            "name": "Giatgen A. Spinas",
+            "id": "2537566101",
+            "org": "Division of Endocrinology and Diabetes, University Hospital Zurich, and Competence Centre for Systems Physiology and Metabolic Diseases, Zurich#TAB#"
+        },
+        {
+            "name": "Holger Moch",
+            "id": "1491572192",
+            "org": "Institute of Pathology, University Hospital Zurich, University Zurich, and Competence Centre for Systems Physiology and Metabolic Diseases, Zurich#TAB#"
+        },
+        {
+            "name": "Joachim M. Buhmann",
+            "id": "2051956577",
+            "org": "Department of Computer Science, ETH Zurich, Switzerland and Competence Centre for Systems Physiology and Metabolic Diseases, Zurich#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Random forest",
+        "Beta cell",
+        "Pathology",
+        "Pattern recognition",
+        "Medical imaging",
+        "Computer science",
+        "Active contour model",
+        "Local binary patterns",
+        "Pancreatic islets",
+        "Cross-validation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1545641654",
+        "1593534758",
+        "2104095591",
+        "2116040950",
+        "2152397906"
+    ]
+}

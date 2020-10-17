@@ -1,0 +1,46 @@
+{
+    "id": "1569583874",
+    "title": "ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes",
+    "venue": "very large data bases",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "C. Mohan",
+            "id": "2796521578",
+            "org": "IBM"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Computer science",
+        "Optimistic concurrency control",
+        "Lock (computer science)",
+        "Database",
+        "Distributed concurrency control",
+        "Real-time computing",
+        "Concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "167327290",
+        "185046630",
+        "1526124194",
+        "1553505161",
+        "1557189078",
+        "1991199257",
+        "2035933658",
+        "2036122593",
+        "2039071499",
+        "2044555065",
+        "2046137086",
+        "2047908203",
+        "2055964373",
+        "2084060979",
+        "2106887953",
+        "2118138066",
+        "2169379483",
+        "2172126130"
+    ]
+}

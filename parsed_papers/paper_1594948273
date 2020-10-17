@@ -1,0 +1,54 @@
+{
+    "id": "1594948273",
+    "title": "March_eq: implementing additional reasoning into an efficient look-ahead SAT solver",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marijn J. H. Heule",
+            "id": "2079525123",
+            "org": "Department of Information Systems and Algorithms, Faculty of Electrical Engineering, Mathematics and Computer Sciences, Delft University of Technology#TAB#"
+        },
+        {
+            "name": "Mark Dufour",
+            "id": "2059934295",
+            "org": "Department of Information Systems and Algorithms, Faculty of Electrical Engineering, Mathematics and Computer Sciences, Delft University of Technology#TAB#"
+        },
+        {
+            "name": "Joris van Zwieten",
+            "id": "2313647990",
+            "org": "Department of Information Systems and Algorithms, Faculty of Electrical Engineering, Mathematics and Computer Sciences, Delft University of Technology#TAB#"
+        },
+        {
+            "name": "Hans van Maaren",
+            "id": "1894395822",
+            "org": "Department of Information Systems and Algorithms, Faculty of Electrical Engineering, Mathematics and Computer Sciences, Delft University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Equivalence (measure theory)",
+        "Satisfiability",
+        "Computer science",
+        "Constraint satisfaction",
+        "Propositional calculus",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Look-ahead",
+        "Architecture"
+    ],
+    "references": [
+        "4983232",
+        "61552399",
+        "119554023",
+        "1521053613",
+        "1566273688",
+        "1585537805",
+        "1787074469",
+        "1973267383",
+        "1979328057",
+        "2033901233",
+        "2038690430",
+        "2057361103"
+    ]
+}

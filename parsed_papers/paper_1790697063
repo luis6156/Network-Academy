@@ -1,0 +1,36 @@
+{
+    "id": "1790697063",
+    "title": "Multirate Feedback Control Using the TinyRealTime Kernel",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dan Henriksson",
+            "id": "2237722748",
+            "org": "Lund Institute of Technology"
+        },
+        {
+            "name": "Anton Cervin",
+            "id": "2158105946",
+            "org": "Lund Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Context switch",
+        "Microcontroller",
+        "Computer science",
+        "Scheduling (computing)",
+        "Multithreading",
+        "Pulse-width modulation",
+        "Interrupt handler",
+        "Real-time computing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "2093100591",
+        "2127144516",
+        "2134935059",
+        "2160293203",
+        "2167463579"
+    ]
+}

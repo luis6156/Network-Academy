@@ -1,0 +1,37 @@
+{
+    "id": "1483070275",
+    "title": "Feature point detection for non-rigid registration of digital breast tomosynthesis images",
+    "venue": "international conference on digital mammography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Weiwei Zhang",
+            "id": "2657140094",
+            "org": "Wolfson Medical Vision Lab, Department of Engineering Science, University of Oxford, Oxford, UK#TAB#"
+        },
+        {
+            "name": "Sir Michael Brady",
+            "id": "2127910802",
+            "org": "Wolfson Medical Vision Lab, Department of Engineering Science, University of Oxford, Oxford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Salience (neuroscience)",
+        "Mathematics",
+        "Kanade-Lucas-Tomasi feature tracker",
+        "Computer vision",
+        "Digital Breast Tomosynthesis",
+        "Curse of dimensionality",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1574920633",
+        "1699734612",
+        "1996614143",
+        "2018450771",
+        "2047119519",
+        "2072397435",
+        "2098843990",
+        "2106155030"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1572243505",
+    "title": "Nonperfect Secret Sharing Schemes",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Wakaha Ogata",
+            "id": "2058530354",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Shigeo Tsujii",
+            "id": "2267275822",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Access structure",
+        "Discrete mathematics",
+        "Computer science",
+        "Disjoint union",
+        "Homomorphic secret sharing",
+        "Verifiable secret sharing",
+        "Secret sharing",
+        "Shamir's Secret Sharing",
+        "Upper and lower bounds",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1534695542",
+        "2031906711",
+        "2068101455",
+        "2099000090",
+        "2140752158",
+        "2141420453",
+        "2159401786",
+        "2207282964"
+    ]
+}

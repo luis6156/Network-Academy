@@ -1,0 +1,38 @@
+{
+    "id": "1550106653",
+    "title": "Delta view generation for incremental loading of large dimensions in a data warehouse",
+    "venue": "international convention on information and communication technology electronics and microelectronics",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Igor Mekterovic",
+            "id": "92060581",
+            "org": "University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia"
+        },
+        {
+            "name": "Ljiljana Brkic",
+            "id": "2050434979",
+            "org": "University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia"
+        }
+    ],
+    "fields_of_study": [
+        "Cardinality",
+        "Computer science",
+        "Data mining",
+        "Dimension table",
+        "Fact table",
+        "Data warehouse",
+        "Delta"
+    ],
+    "references": [
+        "105408422",
+        "1600445262",
+        "1762755661",
+        "2035813616",
+        "2074713486",
+        "2113450657",
+        "2141739881",
+        "2143180374",
+        "2342403919"
+    ]
+}

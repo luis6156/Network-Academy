@@ -1,0 +1,49 @@
+{
+    "id": "180975739",
+    "title": "Adaptive OpenMP for large NUMA nodes",
+    "venue": "international workshop on openmp",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Aurele Maheo",
+            "id": "2044526587",
+            "org": "Exascale Computing Research Center, Versailles, France#TAB#"
+        },
+        {
+            "name": "Souad Koliai",
+            "id": "85940538",
+            "org": "Exascale Computing Research Center, Versailles, France#TAB#"
+        },
+        {
+            "name": "Patrick Carribault",
+            "id": "2291359811",
+            "org": "CEA, DAM, DIF, Arpajon, France,Exascale Computing Research Center, Versailles, France#TAB#"
+        },
+        {
+            "name": "Marc Perache",
+            "id": "953794469",
+            "org": "CEA, DAM, DIF, Arpajon, France,Exascale Computing Research Center, Versailles, France#TAB#"
+        },
+        {
+            "name": "William Jalby",
+            "id": "2064556522",
+            "org": "Exascale Computing Research Center, Versailles, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Small number",
+        "Multi-core processor",
+        "Computer science",
+        "Synchronization (computer science)",
+        "Synchronization",
+        "Programming paradigm"
+    ],
+    "references": [
+        "1502554142",
+        "1556574299",
+        "1999752372",
+        "2091905905"
+    ]
+}

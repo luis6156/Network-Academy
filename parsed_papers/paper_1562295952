@@ -1,0 +1,39 @@
+{
+    "id": "1562295952",
+    "title": "Optimization-based Heuristics for Maximal Constraint Satisfaction",
+    "venue": "principles and practice of constraint programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Javier Larrosa",
+            "id": "2160779484",
+            "org": "Dep. Llenguatges i Sistemes Informatics, Universitat Politecnica de Catalunya, Barcelona, Spain"
+        },
+        {
+            "name": "Pedro Meseguer",
+            "id": "2068434845",
+            "org": "Dep. Llenguatges i Sistemes Informatics, Universitat Politecnica de Catalunya, Barcelona, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Constraint satisfaction problem",
+        "Heuristics",
+        "Computer science",
+        "Brute-force search",
+        "Constraint learning",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Complexity of constraint satisfaction",
+        "Backtracking",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "62346503",
+        "103830027",
+        "1500600785",
+        "1979622972",
+        "2106636566",
+        "2107792892",
+        "2120665483"
+    ]
+}

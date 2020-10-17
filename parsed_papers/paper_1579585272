@@ -1,0 +1,62 @@
+{
+    "id": "1579585272",
+    "title": "Indifferentiable security analysis of popular hash functions with prefix-free padding",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Mridul Nandi",
+            "id": "2066037550",
+            "org": "David R. Cheriton School of Computer Science, University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "RSA Laboratories and Department of Computer Science, Columbia University, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1482922493",
+        "1547189451",
+        "1547537489",
+        "1549228503",
+        "1600432225",
+        "1689385595",
+        "1754628477",
+        "1769160577",
+        "1801417685",
+        "1810651009",
+        "1863270349",
+        "1939171670",
+        "1987960290",
+        "2007585625",
+        "2052267638",
+        "2064939672",
+        "2168631744",
+        "2266102598",
+        "2592359449"
+    ]
+}

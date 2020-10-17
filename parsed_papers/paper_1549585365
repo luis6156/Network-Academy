@@ -1,0 +1,57 @@
+{
+    "id": "1549585365",
+    "title": "Policy-based resource assignment in utility computing environments",
+    "venue": "distributed systems operations and management",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Cipriano A. Santos",
+            "id": "2297051139",
+            "org": "HP Laboratories"
+        },
+        {
+            "name": "Akhil Sahai",
+            "id": "2190433758",
+            "org": "HP Laboratories"
+        },
+        {
+            "name": "Xiaoyun Zhu",
+            "id": "2303011717",
+            "org": "HP Laboratories"
+        },
+        {
+            "name": "Dirk Beyer",
+            "id": "2284748927",
+            "org": "HP Laboratories"
+        },
+        {
+            "name": "Vijay Machiraju",
+            "id": "2011745206",
+            "org": "HP Laboratories"
+        },
+        {
+            "name": "Sharad Singhal",
+            "id": "2206829121",
+            "org": "HP Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Service level",
+        "Operator (computer programming)",
+        "Computer science",
+        "Distributed computing",
+        "Constraint satisfaction",
+        "Service level objective",
+        "Assignment problem",
+        "Utility computing",
+        "Bottleneck",
+        "Shared resource"
+    ],
+    "references": [
+        "1651706339",
+        "1809943808",
+        "1988095917",
+        "2089664152",
+        "2168884369"
+    ]
+}

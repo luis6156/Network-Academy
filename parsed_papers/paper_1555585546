@@ -1,0 +1,67 @@
+{
+    "id": "1555585546",
+    "title": "2D and 3D shape based segmentation using deformable models",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ayman El-Baz",
+            "id": "2002811327",
+            "org": "Computer Vision and Image Processing Laboratory, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Seniha Esen Yuksel",
+            "id": "2135525633",
+            "org": "Computer Vision and Image Processing Laboratory, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Hongjian Shi",
+            "id": "2146043140",
+            "org": "Computer Vision and Image Processing Laboratory, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Aly A. Farag",
+            "id": "2106570123",
+            "org": "Computer Vision and Image Processing Laboratory, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Mohamed Abou El-Ghar",
+            "id": "2020463098",
+            "org": "Mansoura University, Urology and Nephrology Center, Mansoura, Egypt#TAB#"
+        },
+        {
+            "name": "Tarek El-Diasty",
+            "id": "2066626482",
+            "org": "Mansoura University, Urology and Nephrology Center, Mansoura, Egypt#TAB#"
+        },
+        {
+            "name": "Mohamed A. Ghoneim",
+            "id": "2116310930",
+            "org": "Mansoura University, Urology and Nephrology Center, Mansoura, Egypt#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Active contour model",
+        "Data set",
+        "Image segmentation",
+        "Segmentation-based object categorization",
+        "Scale-space segmentation",
+        "Signed distance function",
+        "Mutual information",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1480873147",
+        "1874027545",
+        "2020790730",
+        "2104095591",
+        "2110815705",
+        "2112713547",
+        "2125201914",
+        "2140935196"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1545518760",
+    "title": "Fast Cloth Simulation with Parallel Computers",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Sergio Romero",
+            "id": "2099483421",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Luis F. Romero",
+            "id": "2137951016",
+            "org": "Universidad de Malaga"
+        },
+        {
+            "name": "Emilio L. Zapata",
+            "id": "2096888531",
+            "org": "Universidad de Malaga"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Collision detection",
+        "Shared memory",
+        "Computer science",
+        "Data parallelism",
+        "Multiprocessing",
+        "Real-time simulation",
+        "Task parallelism",
+        "Parallel algorithm",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "2098365390",
+        "2139131733",
+        "2235036220",
+        "2239925200"
+    ]
+}

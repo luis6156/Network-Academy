@@ -1,0 +1,50 @@
+{
+    "id": "1558076723",
+    "title": "Cryptanalysis of Tweaked Versions of SMASH and Reparation",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "CNRS-Ecole normale superieure-INRIA, Paris, France#TAB#"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "CNRS-Ecole normale superieure-INRIA, Paris, France#TAB#"
+        },
+        {
+            "name": "Sebastien Zimmer",
+            "id": "2166984514",
+            "org": "CNRS-Ecole normale superieure-INRIA, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Claw-free permutation",
+        "SHA-2",
+        "Discrete mathematics",
+        "Hash buster",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "SWIFFT",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1525090271",
+        "1547537489",
+        "1548701190",
+        "1553650484",
+        "1561595833",
+        "1811456777",
+        "1826962815",
+        "1863270349",
+        "2007585625",
+        "2109450547",
+        "2121021336",
+        "2140596630",
+        "2396332221"
+    ]
+}

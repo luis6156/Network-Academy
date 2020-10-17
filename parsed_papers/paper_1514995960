@@ -1,0 +1,47 @@
+{
+    "id": "1514995960",
+    "title": "Generic monadic constructs for embedded languages",
+    "venue": "implementation and application of functional languages",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Anders Persson",
+            "id": "2306611079",
+            "org": "Chalmers University of Technology, Sweden,Ericsson, Sweden#TAB#"
+        },
+        {
+            "name": "Emil Axelsson",
+            "id": "2164961223",
+            "org": "Chalmers University of Technology, Sweden#TAB#"
+        },
+        {
+            "name": "Josef Svenningsson",
+            "id": "2055127294",
+            "org": "Chalmers University of Technology, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Syntax",
+        "Theoretical computer science",
+        "Syntactic sugar",
+        "Abstract syntax tree",
+        "Computer science",
+        "Haskell",
+        "Abstract syntax",
+        "Monad (functional programming)",
+        "Expression (mathematics)",
+        "Programming language"
+    ],
+    "references": [
+        "1578390518",
+        "1598796492",
+        "1839902311",
+        "2009464583",
+        "2055947235",
+        "2095377417",
+        "2154390633",
+        "2155762556",
+        "2163552400",
+        "2295914203"
+    ]
+}

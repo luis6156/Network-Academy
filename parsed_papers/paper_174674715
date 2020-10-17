@@ -1,0 +1,89 @@
+{
+    "id": "174674715",
+    "title": "Abstractions for usable information flow control in Aeolus",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Winnie Cheng",
+            "id": "2152424561",
+            "org": "IBM Research#TAB#"
+        },
+        {
+            "name": "Dan R. K. Ports",
+            "id": "1513655371",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "David Schultz",
+            "id": "2075901417",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Victoria Popic",
+            "id": "2085003471",
+            "org": "Stanford#TAB#"
+        },
+        {
+            "name": "Aaron Blankstein",
+            "id": "2083844947",
+            "org": "Princeton#TAB#"
+        },
+        {
+            "name": "James A. Cowling",
+            "id": "2118446708",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Dorothy Curtis",
+            "id": "2111500301",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Liuba Shrira",
+            "id": "2397731856",
+            "org": "Brandeis#TAB#"
+        },
+        {
+            "name": "Barbara Liskov",
+            "id": "2084056563",
+            "org": "MIT CSAIL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Access control",
+        "Software",
+        "USable",
+        "Confidentiality",
+        "Computer science",
+        "Computer security",
+        "Software design pattern",
+        "Data integrity",
+        "Information flow (information theory)"
+    ],
+    "references": [
+        "1488890761",
+        "1495495588",
+        "1515052812",
+        "1708253819",
+        "1979537855",
+        "1998003182",
+        "1999602293",
+        "2072722679",
+        "2086234010",
+        "2091515160",
+        "2094873755",
+        "2095881341",
+        "2122049982",
+        "2128487827",
+        "2129592257",
+        "2132185316",
+        "2136296832",
+        "2137186143",
+        "2158126684",
+        "2162283517",
+        "2171295941",
+        "2171934742"
+    ]
+}

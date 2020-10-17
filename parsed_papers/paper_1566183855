@@ -1,0 +1,36 @@
+{
+    "id": "1566183855",
+    "title": "A Formalised Proof of the Soundness and Completeness of a Simply Typed Lambda-Calculus with Explicit Substitutions",
+    "venue": "Higher-order and Symbolic Computation \\/ Lisp and Symbolic Computation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Catarina Coquand",
+            "id": "133793577",
+            "org": "Department of Computing Science, Chalmers University of Technology and University of Goteborg, 412 96 Goteborg, Sweden. catarina.coquand@cs.chalmers.se#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Proof by contradiction",
+        "Explicit substitution",
+        "Computer science",
+        "Proof theory",
+        "Soundness",
+        "Structural proof theory",
+        "Normalisation by evaluation",
+        "Analytic proof",
+        "Typed lambda calculus"
+    ],
+    "references": [
+        "1487166760",
+        "1517093898",
+        "1564971179",
+        "1965297988",
+        "1965946010",
+        "2008350386",
+        "2102151984",
+        "2141636159",
+        "2295866357"
+    ]
+}

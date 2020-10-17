@@ -1,0 +1,61 @@
+{
+    "id": "144112633",
+    "title": "Untangling the web from DNS",
+    "venue": "networked systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Walfish",
+            "id": "2048602404",
+            "org": "MIT Computer Science and AI Laboratory(CSAIL), Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Hari Balakrishnan",
+            "id": "1998464616",
+            "org": "MIT Computer Science and AI Laboratory(CSAIL), Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Scott Shenker",
+            "id": "719828399",
+            "org": "International Computer Science Institute(ICSI), Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "DNS root zone",
+        "DNS hijacking",
+        "Computer science",
+        "Distributed computing",
+        "Web service",
+        "Zone file",
+        "DNS zone transfer",
+        "Round-robin DNS",
+        "Data Web",
+        "DNS zone"
+    ],
+    "references": [
+        "68704714",
+        "95244180",
+        "1492552531",
+        "1494946454",
+        "1521745901",
+        "1528968435",
+        "1569390896",
+        "1641167210",
+        "1659266332",
+        "1828150029",
+        "1952358266",
+        "2096392987",
+        "2104112849",
+        "2118428193",
+        "2118956317",
+        "2120626294",
+        "2122269925",
+        "2124673191",
+        "2150676586",
+        "2152226783",
+        "2157525327",
+        "2158049821",
+        "2165071399"
+    ]
+}

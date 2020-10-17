@@ -1,0 +1,53 @@
+{
+    "id": "1535367564",
+    "title": "On label stream partition for efficient holistic twig join",
+    "venue": "database systems for advanced applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Bo Chen",
+            "id": "2441309137",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        },
+        {
+            "name": "Tok Wang Ling",
+            "id": "2101052892",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        },
+        {
+            "name": "M. Tamer Ozsu",
+            "id": "360895095",
+            "org": "David R. Cheriton School of Computer Science, University of Waterloo#TAB#"
+        },
+        {
+            "name": "Zhenzhou Zhu",
+            "id": "2491822831",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Partition (number theory)",
+        "STREAMS",
+        "Prefix",
+        "Recursion",
+        "XML",
+        "Computer science",
+        "Database",
+        "Twig",
+        "Adaptability",
+        "Performance tuning"
+    ],
+    "references": [
+        "1481200545",
+        "1644635642",
+        "1994694191",
+        "2061884758",
+        "2113836856",
+        "2119916966",
+        "2125624534",
+        "2138993259",
+        "2140907203",
+        "2142876691",
+        "2626304854"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1773637958",
+    "title": "A Scalable Parallel Assembly for Irregular Meshes Based on a Block Distribution for a Parallel Block Direct Solver",
+    "venue": "parallel computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "David Goudin",
+            "id": "2077536307",
+            "org": "ENSERB, CNRS UMR 5800"
+        },
+        {
+            "name": "Jean Roman",
+            "id": "2777638431",
+            "org": "ENSERB, CNRS UMR 5800"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical analysis",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Structural mechanics",
+        "Polygon mesh",
+        "Computer science",
+        "Finite element method",
+        "Linear system",
+        "Parallel algorithm",
+        "Solver",
+        "Matrix calculus"
+    ],
+    "references": [
+        "44937787",
+        "1502529739",
+        "1540842995",
+        "1583920484",
+        "1584866192"
+    ]
+}

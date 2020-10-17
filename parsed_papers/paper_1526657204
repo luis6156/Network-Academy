@@ -1,0 +1,41 @@
+{
+    "id": "1526657204",
+    "title": "Bit-Parallel Branch and Bound Algorithm for Transposition Invariant LCS",
+    "venue": "string processing and information retrieval",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kjell Lemstrom",
+            "id": "2036457614",
+            "org": "University of Helsinki"
+        },
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "University of Chile"
+        },
+        {
+            "name": "Yoan J. Pinzon",
+            "id": "2160579906",
+            "org": "King's College, London"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Branch and bound",
+        "Longest common subsequence problem",
+        "Discrete mathematics",
+        "Invariant (mathematics)",
+        "Parallel algorithm",
+        "Priority queue",
+        "Combinatorics",
+        "Transposition (music)",
+        "String (computer science)",
+        "Subsequence"
+    ],
+    "references": [
+        "1480672942",
+        "1483860815",
+        "1495524224"
+    ]
+}

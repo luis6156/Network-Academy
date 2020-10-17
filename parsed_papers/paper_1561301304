@@ -1,0 +1,88 @@
+{
+    "id": "1561301304",
+    "title": "Anomaly-based spam filtering",
+    "venue": "international conference on security and cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Igor Santos",
+            "id": "2236460100",
+            "org": "S3 Lab, DeustoTech - Computing, Deusto Institute of Technology, University of Deusto, Avenida de las Universidades 24, 48007, Bilbao, Spain"
+        },
+        {
+            "name": "Carlos Laorden",
+            "id": "2041558564",
+            "org": "S3 Lab, DeustoTech - Computing, Deusto Institute of Technology, University of Deusto, Avenida de las Universidades 24, 48007, Bilbao, Spain"
+        },
+        {
+            "name": "Xabier Ugarte-Pedrero",
+            "id": "359469257",
+            "org": "S3 Lab, DeustoTech - Computing, Deusto Institute of Technology, University of Deusto, Avenida de las Universidades 24, 48007, Bilbao, Spain"
+        },
+        {
+            "name": "Borja Sanz",
+            "id": "2164278885",
+            "org": "S3 Lab, DeustoTech - Computing, Deusto Institute of Technology, University of Deusto, Avenida de las Universidades 24, 48007, Bilbao, Spain"
+        },
+        {
+            "name": "Pablo Garcia Bringas",
+            "id": "2114449540",
+            "org": "S3 Lab, DeustoTech - Computing, Deusto Institute of Technology, University of Deusto, Avenida de las Universidades 24, 48007, Bilbao, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Computer virus",
+        "Computer science",
+        "Communication channel",
+        "Bag-of-words model",
+        "Computer security",
+        "Communication source",
+        "Filter (signal processing)",
+        "Anomaly detection",
+        "Phishing",
+        "Spam and Open Relay Blocking System"
+    ],
+    "references": [
+        "26591655",
+        "73527130",
+        "167016754",
+        "181442886",
+        "1504008138",
+        "1513158862",
+        "1530010412",
+        "1574043915",
+        "1660390307",
+        "1680392829",
+        "1694600695",
+        "1731244441",
+        "1924689489",
+        "1956559956",
+        "1967088428",
+        "2033485922",
+        "2041597619",
+        "2080557752",
+        "2089923329",
+        "2099606292",
+        "2101317674",
+        "2104290684",
+        "2107555749",
+        "2110119381",
+        "2112048775",
+        "2116801843",
+        "2118020653",
+        "2118157107",
+        "2120011452",
+        "2121320294",
+        "2121537574",
+        "2149706766",
+        "2154318594",
+        "2165612380",
+        "2166490929",
+        "2169038408",
+        "2169384781",
+        "2335888457",
+        "2401383085",
+        "2408223895",
+        "2436001372"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "1522615192",
+    "title": "Invariant and type inference for matrices",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Thomas A. Henzinger",
+            "id": "2707196735",
+            "org": "IST Austria (Institute of Science and Technology, Austria)#TAB#"
+        },
+        {
+            "name": "Thibaud Hottelier",
+            "id": "2222266202",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Laura Kovacs",
+            "id": "2117444839",
+            "org": "ETH Zurich#TAB#"
+        },
+        {
+            "name": "Andrei Voronkov",
+            "id": "2106828797",
+            "org": "University of Manchester#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Loop invariant",
+        "Theoretical computer science",
+        "Diagonal",
+        "Vampire",
+        "Invariant (mathematics)",
+        "Matrix (mathematics)",
+        "Computer science",
+        "Type inference",
+        "Loop tiling"
+    ],
+    "references": [
+        "26338302",
+        "171295454",
+        "1480909796",
+        "1503677488",
+        "1517192598",
+        "1556566737",
+        "1557130751",
+        "1573992413",
+        "1577276830",
+        "1585981132",
+        "1711276981",
+        "1780472831",
+        "1807555267",
+        "1971043610",
+        "1972085995",
+        "2003141394",
+        "2004746351",
+        "2015362443",
+        "2060697066",
+        "2066210260",
+        "2098045685",
+        "2106661290",
+        "2111950041",
+        "2132251441",
+        "2132638915",
+        "2160573490",
+        "2611153783",
+        "2785616602",
+        "2785798767"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1500253167",
+    "title": "Identity-based proxy re-encryption without random oracles",
+    "venue": "international conference on information security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Cheng-Kang Chu",
+            "id": "2204382330",
+            "org": "Department of Computer Science, National Chiao Tung University, Hsinchu, Taiwan#TAB#"
+        },
+        {
+            "name": "Wen-Guey Tzeng",
+            "id": "1972049170",
+            "org": "Department of Computer Science, National Chiao Tung University, Hsinchu, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Proxy re-encryption",
+        "Delegate",
+        "Malleability",
+        "Distributed computing",
+        "Internet privacy",
+        "Computer science",
+        "Ciphertext indistinguishability",
+        "Ciphertext",
+        "Random oracle",
+        "Attribute-based encryption",
+        "Semantic security"
+    ],
+    "references": [
+        "126735607",
+        "1486107224",
+        "1495266644",
+        "1497974906",
+        "1526778951",
+        "1567827377",
+        "1589625251",
+        "1590823599",
+        "1592092778",
+        "1890078278",
+        "1981398410",
+        "2086042811",
+        "2097638666",
+        "2114428623",
+        "2117685508",
+        "2152688060",
+        "2152924492",
+        "2164101323"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "138837884",
+    "title": "Implementing OpenSHMEM Using MPI-3 One-Sided Communication",
+    "venue": "OpenSHMEM 2014 Proceedings of the First Workshop on OpenSHMEM and Related Technologies. Experiences, Implementations, and Tools - Volume 8356",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jeff R. Hammond",
+            "id": "2174198211",
+            "org": "Argonne National Laboratory, Argonne, USA#TAB#"
+        },
+        {
+            "name": "Sayan Ghosh",
+            "id": "2113612312",
+            "org": "Dept. of Computer Science, University of Houston, Houston, USA#TAB#"
+        },
+        {
+            "name": "Barbara M. Chapman",
+            "id": "2142555485",
+            "org": "Dept. of Computer Science, University of Houston, Houston, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "SHMEM"
+    ],
+    "references": [
+        "3327594",
+        "1603557073",
+        "1783891441",
+        "1861151562",
+        "1980826401",
+        "2012313745",
+        "2021832643",
+        "2069079195",
+        "2108369438",
+        "2169240096",
+        "2207785195"
+    ]
+}

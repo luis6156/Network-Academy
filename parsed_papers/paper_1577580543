@@ -1,0 +1,101 @@
+{
+    "id": "1577580543",
+    "title": "Open MPI's TEG Point-to-Point Communications Methodology: Comparison to Existing Implementations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Timothy S. Woodall",
+            "id": "2029622895",
+            "org": "Los Alamos National Lab"
+        },
+        {
+            "name": "Richard L. Graham",
+            "id": "2239366155",
+            "org": "Los Alamos National Lab"
+        },
+        {
+            "name": "Ralph H. Castain",
+            "id": "2578738835",
+            "org": "Los Alamos National Lab"
+        },
+        {
+            "name": "David Daniel",
+            "id": "2148362046",
+            "org": "Los Alamos National Lab"
+        },
+        {
+            "name": "Mitchel W. Sukalski",
+            "id": "2495563666",
+            "org": "Sandia National Laboratories"
+        },
+        {
+            "name": "Graham E. Fagg",
+            "id": "2021370764",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Edgar Gabriel",
+            "id": "2121272056",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "George Bosilca",
+            "id": "339462875",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Thara Angskun",
+            "id": "326142508",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Jeffrey M. Squyres",
+            "id": "169428505",
+            "org": "Indiana University"
+        },
+        {
+            "name": "Vishal Sahay",
+            "id": "2112122262",
+            "org": "Indiana University"
+        },
+        {
+            "name": "Prabhanjan Kambadur",
+            "id": "2707162949",
+            "org": "Indiana University"
+        },
+        {
+            "name": "Brian Barrett",
+            "id": "2619323566",
+            "org": "Indiana University"
+        },
+        {
+            "name": "Andrew Lumsdaine",
+            "id": "2140207053",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Homogeneous",
+        "Point-to-point",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Bandwidth (signal processing)",
+        "Message passing",
+        "Virtual machine"
+    ],
+    "references": [
+        "21025594",
+        "1498659283",
+        "1552339343",
+        "1641327695",
+        "1825216778"
+    ]
+}

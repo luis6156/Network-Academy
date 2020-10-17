@@ -1,0 +1,62 @@
+{
+    "id": "1555436626",
+    "title": "Tree-based RFID authentication protocols are definitively not privacy-friendly",
+    "venue": "radio frequency identification security and privacy issues",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Gildas Avoine",
+            "id": "216851153",
+            "org": "Universite catholique de Louvain, Information Security Group, Louvain-La-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Benjamin Martin",
+            "id": "2233977461",
+            "org": "Universite catholique de Louvain, Information Security Group, Louvain-La-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Tania Martin",
+            "id": "2192953131",
+            "org": "Universite catholique de Louvain, Information Security Group, Louvain-La-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Adversary model",
+        "Tamper resistance",
+        "Authentication protocol",
+        "Cryptographic protocol",
+        "Radio-frequency identification",
+        "Computer science",
+        "Computer security",
+        "Authentication",
+        "Adversary"
+    ],
+    "references": [
+        "1482597729",
+        "1496535307",
+        "1501377203",
+        "1529679142",
+        "1542961876",
+        "1572614022",
+        "1583816927",
+        "1671464876",
+        "1888833244",
+        "1930460466",
+        "1965515427",
+        "2042143463",
+        "2076545682",
+        "2091860529",
+        "2099841931",
+        "2109670832",
+        "2110617036",
+        "2122988350",
+        "2126571539",
+        "2134011023",
+        "2139323614",
+        "2144298891",
+        "2149736837",
+        "2160584199",
+        "2398026502"
+    ]
+}

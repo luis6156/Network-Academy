@@ -1,0 +1,58 @@
+{
+    "id": "1505624251",
+    "title": "Minimizing paging tradeoffs applying coscheduling techniques in a linux cluster",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Francesc Gine",
+            "id": "2127085891",
+            "org": "Departamento de Informatica e Ingenieria Industrial, Universitat de Lleida, Lleida, Spain#TAB#"
+        },
+        {
+            "name": "Francesc Solsona",
+            "id": "2160905572",
+            "org": "Departamento de Informatica e Ingenieria Industrial, Universitat de Lleida, Lleida, Spain#TAB#"
+        },
+        {
+            "name": "Porfidio Hernandez",
+            "id": "2169316363",
+            "org": "Departamento de Informatica, Universitat Autonoma de Barcelona, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Emilio Luque",
+            "id": "2126325555",
+            "org": "Departamento de Informatica, Universitat Autonoma de Barcelona, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Paging",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Coscheduling",
+        "Grid computing",
+        "Computer cluster",
+        "Virtual memory",
+        "Workstation",
+        "Page fault"
+    ],
+    "references": [
+        "1564387987",
+        "1565423337",
+        "1587469317",
+        "1589576271",
+        "1861933395",
+        "1964102716",
+        "1964880723",
+        "2036398208",
+        "2064157002",
+        "2103686944",
+        "2106293656",
+        "2135131646",
+        "2140332639",
+        "2142404721",
+        "2168722543"
+    ]
+}

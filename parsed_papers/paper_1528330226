@@ -1,0 +1,59 @@
+{
+    "id": "1528330226",
+    "title": "Efficient multiparty computations secure against an adaptive adversary",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ronald Cramer",
+            "id": "2644106547",
+            "org": "ETH Zurich#TAB#"
+        },
+        {
+            "name": "Ivan Damgard",
+            "id": "2635712856",
+            "org": "Aarhus University, BRICS#TAB#"
+        },
+        {
+            "name": "Stefan Dziembowski",
+            "id": "2072459584",
+            "org": "Aarhus University, BRICS#TAB#"
+        },
+        {
+            "name": "Martin Hirt",
+            "id": "2162104603",
+            "org": "ETH Zurich#TAB#"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Adversary model",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Digital signature",
+        "Verifiable secret sharing",
+        "Secret sharing",
+        "Adversary",
+        "Secure two-party computation",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1540442590",
+        "1556155774",
+        "1997859100",
+        "2033766329",
+        "2036133214",
+        "2052193425",
+        "2066866752",
+        "2096430557",
+        "2120551550",
+        "2161670619",
+        "2169127491"
+    ]
+}

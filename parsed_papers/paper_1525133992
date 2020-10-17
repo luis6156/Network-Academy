@@ -1,0 +1,54 @@
+{
+    "id": "1525133992",
+    "title": "Simulating Job Scheduling for Clusters of Workstations",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "J. Santoso",
+            "id": "2462820469",
+            "org": "Universiteit van Amsterdam"
+        },
+        {
+            "name": "G. Dick van Albada",
+            "id": "2001871361",
+            "org": "Universiteit van Amsterdam"
+        },
+        {
+            "name": "Bobby A. A. Nazief",
+            "id": "2176355971",
+            "org": "Department of Computer Science, University of Indonesia Jakarta, Indonesia,"
+        },
+        {
+            "name": "Peter M. A. Sloot",
+            "id": "655325276",
+            "org": "Universiteit van Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Job queue",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Job scheduler",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1492040731",
+        "1552682071",
+        "1569944546",
+        "1596277129",
+        "1978187499",
+        "2095595785",
+        "2106927532",
+        "2108550979",
+        "2145456577",
+        "2168722543"
+    ]
+}

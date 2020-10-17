@@ -1,0 +1,44 @@
+{
+    "id": "1549438956",
+    "title": "Balancing parallel adaptive FEM computations by solving systems of linear equations",
+    "venue": "european conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Henning Meyerhenke",
+            "id": "336412734",
+            "org": "Fakultat fur Elektrotechnik, Informatik und Mathematik, Universitat Paderborn, Paderborn#TAB#"
+        },
+        {
+            "name": "Stefan Schamberger",
+            "id": "2100124067",
+            "org": "Fakultat fur Elektrotechnik, Informatik und Mathematik, Universitat Paderborn, Paderborn#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear equation",
+        "Mathematics",
+        "System of linear equations",
+        "Heuristics",
+        "Discrete mathematics",
+        "Finite element method",
+        "Graph partition",
+        "Degree of parallelism",
+        "Parallel algorithm",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "151194056",
+        "1490530634",
+        "1505050951",
+        "1566266975",
+        "1984872340",
+        "1986076296",
+        "1998658698",
+        "2006127455",
+        "2020140168",
+        "2031808753",
+        "2118953734",
+        "2121075095"
+    ]
+}

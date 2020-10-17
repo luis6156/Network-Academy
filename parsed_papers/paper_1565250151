@@ -1,0 +1,49 @@
+{
+    "id": "1565250151",
+    "title": "Automatic labeling inconsistencies detection and correction for sentence unit segmentation in conversational speech",
+    "venue": "international conference on machine learning",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sebastien Cuendet",
+            "id": "2692320211",
+            "org": "International Computer Science Institute, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Dilek Hakkani-Tur",
+            "id": "2090472531",
+            "org": "International Computer Science Institute, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Elizabeth Shriberg",
+            "id": "2000023593",
+            "org": "International Computer Science Institute, Berkeley, CA and Speech Technology and Research Laboratory, SRI International, Menlo Park, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Training set",
+        "Pattern recognition",
+        "Computer science",
+        "Classifier (linguistics)",
+        "Dialog box",
+        "Dialog act",
+        "Sentence",
+        "Boosting (machine learning)",
+        "Error detection and correction",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "40475138",
+        "1503312748",
+        "1529196404",
+        "1532027897",
+        "1543388142",
+        "1578877992",
+        "1604374636",
+        "2089933214",
+        "2139828426",
+        "2146785422"
+    ]
+}

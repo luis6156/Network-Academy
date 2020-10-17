@@ -1,0 +1,40 @@
+{
+    "id": "1590272516",
+    "title": "The Nearest Neighbor Problem on Bounded Domains",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Rolf G. Karlsson",
+            "id": "2745074860",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "J. Ian Munro",
+            "id": "2136616430",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Edward L. Robertson",
+            "id": "2151243420",
+            "org": "Indiana University"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "k-nearest neighbors algorithm",
+        "Priority queue",
+        "Nearest neighbor graph",
+        "Combinatorics",
+        "Bounded function",
+        "Best bin first",
+        "Nearest-neighbor chain algorithm",
+        "Ball tree"
+    ],
+    "references": [
+        "2090021115",
+        "2090747326",
+        "2108049451"
+    ]
+}

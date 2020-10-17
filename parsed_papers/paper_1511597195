@@ -1,0 +1,65 @@
+{
+    "id": "1511597195",
+    "title": "Implementation and Use of Transactional Memory with Dynamic Separation",
+    "venue": "compiler construction",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Abadi",
+            "id": "2162106674",
+            "org": "Microsoft Research, Silicon Valley and University of California, Santa Cruz#TAB#"
+        },
+        {
+            "name": "Andrew Birrell",
+            "id": "2779861439",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        },
+        {
+            "name": "Tim Harris",
+            "id": "2098327013",
+            "org": "Microsoft Research, Cambridge#TAB#"
+        },
+        {
+            "name": "Johnson Hsieh",
+            "id": "2123673398",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        },
+        {
+            "name": "Michael Isard",
+            "id": "2004792601",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Transactional memory",
+        "Computer science",
+        "Programmer",
+        "Atomicity",
+        "Asynchronous I/O",
+        "Real-time computing",
+        "Software transactional memory",
+        "Programming language"
+    ],
+    "references": [
+        "1496111390",
+        "1542975293",
+        "2030159266",
+        "2060499019",
+        "2086512828",
+        "2094222793",
+        "2103847662",
+        "2107859560",
+        "2113751407",
+        "2116145395",
+        "2119653453",
+        "2126501440",
+        "2129990308",
+        "2138411837",
+        "2152390090",
+        "2152988224",
+        "2153099072",
+        "2155512712",
+        "2172064476"
+    ]
+}

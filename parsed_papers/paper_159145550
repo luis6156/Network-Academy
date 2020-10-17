@@ -1,0 +1,70 @@
+{
+    "id": "159145550",
+    "title": "On the design of hardware building blocks for modern lattice-based encryption schemes",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Norman Gottert",
+            "id": "1259888144",
+            "org": "CASED - Center for Advanced Security Research Darmstadt, Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Feller",
+            "id": "2307232141",
+            "org": "CASED - Center for Advanced Security Research Darmstadt, Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Michael Schneider",
+            "id": "2343253050",
+            "org": "CASED - Center for Advanced Security Research Darmstadt, Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Johannes A. Buchmann",
+            "id": "1552168940",
+            "org": "CASED - Center for Advanced Security Research Darmstadt, Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Sorin A. Huss",
+            "id": "1892259612",
+            "org": "CASED - Center for Advanced Security Research Darmstadt, Technische Universitat Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer hardware",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Lattice-based cryptography",
+        "Encryption",
+        "Cryptosystem",
+        "Learning with errors",
+        "Fast Fourier transform",
+        "Polynomial ring",
+        "Polynomial"
+    ],
+    "references": [
+        "121367636",
+        "180488756",
+        "1506156414",
+        "1521253015",
+        "1565273324",
+        "1580991036",
+        "1675339804",
+        "1717406790",
+        "1936753088",
+        "1991133427",
+        "2031533839",
+        "2038761522",
+        "2058785578",
+        "2061949491",
+        "2096218735",
+        "2098290658",
+        "2105957516",
+        "2106970188",
+        "2107217398",
+        "2113333997",
+        "2525966718"
+    ]
+}

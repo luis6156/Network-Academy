@@ -1,0 +1,73 @@
+{
+    "id": "141166938",
+    "title": "Security Amplification against Meet-in-the-Middle Attacks Using Whitening",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Universite de Rennes 1, France and Institut universitaire de France, France#TAB#"
+        },
+        {
+            "name": "Pierre Karpman",
+            "id": "134527105",
+            "org": "Ecole normale superieure de Cachan, antenne de Bretagne, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Key schedule",
+        "Block cipher mode of operation",
+        "Computer science",
+        "Computer security",
+        "Key whitening",
+        "Triple DES",
+        "CBC-MAC",
+        "Correlation attack"
+    ],
+    "references": [
+        "96390377",
+        "98505615",
+        "163056614",
+        "1485064528",
+        "1499593564",
+        "1507705751",
+        "1515595447",
+        "1527450129",
+        "1527545029",
+        "1530387410",
+        "1535753181",
+        "1537206908",
+        "1541483074",
+        "1553792294",
+        "1571067952",
+        "1575126375",
+        "1575149347",
+        "1599175145",
+        "1801417685",
+        "1810232834",
+        "1814882979",
+        "1838677899",
+        "1851910379",
+        "1970042430",
+        "1991374982",
+        "1991897749",
+        "1997025789",
+        "2028694851",
+        "2090921898",
+        "2096218735",
+        "2109450547",
+        "2109710975",
+        "2109766996",
+        "2119874003",
+        "2126290606",
+        "2153971105",
+        "2177399963",
+        "2206761661",
+        "2252401345",
+        "2402473210"
+    ]
+}

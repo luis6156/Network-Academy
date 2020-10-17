@@ -1,0 +1,68 @@
+{
+    "id": "1571777183",
+    "title": "Instantiating Uninterpreted Functional Units and Memory System: Functional Verification of the VAMP",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sven Beyer",
+            "id": "2131392227",
+            "org": "Saarland University"
+        },
+        {
+            "name": "Chris Jacobi",
+            "id": "2317010426",
+            "org": "IBM Deutschland Entwicklung GmbH, Processor Dev. II"
+        },
+        {
+            "name": "Daniel Kroning",
+            "id": "2047673997",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Dirk Leinenbach",
+            "id": "1239198714",
+            "org": "Saarland University"
+        },
+        {
+            "name": "Wolfgang J. Paul",
+            "id": "2169524188",
+            "org": "Saarland University"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Tomasulo algorithm",
+        "Parallel computing",
+        "Functional verification",
+        "Floating-point unit",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Instruction set",
+        "CPU cache",
+        "Architecture"
+    ],
+    "references": [
+        "28018973",
+        "1489215519",
+        "1496710542",
+        "1500286044",
+        "1506611120",
+        "1515542122",
+        "1522486882",
+        "1534850143",
+        "1540389367",
+        "1555915743",
+        "1737941572",
+        "1782705083",
+        "1917425894",
+        "1934511824",
+        "2066689215",
+        "2108236931",
+        "2110011370",
+        "2133088975",
+        "2157202675",
+        "2160340574"
+    ]
+}

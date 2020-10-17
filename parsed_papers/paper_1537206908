@@ -1,0 +1,32 @@
+{
+    "id": "1537206908",
+    "title": "The First Experimental Cryptanalysis of the Data Encryption Standard",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Mitsubishi Electric Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "XSL attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Algorithm",
+        "Piling-up lemma",
+        "Computer science",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Known-plaintext attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "380217570",
+        "1567734037",
+        "1964723977",
+        "2071381324"
+    ]
+}

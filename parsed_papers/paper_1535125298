@@ -1,0 +1,46 @@
+{
+    "id": "1535125298",
+    "title": "New Security Results on Encrypted Key Exchange",
+    "venue": "public key cryptography",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Emmanuel Bresson",
+            "id": "1781639045",
+            "org": "Dept Cryptologie, CELAR"
+        },
+        {
+            "name": "Olivier Chevassut",
+            "id": "2141219601",
+            "org": "Lawrence Berkeley National Laboratory"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "Ecole normale superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cipher",
+        "Key exchange",
+        "Session key",
+        "Computer science",
+        "Encryption",
+        "Encrypted key exchange",
+        "Password",
+        "Hash function",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "203500824",
+        "1805165030",
+        "2041027981",
+        "2052267638",
+        "2077300005",
+        "2091020476",
+        "2124926080",
+        "2152091451",
+        "2157604883"
+    ]
+}

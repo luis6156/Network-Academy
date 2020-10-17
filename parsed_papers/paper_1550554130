@@ -1,0 +1,36 @@
+{
+    "id": "1550554130",
+    "title": "Issues in developing a thread-safe MPI implementation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Thread safety",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing",
+        "Reference counting",
+        "Virtual machine",
+        "User interface"
+    ],
+    "references": [
+        "1500862294",
+        "1563772499",
+        "2053663473",
+        "2101431901"
+    ]
+}

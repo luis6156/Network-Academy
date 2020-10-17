@@ -1,0 +1,57 @@
+{
+    "id": "1558515754",
+    "title": "Efficient Software Implementation of AES on 32-Bit Platforms",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Guido Bertoni",
+            "id": "2106307877",
+            "org": "Politecnico di Milano, Milano, Italy"
+        },
+        {
+            "name": "Luca Breveglieri",
+            "id": "2183519221",
+            "org": "Politecnico di Milano, Milano, Italy"
+        },
+        {
+            "name": "Pasqualina Fragneto",
+            "id": "1656854999",
+            "org": "STMicroelectronics"
+        },
+        {
+            "name": "Marco Macchetti",
+            "id": "85265937",
+            "org": "ALaRI Universita della Svizzera Italiana"
+        },
+        {
+            "name": "Stefano Marchesin",
+            "id": "1967163559",
+            "org": "ALaRI Universita della Svizzera Italiana"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Speedup",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Implementation",
+        "AES implementations",
+        "32-bit",
+        "Smart card"
+    ],
+    "references": [
+        "6070081",
+        "1487268209",
+        "1512062395",
+        "1573725807",
+        "2004513455",
+        "2127305108",
+        "2127752881",
+        "2135430020",
+        "2145881907"
+    ]
+}

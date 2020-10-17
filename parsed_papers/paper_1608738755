@@ -1,0 +1,49 @@
+{
+    "id": "1608738755",
+    "title": "AQL: A Query Language for Action Domains Modelled Using Answer Set Programming",
+    "venue": "international conference on logic programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Luke Hopton",
+            "id": "2075127131",
+            "org": "Department of Computer Science, University of Bath, BATH, UK BA2 7AY#TAB#"
+        },
+        {
+            "name": "Owen Cliffe",
+            "id": "2074551102",
+            "org": "Department of Computer Science, University of Bath, BATH, UK BA2 7AY#TAB#"
+        },
+        {
+            "name": "Marina De Vos",
+            "id": "2146953997",
+            "org": "Department of Computer Science, University of Bath, BATH, UK BA2 7AY#TAB#"
+        },
+        {
+            "name": "Julian Padget",
+            "id": "2040998117",
+            "org": "Department of Computer Science, University of Bath, BATH, UK BA2 7AY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Object Query Language",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Transition system",
+        "Action language",
+        "Query language",
+        "Answer set programming",
+        "RDF query language",
+        "Query optimization",
+        "Programming language"
+    ],
+    "references": [
+        "42515457",
+        "1491161489",
+        "1500046621",
+        "2072046078",
+        "2118823189"
+    ]
+}

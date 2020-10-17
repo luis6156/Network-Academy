@@ -1,0 +1,47 @@
+{
+    "id": "1580172939",
+    "title": "Parallel 3D Airflow Simulation on Workstation Clusters",
+    "venue": "high performance computing for computational science (vector and parallel processing)",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jean-Baptiste Vicaire",
+            "id": "2699504424",
+            "org": "LHPC & INRIA REMAP"
+        },
+        {
+            "name": "Loic Prylli",
+            "id": "2723446027",
+            "org": "LHPC & INRIA REMAP"
+        },
+        {
+            "name": "Georges Perrot",
+            "id": "2627368478",
+            "org": "LHPC & INRIA REMAP"
+        },
+        {
+            "name": "Bernard Tourancheau",
+            "id": "228276202",
+            "org": "LHPC & INRIA REMAP"
+        }
+    ],
+    "fields_of_study": [
+        "Wing",
+        "Inviscid flow",
+        "Theoretical computer science",
+        "Conservative vector field",
+        "Method Code",
+        "Computational science",
+        "Computer science",
+        "Cluster (physics)",
+        "Compressibility",
+        "Workstation",
+        "Airflow"
+    ],
+    "references": [
+        "1521734293",
+        "1981753901",
+        "2006227965",
+        "2070588089"
+    ]
+}

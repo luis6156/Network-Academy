@@ -1,0 +1,48 @@
+{
+    "id": "1574299633",
+    "title": "Novel Precomputation Schemes for Elliptic Curve Cryptosystems",
+    "venue": "applied cryptography and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Patrick Longa",
+            "id": "2894101273",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Catherine H. Gebotys",
+            "id": "258752153",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Lenstra elliptic curve factorization",
+        "Edwards curve",
+        "Curve25519",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "25568184",
+        "1481078266",
+        "1486764722",
+        "1493254810",
+        "1501115028",
+        "1504986807",
+        "1523099545",
+        "1523814493",
+        "1543173858",
+        "1565378600",
+        "1634503271",
+        "2003736153",
+        "2025568631",
+        "2122183684",
+        "2154290215",
+        "2166362740"
+    ]
+}

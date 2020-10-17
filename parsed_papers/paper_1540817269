@@ -1,0 +1,37 @@
+{
+    "id": "1540817269",
+    "title": "Reduce-To-The-Opt - A Specialized Search Algorithm for Contiguous Task Scheduling",
+    "venue": "International Workshop on Constraint Solving and Constraint Logic Programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Armin Wolf",
+            "id": "2896199922",
+            "org": "Fraunhofer FIRST"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Flow shop scheduling",
+        "Fair-share scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Multiprocessor scheduling"
+    ],
+    "references": [
+        "77085378",
+        "1547956499",
+        "1555523867",
+        "1556356866",
+        "1603228053",
+        "1606408728",
+        "1610326124",
+        "2043829066",
+        "2515739417"
+    ]
+}

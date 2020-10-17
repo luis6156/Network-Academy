@@ -1,0 +1,64 @@
+{
+    "id": "1499577822",
+    "title": "New combined attacks on block ciphers",
+    "venue": "fast software encryption",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Interpolation attack",
+        "Integral cryptanalysis",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Correlation attack"
+    ],
+    "references": [
+        "52191336",
+        "106933294",
+        "1493062108",
+        "1523702841",
+        "1530798571",
+        "1541703086",
+        "1541853791",
+        "1547723203",
+        "1553753418",
+        "1556727271",
+        "1558609276",
+        "1560088258",
+        "1565173996",
+        "1587120902",
+        "1598870173",
+        "1605116544",
+        "1605786664",
+        "1724006351",
+        "1765803531",
+        "1862865750",
+        "1882652738",
+        "1964723977",
+        "1979802565",
+        "2061323203",
+        "2109265351",
+        "2234576048",
+        "2585139507"
+    ]
+}

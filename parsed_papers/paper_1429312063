@@ -1,0 +1,75 @@
+{
+    "id": "1429312063",
+    "title": "Cryptography with One-Way Communication",
+    "venue": "international cryptology conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Sanjam Garg",
+            "id": "2111572205",
+            "org": "UC Berkeley"
+        },
+        {
+            "name": "Yuval Ishai",
+            "id": "114908009",
+            "org": "Technion"
+        },
+        {
+            "name": "Eyal Kushilevitz",
+            "id": "307687659",
+            "org": "Technion"
+        },
+        {
+            "name": "Rafail Ostrovsky",
+            "id": "1482108584",
+            "org": "UCLA"
+        },
+        {
+            "name": "Amit Sahai",
+            "id": "2159933393",
+            "org": "UCLA"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Oblivious transfer",
+        "Theoretical computer science",
+        "Computer science",
+        "Communication channel",
+        "Communication source",
+        "Binary symmetric channel",
+        "Random oracle",
+        "Binary erasure channel",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "182801106",
+        "1499934958",
+        "1500114912",
+        "1508362310",
+        "1518741963",
+        "1550795257",
+        "1557288322",
+        "1560201081",
+        "1560855680",
+        "1561273806",
+        "1567505539",
+        "1572606260",
+        "1587274254",
+        "1592625985",
+        "1710959251",
+        "1887434847",
+        "1995926987",
+        "2007661134",
+        "2016443801",
+        "2028766304",
+        "2073236787",
+        "2104883478",
+        "2123025883",
+        "2153708829",
+        "2154300278",
+        "2157164384",
+        "2181513051",
+        "2351245918"
+    ]
+}

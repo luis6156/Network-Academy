@@ -1,0 +1,34 @@
+{
+    "id": "1618549302",
+    "title": "Managing large networks of virtual machines",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kyrre M. Begnum",
+            "id": "1275680867",
+            "org": "Oslo University College#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Full virtualization",
+        "Virtualization",
+        "Literature",
+        "Render farm",
+        "Computer science",
+        "Distributed computing",
+        "Kernel virtual address space",
+        "Hardware virtualization",
+        "Data center",
+        "Virtual machine",
+        "Temporal isolation among virtual machines",
+        "Real-time computing"
+    ],
+    "references": [
+        "11812818",
+        "1844590493",
+        "2111977767",
+        "2124022185",
+        "2131726714"
+    ]
+}

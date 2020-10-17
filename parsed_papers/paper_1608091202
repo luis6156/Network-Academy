@@ -1,0 +1,56 @@
+{
+    "id": "1608091202",
+    "title": "Capsicum: practical capabilities for UNIX",
+    "venue": "usenix security symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Robert N. M. Watson",
+            "id": "2101946122",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Jonathan Anderson",
+            "id": "2569118035",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Ben Laurie",
+            "id": "2054366643",
+            "org": "Google UK Ltd.#TAB#"
+        },
+        {
+            "name": "Kris Kennaway",
+            "id": "1648012471",
+            "org": "Google UK Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unix",
+        "Computer science",
+        "Sandbox (computer security)",
+        "Mandatory access control",
+        "Computer security",
+        "Embedded system",
+        "Robustness (computer science)",
+        "Operating system"
+    ],
+    "references": [
+        "6385438",
+        "19830081",
+        "55937681",
+        "1482769911",
+        "1500460345",
+        "1606518565",
+        "2002915275",
+        "2040234252",
+        "2093312379",
+        "2095881341",
+        "2115991120",
+        "2152530232",
+        "2167800525",
+        "2167911131",
+        "2169768162",
+        "2342083136"
+    ]
+}

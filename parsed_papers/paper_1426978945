@@ -1,0 +1,60 @@
+{
+    "id": "1426978945",
+    "title": "Unbounded symbolic execution for program verification",
+    "venue": "runtime verification",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Joxan Jaffar",
+            "id": "1208143757",
+            "org": "National University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Jorge A. Navas",
+            "id": "2105628737",
+            "org": "National University of Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Andrew E. Santosa",
+            "id": "2118336117",
+            "org": "University of Sydney, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop invariant",
+        "Predicate abstraction",
+        "Interpolation",
+        "Theoretical computer science",
+        "Computer science",
+        "Symbolic execution",
+        "Abstract interpretation",
+        "Symbolic trajectory evaluation",
+        "Abstraction",
+        "Software verification"
+    ],
+    "references": [
+        "1565898282",
+        "1586497944",
+        "1602826054",
+        "2060498389",
+        "2096449544",
+        "2101512909",
+        "2103953153",
+        "2105357036",
+        "2107794009",
+        "2112350720",
+        "2113085322",
+        "2114633883",
+        "2120484044",
+        "2132897303",
+        "2134875273",
+        "2139498310",
+        "2144789370",
+        "2151463894",
+        "2158395308",
+        "2161718603",
+        "2162284942",
+        "2294635730",
+        "2295903414"
+    ]
+}

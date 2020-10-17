@@ -1,0 +1,43 @@
+{
+    "id": "1512319464",
+    "title": "Multicast tree aggregation in large domains",
+    "venue": "international ifip-tc networking conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Joanna Moulierac",
+            "id": "2590184142",
+            "org": "IRISA/University of Rennes I, Rennes, France#TAB#"
+        },
+        {
+            "name": "Alexandre Guitton",
+            "id": "2805905098",
+            "org": "Birkbeck College, University of London, England#TAB#"
+        },
+        {
+            "name": "Miklos Molnar",
+            "id": "2132208092",
+            "org": "IRISA/INSA, Rennes, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Router",
+        "Domain decomposition methods",
+        "Network simulation",
+        "Multicast",
+        "Fractal tree index"
+    ],
+    "references": [
+        "115462157",
+        "1530148260",
+        "1533859526",
+        "1568206987",
+        "1580011924",
+        "1882453461",
+        "2159768669"
+    ]
+}

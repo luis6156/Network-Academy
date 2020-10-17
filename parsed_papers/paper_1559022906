@@ -1,0 +1,91 @@
+{
+    "id": "1559022906",
+    "title": "GP-GPIS-OPT: Grasp planning with shape uncertainty using Gaussian process implicit surfaces and Sequential Convex Programming",
+    "venue": "international conference on robotics and automation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jeffrey Mahler",
+            "id": "2136765025",
+            "org": "Department of EECS, University of California, Berkeley, USA"
+        },
+        {
+            "name": "Sachin Patil",
+            "id": "2460170020",
+            "org": "Department of EECS, University of California, Berkeley, USA"
+        },
+        {
+            "name": "Ben Kehoe",
+            "id": "2057713478",
+            "org": "Department of ME, University of California, Berkeley, USA"
+        },
+        {
+            "name": "Jur P. van den Berg",
+            "id": "2681525453",
+            "org": "Google Inc., CA, USA"
+        },
+        {
+            "name": "Matei T. Ciocarlie",
+            "id": "2074992292",
+            "org": "Department of ME, Colombia University, NY, USA"
+        },
+        {
+            "name": "Pieter Abbeel",
+            "id": "243981275",
+            "org": "Department of EECS, University of California, Berkeley, USA"
+        },
+        {
+            "name": "Ken Goldberg",
+            "id": "2171412814",
+            "org": "Department of EECS, University of California, Berkeley, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Antipodal point",
+        "Planar",
+        "Point cloud",
+        "Transparency (graphic)",
+        "Convex optimization",
+        "Gaussian process",
+        "GRASP",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "294421534",
+        "1510186039",
+        "1530718350",
+        "1593593811",
+        "1602982014",
+        "1746819321",
+        "1794703952",
+        "1984974392",
+        "1987648924",
+        "2018823761",
+        "2021446160",
+        "2021473074",
+        "2034939775",
+        "2038245875",
+        "2050595634",
+        "2051735505",
+        "2078510396",
+        "2083955337",
+        "2088043683",
+        "2096204844",
+        "2098626000",
+        "2107153006",
+        "2113263132",
+        "2128926607",
+        "2132476906",
+        "2137504719",
+        "2138983671",
+        "2147751396",
+        "2150690761",
+        "2161674001",
+        "2165501312",
+        "2166426966",
+        "2166566250",
+        "2293179466",
+        "2293883387"
+    ]
+}

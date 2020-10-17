@@ -1,0 +1,68 @@
+{
+    "id": "1481068248",
+    "title": "Strong Key-Insulated Signature Schemes",
+    "venue": "public key cryptography",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yevgeniy Dodis",
+            "id": "1259442811",
+            "org": "New York University"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "University of Maryland (College Park)"
+        },
+        {
+            "name": "Shouhuai Xu",
+            "id": "2170746593",
+            "org": "University of California at Irvine"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Columbia University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Distributed computing",
+        "Digital signature",
+        "Schnorr signature",
+        "Random oracle",
+        "Public-key cryptography",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "71079768",
+        "147380767",
+        "184158164",
+        "1479917721",
+        "1489642236",
+        "1498063506",
+        "1507814913",
+        "1554259298",
+        "1564477237",
+        "1569083856",
+        "1578795731",
+        "1589034595",
+        "1589586740",
+        "1748998599",
+        "1788217089",
+        "1882430379",
+        "2015453719",
+        "2018752427",
+        "2054458282",
+        "2095708839",
+        "2135222307",
+        "2151413173",
+        "2232070551",
+        "2402135123",
+        "2585529823",
+        "2610467103"
+    ]
+}

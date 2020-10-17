@@ -1,0 +1,51 @@
+{
+    "id": "1581636179",
+    "title": "On The Design of A Dynamically Reconfigurable Function-Unit for Error Detection and Correction",
+    "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Thilo Pionteck",
+            "id": "527970",
+            "org": "University of Lubeck"
+        },
+        {
+            "name": "Thomas Stiefmeier",
+            "id": "1983852979",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Thorsten Staake",
+            "id": "1971945060",
+            "org": "University of St.Gallen"
+        },
+        {
+            "name": "Manfred Glesner",
+            "id": "2106105596",
+            "org": "Darmstadt University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "FX.25 Forward Error Correction",
+        "Parallel computing",
+        "Cycles per instruction",
+        "Decoding methods",
+        "Computer science",
+        "Cyclic redundancy check",
+        "Reduced instruction set computing",
+        "Reed-Solomon error correction",
+        "Real-time computing",
+        "Error detection and correction",
+        "Architecture"
+    ],
+    "references": [
+        "1555915743",
+        "1587576127",
+        "1606565681",
+        "2093030849",
+        "2097601417",
+        "2116370948",
+        "2138107288",
+        "2163915119"
+    ]
+}

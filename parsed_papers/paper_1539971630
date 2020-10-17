@@ -1,0 +1,76 @@
+{
+    "id": "1539971630",
+    "title": "A High-Performance, Pipelined, FPGA-Based Genetic Algorithm Machine",
+    "venue": "Genetic Programming and Evolvable Machines",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Barry Shackleford",
+            "id": "2244654097",
+            "org": "Hewlett-Packard Laboratories, 1501 Page Mill Road, Palo Alto, CA 94304 U.S.A. barry_shackleford@hpl.hp.com#TAB#"
+        },
+        {
+            "name": "Greg Snider",
+            "id": "2051192367",
+            "org": "Hewlett-Packard Laboratories, 1501 Page Mill Road, Palo Alto, CA 94304 U.S.A. greg_snider@hpl.hp.com#TAB#"
+        },
+        {
+            "name": "Richard J. Carter",
+            "id": "2147891414",
+            "org": "Hewlett-Packard Laboratories, 1501 Page Mill Road, Palo Alto, CA 94304 U.S.A. dick_carter@hpl.hp.com#TAB#"
+        },
+        {
+            "name": "Etsuko Okushi",
+            "id": "288630600",
+            "org": "Mitsubishi Electric Corporation, 5-5-1, Ofuna, Kamakura, Kanagawa 247-8501 Japan etsuko@dsec.hq.melco.co.jp#TAB#"
+        },
+        {
+            "name": "Mitsuhiro Yasuda",
+            "id": "1981277662",
+            "org": "Mitsubishi Electric Corporation, 5-5-1, Ofuna, Kamakura, Kanagawa 247-8501 Japan yasuda@dsec.hq.melco.co.jp#TAB#"
+        },
+        {
+            "name": "Katsuhiko Seo",
+            "id": "2644079587",
+            "org": "Mitsubishi Electric Corporation, 5-5-1, Ofuna, Kamakura, Kanagawa 247-8501 Japan seo@dsec.hq.melco.co.jp#TAB#"
+        },
+        {
+            "name": "Hiroto Yasuura",
+            "id": "341739651",
+            "org": "Kyushu University, Kasuga-shi 816 Japan yasuura@c.csce.kyushu-u.ac.jp#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Cycles per instruction",
+        "Crossover",
+        "Computer science",
+        "Fitness function",
+        "Pipeline (computing)",
+        "Genetic algorithm",
+        "Reconfigurable computing",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "72952475",
+        "125775168",
+        "1482722110",
+        "1527462214",
+        "1539892855",
+        "1555915743",
+        "1587248790",
+        "1639032689",
+        "2097571405",
+        "2103119002",
+        "2127856935",
+        "2130574990",
+        "2142183404",
+        "2156698647",
+        "2156728410",
+        "2161939679",
+        "2163806185",
+        "2403094010"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1576491670",
+    "title": "An approach to visualize remote socket traffic on the intel Nehalem-EX",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Christian Iwainsky",
+            "id": "226756069",
+            "org": "Center for Computing and Communication, RWTH Aachen University#TAB#"
+        },
+        {
+            "name": "Thomas Reichstein",
+            "id": "2149108485",
+            "org": "Center for Computing and Communication, RWTH Aachen University#TAB#"
+        },
+        {
+            "name": "Christopher Dahnken",
+            "id": "1658864350",
+            "org": "Intel GmbH#TAB#"
+        },
+        {
+            "name": "Dieter an Mey",
+            "id": "2146642270",
+            "org": "Center for Computing and Communication, RWTH Aachen University#TAB#"
+        },
+        {
+            "name": "Christian Terboven",
+            "id": "1093591045",
+            "org": "Center for Computing and Communication, RWTH Aachen University#TAB#"
+        },
+        {
+            "name": "Andrey Semin",
+            "id": "1990412028",
+            "org": "Intel GmbH#TAB#"
+        },
+        {
+            "name": "Christian H. Bischof",
+            "id": "2055603077",
+            "org": "Center for Computing and Communication, RWTH Aachen University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Memory architecture",
+        "Computer science",
+        "Uniform memory access",
+        "Memory controller",
+        "Non-uniform memory access",
+        "Distributed memory",
+        "Conventional memory",
+        "Flat memory model"
+    ],
+    "references": [
+        "1559603603",
+        "1566403276",
+        "1656664476",
+        "1858951234",
+        "1950832899",
+        "2112858958",
+        "2406988317"
+    ]
+}

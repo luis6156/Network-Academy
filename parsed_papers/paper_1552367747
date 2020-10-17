@@ -1,0 +1,55 @@
+{
+    "id": "1552367747",
+    "title": "Deny-Guarantee Reasoning",
+    "venue": "european symposium on programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Mike Dodds",
+            "id": "2139994915",
+            "org": "University of Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Xinyu Feng",
+            "id": "2152751103",
+            "org": "Toyota Technological Institute at Chicago, USA#TAB#"
+        },
+        {
+            "name": "Matthew J. Parkinson",
+            "id": "2158766823",
+            "org": "University of Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Viktor Vafeiadis",
+            "id": "2806678295",
+            "org": "Microsoft Research, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Permission",
+        "Computer science",
+        "Distributed computing",
+        "Soundness",
+        "Separation logic",
+        "Mathematical proof",
+        "Joins",
+        "Hoare logic",
+        "Concurrency",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1584342183",
+        "1607674807",
+        "1667182944",
+        "1819989006",
+        "1861989620",
+        "2090551028",
+        "2109121837",
+        "2141260727",
+        "2148687959",
+        "2155032935",
+        "2194223632"
+    ]
+}

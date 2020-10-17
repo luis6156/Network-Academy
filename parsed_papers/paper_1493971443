@@ -1,0 +1,48 @@
+{
+    "id": "1493971443",
+    "title": "Learning search control knowledge for deep space network scheduling",
+    "venue": "international conference on machine learning",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Jonathan Gratch",
+            "id": "2014229073",
+            "org": "Beckman Institute, University of Illinois, 405 N. Mathews Av., Urbana, IL 61801, {gratch, dejong}@cs.uiuc.edu"
+        },
+        {
+            "name": "Steve Chien",
+            "id": "2124655877",
+            "org": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA 91109-8099, chien@ aig.jpl.nasa.gov"
+        },
+        {
+            "name": "Gerald DeJong",
+            "id": "2047505996",
+            "org": "Beckman Institute, University of Illinois, 405 N. Mathews Av., Urbana, IL 61801, {gratch, dejong}@cs.uiuc.edu"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Computer science",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Architecture",
+        "Fair-share scheduling",
+        "Solver",
+        "Schedule",
+        "Real-time computing",
+        "Computational resource",
+        "Machine learning",
+        "CPU time"
+    ],
+    "references": [
+        "26884642",
+        "89208257",
+        "140359591",
+        "166006739",
+        "203646419",
+        "1588206936",
+        "1589834094",
+        "2009803313",
+        "2169337137"
+    ]
+}

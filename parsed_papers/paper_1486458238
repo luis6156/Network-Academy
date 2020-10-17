@@ -1,0 +1,54 @@
+{
+    "id": "1486458238",
+    "title": "An environment for OpenMP code parallelization",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Cos S. Ierotheou",
+            "id": "1887798205",
+            "org": "Parallel Processing Research Group, University of Greenwich, London SE10 9LS, UK"
+        },
+        {
+            "name": "Haoqiang Jin",
+            "id": "2104896089",
+            "org": "NASA Advanced Supercomputing Division, NASA Ames Research Center, Moffett Field, CA 94035, USA"
+        },
+        {
+            "name": "Gregory Matthews",
+            "id": "2305649018",
+            "org": "NASA Advanced Supercomputing Division, NASA Ames Research Center, Moffett Field, CA 94035, USA"
+        },
+        {
+            "name": "S. P. Johnson",
+            "id": "2135247537",
+            "org": "Parallel Processing Research Group, University of Greenwich, London SE10 9LS, UK"
+        },
+        {
+            "name": "Robert Hood",
+            "id": "2145141610",
+            "org": "NASA Advanced Supercomputing Division, NASA Ames Research Center, Moffett Field, CA 94035, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Dependence analysis",
+        "Distributed memory",
+        "Serial code",
+        "Backtracking",
+        "Automatic parallelization",
+        "Debugging"
+    ],
+    "references": [
+        "6605666",
+        "1599485139",
+        "2026340872",
+        "2036657112",
+        "2040291749",
+        "2073834830",
+        "2116013158"
+    ]
+}

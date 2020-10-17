@@ -1,0 +1,78 @@
+{
+    "id": "139856780",
+    "title": "Loop leaping with closures",
+    "venue": "static analysis symposium",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sebastian Biallas",
+            "id": "1751063898",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Jorg Brauer",
+            "id": "2085628850",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Germany,Verified Systems International GmbH, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Andy King",
+            "id": "2116143585",
+            "org": "Portcullis Computer Security, Pinner, UK,School of Computing, University of Kent, UK#TAB#"
+        },
+        {
+            "name": "Stefan Kowalewski",
+            "id": "2077474590",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop interchange",
+        "Loop counter",
+        "Theoretical computer science",
+        "Algorithm",
+        "Loop inversion",
+        "Computer science",
+        "Discrete mathematics",
+        "Loop fusion",
+        "Conditional loop",
+        "Loop splitting",
+        "Loop fission",
+        "Loop tiling"
+    ],
+    "references": [
+        "193346698",
+        "221370897",
+        "1493580732",
+        "1497571013",
+        "1500085611",
+        "1500350535",
+        "1521216227",
+        "1526056075",
+        "1526520004",
+        "1551202246",
+        "1553858749",
+        "1556566737",
+        "1562679818",
+        "1589297860",
+        "1599625180",
+        "1600009974",
+        "1603182045",
+        "1605468179",
+        "1670210142",
+        "1844529821",
+        "1848981483",
+        "1877129949",
+        "1972085995",
+        "1982205631",
+        "2016056788",
+        "2043100293",
+        "2099952304",
+        "2109863363",
+        "2140678594",
+        "2148050168",
+        "2162284942",
+        "2172006877",
+        "2194223632",
+        "2584035095"
+    ]
+}

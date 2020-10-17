@@ -1,0 +1,54 @@
+{
+    "id": "1489487580",
+    "title": "Parallel Partial Stabilizing Algorithms for Large Linear Control Systems",
+    "venue": "The Journal of Supercomputing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Peter Benner",
+            "id": "2132332516",
+            "org": "Zentrum fur Technomathematik, Fachbereich Mathematik und Informatik, Universitat Bremen, D-28334 Bremen, Germany benner@math.uni-bremen.de#TAB#"
+        },
+        {
+            "name": "Maribel Castillo",
+            "id": "2097746247",
+            "org": "Depto. de Informatica, Universidad Jaume I, E-12.080 Castellon, Spain castillo@inf.uji.es#TAB#"
+        },
+        {
+            "name": "Enrique S. Quintana-Orti",
+            "id": "213228041",
+            "org": "Depto. de Informatica, Universidad Jaume I, E-12.080 Castellon, Spain quintana@inf.uji.es#TAB#"
+        },
+        {
+            "name": "Vicente Hernandez",
+            "id": "2160213994",
+            "org": "Depto. de Sistemas Inf. y Comp., Univ. Politecnica de Valencia, E-46.071 Valencia, Spain vhernand@dsic.upv.es#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Sign function",
+        "System of linear equations",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Matrix (mathematics)",
+        "Control system",
+        "Degree of parallelism",
+        "State-transition matrix",
+        "Parallel algorithm",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1510543252",
+        "1560916133",
+        "1630940536",
+        "1906034359",
+        "1964681401",
+        "2007266146",
+        "2036585521",
+        "2036791681",
+        "2081133847",
+        "2088748973"
+    ]
+}

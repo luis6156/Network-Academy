@@ -1,0 +1,101 @@
+{
+    "id": "1492361094",
+    "title": "Scheduling in Bag-of-Task grids: the PAUA case",
+    "venue": "symposium on computer architecture and high performance computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Walfredo Cirne",
+            "id": "20332177",
+            "org": "Univ. Fed. de Campina Grande, Brazil"
+        },
+        {
+            "name": "Francisco Vilar Brasileiro",
+            "id": "1971863911",
+            "org": "Univ. Fed. de Campina Grande, Brazil"
+        },
+        {
+            "name": "Lydie Da Costa",
+            "id": "2142128444",
+            "org": "Univ. Fed. de Campina Grande, Brazil"
+        },
+        {
+            "name": "Daniel Paranhos",
+            "id": "2136978281",
+            "org": "Univ. Fed. de Campina Grande, Brazil"
+        },
+        {
+            "name": "Elizeu Santos-Neto",
+            "id": "2063457925",
+            "org": "Univ. Fed. de Campina Grande, Brazil"
+        },
+        {
+            "name": "Nazareno Andrade",
+            "id": "2232634143",
+            "org": "Univ. Fed. de Campina Grande, Brazil"
+        },
+        {
+            "name": "C.A.F. De Rose",
+            "id": "2009160732",
+            "org": "PUCRS#TAB#"
+        },
+        {
+            "name": "Tiago C. Ferreto",
+            "id": "575964942",
+            "org": "PUCRS#TAB#"
+        },
+        {
+            "name": "Miranda Mowbray",
+            "id": "2604721716",
+            "org": "Hewlett Packard#TAB#"
+        },
+        {
+            "name": "R. Scheer",
+            "id": "2892780381",
+            "org": "Hewlett Packard#TAB#"
+        },
+        {
+            "name": "J. Jornada",
+            "id": "2671465564",
+            "org": "Hewlett Packard#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Grid computing",
+        "Orchestration (computing)",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "49804672",
+        "1492040731",
+        "1559080794",
+        "1560961201",
+        "1575315738",
+        "1859598804",
+        "1923099106",
+        "1941983649",
+        "2071075503",
+        "2102827395",
+        "2103363198",
+        "2105159666",
+        "2106710172",
+        "2117540160",
+        "2134654387",
+        "2140332639",
+        "2141438662",
+        "2145428223",
+        "2146438496",
+        "2151142272",
+        "2151702916",
+        "2152526229"
+    ]
+}

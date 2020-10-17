@@ -1,0 +1,59 @@
+{
+    "id": "155575640",
+    "title": "Self-stabilizing Leader Election in Polynomial Steps",
+    "venue": "international symposium on stabilization safety and security of distributed systems",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Karine Altisen",
+            "id": "278384714",
+            "org": "VERIMAG UMR 5104, Universite Grenoble Alpes"
+        },
+        {
+            "name": "Alain Cournier",
+            "id": "225849543",
+            "org": "MIS Lab., Universite Picardie Jules Verne"
+        },
+        {
+            "name": "Stephane Devismes",
+            "id": "146512921",
+            "org": "VERIMAG UMR 5104, Universite Grenoble Alpes"
+        },
+        {
+            "name": "Anais Durand",
+            "id": "2108639798",
+            "org": "VERIMAG UMR 5104, Universite Grenoble Alpes"
+        },
+        {
+            "name": "Franck Petit",
+            "id": "2762529903",
+            "org": "LIP6 UMR 7606, INRIA, UPMC Sorbonne Universites"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Daemon",
+        "Shared memory",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Binary logarithm",
+        "Asymptotically optimal algorithm",
+        "Mathematical optimization",
+        "Upper and lower bounds",
+        "Polynomial",
+        "Leader election"
+    ],
+    "references": [
+        "123648985",
+        "1533056435",
+        "1558557441",
+        "2013892304",
+        "2019918796",
+        "2041740671",
+        "2046235426",
+        "2072797971",
+        "2089101914",
+        "2111132249",
+        "2506785934"
+    ]
+}

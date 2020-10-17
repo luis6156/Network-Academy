@@ -1,0 +1,52 @@
+{
+    "id": "1494920542",
+    "title": "HAS-V: A New Hash Function with Variable Output Length",
+    "venue": "selected areas in cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Nan Kyoung Park",
+            "id": "2323027472",
+            "org": "Pohang University of Science and Technology(POSTECH)"
+        },
+        {
+            "name": "Joon Ho Hwang",
+            "id": "2713097855",
+            "org": "Pohang University of Science and Technology(POSTECH)"
+        },
+        {
+            "name": "Pil Joong Lee",
+            "id": "2139910894",
+            "org": "Pohang University of Science and Technology(POSTECH)"
+        }
+    ],
+    "fields_of_study": [
+        "HAVAL",
+        "HAS-V",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1542068190",
+        "1547902359",
+        "1549228503",
+        "1574517553",
+        "1595429669",
+        "1851023053",
+        "2026522166",
+        "2072630862",
+        "2095675261",
+        "2098801947",
+        "2104633167",
+        "2134518741",
+        "2157047743",
+        "2172433705",
+        "2785938443"
+    ]
+}

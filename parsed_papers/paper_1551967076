@@ -1,0 +1,47 @@
+{
+    "id": "1551967076",
+    "title": "Data-Flow analysis as model checking within the jABC",
+    "venue": "compiler construction",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Anna-Lena Lamprecht",
+            "id": "2064943992",
+            "org": "Service Engineering for Distributed Systems, Universitat Gottingen, Germany#TAB#"
+        },
+        {
+            "name": "Tiziana Margaria",
+            "id": "1109212868",
+            "org": "Service Engineering for Distributed Systems, Universitat Gottingen, Germany#TAB#"
+        },
+        {
+            "name": "Bernhard Steffen",
+            "id": "2063423718",
+            "org": "Chair of Programming Systems, Universitat Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Java",
+        "Software development",
+        "Theoretical computer science",
+        "Program analysis",
+        "Computer science",
+        "Data flow diagram",
+        "Data-flow analysis",
+        "Model checking",
+        "Abstraction model checking",
+        "Programming language"
+    ],
+    "references": [
+        "1510492086",
+        "1519861553",
+        "1529785310",
+        "1556566737",
+        "1964193719",
+        "2098634102",
+        "2112561088",
+        "2138282870",
+        "2340735175"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1687551056",
+    "title": "Refined Bounds for Instance-Based Search Complexity of Counting and Other #P Problems",
+    "venue": "principles and practice of constraint programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Lars Otten",
+            "id": "2110242800",
+            "org": "Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A. CA 92697-3425#TAB#"
+        },
+        {
+            "name": "Rina Dechter",
+            "id": "294129211",
+            "org": "Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A. CA 92697-3425#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Interpolation search",
+        "Incremental heuristic search",
+        "Combinatorial search",
+        "Discrete mathematics",
+        "Counting problem",
+        "Iterative deepening depth-first search",
+        "Bidirectional search",
+        "#SAT",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1752776693",
+        "1804601140",
+        "1919881123",
+        "2029634712",
+        "2034674470",
+        "2069683773",
+        "2078007422",
+        "2149018851",
+        "2154055561"
+    ]
+}

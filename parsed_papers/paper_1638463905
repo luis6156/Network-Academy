@@ -1,0 +1,53 @@
+{
+    "id": "1638463905",
+    "title": "A real-time performance comparison of distributable threads and event channels",
+    "venue": "real time technology and applications symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yuanfang Zhang",
+            "id": "2226404882",
+            "org": "Dept. of Comput. Sci. & Eng., Washington Univ., St. Louis, MO, USA"
+        },
+        {
+            "name": "Bryan Thrall",
+            "id": "2343276606",
+            "org": "Dept. of Comput. Sci. & Eng., Washington Univ., St. Louis, MO, USA"
+        },
+        {
+            "name": "Stephen Torri",
+            "id": "2031402557",
+            "org": "Dept. of Comput. Sci. & Eng., Washington Univ., St. Louis, MO, USA"
+        },
+        {
+            "name": "Christopher D. Gill",
+            "id": "2011528639",
+            "org": "Dept. of Comput. Sci. & Eng., Washington Univ., St. Louis, MO, USA"
+        },
+        {
+            "name": "Chenyang Lu",
+            "id": "2099764636",
+            "org": "Dept. of Comput. Sci. & Eng., Washington Univ., St. Louis, MO, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Java",
+        "Formal specification",
+        "Computer science",
+        "Distributed computing",
+        "Application software",
+        "Workload",
+        "Common Object Request Broker Architecture",
+        "Multithreading",
+        "Middleware",
+        "Real-time computing"
+    ],
+    "references": [
+        "1556398190",
+        "1905332030",
+        "2115597529",
+        "2129890138",
+        "2142371476"
+    ]
+}

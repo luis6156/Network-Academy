@@ -1,0 +1,45 @@
+{
+    "id": "1528138196",
+    "title": "Peer-to-Peer authentication with a distributed single sign-on service",
+    "venue": "international workshop on peer to peer systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "William K. Josephson",
+            "id": "2662904667",
+            "org": "Department of Computer Science, Cornell University, Ithaca, New York#TAB#"
+        },
+        {
+            "name": "Emin Gun Sirer",
+            "id": "223610748",
+            "org": "Department of Computer Science, Cornell University, Ithaca, New York#TAB#"
+        },
+        {
+            "name": "Fred B. Schneider",
+            "id": "2106636992",
+            "org": "Department of Computer Science, Cornell University, Ithaca, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-factor authentication",
+        "Challenge-response authentication",
+        "Authentication protocol",
+        "Computer science",
+        "Distributed computing",
+        "Generic Bootstrapping Architecture",
+        "Server",
+        "Challenge-Handshake Authentication Protocol",
+        "Email authentication",
+        "Computer network",
+        "Lightweight Extensible Authentication Protocol"
+    ],
+    "references": [
+        "1493614564",
+        "1967263393",
+        "2095202767",
+        "2146749986",
+        "2147335449",
+        "2170496240",
+        "2290132939"
+    ]
+}

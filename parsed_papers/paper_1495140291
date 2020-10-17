@@ -1,0 +1,68 @@
+{
+    "id": "1495140291",
+    "title": "On the suitability of MPI as a PGAS runtime",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jeffrey A. Daily",
+            "id": "2088644235",
+            "org": "Pacific Northwest National Laboratory, 902 Battelle Blvd, Richland, WA 99352, USA"
+        },
+        {
+            "name": "Abhinav Vishnu",
+            "id": "1184334124",
+            "org": "Pacific Northwest National Laboratory, 902 Battelle Blvd, Richland, WA 99352, USA"
+        },
+        {
+            "name": "Bruce J. Palmer",
+            "id": "2122770543",
+            "org": "Pacific Northwest National Laboratory, 902 Battelle Blvd, Richland, WA 99352, USA"
+        },
+        {
+            "name": "Hubertus J. J. van Dam",
+            "id": "2227911379",
+            "org": "Pacific Northwest National Laboratory, 902 Battelle Blvd, Richland, WA 99352, USA"
+        },
+        {
+            "name": "Darren J. Kerbyson",
+            "id": "2049827885",
+            "org": "Pacific Northwest National Laboratory, 902 Battelle Blvd, Richland, WA 99352, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Partitioned global address space",
+        "Parallel computing",
+        "Speedup",
+        "Asynchronous communication",
+        "Computer science",
+        "Distributed computing",
+        "Global Arrays",
+        "Synchronization",
+        "Multiplication",
+        "Standardization"
+    ],
+    "references": [
+        "1550554130",
+        "1565923644",
+        "1641327695",
+        "1861151562",
+        "1965092590",
+        "1986916296",
+        "2068068772",
+        "2069079195",
+        "2081612620",
+        "2090409324",
+        "2108369438",
+        "2109065830",
+        "2109982223",
+        "2135342109",
+        "2135741511",
+        "2137773653",
+        "2137874317",
+        "2138182839",
+        "2155066383",
+        "2160476373"
+    ]
+}

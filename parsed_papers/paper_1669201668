@@ -1,0 +1,61 @@
+{
+    "id": "1669201668",
+    "title": "Adaptive Monitoring with Dynamic Differential Tracing-Based Diagnosis",
+    "venue": "distributed systems operations and management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Mohammad Ahmad Munawar",
+            "id": "2067150758",
+            "org": "Shoshin Distributed Systems Group, University of Waterloo, Waterloo, N2L 3G1#TAB#"
+        },
+        {
+            "name": "Thomas Reidemeister",
+            "id": "255094088",
+            "org": "Shoshin Distributed Systems Group, University of Waterloo, Waterloo, N2L 3G1#TAB#"
+        },
+        {
+            "name": "Miao Jiang",
+            "id": "2126871128",
+            "org": "Shoshin Distributed Systems Group, University of Waterloo, Waterloo, N2L 3G1#TAB#"
+        },
+        {
+            "name": "Allen Ajit George",
+            "id": "2096864846",
+            "org": "Shoshin Distributed Systems Group, University of Waterloo, Waterloo, N2L 3G1#TAB#"
+        },
+        {
+            "name": "Paul A. S. Ward",
+            "id": "2892541285",
+            "org": "Shoshin Distributed Systems Group, University of Waterloo, Waterloo, N2L 3G1#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software system",
+        "Computer science",
+        "Distributed computing",
+        "Fault injection",
+        "Application Response Measurement",
+        "Continuous monitoring",
+        "Tracing",
+        "Real-time computing",
+        "False positive rate",
+        "Error detection and correction",
+        "High availability"
+    ],
+    "references": [
+        "1573585357",
+        "1608830063",
+        "1904710828",
+        "1990911977",
+        "2013647416",
+        "2035538419",
+        "2039083805",
+        "2041637512",
+        "2093663866",
+        "2141025817",
+        "2142511488",
+        "2143522309",
+        "2157593310"
+    ]
+}

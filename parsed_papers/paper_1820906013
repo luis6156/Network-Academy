@@ -1,0 +1,42 @@
+{
+    "id": "1820906013",
+    "title": "On the correctness of an optimising assembler for the intel MCS-51 microprocessor",
+    "venue": "certified programs and proofs",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Dominic P. Mulligan",
+            "id": "2142022831",
+            "org": "Dipartimento di Scienze dell'Informazione, Universita degli Studi di Bologna, Italy#TAB#"
+        },
+        {
+            "name": "Claudio Sacerdoti Coen",
+            "id": "2092695947",
+            "org": "Dipartimento di Scienze dell'Informazione, Universita degli Studi di Bologna, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Assemblers",
+        "Semantics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Microcontroller",
+        "Microprocessor",
+        "Computer science",
+        "Inline assembler",
+        "Correctness",
+        "Programming language"
+    ],
+    "references": [
+        "1496429054",
+        "1546270920",
+        "1741391095",
+        "2052735108",
+        "2076409494",
+        "2130970533",
+        "2136219937",
+        "2136310957",
+        "2148662736",
+        "2162627428"
+    ]
+}

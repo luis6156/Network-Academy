@@ -1,0 +1,67 @@
+{
+    "id": "1531908439",
+    "title": "Improved Scheduling Algorithms for Minsum Criteria",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Soumen Chakrabarti",
+            "id": "2696358444",
+            "org": "U. C. Berkeley"
+        },
+        {
+            "name": "Cynthia A. Phillips",
+            "id": "2304586826",
+            "org": "Sandia National Labs"
+        },
+        {
+            "name": "Andreas S. Schulz",
+            "id": "2139750485",
+            "org": "Technical University of Berlin"
+        },
+        {
+            "name": "David B. Shmoys",
+            "id": "2150894071",
+            "org": "Cornell University"
+        },
+        {
+            "name": "Clifford Stein",
+            "id": "2148836898",
+            "org": "Dartmouth College"
+        },
+        {
+            "name": "Joel Wein",
+            "id": "2111149130",
+            "org": "Department of Computer Science, Polytechnic University, Brooklyn,"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Discrete mathematics",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Flow shop scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1960330418",
+        "1966793805",
+        "1991124379",
+        "2031612682",
+        "2042017208",
+        "2043078530",
+        "2044718761",
+        "2047173920",
+        "2085325317",
+        "2093229192",
+        "2111874279",
+        "2139444324",
+        "2154305205",
+        "2157952725"
+    ]
+}

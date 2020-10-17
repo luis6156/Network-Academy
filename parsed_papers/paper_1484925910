@@ -1,0 +1,34 @@
+{
+    "id": "1484925910",
+    "title": "Towards the Forgery of a Group Signature without Knowing the Group Center's Secret",
+    "venue": "international conference on information and communication security",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Chin-Chen Chang",
+            "id": "2101549130",
+            "org": "Department of Computer Science and Information Engineering, National Chung Cheng University, Chia-Yi, Taiwan"
+        },
+        {
+            "name": "Kuo-Feng Hwang",
+            "id": "2778662859",
+            "org": "Department of Computer Science and Information Engineering, National Chung Cheng University, Chia-Yi, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Blind signature",
+        "Group signature",
+        "Discrete mathematics",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1505286256",
+        "2032338626"
+    ]
+}

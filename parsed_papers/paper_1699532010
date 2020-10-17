@@ -1,0 +1,44 @@
+{
+    "id": "1699532010",
+    "title": "Text-independent speaker identification using temporal patterns",
+    "venue": "text speech and dialogue",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Tobias Bocklet",
+            "id": "2286044590",
+            "org": "University of Erlangen Nuremberg, Chair for Pattern Recognition, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Andreas K. Maier",
+            "id": "2105692020",
+            "org": "University of Erlangen Nuremberg, Chair for Pattern Recognition, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Elmar Noth",
+            "id": "2019675586",
+            "org": "University of Erlangen Nuremberg, Chair for Pattern Recognition, Erlangen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Computer science",
+        "Expectation-maximization algorithm",
+        "Linear discriminant analysis",
+        "Mel-frequency cepstrum",
+        "Speech recognition",
+        "Speaker recognition",
+        "Speaker diarisation",
+        "Mixture model",
+        "Training set",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "170935503",
+        "190289757",
+        "1599469991",
+        "2041823554",
+        "2100969003",
+        "2165880886"
+    ]
+}

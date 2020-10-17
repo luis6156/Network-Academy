@@ -1,0 +1,52 @@
+{
+    "id": "168128689",
+    "title": "On the security of hash functions employing blockcipher postprocessing",
+    "venue": "fast software encryption",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "National Institute of Standards and Technology#TAB#"
+        },
+        {
+            "name": "Mridul Nandi",
+            "id": "2066037550",
+            "org": "C.R. Rao AIMSCS, Hyderabad, India#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Google Inc. and Department of Computer Science, Columbia University, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Oracle",
+        "Pseudorandom number generator",
+        "Mathematics",
+        "Generic property",
+        "Discrete mathematics",
+        "Hash function",
+        "Pseudorandom permutation",
+        "Random oracle",
+        "Permutation"
+    ],
+    "references": [
+        "16894843",
+        "1547537489",
+        "1549228503",
+        "1580541130",
+        "1600432225",
+        "1604454960",
+        "1689385595",
+        "1769160577",
+        "1810651009",
+        "1863270349",
+        "1939171670",
+        "2007585625",
+        "2153971105",
+        "2158554251",
+        "2167606175"
+    ]
+}

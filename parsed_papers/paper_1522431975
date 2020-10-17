@@ -1,0 +1,36 @@
+{
+    "id": "1522431975",
+    "title": "Queue Length Distribution in a FIFO Single-Server Queue with Multiple Arrival Streams Having Different Service Time Distributions",
+    "venue": "Queueing Systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Tetsuya Takine",
+            "id": "2193596392",
+            "org": "Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University, Kyoto 606-8501, Japan takine@amp.i.kyoto-u.ac.jp#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fork-join queue",
+        "Mathematics",
+        "M/G/1 queue",
+        "D/M/1 queue",
+        "Multilevel queue",
+        "FIFO (computing and electronics)",
+        "Distributed computing",
+        "G/G/1 queue",
+        "M/G/k queue",
+        "Bulk queue",
+        "Real-time computing"
+    ],
+    "references": [
+        "1479759336",
+        "1503906219",
+        "2034607009",
+        "2041988095",
+        "2121918042",
+        "2125569171",
+        "2149070841",
+        "2157913060"
+    ]
+}

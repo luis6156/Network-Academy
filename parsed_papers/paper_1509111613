@@ -1,0 +1,44 @@
+{
+    "id": "1509111613",
+    "title": "Scheduling strategies and their evaluation in a data stream management system",
+    "venue": "british national conference on databases",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sharma Chakravarthy",
+            "id": "2207808857",
+            "org": "Information Technology Laboratory and Department of Computer Science and Engineering, The University of Texas at Arlington#TAB#"
+        },
+        {
+            "name": "Vamshi Pajjuri",
+            "id": "2555486250",
+            "org": "Information Technology Laboratory and Department of Computer Science and Engineering, The University of Texas at Arlington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Database",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1510252230",
+        "1553736982",
+        "1646696449",
+        "2001474264",
+        "2103701698",
+        "2118828104",
+        "2124298185",
+        "2162016415",
+        "2162553498",
+        "2203361072"
+    ]
+}

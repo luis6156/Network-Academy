@@ -1,0 +1,56 @@
+{
+    "id": "1566760924",
+    "title": "CUBE File: A File Structure for Hierarchically Clustered OLAP Cubes",
+    "venue": "extending database technology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Nikos Karayannidis",
+            "id": "1897716579",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Timos K. Sellis",
+            "id": "2062009547",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Yannis Kouvaras",
+            "id": "2661250742",
+            "org": "National Technical University of Athens"
+        }
+    ],
+    "fields_of_study": [
+        "Online analytical processing",
+        "Parallel computing",
+        "Hierarchical clustering",
+        "Data mining",
+        "Computer science",
+        "Bitmap index",
+        "Root directory",
+        "Effective method",
+        "Database",
+        "Cube",
+        "Cluster analysis",
+        "File format"
+    ],
+    "references": [
+        "188023883",
+        "1541459201",
+        "1544008239",
+        "1590183325",
+        "1835980735",
+        "1952220400",
+        "1982945449",
+        "2049859567",
+        "2054170837",
+        "2092053614",
+        "2103201239",
+        "2122990007",
+        "2139534868",
+        "2140646908",
+        "2149173084",
+        "2157219191",
+        "2285725925"
+    ]
+}

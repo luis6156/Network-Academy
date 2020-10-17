@@ -1,0 +1,34 @@
+{
+    "id": "1719758552",
+    "title": "String matching with mismatches by real-valued FFT",
+    "venue": "international conference on computational science and its applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kensuke Baba",
+            "id": "2121744191",
+            "org": "Research and Development Division, Kyushu University Library, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "String metric",
+        "Mathematics",
+        "String searching algorithm",
+        "Split-radix FFT algorithm",
+        "Boyer-Moore string search algorithm",
+        "Prime-factor FFT algorithm",
+        "Fast Fourier transform",
+        "Commentz-Walter algorithm",
+        "Mathematical optimization",
+        "Approximate string matching"
+    ],
+    "references": [
+        "301824129",
+        "1605179643",
+        "1966672061",
+        "1990061958",
+        "2077065215",
+        "2134128809",
+        "2611477341"
+    ]
+}

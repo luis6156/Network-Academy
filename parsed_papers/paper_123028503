@@ -1,0 +1,61 @@
+{
+    "id": "123028503",
+    "title": "Differential attacks on reduced RIPEMD-160",
+    "venue": "international conference on information security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "Katholieke Universiteit Leuven, ESAT/COSIC and IBBT, Belgium#TAB#"
+        },
+        {
+            "name": "Tomislav Nad",
+            "id": "2041655269",
+            "org": "Graz University of Technology, IAIK, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Scherz",
+            "id": "2533248197",
+            "org": "Katholieke Universiteit Leuven, ESAT/COSIC and IBBT, Belgium#TAB#"
+        },
+        {
+            "name": "Martin Schlaffer",
+            "id": "2159898291",
+            "org": "Graz University of Technology, IAIK, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Security analysis",
+        "RIPEMD",
+        "Hash function",
+        "MD5",
+        "Collision resistance"
+    ],
+    "references": [
+        "80730402",
+        "124034723",
+        "156288296",
+        "174467016",
+        "1521015940",
+        "1549228503",
+        "1551023902",
+        "1590269592",
+        "1600432225",
+        "1656731780",
+        "1800808134",
+        "1977342258",
+        "2086659222",
+        "2103239853",
+        "2104633167",
+        "2172433705",
+        "2400914681",
+        "2593312089",
+        "2593463031",
+        "2611506938"
+    ]
+}

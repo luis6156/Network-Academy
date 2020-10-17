@@ -1,0 +1,49 @@
+{
+    "id": "1419172269",
+    "title": "GPU acceleration of the matrix-free interior point method",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Edmund Smith",
+            "id": "2345603149",
+            "org": "School of Mathematics and Maxwell Institute for Mathematical Sciences, University of Edinburgh, JCMB, Edinburgh, United Kingdom#TAB#"
+        },
+        {
+            "name": "Jacek Gondzio",
+            "id": "51919061",
+            "org": "School of Mathematics and Maxwell Institute for Mathematical Sciences, University of Edinburgh, JCMB, Edinburgh, United Kingdom#TAB#"
+        },
+        {
+            "name": "Julian Hall",
+            "id": "2467899729",
+            "org": "School of Mathematics and Maxwell Institute for Mathematical Sciences, University of Edinburgh, JCMB, Edinburgh, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Preconditioner",
+        "Theoretical computer science",
+        "Matrix-free methods",
+        "Computation",
+        "Matrix (mathematics)",
+        "Acceleration",
+        "Simplex algorithm",
+        "Mathematical optimization",
+        "Linear programming",
+        "Interior point method"
+    ],
+    "references": [
+        "1518969538",
+        "1966081460",
+        "1996982555",
+        "2038071684",
+        "2041563548",
+        "2068531154",
+        "2076680677",
+        "2110955718",
+        "2118431207",
+        "2128539477",
+        "2611147814"
+    ]
+}

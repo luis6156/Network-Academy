@@ -1,0 +1,52 @@
+{
+    "id": "1603678015",
+    "title": "A provably secure elliptic curve scheme with fast encryption",
+    "venue": "international conference on cryptology in india",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David Galindo",
+            "id": "2278651514",
+            "org": "Dep. Matematica Aplicada IV, Universitat Politecnica de Catalunya, Barcelona#TAB#"
+        },
+        {
+            "name": "Sebastia Martin",
+            "id": "2164485612",
+            "org": "Dep. Matematica Aplicada IV, Universitat Politecnica de Catalunya, Barcelona#TAB#"
+        },
+        {
+            "name": "Tsuyoshi Takagi",
+            "id": "2051837146",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Jorge L. Villar",
+            "id": "2137851336",
+            "org": "Dep. Matematica Aplicada IV, Universitat Politecnica de Catalunya, Barcelona#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Discrete mathematics",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "Elliptic curve cryptography",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "Goldwasser-Micali cryptosystem",
+        "Multiple encryption"
+    ],
+    "references": [
+        "1490476950",
+        "1499407211",
+        "1527549550",
+        "1557014463",
+        "1749471906",
+        "2042226948",
+        "2144862055",
+        "2171617645",
+        "2394617303"
+    ]
+}

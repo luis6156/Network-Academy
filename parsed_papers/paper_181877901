@@ -1,0 +1,53 @@
+{
+    "id": "181877901",
+    "title": "Bin packing with linear usage costs - an application to energy management in data centres",
+    "venue": "principles and practice of constraint programming",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Hadrien Cambazard",
+            "id": "2637506334",
+            "org": "G-SCOP, Universite de Grenoble, Grenoble INP, France and CNRS, UJF Grenoble 1, France#TAB#"
+        },
+        {
+            "name": "Deepak Mehta",
+            "id": "2227975796",
+            "org": "Cork Constraint Computation Centre, University College Cork, Ireland#TAB#"
+        },
+        {
+            "name": "Barry O'Sullivan",
+            "id": "2117866204",
+            "org": "Cork Constraint Computation Centre, University College Cork, Ireland#TAB#"
+        },
+        {
+            "name": "Helmut Simonis",
+            "id": "2056506989",
+            "org": "Cork Constraint Computation Centre, University College Cork, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bin packing problem",
+        "Computer science",
+        "Energy consumption",
+        "Linear programming",
+        "Constraint programming",
+        "Column generation",
+        "Service quality",
+        "Energy management",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "2581265",
+        "20410761",
+        "1677873712",
+        "1856880495",
+        "1974410288",
+        "1977859510",
+        "2062462135",
+        "2093188170",
+        "2118055193",
+        "2127087935",
+        "2163241156"
+    ]
+}

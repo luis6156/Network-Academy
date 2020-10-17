@@ -1,0 +1,44 @@
+{
+    "id": "1566166537",
+    "title": "Cool: A Control-Flow Generator for System Analysis",
+    "venue": "compiler construction",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Volker Braun",
+            "id": "2527327286",
+            "org": "Universitat Dortmund"
+        },
+        {
+            "name": "Jens Knoop",
+            "id": "2273773887",
+            "org": "Universitat Passau"
+        },
+        {
+            "name": "Dirk Koschutzki",
+            "id": "112950809",
+            "org": "Universitat Passau"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Control flow",
+        "Theoretical computer science",
+        "Program analysis",
+        "Compiler",
+        "Computer science",
+        "Transition system",
+        "Optimizing compiler",
+        "Control flow analysis",
+        "Program optimization",
+        "Programming language"
+    ],
+    "references": [
+        "1503265404",
+        "1504623906",
+        "1525565467",
+        "1814870153",
+        "2004636596",
+        "2421851683"
+    ]
+}

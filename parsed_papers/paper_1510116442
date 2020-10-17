@@ -1,0 +1,41 @@
+{
+    "id": "1510116442",
+    "title": "A Chosen Text Attack on the RSA Cryptosystem and Some Discrete Logarithm Schemes",
+    "venue": "international cryptology conference",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "Katholieke Universiteit Leuven Laboratorium ESAT"
+        },
+        {
+            "name": "Andrew M. Odlyzko",
+            "id": "2029350574",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Adaptive chosen-ciphertext attack",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "NTRUEncrypt",
+        "Attack model",
+        "Ciphertext indistinguishability",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1490994218",
+        "1807072749",
+        "1996360405",
+        "1999537317",
+        "2071138842",
+        "2156186849",
+        "2166457424",
+        "2203317094"
+    ]
+}

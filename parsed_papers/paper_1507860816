@@ -1,0 +1,44 @@
+{
+    "id": "1507860816",
+    "title": "A new algorithm for maintaining arc consistency after constraint retraction",
+    "venue": "principles and practice of constraint programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Pavel Surynek",
+            "id": "203817544",
+            "org": "Charles University in Prague, Faculty of Mathematics and Physics, Institute for Theoretical Computer Science, Praha, Czech Republic#TAB#"
+        },
+        {
+            "name": "Roman Bartak",
+            "id": "22135050",
+            "org": "Charles University in Prague, Faculty of Mathematics and Physics, Institute for Theoretical Computer Science, Praha, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Constraint satisfaction problem",
+        "Algorithm",
+        "Computer science",
+        "Constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Local consistency",
+        "Data structure",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "29451325",
+        "59411647",
+        "1481123692",
+        "1516312268",
+        "1561759314",
+        "1578742005",
+        "1960236202",
+        "2091984336",
+        "2135432705",
+        "2156897434",
+        "2161459931",
+        "2169653928",
+        "2264413202"
+    ]
+}

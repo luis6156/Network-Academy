@@ -1,0 +1,72 @@
+{
+    "id": "1526993157",
+    "title": "From Identification to Signatures via the Fiat-Shamir Transform: Minimizing Assumptions for Security and Forward-Security",
+    "venue": "international cryptology conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Michel Abdalla",
+            "id": "2143328931",
+            "org": "Magis Networks, Inc."
+        },
+        {
+            "name": "Jee Hea An",
+            "id": "2780628958",
+            "org": "SoftMax, Inc."
+        },
+        {
+            "name": "Mihir Bellare",
+            "id": "2052950829",
+            "org": "University of California San Diego"
+        },
+        {
+            "name": "Chanathip Namprempre",
+            "id": "88663857",
+            "org": "University of California San Diego"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Theoretical computer science",
+        "Merkle signature scheme",
+        "Digital signature",
+        "Schnorr signature",
+        "Random oracle",
+        "Identification scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1483083484",
+        "1484557542",
+        "1489642236",
+        "1498063506",
+        "1501670540",
+        "1501760004",
+        "1526778951",
+        "1527005907",
+        "1530326873",
+        "1532140623",
+        "1552368212",
+        "1554259298",
+        "1579435243",
+        "1589034595",
+        "1689385595",
+        "1911825786",
+        "1979215153",
+        "2018752427",
+        "2052267638",
+        "2090927751",
+        "2095708839",
+        "2118018586",
+        "2120154759",
+        "2139033758",
+        "2151413173",
+        "2166462813",
+        "2169194339",
+        "2232070551",
+        "2403237970",
+        "2620150568"
+    ]
+}

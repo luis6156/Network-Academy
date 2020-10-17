@@ -1,0 +1,56 @@
+{
+    "id": "1792978421",
+    "title": "Network interface active messages for low overhead communication on SMP PC clusters",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Motohiko Matsuda",
+            "id": "2278265478",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Yoshio Tanaka",
+            "id": "2206279540",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Kazuto Kubota",
+            "id": "2655210582",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Real World Computing Partnership"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Network interface",
+        "Latency (engineering)",
+        "Embedded system",
+        "Message passing",
+        "Active message",
+        "Systems architecture",
+        "Real-time computing",
+        "Computer cluster",
+        "Myrinet",
+        "Polling"
+    ],
+    "references": [
+        "1521734293",
+        "1530488840",
+        "1890730457",
+        "1967800745",
+        "2035256749",
+        "2041327854",
+        "2104193593",
+        "2114728910",
+        "2119911743",
+        "2134205263",
+        "2155066383",
+        "2156275124"
+    ]
+}

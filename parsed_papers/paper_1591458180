@@ -1,0 +1,57 @@
+{
+    "id": "1591458180",
+    "title": "Deadlock immunity: enabling systems to defend against deadlocks",
+    "venue": "operating systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Horatiu Jula",
+            "id": "1992794640",
+            "org": "Dependable Systems Laboratory, EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Daniel M. Tralamazza",
+            "id": "2478381149",
+            "org": "Dependable Systems Laboratory, EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Cristian Zamfir",
+            "id": "2066399012",
+            "org": "Dependable Systems Laboratory, EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "George Candea",
+            "id": "2013579417",
+            "org": "Dependable Systems Laboratory, EPFL, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Java",
+        "Computer science",
+        "Distributed computing",
+        "Deadlock",
+        "POSIX Threads",
+        "Deadlock prevention algorithms",
+        "Real-time computing"
+    ],
+    "references": [
+        "1498946538",
+        "1534034801",
+        "1541313361",
+        "1604551772",
+        "1743545919",
+        "1993836075",
+        "2022185456",
+        "2101161997",
+        "2113751407",
+        "2120785762",
+        "2122502383",
+        "2140991542",
+        "2149984854",
+        "2156428492",
+        "2158086125",
+        "2160293203",
+        "2168441850"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1574750619",
+    "title": "MPI Support for Multi-core Architectures: Optimized Shared Memory Collectives",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Richard L. Graham",
+            "id": "2239366155",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN, USA#TAB#"
+        },
+        {
+            "name": "Galen M. Shipman",
+            "id": "2074390756",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Small data",
+        "Radix",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Data manipulation language",
+        "Synchronization"
+    ],
+    "references": [
+        "21025594",
+        "1498011047",
+        "1572016165",
+        "1937799376",
+        "2111144707",
+        "2168281730"
+    ]
+}

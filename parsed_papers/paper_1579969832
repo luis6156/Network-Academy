@@ -1,0 +1,52 @@
+{
+    "id": "1579969832",
+    "title": "MOHCS: Towards Mining Overlapping Highly Connected Subgraphs",
+    "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Xiahong Lin",
+            "id": "2799153891",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Lin Gao",
+            "id": "2650144847",
+            "org": "Xidian University"
+        },
+        {
+            "name": "Kefei Chen",
+            "id": "2442244627",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "David K. Y. Chiu",
+            "id": "2104309466",
+            "org": "University of Guelph"
+        }
+    ],
+    "fields_of_study": [
+        "Factor-critical graph",
+        "Connected component",
+        "Strongly connected component",
+        "k-edge-connected graph",
+        "Computer science",
+        "Distributed computing",
+        "Degeneracy (graph theory)",
+        "Pseudoforest",
+        "Distance-hereditary graph",
+        "k-vertex-connected graph"
+    ],
+    "references": [
+        "1535144194",
+        "1769049279",
+        "1783384641",
+        "2032279394",
+        "2057463094",
+        "2065183358",
+        "2075900721",
+        "2102931907",
+        "2134046693",
+        "2165533101"
+    ]
+}

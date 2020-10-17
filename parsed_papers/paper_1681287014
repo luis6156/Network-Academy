@@ -1,0 +1,90 @@
+{
+    "id": "1681287014",
+    "title": "Planning Curvature and Torsion Constrained Ribbons in 3D With Application to Intracavitary Brachytherapy",
+    "venue": "IEEE Transactions on Automation Science and Engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Sachin Patil",
+            "id": "2460170020",
+            "org": "Center for Automation and Learning for Medical Robotics (Cal-MR), and the People and Robots initiative of the UC Berkeley Center for Information Technology in the Interest of Society (CITRIS), University of California, Berkeley, CA, USA"
+        },
+        {
+            "name": "Jia Pan",
+            "id": "2146716091",
+            "org": "University of Hong Kong, HK"
+        },
+        {
+            "name": "Pieter Abbeel",
+            "id": "243981275",
+            "org": "Center for Automation and Learning for Medical Robotics (Cal-MR), and the People and Robots initiative of the UC Berkeley Center for Information Technology in the Interest of Society (CITRIS), University of California, Berkeley, CA, USA"
+        },
+        {
+            "name": "Ken Goldberg",
+            "id": "2171412814",
+            "org": "Center for Automation and Learning for Medical Robotics (Cal-MR), and the People and Robots initiative of the UC Berkeley Center for Information Technology in the Interest of Society (CITRIS), University of California, Berkeley, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential quadratic programming",
+        "Geometry",
+        "Rigid body",
+        "Computer science",
+        "Torsion (mechanics)",
+        "Trajectory optimization",
+        "Radioactive source",
+        "Ribbon",
+        "Cuboid",
+        "Mathematical optimization",
+        "Curvature"
+    ],
+    "references": [
+        "10118043",
+        "225875858",
+        "343994056",
+        "1509540129",
+        "1519495367",
+        "1544032329",
+        "1756618330",
+        "1804110266",
+        "1971086298",
+        "1983401952",
+        "1984934137",
+        "1992787855",
+        "2006104867",
+        "2007193228",
+        "2012674981",
+        "2024456996",
+        "2028087201",
+        "2034966370",
+        "2040709641",
+        "2049424664",
+        "2071789836",
+        "2072558512",
+        "2074403945",
+        "2077238461",
+        "2087749198",
+        "2090107137",
+        "2092072169",
+        "2096844334",
+        "2101073745",
+        "2101341777",
+        "2104367785",
+        "2108857569",
+        "2121651771",
+        "2122149458",
+        "2128422212",
+        "2133067819",
+        "2133826865",
+        "2147497140",
+        "2147526018",
+        "2151351987",
+        "2151394936",
+        "2152600964",
+        "2153219011",
+        "2164636472",
+        "2293883387",
+        "2402551968",
+        "2611243847"
+    ]
+}

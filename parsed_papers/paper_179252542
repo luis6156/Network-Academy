@@ -1,0 +1,70 @@
+{
+    "id": "179252542",
+    "title": "Parallelizing a CAD Model Processing Tool from the Automotive Industry",
+    "venue": "european conference on parallel processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Luis Ayuso",
+            "id": "2003695571",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Herbert Jordan",
+            "id": "2184702111",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Bernhard Kornberger",
+            "id": "2462789997",
+            "org": "Geom Softwareentwicklung, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Martin Schifko",
+            "id": "735880135",
+            "org": "ECS, Magna Powertrain, Steyr, Austria#TAB#"
+        },
+        {
+            "name": "Bernhard Hockner",
+            "id": "2563074488",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Moosbrugger",
+            "id": "1959997362",
+            "org": "Institute of Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Kevin Verma",
+            "id": "2118114514",
+            "org": "ECS, Magna Powertrain, Steyr, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Software",
+        "Shared memory",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Runtime system",
+        "Exploit",
+        "Automatic parallelization",
+        "Architecture"
+    ],
+    "references": [
+        "182911965",
+        "1589136629",
+        "1965460773",
+        "1966521414",
+        "2076643072",
+        "2113682966",
+        "2173213060"
+    ]
+}

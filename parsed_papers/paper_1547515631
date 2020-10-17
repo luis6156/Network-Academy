@@ -1,0 +1,51 @@
+{
+    "id": "1547515631",
+    "title": "Processing Transactions on GRIP, a Parallel Graph Reducer",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Gert Akerholt",
+            "id": "284693059",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Kevin Hammond",
+            "id": "2133455440",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Simon L. Peyton Jones",
+            "id": "2142246817",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Philip W. Trinder",
+            "id": "2643127156",
+            "org": "Glasgow University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Transaction processing system",
+        "Reducer",
+        "Computer science",
+        "Graph",
+        "Functional programming",
+        "Architecture",
+        "Database transaction"
+    ],
+    "references": [
+        "1524657130",
+        "1543641760",
+        "1545487527",
+        "1578216787",
+        "1770574397",
+        "1978718408",
+        "1999139350",
+        "2015770401",
+        "2132084888",
+        "2149663533",
+        "2161531345"
+    ]
+}

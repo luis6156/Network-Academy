@@ -1,0 +1,57 @@
+{
+    "id": "1712365389",
+    "title": "Scene and Motion Reconstruction from Defocused and Motion-Blurred Images via Anisotropic Diffusion",
+    "venue": "european conference on computer vision",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paolo Favaro",
+            "id": "2019402600",
+            "org": "UCLA"
+        },
+        {
+            "name": "Martin Burger",
+            "id": "2792559474",
+            "org": "UCLA"
+        },
+        {
+            "name": "Stefano Soatto",
+            "id": "343589990",
+            "org": "UCLA"
+        }
+    ],
+    "fields_of_study": [
+        "Anisotropic diffusion",
+        "Tikhonov regularization",
+        "Mathematics",
+        "Computer vision",
+        "Depth map",
+        "Point spread function",
+        "Motion blur",
+        "Diffusion MRI",
+        "Image plane",
+        "Motion field",
+        "Mathematical optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "153034902",
+        "1480546554",
+        "1506219486",
+        "1531803620",
+        "2001002651",
+        "2070814988",
+        "2102443333",
+        "2107979301",
+        "2131624404",
+        "2136477411",
+        "2139710388",
+        "2140257560",
+        "2143496191",
+        "2143789285",
+        "2148154186",
+        "2150134853",
+        "2156394893",
+        "2164601752"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1538471738",
+    "title": "Atlas guided identification of brain structures by combining 3d segmentation and SVM classification",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ayelet Akselrod-Ballin",
+            "id": "2086271426",
+            "org": "Dept. of Computer Science and Applied Math, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Meirav Galun",
+            "id": "1601750093",
+            "org": "Dept. of Computer Science and Applied Math, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Moshe John Gomori",
+            "id": "2636942801",
+            "org": "Dept. of Radiology, Hadassah University Hospital, Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Ronen Basri",
+            "id": "2110126986",
+            "org": "Dept. of Computer Science and Applied Math, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Achi Brandt",
+            "id": "2191717019",
+            "org": "Dept. of Computer Science and Applied Math, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Prior probability",
+        "Probabilistic logic",
+        "Support vector machine",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1875387157",
+        "2105960416",
+        "2108976589",
+        "2119923199",
+        "2122165678",
+        "2135986092",
+        "2136573752",
+        "2162630772"
+    ]
+}

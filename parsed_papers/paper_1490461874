@@ -1,0 +1,44 @@
+{
+    "id": "1490461874",
+    "title": "Practical rebound attack on 12-round cheetah-256",
+    "venue": "international conference on information security and cryptology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shuang Wu",
+            "id": "2124794005",
+            "org": "State Key Lab of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2100868817",
+            "org": "State Key Lab of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Lab of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rebound attack",
+        "Birthday attack",
+        "Cryptanalysis",
+        "SHA-2",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Round number",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "49119529",
+        "1516535836",
+        "1603433154",
+        "2136320902",
+        "2610447167"
+    ]
+}

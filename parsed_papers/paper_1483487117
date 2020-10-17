@@ -1,0 +1,46 @@
+{
+    "id": "1483487117",
+    "title": "Breaking the ICE - finding multicollisions in iterated concatenated and expanded (ICE) hash functions",
+    "venue": "fast software encryption",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jonathan J. Hoch",
+            "id": "2112843669",
+            "org": "Department of Computer Science and Applied Mathematics, The Weizmann Institute of Science, Israel#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Department of Computer Science and Applied Mathematics, The Weizmann Institute of Science, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "50998170",
+        "1503405832",
+        "1504695911",
+        "1533007301",
+        "1547537489",
+        "1567888865",
+        "1590269592",
+        "1639145229",
+        "2125705479",
+        "2130238828",
+        "2131212920",
+        "2155690458",
+        "2227130482",
+        "2611506938"
+    ]
+}

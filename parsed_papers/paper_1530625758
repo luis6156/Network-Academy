@@ -1,0 +1,36 @@
+{
+    "id": "1530625758",
+    "title": "Efficient Implementation of the THSOM Neural Network",
+    "venue": "international conference on artificial neural networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Rudolf Marek",
+            "id": "2462489754",
+            "org": "Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague, Prague, Czech Republic 121 35#TAB#"
+        },
+        {
+            "name": "Miroslav Skrbek",
+            "id": "1113212081",
+            "org": "Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague, Prague, Czech Republic 121 35#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Lookup table",
+        "Parallel computing",
+        "Multi-core processor",
+        "Computer science",
+        "Data parallelism",
+        "Computational complexity theory",
+        "Task parallelism",
+        "Artificial neural network",
+        "Modular design",
+        "CPU cache"
+    ],
+    "references": [
+        "1588177918",
+        "2113127812",
+        "2117185773",
+        "2168808547"
+    ]
+}

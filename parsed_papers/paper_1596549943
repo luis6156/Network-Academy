@@ -1,0 +1,34 @@
+{
+    "id": "1596549943",
+    "title": "Type-Assisted Dynamic Buffer Overflow Detection",
+    "venue": "usenix security symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kyung-Suk Lhee",
+            "id": "302712040",
+            "org": "Center for Systems Assurance|Syracuse University"
+        },
+        {
+            "name": "Steve J. Chapin",
+            "id": "2043804296",
+            "org": "Center for Systems Assurance|Syracuse University"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer security",
+        "Buffer overflow",
+        "Computer network",
+        "Stack buffer overflow"
+    ],
+    "references": [
+        "1499992849",
+        "1546149892",
+        "1579850852",
+        "1655226010",
+        "1973326708",
+        "2120138937",
+        "2127605385"
+    ]
+}

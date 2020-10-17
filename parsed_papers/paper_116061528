@@ -1,0 +1,67 @@
+{
+    "id": "116061528",
+    "title": "Leakage Resilience against Concurrent Cache Attacks",
+    "venue": "principles of security and trust",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Gilles Barthe",
+            "id": "1964507066",
+            "org": "IMDEA Software Institute"
+        },
+        {
+            "name": "Boris Kopf",
+            "id": "2137841054",
+            "org": "IMDEA Software Institute"
+        },
+        {
+            "name": "Laurent Mauborgne",
+            "id": "283318887",
+            "org": "AbsInt GmbH"
+        },
+        {
+            "name": "Martin Ochoa",
+            "id": "2137939656",
+            "org": "TU Munich"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Block cipher",
+        "Software",
+        "Executable",
+        "Computer science",
+        "Distributed computing",
+        "Abstract interpretation",
+        "Cryptosystem",
+        "Concurrency",
+        "CPU cache"
+    ],
+    "references": [
+        "52769613",
+        "147129824",
+        "236432643",
+        "1488058190",
+        "1488986397",
+        "1523982624",
+        "1527450129",
+        "1573157032",
+        "1584476834",
+        "1658234468",
+        "2039881954",
+        "2043100293",
+        "2062066235",
+        "2109510636",
+        "2113999696",
+        "2117550587",
+        "2119028650",
+        "2123991163",
+        "2131019288",
+        "2133701468",
+        "2144219822",
+        "2153971105",
+        "2167208487",
+        "2172060328",
+        "2572799557"
+    ]
+}

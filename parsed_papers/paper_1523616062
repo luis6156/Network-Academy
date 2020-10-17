@@ -1,0 +1,52 @@
+{
+    "id": "1523616062",
+    "title": "Adaptively secure threshold cryptography: introducing concurrency, removing erasures",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Stanislaw Jarecki",
+            "id": "1760644356",
+            "org": "MIT Laboratory for Computer Science, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Anna Lysyanskaya",
+            "id": "204878165",
+            "org": "MIT Laboratory for Computer Science, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Adaptive chosen-ciphertext attack",
+        "Theoretical computer science",
+        "Computer science",
+        "ElGamal encryption",
+        "Ciphertext indistinguishability",
+        "Secure channel",
+        "Commitment scheme",
+        "Secure two-party computation",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "174706587",
+        "175423693",
+        "1484557542",
+        "1528330226",
+        "1538706266",
+        "1546996295",
+        "1558116972",
+        "1572695506",
+        "1588769217",
+        "1730634423",
+        "1983762057",
+        "1997859100",
+        "2095708839",
+        "2096430557",
+        "2099391615",
+        "2101803085",
+        "2113929724",
+        "2151748484",
+        "2296008393",
+        "2397415986"
+    ]
+}

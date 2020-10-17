@@ -1,0 +1,48 @@
+{
+    "id": "104299029",
+    "title": "Detecting data races using dynamic escape analysis based on read barrier",
+    "venue": "VM'04 Proceedings of the 3rd conference on Virtual Machine Research And Technology Symposium - Volume 3",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hiroyasu Nishiyama",
+            "id": "2129568372",
+            "org": "System Development Laboratory, Hitachi, Ltd., Ohzenji, Asao-Ku, Kawasaki-Shi, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Extremely hard",
+        "Parallel computing",
+        "Object-oriented programming",
+        "Escape analysis",
+        "Hotspot (Wi-Fi)",
+        "Computer science",
+        "Performance improvement",
+        "Dynamic data"
+    ],
+    "references": [
+        "17332244",
+        "1579550535",
+        "1583464938",
+        "1644882639",
+        "1848617919",
+        "1934184837",
+        "1967716562",
+        "1969610731",
+        "1972544179",
+        "1973501242",
+        "1980522179",
+        "1999637392",
+        "2002179840",
+        "2014530617",
+        "2034256728",
+        "2047229718",
+        "2061239425",
+        "2094449661",
+        "2094755621",
+        "2109875364",
+        "2159558457",
+        "2161600851"
+    ]
+}

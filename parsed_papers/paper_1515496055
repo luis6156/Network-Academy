@@ -1,0 +1,41 @@
+{
+    "id": "1515496055",
+    "title": "Fast Simultaneous Scalar Multiplication on Elliptic Curve with Montgomery Form",
+    "venue": "selected areas in cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Toru Akishita",
+            "id": "1589564297",
+            "org": "Sony Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Montgomery curve",
+        "Mathematics",
+        "Curve25519",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1501115028",
+        "1521649858",
+        "1522228241",
+        "1523099545",
+        "1539482743",
+        "1546138476",
+        "1613874182",
+        "1634503271",
+        "1860992226",
+        "1869939343",
+        "2003736153",
+        "2108558890",
+        "2108834246",
+        "2121110380"
+    ]
+}

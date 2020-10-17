@@ -1,0 +1,43 @@
+{
+    "id": "1566678743",
+    "title": "Practical experience with TCP over GPRS",
+    "venue": "global communications conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Rajiv Chakravorty",
+            "id": "2187745030",
+            "org": "Comput. Lab., Cambridge Univ., UK"
+        },
+        {
+            "name": "Joel Cartwright",
+            "id": "2483792735",
+            "org": "Comput. Lab., Cambridge Univ., UK"
+        },
+        {
+            "name": "Ian Pratt",
+            "id": "2155012014",
+            "org": "Comput. Lab., Cambridge Univ., UK"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "GPRS core network",
+        "Computer science",
+        "TCP tuning",
+        "Radio Link Protocol",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1894486190",
+        "2072880733",
+        "2101214690",
+        "2119705782",
+        "2143593202"
+    ]
+}

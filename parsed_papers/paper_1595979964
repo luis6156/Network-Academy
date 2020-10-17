@@ -1,0 +1,53 @@
+{
+    "id": "1595979964",
+    "title": "Cryptanalysis of a Perturbated White-Box AES Implementation",
+    "venue": "international conference on cryptology in india",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yoni De Mulder",
+            "id": "1933107350",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Brecht Wyseur",
+            "id": "215294610",
+            "org": "Nagravision S.A."
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "AES implementations",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "161678037",
+        "1488471373",
+        "1505973206",
+        "1551572898",
+        "1552510908",
+        "1572375309",
+        "1579552112",
+        "1607187538",
+        "1806793453",
+        "1821087317",
+        "1846793529",
+        "1917830443",
+        "2110697240",
+        "2140514778",
+        "2163114293"
+    ]
+}

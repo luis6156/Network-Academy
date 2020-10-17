@@ -1,0 +1,47 @@
+{
+    "id": "1637140211",
+    "title": "Improved related-key impossible differential attacks on reduced-round AES-192",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wentao Zhang",
+            "id": "2682674952",
+            "org": "State Key Laboratory of Information Security, Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2100868817",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Algorithm",
+        "Cryptanalysis",
+        "Key (lock)"
+    ],
+    "references": [
+        "3926427",
+        "18798069",
+        "1515958737",
+        "1516699468",
+        "1541703086",
+        "1596744447",
+        "1629301835",
+        "1794421227",
+        "1974355178",
+        "1991897749"
+    ]
+}

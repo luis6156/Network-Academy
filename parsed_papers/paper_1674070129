@@ -1,0 +1,51 @@
+{
+    "id": "1674070129",
+    "title": "Max-Throughput for (Conservative) k-of-n Testing",
+    "venue": "Algorithmica",
+    "year": 2017,
+    "authors": [
+        {
+            "name": "Lisa Hellerstein",
+            "id": "2056505999",
+            "org": "NYU School of Engineering, Brooklyn, USA#TAB#"
+        },
+        {
+            "name": "Ozgur Ozkan",
+            "id": "2158666522",
+            "org": "NYU School of Engineering, Brooklyn, USA#TAB#"
+        },
+        {
+            "name": "Linda Sellie",
+            "id": "240780293",
+            "org": "NYU School of Engineering, Brooklyn, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Sequential analysis",
+        "Throughput",
+        "All-pairs testing",
+        "Discrete mathematics",
+        "Test strategy",
+        "Combinatorics",
+        "Ellipsoid method",
+        "Data structure",
+        "Mathematical optimization",
+        "Special case"
+    ],
+    "references": [
+        "1539257088",
+        "1600627413",
+        "1636002480",
+        "2010712525",
+        "2011297770",
+        "2026501144",
+        "2031264603",
+        "2033874160",
+        "2034424699",
+        "2152992767",
+        "2160921566",
+        "2171764109"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "104040549",
+    "title": "Range Queries in Non-blocking k -ary Search Trees",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Trevor Brown",
+            "id": "2121976966",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Hillel Avni",
+            "id": "2099365084",
+            "org": "Tel-Aviv University"
+        }
+    ],
+    "fields_of_study": [
+        "Crash",
+        "Binary search tree",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Abstract data type",
+        "Ternary search tree",
+        "Range query (data structures)",
+        "Search tree"
+    ],
+    "references": [
+        "171976045",
+        "172375476",
+        "1975301927",
+        "1993805917",
+        "2060771324",
+        "2063050381",
+        "2105045857",
+        "2119251905",
+        "2167680229",
+        "2170146741"
+    ]
+}

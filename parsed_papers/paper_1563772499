@@ -1,0 +1,38 @@
+{
+    "id": "1563772499",
+    "title": "MiMPI: A Multithred-Safe Implementation of MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Francisco Garcia",
+            "id": "2602947207",
+            "org": "Universidad Politecnica de Madrid (UPM)"
+        },
+        {
+            "name": "Alejandro Calderon",
+            "id": "2708627281",
+            "org": "Universidad Politecnica de Madrid (UPM)"
+        },
+        {
+            "name": "Jesus Carretero",
+            "id": "2137089783",
+            "org": "Universidad Politecnica de Madrid (UPM)"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer science",
+        "Implementation",
+        "Message passing",
+        "Functional programming",
+        "Virtual machine"
+    ],
+    "references": [
+        "1510543252",
+        "2081612620",
+        "2112998966",
+        "2127430427"
+    ]
+}

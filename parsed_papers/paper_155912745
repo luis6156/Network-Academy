@@ -1,0 +1,56 @@
+{
+    "id": "155912745",
+    "title": "UPMLIB: A Runtime System for Tuning the Memory Performance of OpenMP Programs on Scalable Shared-Memory Multiprocessors",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dimitrios S. Nikolopoulos",
+            "id": "222314420",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Theodore S. Papatheodorou",
+            "id": "615415263",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Constantine D. Polychronopoulos",
+            "id": "2301418095",
+            "org": "Urbana-Champaign"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Technical University of Catalonia"
+        },
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "Technical University of Catalonia"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Throughput",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Compiler",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Memory management",
+        "Runtime system"
+    ],
+    "references": [
+        "1598206477",
+        "1850405760",
+        "2039220457",
+        "2100720297",
+        "2140455011",
+        "2153368178",
+        "2153644244"
+    ]
+}

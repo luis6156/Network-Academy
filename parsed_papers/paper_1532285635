@@ -1,0 +1,37 @@
+{
+    "id": "1532285635",
+    "title": "Congestion Avoidance for Video over IP Networks",
+    "venue": "Proceedings of the International COST 237 Workshop on Multimedia Transport and Teleservices",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Toru Sakatani",
+            "id": "2671151318",
+            "org": "NTT Human Interface Labs."
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "TCP Westwood plus",
+        "Computer science",
+        "Computer network",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "Flow control (data)",
+        "Real-time computing",
+        "Packet loss"
+    ],
+    "references": [
+        "1790544354",
+        "2072683927",
+        "2087602541",
+        "2122401729",
+        "2127556982",
+        "2133109535",
+        "2165308660",
+        "2171988767",
+        "2753542457"
+    ]
+}

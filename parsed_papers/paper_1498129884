@@ -1,0 +1,46 @@
+{
+    "id": "1498129884",
+    "title": "Provably Secure Distributed Schnorr Signatures and a (t, n) Threshold Scheme for Implicit Certificates",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Douglas R. Stinson",
+            "id": "2046092719",
+            "org": "Certicom Corporation"
+        },
+        {
+            "name": "Reto Strobl",
+            "id": "2305918103",
+            "org": "Swiss Federal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Implicit certificate",
+        "Blind signature",
+        "Theoretical computer science",
+        "Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Distributed computing",
+        "EdDSA",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1487958904",
+        "1602308290",
+        "1755042603",
+        "1764277633",
+        "1885156594",
+        "1970606468",
+        "2052267638",
+        "2095708839",
+        "2113929724",
+        "2141420453",
+        "2166462813",
+        "2168970529"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1547315413",
+    "title": "Automatic Synthesis of Deterministic Concurrency",
+    "venue": "static analysis symposium",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Veselin Raychev",
+            "id": "684735414",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Martin T. Vechev",
+            "id": "39971648",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Eran Yahav",
+            "id": "2194672974",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Theoretical computer science",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Scheduling (computing)",
+        "Transition system",
+        "Determinism",
+        "Concurrency",
+        "Timestamp-based concurrency control",
+        "Programming language"
+    ],
+    "references": [
+        "1518247129",
+        "1531955077",
+        "1536098516",
+        "1584993430",
+        "1873898332",
+        "1973831620",
+        "1984439088",
+        "1995288535",
+        "2043100293",
+        "2096343842",
+        "2096403564",
+        "2101161997",
+        "2104824528",
+        "2104861744",
+        "2106016907",
+        "2106281135",
+        "2122532513",
+        "2122735631",
+        "2127959721",
+        "2132661148",
+        "2134440791",
+        "2135057262",
+        "2138567239",
+        "2142481893",
+        "2145087641",
+        "2145467766",
+        "2169611673",
+        "2194223632"
+    ]
+}

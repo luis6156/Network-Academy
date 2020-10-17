@@ -1,0 +1,36 @@
+{
+    "id": "1502575217",
+    "title": "Analysis of SSC2",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Daniel Bleichenbacher",
+            "id": "4960438",
+            "org": "Bell Laboratories"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FH Aargau"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Cryptanalysis",
+        "Stream cipher",
+        "Shift register",
+        "Fibonacci number"
+    ],
+    "references": [
+        "1492016609",
+        "1533097768",
+        "1548516269",
+        "1589410660",
+        "1703820996"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1744184756",
+    "title": "RFID Distance Bounding Multistate Enhancement",
+    "venue": "international conference on cryptology in india",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Gildas Avoine",
+            "id": "216851153",
+            "org": "Information Security Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium B-1348#TAB#"
+        },
+        {
+            "name": "Christian Floerkemeier",
+            "id": "189745281",
+            "org": "Auto-ID Labs, Massachusetts Institute of Technology, Cambridge, USA 02139#TAB#"
+        },
+        {
+            "name": "Benjamin Martin",
+            "id": "2233977461",
+            "org": "Information Security Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium B-1348#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Gas meter prover",
+        "Theoretical computer science",
+        "Authentication",
+        "Computer science",
+        "Distributed computing",
+        "Relay attack",
+        "Distance-bounding protocol",
+        "Relay",
+        "Bounding overwatch",
+        "Adversary"
+    ],
+    "references": [
+        "8881350",
+        "196904144",
+        "1542255234",
+        "1651148894",
+        "1727616536",
+        "1770547011",
+        "1878267993",
+        "1999190592",
+        "2063068653",
+        "2127785555",
+        "2792859366"
+    ]
+}

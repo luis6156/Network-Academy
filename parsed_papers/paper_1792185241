@@ -1,0 +1,62 @@
+{
+    "id": "1792185241",
+    "title": "Montgomery's trick and fast implementation of masked AES",
+    "venue": "international conference on progress in cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Laurie Genelle",
+            "id": "41329827",
+            "org": "Oberthur Technologies#TAB#"
+        },
+        {
+            "name": "Emmanuel Prouff",
+            "id": "50202740",
+            "org": "Oberthur Technologies#TAB#"
+        },
+        {
+            "name": "Michael Quisquater",
+            "id": "1970640690",
+            "org": "University of Versailles#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Masking (art)",
+        "Cryptography",
+        "Side channel attack",
+        "Computation",
+        "Computer science",
+        "Soundness",
+        "Computer security",
+        "Secret sharing",
+        "Computer engineering",
+        "Exploit"
+    ],
+    "references": [
+        "130371449",
+        "1479788314",
+        "1486264382",
+        "1494911169",
+        "1503689022",
+        "1506890909",
+        "1515909117",
+        "1524976612",
+        "1549962104",
+        "1554257389",
+        "1562362230",
+        "1562542037",
+        "1569151289",
+        "1592625985",
+        "1622403295",
+        "1897761346",
+        "2121110380",
+        "2155861318",
+        "2157150548",
+        "2161740631",
+        "2170478686",
+        "2401862170",
+        "2583913662",
+        "2612208439"
+    ]
+}

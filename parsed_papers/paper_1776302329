@@ -1,0 +1,35 @@
+{
+    "id": "1776302329",
+    "title": "Cryptanalysis of RC4-like Ciphers",
+    "venue": "selected areas in cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Serge Mister",
+            "id": "2490125863",
+            "org": "Entrust Technologies Limited"
+        },
+        {
+            "name": "Stafford E. Tavares",
+            "id": "2228390319",
+            "org": "Queen's University"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Keyspace",
+        "Theoretical computer science",
+        "Keystream",
+        "Running key cipher",
+        "Computer science",
+        "Distributed computing",
+        "Weak key",
+        "Stream cipher",
+        "Differential cryptanalysis",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "1602293460",
+        "1733713784"
+    ]
+}

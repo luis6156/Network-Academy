@@ -1,0 +1,42 @@
+{
+    "id": "1490586645",
+    "title": "Two Practical and Provably Secure Block Ciphers: BEARS and LION",
+    "venue": "fast software encryption",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ross J. Anderson",
+            "id": "2120643228",
+            "org": "Cambridge University"
+        },
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Residual block termination",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Rip van Winkle cipher",
+        "MDC-2"
+    ],
+    "references": [
+        "1511186238",
+        "1537206908",
+        "1545925316",
+        "1559931973",
+        "1596557332",
+        "1979802565",
+        "2011095011",
+        "2070565817",
+        "2077300005",
+        "2122984309"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1502508724",
+    "title": "Exploring the architecture of a stream register-based snoop filter",
+    "venue": "high performance embedded architectures and compilers",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Matthias A. Blumrich",
+            "id": "369332800",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Valentina Salapura",
+            "id": "120923091",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Alan Gara",
+            "id": "2131212268",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "STREAMS",
+        "Parallel computing",
+        "Small number",
+        "Multi-core processor",
+        "Locality of reference",
+        "Computer science",
+        "Cache coherence",
+        "Real-time computing",
+        "CPU cache",
+        "Architecture"
+    ],
+    "references": [
+        "1804921254",
+        "2034266103",
+        "2051598123",
+        "2089749965",
+        "2105223453",
+        "2116751788",
+        "2125008871",
+        "2140370341",
+        "2145021036",
+        "2147077996",
+        "2148103955",
+        "2153169188"
+    ]
+}

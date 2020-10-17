@@ -1,0 +1,57 @@
+{
+    "id": "1557451217",
+    "title": "On the Robustness of (Semi) Fast Quorum-Based Implementations of Atomic Shared Memory",
+    "venue": "international symposium on distributed computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Chryssis Georgiou",
+            "id": "2165536113",
+            "org": "Department of Computer Science, University of Cyprus, Nicosia, Cyprus#TAB#"
+        },
+        {
+            "name": "Nicolas C. Nicolaou",
+            "id": "2144050213",
+            "org": "Department of Computer Science and Engineering, University of Connecticut, Storrs, USA#TAB#"
+        },
+        {
+            "name": "Alexander A. Shvartsman",
+            "id": "700708846",
+            "org": "Department of Computer Science and Engineering, University of Connecticut, Storrs, USA and Computer Science and Artificial Intelligence Laboratory, MIT, Cambridge, USA MA 02139#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Witness",
+        "Timestamp",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Latency (engineering)",
+        "Network simulation",
+        "Robustness (computer science)",
+        "Real-time computing"
+    ],
+    "references": [
+        "76682163",
+        "1503117778",
+        "1587246893",
+        "1865730475",
+        "1966994880",
+        "1967118107",
+        "1996113863",
+        "2014239017",
+        "2052960791",
+        "2065180040",
+        "2080288192",
+        "2096866619",
+        "2112104979",
+        "2114387290",
+        "2142849519",
+        "2155405969",
+        "2155806575",
+        "2165838660",
+        "2167406141",
+        "2611515161"
+    ]
+}

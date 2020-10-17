@@ -1,0 +1,37 @@
+{
+    "id": "1465881795",
+    "title": "The Scc Compiler: SWARing at MMX 3DNow!",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Randall J. Fisher",
+            "id": "2102990560",
+            "org": "Purdue University"
+        },
+        {
+            "name": "Henry G. Dietz",
+            "id": "2120276898",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SIMD",
+        "Computer architecture",
+        "Computer science",
+        "Functional compiler",
+        "Distributed computing",
+        "SWAR",
+        "Compiler",
+        "Execution model",
+        "Compiler construction",
+        "Compiler correctness",
+        "Optimizing compiler"
+    ],
+    "references": [
+        "402670",
+        "1547830536",
+        "2035746958"
+    ]
+}

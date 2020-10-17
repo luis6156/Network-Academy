@@ -1,0 +1,93 @@
+{
+    "id": "1704319585",
+    "title": "A Distributed Algorithm for Large-Scale Graph Partitioning",
+    "venue": "ACM Transactions on Autonomous and Adaptive Systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Fatemeh Rahimian",
+            "id": "2042985758",
+            "org": "KTH Royal Institute of Technology and SICS Swedish ICT, Sweden"
+        },
+        {
+            "name": "Amir H. Payberah",
+            "id": "51020136",
+            "org": "SICS Swedish ICT, Sweden"
+        },
+        {
+            "name": "Sarunas Girdzijauskas",
+            "id": "2466695098",
+            "org": "KTH Royal Institute of Technology, Sweden"
+        },
+        {
+            "name": "Mark Jelasity",
+            "id": "307655587",
+            "org": "MTA SZTE Research Group on AI, Hungarian Academy of Sciences and University of Szeged, Hungary"
+        },
+        {
+            "name": "Seif Haridi",
+            "id": "678106963",
+            "org": "KTH Royal Institute of Technology and SICS Swedish ICT, Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Massively parallel",
+        "Computer science",
+        "Distributed computing",
+        "Local search (optimization)",
+        "Metis",
+        "Graph partition",
+        "Simulated annealing",
+        "Distributed algorithm",
+        "Load balancing (computing)",
+        "Vertex (geometry)"
+    ],
+    "references": [
+        "78077100",
+        "1463623805",
+        "1488210566",
+        "1490530634",
+        "1492639468",
+        "1510213976",
+        "1541642599",
+        "1613273921",
+        "1666765134",
+        "1943015726",
+        "1982003698",
+        "1989826169",
+        "2003365487",
+        "2004053910",
+        "2014875556",
+        "2038164234",
+        "2042359627",
+        "2063597636",
+        "2070232376",
+        "2077240465",
+        "2085227872",
+        "2095212639",
+        "2095724373",
+        "2105599110",
+        "2108099581",
+        "2112882545",
+        "2113513143",
+        "2117271622",
+        "2118953734",
+        "2122466138",
+        "2124637492",
+        "2128479026",
+        "2130822890",
+        "2131183411",
+        "2131975293",
+        "2138830906",
+        "2146591355",
+        "2151107368",
+        "2153204928",
+        "2159741581",
+        "2162136000",
+        "2162482386",
+        "2164625805",
+        "2169647400",
+        "2170616854",
+        "2189465200"
+    ]
+}

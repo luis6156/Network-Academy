@@ -1,0 +1,45 @@
+{
+    "id": "141690682",
+    "title": "Fast multi-precision multiplication for public-key cryptography on embedded microprocessors",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Michael Hutter",
+            "id": "2132463570",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Inffeldgasse, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Erich Wenger",
+            "id": "2151401341",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Inffeldgasse, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Microcontroller",
+        "Public-key cryptography",
+        "Kochanski multiplication",
+        "Integer",
+        "Computer science",
+        "Elliptic curve cryptography",
+        "Multiplication",
+        "Operand"
+    ],
+    "references": [
+        "1511530643",
+        "1549342296",
+        "1549779101",
+        "1567573409",
+        "1681507753",
+        "2052435632",
+        "2103431328",
+        "2134585683",
+        "2164387888",
+        "2286477783",
+        "2402252629",
+        "2792277736"
+    ]
+}

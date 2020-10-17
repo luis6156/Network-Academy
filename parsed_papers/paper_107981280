@@ -1,0 +1,40 @@
+{
+    "id": "107981280",
+    "title": "Fast user-mode rootkit scanner for the enterprise",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yi-Min Wang",
+            "id": "2137802269",
+            "org": "Microsoft Research, Redmond#TAB#"
+        },
+        {
+            "name": "Doug Beck",
+            "id": "2166386247",
+            "org": "Microsoft Research, Redmond#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scanner",
+        "Malware",
+        "Rootkit",
+        "Computer science",
+        "Computer security",
+        "Software deployment",
+        "Embedded system"
+    ],
+    "references": [
+        "124732759",
+        "161166442",
+        "1742385376",
+        "2031821547",
+        "2098972600",
+        "2099613071",
+        "2101451533",
+        "2111165162",
+        "2119099577",
+        "2126523385",
+        "2154081981"
+    ]
+}

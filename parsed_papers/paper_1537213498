@@ -1,0 +1,62 @@
+{
+    "id": "1537213498",
+    "title": "Path inference in data center networks",
+    "venue": "conference on network and service management",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Kyriaki Levanti",
+            "id": "14108651",
+            "org": "Carnegie Mellon University, USA"
+        },
+        {
+            "name": "Vijay Gopalakrishnan",
+            "id": "2165120397",
+            "org": "AT&T Labs - Research, USA"
+        },
+        {
+            "name": "Hyong S. Kim",
+            "id": "2234179828",
+            "org": "Carnegie Mellon University, USA"
+        },
+        {
+            "name": "Seungjoon Lee",
+            "id": "2148798061",
+            "org": "AT&T Labs - Research, USA"
+        },
+        {
+            "name": "Emmanuil Mavrogiorgis",
+            "id": "956693206",
+            "org": "AT&T Labs - Research, USA"
+        },
+        {
+            "name": "Aman Shaikh",
+            "id": "2140726661",
+            "org": "AT&T Labs - Research, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Path tracing",
+        "Logical topology",
+        "Computer science",
+        "Distributed computing",
+        "Computer network",
+        "Traverse",
+        "Routing domain",
+        "Link-state routing protocol",
+        "Routing table",
+        "Real-time computing",
+        "IP forwarding",
+        "traceroute"
+    ],
+    "references": [
+        "1607215488",
+        "1673081458",
+        "2020769003",
+        "2135920560",
+        "2139835332",
+        "2140069682",
+        "2159396835",
+        "2168169496"
+    ]
+}

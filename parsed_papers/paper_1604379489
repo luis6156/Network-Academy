@@ -1,0 +1,31 @@
+{
+    "id": "1604379489",
+    "title": "Test Suite Generation from a FSM with a Given Type of Implementation Errors",
+    "venue": "Proceedings of the IFIP TC6/WG6.1 Twelth International Symposium on Protocol Specification, Testing and Verification XII",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Alexandre Petrenko",
+            "id": "2227382289",
+            "org": "Universite de Montreal, Departement d'informatique et de recherche operationnelle, C.P.6128, Succ. \"A\", Montreal, Canada, H3C 3J7"
+        },
+        {
+            "name": "Nina Yevtushenko",
+            "id": "2705663975",
+            "org": "Universite de Montreal, Departement d'informatique et de recherche operationnelle, C.P.6128, Succ. \"A\", Montreal, Canada, H3C 3J7"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Test suite",
+        "Theoretical computer science",
+        "Stuck-at fault",
+        "Implementation",
+        "Derivation",
+        "Real-time computing"
+    ],
+    "references": [
+        "1537287315",
+        "1965028135"
+    ]
+}

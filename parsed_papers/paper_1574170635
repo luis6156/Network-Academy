@@ -1,0 +1,53 @@
+{
+    "id": "1574170635",
+    "title": "Obtaining Hardware Performance Metrics for the BlueGene/L Supercomputer",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Pedro Mindlin",
+            "id": "2256048009",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Jose R. Brunheroto",
+            "id": "1969562469",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Luiz DeRose",
+            "id": "1893306346",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Jose E. Moreira",
+            "id": "2194395691",
+            "org": "IBM Thomas J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Instruction set simulator",
+        "Porting",
+        "Computer hardware",
+        "Supercomputer",
+        "Parallel computing",
+        "Program analysis",
+        "Computer science",
+        "Distributed computing",
+        "Performance metric",
+        "CPU cache",
+        "Architecture"
+    ],
+    "references": [
+        "153274108",
+        "1501525194",
+        "1574249939",
+        "1971952282",
+        "2104916267",
+        "2106961628",
+        "2125955291",
+        "2167613218",
+        "2168589623"
+    ]
+}

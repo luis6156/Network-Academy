@@ -1,0 +1,40 @@
+{
+    "id": "1594625647",
+    "title": "Efficient, perfect random number generators",
+    "venue": "international cryptology conference",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Silvio Micali",
+            "id": "699581604",
+            "org": "MIT"
+        },
+        {
+            "name": "Claus-Peter Schnorr",
+            "id": "2033678142",
+            "org": "Universitat Frankfurt"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom number generator",
+        "Lavarand",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Self-shrinking generator",
+        "Linear congruential generator",
+        "Lagged Fibonacci generator",
+        "Random number generation",
+        "Random seed",
+        "Polynomial"
+    ],
+    "references": [
+        "2042585615",
+        "2085759780",
+        "2108104892",
+        "2117362057",
+        "2132350327",
+        "2138109426",
+        "2164284862"
+    ]
+}

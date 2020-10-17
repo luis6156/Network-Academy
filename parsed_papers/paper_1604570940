@@ -1,0 +1,54 @@
+{
+    "id": "1604570940",
+    "title": "Detectability of traffic anomalies in two adjacent networks",
+    "venue": "passive and active network measurement",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Augustin Soule",
+            "id": "2168342616",
+            "org": "Thomson Research#TAB#"
+        },
+        {
+            "name": "Haakon Ringberg",
+            "id": "2056640415",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Fernando Silveira",
+            "id": "2567994870",
+            "org": "Federal University of Rio de Janeiro#TAB#"
+        },
+        {
+            "name": "Jennifer Rexford",
+            "id": "1998722161",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Christophe Diot",
+            "id": "84450470",
+            "org": "Thomson Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network engineering",
+        "Traffic mix",
+        "Computer science",
+        "Visual inspection",
+        "Sampling (statistics)",
+        "Network packet",
+        "Anomaly detection",
+        "Kalman filter",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "1564684005",
+        "1968439359",
+        "2092832849",
+        "2108673751",
+        "2124850309",
+        "2157578436",
+        "2293322640"
+    ]
+}

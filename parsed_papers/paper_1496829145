@@ -1,0 +1,54 @@
+{
+    "id": "1496829145",
+    "title": "Related-key differential-linear attacks on reduced AES-192",
+    "venue": "international conference on progress in cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Wentao Zhang",
+            "id": "2682674952",
+            "org": "State Key Laboratory of Information Security, Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2100868817",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Algorithm",
+        "Cryptanalysis",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Differential-linear attack"
+    ],
+    "references": [
+        "18798069",
+        "52191336",
+        "1515958737",
+        "1541703086",
+        "1556727271",
+        "1568817903",
+        "1598870173",
+        "1629301835",
+        "1637140211",
+        "1794421227",
+        "1964723977",
+        "1991897749"
+    ]
+}

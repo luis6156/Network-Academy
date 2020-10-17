@@ -1,0 +1,62 @@
+{
+    "id": "1035500135",
+    "title": "Differential Cryptanalysis and Linear Distinguisher of Full-Round Zorro",
+    "venue": "applied cryptography and network security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Yanfeng Wang",
+            "id": "2612478789",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Zhiyuan Guo",
+            "id": "2160247017",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Xiaoli Yu",
+            "id": "2303611080",
+            "org": "Chinese Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Key-recovery attack",
+        "Cipher",
+        "Algorithm",
+        "MDS matrix",
+        "Key space",
+        "Computer security",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Distinguishing attack"
+    ],
+    "references": [
+        "45372631",
+        "153516704",
+        "1489575954",
+        "1533392870",
+        "1562545139",
+        "1570998442",
+        "1607874478",
+        "1611243483",
+        "1629301835",
+        "1803612032",
+        "1853704432",
+        "1862865750",
+        "1894646615",
+        "1964723977",
+        "1966655096",
+        "2040320008",
+        "2141124495",
+        "2234576048",
+        "2403168250"
+    ]
+}

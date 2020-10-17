@@ -1,0 +1,51 @@
+{
+    "id": "1782148749",
+    "title": "Support for the evolution of C++ generic functions",
+    "venue": "software language engineering",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Peter Pirkelbauer",
+            "id": "2798138131",
+            "org": "Lawrence Livermore National Laboratory, Center for Applied Scientific Computing, Livermore, CA#TAB#"
+        },
+        {
+            "name": "Damian Dechev",
+            "id": "1449342217",
+            "org": "University of Central Florida, Department of Electrical Engineering and Computer Science, Orlando, FL#TAB#"
+        },
+        {
+            "name": "Bjarne Stroustrup",
+            "id": "179039431",
+            "org": "Texas A&M University, Department of Computer Science and Engineering, College Station, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Source code",
+        "Computer science",
+        "Template",
+        "Generic programming",
+        "Notation",
+        "Programming language"
+    ],
+    "references": [
+        "1503606081",
+        "1561299197",
+        "1572663059",
+        "1623282124",
+        "2006327947",
+        "2017112188",
+        "2059895047",
+        "2078944436",
+        "2113656853",
+        "2117174233",
+        "2133625592",
+        "2139099489",
+        "2144788292",
+        "2163610657",
+        "2163976959",
+        "2166877474",
+        "2611598995"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "id": "1462154385",
+    "title": "Zeroizing Without Low-Level Zeroes: New MMAP Attacks and their Limitations",
+    "venue": "international cryptology conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "University of Luxembourg"
+        },
+        {
+            "name": "Craig Gentry",
+            "id": "2339798781",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Shai Halevi",
+            "id": "1686185850",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Tancrede Lepoint",
+            "id": "2038151421",
+            "org": "CryptoExperts"
+        },
+        {
+            "name": "Hemanta K. Maji",
+            "id": "1984788721",
+            "org": "University of California"
+        },
+        {
+            "name": "Eric Miles",
+            "id": "2599205252",
+            "org": "University of California"
+        },
+        {
+            "name": "Mariana Raykova",
+            "id": "2310902771",
+            "org": "SRI International"
+        },
+        {
+            "name": "Amit Sahai",
+            "id": "2895914438",
+            "org": "University of California"
+        },
+        {
+            "name": "Mehdi Tibouchi",
+            "id": "58928120",
+            "org": "NTT Secure Platform Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "mmap",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Computer science",
+        "Multilinear map"
+    ],
+    "references": [
+        "7540341",
+        "13261264",
+        "386218400",
+        "1603256047",
+        "1871911207",
+        "1915197037",
+        "2054904172",
+        "2166561215",
+        "2169673773",
+        "2187913965",
+        "2187996483",
+        "2196940748",
+        "2221582088",
+        "2295328551",
+        "2404809868",
+        "2404947441",
+        "2407102551",
+        "2470510195",
+        "2575821058"
+    ]
+}

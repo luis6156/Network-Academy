@@ -1,0 +1,39 @@
+{
+    "id": "1486933817",
+    "title": "A Known Plaintext Attack of FEAL-4 and FEAL-6",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Anne Tardy-Corfdir",
+            "id": "2563475113",
+            "org": "PAA/TSA/SRC"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "PAA/TSA/SRC"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Symmetric-key algorithm",
+        "Theoretical computer science",
+        "Malleability",
+        "Discrete mathematics",
+        "Computer science",
+        "Plaintext-aware encryption",
+        "Key clustering",
+        "Ciphertext indistinguishability",
+        "Ciphertext",
+        "Plaintext"
+    ],
+    "references": [
+        "1523702841",
+        "1546247153",
+        "1576495995",
+        "1629301835",
+        "2078168683",
+        "2087189997"
+    ]
+}

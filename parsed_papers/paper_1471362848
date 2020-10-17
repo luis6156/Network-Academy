@@ -1,0 +1,46 @@
+{
+    "id": "1471362848",
+    "title": "FPGA implementation of an improved attack against the DECT standard cipher",
+    "venue": "international conference on information security and cryptology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Michael Weiner",
+            "id": "2601126960",
+            "org": "Fraunhofer Institute for Secure Information Technology, Munich, Germany, TU Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Erik Tews",
+            "id": "1485344885",
+            "org": "Fraunhofer Institute for Secure Information Technology, Munich, Germany, TU Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Benedikt Heinz",
+            "id": "2096578029",
+            "org": "Fraunhofer Institute for Secure Information Technology, Munich, Germany, TU Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Johann Heyszl",
+            "id": "184805220",
+            "org": "Fraunhofer Institute for Secure Information Technology, Munich, Germany, TU Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cordless telephone",
+        "Theoretical computer science",
+        "Cipher",
+        "Brute-force attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Key space",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Meet-in-the-middle attack",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "1513439291",
+        "1569821321"
+    ]
+}

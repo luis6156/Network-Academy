@@ -1,0 +1,57 @@
+{
+    "id": "142409102",
+    "title": "Secure Multi-Party Computation for Elliptic Curves",
+    "venue": "international workshop on security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Koutarou Suzuki",
+            "id": "2526671548",
+            "org": "NTT Secure Platform Laboratories"
+        },
+        {
+            "name": "Kazuki Yoneyama",
+            "id": "2013076459",
+            "org": "NTT Secure Platform Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Edwards curve",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Computer science",
+        "Division polynomials",
+        "Computer security",
+        "Elliptic curve point multiplication",
+        "Schoof's algorithm",
+        "Elliptic curve cryptography",
+        "Elliptic curve",
+        "Counting points on elliptic curves"
+    ],
+    "references": [
+        "44936433",
+        "59079490",
+        "59556450",
+        "126174520",
+        "1481078266",
+        "1505725664",
+        "1516531644",
+        "1531102506",
+        "1540529576",
+        "1548023999",
+        "1617663512",
+        "1838435525",
+        "1838677899",
+        "1888364621",
+        "1983849809",
+        "2077315235",
+        "2113136973",
+        "2121423622",
+        "2130901615",
+        "2154290215",
+        "2156001253",
+        "2177399963",
+        "2572799557",
+        "2607627035"
+    ]
+}

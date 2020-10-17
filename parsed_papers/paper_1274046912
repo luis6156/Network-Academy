@@ -1,0 +1,54 @@
+{
+    "id": "1274046912",
+    "title": "How to evaluate the security of real-life cryptographic protocols? the cases of ISO/IEC 29128 and CRYPTREC",
+    "venue": "financial cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Shin'ichiro Matsuo",
+            "id": "2711015913",
+            "org": "NICT#TAB#"
+        },
+        {
+            "name": "Kunihiko Miyazaki",
+            "id": "2150096462",
+            "org": "Hitachi Ltd.#TAB#"
+        },
+        {
+            "name": "Akira Otsuka",
+            "id": "2203514392",
+            "org": "AIST#TAB#"
+        },
+        {
+            "name": "David A. Basin",
+            "id": "2203547071",
+            "org": "ETH Zurich#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Certification",
+        "Authentication protocol",
+        "Cryptographic protocol",
+        "Computer science",
+        "Computer security",
+        "CRYPTREC",
+        "Key management",
+        "Standardization",
+        "Cryptographic Module Validation Program"
+    ],
+    "references": [
+        "1589312904",
+        "1600748341",
+        "2003915781",
+        "2073385346",
+        "2108978217",
+        "2110425399",
+        "2114189125",
+        "2117064875",
+        "2126267504",
+        "2132544882",
+        "2133126578",
+        "2134508058"
+    ]
+}

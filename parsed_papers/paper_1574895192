@@ -1,0 +1,40 @@
+{
+    "id": "1574895192",
+    "title": "Scheduling real-time transactions with disk resident data",
+    "venue": "very large data bases",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Robert K. Abbott",
+            "id": "2162592982",
+            "org": "Department of Computer Science|Princeton University"
+        },
+        {
+            "name": "Hector Garcia-Molina",
+            "id": "237419955",
+            "org": "Department of Computer Science|Princeton University"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "160787565",
+        "1487184349",
+        "1991199257",
+        "2023671193",
+        "2030689196",
+        "2123322045",
+        "2160293203"
+    ]
+}

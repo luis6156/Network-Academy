@@ -1,0 +1,49 @@
+{
+    "id": "1613889628",
+    "title": "Unifying Memory and Database Transactions",
+    "venue": "european conference on parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ricardo J. Dias",
+            "id": "2105889155",
+            "org": "CITI--Centre for Informatics and Information Technology, and Departamento de Informatica, Universidade Nova de Lisboa, Portugal#TAB#"
+        },
+        {
+            "name": "Joao Lourenco",
+            "id": "1989309387",
+            "org": "CITI--Centre for Informatics and Information Technology, and Departamento de Informatica, Universidade Nova de Lisboa, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Memory management",
+        "Rollback",
+        "Database",
+        "Distributed transaction",
+        "Memory map",
+        "Real-time computing",
+        "Flat memory model",
+        "Database transaction"
+    ],
+    "references": [
+        "1515932031",
+        "1542975293",
+        "1963520590",
+        "1971365232",
+        "1996952974",
+        "2084130915",
+        "2099417412",
+        "2105055683",
+        "2106887953",
+        "2107497336",
+        "2108204150",
+        "2108287664",
+        "2117917070",
+        "2129990308"
+    ]
+}

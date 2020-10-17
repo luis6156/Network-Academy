@@ -1,0 +1,52 @@
+{
+    "id": "1517480553",
+    "title": "MDH: a high speed multi-phase dynamic hash string matching algorithm for large-scale pattern set",
+    "venue": "international conference on information and communication security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Zongwei Zhou",
+            "id": "2659139922",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China and Research Institute of Information Technology, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yibo Xue",
+            "id": "2806027626",
+            "org": "Research Institute of Information Technology, Tsinghua University, Beijing, China and Tsinghua National Laboratory for Information Science and Technology, Beijing, China#TAB#"
+        },
+        {
+            "name": "Junda Liu",
+            "id": "2707079925",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China and Research Institute of Information Technology, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wei Zhang",
+            "id": "2654593074",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China and Research Institute of Information Technology, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Jun Li",
+            "id": "2892517434",
+            "org": "Research Institute of Information Technology, Tsinghua University, Beijing, China and Tsinghua National Laboratory for Information Science and Technology, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Perfect hash function",
+        "String searching algorithm",
+        "Theoretical computer science",
+        "Rolling hash",
+        "Computer science",
+        "Boyer-Moore string search algorithm",
+        "Rabin-Karp algorithm",
+        "Hash function",
+        "Commentz-Walter algorithm",
+        "Approximate string matching"
+    ],
+    "references": [
+        "1515839227",
+        "1674877186",
+        "1835819916",
+        "2099964107",
+        "2134826720"
+    ]
+}

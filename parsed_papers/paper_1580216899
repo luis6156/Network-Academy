@@ -1,0 +1,54 @@
+{
+    "id": "1580216899",
+    "title": "Efficient Declustering of Non-uniform Multidimensional Data Using Shifted Hilbert Curves",
+    "venue": "database systems for advanced applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hak-Cheol Kim",
+            "id": "2118937219",
+            "org": "Pusan National University"
+        },
+        {
+            "name": "Mario A. Lopez",
+            "id": "2101190285",
+            "org": "University of Denver"
+        },
+        {
+            "name": "Scott T. Leutenegger",
+            "id": "227364057",
+            "org": "University of Denver"
+        },
+        {
+            "name": "Ki-Joune Li",
+            "id": "2167262909",
+            "org": "Pusan National University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel I/O",
+        "Online analytical processing",
+        "Theoretical computer science",
+        "Computer science",
+        "Block (data storage)",
+        "Hilbert curve",
+        "Clustering high-dimensional data",
+        "Range query (data structures)"
+    ],
+    "references": [
+        "1503627001",
+        "1509747728",
+        "1544002045",
+        "1546065898",
+        "1548168538",
+        "1554223221",
+        "1983748443",
+        "2003719432",
+        "2052695126",
+        "2069132287",
+        "2149173084",
+        "2151367350",
+        "2154852471",
+        "2166268516"
+    ]
+}

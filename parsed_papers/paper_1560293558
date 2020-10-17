@@ -1,0 +1,39 @@
+{
+    "id": "1560293558",
+    "title": "The election problem in asynchronous distributed systems with bounded faulty processes",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "SeongHoon Park",
+            "id": "2526790790",
+            "org": "School of Electrical and Computer Engineering, Chungbuk National Unvi., Cheongju, ChungBuk, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Atomic commit",
+        "Asynchronous communication",
+        "Computer science",
+        "Chandra-Toueg consensus algorithm",
+        "Distributed computing",
+        "Bounded function",
+        "Real-time computing",
+        "Distributed algorithm",
+        "Detector",
+        "Leader election"
+    ],
+    "references": [
+        "1480890638",
+        "1517982377",
+        "2011039300",
+        "2035362408",
+        "2056484609",
+        "2071187449",
+        "2077240273",
+        "2101307167",
+        "2133943294",
+        "2160139557",
+        "2163499196"
+    ]
+}

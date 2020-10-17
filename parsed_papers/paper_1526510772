@@ -1,0 +1,47 @@
+{
+    "id": "1526510772",
+    "title": "Automated Segmentation of the Left and Right Ventricles in 4D Cardiac SPAMM Images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Albert Montillo",
+            "id": "2128606118",
+            "org": "University Of Pennsylvania"
+        },
+        {
+            "name": "Dimitris N. Metaxas",
+            "id": "1991743105",
+            "org": "Rutgers University"
+        },
+        {
+            "name": "Leon Axel",
+            "id": "2032861547",
+            "org": "New York University"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Grayscale",
+        "Pattern recognition",
+        "Computer science",
+        "Active contour model",
+        "BLOOD FILLED",
+        "Thresholding",
+        "Vector flow",
+        "Endocardium",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1486258326",
+        "1963929124",
+        "1991266201",
+        "2030482460",
+        "2041020919",
+        "2104095591",
+        "2104479126",
+        "2161821809",
+        "2170833797"
+    ]
+}

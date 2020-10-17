@@ -1,0 +1,52 @@
+{
+    "id": "126905502",
+    "title": "Fine-Grain and Multiprogramming-Conscious Nanothreading with the Solaris Operating System",
+    "venue": "parallel and distributed processing techniques and applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Dimitrios S. Nikolopoulos",
+            "id": "222314420",
+            "org": "School of Electronics, Electrical Engineering and Computer Science"
+        },
+        {
+            "name": "Eleftherios D. Polychronopoulos",
+            "id": "56925266",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Theodore S. Papatheodorou",
+            "id": "615415263",
+            "org": "University of Patras"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Memory management (operating systems)",
+        "Parallel computing",
+        "Solaris Multiplexed I/O",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "Computer multitasking",
+        "Multithreading",
+        "Runtime system",
+        "Scheduler activations",
+        "Operating system"
+    ],
+    "references": [
+        "1543117568",
+        "1583973024",
+        "1805392010",
+        "1850405760",
+        "1966938284",
+        "1971886849",
+        "1988780491",
+        "2072246515",
+        "2072725684",
+        "2098147619",
+        "2131480648",
+        "2174818301",
+        "2539597766"
+    ]
+}

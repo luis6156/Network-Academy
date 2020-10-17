@@ -1,0 +1,57 @@
+{
+    "id": "170832280",
+    "title": "Bayesian segmentation of atrium wall using globally-optimal graph cuts on 3D meshes",
+    "venue": "information processing in medical imaging",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Gopalkrishna Veni",
+            "id": "2043335329",
+            "org": "Scientific Computing and Imaging (SCI) Institute, University of Utah#TAB#"
+        },
+        {
+            "name": "Zhisong Fu",
+            "id": "2155341218",
+            "org": "Scientific Computing and Imaging (SCI) Institute, University of Utah#TAB#"
+        },
+        {
+            "name": "Suyash P. Awate",
+            "id": "2116491809",
+            "org": "Scientific Computing and Imaging (SCI) Institute, University of Utah#TAB#"
+        },
+        {
+            "name": "Ross T. Whitaker",
+            "id": "2124784654",
+            "org": "Scientific Computing and Imaging (SCI) Institute, University of Utah#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Cut",
+        "Spatial network",
+        "Computer vision",
+        "Polygon mesh",
+        "Pattern recognition",
+        "Computer science",
+        "Bayesian probability",
+        "Standard test image",
+        "Scale-space segmentation",
+        "Mesh generation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1549946184",
+        "1567539409",
+        "1586988526",
+        "2023553856",
+        "2038952578",
+        "2056046662",
+        "2108036280",
+        "2140502500",
+        "2149184914",
+        "2153284654",
+        "2164774194",
+        "2172104160",
+        "2887049744"
+    ]
+}

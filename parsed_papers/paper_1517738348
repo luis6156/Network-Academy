@@ -1,0 +1,54 @@
+{
+    "id": "1517738348",
+    "title": "Key-Private Proxy Re-encryption",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Giuseppe Ateniese",
+            "id": "124599811",
+            "org": "Johns Hopkins University,#TAB#"
+        },
+        {
+            "name": "Karyn Benson",
+            "id": "2100390043",
+            "org": "Johns Hopkins University,#TAB#"
+        },
+        {
+            "name": "Susan Hohenberger",
+            "id": "2244632657",
+            "org": "Johns Hopkins University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Obfuscation",
+        "Proxy re-encryption",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Diffie-Hellman key exchange",
+        "Decision Linear assumption",
+        "Information sensitivity",
+        "Ciphertext",
+        "Internet privacy",
+        "Distributed File System"
+    ],
+    "references": [
+        "1495266644",
+        "1567827377",
+        "1589625251",
+        "1590823599",
+        "1607264302",
+        "1981398410",
+        "2086042811",
+        "2089562307",
+        "2102355710",
+        "2110740499",
+        "2114428623",
+        "2146438437",
+        "2152924492",
+        "2159845428",
+        "2164101323",
+        "2172174332"
+    ]
+}

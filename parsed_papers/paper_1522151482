@@ -1,0 +1,57 @@
+{
+    "id": "1522151482",
+    "title": "The Village Telephone System: A Case Study in Formal Software Engineering",
+    "venue": "theorem proving in higher order logics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Karthikeyan Bhargavan",
+            "id": "392089535",
+            "org": "University of Pennsylvania"
+        },
+        {
+            "name": "Carl A. Gunter",
+            "id": "1683457605",
+            "org": "University of Pennsylvania"
+        },
+        {
+            "name": "Elsa L. Gunter",
+            "id": "2167730777",
+            "org": "Bell Labs"
+        },
+        {
+            "name": "Michael Jackson",
+            "id": "2614925594",
+            "org": "AT&T Laboratories"
+        },
+        {
+            "name": "Davor Obradovic",
+            "id": "2148763417",
+            "org": "University of Pennsylvania"
+        },
+        {
+            "name": "Pamela Zave",
+            "id": "248253975",
+            "org": "AT&T Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Software engineering",
+        "Algorithm",
+        "Domain knowledge",
+        "Formal specification",
+        "Computer science",
+        "Terminology",
+        "Interoperability",
+        "Formal methods",
+        "Model checking",
+        "HOL",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1570762047",
+        "1596365597",
+        "2106180253",
+        "2113435553"
+    ]
+}

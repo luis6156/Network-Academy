@@ -1,0 +1,45 @@
+{
+    "id": "1580799589",
+    "title": "GCTrees: Garbage collecting snapshots",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Chris Dragga",
+            "id": "2231190018",
+            "org": "Advanced Technology Group, NetApp Inc."
+        },
+        {
+            "name": "Douglas Santry",
+            "id": "2158194612",
+            "org": "Advanced Technology Group, NetApp Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "ext4",
+        "Enterprise data management",
+        "Reference counting",
+        "Proof of concept",
+        "Garbage",
+        "Snapshot (computer storage)",
+        "Virtual machine",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "60569950",
+        "1576397915",
+        "1964802076",
+        "1968075755",
+        "2097829252",
+        "2100100130",
+        "2113201593",
+        "2114167330",
+        "2115837944",
+        "2125883512",
+        "2138594496",
+        "2139436825",
+        "2161212857"
+    ]
+}

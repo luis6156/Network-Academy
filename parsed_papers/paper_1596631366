@@ -1,0 +1,40 @@
+{
+    "id": "1596631366",
+    "title": "Reasoning about Uncertainty in Fault-tolerant Distributed Systems",
+    "venue": "Systems, Proceedings of a Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Michael J. Fischer",
+            "id": "2159593723",
+            "org": "Yale Univ., New Haven, CT#TAB#"
+        },
+        {
+            "name": "Lenore D. Zuck",
+            "id": "2048787978",
+            "org": "Yale Univ., New Haven, CT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Failure semantics",
+        "Byzantine fault tolerance",
+        "Probabilistic logic",
+        "Distributed concurrency control",
+        "Quantum Byzantine agreement",
+        "Distributed algorithm",
+        "Fault model"
+    ],
+    "references": [
+        "42364276",
+        "43147964",
+        "171986141",
+        "1572047767",
+        "2018908462",
+        "2034791526",
+        "2137883105"
+    ]
+}

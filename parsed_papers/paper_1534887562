@@ -1,0 +1,44 @@
+{
+    "id": "1534887562",
+    "title": "Extracting purely functional contents from logical inductive types",
+    "venue": "theorem proving in higher order logics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Delahaye",
+            "id": "2022052714",
+            "org": "CEDRIC/CNAM-ENSIIE, Paris, France#TAB#"
+        },
+        {
+            "name": "Catherine Dubois",
+            "id": "2109272811",
+            "org": "CEDRIC/CNAM-ENSIIE, Paris, France#TAB#"
+        },
+        {
+            "name": "Jean-Frederic Etienne",
+            "id": "2250236959",
+            "org": "CEDRIC/CNAM-ENSIIE, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Purely functional",
+        "Input/output",
+        "Proof assistant",
+        "Computation",
+        "Computer science",
+        "Code generation",
+        "Inductive type"
+    ],
+    "references": [
+        "1546270920",
+        "1546449686",
+        "1586638423",
+        "1981466053",
+        "2005915144",
+        "2036335871",
+        "2067145567",
+        "2116325485"
+    ]
+}

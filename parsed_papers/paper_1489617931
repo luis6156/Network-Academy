@@ -1,0 +1,47 @@
+{
+    "id": "1489617931",
+    "title": "NSS: An NTRU Lattice-Based Signature Scheme",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jeffrey Hoffstein",
+            "id": "106990159",
+            "org": "NTRU Cryptosystems, Inc."
+        },
+        {
+            "name": "Jill Pipher",
+            "id": "2151257287",
+            "org": "NTRU Cryptosystems, Inc."
+        },
+        {
+            "name": "Joseph H. Silverman",
+            "id": "2171202380",
+            "org": "NTRU Cryptosystems, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "NTRU",
+        "Cryptography",
+        "Theoretical computer science",
+        "Computer science",
+        "Lattice-based cryptography",
+        "Digital signature",
+        "Cryptosystem",
+        "NTRUSign",
+        "Public-key cryptography",
+        "Lattice problem"
+    ],
+    "references": [
+        "116006482",
+        "1527005907",
+        "1546501602",
+        "1554259298",
+        "1558930600",
+        "1646354800",
+        "1660562555",
+        "1675339804",
+        "1882430379",
+        "2117420234"
+    ]
+}

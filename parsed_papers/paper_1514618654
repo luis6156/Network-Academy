@@ -1,0 +1,52 @@
+{
+    "id": "1514618654",
+    "title": "A unified framework for atlas based brain image segmentation and registration",
+    "venue": "workshop on biomedical image registration",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Emiliano D'Agostino",
+            "id": "2048159354",
+            "org": "Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Frederik Maes",
+            "id": "2192370666",
+            "org": "Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Dirk Vandermeulen",
+            "id": "2030948482",
+            "org": "Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Paul Suetens",
+            "id": "2344226991",
+            "org": "Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Expectation-maximization algorithm",
+        "Image segmentation",
+        "Scale-space segmentation",
+        "Affine transformation",
+        "Atlas (anatomy)",
+        "Mutual information",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1579331594",
+        "1583338723",
+        "1591850564",
+        "1972099553",
+        "1977034661",
+        "2009561775",
+        "2034432063",
+        "2128506906",
+        "2130686832"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1522337283",
+    "title": "MIST: An Efficient, Randomized Exponentiation Algorithm for Resisting Power Analysis",
+    "venue": "the cryptographers' track at the rsa conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Colin D. Walter",
+            "id": "2170406325",
+            "org": "Comodo Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Blinding",
+        "Algorithm",
+        "Exponentiation",
+        "Computer science",
+        "Power analysis",
+        "Completely randomized design",
+        "Modular exponentiation",
+        "Addition chain"
+    ],
+    "references": [
+        "1511843316",
+        "1517875064",
+        "1536508214",
+        "1540529576",
+        "1591503962",
+        "1613874182",
+        "1664808737",
+        "1864311428",
+        "2105374413",
+        "2148862943",
+        "2154909745",
+        "2566181608"
+    ]
+}

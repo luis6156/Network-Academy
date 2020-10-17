@@ -1,0 +1,53 @@
+{
+    "id": "1614049895",
+    "title": "Validating Dominator Trees for a Fast, Verified Dominance Test",
+    "venue": "interactive theorem proving",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Sandrine Blazy",
+            "id": "2618548387",
+            "org": "Universite Rennes 1 - IRISA - Inria"
+        },
+        {
+            "name": "Delphine Demange",
+            "id": "2638510970",
+            "org": "Universite Rennes 1 - IRISA - Inria"
+        },
+        {
+            "name": "David Pichardie",
+            "id": "245784412",
+            "org": "ENS Rennes - IRISA - Inria"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Theoretical computer science",
+        "Algorithm",
+        "Proof assistant",
+        "Computer science",
+        "Compiler",
+        "Validator",
+        "Implementation",
+        "Dominator",
+        "Correctness",
+        "Optimizing compiler"
+    ],
+    "references": [
+        "103911866",
+        "437735858",
+        "1485845471",
+        "1982205631",
+        "1995535937",
+        "2023035194",
+        "2034340985",
+        "2072988564",
+        "2085050643",
+        "2091345373",
+        "2102888019",
+        "2111117034",
+        "2111379929",
+        "2148662736",
+        "2167029843"
+    ]
+}

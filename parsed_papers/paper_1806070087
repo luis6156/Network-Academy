@@ -1,0 +1,55 @@
+{
+    "id": "1806070087",
+    "title": "Towards security limits in side-channel attacks",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Eric Peeters",
+            "id": "2234296780",
+            "org": "UCL Crypto Group, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Cedric Archambeau",
+            "id": "2006974593",
+            "org": "UCL Crypto Group, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Countermeasure",
+        "Hamming weight",
+        "Computer science",
+        "Implementation",
+        "Observable",
+        "Leakage (electronics)",
+        "Mutual information"
+    ],
+    "references": [
+        "108606907",
+        "111085860",
+        "236432643",
+        "1499081748",
+        "1503689022",
+        "1548656471",
+        "1562362230",
+        "1562542037",
+        "1595334710",
+        "1671031071",
+        "2154909745",
+        "2170478686",
+        "2247006822"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1801785214",
+    "title": "Lightweight privacy preserving authentication for RFID using a stream cipher",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Olivier Billet",
+            "id": "1572106382",
+            "org": "Orange Labs, Issy-les-Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Jonathan Etrog",
+            "id": "2682498717",
+            "org": "Orange Labs, Issy-les-Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "Orange Labs, Issy-les-Moulineaux, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Cryptography",
+        "Block cipher mode of operation",
+        "Authentication",
+        "Authentication protocol",
+        "Computer science",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Computer network",
+        "Provable security"
+    ],
+    "references": [
+        "1483027441",
+        "1495086674",
+        "1495150777",
+        "1513645801",
+        "1514141030",
+        "1516563360",
+        "1531397006",
+        "1549671385",
+        "1562286769",
+        "1566273181",
+        "1569125871",
+        "1596841000",
+        "1599058895",
+        "1600415638",
+        "1607874478",
+        "1631383219",
+        "1827311732",
+        "1845145297",
+        "1884658981",
+        "1894646615",
+        "1913505164",
+        "1930460466",
+        "1981857788",
+        "1982343297",
+        "2009046152",
+        "2012646342",
+        "2025482149",
+        "2036534296",
+        "2039561385",
+        "2042143463",
+        "2046070462",
+        "2076397729",
+        "2103076929",
+        "2112137829",
+        "2115893326",
+        "2119055471",
+        "2134011023",
+        "2148579805",
+        "2150402532",
+        "2151783055",
+        "2160584199",
+        "2167654758",
+        "2398026502"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1508940852",
+    "title": "Effect of optimizations on performance of OpenMP programs",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Xinmin Tian",
+            "id": "2163637211",
+            "org": "Intel Compiler Labs, Software and Solutions Group, Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Milind Girkar",
+            "id": "2007507105",
+            "org": "Intel Compiler Labs, Software and Solutions Group, Intel Corporation, Santa Clara, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Experimental data",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Compiler",
+        "Computer science",
+        "Multiprocessing",
+        "Optimizing compiler",
+        "Spec#",
+        "Fortran"
+    ],
+    "references": [
+        "1482691660",
+        "1495550651",
+        "1664707389",
+        "2112482891",
+        "2115162681",
+        "2131081220"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1585389879",
+    "title": "Minimizing the use of random oracles in authenticated encryption schemes",
+    "venue": "international conference on information and communication security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Mihir Bellare",
+            "id": "2052950829",
+            "org": "University of California at San Diego"
+        },
+        {
+            "name": "Phillip Rogaway",
+            "id": "2106597688",
+            "org": "University of California at Davis"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Collision resistance",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Hash chain",
+        "SWIFFT",
+        "Random function",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1569930334",
+        "1996360405",
+        "2052267638",
+        "2073210531",
+        "2077300005",
+        "2109365488",
+        "2131300413",
+        "2162653919",
+        "2166462813"
+    ]
+}

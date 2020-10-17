@@ -1,0 +1,50 @@
+{
+    "id": "1551374506",
+    "title": "Linear-XOR and additive checksums don't protect Damgard-Merkle hashes from generic attacks",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Praveen Gauravaram",
+            "id": "2014998713",
+            "org": "Technical University of Denmark, Denmark and Queensland University of Technology, Australia#TAB#"
+        },
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "National Institute of Standards and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Cryptographic hash function",
+        "Hash list",
+        "Hash buster",
+        "Distributed computing",
+        "Collision attack",
+        "Merkle tree",
+        "Hash function",
+        "Double hashing",
+        "Preimage attack"
+    ],
+    "references": [
+        "81015123",
+        "1483487117",
+        "1495653136",
+        "1533007301",
+        "1544996610",
+        "1548701190",
+        "1549228503",
+        "1560301528",
+        "1563470916",
+        "1567888865",
+        "1600432225",
+        "1656731780",
+        "2095880256",
+        "2103239853",
+        "2131212920",
+        "2134518741",
+        "2144849953",
+        "2396789013"
+    ]
+}

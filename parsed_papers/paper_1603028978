@@ -1,0 +1,42 @@
+{
+    "id": "1603028978",
+    "title": "An Approach to Verifiable Compiling Specification and Prototyping",
+    "venue": "PLILP '90 Proceedings of the 2nd International Workshop on Programming Language Implementation and Logic Programming",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Jonathan P. Bowen",
+            "id": "2311901225",
+            "org": "Oxford University Computing Laboratory Programming Research Group 11 Keble Road OX1 3QD Oxford England 11 Keble Road OX1 3QD Oxford England"
+        },
+        {
+            "name": "Jifeng He",
+            "id": "2303603470",
+            "org": "Oxford University Computing Laboratory Programming Research Group 11 Keble Road OX1 3QD Oxford England 11 Keble Road OX1 3QD Oxford England"
+        },
+        {
+            "name": "Paritosh K. Pandya",
+            "id": "2601767442",
+            "org": "Oxford University Computing Laboratory Programming Research Group 11 Keble Road OX1 3QD Oxford England 11 Keble Road OX1 3QD Oxford England"
+        }
+    ],
+    "fields_of_study": [
+        "Functional logic programming",
+        "Specification language",
+        "Interpreter",
+        "Computer architecture",
+        "Compiler",
+        "Computer science",
+        "Programming language specification",
+        "Very high-level programming language",
+        "First-generation programming language",
+        "Logic programming",
+        "Programming language"
+    ],
+    "references": [
+        "2015708983",
+        "2049583580",
+        "2113787492",
+        "2131377110"
+    ]
+}

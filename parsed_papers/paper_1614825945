@@ -1,0 +1,86 @@
+{
+    "id": "1614825945",
+    "title": "ANDROMEDA: accurate and scalable security analysis of web applications",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Omer Tripp",
+            "id": "4496266",
+            "org": "Tel Aviv University, Israel, IBM Software Group#TAB#"
+        },
+        {
+            "name": "Marco Pistoia",
+            "id": "2063507398",
+            "org": "IBM Thomas J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Patrick Cousot",
+            "id": "2148533322",
+            "org": "New York University#TAB#"
+        },
+        {
+            "name": "Radhia Cousot",
+            "id": "1995565190",
+            "org": "Ecole Normale Superieure, France#TAB#"
+        },
+        {
+            "name": "Salvatore Guarnieri",
+            "id": "2761980344",
+            "org": "University of Washington, IBM Software Group#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "JavaScript",
+        "Program slicing",
+        "Software system",
+        "Computer science",
+        "Data mining",
+        "Scripting language",
+        "Cross-site scripting",
+        "Taint checking",
+        "SQL injection",
+        "Programming language"
+    ],
+    "references": [
+        "1505465226",
+        "1557543533",
+        "1565113942",
+        "1588250959",
+        "1600965014",
+        "1971782746",
+        "1977764760",
+        "2001668586",
+        "2008158744",
+        "2017842497",
+        "2036208810",
+        "2043100293",
+        "2051600169",
+        "2054383157",
+        "2080573945",
+        "2094873755",
+        "2096230959",
+        "2102970979",
+        "2107604680",
+        "2114507260",
+        "2122049982",
+        "2122312154",
+        "2125357166",
+        "2129278597",
+        "2133497528",
+        "2134646643",
+        "2135697103",
+        "2136296832",
+        "2144992712",
+        "2147656091",
+        "2150174204",
+        "2152225177",
+        "2155735696",
+        "2158126684",
+        "2158600037",
+        "2169304846",
+        "2171240827",
+        "2295857493"
+    ]
+}

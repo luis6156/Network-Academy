@@ -1,0 +1,53 @@
+{
+    "id": "1788765617",
+    "title": "Nemesis: preventing authentication & access control vulnerabilities in web applications",
+    "venue": "usenix security symposium",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michael Dalton",
+            "id": "2142404837",
+            "org": "Computer Systems Laboratory, Stanford University#TAB#"
+        },
+        {
+            "name": "Christos Kozyrakis",
+            "id": "713250648",
+            "org": "Computer Systems Laboratory, Stanford University#TAB#"
+        },
+        {
+            "name": "Nickolai Zeldovich",
+            "id": "1150986126",
+            "org": "CSAIL, MIT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-factor authentication",
+        "World Wide Web",
+        "Computer access control",
+        "Access control",
+        "Computer science",
+        "Computer security",
+        "Web application",
+        "Authentication",
+        "Information flow (information theory)",
+        "Internet privacy",
+        "SQL injection",
+        "Programmer"
+    ],
+    "references": [
+        "1488890761",
+        "1511560695",
+        "1543478129",
+        "1587010340",
+        "1832558306",
+        "2001593152",
+        "2043226436",
+        "2056073317",
+        "2086234010",
+        "2114624569",
+        "2144696387",
+        "2157010176",
+        "2161688581",
+        "2162283517"
+    ]
+}

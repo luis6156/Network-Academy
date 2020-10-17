@@ -1,0 +1,55 @@
+{
+    "id": "1497491409",
+    "title": "ECDSA-Verifiable Signcryption Scheme with Signature Verification on the Signcrypted Message",
+    "venue": "information security and cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Raylin Tso",
+            "id": "1915316783",
+            "org": "Department of Risk Engineering Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan 305-8573#TAB#"
+        },
+        {
+            "name": "Takeshi Okamoto",
+            "id": "2132848461",
+            "org": "Department of Risk Engineering Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan 305-8573#TAB#"
+        },
+        {
+            "name": "Eiji Okamoto",
+            "id": "2022219673",
+            "org": "Department of Risk Engineering Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Japan 305-8573#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Signcryption",
+        "Blind signature",
+        "Digital Signature Algorithm",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Computer security",
+        "Digital signature",
+        "Schnorr signature",
+        "Random oracle",
+        "Public-key cryptography",
+        "Internet privacy"
+    ],
+    "references": [
+        "1495266644",
+        "1504092670",
+        "1510433380",
+        "1516634197",
+        "1569204576",
+        "1571093585",
+        "1610688607",
+        "1832688593",
+        "1981455414",
+        "1991914881",
+        "2009192444",
+        "2069196751",
+        "2086042811",
+        "2103627472",
+        "2117420234",
+        "2152924492",
+        "2493686639"
+    ]
+}

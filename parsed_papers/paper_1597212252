@@ -1,0 +1,40 @@
+{
+    "id": "1597212252",
+    "title": "KOAN: A Shared Virtual Memory for the iPSC/2 Hypercube",
+    "venue": "joint international conference on vector and parallel processing parallel processing",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Zakaria Lahjomri",
+            "id": "43670397",
+            "org": "IRISA/INRIA"
+        },
+        {
+            "name": "Thierry Priol",
+            "id": "533106700",
+            "org": "IRISA/INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Memory segmentation",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Conventional memory",
+        "Flat memory model"
+    ],
+    "references": [
+        "152903609",
+        "1499545882",
+        "1769402780",
+        "1990581832",
+        "2095389035",
+        "2126990153",
+        "2154067205"
+    ]
+}

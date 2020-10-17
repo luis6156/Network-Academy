@@ -1,0 +1,126 @@
+{
+    "id": "1602164775",
+    "title": "Comparing Parallel Functional Languages: Programming and Performance",
+    "venue": "Higher-order and Symbolic Computation \\/ Lisp and Symbolic Computation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hans-Wolfgang Loidl",
+            "id": "2016028299",
+            "org": "School of Mathematical and Computer Sciences, Heriot-Watt University, Edinburgh EH14 4AS, Scotland. hwloidl@macs.hw.ac.uk#TAB#"
+        },
+        {
+            "name": "Fernando Rubio",
+            "id": "2125380145",
+            "org": "Dpto. Sistemas Informaticos y Programacion, Universidad Complutense de Madrid, 28040 Madrid, Spain. fernando@sip.ucm.es#TAB#"
+        },
+        {
+            "name": "Norman Scaife",
+            "id": "2050695820",
+            "org": "Japan Advanced Institute for Science and Technology, 1/8 Asahidai, Tatsunokuchi, Nomigun, Ishikawa, 923-1211. norman@jaist.ac.jp#TAB#"
+        },
+        {
+            "name": "Kevin Hammond",
+            "id": "2133455440",
+            "org": "School of Computer Science, University of St. Andrews, KY16?9SS, Scotland. kh@dcs.st-and.ac.uk#TAB#"
+        },
+        {
+            "name": "Susumu Horiguchi",
+            "id": "1059682479",
+            "org": "Japan Advanced Institute for Science and Technology, 1/8 Asahidai, Tatsunokuchi, Nomigun, Ishikawa, 923-1211. hori@jaist.ac.jp#TAB#"
+        },
+        {
+            "name": "Ulrike Klusik",
+            "id": "249251696",
+            "org": "Fachbereich Mathematik und Informatik, Philipps-Universitat Marburg, D-35032 Marburg, Germany. klusik@mathematik.uni-marburg.de#TAB#"
+        },
+        {
+            "name": "Rita Loogen",
+            "id": "67920613",
+            "org": "Fachbereich Mathematik und Informatik, Philipps-Universitat Marburg, D-35032 Marburg, Germany. loogen@mathematik.uni-marburg.de#TAB#"
+        },
+        {
+            "name": "Greg Michaelson",
+            "id": "2031028931",
+            "org": "School of Mathematical and Computer Sciences, Heriot-Watt University, Edinburgh EH14 4AS, Scotland. greg@macs.hw.ac.uk#TAB#"
+        },
+        {
+            "name": "Ricardo Pena",
+            "id": "1979340251",
+            "org": "Dpto. Sistemas Informaticos y Programacion, Universidad Complutense de Madrid, 28040 Madrid, Spain. ricardo@sip.ucm.es#TAB#"
+        },
+        {
+            "name": "Steffen Priebe",
+            "id": "2236807845",
+            "org": "Fachbereich Mathematik und Informatik, Philipps-Universitat Marburg, D-35032 Marburg, Germany. priebe@mathematik.uni-marburg.de#TAB#"
+        },
+        {
+            "name": "A J. Rebon",
+            "id": "2021940240",
+            "org": "School of Computer Science, University of St. Andrews, KY16 9SS, Scotland. alvaro@dcs.st-and.ac.uk#TAB#"
+        },
+        {
+            "name": "Phil Trinder",
+            "id": "2044799559",
+            "org": "School of Mathematical and Computer Sciences, Heriot-Watt University, Edinburgh EH14 4AS, Scotland. trinder@macs.hw.ac.uk#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Ranging",
+        "Computer science",
+        "Haskell",
+        "Parallel programming model",
+        "Implicit parallelism",
+        "Functional programming",
+        "Embarrassingly parallel",
+        "Architecture"
+    ],
+    "references": [
+        "1486948274",
+        "1514190405",
+        "1515839881",
+        "1529761535",
+        "1540215595",
+        "1545401667",
+        "1580566336",
+        "1581217527",
+        "1583465708",
+        "1595310945",
+        "1688897529",
+        "1757338326",
+        "1829244603",
+        "1974616093",
+        "1975718783",
+        "1983587116",
+        "1983587324",
+        "1984781831",
+        "2002221083",
+        "2011324058",
+        "2025846768",
+        "2030463561",
+        "2031889887",
+        "2039953500",
+        "2064845040",
+        "2082643016",
+        "2098780004",
+        "2103103193",
+        "2105703532",
+        "2111004909",
+        "2122875791",
+        "2132854590",
+        "2140454023",
+        "2149663533",
+        "2151574744",
+        "2160329451",
+        "2161318861",
+        "2162169073",
+        "2175585158",
+        "2180914204",
+        "2436525433",
+        "2462640095",
+        "2493143468"
+    ]
+}

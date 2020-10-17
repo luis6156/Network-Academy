@@ -1,0 +1,50 @@
+{
+    "id": "143925557",
+    "title": "Kerberized credential translation: a solution to web access control",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Olga Kornievskaia",
+            "id": "2271304997",
+            "org": "Center for Information Technology Integration, University of Michigan, Ann Arbor#TAB#"
+        },
+        {
+            "name": "Peter Honeyman",
+            "id": "2236861272",
+            "org": "Center for Information Technology Integration, University of Michigan, Ann Arbor#TAB#"
+        },
+        {
+            "name": "Bill Doster",
+            "id": "2276559575",
+            "org": "Center for Information Technology Integration, University of Michigan, Ann Arbor#TAB#"
+        },
+        {
+            "name": "Kevin Coffman",
+            "id": "2146493808",
+            "org": "Center for Information Technology Integration, University of Michigan, Ann Arbor#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Telnet",
+        "Challenge-response authentication",
+        "Login session",
+        "Kerberos",
+        "Kerberized Internet Negotiation of Keys",
+        "Access control",
+        "Computer science",
+        "Computer security",
+        "Login",
+        "Web application",
+        "Internet privacy"
+    ],
+    "references": [
+        "1576272305",
+        "1837588081",
+        "1859131989",
+        "1996360405",
+        "2146973388",
+        "2156186849"
+    ]
+}

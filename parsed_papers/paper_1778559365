@@ -1,0 +1,42 @@
+{
+    "id": "1778559365",
+    "title": "Landscape state machines: tools for evolutionary algorithm performance analyses and landscape/algorithm mapping",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David Corne",
+            "id": "703089545",
+            "org": "School of Systems Engineering, University of Reading, Whiteknights, Reading, United Kingdom#TAB#"
+        },
+        {
+            "name": "Martin J. Oates",
+            "id": "2097731730",
+            "org": "School of Systems Engineering, University of Reading, Whiteknights, Reading, United Kingdom and Evosolve Ltd, Stowmarket, Suffolk, United Kingdom#TAB#"
+        },
+        {
+            "name": "Douglas B. Kell",
+            "id": "2087190859",
+            "org": "Department of Chemistry, UMIST, Manchester, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Algorithm",
+        "Computer science",
+        "Curse of dimensionality",
+        "Sampling (statistics)",
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Finite-state machine",
+        "Fitness landscape"
+    ],
+    "references": [
+        "1485560021",
+        "1520245121",
+        "1534688999",
+        "1596568617",
+        "1933385826",
+        "2102258286"
+    ]
+}

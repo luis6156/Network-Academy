@@ -1,0 +1,65 @@
+{
+    "id": "1544857718",
+    "title": "On building hash functions from multivariate quadratic equations",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Olivier Billet",
+            "id": "1572106382",
+            "org": "France Telecom R&D, Issy-les-Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Matthew J. B. Robshaw",
+            "id": "2297649051",
+            "org": "France Telecom R&D, Issy-les-Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2893390095",
+            "org": "France Telecom R&D, Issy-les-Moulineaux, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Rolling hash",
+        "Distributed computing",
+        "Discrete mathematics",
+        "Quadratic probing",
+        "Security of cryptographic hash functions",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "81015123",
+        "1495150777",
+        "1500599925",
+        "1531932745",
+        "1533007301",
+        "1536729852",
+        "1549228503",
+        "1572427071",
+        "1573563287",
+        "1583471030",
+        "1593401740",
+        "1596576235",
+        "1600432225",
+        "1607525463",
+        "1618439507",
+        "1628272610",
+        "1656731780",
+        "1660562555",
+        "1814391573",
+        "1821087317",
+        "1863270349",
+        "1990439037",
+        "2011039300",
+        "2103239853",
+        "2123147311",
+        "2145570103"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1488822784",
+    "title": "Integrating RAM and Disk Based Verification within the Murph Verifier",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Giuseppe Della Penna",
+            "id": "2138724275",
+            "org": "Universita di L'Aquila, Coppito"
+        },
+        {
+            "name": "Benedetto Intrigila",
+            "id": "1030601",
+            "org": "Universita di L'Aquila, Coppito"
+        },
+        {
+            "name": "Igor Melatti",
+            "id": "2617934189",
+            "org": "Universita di L'Aquila, Coppito"
+        },
+        {
+            "name": "Enrico Tronci",
+            "id": "2059231009",
+            "org": "Dip. di Informatica Universita di Roma \"La Sapienza\""
+        },
+        {
+            "name": "Marisa Venturini Zilli",
+            "id": "2138681980",
+            "org": "Dip. di Informatica Universita di Roma \"La Sapienza\""
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "High-level verification",
+        "Parallel computing",
+        "Circuit design",
+        "Computer science",
+        "Runtime verification"
+    ],
+    "references": [
+        "195082763",
+        "1537530326",
+        "1557440254",
+        "2069144421",
+        "2079071129",
+        "2099800340"
+    ]
+}

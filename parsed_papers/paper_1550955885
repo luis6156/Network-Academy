@@ -1,0 +1,80 @@
+{
+    "id": "1550955885",
+    "title": "Security of the J-PAKE Password-Authenticated Key Exchange Protocol",
+    "venue": "ieee symposium on security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michel Abdalla",
+            "id": "2143328931",
+            "org": "ENS, INRIA, Paris, France"
+        },
+        {
+            "name": "Fabrice Benhamouda",
+            "id": "2033347500",
+            "org": "ENS, INRIA, Paris, France"
+        },
+        {
+            "name": "Philip D. MacKenzie",
+            "id": "2167787271",
+            "org": "Google, Inc., Mountain View, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "Password cracking",
+        "Compromise",
+        "Key exchange",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Forward secrecy",
+        "Computer security",
+        "Password",
+        "Internet privacy",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "121782665",
+        "203500824",
+        "1503670812",
+        "1506598085",
+        "1508759756",
+        "1509298722",
+        "1526070463",
+        "1532961226",
+        "1535125298",
+        "1537652141",
+        "1538909282",
+        "1548963432",
+        "1552333418",
+        "1590713339",
+        "1595293097",
+        "1665450113",
+        "1673036516",
+        "1759759811",
+        "1994538893",
+        "1998784354",
+        "2015880590",
+        "2052267638",
+        "2059808351",
+        "2069729829",
+        "2091020476",
+        "2095708839",
+        "2110577195",
+        "2110804296",
+        "2111443676",
+        "2119177715",
+        "2124926080",
+        "2131123432",
+        "2133432179",
+        "2134475940",
+        "2157604883",
+        "2159864663",
+        "2164090669",
+        "2164988972",
+        "2169194339",
+        "2170220035",
+        "2186096729"
+    ]
+}

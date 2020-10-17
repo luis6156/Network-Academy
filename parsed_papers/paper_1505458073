@@ -1,0 +1,47 @@
+{
+    "id": "1505458073",
+    "title": "Cryptanalysis of TWOPRIME",
+    "venue": "fast software encryption",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Don Coppersmith",
+            "id": "2037645014",
+            "org": "IBM Research"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "U.C. Berkeley"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Hash table",
+        "Block cipher",
+        "Byte",
+        "Cryptanalysis",
+        "Remainder",
+        "Distributed computing",
+        "Computer science",
+        "Linear cryptanalysis",
+        "Known-plaintext attack",
+        "Real-time computing"
+    ],
+    "references": [
+        "1503405832",
+        "1557671490",
+        "1756321105",
+        "2033778422"
+    ]
+}

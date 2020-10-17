@@ -1,0 +1,52 @@
+{
+    "id": "1801674677",
+    "title": "Boundary Inference for Enforcing Security Policies in Mobile Ambients",
+    "venue": "ifip international conference on theoretical computer science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Chiara Braghin",
+            "id": "1968417444",
+            "org": "Universita Ca' Foscari di Venezia"
+        },
+        {
+            "name": "Agostino Cortesi",
+            "id": "1625632746",
+            "org": "Universita Ca' Foscari di Venezia"
+        },
+        {
+            "name": "Riccardo Focardi",
+            "id": "344358645",
+            "org": "Universita Ca' Foscari di Venezia"
+        },
+        {
+            "name": "Steffen van Bakel",
+            "id": "2217834202",
+            "org": "Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Static analysis",
+        "Computer science",
+        "Distributed computing",
+        "Inference",
+        "Control flow analysis",
+        "Security policy",
+        "Information leakage",
+        "Information flow (information theory)",
+        "Multilevel security"
+    ],
+    "references": [
+        "1517751881",
+        "1543148061",
+        "1582774663",
+        "1799317750",
+        "2057503672",
+        "2074877666",
+        "2107659596",
+        "2114569557",
+        "2119275622",
+        "2139015713",
+        "2650694610"
+    ]
+}

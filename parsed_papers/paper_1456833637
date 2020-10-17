@@ -1,0 +1,61 @@
+{
+    "id": "1456833637",
+    "title": "Between mutual trust and mutual distrust: practical fine-grained privilege separation in multithreaded applications",
+    "venue": "usenix annual technical conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jun Wang",
+            "id": "2663167648",
+            "org": "Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Xi Xiong",
+            "id": "2166452439",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Peng Liu",
+            "id": "2428201908",
+            "org": "Pennsylvania State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Compromise",
+        "Parallel computing",
+        "Address space",
+        "Computer science",
+        "Distributed computing",
+        "Memory management",
+        "Privilege separation",
+        "Security policy",
+        "Arbiter",
+        "Page table",
+        "Real-time computing"
+    ],
+    "references": [
+        "6385438",
+        "33764377",
+        "55937681",
+        "174674715",
+        "183323481",
+        "199942262",
+        "1482769911",
+        "1608091202",
+        "1809664600",
+        "2013502978",
+        "2040234252",
+        "2058226530",
+        "2079029390",
+        "2086795351",
+        "2095881341",
+        "2128274900",
+        "2129592257",
+        "2137622193",
+        "2148686658",
+        "2158126684",
+        "2162283517",
+        "2400216756"
+    ]
+}

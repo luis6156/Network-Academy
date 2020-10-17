@@ -1,0 +1,40 @@
+{
+    "id": "1634503271",
+    "title": "Improved Algorithms for Elliptic Curve Arithmetic in GF(2n)",
+    "venue": "selected areas in cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Julio Lopez",
+            "id": "2134179577",
+            "org": "University of Valle"
+        },
+        {
+            "name": "Ricardo Dahab",
+            "id": "2003780168",
+            "org": "State University of Campinas"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Lenstra elliptic curve factorization",
+        "Modular elliptic curve",
+        "Algorithm",
+        "Curve25519",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Arithmetic",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1507106163",
+        "1529013801",
+        "1560768562",
+        "1584579923",
+        "2115840814",
+        "2156186849"
+    ]
+}

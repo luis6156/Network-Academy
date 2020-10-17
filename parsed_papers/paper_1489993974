@@ -1,0 +1,57 @@
+{
+    "id": "1489993974",
+    "title": "Statistical attack on RC4 distinguishing WPA",
+    "venue": "international cryptology conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Pouyan Sepehrdad",
+            "id": "44362941",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Martin Vuagnoux",
+            "id": "1772064366",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Theoretical computer science",
+        "Computer science",
+        "Stream cipher",
+        "Network packet",
+        "RC4",
+        "Permutation",
+        "Plaintext"
+    ],
+    "references": [
+        "1500414598",
+        "1510584840",
+        "1526222424",
+        "1556597491",
+        "1566979565",
+        "1592773427",
+        "1602293460",
+        "1605172243",
+        "1608372408",
+        "1724491999",
+        "1742803828",
+        "1789460706",
+        "1815744145",
+        "1819373657",
+        "1835780626",
+        "2036520688",
+        "2075692131",
+        "2095397137",
+        "2114197583",
+        "2139985879",
+        "2149237395",
+        "2786219742"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "1560027954",
+    "title": "Neural network based attack on a masked implementation of AES",
+    "venue": "hardware oriented security and trust",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Richard Gilmore",
+            "id": "2165243113",
+            "org": "Center for Secure Information Technologies, ECIT, Queen's University Belfast, Belfast, BT3 9DT, UK"
+        },
+        {
+            "name": "Neil Hanley",
+            "id": "2169342213",
+            "org": "Center for Secure Information Technologies, ECIT, Queen's University Belfast, Belfast, BT3 9DT, UK"
+        },
+        {
+            "name": "Maire O'Neill",
+            "id": "2164149374",
+            "org": "Center for Secure Information Technologies, ECIT, Queen's University Belfast, Belfast, BT3 9DT, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Side channel attack",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Power analysis",
+        "Principal component analysis",
+        "Attack model",
+        "Artificial neural network",
+        "Real-time computing",
+        "Timing attack"
+    ],
+    "references": [
+        "293732945",
+        "1412796964",
+        "1490760466",
+        "1495989020",
+        "1499081748",
+        "1506530330",
+        "1511843316",
+        "1512062395",
+        "1525085532",
+        "1548656471",
+        "1560022750",
+        "1560093457",
+        "1562542037",
+        "1580550895",
+        "1598124977",
+        "1664808737",
+        "1724890242",
+        "1774054610",
+        "1862426464",
+        "1943109301",
+        "2040320008",
+        "2076857345",
+        "2077045974",
+        "2084934620",
+        "2086815162",
+        "2144630005",
+        "2154909745",
+        "2186078203",
+        "2219132820",
+        "2583913662"
+    ]
+}

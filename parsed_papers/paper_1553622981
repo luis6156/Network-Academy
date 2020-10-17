@@ -1,0 +1,70 @@
+{
+    "id": "1553622981",
+    "title": "LDPC-in-SSD: making advanced error correction codes work effectively in solid state drives",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Kai Zhao",
+            "id": "2606939945",
+            "org": "ECSE Department, Rensselaer Polytechnic Institute#TAB#"
+        },
+        {
+            "name": "Wenzhe Zhao",
+            "id": "2128470320",
+            "org": "Xi'an Jiaotong University, P.R.China#TAB#"
+        },
+        {
+            "name": "Hongbin Sun",
+            "id": "2606191074",
+            "org": "Xi'an Jiaotong University, P.R.China#TAB#"
+        },
+        {
+            "name": "Tong Zhang",
+            "id": "2173149519",
+            "org": "ECSE Department, Rensselaer Polytechnic Institute#TAB#"
+        },
+        {
+            "name": "Xiaodong Zhang",
+            "id": "2289224247",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Nanning Zheng",
+            "id": "2161348131",
+            "org": "Xi'an Jiaotong University, P.R.China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Response time",
+        "Flash memory",
+        "Decoding methods",
+        "Computer science",
+        "Latency (engineering)",
+        "NAND gate",
+        "Low-density parity-check code",
+        "Real-time computing",
+        "BCH code",
+        "Error detection and correction"
+    ],
+    "references": [
+        "90164321",
+        "126194223",
+        "142764049",
+        "1534925464",
+        "1963830244",
+        "1988955744",
+        "2028661945",
+        "2056055289",
+        "2064435670",
+        "2122266720",
+        "2127342417",
+        "2135008015",
+        "2135764410",
+        "2137813581",
+        "2154809801",
+        "2162862660",
+        "2165068957"
+    ]
+}

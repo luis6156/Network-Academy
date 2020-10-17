@@ -1,0 +1,53 @@
+{
+    "id": "1510208868",
+    "title": "Scheduling in Real-Time Models",
+    "venue": "Proceedings of the Second International Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Reino Kurki-Suonio",
+            "id": "194997700",
+            "org": "Tampere University of Technology"
+        },
+        {
+            "name": "Kari Systa",
+            "id": "34481066",
+            "org": "Tampere University of Technology"
+        },
+        {
+            "name": "Juri Vain",
+            "id": "2663484440",
+            "org": "Estonian Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Formal methods",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1489503486",
+        "1504477948",
+        "1520032443",
+        "1569068921",
+        "1571449242",
+        "1602042226",
+        "1987120621",
+        "1989877393",
+        "2038814435",
+        "2085609181",
+        "2098701214",
+        "2106297337",
+        "2124192263",
+        "2154327223",
+        "2154710621",
+        "2293400264"
+    ]
+}

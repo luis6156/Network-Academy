@@ -1,0 +1,38 @@
+{
+    "id": "1571937260",
+    "title": "An Implementation of Type: Type",
+    "venue": "types for proofs and programs",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Thierry Coquand",
+            "id": "150617134",
+            "org": "Chalmers University"
+        },
+        {
+            "name": "Makoto Takeyama",
+            "id": "2007858538",
+            "org": "Chalmers University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Domain theory",
+        "Algorithm",
+        "Discrete mathematics",
+        "Denotational semantics",
+        "Correctness",
+        "Finitary",
+        "Normalisation by evaluation",
+        "Operational semantics",
+        "Action semantics",
+        "Dependent type"
+    ],
+    "references": [
+        "1481088546",
+        "2027584005",
+        "2060194015",
+        "2090046646",
+        "2166822586"
+    ]
+}

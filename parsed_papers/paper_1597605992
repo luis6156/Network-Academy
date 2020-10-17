@@ -1,0 +1,67 @@
+{
+    "id": "1597605992",
+    "title": "A generative model for brain tumor segmentation in multi- modal images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Bjoern H. Menze",
+            "id": "2039442281",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology and INRIA Sophia-Antipolis, France#TAB#"
+        },
+        {
+            "name": "Koenraad Van Leemput",
+            "id": "2577275791",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology and Radiology, Massachusetts General Hospital, Harvard Medical School and Information and Computer Sc ...#TAB#"
+        },
+        {
+            "name": "Danial Lashkari",
+            "id": "2116090630",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Marc-Andre Weber",
+            "id": "2142228408",
+            "org": "Diagnostic Radiology, Heidelberg University Hospital, Germany#TAB#"
+        },
+        {
+            "name": "Nicholas Ayache",
+            "id": "2161288054",
+            "org": "INRIA Sophia-Antipolis, France#TAB#"
+        },
+        {
+            "name": "Polina Golland",
+            "id": "289127100",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Statistical model",
+        "Markov random field",
+        "Prior probability",
+        "Probabilistic logic",
+        "Generative model",
+        "Multivariate statistics",
+        "Brain tumor",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1567270145",
+        "1763905908",
+        "1833820394",
+        "2124389137",
+        "2126064438",
+        "2130686832",
+        "2132358780",
+        "2150410007",
+        "2158327282",
+        "2160109814",
+        "2168399612",
+        "2170843850",
+        "2171890357"
+    ]
+}

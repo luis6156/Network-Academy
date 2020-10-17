@@ -1,0 +1,48 @@
+{
+    "id": "1594414888",
+    "title": "Twig'n join: progressive query processing of multiple XML streams",
+    "venue": "database systems for advanced applications",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Wee Hyong Tok",
+            "id": "2668582148",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        },
+        {
+            "name": "Stephane Bressan",
+            "id": "2159446685",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        },
+        {
+            "name": "Mong Li Lee",
+            "id": "2159408573",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "XQuery",
+        "XML",
+        "Recursive join",
+        "Data mining",
+        "Computer science",
+        "Hash join",
+        "Database",
+        "Twig",
+        "Sort-merge join",
+        "Query plan"
+    ],
+    "references": [
+        "1503645026",
+        "1532788724",
+        "1563683808",
+        "2083308531",
+        "2132244350",
+        "2132510297",
+        "2161753600",
+        "2170994721",
+        "2171037641",
+        "2230830246"
+    ]
+}

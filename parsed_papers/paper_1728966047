@@ -1,0 +1,55 @@
+{
+    "id": "1728966047",
+    "title": "SCARE of an Unknown Hardware Feistel Implementation",
+    "venue": "smart card research and advanced application conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Denis Real",
+            "id": "2311332494",
+            "org": "CELAR, Bruz, France 35 and INSA-IETR, Rennes, France 35043#TAB#"
+        },
+        {
+            "name": "Vivien Dubois",
+            "id": "2682337971",
+            "org": "CELAR, Bruz, France 35#TAB#"
+        },
+        {
+            "name": "Anne-Marie Guilloux",
+            "id": "2496597275",
+            "org": "CELAR, Bruz, France 35#TAB#"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "CELAR, Bruz, France 35#TAB#"
+        },
+        {
+            "name": "M'Hamed Drissi",
+            "id": "1997065428",
+            "org": "INSA-IETR, Rennes, France 35043#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation attack",
+        "Computer hardware",
+        "Side channel attack",
+        "Reverse engineering",
+        "Software",
+        "Countermeasure",
+        "Computer science",
+        "Binary operation",
+        "Computer security",
+        "Real-time computing",
+        "Smart card"
+    ],
+    "references": [
+        "1540404582",
+        "1544522602",
+        "1562542037",
+        "1575446397",
+        "1602765425",
+        "2154909745",
+        "2166725261"
+    ]
+}

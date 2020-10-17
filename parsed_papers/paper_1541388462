@@ -1,0 +1,55 @@
+{
+    "id": "1541388462",
+    "title": "POSECUT: simultaneous segmentation and 3D pose estimation of humans using dynamic graph-cuts",
+    "venue": "european conference on computer vision",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Matthieu Bray",
+            "id": "2477194796",
+            "org": "Dept. of Computing, Oxford Brookes University#TAB#"
+        },
+        {
+            "name": "Pushmeet Kohli",
+            "id": "2141745054",
+            "org": "Dept. of Computing, Oxford Brookes University#TAB#"
+        },
+        {
+            "name": "Philip H. S. Torr",
+            "id": "2107932047",
+            "org": "Dept. of Computing, Oxford Brookes University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active appearance model",
+        "Articulated body pose estimation",
+        "Pose",
+        "Cut",
+        "Computer vision",
+        "3D pose estimation",
+        "Computer science",
+        "Image segmentation",
+        "Markov random field",
+        "Image processing",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1518641734",
+        "1643263348",
+        "1785730614",
+        "2101309634",
+        "2102625004",
+        "2104020497",
+        "2115952485",
+        "2120804060",
+        "2125489247",
+        "2131432112",
+        "2136224190",
+        "2152858030",
+        "2152926413",
+        "2158268505",
+        "2169527406",
+        "2169551590"
+    ]
+}

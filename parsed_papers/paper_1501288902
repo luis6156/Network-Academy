@@ -1,0 +1,42 @@
+{
+    "id": "1501288902",
+    "title": "A local search algorithm for a SAT representation of scheduling problems",
+    "venue": "international conference on computational science and its applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Marco Antonio Cruz-Chavez",
+            "id": "2244496429",
+            "org": "CIICAp, Autonomous University of Morelos State, Morelos, Mexico#TAB#"
+        },
+        {
+            "name": "Rafael Rivera-Lopez",
+            "id": "2315018151",
+            "org": "Technological Institute of Veracruz, Veracruz, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Computer science",
+        "WalkSAT",
+        "Local search (optimization)",
+        "Guided Local Search",
+        "Job shop scheduling",
+        "Best-first search",
+        "Boolean satisfiability problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "145815032",
+        "1599893211",
+        "1871275125",
+        "1917710033",
+        "2053913299",
+        "2057392949",
+        "2102215770",
+        "2109710497",
+        "2111244700",
+        "2157846217"
+    ]
+}

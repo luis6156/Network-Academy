@@ -1,0 +1,68 @@
+{
+    "id": "158891750",
+    "title": "An empirical study of high availability in stream processing systems",
+    "venue": "acm ifip usenix international conference on middleware",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Yu Gu",
+            "id": "2156056866",
+            "org": "University of Minnesota#TAB#"
+        },
+        {
+            "name": "Zhe Zhang",
+            "id": "2778006381",
+            "org": "North Carolina State University#TAB#"
+        },
+        {
+            "name": "Fan Ye",
+            "id": "2250715473",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Hao Yang",
+            "id": "2490189653",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Minkyong Kim",
+            "id": "2126879651",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Hui Lei",
+            "id": "2167247010",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Zhen Liu",
+            "id": "2434113898",
+            "org": "Nokia Research China Lab, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Empirical research",
+        "Crash",
+        "Computer science",
+        "Distributed computing",
+        "Guard (information security)",
+        "Stream processing",
+        "Real-time computing",
+        "High availability"
+    ],
+    "references": [
+        "1995773107",
+        "2097065925",
+        "2100970777",
+        "2115438344",
+        "2115503987",
+        "2141742398",
+        "2150206209",
+        "2150348590",
+        "2151249000",
+        "2151906533",
+        "2153399951",
+        "2161229477",
+        "2623289455"
+    ]
+}

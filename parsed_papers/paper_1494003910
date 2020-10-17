@@ -1,0 +1,51 @@
+{
+    "id": "1494003910",
+    "title": "Improved fault analysis of signature schemes",
+    "venue": "smart card research and advanced application conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Christophe Giraud",
+            "id": "2154295012",
+            "org": "Oberthur Technologies, Pessac, France#TAB#"
+        },
+        {
+            "name": "Erik Woodward Knudsen",
+            "id": "2163043621",
+            "org": "Alm. Brand, Kobenhavn O, Denmark#TAB#"
+        },
+        {
+            "name": "Michael Tunstall",
+            "id": "2686577516",
+            "org": "Department of Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Stuck-at fault",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Knudsen number",
+        "ElGamal encryption",
+        "Key (lock)",
+        "Public-key cryptography",
+        "Real-time computing",
+        "Fault model"
+    ],
+    "references": [
+        "1490121172",
+        "1527059802",
+        "1584975026",
+        "1646354800",
+        "1768621358",
+        "1994959057",
+        "2108834246",
+        "2111725598",
+        "2117947592",
+        "2125815652",
+        "2170489924",
+        "2283613275"
+    ]
+}

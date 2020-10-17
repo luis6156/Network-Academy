@@ -1,0 +1,50 @@
+{
+    "id": "1505883827",
+    "title": "Staged static techniques to efficiently implement array copy semantics in a MATLAB JIT compiler",
+    "venue": "compiler construction",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Nurudeen Lameed",
+            "id": "2008473616",
+            "org": "School of Computer Science, McGill University, Montreal, QC, Canada#TAB#"
+        },
+        {
+            "name": "Laurie J. Hendren",
+            "id": "2057929015",
+            "org": "School of Computer Science, McGill University, Montreal, QC, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Semantics",
+        "Static analysis",
+        "Computer science",
+        "Just-in-time compilation",
+        "Reference counting",
+        "MATLAB",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1538391492",
+        "1565457163",
+        "1568931959",
+        "1585022015",
+        "1602990118",
+        "1606794504",
+        "1623282124",
+        "1782798801",
+        "1964031104",
+        "1967751668",
+        "1986388229",
+        "1999048061",
+        "2022693109",
+        "2043582386",
+        "2058394112",
+        "2070821087",
+        "2085118703",
+        "2114067856",
+        "2153185479"
+    ]
+}

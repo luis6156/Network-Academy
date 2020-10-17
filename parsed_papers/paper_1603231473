@@ -1,0 +1,41 @@
+{
+    "id": "1603231473",
+    "title": "Nondeterministic turing machines with modified acceptance",
+    "venue": "mathematical foundations of computer science",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Thomas Gundermann",
+            "id": "1982299053",
+            "org": "Friedrich Schiller University Jena"
+        },
+        {
+            "name": "Gerd Wechsung",
+            "id": "646123866",
+            "org": "Friedrich Schiller University Jena"
+        }
+    ],
+    "fields_of_study": [
+        "PP",
+        "Mathematics",
+        "NP",
+        "Discrete mathematics",
+        "NP-easy",
+        "DTIME",
+        "Combinatorics",
+        "Alternating Turing machine",
+        "Cook-Levin theorem",
+        "Time hierarchy theorem",
+        "Super-recursive algorithm"
+    ],
+    "references": [
+        "57269202",
+        "1505211902",
+        "1752076080",
+        "1992480370",
+        "2016984055",
+        "2029980187",
+        "2093454413",
+        "2168714844"
+    ]
+}

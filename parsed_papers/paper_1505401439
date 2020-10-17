@@ -1,0 +1,52 @@
+{
+    "id": "1505401439",
+    "title": "Bringing Together Partitioning, Materialized Views and Indexes to Optimize Performance of Relational Data Warehouses",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ladjel Bellatreche",
+            "id": "158375695",
+            "org": "LISI/ENSMA"
+        },
+        {
+            "name": "Michel Schneider",
+            "id": "2623469963",
+            "org": "Blaise Pascal University"
+        },
+        {
+            "name": "Herve Lorinquer",
+            "id": "2516531047",
+            "org": "Blaise Pascal University"
+        },
+        {
+            "name": "Mukesh K. Mohania",
+            "id": "254200932",
+            "org": "I.B.M. India Research Lab"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Total cost",
+        "Warehouse",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Bitmap index",
+        "Database",
+        "Materialized view",
+        "Data warehouse",
+        "Knowledge extraction"
+    ],
+    "references": [
+        "1520432709",
+        "1538267625",
+        "1542786062",
+        "1547113406",
+        "1851390469",
+        "2113888164",
+        "2122816893",
+        "2167445883",
+        "2285725925"
+    ]
+}

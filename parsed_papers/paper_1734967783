@@ -1,0 +1,46 @@
+{
+    "id": "1734967783",
+    "title": "A Statistical Saturation Attack against the Block Cipher PRESENT",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Baudoin Collard",
+            "id": "2117870018",
+            "org": "UCL Crypto Group, Microelectronics Laboratory, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Microelectronics Laboratory, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Interpolation attack",
+        "Integral cryptanalysis",
+        "Theoretical computer science",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Partitioning cryptanalysis"
+    ],
+    "references": [
+        "32121401",
+        "1519447501",
+        "1529388387",
+        "1533392870",
+        "1542500920",
+        "1564295073",
+        "1570998442",
+        "1701060964",
+        "1888315134",
+        "1894646615",
+        "1964723977",
+        "2027588622",
+        "2109265351",
+        "2146378314"
+    ]
+}

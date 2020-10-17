@@ -1,0 +1,34 @@
+{
+    "id": "1564462959",
+    "title": "Program Transformation for Locality Using Affinity Regions",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "William F. Appelbe",
+            "id": "252301841",
+            "org": "Georgia Institute of Technology College of Computing 30332 Atlanta GA 30332 Atlanta GA"
+        },
+        {
+            "name": "Charles Hardnett",
+            "id": "2287886613",
+            "org": "College of Computing|Georgia Institute of Technology"
+        },
+        {
+            "name": "Srinivas Doddapaneni",
+            "id": "2659306278",
+            "org": "College of Computing|Georgia Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Locality",
+        "Loop fusion",
+        "Program transformation"
+    ],
+    "references": [
+        "2037929850",
+        "2138631214"
+    ]
+}

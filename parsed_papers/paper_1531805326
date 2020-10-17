@@ -1,0 +1,48 @@
+{
+    "id": "1531805326",
+    "title": "An extended OpenMP targeting on the hybrid architecture of SMP-cluster",
+    "venue": "ACST'06 Proceedings of the 2nd IASTED international conference on Advances in computer science and technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Zhao Yudi",
+            "id": "2443352768",
+            "org": "Dept. of Computer Science and Technology, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Hu Changjun",
+            "id": "1996251994",
+            "org": "Information Engineering School, University of Science and Technology Beijing, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wang Shengyuan",
+            "id": "2630113023",
+            "org": "Dept. of Computer Science and Technology, Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Zhang Suqin",
+            "id": "1997770695",
+            "org": "Dept. of Computer Science and Technology, Tsinghua University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Parallel computing",
+        "Computer architecture",
+        "Locality",
+        "Computer science",
+        "Data parallelism",
+        "Execution model",
+        "Task parallelism",
+        "Exploit",
+        "Data mapping",
+        "Architecture"
+    ],
+    "references": [
+        "1541937702",
+        "1780789683",
+        "2077960035",
+        "2147654880",
+        "2543333295"
+    ]
+}

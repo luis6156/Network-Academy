@@ -1,0 +1,52 @@
+{
+    "id": "1490559148",
+    "title": "Improved slide attacks",
+    "venue": "fast software encryption",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Katholieke Universiteit Leuven, Dept. of Electrical Engineering ESAT/SCD-COSIC, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Mathematics",
+        "Pre-play attack",
+        "Algorithm",
+        "Birthday attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer security",
+        "Related-key attack",
+        "Slide attack",
+        "Stream cipher attack",
+        "Meet-in-the-middle attack"
+    ],
+    "references": [
+        "1502924772",
+        "1516699468",
+        "1541853791",
+        "1543271574",
+        "1546907539",
+        "1570084506",
+        "1575540561",
+        "1595934196",
+        "1964723977",
+        "1979802565",
+        "1991897749",
+        "2102157442",
+        "2109265351",
+        "2163466490"
+    ]
+}

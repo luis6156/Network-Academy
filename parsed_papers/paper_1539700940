@@ -1,0 +1,44 @@
+{
+    "id": "1539700940",
+    "title": "A single index approach for time-series subsequence matching that supports moving average transform of arbitrary order",
+    "venue": "knowledge discovery and data mining",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yang-Sae Moon",
+            "id": "2307192335",
+            "org": "Department of Computer Science, Kangwon National University, Chunchon, Kangwon, Korea#TAB#"
+        },
+        {
+            "name": "Jinho Kim",
+            "id": "2809269045",
+            "org": "Department of Computer Science, Kangwon National University, Chunchon, Kangwon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Longest increasing subsequence",
+        "Mathematics",
+        "Full table scan",
+        "Indexation",
+        "Moving average",
+        "Generalization",
+        "Combinatorics",
+        "S transform",
+        "Correctness",
+        "Subsequence",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1499049447",
+        "2010142086",
+        "2035333697",
+        "2098272719",
+        "2109355547",
+        "2127825671",
+        "2128061541",
+        "2148034761",
+        "2151135734"
+    ]
+}

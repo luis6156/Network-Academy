@@ -1,0 +1,73 @@
+{
+    "id": "1612034488",
+    "title": "Dynamic plan migration for snapshot-equivalent continuous queries in data stream systems",
+    "venue": "extending database technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jurgen Kramer",
+            "id": "2202402696",
+            "org": "University of Marburg, Germany#TAB#"
+        },
+        {
+            "name": "Yin Yang",
+            "id": "2280962535",
+            "org": "Hong Kong University of Science and Technology, China#TAB#"
+        },
+        {
+            "name": "Michael Cammert",
+            "id": "145325676",
+            "org": "University of Marburg, Germany#TAB#"
+        },
+        {
+            "name": "Bernhard Seeger",
+            "id": "2151325580",
+            "org": "University of Marburg, Germany#TAB#"
+        },
+        {
+            "name": "Dimitris Papadias",
+            "id": "2243308922",
+            "org": "Hong Kong University of Science and Technology, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data stream",
+        "Computer science",
+        "Data mining",
+        "Distributed computing",
+        "Data stream management system",
+        "Workload",
+        "Database",
+        "Semantic equivalence",
+        "Snapshot (computer storage)",
+        "Dynamic programming",
+        "Query plan",
+        "Query optimization"
+    ],
+    "references": [
+        "1512125011",
+        "1553736982",
+        "1592609929",
+        "1707426366",
+        "1844522501",
+        "1868775070",
+        "2052464302",
+        "2071620504",
+        "2075827270",
+        "2093882190",
+        "2097155602",
+        "2099395665",
+        "2107343618",
+        "2115503987",
+        "2120415542",
+        "2124298185",
+        "2132851185",
+        "2136317993",
+        "2139450737",
+        "2140102533",
+        "2143452574",
+        "2156720172",
+        "2162553498",
+        "2163490027"
+    ]
+}

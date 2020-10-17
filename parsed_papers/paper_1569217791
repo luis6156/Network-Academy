@@ -1,0 +1,67 @@
+{
+    "id": "1569217791",
+    "title": "Key Recovery Attacks on 3-round Even-Mansour, 8-step LED-128, and Full AES2",
+    "venue": "international cryptology conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Itai Dinur",
+            "id": "2064145723",
+            "org": "Computer Science department, The Weizmann Institute, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science department, The Weizmann Institute, Rehovot, Israel and Computer Science Department, University of Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Computer Science department, The Weizmann Institute, Rehovot, Israel and Department of Mathematics, Bar-Ilan University, Israel#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Computer Science department, The Weizmann Institute, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Mathematics",
+        "Watermarking attack",
+        "Key-recovery attack",
+        "Pre-play attack",
+        "Theoretical computer science",
+        "Algorithm",
+        "Distributed computing",
+        "Key space",
+        "Related-key attack",
+        "Slide attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "26293717",
+        "94952783",
+        "1503774814",
+        "1515595447",
+        "1553792294",
+        "1611243483",
+        "1744216657",
+        "1810232834",
+        "1814882979",
+        "1884480624",
+        "2040320008",
+        "2064939672",
+        "2096218735",
+        "2117414032",
+        "2130574782",
+        "2131642892",
+        "2141124495",
+        "2147436504",
+        "2177399963",
+        "2226303357",
+        "2396759562",
+        "2402158772",
+        "2408939312"
+    ]
+}

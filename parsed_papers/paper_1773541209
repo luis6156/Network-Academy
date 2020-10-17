@@ -1,0 +1,45 @@
+{
+    "id": "1773541209",
+    "title": "FlashDetect: actionscript 3 malware detection",
+    "venue": "recent advances in intrusion detection",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Timon Van Overveldt",
+            "id": "2493413532",
+            "org": "Katholieke Universiteit Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Christopher Kruegel",
+            "id": "2001160045",
+            "org": "University of California, Santa Barbara, USastline, Inc.#TAB#"
+        },
+        {
+            "name": "Giovanni Vigna",
+            "id": "2192390985",
+            "org": "University of California, Santa Barbara, USastline, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "JavaScript",
+        "Documentation",
+        "Malware",
+        "ActionScript",
+        "Computer science",
+        "Computer security",
+        "Heap spraying",
+        "Confusion",
+        "JIT spraying"
+    ],
+    "references": [
+        "200926709",
+        "1520941164",
+        "1546773937",
+        "1970867218",
+        "2014742088",
+        "2095450067",
+        "2095610745",
+        "2111165162",
+        "2113167642"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "1478753081",
+    "title": "LAMA: optimized locality-aware memory allocation for key-value cache",
+    "venue": "usenix annual technical conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Xiameng Hu",
+            "id": "2148561598",
+            "org": "Peking University#TAB#"
+        },
+        {
+            "name": "Xiaolin Wang",
+            "id": "2612421631",
+            "org": "Peking University#TAB#"
+        },
+        {
+            "name": "Yechen Li",
+            "id": "2108047985",
+            "org": "Peking University#TAB#"
+        },
+        {
+            "name": "Lan Zhou",
+            "id": "2562697045",
+            "org": "Peking University#TAB#"
+        },
+        {
+            "name": "Yingwei Luo",
+            "id": "2118753754",
+            "org": "Peking University#TAB#"
+        },
+        {
+            "name": "Chen Ding",
+            "id": "2110051044",
+            "org": "University of Rochester#TAB#"
+        },
+        {
+            "name": "Song Jiang",
+            "id": "2168837340",
+            "org": "Wayne State University#TAB#"
+        },
+        {
+            "name": "Zhenlin Wang",
+            "id": "2164655951",
+            "org": "Michigan Technological University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Response time",
+        "Locality",
+        "Computer science",
+        "Memory management",
+        "Convergence (routing)",
+        "Web server",
+        "Static memory allocation",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "83339351",
+        "84901888",
+        "1446704544",
+        "1588407470",
+        "1785664926",
+        "1965100924",
+        "1967474856",
+        "2001986196",
+        "2026488394",
+        "2066159013",
+        "2068424089",
+        "2072753794",
+        "2074041401",
+        "2088564353",
+        "2091250014",
+        "2110935200",
+        "2125901106",
+        "2134905310",
+        "2136014689",
+        "2139097432",
+        "2142098074",
+        "2144941482",
+        "2151326614",
+        "2154676045",
+        "2155816525",
+        "2161828193",
+        "2163009346",
+        "2164705472",
+        "2164705534",
+        "2168900306",
+        "2169828639",
+        "2200715182",
+        "2294352052"
+    ]
+}

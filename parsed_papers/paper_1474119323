@@ -1,0 +1,65 @@
+{
+    "id": "1474119323",
+    "title": "Primary data deduplication-large scale study and system design",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ahmed El-Shimi",
+            "id": "2078448257",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Ran Kalach",
+            "id": "2577613002",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Ankit Kumar",
+            "id": "2552641903",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Adi Oltean",
+            "id": "2506272747",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Jin Li",
+            "id": "2604450505",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Sudipta Sengupta",
+            "id": "2104281610",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Windows Server",
+        "Hash function",
+        "Chunking (psychology)",
+        "Computer science",
+        "Data deduplication",
+        "Metadata",
+        "Database",
+        "File server",
+        "Systems design",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "24740120",
+        "69510097",
+        "174289249",
+        "178328500",
+        "200233886",
+        "1521407587",
+        "1576397915",
+        "1929726975",
+        "1993284846",
+        "2056980397",
+        "2111295912",
+        "2125788329"
+    ]
+}

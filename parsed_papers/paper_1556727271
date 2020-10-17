@@ -1,0 +1,36 @@
+{
+    "id": "1556727271",
+    "title": "Differential-Linear Cryptanalysis",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Susan K. Langford",
+            "id": "2134848709",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Martin E. Hellman",
+            "id": "2146312211",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Interpolation attack",
+        "XSL attack",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer science",
+        "Differential cryptanalysis",
+        "Ciphertext indistinguishability",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1537206908",
+        "1964723977",
+        "1979802565",
+        "1991374982"
+    ]
+}

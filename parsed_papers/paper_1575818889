@@ -1,0 +1,42 @@
+{
+    "id": "1575818889",
+    "title": "A traffic conditioning algorithm for enhancing the fairness between TCP and UDP flows in diffserv",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sung-Keun Lee",
+            "id": "2121466867",
+            "org": "Department of Multimedia Engineering#TAB#"
+        },
+        {
+            "name": "Sunbok Goh",
+            "id": "2284317645",
+            "org": "Department of Computer Science, Sunchon National University, Sunchon, Chonnam, Korea#TAB#"
+        },
+        {
+            "name": "Moonsuk Jang",
+            "id": "2166222426",
+            "org": "Department of Computer Science, Sunchon National University, Sunchon, Chonnam, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Throughput",
+        "Algorithm",
+        "Computer science",
+        "Quality of service",
+        "Network packet",
+        "Traffic flow",
+        "Traffic shaping",
+        "Computer network",
+        "Differentiated services",
+        "Active queue management"
+    ],
+    "references": [
+        "1549423009",
+        "2139440703",
+        "2159380618",
+        "2171750994"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1484640685",
+    "title": "New CBC-MAC Forgery Attacks",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Karl Brincat",
+            "id": "1597674559",
+            "org": "Visa International EU"
+        },
+        {
+            "name": "Chris J. Mitchell",
+            "id": "2132562382",
+            "org": "University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Computer science",
+        "Computer security",
+        "CBC-MAC",
+        "String (computer science)",
+        "Internet privacy"
+    ],
+    "references": [
+        "1660562555",
+        "2055432187",
+        "2112006428"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "1517717760",
+    "title": "The Block Cipher SC2000",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Takeshi Shimoyama",
+            "id": "2105611034",
+            "org": "Fujitsu Laboratories LTD."
+        },
+        {
+            "name": "Hitoshi Yanami",
+            "id": "1598568665",
+            "org": "Fujitsu Laboratories LTD."
+        },
+        {
+            "name": "Kazuhiro Yokoyama",
+            "id": "2780239890",
+            "org": "Fujitsu Laboratories LTD."
+        },
+        {
+            "name": "Masahiko Takenaka",
+            "id": "2114664078",
+            "org": "Fujitsu Laboratories LTD."
+        },
+        {
+            "name": "Kouichi Itoh",
+            "id": "2128256318",
+            "org": "Fujitsu Laboratories LTD."
+        },
+        {
+            "name": "Jun Yajima",
+            "id": "2088139060",
+            "org": "Fujitsu Laboratories LTD."
+        },
+        {
+            "name": "Naoya Torii",
+            "id": "1968250510",
+            "org": "Fujitsu Laboratories LTD."
+        },
+        {
+            "name": "Hidema Tanaka",
+            "id": "2159319145",
+            "org": "Science University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Rail fence cipher",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Computer science",
+        "Two-square cipher",
+        "Residual block termination",
+        "Stream cipher",
+        "Triple DES",
+        "CBC-MAC"
+    ],
+    "references": [
+        "177118245",
+        "1518029257",
+        "1548516269",
+        "1575149347",
+        "1575922610",
+        "2027325533",
+        "2109265351"
+    ]
+}

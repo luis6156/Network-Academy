@@ -1,0 +1,73 @@
+{
+    "id": "1579766512",
+    "title": "Distinguishing Multiplications from Squaring Operations",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Frederic Amiel",
+            "id": "1952303898",
+            "org": "AMESYS, Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Benoit Feix",
+            "id": "2652518934",
+            "org": "Inside Contactless, Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Michael Tunstall",
+            "id": "2686577516",
+            "org": "Department of Computer Science, University of Bristol, Merchant Venturers Building, Bristol, United Kingdom BS8 1UB#TAB#"
+        },
+        {
+            "name": "Claire Whelan",
+            "id": "2096072902",
+            "org": "TDS (Time Data Security) Ltd., Dublin, Ireland 24#TAB#"
+        },
+        {
+            "name": "William P. Marnane",
+            "id": "2012913529",
+            "org": "Department of Electrical and Electronic Engineering, University College Cork, Cork, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Side channel attack",
+        "Kochanski multiplication",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Exponentiation by squaring",
+        "Modular arithmetic",
+        "Multiplication algorithm",
+        "Modular exponentiation",
+        "Hamming weight"
+    ],
+    "references": [
+        "1495728876",
+        "1498685334",
+        "1515200869",
+        "1531102506",
+        "1532398039",
+        "1562542037",
+        "1565369953",
+        "1581260209",
+        "1591503962",
+        "1592482282",
+        "1593401740",
+        "1595827207",
+        "1601639357",
+        "1613874182",
+        "1660562555",
+        "1664808737",
+        "1825519517",
+        "1832756347",
+        "1996360405",
+        "2049404034",
+        "2119397824",
+        "2119569175",
+        "2148862943",
+        "2151279347",
+        "2154909745",
+        "2156186849"
+    ]
+}

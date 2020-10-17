@@ -1,0 +1,49 @@
+{
+    "id": "1580295853",
+    "title": "Simulative performance analysis of gossip failure detection for scalable distributed systems",
+    "venue": "Cluster Computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Mark W. Burns",
+            "id": "2144771482",
+            "org": "High-performance Computing and Simulation (HCS) Research Laboratory, Department of Electrical and Computer Engineering, University of Florida, P.O. Box 116200, Gainesville, FL 32611-6200, USA#TAB#"
+        },
+        {
+            "name": "Alan D. George",
+            "id": "2805766911",
+            "org": "High-performance Computing and Simulation (HCS) Research Laboratory, Department of Electrical and Computer Engineering, University of Florida, P.O. Box 116200, Gainesville, FL 32611-6200, USA#TAB#"
+        },
+        {
+            "name": "Bradley A. Wallace",
+            "id": "2165203337",
+            "org": "High-performance Computing and Simulation (HCS) Research Laboratory, Department of Electrical and Computer Engineering, University of Florida, P.O. Box 116200, Gainesville, FL 32611-6200, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Network topology",
+        "Asynchronous communication",
+        "Gossip protocol",
+        "Distributed computing",
+        "Reliable multicast",
+        "Computer science",
+        "Gossip",
+        "Computer network",
+        "Real-time computing",
+        "Computer cluster",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1802982986",
+        "1981928839",
+        "2005216655",
+        "2013860911",
+        "2045362872",
+        "2077240273",
+        "2077982907",
+        "2114728910",
+        "2137868744",
+        "2725333453"
+    ]
+}

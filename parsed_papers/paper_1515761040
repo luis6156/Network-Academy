@@ -1,0 +1,62 @@
+{
+    "id": "1515761040",
+    "title": "CoDNS: improving DNS performance and reliability via cooperative lookups",
+    "venue": "operating systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "KyoungSoo Park",
+            "id": "2128804186",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        },
+        {
+            "name": "Vivek S. Pai",
+            "id": "2303316918",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        },
+        {
+            "name": "Larry L. Peterson",
+            "id": "2144500278",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        },
+        {
+            "name": "Zhe Wang",
+            "id": "2663556654",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Client-side",
+        "Redundancy (engineering)",
+        "Computer science",
+        "Distributed computing",
+        "DNS zone transfer",
+        "Latency (engineering)",
+        "Domain Name System",
+        "Name server",
+        "Round-robin DNS",
+        "Computer network"
+    ],
+    "references": [
+        "160951359",
+        "1497412888",
+        "1558573344",
+        "1628590197",
+        "1988942367",
+        "2036346658",
+        "2063206201",
+        "2083158002",
+        "2100132028",
+        "2102333560",
+        "2111427271",
+        "2112053513",
+        "2118428193",
+        "2122269925",
+        "2153545488",
+        "2153612500",
+        "2158049821",
+        "2165071399",
+        "2166927184",
+        "2170280226"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1513711610",
+    "title": "New key-recovery attacks on HMAC/NMAC-MD4 and NMAC-MD5",
+    "venue": "international cryptology conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Lei Wang",
+            "id": "2713716783",
+            "org": "The University of Electro-Communications, Chofu-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "The University of Electro-Communications, Chofu-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Noboru Kunihiro",
+            "id": "2775951726",
+            "org": "The University of Electro-Communications, Chofu-shi, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Length extension attack",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Collision attack",
+        "Hash function",
+        "MD5",
+        "Collision"
+    ],
+    "references": [
+        "1513113529",
+        "1550771246",
+        "1656731780",
+        "1660562555",
+        "1866609797",
+        "2043711803",
+        "2098801947",
+        "2103239853",
+        "2131212920",
+        "2131300413",
+        "2134615993",
+        "2172433705",
+        "2399310879",
+        "2531150596",
+        "2611506938"
+    ]
+}

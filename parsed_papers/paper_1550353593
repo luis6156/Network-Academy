@@ -1,0 +1,52 @@
+{
+    "id": "1550353593",
+    "title": "First Huffman, Then Burrows-Wheeler: A Simple Alphabet-Independent FM-Index",
+    "venue": "string processing and information retrieval",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Szymon Grabowski",
+            "id": "2107960727",
+            "org": "Tech. Univ. of Lodz"
+        },
+        {
+            "name": "Veli Makinen",
+            "id": "2026327678",
+            "org": "Univ. of Helsinki"
+        },
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "Univ. of Chile"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "String searching algorithm",
+        "FM-index",
+        "Indexation",
+        "Discrete mathematics",
+        "Burrows-Wheeler transform",
+        "Computer science",
+        "Huffman coding",
+        "Combinatorics",
+        "Substring",
+        "Succinct data structure"
+    ],
+    "references": [
+        "1492127831",
+        "1812430439",
+        "1969046465",
+        "2013697960",
+        "2054439442",
+        "2059513841",
+        "2121252285",
+        "2134696992",
+        "2158322625",
+        "2158874082",
+        "2161407657",
+        "2170899819",
+        "2533248932",
+        "2646645486"
+    ]
+}

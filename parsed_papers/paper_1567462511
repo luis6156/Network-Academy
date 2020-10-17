@@ -1,0 +1,54 @@
+{
+    "id": "1567462511",
+    "title": "Goldilocks: efficiently computing the happens-before relation using locksets",
+    "venue": "runtime verification",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tayfun Elmas",
+            "id": "1899040649",
+            "org": "Koc University#TAB#"
+        },
+        {
+            "name": "Shaz Qadeer",
+            "id": "1985363956",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Serdar Tasiran",
+            "id": "80569443",
+            "org": "Koc University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Goldilocks principle",
+        "Java",
+        "Synchronization",
+        "Vector clock",
+        "Distributed computing",
+        "Computer science",
+        "Race condition",
+        "Lazy evaluation",
+        "Formal methods",
+        "Virtual machine",
+        "Real-time computing"
+    ],
+    "references": [
+        "17332244",
+        "1487375638",
+        "1561114929",
+        "1972544179",
+        "2002179840",
+        "2034256728",
+        "2040851906",
+        "2066952803",
+        "2072419942",
+        "2091085450",
+        "2105391037",
+        "2109875364",
+        "2134747058",
+        "2156428492",
+        "2161600851",
+        "2169870841"
+    ]
+}

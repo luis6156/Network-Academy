@@ -1,0 +1,37 @@
+{
+    "id": "1584265037",
+    "title": "Exploiting Loop-Level Parallelism for SIMD Arrays Using OpenMP",
+    "venue": "international workshop on openmp",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Con Bradley",
+            "id": "2284194308",
+            "org": "ClearSpeed Technology Plc, Bristol, UK BS34 8HP#TAB#"
+        },
+        {
+            "name": "Benedict R. Gaster",
+            "id": "2574987947",
+            "org": "ClearSpeed Technology Plc, Bristol, UK BS34 8HP#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Semantics",
+        "Parallel computing",
+        "SIMD",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Parallel programming model",
+        "Fortran",
+        "Automatic parallelization",
+        "Architecture"
+    ],
+    "references": [
+        "1494930385",
+        "1576205104",
+        "2109065830",
+        "2611598995"
+    ]
+}

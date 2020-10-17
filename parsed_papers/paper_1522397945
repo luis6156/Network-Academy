@@ -1,0 +1,32 @@
+{
+    "id": "1522397945",
+    "title": "New Results in Linear Cryptanalysis of RC5",
+    "venue": "fast software encryption",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ali Aydin Selcuk",
+            "id": "2171730961",
+            "org": "University of Maryland Baltimore County"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Mathematics",
+        "Integral cryptanalysis",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis",
+        "Differential-linear attack"
+    ],
+    "references": [
+        "1500356409",
+        "1553595359",
+        "1964723977",
+        "2057524374"
+    ]
+}

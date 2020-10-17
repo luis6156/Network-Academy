@@ -1,0 +1,52 @@
+{
+    "id": "1584628483",
+    "title": "Face detection using multiple cues",
+    "venue": "scandinavian conference on image analysis",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Thomas B. Moeslund",
+            "id": "1992979146",
+            "org": "Laboratory of Computer Vision and Media Technology, Aalborg University, Denmark#TAB#"
+        },
+        {
+            "name": "Jess S. Petersen",
+            "id": "2317701289",
+            "org": "Laboratory of Computer Vision and Media Technology, Aalborg University, Denmark#TAB#"
+        },
+        {
+            "name": "Lasse D. Skalski",
+            "id": "2329770103",
+            "org": "Laboratory of Computer Vision and Media Technology, Aalborg University, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "cons",
+        "Particle filter",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "State space",
+        "False positive paradox",
+        "Face detection",
+        "Robustness (computer science)",
+        "Detector",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1591262318",
+        "2006178360",
+        "2022686119",
+        "2051110817",
+        "2097543505",
+        "2106309274",
+        "2119350939",
+        "2121601095",
+        "2129150631",
+        "2142959069",
+        "2143009961",
+        "2147953023",
+        "2154330368",
+        "2164598857"
+    ]
+}

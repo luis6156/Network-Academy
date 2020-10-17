@@ -1,0 +1,43 @@
+{
+    "id": "1511203811",
+    "title": "Practical experiences with purenet, a self-learning malware prevention system",
+    "venue": "open research problems in network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alapan Arnab",
+            "id": "1108072678",
+            "org": "T-Systems South Africa, International Business Gateway, Midrand, South Africa#TAB#"
+        },
+        {
+            "name": "Tobias Martin",
+            "id": "2699557852",
+            "org": "Deutsche Telekom Laboratories, Deutsche Telekom Allee 7, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Andrew Hutchison",
+            "id": "2119575643",
+            "org": "T-Systems South Africa, International Business Gateway, Midrand, South Africa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Software",
+        "Computer science",
+        "Computer security",
+        "Latency (engineering)",
+        "Software deployment",
+        "Anomaly detection",
+        "Hardening (computing)",
+        "Cloud computing",
+        "Architecture"
+    ],
+    "references": [
+        "1575078351",
+        "1760401052",
+        "1890820876",
+        "2006071261",
+        "2115470695",
+        "2164463255"
+    ]
+}

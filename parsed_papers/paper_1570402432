@@ -1,0 +1,56 @@
+{
+    "id": "1570402432",
+    "title": "Missing data estimation using polynomial kernels",
+    "venue": "international conference on advances in pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Maxime Berar",
+            "id": "2289143348",
+            "org": "Laboratoire des Images et des Signaux, LIS, St Martin d'Heres, France#TAB#"
+        },
+        {
+            "name": "Michel Desvignes",
+            "id": "2185772439",
+            "org": "Laboratoire des Images et des Signaux, LIS, St Martin d'Heres, France#TAB#"
+        },
+        {
+            "name": "Gerard Bailly",
+            "id": "2097148942",
+            "org": "Institut de la Communiation Parlee (ICP), UMR CNRS 5009, INPG/U3, Grenoble, France#TAB#"
+        },
+        {
+            "name": "Yohan Payan",
+            "id": "329137034",
+            "org": "Techniques de l'Imagerie, de la Modelisation et de la Cognition (TIMC), Faculte de Medecine, La Tronche, France#TAB#"
+        },
+        {
+            "name": "Barbara Romaniuk",
+            "id": "2022385399",
+            "org": "CreSTIC-LERI, Rue des Crayeres, Reims, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Missing data",
+        "Active shape model",
+        "Statistical model",
+        "Statistics",
+        "Principal component analysis",
+        "Polynomial kernel",
+        "Feature vector",
+        "Linear model",
+        "Polynomial"
+    ],
+    "references": [
+        "1560929895",
+        "1675973698",
+        "2105732805",
+        "2106308174",
+        "2132773116",
+        "2133396101",
+        "2140095548",
+        "2151973330",
+        "2152826865"
+    ]
+}

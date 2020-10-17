@@ -1,0 +1,43 @@
+{
+    "id": "1504189285",
+    "title": "PC/MPI: Design and Implementation of a Portable MPI Checkpointer",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sunil Ahn",
+            "id": "2602773042",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Junghwan Kim",
+            "id": "2647791193",
+            "org": "Kunguk University"
+        },
+        {
+            "name": "Sang-Yong Han",
+            "id": "2251682818",
+            "org": "Seoul National University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing",
+        "Software portability"
+    ],
+    "references": [
+        "1537929875",
+        "1848988118",
+        "2081413727",
+        "2081612620",
+        "2105039796",
+        "2131053137",
+        "2171453084",
+        "2293400840"
+    ]
+}

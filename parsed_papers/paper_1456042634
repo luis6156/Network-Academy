@@ -1,0 +1,72 @@
+{
+    "id": "1456042634",
+    "title": "vCacheShare: automated server flash cache space management in a virtualization environment",
+    "venue": "usenix annual technical conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Fei Meng",
+            "id": "2760934648",
+            "org": "North Carolina State University#TAB#"
+        },
+        {
+            "name": "Li Zhou",
+            "id": "2762420919",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Xiaosong Ma",
+            "id": "2720250877",
+            "org": "North Carolina State University and Qatar Computing Research Institute#TAB#"
+        },
+        {
+            "name": "Sandeep Uttamchandani",
+            "id": "2121196266",
+            "org": "VMware Inc.#TAB#"
+        },
+        {
+            "name": "Deng Liu",
+            "id": "2761146256",
+            "org": "Twitter Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Hypervisor",
+        "Parallel computing",
+        "Virtualization",
+        "Heuristics",
+        "Data warehouse",
+        "Space partitioning",
+        "Computer science",
+        "Software deployment",
+        "Real-time computing",
+        "Virtual desktop"
+    ],
+    "references": [
+        "140894937",
+        "1537068154",
+        "1569184546",
+        "1669357676",
+        "1815525760",
+        "1936365067",
+        "1980419087",
+        "2024717934",
+        "2037021208",
+        "2054308357",
+        "2056590904",
+        "2067994270",
+        "2092426103",
+        "2121542813",
+        "2121768308",
+        "2129816520",
+        "2131806537",
+        "2140590655",
+        "2142886360",
+        "2143773524",
+        "2144941482",
+        "2164705534",
+        "2168900306",
+        "2201220957"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1525825492",
+    "title": "On the RS-Code Construction of Ring Signature Schemes and a Threshold Setting of RST",
+    "venue": "international conference on information and communication security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Duncan S. Wong",
+            "id": "2691038033",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Karyin Fung",
+            "id": "2701614983",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Joseph K. Liu",
+            "id": "2108886137",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Victor K. Wei",
+            "id": "2245599763",
+            "org": "The Chinese University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Polynomial",
+        "Discrete mathematics",
+        "Coding theory",
+        "Reed-Solomon error correction",
+        "EdDSA",
+        "Polynomial interpolation",
+        "Schnorr signature",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1484826441",
+        "1608511627",
+        "1638799436",
+        "2052267638",
+        "2102632861",
+        "2129483619"
+    ]
+}

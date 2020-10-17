@@ -1,0 +1,73 @@
+{
+    "id": "1510930713",
+    "title": "Hardware/software co-design of elliptic curve cryptography on an 8051 microcontroller",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Manuel Koschuch",
+            "id": "2403897223",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Joachim Lechner",
+            "id": "2276945792",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Andreas Weitzer",
+            "id": "2280762907",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Alexander Szekely",
+            "id": "2169479483",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Tillich",
+            "id": "2122320320",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Johannes Wolkerstorfer",
+            "id": "2017924375",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer hardware",
+        "Parallel computing",
+        "Software development",
+        "Software",
+        "Microcontroller",
+        "Computer science",
+        "Elliptic curve cryptography",
+        "Embedded system",
+        "Hardware acceleration",
+        "Clock rate",
+        "Direct memory access"
+    ],
+    "references": [
+        "1482481952",
+        "1522228241",
+        "1527173517",
+        "1567573409",
+        "1677779030",
+        "1902291966",
+        "2086828313",
+        "2113287980",
+        "2125631000",
+        "2128335669",
+        "2142266976",
+        "2151733581",
+        "2169807258",
+        "2174877860"
+    ]
+}

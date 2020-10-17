@@ -1,0 +1,53 @@
+{
+    "id": "1510415214",
+    "title": "Efficient Discovery of Proximity Patterns with Suffix Arrays",
+    "venue": "combinatorial pattern matching",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Hiroki Arimura",
+            "id": "2018050652",
+            "org": "Department of Informatics|Kyushu University"
+        },
+        {
+            "name": "Hiroki Asaka",
+            "id": "2149352267",
+            "org": "Department of Informatics|Kyushu University"
+        },
+        {
+            "name": "Hiroshi Sakamoto",
+            "id": "2296559532",
+            "org": "Department of Informatics|Kyushu University"
+        },
+        {
+            "name": "Setsuo Arikawa",
+            "id": "1907359370",
+            "org": "Department of Informatics|Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Suffix",
+        "String searching algorithm",
+        "FM-index",
+        "Longest common substring problem",
+        "Data mining",
+        "Computer science",
+        "Generalized suffix tree",
+        "Suffix array",
+        "Suffix tree",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "1531508514",
+        "1573714593",
+        "1974983766",
+        "1982381767",
+        "1990061958",
+        "2046946959",
+        "2053767428",
+        "2118194076",
+        "2121252285",
+        "2154765457",
+        "2158874082"
+    ]
+}

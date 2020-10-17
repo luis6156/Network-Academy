@@ -1,0 +1,46 @@
+{
+    "id": "1516535836",
+    "title": "Cryptanalysis of the LANE Hash Function",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shuang Wu",
+            "id": "2124794005",
+            "org": "State Key Lab of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China 100190#TAB#"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2100868817",
+            "org": "State Key Lab of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China 100190#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Lab of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China 100190#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rebound attack",
+        "Algorithm",
+        "SHA-2",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Computer science",
+        "Collision attack",
+        "Double hashing",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "124034723",
+        "1574947811",
+        "1603214199",
+        "1603433154",
+        "2103239853",
+        "2136320902",
+        "2407671386",
+        "2593463031"
+    ]
+}

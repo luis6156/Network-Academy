@@ -1,0 +1,47 @@
+{
+    "id": "1607187538",
+    "title": "A Traceable Block Cipher",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Olivier Billet",
+            "id": "1572106382",
+            "org": "France Telecom R&D"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "France Telecom R&D"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Computer science",
+        "Weak key",
+        "Residual block termination",
+        "Related-key attack",
+        "Triple DES",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1489021826",
+        "1492604485",
+        "1505973206",
+        "1560252361",
+        "1561762905",
+        "1568587963",
+        "1569499052",
+        "1572014279",
+        "1583871653",
+        "1821087317",
+        "2002087984",
+        "2099172492",
+        "2123147311",
+        "2128968394",
+        "2295616646"
+    ]
+}

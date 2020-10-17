@@ -1,0 +1,37 @@
+{
+    "id": "1579550535",
+    "title": "Implementing fast java TM monitors with relaxed-locks",
+    "venue": "JVM'01 Proceedings of the 2001 Symposium on JavaTM Virtual Machine Research and Technology Symposium - Volume 1",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "David Dice",
+            "id": "2307305831",
+            "org": "Sun Microsystems, Inc., Burlington, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Header",
+        "Java",
+        "Satisfiability",
+        "Computer science",
+        "Compare-and-swap",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Mutual exclusion",
+        "Synchronization",
+        "Operating system"
+    ],
+    "references": [
+        "1533109738",
+        "2000696688",
+        "2011398297",
+        "2014474920",
+        "2064677427",
+        "2094449661",
+        "2103580083",
+        "2108482548",
+        "2131791649",
+        "2294505023"
+    ]
+}

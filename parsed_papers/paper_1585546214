@@ -1,0 +1,38 @@
+{
+    "id": "1585546214",
+    "title": "A reinforcement learning approach to job-shop scheduling",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Wei Zhang",
+            "id": "2673315481",
+            "org": "Department of Computer Science, Oregon State University, Corvallis, Oregon#TAB#"
+        },
+        {
+            "name": "Thomas G. Dietterich",
+            "id": "160031478",
+            "org": "Department of Computer Science, Oregon State University, Corvallis, Oregon#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Job shop scheduling",
+        "Flow shop scheduling",
+        "Temporal difference learning",
+        "Fair-share scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2051228319",
+        "2100677568",
+        "2103626435",
+        "2121832485"
+    ]
+}

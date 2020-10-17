@@ -1,0 +1,67 @@
+{
+    "id": "1514719854",
+    "title": "Interval analysis for concurrent trace programs using transaction sequence graphs",
+    "venue": "runtime verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Malay K. Ganai",
+            "id": "2117247149",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Chao Wang",
+            "id": "2854535502",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Interval arithmetic",
+        "Context switch",
+        "Partial order reduction",
+        "Computer science",
+        "Distributed computing",
+        "Concurrency control",
+        "Atomicity",
+        "Data-flow analysis",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1502049067",
+        "1545371423",
+        "1549521157",
+        "1556566737",
+        "1579452275",
+        "1580380563",
+        "1581214603",
+        "1582681289",
+        "1600422503",
+        "1605226475",
+        "1972544179",
+        "2039549168",
+        "2040384644",
+        "2054739713",
+        "2055060936",
+        "2080703024",
+        "2082766667",
+        "2097253829",
+        "2107742417",
+        "2109935657",
+        "2111759889",
+        "2118437239",
+        "2135395375",
+        "2136877520",
+        "2153229512",
+        "2155962559",
+        "2157888439",
+        "2159765571",
+        "2160489152",
+        "2162339514",
+        "2165422215",
+        "2169870841",
+        "2171076136",
+        "2194223632"
+    ]
+}

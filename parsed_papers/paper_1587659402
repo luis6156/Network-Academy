@@ -1,0 +1,41 @@
+{
+    "id": "1587659402",
+    "title": "Static analysis meets distributed fault-tolerance: enabling state-machine replication with nondeterminism",
+    "venue": "hot topics in system dependability",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Joseph G. Slember",
+            "id": "2063928602",
+            "org": "Electrical & Computer Engineering Department, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Priya Narasimhan",
+            "id": "2246752162",
+            "org": "Electrical & Computer Engineering Department, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Nondeterministic algorithm",
+        "Exploit",
+        "Static analysis",
+        "Computer science",
+        "Distributed computing",
+        "State machine replication",
+        "Synchronization",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1484277562",
+        "1818998288",
+        "1942179637",
+        "1991152532",
+        "2098735855",
+        "2100970777",
+        "2118671104",
+        "2152465173",
+        "2153218454"
+    ]
+}

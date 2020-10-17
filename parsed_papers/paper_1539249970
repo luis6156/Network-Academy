@@ -1,0 +1,49 @@
+{
+    "id": "1539249970",
+    "title": "Sponge-based pseudo-random number generators",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Guido Bertoni",
+            "id": "2106307877",
+            "org": "STMicroelectronics#TAB#"
+        },
+        {
+            "name": "Joan Daemen",
+            "id": "2022183134",
+            "org": "STMicroelectronics#TAB#"
+        },
+        {
+            "name": "Michael Peeters",
+            "id": "2164522652",
+            "org": "NXP Semiconductors#TAB#"
+        },
+        {
+            "name": "Gilles Van Assche",
+            "id": "1974686051",
+            "org": "STMicroelectronics#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom number generator",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Computer science",
+        "Sponge function",
+        "Stream cipher",
+        "Latency (engineering)",
+        "Fetch",
+        "Hash function"
+    ],
+    "references": [
+        "1512388984",
+        "1553650484",
+        "1604454960",
+        "1689385595",
+        "1939171670",
+        "2052267638",
+        "2129876196",
+        "2149550975"
+    ]
+}

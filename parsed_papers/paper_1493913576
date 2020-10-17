@@ -1,0 +1,60 @@
+{
+    "id": "1493913576",
+    "title": "HybridFluctuat: A Static Analyzer of Numerical Programs within a Continuous Environment",
+    "venue": "computer aided verification",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Olivier Bouissou",
+            "id": "2705209129",
+            "org": "CEA, LIST, Modelisation and Analysis of Systems in Interaction, Gif-sur-Yvette, France F-91191#TAB#"
+        },
+        {
+            "name": "Eric Goubault",
+            "id": "2088963076",
+            "org": "CEA, LIST, Modelisation and Analysis of Systems in Interaction, Gif-sur-Yvette, France F-91191#TAB#"
+        },
+        {
+            "name": "Sylvie Putot",
+            "id": "840361129",
+            "org": "CEA, LIST, Modelisation and Analysis of Systems in Interaction, Gif-sur-Yvette, France F-91191#TAB#"
+        },
+        {
+            "name": "Karim Tekkal",
+            "id": "253745212",
+            "org": "FCS Digiteo, Saint-Aubin, France F-91190#TAB#"
+        },
+        {
+            "name": "Franck Vedrine",
+            "id": "2654877843",
+            "org": "CEA, LIST, Modelisation and Analysis of Systems in Interaction, Gif-sur-Yvette, France F-91191#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Automated Transfer Vehicle",
+        "Control engineering",
+        "Spectrum analyzer",
+        "Theoretical computer science",
+        "Software",
+        "Computer science",
+        "Abstract interpretation",
+        "ANSI C",
+        "Hybrid system",
+        "Embedded system",
+        "Integrator",
+        "Hybrid automaton"
+    ],
+    "references": [
+        "44659885",
+        "1521140517",
+        "1521939022",
+        "1522694098",
+        "1531068736",
+        "1583235334",
+        "2004463571",
+        "2043100293",
+        "2133124819",
+        "2167966062",
+        "2194223632"
+    ]
+}

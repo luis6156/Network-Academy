@@ -1,0 +1,77 @@
+{
+    "id": "1742682033",
+    "title": "Retro: Targeted resource management in multi-tenant distributed systems",
+    "venue": "networked systems design and implementation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jonathan Mace",
+            "id": "2152065620",
+            "org": "Brown University#TAB#"
+        },
+        {
+            "name": "Peter Bodik",
+            "id": "121356807",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Rodrigo Fonseca",
+            "id": "2665458278",
+            "org": "Brown University#TAB#"
+        },
+        {
+            "name": "Madanlal Musuvathi",
+            "id": "2306824899",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Quality of service",
+        "Bandwidth throttling",
+        "Slowdown",
+        "Temporal isolation among virtual machines",
+        "Real-time computing",
+        "Bottleneck"
+    ],
+    "references": [
+        "16408702",
+        "192446467",
+        "1524673069",
+        "1537198022",
+        "1587989274",
+        "1890643295",
+        "1990063348",
+        "1993892970",
+        "2020384314",
+        "2029467255",
+        "2043050457",
+        "2044530246",
+        "2063599149",
+        "2078069481",
+        "2081461624",
+        "2096077397",
+        "2097831241",
+        "2102849319",
+        "2102970979",
+        "2105947650",
+        "2110144520",
+        "2113551315",
+        "2117020308",
+        "2119738171",
+        "2124478678",
+        "2130843735",
+        "2143522309",
+        "2163961697",
+        "2167195657",
+        "2172191070",
+        "2176566884",
+        "2184900279",
+        "2196948882",
+        "2212762664"
+    ]
+}

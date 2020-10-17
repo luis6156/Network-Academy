@@ -1,0 +1,49 @@
+{
+    "id": "1755720364",
+    "title": "Rescheduling for optimized SHA-1 calculation",
+    "venue": "international conference on embedded computer systems architectures modeling and simulation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ricardo Chaves",
+            "id": "2121536560",
+            "org": "Instituto Superior Tecnico, INESC-ID, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Georgi Kuzmanov",
+            "id": "1987909105",
+            "org": "Computer Engineering Lab, TUDelft, Delft, The Netherlands#TAB#"
+        },
+        {
+            "name": "Leonel Sousa",
+            "id": "2117706459",
+            "org": "Instituto Superior Tecnico, INESC-ID, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Stamatis Vassiliadis",
+            "id": "1992265184",
+            "org": "Computer Engineering Lab, TUDelft, Delft, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Hash-based message authentication code",
+        "Software",
+        "Computer science",
+        "Critical path method",
+        "Initialization vector",
+        "Virtex",
+        "Hash function",
+        "Initialization",
+        "Real-time computing"
+    ],
+    "references": [
+        "34980683",
+        "170104151",
+        "1600401946",
+        "1656731780",
+        "2105410736",
+        "2146188244"
+    ]
+}

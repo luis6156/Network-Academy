@@ -1,0 +1,62 @@
+{
+    "id": "1548802270",
+    "title": "Object-relative addressing: compressed pointers in 64-bit java virtual machines",
+    "venue": "european conference on object oriented programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kris Venstermans",
+            "id": "133802297",
+            "org": "ELIS Department, Ghent University, Belgium#TAB#"
+        },
+        {
+            "name": "Lieven Eeckhout",
+            "id": "2264739303",
+            "org": "ELIS Department, Ghent University, Belgium#TAB#"
+        },
+        {
+            "name": "Koen De Bosschere",
+            "id": "2018048180",
+            "org": "ELIS Department, Ghent University, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dangling pointer",
+        "Java",
+        "Parallel computing",
+        "Pointer (computer programming)",
+        "Escape analysis",
+        "Memory safety",
+        "Computer science",
+        "Smart pointer",
+        "strictfp",
+        "Virtual address space",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1589156006",
+        "1607142853",
+        "1968154493",
+        "2027773381",
+        "2032688435",
+        "2035974062",
+        "2064238114",
+        "2079366392",
+        "2081658857",
+        "2092107723",
+        "2100885195",
+        "2102839400",
+        "2112832394",
+        "2116188728",
+        "2116827883",
+        "2137081678",
+        "2146509778",
+        "2147278401",
+        "2151953248",
+        "2161719857",
+        "2164746995",
+        "2166091242",
+        "2171830489"
+    ]
+}

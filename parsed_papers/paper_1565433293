@@ -1,0 +1,58 @@
+{
+    "id": "1565433293",
+    "title": "A Queue Management System for Differentiated-Services IP Routers",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Goncalo Quadros",
+            "id": "2147872126",
+            "org": "CISUC. Center for Informatics and Systems of the University of Coimbra"
+        },
+        {
+            "name": "Antonio Alves",
+            "id": "2304935098",
+            "org": "CISUC. Center for Informatics and Systems of the University of Coimbra"
+        },
+        {
+            "name": "Joao M. Silva",
+            "id": "2528145625",
+            "org": "CISUC. Center for Informatics and Systems of the University of Coimbra"
+        },
+        {
+            "name": "Henrique Matos",
+            "id": "2430113787",
+            "org": "CISUC. Center for Informatics and Systems of the University of Coimbra"
+        },
+        {
+            "name": "Edmundo Monteiro",
+            "id": "2144794794",
+            "org": "CISUC. Center for Informatics and Systems of the University of Coimbra"
+        },
+        {
+            "name": "Fernando Boavida",
+            "id": "2229740994",
+            "org": "CISUC. Center for Informatics and Systems of the University of Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Earliest deadline first scheduling",
+        "Computer science",
+        "Scheduling (computing)",
+        "Multilevel feedback queue",
+        "Queue management system",
+        "Per-hop behaviour",
+        "Differentiated services",
+        "Real-time computing",
+        "Active queue management",
+        "Architecture"
+    ],
+    "references": [
+        "1571494552",
+        "1655359704",
+        "2129348840",
+        "2132534307",
+        "2156639545",
+        "2158733823"
+    ]
+}

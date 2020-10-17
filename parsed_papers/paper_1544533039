@@ -1,0 +1,98 @@
+{
+    "id": "1544533039",
+    "title": "Bounded Model Checking of Multi-threaded C Programs via Lazy Sequentialization",
+    "venue": "computer aided verification",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Omar Inverso",
+            "id": "248295364",
+            "org": "Electronics and Computer Science, University of Southampton, UK#TAB#"
+        },
+        {
+            "name": "Ermenegildo Tomasco",
+            "id": "223676815",
+            "org": "Electronics and Computer Science, University of Southampton, UK#TAB#"
+        },
+        {
+            "name": "Bernd Fischer",
+            "id": "2616912264",
+            "org": "Division of Computer Science, Stellenbosch University, South Africa#TAB#"
+        },
+        {
+            "name": "Salvatore La Torre",
+            "id": "2598748035",
+            "org": "Universit degli Studi di Salerno, Italy#TAB#"
+        },
+        {
+            "name": "Gennaro Parlato",
+            "id": "2091404442",
+            "org": "Electronics and Computer Science, University of Southampton, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Context switch",
+        "Parallel computing",
+        "Algorithm",
+        "Computer science",
+        "Reachability",
+        "Bounded function",
+        "Concurrency",
+        "POSIX Threads",
+        "Model checking",
+        "Schedule"
+    ],
+    "references": [
+        "115414801",
+        "155951047",
+        "196827001",
+        "207365901",
+        "1493367105",
+        "1502963625",
+        "1507006488",
+        "1519361875",
+        "1533964197",
+        "1556566737",
+        "1560743762",
+        "1578723138",
+        "1582387102",
+        "1583869287",
+        "1586677474",
+        "1592206382",
+        "1602156367",
+        "1782479956",
+        "1787074469",
+        "1877513498",
+        "1933255669",
+        "2029912316",
+        "2031525781",
+        "2035510793",
+        "2040068897",
+        "2056637671",
+        "2061751777",
+        "2080703024",
+        "2087046173",
+        "2090064527",
+        "2091355737",
+        "2091879780",
+        "2109819183",
+        "2114641424",
+        "2119142490",
+        "2122095746",
+        "2128453996",
+        "2129538349",
+        "2130760447",
+        "2132897303",
+        "2135948849",
+        "2136797233",
+        "2136877520",
+        "2143502475",
+        "2159181605",
+        "2401003083",
+        "2405051693",
+        "2405350289",
+        "2406075606",
+        "2776316078"
+    ]
+}

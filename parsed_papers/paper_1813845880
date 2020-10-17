@@ -1,0 +1,44 @@
+{
+    "id": "1813845880",
+    "title": "XSS-Dec: a hybrid solution to mitigate cross-site scripting attacks",
+    "venue": "DBSec'12 Proceedings of the 26th Annual IFIP WG 11.3 conference on Data and Applications Security and Privacy",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Smitha Sundareswaran",
+            "id": "2010153410",
+            "org": "College of Information Sciences and Technology, The Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Anna Cinzia Squicciarini",
+            "id": "2310372355",
+            "org": "College of Information Sciences and Technology, The Pennsylvania State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Abstract syntax tree",
+        "Computer science",
+        "Computer security",
+        "Anomaly detection",
+        "Control flow analysis",
+        "Web application",
+        "Exploit",
+        "Scripting language",
+        "Cross-site scripting"
+    ],
+    "references": [
+        "1492437080",
+        "1557808377",
+        "1559255981",
+        "1561387739",
+        "1915934711",
+        "2006591097",
+        "2027255772",
+        "2049214202",
+        "2102457045",
+        "2122997043",
+        "2134646643",
+        "2162316255"
+    ]
+}

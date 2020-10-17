@@ -1,0 +1,73 @@
+{
+    "id": "149635391",
+    "title": "Randomly Partitioned Encryption for Cloud Databases",
+    "venue": "DBSec 2014 Proceedings of the 28th Annual IFIP WG 11.3 Working Conference on Data and Applications Security and Privacy XXVIII - Volume 8566",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Tahmineh Sanamrad",
+            "id": "902910423",
+            "org": "Systems Group, Computer Science Departement, ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Lucas Braun",
+            "id": "2163820693",
+            "org": "Systems Group, Computer Science Departement, ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Donald Kossmann",
+            "id": "2778093568",
+            "org": "Systems Group, Computer Science Departement, ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Ramarathnam Venkatesan",
+            "id": "2126319880",
+            "org": "Microsoft Research, Redmond, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Watermarking attack",
+        "40-bit encryption",
+        "Client-side encryption",
+        "Computer science",
+        "Database",
+        "Probabilistic encryption",
+        "56-bit encryption",
+        "On-the-fly encryption",
+        "Database encryption"
+    ],
+    "references": [
+        "1481785025",
+        "1527450129",
+        "1544005395",
+        "1549397354",
+        "1575598731",
+        "1799617698",
+        "1895952394",
+        "1980321924",
+        "2030888439",
+        "2035871140",
+        "2042012257",
+        "2043508455",
+        "2072248949",
+        "2098392677",
+        "2103649698",
+        "2108834246",
+        "2118326624",
+        "2128906841",
+        "2132172731",
+        "2153971105",
+        "2154496743",
+        "2159915142",
+        "2163992091",
+        "2165464232",
+        "2166362740",
+        "2169869837",
+        "2217128562",
+        "2250570571",
+        "2289716913",
+        "2404442339",
+        "2770935389"
+    ]
+}

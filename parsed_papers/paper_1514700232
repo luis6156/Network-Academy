@@ -1,0 +1,45 @@
+{
+    "id": "1514700232",
+    "title": "Parallel multiprocessor approaches to the RNA folding problem",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Etienne Ogoubi",
+            "id": "2020109789",
+            "org": "Departement d'informatique et de recherche operationnelle, Universite de Montreal, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "David Pouliot",
+            "id": "2347264730",
+            "org": "Departement d'informatique et de recherche operationnelle, Universite de Montreal, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Marcel Turcotte",
+            "id": "2241035907",
+            "org": "School of Information Technology and Engineering, University of Ottawa, Ottawa, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Abdelhakim Hafid",
+            "id": "2152906949",
+            "org": "Departement d'informatique et de recherche operationnelle, Universite de Montreal, Montreal, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Testbed",
+        "Nucleic acid secondary structure",
+        "Computational model",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Multiprocessing",
+        "Message passing",
+        "Protein secondary structure",
+        "RNA"
+    ],
+    "references": [
+        "1555915743",
+        "1559047570",
+        "2064129347"
+    ]
+}

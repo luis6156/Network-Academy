@@ -1,0 +1,48 @@
+{
+    "id": "1537929875",
+    "title": "Libckpt: Transparent Checkpointing under Unix",
+    "venue": "usenix annual technical conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "James S. Plank",
+            "id": "2111410311",
+            "org": "University of Tennessee#TAB#"
+        },
+        {
+            "name": "Micah Beck",
+            "id": "2203141287",
+            "org": "University of Tennessee#TAB#"
+        },
+        {
+            "name": "Gerry Kingsley",
+            "id": "2465665774",
+            "org": "University of Tennessee#TAB#"
+        },
+        {
+            "name": "Kai Li",
+            "id": "2166597129",
+            "org": "Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Rollback",
+        "Unix",
+        "Real-time computing",
+        "Programmer"
+    ],
+    "references": [
+        "1862835629",
+        "1979117305",
+        "2001703874",
+        "2010439775",
+        "2043522772",
+        "2048894106",
+        "2050765519",
+        "2060071172",
+        "2082498963",
+        "2169167780"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "1534644986",
+    "title": "Co-dimension 2 Geodesic Active Contours for MRA Segmentation",
+    "venue": "information processing in medical imaging",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Liana M. Lorigo",
+            "id": "1241036443",
+            "org": "MIT Artificial Intelligence Laboratory Cambridge MA USA"
+        },
+        {
+            "name": "Olivier Faugeras",
+            "id": "2607666093",
+            "org": "MIT Artificial Intelligence Laboratory Cambridge MA USA"
+        },
+        {
+            "name": "W. Eric L. Grimson",
+            "id": "430561134",
+            "org": "MIT Artificial Intelligence Laboratory Cambridge MA USA"
+        },
+        {
+            "name": "Renaud Keriven",
+            "id": "1037429264",
+            "org": "ENPC Cermics France"
+        },
+        {
+            "name": "Ron Kikinis",
+            "id": "908076792",
+            "org": "Harvard Medical School Brigham & Women's Hospital Boston MA USA"
+        },
+        {
+            "name": "Carl-Fredrik Westin",
+            "id": "2056879232",
+            "org": "Harvard Medical School Brigham & Women's Hospital Boston MA USA"
+        }
+    ],
+    "fields_of_study": [
+        "Magnetic resonance angiography",
+        "Level set method",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Maximum intensity projection",
+        "Image segmentation",
+        "Scale-space segmentation",
+        "Level set",
+        "Segmentation-based object categorization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2019151455",
+        "2109011174",
+        "2134820502",
+        "2168501356"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1489393579",
+    "title": "Adding Semantic and Syntactic Predicates To LL(k): pred-LL(k)",
+    "venue": "compiler construction",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Terence John Parr",
+            "id": "2129811699",
+            "org": "University of Minnesota"
+        },
+        {
+            "name": "Russell W. Quong",
+            "id": "281883709",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Syntax",
+        "Mathematics",
+        "Semantics",
+        "Attribute grammar",
+        "Lexical analysis",
+        "LALR parser",
+        "Symbol table",
+        "Parsing",
+        "Language construct",
+        "Programming language"
+    ],
+    "references": [
+        "1508187436",
+        "1579278367",
+        "1583885098",
+        "1964071625",
+        "1986099663",
+        "2022070387"
+    ]
+}

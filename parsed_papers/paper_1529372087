@@ -1,0 +1,40 @@
+{
+    "id": "1529372087",
+    "title": "Providing dynamic and customizable caching policies",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "J. Fritz Barnes",
+            "id": "2313288078",
+            "org": "Parallel and Distributed Computing Laboratory, Computer Science Department, University of California, Davis, CA#TAB#"
+        },
+        {
+            "name": "Raju Pandey",
+            "id": "2293893369",
+            "org": "Parallel and Distributed Computing Laboratory, Computer Science Department, University of California, Davis, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "End user",
+        "Computer science",
+        "Distributed computing",
+        "False sharing",
+        "Latency (engineering)",
+        "Server",
+        "Exploit",
+        "Extensibility",
+        "Real-time computing"
+    ],
+    "references": [
+        "1527961683",
+        "1918432491",
+        "2112053513",
+        "2120500054",
+        "2133369126",
+        "2136975273",
+        "2141257448",
+        "2157740020"
+    ]
+}

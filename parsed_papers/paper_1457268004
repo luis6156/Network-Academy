@@ -1,0 +1,75 @@
+{
+    "id": "1457268004",
+    "title": "Decoupling cores, kernels, and operating systems",
+    "venue": "operating systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Gerd Zellweger",
+            "id": "2155553087",
+            "org": "Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Simon Gerber",
+            "id": "2151302291",
+            "org": "Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Kornilios Kourtis",
+            "id": "2692253857",
+            "org": "Department of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Timothy Roscoe",
+            "id": "1981466420",
+            "org": "Department of Computer Science, ETH Zurich#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multikernel",
+        "Computer science",
+        "Hybrid kernel",
+        "Decoupling (cosmology)",
+        "Kernel preemption",
+        "Barrelfish",
+        "Memory management",
+        "Operating system",
+        "Configfs",
+        "Real-time computing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "148956775",
+        "190062532",
+        "1484180726",
+        "1602079523",
+        "1734886231",
+        "1938553034",
+        "1966938284",
+        "1977773183",
+        "1998009565",
+        "2000479660",
+        "2006312753",
+        "2057234250",
+        "2062340141",
+        "2072263667",
+        "2088723365",
+        "2099604143",
+        "2105842205",
+        "2112085716",
+        "2113103747",
+        "2119249014",
+        "2128336546",
+        "2132213430",
+        "2136310957",
+        "2136545991",
+        "2153331583",
+        "2166796787",
+        "2167556016",
+        "2167800525",
+        "2168075869",
+        "2173499124",
+        "2211949657",
+        "2342083136"
+    ]
+}

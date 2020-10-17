@@ -1,0 +1,93 @@
+{
+    "id": "1597591185",
+    "title": "Reducing complexity assumptions for statistically-hiding commitment",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Iftach Haitner",
+            "id": "1252131916",
+            "org": "Department of Computer Science, Weizmann Institute of Science#TAB#"
+        },
+        {
+            "name": "Omer Horvitz",
+            "id": "115461011",
+            "org": "Department of Computer Science, University of Maryland#TAB#"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Department of Computer Science, University of Maryland#TAB#"
+        },
+        {
+            "name": "Chiu-Yuen Koo",
+            "id": "2121358358",
+            "org": "Department of Computer Science, University of Maryland#TAB#"
+        },
+        {
+            "name": "Ruggero Morselli",
+            "id": "1991962138",
+            "org": "Department of Computer Science, University of Maryland#TAB#"
+        },
+        {
+            "name": "Ronen Shaltiel",
+            "id": "264828671",
+            "org": "Department of Computer Science, University of Haifa#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Compiler",
+        "One-way function",
+        "Focal point",
+        "Commitment scheme",
+        "Permutation",
+        "Special case"
+    ],
+    "references": [
+        "44936433",
+        "76185347",
+        "1493969756",
+        "1514617528",
+        "1588297800",
+        "1596546325",
+        "1912765942",
+        "1913384000",
+        "1964089073",
+        "1970259241",
+        "1972129951",
+        "1972792640",
+        "1973527459",
+        "1979281322",
+        "1995926987",
+        "1996888795",
+        "2004881597",
+        "2011112377",
+        "2012045293",
+        "2015880590",
+        "2019038806",
+        "2027528470",
+        "2028483198",
+        "2049198367",
+        "2051250911",
+        "2052207834",
+        "2056002932",
+        "2063844956",
+        "2074594718",
+        "2080137555",
+        "2089592270",
+        "2090227056",
+        "2102526737",
+        "2117362057",
+        "2143490740",
+        "2151413173",
+        "2151433956",
+        "2164284862",
+        "2170795775",
+        "2192121913",
+        "2227130482"
+    ]
+}

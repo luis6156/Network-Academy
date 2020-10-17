@@ -1,0 +1,50 @@
+{
+    "id": "1566528713",
+    "title": "Comments on a Signature Scheme Based on the Third Order LFSR Proposed at ACISP2001",
+    "venue": "international conference on cryptology in india",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Seongan Lim",
+            "id": "2101013755",
+            "org": "KISA (Korea Information Security Agency)"
+        },
+        {
+            "name": "Seungjoo Kim",
+            "id": "2139158536",
+            "org": "KISA (Korea Information Security Agency)"
+        },
+        {
+            "name": "Ikkwon Yie",
+            "id": "1145073166",
+            "org": "Inha University"
+        },
+        {
+            "name": "Jaemoon Kim",
+            "id": "2155348114",
+            "org": "Inha University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Digital Signature Algorithm",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "EdDSA",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1490476950",
+        "1544893529",
+        "1571393139",
+        "1585758456",
+        "1597678101",
+        "2113769315",
+        "2127135098",
+        "2144048023"
+    ]
+}

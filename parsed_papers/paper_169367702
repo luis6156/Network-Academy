@@ -1,0 +1,44 @@
+{
+    "id": "169367702",
+    "title": "Robust 3D Segmentation of Pulmonary Nodules in Multislice CT Images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kazunori Okada",
+            "id": "2253084681",
+            "org": "Siemens Corporate Research, Inc"
+        },
+        {
+            "name": "Dorin Comaniciu",
+            "id": "2054682710",
+            "org": "Siemens Corporate Research, Inc"
+        },
+        {
+            "name": "Arun Krishnan",
+            "id": "2236486307",
+            "org": "Siemens Medical Solutions USA, Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Mean-shift",
+        "Segmentation",
+        "Computed tomography",
+        "Computer vision",
+        "Parametric statistics",
+        "Pattern recognition",
+        "Computer science",
+        "Scale space",
+        "Multislice",
+        "Gradient descent",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1568304908",
+        "1964443764",
+        "2103913463",
+        "2109711012",
+        "2132001627",
+        "2151695813"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1503252551",
+    "title": "Runtime function instrumentation with EZTrace",
+    "venue": "international conference on parallel processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Charles Aulagnon",
+            "id": "2166341588",
+            "org": "ENSEIRB / INRIA Bordeaux Sud-Ouest, France#TAB#"
+        },
+        {
+            "name": "Damien Martin-Guillerez",
+            "id": "188970084",
+            "org": "INRIA Bordeaux Sud-Ouest, France#TAB#"
+        },
+        {
+            "name": "Francois Rue",
+            "id": "2687244332",
+            "org": "INRIA Bordeaux Sud-Ouest, France#TAB#"
+        },
+        {
+            "name": "Francois Trahay",
+            "id": "2778218778",
+            "org": "Institut Mines-Telecom - Telecom SudParis, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "Computer science",
+        "Binary number",
+        "Distributed computing",
+        "Instrumentation",
+        "Exploit",
+        "Real-time computing"
+    ],
+    "references": [
+        "153244122",
+        "1574249939",
+        "1606304418",
+        "2111686839",
+        "2115233357",
+        "2134633067",
+        "2136434791",
+        "2156858199",
+        "2160468841",
+        "2161957670"
+    ]
+}

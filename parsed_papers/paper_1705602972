@@ -1,0 +1,67 @@
+{
+    "id": "1705602972",
+    "title": "Monotone minimal perfect hashing: searching a sorted table with O (1) accesses",
+    "venue": "symposium on discrete algorithms",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Djamal Belazzougui",
+            "id": "89733940",
+            "org": "Institut National d'Informatique, Oued Smar, Algiers, Algeria#TAB#"
+        },
+        {
+            "name": "Paolo Boldi",
+            "id": "252564519",
+            "org": "Universita degli Studi di Milano, Italy#TAB#"
+        },
+        {
+            "name": "Rasmus Pagh",
+            "id": "1864519460",
+            "org": "IT University of Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Sebastiano Vigna",
+            "id": "2010447242",
+            "org": "Universita degli Studi di Milano, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Perfect hash function",
+        "Mathematics",
+        "2-choice hashing",
+        "Dynamic perfect hashing",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Rabin-Karp algorithm",
+        "Hash function",
+        "Trie",
+        "Upper and lower bounds",
+        "Bijection"
+    ],
+    "references": [
+        "16499258",
+        "1481095886",
+        "1536684706",
+        "1548702063",
+        "1566783100",
+        "1703904868",
+        "1891810191",
+        "1985245705",
+        "1986970296",
+        "1993022201",
+        "2001726040",
+        "2018423671",
+        "2052207834",
+        "2055034980",
+        "2059417738",
+        "2079301493",
+        "2080388000",
+        "2090021115",
+        "2095717436",
+        "2100970422",
+        "2139822261",
+        "2149243190",
+        "2165621523",
+        "2295319256"
+    ]
+}

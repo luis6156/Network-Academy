@@ -1,0 +1,37 @@
+{
+    "id": "1482006497",
+    "title": "Recursive estimation with implicit constraints",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Richard Steffen",
+            "id": "2250651619",
+            "org": "Department of Photogrammetry, Bonn University, Germany#TAB#"
+        },
+        {
+            "name": "Christian Beder",
+            "id": "105864013",
+            "org": "Computer Science Department, Kiel University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Recursion",
+        "Implicit function",
+        "Kalman filter",
+        "Homogeneous differential equation",
+        "Bundle adjustment",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1521225408",
+        "1547669723",
+        "1552779774",
+        "1581830452",
+        "1643815198",
+        "1764564563",
+        "2113243634",
+        "2124313187"
+    ]
+}

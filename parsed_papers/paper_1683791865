@@ -1,0 +1,78 @@
+{
+    "id": "1683791865",
+    "title": "vPath: precise discovery of request processing paths from black-box observations of thread and network activities",
+    "venue": "usenix annual technical conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Byung Chul Tak",
+            "id": "2151483007",
+            "org": "Dept. of Computer Science and Engineering, Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Chunqiang Tang",
+            "id": "2110479628",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Chun Zhang",
+            "id": "2628298933",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Sriram Govindan",
+            "id": "2118767760",
+            "org": "Dept. of Computer Science and Engineering, Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Bhuvan Urgaonkar",
+            "id": "146153597",
+            "org": "Dept. of Computer Science and Engineering, Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Rong N. Chang",
+            "id": "2137356319",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Java",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Workload",
+        "Instrumentation",
+        "Middleware",
+        "Real-time computing",
+        "Bottleneck",
+        "Debugging"
+    ],
+    "references": [
+        "1495070269",
+        "1524673069",
+        "1573329052",
+        "1581005283",
+        "1995187905",
+        "1997269120",
+        "2093406244",
+        "2100895597",
+        "2105585248",
+        "2117020308",
+        "2126022651",
+        "2130843735",
+        "2131726714",
+        "2135523252",
+        "2141353180",
+        "2142994777",
+        "2143522309",
+        "2145310476",
+        "2148620466",
+        "2160049438",
+        "2163597489",
+        "2165202235",
+        "2167756215",
+        "2170453481",
+        "2295705535"
+    ]
+}

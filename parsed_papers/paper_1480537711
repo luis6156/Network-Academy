@@ -1,0 +1,66 @@
+{
+    "id": "1480537711",
+    "title": "Bounded model checking of analog and mixed-signal circuits using an SMT solver",
+    "venue": "automated technology for verification and analysis",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Walter",
+            "id": "2106827529",
+            "org": "University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Scott Little",
+            "id": "2342315851",
+            "org": "University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Chris J. Myers",
+            "id": "2153945177",
+            "org": "University of Utah, Salt Lake City, UT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Mixed-signal integrated circuit",
+        "Bounded function",
+        "Petri net",
+        "Hybrid automaton",
+        "Model checking",
+        "Solver",
+        "Satisfiability modulo theories",
+        "Assertion"
+    ],
+    "references": [
+        "1489527380",
+        "1492259997",
+        "1515175581",
+        "1515930456",
+        "1535839566",
+        "1537946603",
+        "1568333198",
+        "1576278728",
+        "1577323490",
+        "1582571943",
+        "1595871524",
+        "1836483134",
+        "1948299783",
+        "1995691455",
+        "2022846948",
+        "2104439088",
+        "2125967324",
+        "2142091551",
+        "2144785157",
+        "2153439859",
+        "2155660165",
+        "2157658705",
+        "2163482209",
+        "2167668895",
+        "2168621995",
+        "2169895193",
+        "2170408876",
+        "2259817465"
+    ]
+}

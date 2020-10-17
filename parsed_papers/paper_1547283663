@@ -1,0 +1,52 @@
+{
+    "id": "1547283663",
+    "title": "Round-Optimal and efficient verifiable secret sharing",
+    "venue": "theory of cryptography conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Matthias Fitzi",
+            "id": "188791285",
+            "org": "Department of Computer Science, Aarhus University, Denmark#TAB#"
+        },
+        {
+            "name": "Juan A. Garay",
+            "id": "2163806572",
+            "org": "Bell Labs - Lucent Technologies, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Shyamnath Gollakota",
+            "id": "2039996270",
+            "org": "Department of Computer Science and Engineering, IIT Madras, India#TAB#"
+        },
+        {
+            "name": "C. Pandu Rangan",
+            "id": "2304742061",
+            "org": "Department of Computer Science and Engineering, IIT Madras, India#TAB#"
+        },
+        {
+            "name": "Kannan Srinathan",
+            "id": "313638259",
+            "org": "International Institute of Information Technology, Hyderabad, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Homomorphic secret sharing",
+        "Verifiable secret sharing",
+        "Weak solution",
+        "Secret sharing",
+        "Open problem",
+        "Variable structure system",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "59079490",
+        "2033376960",
+        "2036133214",
+        "2141420453"
+    ]
+}

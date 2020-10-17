@@ -1,0 +1,37 @@
+{
+    "id": "1492255554",
+    "title": "Evaluating the Performance of MPI-2 Dynamic Communicators and One-Sided Communication",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Edgar Gabriel",
+            "id": "2121272056",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Graham E. Fagg",
+            "id": "2021370764",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee"
+        }
+    ],
+    "fields_of_study": [
+        "Message passing",
+        "Distributed computing",
+        "Computer science",
+        "Implementation"
+    ],
+    "references": [
+        "1487555425",
+        "1502560748",
+        "1551272572",
+        "1581762248",
+        "1969215126",
+        "2081612620"
+    ]
+}

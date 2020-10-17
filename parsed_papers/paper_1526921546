@@ -1,0 +1,72 @@
+{
+    "id": "1526921546",
+    "title": "Solving finite domain constraint hierarchies by local consistency and tree search",
+    "venue": "principles and practice of constraint programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stefano Bistarelli",
+            "id": "337921378",
+            "org": "Istituto di Informatica e Telematica, CNR, Pisa, Italy and Dipartimento di Scienze, Universita degli Studi \"G. D'annunzio\" di Chieti-Pescara, Italy#TAB#"
+        },
+        {
+            "name": "Philippe Codognet",
+            "id": "2292699818",
+            "org": "Department of Computer Science, University of Paris, France#TAB#"
+        },
+        {
+            "name": "Kin-Chuen Hui",
+            "id": "2433279563",
+            "org": "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China#TAB#"
+        },
+        {
+            "name": "Jimmy Ho-Man Lee",
+            "id": "2149689021",
+            "org": "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Constraint satisfaction problem",
+        "Discrete mathematics",
+        "Constraint satisfaction",
+        "Local search (optimization)",
+        "Constrained optimization",
+        "Constraint programming",
+        "Local consistency",
+        "Robustness (computer science)",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "106636391",
+        "142061294",
+        "320393872",
+        "1485061130",
+        "1487478819",
+        "1490489754",
+        "1503308237",
+        "1507843538",
+        "1511182234",
+        "1534298180",
+        "1540782103",
+        "1567384271",
+        "1579120539",
+        "1592998112",
+        "1625396064",
+        "1972307965",
+        "2011617423",
+        "2016321606",
+        "2044405428",
+        "2053637323",
+        "2073536284",
+        "2084041193",
+        "2088407946",
+        "2089683553",
+        "2109992583",
+        "2111476907",
+        "2135432705",
+        "2156525231",
+        "2735451199"
+    ]
+}

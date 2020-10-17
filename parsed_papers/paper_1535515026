@@ -1,0 +1,47 @@
+{
+    "id": "1535515026",
+    "title": "Topology-Aware OpenMP process scheduling",
+    "venue": "international workshop on openmp",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Peter Thoman",
+            "id": "783461622",
+            "org": "Distributed and Parallel Systems Group, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Hans Moritsch",
+            "id": "633685472",
+            "org": "Distributed and Parallel Systems Group, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "Distributed and Parallel Systems Group, University of Innsbruck, Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Computer science",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Multithreading",
+        "Topology",
+        "Runtime system",
+        "Message queue",
+        "Performance improvement",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "140824072",
+        "1591051730",
+        "1600065697",
+        "1997751072",
+        "2081379617",
+        "2125860023",
+        "2159823725",
+        "2169150396"
+    ]
+}

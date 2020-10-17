@@ -1,0 +1,46 @@
+{
+    "id": "1548778197",
+    "title": "Cascade Jump Controlled Sequence Generator and Pomaranch Stream Cipher",
+    "venue": "New Stream Cipher Designs",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Cees J. A. Jansen",
+            "id": "2112867348",
+            "org": "DeltaCrypto BV, EJ Best, The Netherlands 5684#TAB#"
+        },
+        {
+            "name": "Tor Helleseth",
+            "id": "165323264",
+            "org": "The Selmer Center Department of Informatics, University of Bergen, Bergen, Norway N-5020#TAB#"
+        },
+        {
+            "name": "Alexander Kholosha",
+            "id": "693286890",
+            "org": "The Selmer Center Department of Informatics, University of Bergen, Bergen, Norway N-5020#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Block cipher mode of operation",
+        "Rail fence cipher",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Stream cipher",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Real-time computing"
+    ],
+    "references": [
+        "20068738",
+        "162408290",
+        "1504830137",
+        "1581498047",
+        "1832141711",
+        "1833448484",
+        "1987320723",
+        "2113028625",
+        "2130416785"
+    ]
+}

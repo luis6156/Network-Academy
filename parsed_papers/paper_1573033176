@@ -1,0 +1,66 @@
+{
+    "id": "1573033176",
+    "title": "A comparative study of online scheduling algorithms for networks of workstations",
+    "venue": "Cluster Computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Olaf Arndt",
+            "id": "2514467892",
+            "org": "Department of Electrical Engineering and Computer Science, University of Siegen, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Freisleben",
+            "id": "2466281398",
+            "org": "Department of Electrical Engineering and Computer Science, University of Siegen, Germany#TAB#"
+        },
+        {
+            "name": "Thilo Kielmann",
+            "id": "2000018466",
+            "org": "Department of Mathematics and Computer Science, Vrije Universiteit, Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Frank Thilo",
+            "id": "2073658570",
+            "org": "Department of Electrical Engineering and Computer Science, University of Siegen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "12422104",
+        "1487076132",
+        "1510543252",
+        "1514554472",
+        "1523728617",
+        "1581344573",
+        "1603527427",
+        "1649024243",
+        "2038303146",
+        "2043381104",
+        "2047150311",
+        "2071075503",
+        "2079714480",
+        "2083734282",
+        "2117170988",
+        "2121783824",
+        "2140332639",
+        "2142932691",
+        "2148204686",
+        "2150303942",
+        "2151361215",
+        "2156722762",
+        "2160544331"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1574619912",
+    "title": "Memoryless Related-Key Boomerang Attack on the Full Tiger Block Cipher",
+    "venue": "information security practice and experience",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ewan Fleischmann",
+            "id": "2040230289",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        },
+        {
+            "name": "Michael Gorski",
+            "id": "1995947717",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2250691467",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Tiger",
+        "Residual block termination",
+        "Computer security",
+        "Slide attack",
+        "Triple DES",
+        "Stream cipher attack",
+        "CBC-MAC"
+    ],
+    "references": [
+        "52191336",
+        "1515958737",
+        "1526950753",
+        "1549228503",
+        "1590624619",
+        "1591620981",
+        "1596301089",
+        "1600432225",
+        "1629301835",
+        "1991897749",
+        "2103658386",
+        "2154759077"
+    ]
+}

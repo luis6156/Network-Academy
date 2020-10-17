@@ -1,0 +1,42 @@
+{
+    "id": "1483843129",
+    "title": "Controlling concurrent accesses in multimedia databases for decision support",
+    "venue": "advances in multimedia",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Woochun Jun",
+            "id": "2159814393",
+            "org": "Dept. of Computer Education, Seoul National University of Education, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Suk-ki Hong",
+            "id": "2131467461",
+            "org": "Division of Business & Economics, Dankook University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-phase locking",
+        "Online transaction processing",
+        "Non-lock concurrency control",
+        "Schedule (computer science)",
+        "Serializability",
+        "Distributed computing",
+        "Computer science",
+        "Distributed transaction",
+        "Database",
+        "Multimedia",
+        "Real-time computing",
+        "Index locking",
+        "Database transaction"
+    ],
+    "references": [
+        "1485212512",
+        "1533048705",
+        "1545155892",
+        "1626680733",
+        "2119059276",
+        "2159992382",
+        "2160017790"
+    ]
+}

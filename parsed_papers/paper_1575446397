@@ -1,0 +1,60 @@
+{
+    "id": "1575446397",
+    "title": "Side-channel leakage of masked CMOS gates",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stefan Mangard",
+            "id": "339490103",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Popp",
+            "id": "2137618640",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Berndt Gammel",
+            "id": "295323216",
+            "org": "Infineon Technolgies AG, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic engineering",
+        "CMOS",
+        "Side channel attack",
+        "Logic gate",
+        "Computer science",
+        "Distributed computing",
+        "Glitch",
+        "Telecommunications",
+        "AND-OR-Invert",
+        "Electronic circuit",
+        "Digital electronics",
+        "Three-input universal logic gate"
+    ],
+    "references": [
+        "83781150",
+        "108606907",
+        "130371449",
+        "1481603678",
+        "1485872766",
+        "1512062395",
+        "1548656471",
+        "1560093457",
+        "1560519124",
+        "1565369953",
+        "1592625985",
+        "2099179520",
+        "2099724084",
+        "2105114022",
+        "2112002249",
+        "2112244944",
+        "2144630005",
+        "2145829971",
+        "2148862943",
+        "2154909745",
+        "2612208439"
+    ]
+}

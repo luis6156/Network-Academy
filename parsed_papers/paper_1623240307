@@ -1,0 +1,66 @@
+{
+    "id": "1623240307",
+    "title": "Compromising Tor Anonymity Exploiting P2P Information Leakage",
+    "venue": "arXiv: Networking and Internet Architecture",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Pere Manils",
+            "id": "291467273",
+            "org": "French Institute for Research in Computer Science and Automation"
+        },
+        {
+            "name": "Chaabane Abdelberi",
+            "id": "2269085857",
+            "org": "All - INRIA Sophia Antipolis / INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Stevens Le Blond",
+            "id": "2776481176",
+            "org": "All - INRIA Sophia Antipolis / INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Mohamed Ali Kaafar",
+            "id": "2004245999",
+            "org": "All - INRIA Sophia Antipolis / INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Claude Castelluccia",
+            "id": "227365023",
+            "org": "All - INRIA Sophia Antipolis / INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Arnaud Legout",
+            "id": "1935905282",
+            "org": "All - INRIA Sophia Antipolis / INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Walid Dabbous",
+            "id": "2088573606",
+            "org": "All - INRIA Sophia Antipolis / INRIA Rhone-Alpes"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Computer science",
+        "Anonymity",
+        "Computer security",
+        "BitTorrent",
+        "Information leakage",
+        "Computer network",
+        "Internet privacy"
+    ],
+    "references": [
+        "1526472062",
+        "1545050218",
+        "1606058619",
+        "1655958391",
+        "1989993068",
+        "2005708967",
+        "2095976990",
+        "2099868491",
+        "2119245106",
+        "2123735079",
+        "2146539853"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1579966008",
+    "title": "A remark on signature scheme where forgery can be proved",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Gerrit Bleumer",
+            "id": "2682886558",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Birgit Pfitzmann",
+            "id": "2574976859",
+            "org": "Universitat Karlsruhe"
+        },
+        {
+            "name": "Michael Waidner",
+            "id": "2004230566",
+            "org": "Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "319917506",
+        "1493969756",
+        "1512372863",
+        "1564775601",
+        "1600255172",
+        "2005725110",
+        "2151413173",
+        "2156186849"
+    ]
+}

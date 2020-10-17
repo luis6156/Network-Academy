@@ -1,0 +1,40 @@
+{
+    "id": "1515560342",
+    "title": "MSQL: A Query Language for Database Mining",
+    "venue": "Data Mining and Knowledge Discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Tomasz Imielinski",
+            "id": "152915441",
+            "org": "Rutgers University, Department of Computer Science, New Brunswick, NJ 08903 USA. imielins@cs.rutgers.edu#TAB#"
+        },
+        {
+            "name": "Aashu Virmani",
+            "id": "2060894305",
+            "org": "Rutgers University, Department of Computer Science, New Brunswick, NJ 08903 USA. avirmani@cs.rutgers.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Query expansion",
+        "Computer science",
+        "Data mining",
+        "Query language",
+        "RDF query language",
+        "Query by Example",
+        "Database",
+        "SQL",
+        "Association rule learning",
+        "Query optimization"
+    ],
+    "references": [
+        "1539916429",
+        "1823692244",
+        "2052629503",
+        "2064803206",
+        "2085638007",
+        "2126256482",
+        "2166559705"
+    ]
+}

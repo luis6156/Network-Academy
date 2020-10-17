@@ -1,0 +1,72 @@
+{
+    "id": "162658627",
+    "title": "An $O\\sqrt n$ Space Bound for Obstruction-Free Leader Election",
+    "venue": "international symposium on distributed computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "George Giakkoupis",
+            "id": "2254889783",
+            "org": "INRIA Rennes - Bretagne Atlantic, France#TAB#"
+        },
+        {
+            "name": "Maryam Helmi",
+            "id": "2157748006",
+            "org": "Department of Computer Science, University of Calgary, Canada#TAB#"
+        },
+        {
+            "name": "Lisa Higham",
+            "id": "2171052312",
+            "org": "Department of Computer Science, University of Calgary, Canada#TAB#"
+        },
+        {
+            "name": "Philipp Woelfel",
+            "id": "675136303",
+            "org": "Department of Computer Science, University of Calgary, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Randomized algorithm",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Test-and-set",
+        "Open problem",
+        "Adversary",
+        "Upper and lower bounds",
+        "Polynomial",
+        "Leader election"
+    ],
+    "references": [
+        "36843754",
+        "1525123207",
+        "1554388936",
+        "1651545195",
+        "1672483193",
+        "1795399553",
+        "1818190495",
+        "1966074520",
+        "1977697792",
+        "1981367703",
+        "1993805917",
+        "2011256599",
+        "2012971222",
+        "2029701567",
+        "2030205622",
+        "2031281709",
+        "2034229945",
+        "2035362408",
+        "2042141409",
+        "2043462337",
+        "2054439685",
+        "2076575129",
+        "2085407655",
+        "2117197582",
+        "2126708852",
+        "2134091651",
+        "2146013153",
+        "2294148481",
+        "2567788443",
+        "2611515161"
+    ]
+}

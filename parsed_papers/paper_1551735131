@@ -1,0 +1,32 @@
+{
+    "id": "1551735131",
+    "title": "NewsCache: a high performance cache implementation for Usenet news",
+    "venue": "usenix annual technical conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Thomas Gschwind",
+            "id": "2892658017",
+            "org": "Distributed Systems Group, Technische Universitat Wien, Wien, Austria, Europe#TAB#"
+        },
+        {
+            "name": "Manfred Hauswirth",
+            "id": "1707762433",
+            "org": "Distributed Systems Group, Technische Universitat Wien, Wien, Austria, Europe#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Computer science",
+        "Implementation",
+        "Disk storage",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "201663540",
+        "1579008244",
+        "2050923818",
+        "2611598995"
+    ]
+}

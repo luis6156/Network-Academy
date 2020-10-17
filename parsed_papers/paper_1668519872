@@ -1,0 +1,61 @@
+{
+    "id": "1668519872",
+    "title": "Dynamic resource management and automatic configuration of distributed component systems",
+    "venue": "usenix conference on object oriented technologies and systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Fabio Kon",
+            "id": "2011487051",
+            "org": "Department of Computer Sciene, University of Sao Paulo, Brazil#TAB#"
+        },
+        {
+            "name": "Tomonori Yamane",
+            "id": "2098994521",
+            "org": "Energy and Industrial Systems Center, Mitsubishi Electric Corporation#TAB#"
+        },
+        {
+            "name": "Christopher K. Hess",
+            "id": "2150264920",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Roy H. Campbell",
+            "id": "2252067276",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "M. Dennis Mickunas",
+            "id": "1976667196",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Code reuse",
+        "Computer science",
+        "Distributed computing",
+        "Presentation-abstraction-control",
+        "Common Component Architecture",
+        "Real-time computing",
+        "Component diagram",
+        "Component-based software engineering",
+        "Component (UML)",
+        "Architecture"
+    ],
+    "references": [
+        "22745392",
+        "1559974210",
+        "1567498567",
+        "1992834305",
+        "1995156790",
+        "2059496390",
+        "2096331040",
+        "2099650053",
+        "2115716396",
+        "2125294767",
+        "2136191467",
+        "2145407738",
+        "2802123926"
+    ]
+}

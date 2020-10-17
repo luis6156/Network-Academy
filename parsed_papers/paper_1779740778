@@ -1,0 +1,93 @@
+{
+    "id": "1779740778",
+    "title": "Loop transformation recipes for code generation and auto-tuning",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Mary W. Hall",
+            "id": "2125314167",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Jacqueline Chame",
+            "id": "318460044",
+            "org": "USC/Information Sciences Institute, Marina del Rey, CA#TAB#"
+        },
+        {
+            "name": "Chun Chen",
+            "id": "2303761552",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Jaewook Shin",
+            "id": "2231712949",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Gabe Rudy",
+            "id": "2123425572",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Malik Murtaza Khan",
+            "id": "2151290137",
+            "org": "USC/Information Sciences Institute, Marina del Rey, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Software development",
+        "Software",
+        "Memory hierarchy",
+        "Computer science",
+        "Compiler",
+        "Implementation",
+        "CUDA",
+        "Code generation"
+    ],
+    "references": [
+        "1509875415",
+        "1518911419",
+        "1545258949",
+        "1580643653",
+        "1623282124",
+        "1844404537",
+        "1876394617",
+        "1964031104",
+        "1964477602",
+        "1973359136",
+        "1998351670",
+        "2007451249",
+        "2031775479",
+        "2038543880",
+        "2038945443",
+        "2042629708",
+        "2046351222",
+        "2049919788",
+        "2052934867",
+        "2058502494",
+        "2067202220",
+        "2069738303",
+        "2071110673",
+        "2076848169",
+        "2080302884",
+        "2102182691",
+        "2104736438",
+        "2107404972",
+        "2108315152",
+        "2112502633",
+        "2119609467",
+        "2119691711",
+        "2121546953",
+        "2138007781",
+        "2139143992",
+        "2147505032",
+        "2152506070",
+        "2158626113",
+        "2159309967",
+        "2252549844"
+    ]
+}

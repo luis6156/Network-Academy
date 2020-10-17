@@ -1,0 +1,55 @@
+{
+    "id": "174467016",
+    "title": "Distinguishers beyond three rounds of the RIPEMD-128/-160 compression functions",
+    "venue": "applied cryptography and network security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Secure Platform Laboratories, NTT Corporation, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Lei Wang",
+            "id": "2713716783",
+            "org": "The University of Electro-Communications, Choufu-shi, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Discrete mathematics",
+        "Computer science",
+        "Compression (physics)",
+        "RIPEMD",
+        "Hash function",
+        "Collision"
+    ],
+    "references": [
+        "6911803",
+        "52191336",
+        "63858338",
+        "156288296",
+        "203744710",
+        "1503389453",
+        "1521253015",
+        "1530387410",
+        "1545347659",
+        "1548701190",
+        "1551023902",
+        "1554865288",
+        "1566855226",
+        "1592536452",
+        "1603433154",
+        "1656731780",
+        "1838677899",
+        "2103239853",
+        "2104633167",
+        "2105156354",
+        "2119481050",
+        "2153971105",
+        "2237954062",
+        "2276662475",
+        "2525966718"
+    ]
+}

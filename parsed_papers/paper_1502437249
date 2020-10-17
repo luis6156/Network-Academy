@@ -1,0 +1,39 @@
+{
+    "id": "1502437249",
+    "title": "Search Space Reduction for Constraint Optimization Problems",
+    "venue": "principles and practice of constraint programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kenil C. K. Cheng",
+            "id": "2123544914",
+            "org": "School of Computing, National University of Singapore,#TAB#"
+        },
+        {
+            "name": "Roland H. C. Yap",
+            "id": "2249085170",
+            "org": "School of Computing, National University of Singapore,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Beam search",
+        "Encoding (memory)",
+        "Computer science",
+        "Constraint satisfaction",
+        "Objective variables",
+        "Constrained optimization",
+        "Local consistency",
+        "Backtracking line search",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "205289233",
+        "1529857317",
+        "1535845781",
+        "1575934621",
+        "2099980081",
+        "2115305364",
+        "2122814012"
+    ]
+}

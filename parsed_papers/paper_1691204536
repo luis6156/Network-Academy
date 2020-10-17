@@ -1,0 +1,71 @@
+{
+    "id": "1691204536",
+    "title": "Localizing defects in multithreaded programs by mining dynamic call graphs",
+    "venue": "TAIC PART'10 Proceedings of the 5th international academic and industrial conference on Testing - practice and research techniques",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Frank Eichinger",
+            "id": "2060963310",
+            "org": "Karlsruhe Institute of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Victor Pankratius",
+            "id": "179440148",
+            "org": "Karlsruhe Institute of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Philipp W. L. Grosse",
+            "id": "2636210830",
+            "org": "SAP AG, Walldorf, Germany#TAB#"
+        },
+        {
+            "name": "Klemens Bohm",
+            "id": "2245547659",
+            "org": "Karlsruhe Institute of Technology, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Software",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Graph",
+        "Race condition",
+        "Synchronization",
+        "Call graph",
+        "Debugging"
+    ],
+    "references": [
+        "631140850",
+        "1519426318",
+        "1574060188",
+        "1598567364",
+        "1610570299",
+        "1616338336",
+        "1767990287",
+        "1854866626",
+        "1972544179",
+        "1989657183",
+        "1994816063",
+        "1996182867",
+        "2016314068",
+        "2016323637",
+        "2099471229",
+        "2101161997",
+        "2105300539",
+        "2111686839",
+        "2116163025",
+        "2125055259",
+        "2125571188",
+        "2127989655",
+        "2128274900",
+        "2142647473",
+        "2149984854",
+        "2159765571",
+        "2162045655",
+        "2172154252"
+    ]
+}

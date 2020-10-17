@@ -1,0 +1,68 @@
+{
+    "id": "1490242103",
+    "title": "Threshold password-based authenticated group key exchange in gateway-oriented setting",
+    "venue": "information security practice and experience",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hui Li",
+            "id": "2711707712",
+            "org": "State Key Laboratory Of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Chuankun Wu",
+            "id": "2664498624",
+            "org": "State Key Laboratory Of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Lingbo Wei",
+            "id": "2627452348",
+            "org": "School of Electronics and Information Engineering, Beihang University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Syskey",
+        "Password strength",
+        "Computer science",
+        "Computer security",
+        "Encrypted key exchange",
+        "One-time password"
+    ],
+    "references": [
+        "203500824",
+        "1486852732",
+        "1495266644",
+        "1516161674",
+        "1552776858",
+        "1566273181",
+        "1595293097",
+        "1646354800",
+        "1773254929",
+        "1837822405",
+        "1866147697",
+        "1895302964",
+        "1969602416",
+        "1981689534",
+        "1991621171",
+        "2011793105",
+        "2091020476",
+        "2095841131",
+        "2110804296",
+        "2111443676",
+        "2117307660",
+        "2124371582",
+        "2124926080",
+        "2133379773",
+        "2133432179",
+        "2134475940",
+        "2134679597",
+        "2168967576",
+        "2169194339",
+        "2493686639",
+        "2610545452"
+    ]
+}

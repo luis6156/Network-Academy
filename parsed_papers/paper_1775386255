@@ -1,0 +1,35 @@
+{
+    "id": "1775386255",
+    "title": "dlvhex-sparql: A SPARQL-compliant query engine based on dlvhex",
+    "venue": "ALPSWS",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Axel Polleres",
+            "id": "2167869104",
+            "org": "DERI Galway|National University of Ireland"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Query expansion",
+        "Data control language",
+        "Computer science",
+        "Query language",
+        "RDF query language",
+        "Database",
+        "SPARQL",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1486078789",
+        "1487836550",
+        "1560159331",
+        "1584248945",
+        "2076698873",
+        "2131785201",
+        "2134498623",
+        "2136793698"
+    ]
+}

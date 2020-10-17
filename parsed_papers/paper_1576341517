@@ -1,0 +1,40 @@
+{
+    "id": "1576341517",
+    "title": "Automated test generation from SDL specifications",
+    "venue": "SDL '99#R##N#The Next Millennium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Alain Kerbrat",
+            "id": "2012813285",
+            "org": "Verilog, 150 rue Nicolas Vauquelin, BP1310, 31106 Toulouse cedex, France"
+        },
+        {
+            "name": "Thierry Jeron",
+            "id": "1998327350",
+            "org": "Irisa, Campus de Beaulieu, 35042 Rennes Cedex, France"
+        },
+        {
+            "name": "Roland Groz",
+            "id": "2469346441",
+            "org": "France-Telecom-CNET, technopole Anticipa, 2 avenue Pierre Marzin, 22307 Lannion Cedex France"
+        }
+    ],
+    "fields_of_study": [
+        "Test suite",
+        "Test Management Approach",
+        "TTCN",
+        "Heuristics",
+        "Formal specification",
+        "Test harness",
+        "Conformance testing",
+        "Systems engineering",
+        "Correctness",
+        "Engineering"
+    ],
+    "references": [
+        "2007672174",
+        "2024851598",
+        "2118382442"
+    ]
+}

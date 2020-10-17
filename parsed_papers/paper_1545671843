@@ -1,0 +1,49 @@
+{
+    "id": "1545671843",
+    "title": "Acquiring constraint networks using a SAT-based version space algorithm",
+    "venue": "national conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Christian Bessiere",
+            "id": "2168734674",
+            "org": "LIRMM, CNRS, University of Montpellier, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Remi Coletta",
+            "id": "2076805333",
+            "org": "LIRMM, CNRS, University of Montpellier, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Frederic Koriche",
+            "id": "678975278",
+            "org": "LIRMM, CNRS, University of Montpellier, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Barry O'Sullivan",
+            "id": "2117866204",
+            "org": "Cork Constraint Computation Centre, University College Cork, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Difference-map algorithm",
+        "Algorithm",
+        "Computer science",
+        "Min-conflicts algorithm",
+        "Constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Backtracking",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1523751874",
+        "1776181708",
+        "2009207944",
+        "2118646752"
+    ]
+}

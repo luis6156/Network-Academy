@@ -1,0 +1,44 @@
+{
+    "id": "1493148263",
+    "title": "PMOS: A Complete and Coarse-Grained Incremental Garbage Collector for Persistent Object Stores.",
+    "venue": "POS",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "J. Eliot B. Moss",
+            "id": "2159697352",
+            "org": "University of Massachusetts Amherst"
+        },
+        {
+            "name": "David S. Munro",
+            "id": "2164202077",
+            "org": "University of Massachusetts Amherst"
+        },
+        {
+            "name": "Richard L. Hudson",
+            "id": "2293368539",
+            "org": "University of St Andrews"
+        }
+    ],
+    "fields_of_study": [
+        "Address space",
+        "Computer science",
+        "Object storage",
+        "Persistent object store",
+        "Garbage collection",
+        "Limiting",
+        "Memory management",
+        "Garbage",
+        "Real-time computing",
+        "PMOS logic"
+    ],
+    "references": [
+        "22007943",
+        "1484117294",
+        "1552730607",
+        "1587813347",
+        "2008172181",
+        "2109176348",
+        "2132142786"
+    ]
+}

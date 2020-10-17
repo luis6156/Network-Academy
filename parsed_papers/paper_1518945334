@@ -1,0 +1,67 @@
+{
+    "id": "1518945334",
+    "title": "Securing publish/subscribe for multi-domain systems",
+    "venue": "acm ifip usenix international conference on middleware",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jean Bacon",
+            "id": "2162937838",
+            "org": "University of Cambridge Computer Laboratory, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "David M. Eyers",
+            "id": "589800637",
+            "org": "University of Cambridge Computer Laboratory, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Ken Moody",
+            "id": "2258298444",
+            "org": "University of Cambridge Computer Laboratory, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Lauri I. W. Pesonen",
+            "id": "2001511745",
+            "org": "University of Cambridge Computer Laboratory, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Cryptography",
+        "Access control",
+        "Information privacy",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Role-based access control",
+        "Publication",
+        "Systems management"
+    ],
+    "references": [
+        "180719159",
+        "1492040236",
+        "1562699268",
+        "1570879214",
+        "1607377529",
+        "1733713784",
+        "1982833480",
+        "1987277966",
+        "2000952251",
+        "2009168546",
+        "2015432046",
+        "2040325382",
+        "2081041822",
+        "2098931293",
+        "2106502295",
+        "2112358122",
+        "2116347193",
+        "2131185826",
+        "2131975004",
+        "2139485958",
+        "2142227551",
+        "2162651847",
+        "2166602595",
+        "2167898414",
+        "2501849041"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1572628225",
+    "title": "Ring signature based on elgamal signature",
+    "venue": "wireless algorithms systems and applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jian Ren",
+            "id": "2168831391",
+            "org": "Michigan State University, East Landing, MI#TAB#"
+        },
+        {
+            "name": "Lein Harn",
+            "id": "724618227",
+            "org": "University of Missouri-Kansas City, MO#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "KCDSA",
+        "Distributed computing",
+        "EdDSA",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1484826441",
+        "1505286256",
+        "1550910269",
+        "1590696383",
+        "1638799436",
+        "1646354800",
+        "2108834246",
+        "2129483619",
+        "2151413173",
+        "2400077548"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1481344031",
+    "title": "GDS resource record: generalization ofthe delegation signer model",
+    "venue": "international conference on networking",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gilles Guette",
+            "id": "2721148904",
+            "org": "IRISA, Rennes CEDEX, France#TAB#"
+        },
+        {
+            "name": "Bernard Cousin",
+            "id": "1990580318",
+            "org": "IRISA, Rennes CEDEX, France#TAB#"
+        },
+        {
+            "name": "David Fort",
+            "id": "2716807833",
+            "org": "IRISA, Rennes CEDEX, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "DNS root zone",
+        "Domain Name System Security Extensions",
+        "DNS hijacking",
+        "Computer science",
+        "Distributed computing",
+        "Zone file",
+        "DNS zone transfer",
+        "nsupdate",
+        "Computer network",
+        "DNS spoofing",
+        "DNS zone"
+    ],
+    "references": [
+        "1552489884",
+        "1667466877",
+        "2111427271",
+        "2185716769"
+    ]
+}

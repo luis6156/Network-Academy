@@ -1,0 +1,51 @@
+{
+    "id": "1480370622",
+    "title": "A Relational Approach to Interprocedural Shape Analysis",
+    "venue": "static analysis symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Bertrand Jeannet",
+            "id": "246748810",
+            "org": "IRISA"
+        },
+        {
+            "name": "Alexey Loginov",
+            "id": "2107791442",
+            "org": "University of Wisconsin"
+        },
+        {
+            "name": "Thomas W. Reps",
+            "id": "341386833",
+            "org": "University of Wisconsin"
+        },
+        {
+            "name": "Mooly Sagiv",
+            "id": "1345056057",
+            "org": "Tel Aviv University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Recursion",
+        "Pointer (computer programming)",
+        "Static analysis",
+        "Computer science",
+        "Shape analysis (digital geometry)",
+        "Dataflow",
+        "Data flow diagram",
+        "Imperative programming"
+    ],
+    "references": [
+        "1483359125",
+        "1585404558",
+        "1593165330",
+        "1991837261",
+        "2004419599",
+        "2021986357",
+        "2069969904",
+        "2080573945",
+        "2092507068",
+        "2770491639"
+    ]
+}

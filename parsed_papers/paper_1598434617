@@ -1,0 +1,51 @@
+{
+    "id": "1598434617",
+    "title": "Kalman Filtering for Frame-by-Frame CT to Ultrasound Rigid Registration",
+    "venue": "international conference on medical imaging and augmented reality",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Haydar Talib",
+            "id": "2099246868",
+            "org": "MEM Research Center, Institute for Surgical Technology and Biomechanics, University of Bern, Switzerland#TAB#"
+        },
+        {
+            "name": "Matthias Peterhans",
+            "id": "1761358526",
+            "org": "MEM Research Center, Institute for Surgical Technology and Biomechanics, University of Bern, Switzerland#TAB#"
+        },
+        {
+            "name": "Jaime Garcia",
+            "id": "2107753534",
+            "org": "MEM Research Center, Institute for Surgical Technology and Biomechanics, University of Bern, Switzerland#TAB#"
+        },
+        {
+            "name": "Martin Styner",
+            "id": "2060185383",
+            "org": "Departments of Computer Science and Psychiatry, Neurodevelopmental Disorders Research Center, University of North Carolina at Chapel Hill, USA#TAB#"
+        },
+        {
+            "name": "Miguel Angel Gonzalez Ballester",
+            "id": "2893820554",
+            "org": "MEM Research Center, Institute for Surgical Technology and Biomechanics, University of Bern, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Computer science",
+        "Ground truth",
+        "Simultaneous localization and mapping",
+        "Extended Kalman filter",
+        "Alpha beta filter",
+        "Registration procedure",
+        "Kalman filter",
+        "Moving horizon estimation",
+        "Fast Kalman filter",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526891024",
+        "2137596640",
+        "2170161529"
+    ]
+}

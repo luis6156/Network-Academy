@@ -1,0 +1,48 @@
+{
+    "id": "1551989015",
+    "title": "DPA attack on the improved ha-moon algorithm",
+    "venue": "workshop on information security applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jong Hoon Shin",
+            "id": "2100348427",
+            "org": "Information Security Laboratory, Dept. of EEE, Postech, Pohang, Korea#TAB#"
+        },
+        {
+            "name": "Dong Jin Park",
+            "id": "2142341456",
+            "org": "Information Security Laboratory, Dept. of EEE, Postech, Pohang, Korea#TAB#"
+        },
+        {
+            "name": "Pil Joong Lee",
+            "id": "2139910894",
+            "org": "Information Security Laboratory, Dept. of EEE, Postech, Pohang, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Algorithm",
+        "Exponentiation",
+        "Countermeasure",
+        "Cryptanalysis",
+        "Computer science",
+        "Computer security",
+        "Power analysis",
+        "Modular exponentiation",
+        "Addition chain"
+    ],
+    "references": [
+        "1500693694",
+        "1511843316",
+        "1515945839",
+        "1521260929",
+        "1532287828",
+        "1551523997",
+        "1664808737",
+        "2122485219",
+        "2141469508",
+        "2148862943",
+        "2154909745"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1689759318",
+    "title": "Parallel implementation of a VQ-Based text-independent speaker identification",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ruhsar Soganci",
+            "id": "2512085103",
+            "org": "Department of Computer Engineering, Bogazici University Bebek, Istanbul, Turkey#TAB#"
+        },
+        {
+            "name": "Fikret S. Gurgen",
+            "id": "21058305",
+            "org": "Department of Computer Engineering, Bogazici University Bebek, Istanbul, Turkey#TAB#"
+        },
+        {
+            "name": "Haluk Rahmi Topcuoglu",
+            "id": "275184514",
+            "org": "Department of Computer Engineering, Marmara University, Goztepe, Istanbul, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System identification",
+        "Speedup",
+        "Cepstrum",
+        "Discrete mathematics",
+        "Parallel algorithm",
+        "Computer science",
+        "Pattern recognition",
+        "Mel-frequency cepstrum",
+        "Vector quantization",
+        "Speech recognition",
+        "Speaker recognition",
+        "Feature extraction",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1525353239",
+        "1568043174"
+    ]
+}

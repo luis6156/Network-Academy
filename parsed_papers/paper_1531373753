@@ -1,0 +1,40 @@
+{
+    "id": "1531373753",
+    "title": "Comparison of dense stereo using CUDA",
+    "venue": "european conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ke Zhu",
+            "id": "2238375904",
+            "org": "Remote Sensing Technology, Technische Universit#TAB#"
+        },
+        {
+            "name": "Matthias Butenuth",
+            "id": "2576485387",
+            "org": "Active Safety and Driver Assistance, IAV GmbH, Germany#TAB#"
+        },
+        {
+            "name": "Pablo d'Angelo",
+            "id": "2165422049",
+            "org": "Remote Sensing Technology Institute, German Aerospace Center (DLR), Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Architecture",
+        "CUDA",
+        "Sum of absolute differences"
+    ],
+    "references": [
+        "1557515246",
+        "1762731526",
+        "2104974755",
+        "2117248802",
+        "2128357735",
+        "2141332006"
+    ]
+}

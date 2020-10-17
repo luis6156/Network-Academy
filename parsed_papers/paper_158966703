@@ -1,0 +1,33 @@
+{
+    "id": "158966703",
+    "title": "RedAlert: A Scalable System for Application Monitoring",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Eric Sorenson",
+            "id": "2644236097",
+            "org": "Explosive Networking#TAB#"
+        },
+        {
+            "name": "Strata Rose Chalup",
+            "id": "2285652228",
+            "org": "VirtualNet#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Message format",
+        "Daemon",
+        "Pager",
+        "Computer science",
+        "Perl",
+        "Plug-in",
+        "Real-time computing",
+        "Stateful firewall",
+        "Simple Network Management Protocol"
+    ],
+    "references": [
+        "1910673522"
+    ]
+}

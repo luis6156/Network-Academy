@@ -1,0 +1,70 @@
+{
+    "id": "1705735391",
+    "title": "Identity Based Undeniable Signatures",
+    "venue": "the cryptographers' track at the rsa conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Benoit Libert",
+            "id": "2004097371",
+            "org": "UCL Crypto Group"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Mathematics",
+        "Oracle",
+        "Invisibility",
+        "Discrete mathematics",
+        "Undeniable signature",
+        "Random oracle",
+        "Diffie-Hellman key exchange",
+        "ID-based cryptography",
+        "Provable security"
+    ],
+    "references": [
+        "19738084",
+        "130818507",
+        "1495266644",
+        "1500682127",
+        "1510931043",
+        "1526844866",
+        "1541330898",
+        "1569083856",
+        "1583512970",
+        "1589034595",
+        "1589586740",
+        "1590696383",
+        "1591524234",
+        "1595153681",
+        "1607933920",
+        "1608511627",
+        "1610688607",
+        "1643928249",
+        "1751556912",
+        "1797206029",
+        "1911825786",
+        "2015453719",
+        "2052267638",
+        "2054701830",
+        "2071734666",
+        "2086042811",
+        "2098996144",
+        "2100460660",
+        "2112914778",
+        "2121092967",
+        "2132022887",
+        "2134105822",
+        "2148437174",
+        "2152924492",
+        "2153193245",
+        "2166462813",
+        "2169194339",
+        "2612087312"
+    ]
+}

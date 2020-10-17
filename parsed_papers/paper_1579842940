@@ -1,0 +1,63 @@
+{
+    "id": "1579842940",
+    "title": "A pseudo-boolean programming approach for computing the breakpoint distance between two genomes with duplicate genes",
+    "venue": "research in computational molecular biology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sebastien Angibaud",
+            "id": "169364287",
+            "org": "Laboratoire d'Informatique de Nantes-Atlantique, FRE, CNRS, Universite de Nantes, Nantes Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Guillaume Fertin",
+            "id": "64483735",
+            "org": "Laboratoire d'Informatique de Nantes-Atlantique, FRE, CNRS, Universite de Nantes, Nantes Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Irena Rusu",
+            "id": "1985834514",
+            "org": "Laboratoire d'Informatique de Nantes-Atlantique, FRE, CNRS, Universite de Nantes, Nantes Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Annelyse Thevenin",
+            "id": "2598455076",
+            "org": "Laboratoire de Recherche en Informatique, UMR, CNRS, Faculte des Sciences d'Orsay, Universite Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Stephane Vialette",
+            "id": "49020851",
+            "org": "Laboratoire de Recherche en Informatique, UMR, CNRS, Faculte des Sciences d'Orsay, Universite Paris-Sud, Orsay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Genetics",
+        "Biology",
+        "Gene duplication",
+        "Genome",
+        "Heuristics",
+        "Gene",
+        "Matching (graph theory)",
+        "Comparative genomics",
+        "Bioinformatics",
+        "Adjacency list",
+        "Permutation"
+    ],
+    "references": [
+        "1479777405",
+        "1507091143",
+        "1525914985",
+        "1532397568",
+        "1555413501",
+        "1573866825",
+        "1604502977",
+        "2030568492",
+        "2096466922",
+        "2103184499",
+        "2112858958",
+        "2116758077",
+        "2142096960",
+        "2147442986",
+        "2151053705"
+    ]
+}

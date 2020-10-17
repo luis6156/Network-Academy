@@ -1,0 +1,43 @@
+{
+    "id": "1522195154",
+    "title": "HEDup: Secure Deduplication with Homomorphic Encryption",
+    "venue": "networking architecture and storages",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Rodel Miguel",
+            "id": "2223014829",
+            "org": "Data Centre Technologies Division, Data Storage Institute - A*STAR, Singapore"
+        },
+        {
+            "name": "Khin Mi Mi Aung",
+            "id": "1593226246",
+            "org": "Data Centre Technologies Division, Data Storage Institute - A*STAR, Singapore"
+        },
+        {
+            "name": "Mediana",
+            "id": "2223260964",
+            "org": "School of Computer Engineering, Nanyang Technological University, Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Keyfile",
+        "40-bit encryption",
+        "Client-side encryption",
+        "Computer science",
+        "Encryption",
+        "Data deduplication",
+        "56-bit encryption",
+        "On-the-fly encryption",
+        "Computer network"
+    ],
+    "references": [
+        "1519809459",
+        "1969949656",
+        "2009191935",
+        "2055729367",
+        "2109026747",
+        "2165257856"
+    ]
+}

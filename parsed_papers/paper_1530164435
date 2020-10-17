@@ -1,0 +1,51 @@
+{
+    "id": "1530164435",
+    "title": "Hashing Backoff: A Collision-Free Wireless Access Method",
+    "venue": "international ifip tc networking conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Paul Starzetz",
+            "id": "1239198448",
+            "org": "Grenoble Informatics Laboratory (LIG), Saint Martin d'Heres Cedex, France 38402#TAB#"
+        },
+        {
+            "name": "Martin Heusse",
+            "id": "2100156261",
+            "org": "Grenoble Informatics Laboratory (LIG), Saint Martin d'Heres Cedex, France 38402#TAB#"
+        },
+        {
+            "name": "Franck Rousseau",
+            "id": "2148299589",
+            "org": "Grenoble Informatics Laboratory (LIG), Saint Martin d'Heres Cedex, France 38402#TAB#"
+        },
+        {
+            "name": "Andrzej Duda",
+            "id": "2131073851",
+            "org": "Grenoble Informatics Laboratory (LIG), Saint Martin d'Heres Cedex, France 38402#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Exponential backoff",
+        "Idle",
+        "Random access",
+        "Time division multiple access",
+        "Channel access method",
+        "2-choice hashing",
+        "Computer science",
+        "Code division multiple access",
+        "Hash function",
+        "Computer network"
+    ],
+    "references": [
+        "1556313079",
+        "1630733292",
+        "2049398630",
+        "2104935654",
+        "2107830311",
+        "2141351680",
+        "2145859593",
+        "2158700277",
+        "2165682314"
+    ]
+}

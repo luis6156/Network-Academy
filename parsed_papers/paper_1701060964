@@ -1,0 +1,51 @@
+{
+    "id": "1701060964",
+    "title": "Improving the time complexity of Matsui's linear cryptanalysis",
+    "venue": "international conference on information security and cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Baudoin Collard",
+            "id": "2117870018",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Interpolation attack",
+        "Theoretical computer science",
+        "Integral cryptanalysis",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "32121401",
+        "1490223983",
+        "1510442823",
+        "1532041351",
+        "1537206908",
+        "1542500920",
+        "1558609276",
+        "1605116544",
+        "1920313804",
+        "1964723977",
+        "2112341247",
+        "2132271754",
+        "2615126819"
+    ]
+}

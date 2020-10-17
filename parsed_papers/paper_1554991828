@@ -1,0 +1,42 @@
+{
+    "id": "1554991828",
+    "title": "Optimizing Transformations of Stencil Operations for Parallel Object-Oriented Scientific Frameworks on Cache-Based Architectures",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Federico Bassetti",
+            "id": "2080537455",
+            "org": "Los Alamos National Laboratory"
+        },
+        {
+            "name": "Kei Davis",
+            "id": "2108163553",
+            "org": "Los Alamos National Laboratory"
+        },
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2656001890",
+            "org": "Los Alamos National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Inter-process communication",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Software framework",
+        "Loop nest optimization",
+        "Data management",
+        "Program optimization",
+        "CPU cache",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1507805857",
+        "1600293489",
+        "2114067856",
+        "2611598995"
+    ]
+}

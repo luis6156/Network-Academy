@@ -1,0 +1,44 @@
+{
+    "id": "1631683623",
+    "title": "Parameterized surface fitting via MAP estimation for binocular stereo",
+    "venue": "international conference on robotics and automation",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Michael J. Weisman",
+            "id": "2300255994",
+            "org": "Div. of Appl. Sci., Harvard Univ., Cambridge, MA, USA"
+        },
+        {
+            "name": "Alan L. Yuille",
+            "id": "2065104188",
+            "org": "Div. of Appl. Sci., Harvard Univ., Cambridge, MA, USA"
+        },
+        {
+            "name": "James J. Clark",
+            "id": "2116347740",
+            "org": "Div. of Appl. Sci., Harvard Univ., Cambridge, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Stereopsis",
+        "Curve fitting",
+        "Maximum a posteriori estimation",
+        "Estimation theory",
+        "Computer vision",
+        "Parameterized complexity",
+        "Hough transform",
+        "Iterative reconstruction",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1582566662",
+        "1713915947",
+        "1973825432",
+        "1990779621",
+        "1992331046",
+        "2106883675",
+        "2165810248"
+    ]
+}

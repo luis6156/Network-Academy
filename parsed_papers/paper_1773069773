@@ -1,0 +1,66 @@
+{
+    "id": "1773069773",
+    "title": "Processing Text Files as Is: Pattern Matching over Compressed Texts, Multi-byte Character Texts, and Semi-structured Texts",
+    "venue": "string processing and information retrieval",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Masayuki Takeda",
+            "id": "2558385632",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Satoru Miyamoto",
+            "id": "2571125215",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Takuya Kida",
+            "id": "2192208057",
+            "org": "Kyushu University Library"
+        },
+        {
+            "name": "Ayumi Shinohara",
+            "id": "2149841904",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Shuichi Fukamachi",
+            "id": "2067068806",
+            "org": "Kyushu Institute of Technology"
+        },
+        {
+            "name": "Takeshi Shinohara",
+            "id": "2158620538",
+            "org": "Kyushu Institute of Technology"
+        },
+        {
+            "name": "Setsuo Arikawa",
+            "id": "1907359370",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "String searching algorithm",
+        "Computer science",
+        "Compressed pattern matching",
+        "Unicode",
+        "Substring",
+        "Information retrieval",
+        "ASCII",
+        "String (computer science)",
+        "Prefix code"
+    ],
+    "references": [
+        "1530918642",
+        "1976149088",
+        "1991731883",
+        "2023002380",
+        "2070830131",
+        "2099964107",
+        "2102531387",
+        "2139242647",
+        "2160748429"
+    ]
+}

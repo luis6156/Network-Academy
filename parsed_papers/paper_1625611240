@@ -1,0 +1,76 @@
+{
+    "id": "1625611240",
+    "title": "Real-time multi-view facial landmark detector learned by the structured output SVM",
+    "venue": "ieee international conference on automatic face gesture recognition",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michal Uricar",
+            "id": "2232557888",
+            "org": "Center for Machine Perception, Department of Cybernetics, Faculty of Electrical Engineering, Czech Technical University in Prague, 166 27 Prague 6, Technicka 2 Czech Republic"
+        },
+        {
+            "name": "Vojtech Franc",
+            "id": "1970779744",
+            "org": "Center for Machine Perception, Department of Cybernetics, Faculty of Electrical Engineering, Czech Technical University in Prague, 166 27 Prague 6, Technicka 2 Czech Republic"
+        },
+        {
+            "name": "Diego Thomas",
+            "id": "2498219479",
+            "org": "National Institute of Informatics, Tokyo, Japan"
+        },
+        {
+            "name": "Akihiro Sugimoto",
+            "id": "2138617294",
+            "org": "National Institute of Informatics, Tokyo, Japan"
+        },
+        {
+            "name": "Vaclav Hlavac",
+            "id": "1602459293",
+            "org": "Center for Machine Perception, Department of Cybernetics, Faculty of Electrical Engineering, Czech Technical University in Prague, 166 27 Prague 6, Technicka 2 Czech Republic"
+        }
+    ],
+    "fields_of_study": [
+        "Euler angles",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Viewing angle",
+        "Landmark",
+        "Support vector machine",
+        "Detector",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "37852311",
+        "1516903196",
+        "1518641734",
+        "1936981920",
+        "1977821862",
+        "2012885984",
+        "2030536784",
+        "2032558548",
+        "2038952578",
+        "2045798786",
+        "2047508432",
+        "2073772731",
+        "2101683585",
+        "2105842272",
+        "2107369107",
+        "2116277445",
+        "2121027212",
+        "2121684305",
+        "2124750300",
+        "2146057747",
+        "2152826865",
+        "2157285372",
+        "2160126058",
+        "2164185197",
+        "2167955297",
+        "2168356304",
+        "2168996682",
+        "2263678964",
+        "2295329974",
+        "2325168940"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1739088677",
+    "title": "Covert messaging through TCP timestamps",
+    "venue": "privacy enhancing technologies",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "John Giffin",
+            "id": "2275502617",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Rachel Greenstadt",
+            "id": "2037808344",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Peter Litwack",
+            "id": "2275712605",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Richard Tibbetts",
+            "id": "2009656566",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Header",
+        "Computer science",
+        "Communication channel",
+        "Shared secret",
+        "Computer security",
+        "Communications system",
+        "Hash function",
+        "Computer network",
+        "Internet privacy",
+        "Covert",
+        "Covert channel"
+    ],
+    "references": [
+        "1527181506",
+        "1540641082",
+        "1878907771",
+        "2060626729",
+        "2096050104",
+        "2115904447",
+        "2161439181",
+        "2162764126"
+    ]
+}

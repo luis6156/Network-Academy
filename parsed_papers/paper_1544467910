@@ -1,0 +1,64 @@
+{
+    "id": "1544467910",
+    "title": "A Loop Transformation Algorithm for Communication Overlapping",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kazuaki Ishizaki",
+            "id": "2020264740",
+            "org": "1623-14, Shimotsuruma, Yamato-shi, Kanagawa-ken 242-8502, Japan#TAB#"
+        },
+        {
+            "name": "Hideaki Komatsu",
+            "id": "2115381187",
+            "org": "1623-14, Shimotsuruma, Yamato-shi, Kanagawa-ken 242-8502, Japan#TAB#"
+        },
+        {
+            "name": "Toshio Nakatani",
+            "id": "2017921709",
+            "org": "1623-14, Shimotsuruma, Yamato-shi, Kanagawa-ken 242-8502, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop interchange",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Algorithm",
+        "Loop inversion",
+        "Computer science",
+        "Distributed computing",
+        "Loop fusion",
+        "Loop splitting",
+        "Manifest expression",
+        "Loop dependence analysis",
+        "Loop fission",
+        "Loop nest optimization"
+    ],
+    "references": [
+        "1527965259",
+        "1974470587",
+        "1980723535",
+        "1983413115",
+        "1988433362",
+        "2014033064",
+        "2038543880",
+        "2041482856",
+        "2055225384",
+        "2063249715",
+        "2090011371",
+        "2092309910",
+        "2094564708",
+        "2098815550",
+        "2112482891",
+        "2118735733",
+        "2119609467",
+        "2126338559",
+        "2142032243",
+        "2152506070",
+        "2152706734",
+        "2162343223",
+        "2169071493",
+        "2170659171"
+    ]
+}

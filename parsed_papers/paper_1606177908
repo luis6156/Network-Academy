@@ -1,0 +1,94 @@
+{
+    "id": "1606177908",
+    "title": "Boogie: a modular reusable verifier for object-oriented programs",
+    "venue": "formal methods",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mike Barnett",
+            "id": "2236272296",
+            "org": "Microsoft Research, Redmond, Washington#TAB#"
+        },
+        {
+            "name": "Bor-Yuh Evan Chang",
+            "id": "2100802414",
+            "org": "University of California, Berkeley, California#TAB#"
+        },
+        {
+            "name": "Robert DeLine",
+            "id": "2163972128",
+            "org": "Microsoft Research, Redmond, Washington#TAB#"
+        },
+        {
+            "name": "Bart Jacobs",
+            "id": "2779690859",
+            "org": "Katholieke Universiteit Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "K. Rustan M. Leino",
+            "id": "710865586",
+            "org": "Microsoft Research, Redmond, Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented programming",
+        "Theoretical computer science",
+        "Computer science",
+        "Compiler",
+        "Formal methods",
+        "Programming language",
+        "Component-based software engineering",
+        "Complex system",
+        "Modular design",
+        "Architecture",
+        "User interface"
+    ],
+    "references": [
+        "1486696980",
+        "1489778371",
+        "1499226144",
+        "1511826042",
+        "1550200770",
+        "1573044584",
+        "1573154295",
+        "1580328473",
+        "1597009588",
+        "1627776297",
+        "1872021412",
+        "1982205631",
+        "1989547358",
+        "1992431017",
+        "1993836075",
+        "1995912006",
+        "1996228525",
+        "2014764321",
+        "2030865387",
+        "2031111340",
+        "2043100293",
+        "2055477538",
+        "2088019269",
+        "2094160561",
+        "2095224573",
+        "2096601022",
+        "2103953153",
+        "2107995193",
+        "2111706174",
+        "2115484804",
+        "2121759723",
+        "2125044336",
+        "2130853806",
+        "2132661148",
+        "2136371406",
+        "2140144076",
+        "2141236940",
+        "2142481893",
+        "2149590446",
+        "2151131364",
+        "2152492994",
+        "2154689462",
+        "2164419371",
+        "2164810907",
+        "2169907127",
+        "2170898576"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1585977625",
+    "title": "Forward-Secure Threshold Signature Schemes",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Michel Abdalla",
+            "id": "2143328931",
+            "org": "University of California at San Diego"
+        },
+        {
+            "name": "Sara K. Miner",
+            "id": "2092839326",
+            "org": "University of California at San Diego"
+        },
+        {
+            "name": "Chanathip Namprempre",
+            "id": "88663857",
+            "org": "University of California at San Diego"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Oracle",
+        "Public-key cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Forward secrecy",
+        "Secret sharing",
+        "Secrecy",
+        "Random oracle",
+        "Commitment scheme"
+    ],
+    "references": [
+        "1482427796",
+        "1498063506",
+        "1504237559",
+        "1546996295",
+        "1589034595",
+        "1607430658",
+        "1867048327",
+        "1885156594",
+        "2011550196",
+        "2019616576",
+        "2036133214",
+        "2096024255",
+        "2112138431",
+        "2113929724",
+        "2123910863",
+        "2129876196",
+        "2141420453",
+        "2229750252",
+        "2232070551"
+    ]
+}

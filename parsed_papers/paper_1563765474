@@ -1,0 +1,51 @@
+{
+    "id": "1563765474",
+    "title": "A DPA Attack against the Modular Reduction within a CRT Implementation of RSA",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Bert den Boer",
+            "id": "2511404615",
+            "org": "T-Systems ISS GmbH"
+        },
+        {
+            "name": "Kerstin Lemke",
+            "id": "2662519971",
+            "org": "T-Systems ISS GmbH"
+        },
+        {
+            "name": "Guntram Wicke",
+            "id": "2518086308",
+            "org": "T-Systems ISS GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Parallel computing",
+        "Blinding",
+        "Discrete mathematics",
+        "Remainder",
+        "Padding",
+        "Data reduction",
+        "Prime (order theory)",
+        "Power analysis",
+        "Public-key cryptography",
+        "Timing attack"
+    ],
+    "references": [
+        "1503689022",
+        "1506530330",
+        "1510418153",
+        "1566796882",
+        "1613874182",
+        "1657240689",
+        "1660562555",
+        "1664808737",
+        "1671031071",
+        "1890449996",
+        "2148862943",
+        "2154909745",
+        "2170489924"
+    ]
+}

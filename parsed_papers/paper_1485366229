@@ -1,0 +1,55 @@
+{
+    "id": "1485366229",
+    "title": "Radio Link Frequency Assignment",
+    "venue": "Constraints - An International Journal",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "B. Cabon",
+            "id": "2798977103",
+            "org": "Department of Computer Science, National Office for Aerospatial Studies and Research (ONERA), Studies and Research Center of Toulouse (CERT), Toulouse, France"
+        },
+        {
+            "name": "S. de Givry",
+            "id": "2077920588",
+            "org": "Department of Biometry and Artificial Intelligence, National Institute for Agronomical Research (INRA), Toulouse, France"
+        },
+        {
+            "name": "L. Lobjois",
+            "id": "2305722356",
+            "org": "Department of Computer Science, National Office for Aerospatial Studies and Research (ONERA), Studies and Research Center of Toulouse (CERT), Toulouse, France#TAB#"
+        },
+        {
+            "name": "Thomas Schiex",
+            "id": "21858160",
+            "org": "Department of Biometry and Artificial Intelligence, National Institute for Agronomical Research (INRA), Toulouse, France#TAB#"
+        },
+        {
+            "name": "J.P. Warners",
+            "id": "2705577284",
+            "org": "Department of Technical Mathematics and Informatics, Faculty of Information Technology and Systems, Delft University of Technology, Delft, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Constraint satisfaction",
+        "Communication channel",
+        "Constraint logic programming",
+        "Frequency assignment",
+        "Optimization problem",
+        "Radio Link Protocol",
+        "Generalized assignment problem",
+        "Mathematical optimization",
+        "Quadratic assignment problem"
+    ],
+    "references": [
+        "57237496",
+        "185605575",
+        "1490489754",
+        "1558184472",
+        "1841516209",
+        "2135432705",
+        "2136087206",
+        "2227618531"
+    ]
+}

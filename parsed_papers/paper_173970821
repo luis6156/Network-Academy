@@ -1,0 +1,61 @@
+{
+    "id": "173970821",
+    "title": "Enforcing Information Flow by Combining Static and Dynamic Analysis",
+    "venue": "foundations and practice of security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Andrew Bedford",
+            "id": "2283976989",
+            "org": "Universite Laval, Qubec, Canada#TAB#"
+        },
+        {
+            "name": "Josee Desharnais",
+            "id": "2008651352",
+            "org": "Universite Laval, Qubec, Canada#TAB#"
+        },
+        {
+            "name": "Theophane G. Godonou",
+            "id": "2273912042",
+            "org": "Universite Laval, Qubec, Canada#TAB#"
+        },
+        {
+            "name": "Nadia Tawbi",
+            "id": "277769343",
+            "org": "Universite Laval, Qubec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Static analysis",
+        "Compile time",
+        "False positive paradox",
+        "Computer science",
+        "Enforcement",
+        "Instrumentation",
+        "Secrecy",
+        "Real-time computing",
+        "Information flow (information theory)",
+        "Imperative programming"
+    ],
+    "references": [
+        "44396093",
+        "1486573515",
+        "1531439671",
+        "1725973462",
+        "2027822753",
+        "2036463966",
+        "2040669676",
+        "2061056245",
+        "2081551198",
+        "2094873755",
+        "2095840868",
+        "2097833793",
+        "2098773452",
+        "2120620789",
+        "2129278597",
+        "2131916295",
+        "2149465027",
+        "2150174204",
+        "2158126684"
+    ]
+}

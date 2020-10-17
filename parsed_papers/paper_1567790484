@@ -1,0 +1,72 @@
+{
+    "id": "1567790484",
+    "title": "CP-Miner: a tool for finding copy-paste and related bugs in operating system code",
+    "venue": "operating systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Zhenmin Li",
+            "id": "2118015208",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Shan Lu",
+            "id": "2111557135",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Suvda Myagmar",
+            "id": "93990237",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Yuanyuan Zhou",
+            "id": "2155186186",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Software",
+        "Source code",
+        "Software bug",
+        "Computer science",
+        "Software versioning",
+        "Code refactoring",
+        "Bebugging",
+        "Operating system",
+        "Code coverage",
+        "Real-time computing"
+    ],
+    "references": [
+        "98763178",
+        "323988595",
+        "1491178396",
+        "1512285202",
+        "1542113050",
+        "1593203335",
+        "1608194207",
+        "1609518033",
+        "1676985236",
+        "1698439592",
+        "1814217792",
+        "1972544179",
+        "1997953464",
+        "2096491586",
+        "2097990218",
+        "2106972913",
+        "2109943392",
+        "2111295912",
+        "2116409384",
+        "2117009500",
+        "2128698639",
+        "2138756793",
+        "2138990624",
+        "2146659255",
+        "2146878883",
+        "2149984854",
+        "2157532207",
+        "2158454296",
+        "2161600851"
+    ]
+}

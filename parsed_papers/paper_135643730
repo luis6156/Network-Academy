@@ -1,0 +1,34 @@
+{
+    "id": "135643730",
+    "title": "Beyond Threads: Resource Sharing in UNIX.",
+    "venue": "USENIX Winter",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "J. M. Barton",
+            "id": "2718968450",
+            "org": "Silicon Graphics, Inc."
+        },
+        {
+            "name": "J. C. Wagner",
+            "id": "2691644574",
+            "org": "Silicon Graphics, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "File descriptor",
+        "Preemption",
+        "Computer science",
+        "Distributed computing",
+        "Multiprocessing",
+        "Unix",
+        "Virtual address space",
+        "Programming paradigm",
+        "Directory"
+    ],
+    "references": [
+        "1679685803",
+        "2035049051"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "132178448",
+    "title": "Improved Cryptanalysis on Reduced-Round GOST and Whirlpool Hash Function",
+    "venue": "applied cryptography and network security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Bingke Ma",
+            "id": "2102932876",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Bao Li",
+            "id": "2118915214",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Ronglin Hao",
+            "id": "2104346472",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Xiaoqian Li",
+            "id": "2140248978",
+            "org": "Chinese Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computer science",
+        "Collision",
+        "Whirlpool",
+        "Collision attack",
+        "Linear cryptanalysis",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "41296744",
+        "81015123",
+        "145806357",
+        "187241936",
+        "1521253015",
+        "1533007301",
+        "1550579237",
+        "1551374506",
+        "1552695992",
+        "1553792294",
+        "1592183051",
+        "1600432225",
+        "1603214199",
+        "1603433154",
+        "1660562555",
+        "1797949276",
+        "1913860316",
+        "1997025789",
+        "2058289418",
+        "2119153286",
+        "2130420945",
+        "2136320902",
+        "2147436724",
+        "2292572935",
+        "2292996153",
+        "2345551932",
+        "2396311526"
+    ]
+}

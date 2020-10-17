@@ -1,0 +1,53 @@
+{
+    "id": "1549295009",
+    "title": "Parallel Subspace Sampling for Particle Filtering in Dynamic Bayesian Networks",
+    "venue": "european conference on machine learning",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Eva Besada-Portas",
+            "id": "333022656",
+            "org": "University of New Mexico, Albuquerque, USA 87131#TAB#"
+        },
+        {
+            "name": "Sergey M. Plis",
+            "id": "1244112658",
+            "org": "University of New Mexico, Albuquerque, USA 87131#TAB#"
+        },
+        {
+            "name": "Jesus Manuel de la Cruz",
+            "id": "2156228435",
+            "org": "Universidad Complutense de Madrid, Madrid, Spain 28040#TAB#"
+        },
+        {
+            "name": "Terran Lane",
+            "id": "2123871395",
+            "org": "University of New Mexico, Albuquerque, USA 87131#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Particle filter",
+        "Algorithm",
+        "State space",
+        "Dynamic Bayesian network",
+        "Subspace topology",
+        "Importance sampling",
+        "Curse of dimensionality",
+        "Hidden variable theory",
+        "Probability distribution",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1523765843",
+        "1533614607",
+        "2105130030",
+        "2110370029",
+        "2113459360",
+        "2119786140",
+        "2128252831",
+        "2144337972",
+        "2149020252",
+        "2158801460"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1561412378",
+    "title": "From total store order to sequential consistency: a practical reduction theorem",
+    "venue": "interactive theorem proving",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ernie Cohen",
+            "id": "2166020432",
+            "org": "European Microsoft Innovation Center, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Bert Schirmer",
+            "id": "2281798099",
+            "org": "German Research Center for Artificial Intelligence (DFKI) Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Sequential consistency",
+        "Software",
+        "Shared memory",
+        "Computer science",
+        "Concurrent computing",
+        "Multiprocessing",
+        "Concurrency",
+        "Virtual machine",
+        "Real-time computing",
+        "Consistency model"
+    ],
+    "references": [
+        "1482397304",
+        "1509000726",
+        "1520556632",
+        "1525350307",
+        "1545681762",
+        "1594381772",
+        "1995825057",
+        "2029601347",
+        "2105980774",
+        "2106192381",
+        "2134482873"
+    ]
+}

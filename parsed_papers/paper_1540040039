@@ -1,0 +1,46 @@
+{
+    "id": "1540040039",
+    "title": "Implied Set Closure and Its Application to Memory Consistency Verification",
+    "venue": "computer aided verification",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Surender Baswana",
+            "id": "59481045",
+            "org": "Indian Institute of Technology, Kanpur, India 208016#TAB#"
+        },
+        {
+            "name": "Shashank K. Mehta",
+            "id": "2133150489",
+            "org": "Indian Institute of Technology, Kanpur, India 208016#TAB#"
+        },
+        {
+            "name": "Vishal Powar",
+            "id": "2510230668",
+            "org": "Indian Institute of Technology, Kanpur, India 208016#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Theoretical computer science",
+        "Algorithm",
+        "Sequential consistency",
+        "Parallel computing",
+        "Release consistency",
+        "Computer science",
+        "Cache coherence",
+        "PRAM consistency",
+        "Local consistency",
+        "Causal consistency",
+        "Consistency model"
+    ],
+    "references": [
+        "1694765325",
+        "1976177462",
+        "1993990180",
+        "2029601347",
+        "2034531215",
+        "2105945277",
+        "2520885739"
+    ]
+}

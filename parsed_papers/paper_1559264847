@@ -1,0 +1,98 @@
+{
+    "id": "1559264847",
+    "title": "Data layout transformation for stencil computations on short-vector SIMD architectures",
+    "venue": "compiler construction",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Thomas Henretty",
+            "id": "2036415830",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Kevin Stock",
+            "id": "2159474351",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Louis-Noel Pouchet",
+            "id": "2049901527",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Franz Franchetti",
+            "id": "131649368",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "J. Ramanujam",
+            "id": "2083116879",
+            "org": "Louisiana State University#TAB#"
+        },
+        {
+            "name": "P. Sadayappan",
+            "id": "1966094299",
+            "org": "The Ohio State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Single-precision floating-point format",
+        "SIMD",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computation",
+        "Computer science",
+        "Instruction set",
+        "Stencil code",
+        "Stencil",
+        "Computational electromagnetics",
+        "Image processing"
+    ],
+    "references": [
+        "76123042",
+        "1494930385",
+        "1499418450",
+        "1504320321",
+        "1537849868",
+        "1561247983",
+        "1616173761",
+        "1650934639",
+        "1795008753",
+        "1967264375",
+        "1987588924",
+        "1997147891",
+        "1997329694",
+        "2003798513",
+        "2008117760",
+        "2008677874",
+        "2014033064",
+        "2015935981",
+        "2022711417",
+        "2055253125",
+        "2064508949",
+        "2069703635",
+        "2069738303",
+        "2079834329",
+        "2088916376",
+        "2090268225",
+        "2099404643",
+        "2111394443",
+        "2111914791",
+        "2112482891",
+        "2113190809",
+        "2118031182",
+        "2124644009",
+        "2127324789",
+        "2128125098",
+        "2129471558",
+        "2132076432",
+        "2134457957",
+        "2135736783",
+        "2137249790",
+        "2150319905",
+        "2153768689",
+        "2154786353",
+        "2168093120",
+        "2293033107"
+    ]
+}

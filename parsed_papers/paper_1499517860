@@ -1,0 +1,54 @@
+{
+    "id": "1499517860",
+    "title": "On the Use of Queueing Network Models to Predict the Performance of TCP Connections",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Michele Garetto",
+            "id": "102657000",
+            "org": "Dipartimento di Elettronica - Politecnico di Torino"
+        },
+        {
+            "name": "Renato Lo Cigno",
+            "id": "2343071437",
+            "org": "Dipartimento di Elettronica - Politecnico di Torino"
+        },
+        {
+            "name": "Michela Meo",
+            "id": "2165068044",
+            "org": "Dipartimento di Elettronica - Politecnico di Torino"
+        },
+        {
+            "name": "Marco Ajmone Marsan",
+            "id": "1987047872",
+            "org": "Politecnico di Torino Dipartimento di Elettronica Corso Duca degli Abruzzi, 24 I-10129 Torino Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Zeta-TCP",
+        "BIC TCP",
+        "Computer science",
+        "Distributed computing",
+        "CUBIC TCP",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1518696975",
+        "1867970377",
+        "1969949820",
+        "1994717387",
+        "2018724471",
+        "2024234376",
+        "2103312864",
+        "2114897494",
+        "2115459263",
+        "2124478678",
+        "2141405301",
+        "2257924330"
+    ]
+}

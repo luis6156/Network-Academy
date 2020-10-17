@@ -1,0 +1,34 @@
+{
+    "id": "1764401387",
+    "title": "A known-plaintext attack on two-key triple encryption",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "C. van Oorschot",
+            "id": "2614874874",
+            "org": "BNR"
+        },
+        {
+            "name": "Michael J. Wiener",
+            "id": "2311698898",
+            "org": "BNR"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Length extension attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Plaintext-aware encryption",
+        "Computer security",
+        "Slide attack",
+        "Ciphertext indistinguishability",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1991374982",
+        "2155099317"
+    ]
+}

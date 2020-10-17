@@ -1,0 +1,41 @@
+{
+    "id": "1540574213",
+    "title": "Resource management for finite element codes on shared memory systems",
+    "venue": "international conference on computational science and its applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jan Hungershofer",
+            "id": "251586807",
+            "org": "Paderborn Center for Parallel Computing, Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Jens-Michael Wierum",
+            "id": "2798801538",
+            "org": "Paderborn Center for Parallel Computing, Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Hans-Peter Ganser",
+            "id": "2512328138",
+            "org": "Hilti AG, Schaan, Principality of Liechtenstein#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Idle",
+        "Resource management",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Finite element method",
+        "Dynamic load testing",
+        "Real-time computing"
+    ],
+    "references": [
+        "1496507101",
+        "1563955133",
+        "2070232376",
+        "2077240465",
+        "2150871235"
+    ]
+}

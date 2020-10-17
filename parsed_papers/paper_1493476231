@@ -1,0 +1,78 @@
+{
+    "id": "1493476231",
+    "title": "A CCA2 Secure Public Key Encryption Scheme Based on the McEliece Assumptions in the Standard Model",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Rafael Dowsley",
+            "id": "2070985240",
+            "org": "Department of Electrical Engineering, University of Brasilia, Brasilia, Brazil CEP: 70910-900#TAB#"
+        },
+        {
+            "name": "Jorn Muller-Quade",
+            "id": "135566254",
+            "org": "Institut fur Algorithmen und Kognitive Systeme, Universitat Karlsruhe, Karlsruhe, Germany 76128#TAB#"
+        },
+        {
+            "name": "Anderson C. A. Nascimento",
+            "id": "2122470293",
+            "org": "Department of Electrical Engineering, University of Brasilia, Brasilia, Brazil CEP: 70910-900#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "40-bit encryption",
+        "Theoretical computer science",
+        "Computer science",
+        "Key Wrap",
+        "Plaintext-aware encryption",
+        "McEliece cryptosystem",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Ciphertext indistinguishability"
+    ],
+    "references": [
+        "111085860",
+        "131640530",
+        "1496806208",
+        "1498503799",
+        "1511843316",
+        "1520746637",
+        "1535972735",
+        "1541483074",
+        "1566796882",
+        "1589176872",
+        "1591813095",
+        "1592625985",
+        "1595415026",
+        "1603601034",
+        "1663689473",
+        "1664808737",
+        "1718722133",
+        "1724890242",
+        "1890449996",
+        "1972792640",
+        "2015880590",
+        "2035929826",
+        "2036149657",
+        "2061949491",
+        "2095594956",
+        "2097638666",
+        "2099250555",
+        "2101803085",
+        "2116926584",
+        "2119117325",
+        "2130389396",
+        "2137648527",
+        "2146907493",
+        "2149636648",
+        "2152783950",
+        "2154909745",
+        "2155166173",
+        "2159339434",
+        "2170489924",
+        "2250927570",
+        "2407959219"
+    ]
+}

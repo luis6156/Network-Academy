@@ -1,0 +1,63 @@
+{
+    "id": "1486274895",
+    "title": "A simple related-key attack on the full SHACAL-1",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SHACAL",
+        "Mathematics",
+        "Watermarking attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Distributed computing",
+        "Weak key",
+        "Related-key attack",
+        "Slide attack",
+        "Stream cipher attack",
+        "Key whitening"
+    ],
+    "references": [
+        "52191336",
+        "1481366493",
+        "1491388917",
+        "1515958737",
+        "1518406241",
+        "1524407627",
+        "1540066842",
+        "1540211477",
+        "1543271574",
+        "1546907539",
+        "1590269592",
+        "1595934196",
+        "1596744447",
+        "1656731780",
+        "1870015754",
+        "1871986277",
+        "1979802565",
+        "1991897749",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2163466490",
+        "2170677368",
+        "2611506938"
+    ]
+}

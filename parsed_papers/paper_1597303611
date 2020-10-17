@@ -1,0 +1,52 @@
+{
+    "id": "1597303611",
+    "title": "Restructuring I/O-Intensive Computations for Locality",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Mahmut T. Kandemir",
+            "id": "2191818565",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Alok N. Choudhary",
+            "id": "2147783234",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "J. Ramanujam",
+            "id": "2083116879",
+            "org": "Louisiana State University"
+        }
+    ],
+    "fields_of_study": [
+        "Loop interchange",
+        "Parallel computing",
+        "Loop inversion",
+        "Computer science",
+        "Compiler",
+        "Distributed memory",
+        "Manifest expression",
+        "Optimizing compiler",
+        "Loop fission",
+        "Loop nest optimization"
+    ],
+    "references": [
+        "1788554450",
+        "1973122629",
+        "2014033064",
+        "2042125826",
+        "2045773292",
+        "2064712511",
+        "2086237056",
+        "2103831628",
+        "2104084101",
+        "2112482891",
+        "2119609467",
+        "2131434993",
+        "2140639562",
+        "2152826168",
+        "2159826399"
+    ]
+}

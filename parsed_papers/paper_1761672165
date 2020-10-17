@@ -1,0 +1,63 @@
+{
+    "id": "1761672165",
+    "title": "Defending Browsers against Drive-by Downloads: Mitigating Heap-Spraying Code Injection Attacks",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Manuel Egele",
+            "id": "1922185186",
+            "org": "Secure Systems Lab, Technical University Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Peter Wurzinger",
+            "id": "2460907738",
+            "org": "Secure Systems Lab, Technical University Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Christopher Kruegel",
+            "id": "2001160045",
+            "org": "University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Engin Kirda",
+            "id": "59249629",
+            "org": "Institute Eurecom, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Malware",
+        "Drive-by download",
+        "Shellcode",
+        "Code injection",
+        "Computer science",
+        "Computer security",
+        "Heap spraying",
+        "Operating system",
+        "Memory corruption",
+        "Botnet"
+    ],
+    "references": [
+        "1222699389",
+        "1485086418",
+        "1491237615",
+        "1552906779",
+        "1563061804",
+        "1591237315",
+        "1641762327",
+        "1674877186",
+        "1769672943",
+        "2014589236",
+        "2034346354",
+        "2081357650",
+        "2091692346",
+        "2095610745",
+        "2111038628",
+        "2145211381",
+        "2151135920",
+        "2152955531",
+        "2156250856",
+        "2166571196"
+    ]
+}

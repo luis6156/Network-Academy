@@ -1,0 +1,48 @@
+{
+    "id": "1430692601",
+    "title": "Harmonium: elastic cloud storage via file motifs",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Helgi Sigurbjarnarson",
+            "id": "2275599615",
+            "org": "School of Computer Science & CRESS, Reykjavik University#TAB#"
+        },
+        {
+            "name": "Petur Orri Ragnarsson",
+            "id": "2284744599",
+            "org": "School of Computer Science & CRESS, Reykjavik University#TAB#"
+        },
+        {
+            "name": "Ymir Vigfusson",
+            "id": "2214791955",
+            "org": "School of Computer Science & CRESS, Reykjavik University#TAB#"
+        },
+        {
+            "name": "Mahesh Balakrishnan",
+            "id": "1999331212",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Ephemeral key",
+        "Parallel computing",
+        "Computation",
+        "Computer science",
+        "Cloud storage",
+        "Exploit",
+        "Central processing unit",
+        "Operating system",
+        "Storage hypervisor"
+    ],
+    "references": [
+        "1480850417",
+        "1482713870",
+        "2058181149",
+        "2071989194",
+        "2079967994",
+        "2099204199"
+    ]
+}

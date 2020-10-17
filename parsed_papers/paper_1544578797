@@ -1,0 +1,47 @@
+{
+    "id": "1544578797",
+    "title": "Distributed lock management for mobile transactions",
+    "venue": "international conference on distributed computing systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jin Jing",
+            "id": "2273377395",
+            "org": "Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA"
+        },
+        {
+            "name": "Omran A. Bukhres",
+            "id": "1775630360",
+            "org": "Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA"
+        },
+        {
+            "name": "Ahmed K. Elmagarmid",
+            "id": "2057816297",
+            "org": "Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Double-checked locking",
+        "Lock (computer science)",
+        "Distributed lock manager",
+        "Database transaction",
+        "Readers-writer lock",
+        "Two-phase locking",
+        "Real-time computing",
+        "Record locking"
+    ],
+    "references": [
+        "1936187666",
+        "1992757438",
+        "1999981671",
+        "2051694281",
+        "2108350817",
+        "2108965366",
+        "2124074197",
+        "2133386065",
+        "2162587626"
+    ]
+}

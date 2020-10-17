@@ -1,0 +1,51 @@
+{
+    "id": "1521783451",
+    "title": "Cryptanalysis of Sober-t32",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Steve Babbage",
+            "id": "2028739841",
+            "org": "Vodafone Group Research & Development"
+        },
+        {
+            "name": "Christophe De Canniere",
+            "id": "2038466276",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Joseph Lano",
+            "id": "2145353776",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Cryptanalysis",
+        "NESSIE",
+        "Computer science",
+        "Boomerang attack",
+        "Stream cipher",
+        "Computer security",
+        "Linear cryptanalysis",
+        "Distinguishing attack"
+    ],
+    "references": [
+        "1513035099",
+        "1583871653",
+        "1793240080"
+    ]
+}

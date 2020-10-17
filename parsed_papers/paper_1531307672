@@ -1,0 +1,44 @@
+{
+    "id": "1531307672",
+    "title": "Extracting Common Motifs under the Levenshtein Measure: Theory and Experimentation",
+    "venue": "workshop on algorithms in bioinformatics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ezekiel Adebiyi",
+            "id": "2001683098",
+            "org": "Universitat Tubingen"
+        },
+        {
+            "name": "Michael Kaufmann",
+            "id": "2176702104",
+            "org": "Universitat Tubingen"
+        }
+    ],
+    "fields_of_study": [
+        "Measure (mathematics)",
+        "Mathematics",
+        "Hamming distance",
+        "Damerau-Levenshtein distance",
+        "Jaro-Winkler distance",
+        "Combinatorics",
+        "String-to-string correction problem",
+        "Wagner-Fischer algorithm",
+        "Edit distance"
+    ],
+    "references": [
+        "1486659038",
+        "1580213736",
+        "1834151548",
+        "1971900185",
+        "1985986400",
+        "1990061958",
+        "2004488542",
+        "2046946959",
+        "2156297179",
+        "2162114340",
+        "2162945593",
+        "2165156013",
+        "2169016544"
+    ]
+}

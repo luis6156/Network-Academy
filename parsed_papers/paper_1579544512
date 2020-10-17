@@ -1,0 +1,64 @@
+{
+    "id": "1579544512",
+    "title": "SLA-aware resource over-commit in an IaaS cloud",
+    "venue": "conference on network and service management",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "David Breitgand",
+            "id": "34713905",
+            "org": "Cloud Operating System Technologies, IBM Haifa Research Lab, Israel"
+        },
+        {
+            "name": "Zvi Dubitzky",
+            "id": "2471417143",
+            "org": "Cloud Operating System Technologies, IBM Haifa Research Lab, Israel"
+        },
+        {
+            "name": "Amir Epstein",
+            "id": "2138495147",
+            "org": "Cloud Operating System Technologies, IBM Haifa Research Lab, Israel"
+        },
+        {
+            "name": "Alex Glikson",
+            "id": "2144968386",
+            "org": "Cloud Operating System Technologies, IBM Haifa Research Lab, Israel"
+        },
+        {
+            "name": "Inbar Shapira",
+            "id": "2004318942",
+            "org": "Cloud Operating System Technologies, IBM Haifa Research Lab, Israel"
+        }
+    ],
+    "fields_of_study": [
+        "Multiplexing",
+        "Resource management",
+        "Virtualization",
+        "Capacity planning",
+        "Commit",
+        "Cloud computing",
+        "Computer science",
+        "Distributed computing",
+        "Cloud testing",
+        "Computer network",
+        "Real-time computing",
+        "Virtual machine"
+    ],
+    "references": [
+        "7574676",
+        "1527264199",
+        "1966715578",
+        "1972846750",
+        "1987040278",
+        "1998448657",
+        "2010784290",
+        "2011039300",
+        "2049165903",
+        "2053728143",
+        "2110458625",
+        "2129532872",
+        "2140672955",
+        "2145825359",
+        "2147210569"
+    ]
+}

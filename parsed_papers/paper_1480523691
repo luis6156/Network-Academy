@@ -1,0 +1,65 @@
+{
+    "id": "1480523691",
+    "title": "Analysis of Pivot Sampling in Dual-Pivot Quicksort: A Holistic Analysis of Yaroslavskiy's Partitioning Scheme",
+    "venue": "Algorithmica",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Markus E. Nebel",
+            "id": "1988600568",
+            "org": "Computer Science Department, University of Kaiserslautern, Kaiserslautern, Germany and Department of Mathematics and Computer Science, University of Southern Denmark, Odense, Denmark#TAB#"
+        },
+        {
+            "name": "Sebastian Wild",
+            "id": "2146457109",
+            "org": "Computer Science Department, University of Kaiserslautern, Kaiserslautern, Germany#TAB#"
+        },
+        {
+            "name": "Conrado Martinez",
+            "id": "2250855095",
+            "org": "Department of Computer Science, Univ. Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Quicksort",
+        "Oracle",
+        "Algorithm",
+        "Java bytecode",
+        "Memory hierarchy",
+        "Computer science",
+        "Combinatorics",
+        "Insertion sort",
+        "Order statistic",
+        "Introsort"
+    ],
+    "references": [
+        "1497382427",
+        "1553348389",
+        "1555915743",
+        "1593253629",
+        "1792966054",
+        "1890752145",
+        "1966637680",
+        "1966648469",
+        "1981177980",
+        "2040046786",
+        "2047621279",
+        "2056014488",
+        "2057843273",
+        "2066823629",
+        "2067982019",
+        "2070660746",
+        "2082357899",
+        "2103947065",
+        "2113913510",
+        "2115337421",
+        "2125378108",
+        "2137661354",
+        "2149468555",
+        "2395137269",
+        "2396145993",
+        "2571500349",
+        "2731437525"
+    ]
+}

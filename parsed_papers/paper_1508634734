@@ -1,0 +1,70 @@
+{
+    "id": "1508634734",
+    "title": "McBits: fast constant-time code-based cryptography",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Daniel J. Bernstein",
+            "id": "2572778377",
+            "org": "Department of Computer Science, University of Illinois at Chicago, Chicago, IL and Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Tung Chou",
+            "id": "2171557285",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Peter Schwabe",
+            "id": "2306640565",
+            "org": "Digital Security Group, Radboud University Nijmegen, Nijmegen, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Throughput",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Cipher",
+        "Ivy Bridge",
+        "Computer science",
+        "McEliece cryptosystem",
+        "Sorting network",
+        "Fast Fourier transform",
+        "Timing attack"
+    ],
+    "references": [
+        "47417907",
+        "51430393",
+        "310218969",
+        "1479801926",
+        "1483115924",
+        "1483957515",
+        "1506139516",
+        "1534643746",
+        "1536485115",
+        "1548516269",
+        "1554153316",
+        "1555772964",
+        "1579684562",
+        "1594784179",
+        "1595415026",
+        "1602905584",
+        "1763079358",
+        "1985709119",
+        "2010393691",
+        "2012188345",
+        "2035696589",
+        "2102702231",
+        "2136570131",
+        "2136772235",
+        "2141389982",
+        "2149636648",
+        "2154220188",
+        "2156279885",
+        "2395967649",
+        "2405015683",
+        "2407105577",
+        "2540879644"
+    ]
+}

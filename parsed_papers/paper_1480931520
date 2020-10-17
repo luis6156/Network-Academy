@@ -1,0 +1,57 @@
+{
+    "id": "1480931520",
+    "title": "A fluid model of multipath TCP algorithm: Fairness design with congestion balancing",
+    "venue": "international conference on communications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jia Zhao",
+            "id": "2595485887",
+            "org": "National Engineering Laboratory for Next Generation Internet Interconnection Devices, Beijing Jiaotong University, China"
+        },
+        {
+            "name": "Changqiao Xu",
+            "id": "2110740952",
+            "org": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, China"
+        },
+        {
+            "name": "Jianfeng Guan",
+            "id": "2507202963",
+            "org": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, China"
+        },
+        {
+            "name": "Hongke Zhang",
+            "id": "2107167049",
+            "org": "National Engineering Laboratory for Next Generation Internet Interconnection Devices, Beijing Jiaotong University, China"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "CUBIC TCP",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1515106148",
+        "1823805418",
+        "2011222041",
+        "2034538170",
+        "2035630966",
+        "2108169811",
+        "2112495447",
+        "2118442492",
+        "2126880366",
+        "2129994306",
+        "2139378549",
+        "2339109141"
+    ]
+}

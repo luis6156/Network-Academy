@@ -1,0 +1,75 @@
+{
+    "id": "1425767035",
+    "title": "Not-quite-so-broken TLS: lessons in re-engineering a security protocol specification and implementation",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "David Kaloper-Mersinjak",
+            "id": "1258831112",
+            "org": "University of Cambridge, Computer Laboratory#TAB#"
+        },
+        {
+            "name": "Hannes Mehnert",
+            "id": "2120306394",
+            "org": "University of Cambridge, Computer Laboratory#TAB#"
+        },
+        {
+            "name": "Anil Madhavapeddy",
+            "id": "149227857",
+            "org": "University of Cambridge, Computer Laboratory#TAB#"
+        },
+        {
+            "name": "Peter Sewell",
+            "id": "2083541332",
+            "org": "University of Cambridge, Computer Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Trusted computing base",
+        "Transport Layer Security",
+        "Cryptographic protocol",
+        "Executable",
+        "Computer science",
+        "Computer security",
+        "Implementation",
+        "Server",
+        "WebSocket",
+        "Declarative programming"
+    ],
+    "references": [
+        "124127463",
+        "1495444061",
+        "1499057083",
+        "1499832866",
+        "1531296821",
+        "1563402047",
+        "1655958391",
+        "1664808737",
+        "1673604584",
+        "1733713784",
+        "1769343819",
+        "1965927058",
+        "1975344666",
+        "1976919795",
+        "1984097153",
+        "1996736473",
+        "2014149908",
+        "2018041465",
+        "2070775894",
+        "2076745395",
+        "2082895377",
+        "2098051308",
+        "2107506969",
+        "2108228210",
+        "2126193037",
+        "2134101189",
+        "2134939854",
+        "2145994642",
+        "2163005041",
+        "2165477067",
+        "2247093032",
+        "2402545072",
+        "2580339477"
+    ]
+}

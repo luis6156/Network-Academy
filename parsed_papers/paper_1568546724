@@ -1,0 +1,39 @@
+{
+    "id": "1568546724",
+    "title": "Reconfiguration of massively parallel systems",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Johan Vounckx",
+            "id": "238751153",
+            "org": "K.U.Leuven-ESAT"
+        },
+        {
+            "name": "Geert Deconinck",
+            "id": "2114527781",
+            "org": "K.U.Leuven-ESAT"
+        },
+        {
+            "name": "Rudy Lauwereins",
+            "id": "2680886789",
+            "org": "K.U.Leuven-ESAT"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Massively parallel",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Control reconfiguration",
+        "Fault tolerance"
+    ],
+    "references": [
+        "153708339",
+        "1511657379",
+        "1513155443",
+        "1597875829",
+        "1981514768"
+    ]
+}

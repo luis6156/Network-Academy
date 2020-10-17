@@ -1,0 +1,80 @@
+{
+    "id": "154272912",
+    "title": "Current Mask Generation: an Analog Circuit to Thwart DPA Attacks",
+    "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Daniel Mesquita",
+            "id": "2232817591",
+            "org": "LIRMM - Universite Montpellier II"
+        },
+        {
+            "name": "Jean-Denis Techer",
+            "id": "2008719780",
+            "org": "LIRMM - Universite Montpellier II"
+        },
+        {
+            "name": "Lionel Torres",
+            "id": "2126237477",
+            "org": "LIRMM - Universite Montpellier II"
+        },
+        {
+            "name": "Michel Robert",
+            "id": "2807692777",
+            "org": "LIRMM - Universite Montpellier II"
+        },
+        {
+            "name": "Guy Cathebras",
+            "id": "403369417",
+            "org": "LIRMM - Universite Montpellier II"
+        },
+        {
+            "name": "Gilles Sassatelli",
+            "id": "2306306472",
+            "org": "LIRMM - Universite Montpellier II"
+        },
+        {
+            "name": "Fernando Gehm Moraes",
+            "id": "2169797789",
+            "org": "PPGCC/FACIN/PUCRS"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic engineering",
+        "Cryptography",
+        "Side channel attack",
+        "Computer science",
+        "Key (cryptography)",
+        "Analogue electronics",
+        "Implementation",
+        "Key (lock)",
+        "Electronic circuit",
+        "Leakage (electronics)"
+    ],
+    "references": [
+        "108606907",
+        "143563236",
+        "1504599740",
+        "1515945839",
+        "1548656471",
+        "1560093457",
+        "1560519124",
+        "1563765474",
+        "1565369953",
+        "1582598608",
+        "1593219240",
+        "1664808737",
+        "1841452460",
+        "1996360405",
+        "2003841157",
+        "2031618446",
+        "2104841597",
+        "2110332835",
+        "2112002249",
+        "2145380590",
+        "2145829971",
+        "2155095649",
+        "2169239906"
+    ]
+}

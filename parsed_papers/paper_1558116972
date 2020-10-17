@@ -1,0 +1,59 @@
+{
+    "id": "1558116972",
+    "title": "An efficient threshold public key cryptosystem secure against adaptive chosen ciphertext attack",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ran Canetti",
+            "id": "687553606",
+            "org": "IBM T. J. Watson Research Center, Yorktown Height, NY#TAB#"
+        },
+        {
+            "name": "Shafi Goldwasser",
+            "id": "1728759264",
+            "org": "Laboratory for Computer Science, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Threshold cryptosystem",
+        "Mathematics",
+        "Theoretical computer science",
+        "Malleability",
+        "Cramer-Shoup cryptosystem",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Ciphertext indistinguishability",
+        "Ciphertext",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1516512945",
+        "1532337454",
+        "1535861450",
+        "1540442590",
+        "1552695147",
+        "1572695506",
+        "1576314536",
+        "1589034595",
+        "1589176872",
+        "1594962164",
+        "1617851311",
+        "1740502366",
+        "1928188623",
+        "1967263393",
+        "2048194624",
+        "2054458282",
+        "2073210531",
+        "2095708839",
+        "2096024255",
+        "2096430557",
+        "2101803085",
+        "2129462878",
+        "2141420453",
+        "2153193245",
+        "2161670619",
+        "2168970529"
+    ]
+}

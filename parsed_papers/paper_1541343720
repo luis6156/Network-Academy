@@ -1,0 +1,120 @@
+{
+    "id": "1541343720",
+    "title": "Fast in-memory XPath search using compressed indexes",
+    "venue": "Software - Practice and Experience",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Diego Arroyuelo",
+            "id": "119343461",
+            "org": "Departamento de Informatica, Universidad Tecnica Federico Santa Maria, Chile#TAB#"
+        },
+        {
+            "name": "Francisco Claude",
+            "id": "2099423684",
+            "org": "Escuela de Informatica y Telecomunicaciones, Universidad Diego Portales, Chile#TAB#"
+        },
+        {
+            "name": "Sebastian Maneth",
+            "id": "2796687718",
+            "org": "School of Informatics, University of Edinburgh, UK#TAB#"
+        },
+        {
+            "name": "Veli Makinen",
+            "id": "2026327678",
+            "org": "HIIT and Department of Computer Science, University of Helsinki, Finland#TAB#"
+        },
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "Department of Computer Science, University of Chile, Chile#TAB#"
+        },
+        {
+            "name": "Kim Nguyen",
+            "id": "2158441850",
+            "org": "LRI, Universite Paris-Sud, France#TAB#"
+        },
+        {
+            "name": "Jouni Siren",
+            "id": "2049021634",
+            "org": "Department of Computer Science, University of Chile, Chile#TAB#"
+        },
+        {
+            "name": "Niko Valimaki",
+            "id": "284396349",
+            "org": "Department of Medical Genetics, Faculty of Medicine, University of Helsinki, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XPath",
+        "XSLT",
+        "XML",
+        "Computer science",
+        "Markup language",
+        "Database",
+        "Information retrieval",
+        "XML Schema (W3C)",
+        "XPath 2.0",
+        "Data model",
+        "Succinct data structure"
+    ],
+    "references": [
+        "82970728",
+        "120958072",
+        "1504934817",
+        "1507759507",
+        "1508914815",
+        "1510021131",
+        "1523949762",
+        "1578080250",
+        "1607660775",
+        "1609131911",
+        "1782136421",
+        "1826264422",
+        "1828691170",
+        "1889710124",
+        "1949346071",
+        "1965853364",
+        "1969783316",
+        "1985174631",
+        "1999058046",
+        "2022626404",
+        "2026377243",
+        "2027244654",
+        "2044014345",
+        "2047342127",
+        "2070386554",
+        "2072021854",
+        "2088386938",
+        "2092398161",
+        "2093788424",
+        "2103332648",
+        "2103441770",
+        "2107082304",
+        "2111274946",
+        "2116365500",
+        "2118486794",
+        "2118505448",
+        "2121757479",
+        "2129713651",
+        "2130080588",
+        "2134696992",
+        "2134826526",
+        "2139258089",
+        "2142905080",
+        "2147742826",
+        "2147935317",
+        "2148113067",
+        "2149243190",
+        "2159647614",
+        "2161225124",
+        "2161715626",
+        "2164770381",
+        "2167887041",
+        "2170016254",
+        "2230830246",
+        "2568539266",
+        "2584243174",
+        "2611888112"
+    ]
+}

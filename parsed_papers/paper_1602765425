@@ -1,0 +1,52 @@
+{
+    "id": "1602765425",
+    "title": "SCARE of the DES",
+    "venue": "applied cryptography and network security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Remy Daudigny",
+            "id": "2273796667",
+            "org": "DCSSI Crypto Lab, Paris 07 SP, France#TAB#"
+        },
+        {
+            "name": "Herve Ledig",
+            "id": "2090322109",
+            "org": "DCSSI Crypto Lab, Paris 07 SP, France#TAB#"
+        },
+        {
+            "name": "Frederic Muller",
+            "id": "2165156849",
+            "org": "DCSSI Crypto Lab, Paris 07 SP, France#TAB#"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "DCSSI Crypto Lab, Paris 07 SP, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Reverse engineering",
+        "Software",
+        "Computer science",
+        "Mount",
+        "Computer security",
+        "Exploit",
+        "Smart card"
+    ],
+    "references": [
+        "131640530",
+        "1479755794",
+        "1511843316",
+        "1529516610",
+        "1544522602",
+        "1664808737",
+        "2154909745",
+        "2170489924",
+        "2395584252"
+    ]
+}

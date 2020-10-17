@@ -1,0 +1,78 @@
+{
+    "id": "1541331384",
+    "title": "Real-Time Scheduling for Embedded Systems",
+    "venue": "Handbook of Networked and Embedded Control Systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marco Caccamo",
+            "id": "2045371547",
+            "org": "University of Illinois at Urbana Champaign"
+        },
+        {
+            "name": "Theodore P. Baker",
+            "id": "2157530374",
+            "org": "Florida State University"
+        },
+        {
+            "name": "Alan Burns",
+            "id": "2344101015",
+            "org": "University of York"
+        },
+        {
+            "name": "Giorgio C. Buttazzo",
+            "id": "203197416",
+            "org": "University of Pavia"
+        },
+        {
+            "name": "Lui Sha",
+            "id": "2126304957",
+            "org": "University of Illinois at Urbana Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Embedded system",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "194244820",
+        "1485093219",
+        "1502102375",
+        "1702973254",
+        "1797271790",
+        "1902171224",
+        "1905332030",
+        "1927124720",
+        "1941177221",
+        "1976700965",
+        "1985907895",
+        "2000642048",
+        "2012912569",
+        "2018770409",
+        "2064207294",
+        "2086061827",
+        "2086748818",
+        "2093100591",
+        "2100257697",
+        "2109118153",
+        "2121922965",
+        "2127820743",
+        "2134935059",
+        "2160293203",
+        "2162118702",
+        "2166440675",
+        "2169147056",
+        "2170909005",
+        "2434525066"
+    ]
+}

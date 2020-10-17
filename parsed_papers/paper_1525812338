@@ -1,0 +1,50 @@
+{
+    "id": "1525812338",
+    "title": "Why Textbook ElGamal and RSA Encryption Are Insecure",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Antoine Joux",
+            "id": "2755216431",
+            "org": "DCSSI"
+        },
+        {
+            "name": "Phong Q. Nguyen",
+            "id": "2426635924",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "ElGamal encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1495253569",
+        "1495360227",
+        "1529024636",
+        "1532961226",
+        "1565112835",
+        "1594742286",
+        "1607264302",
+        "1660562555",
+        "1984481156",
+        "1996360405",
+        "2108834246",
+        "2144562951"
+    ]
+}

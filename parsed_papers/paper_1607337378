@@ -1,0 +1,56 @@
+{
+    "id": "1607337378",
+    "title": "Type-based analysis of key management in PKCS#11 cryptographic devices",
+    "venue": "Journal of Computer Security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Matteo Centenaro",
+            "id": "1989679519",
+            "org": "DAIS, Universita Ca' Foscari Venezia, Venice, Italy. E-mails: {mcentena, focardi, luccio}@dsi.unive.it#TAB#"
+        },
+        {
+            "name": "Riccardo Focardi",
+            "id": "344358645",
+            "org": "DAIS, Universita Ca' Foscari Venezia, Venice, Italy. E-mails: {mcentena, focardi, luccio}@dsi.unive.it#TAB#"
+        },
+        {
+            "name": "Flaminia L. Luccio",
+            "id": "1248874653",
+            "org": "DAIS, Universita Ca' Foscari Venezia, Venice, Italy. E-mails: {mcentena, focardi, luccio}@dsi.unive.it#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "PKCS #11",
+        "Computer science",
+        "Distributed computing",
+        "Security token",
+        "PKCS",
+        "Software token",
+        "PKCS #12",
+        "Key management",
+        "PKCS #1"
+    ],
+    "references": [
+        "137801185",
+        "203757321",
+        "1469272392",
+        "1509083475",
+        "1514302123",
+        "1525307539",
+        "1588182391",
+        "1597184376",
+        "1721673008",
+        "1863793285",
+        "1970402795",
+        "1985453495",
+        "2070775894",
+        "2077836579",
+        "2109266092",
+        "2125030112",
+        "2129162180",
+        "2154209904",
+        "2462296223"
+    ]
+}

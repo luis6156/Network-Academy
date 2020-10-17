@@ -1,0 +1,47 @@
+{
+    "id": "1488058190",
+    "title": "Cache attacks and countermeasures: the case of AES",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dag Arne Osvik",
+            "id": "348830572",
+            "org": "No institute#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Eran Tromer",
+            "id": "349649168",
+            "org": "Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cache",
+        "Side channel attack",
+        "Shared memory",
+        "Computer science",
+        "Encryption",
+        "Embedded system",
+        "Memory protection",
+        "Timing attack",
+        "CPU cache"
+    ],
+    "references": [
+        "1506890909",
+        "1548516269",
+        "1566796882",
+        "1890449996",
+        "1988374166",
+        "2099179520",
+        "2125491202",
+        "2126132644",
+        "2137243422",
+        "2240862428"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1500313939",
+    "title": "A formalisation of the Myhill-Nerode theorem based on regular expressions (proof pearl)",
+    "venue": "interactive theorem proving",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Chunhuan Wu",
+            "id": "2891293756",
+            "org": "PLA University of Science and Technology, China#TAB#"
+        },
+        {
+            "name": "Xingyuan Zhang",
+            "id": "2711297663",
+            "org": "PLA University of Science and Technology, China#TAB#"
+        },
+        {
+            "name": "Christian Urban",
+            "id": "2113637902",
+            "org": "TU Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Discrete mathematics",
+        "Disjoint union",
+        "Regular expression",
+        "Regular language",
+        "Formal language",
+        "Myhill-Nerode theorem",
+        "Generalized star height problem",
+        "HOL",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1546270920",
+        "1546449686",
+        "1563342424",
+        "1594381772",
+        "1598988887",
+        "1748007674",
+        "1817451992",
+        "1968602591",
+        "2092268590",
+        "2156429182",
+        "2159882284",
+        "2161151447"
+    ]
+}

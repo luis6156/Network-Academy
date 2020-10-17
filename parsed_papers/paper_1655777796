@@ -1,0 +1,50 @@
+{
+    "id": "1655777796",
+    "title": "HECTOR: an equivalence checker for a higher-order fragment of ML",
+    "venue": "computer aided verification",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "David Hopkins",
+            "id": "2554835698",
+            "org": "Department of Computer Science, University of Oxford, UK#TAB#"
+        },
+        {
+            "name": "Andrzej S. Murawski",
+            "id": "1970301072",
+            "org": "Department of Computer Science, University of Leicester, UK#TAB#"
+        },
+        {
+            "name": "C.-H. Luke Ong",
+            "id": "2141733187",
+            "org": "Department of Computer Science, University of Oxford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Observational equivalence",
+        "Free variables and bound variables",
+        "Algorithm",
+        "Equivalence (measure theory)",
+        "Computer science",
+        "Arity",
+        "Standard ML",
+        "Pushdown automaton",
+        "Model checking",
+        "Decidability"
+    ],
+    "references": [
+        "1555305123",
+        "1556566737",
+        "1564663187",
+        "1923535011",
+        "2063307580",
+        "2117775512",
+        "2132638915",
+        "2151033407",
+        "2151385549",
+        "2153128836",
+        "2156542923",
+        "2166051945",
+        "2205883199"
+    ]
+}

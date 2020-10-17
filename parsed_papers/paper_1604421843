@@ -1,0 +1,52 @@
+{
+    "id": "1604421843",
+    "title": "Runtime adjustment of parallel nested loops",
+    "venue": "international workshop on openmp",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Alejandro Duran",
+            "id": "2294930197",
+            "org": "CEPBA-IBM Research Institute, Departament d'Arquitectura de Computadors, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Raul Esteban Silvera",
+            "id": "2148718067",
+            "org": "IBM Toronto Lab, Markham, ON, Canada#TAB#"
+        },
+        {
+            "name": "Julita Corbalan",
+            "id": "2167232472",
+            "org": "CEPBA-IBM Research Institute, Departament d'Arquitectura de Computadors, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "CEPBA-IBM Research Institute, Departament d'Arquitectura de Computadors, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Thread (computing)",
+        "Runtime library",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Computer science",
+        "Data parallelism",
+        "Implicit parallelism",
+        "Scalable parallelism",
+        "Task parallelism"
+    ],
+    "references": [
+        "1494623905",
+        "1532146045",
+        "1589136629",
+        "1759174268",
+        "1876714082",
+        "2086794688",
+        "2108521624",
+        "2140514001",
+        "2148042043",
+        "2153752404"
+    ]
+}

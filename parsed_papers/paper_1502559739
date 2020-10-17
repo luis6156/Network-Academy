@@ -1,0 +1,38 @@
+{
+    "id": "1502559739",
+    "title": "Generating concurrent test-programs with collisions for multi-processor verification",
+    "venue": "high level design validation and test",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Allon Adir",
+            "id": "1834828340",
+            "org": "IBM Res. Lab., Haifa, Israel"
+        },
+        {
+            "name": "Gil Shurek",
+            "id": "2309998584",
+            "org": "IBM Res. Lab., Haifa, Israel"
+        }
+    ],
+    "fields_of_study": [
+        "High-level synthesis",
+        "Formal verification",
+        "Computer architecture",
+        "Computer science",
+        "Implementation",
+        "Multiprocessing",
+        "Automatic programming",
+        "Real-time computing",
+        "Shared resource",
+        "Collision"
+    ],
+    "references": [
+        "1545792627",
+        "2054739713",
+        "2146256091",
+        "2155006989",
+        "2165365531",
+        "2176864362"
+    ]
+}

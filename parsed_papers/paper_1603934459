@@ -1,0 +1,44 @@
+{
+    "id": "1603934459",
+    "title": "A* with Partial Expansion for Large Branching Factor Problems",
+    "venue": "national conference on artificial intelligence",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Takayuki Yoshizumi",
+            "id": "2090603546",
+            "org": "Kyoto University"
+        },
+        {
+            "name": "Teruhisa Miura",
+            "id": "2105159835",
+            "org": "Department of Social Informatics|Kyoto University"
+        },
+        {
+            "name": "Toru Ishida",
+            "id": "2119853680",
+            "org": "Department of Social Informatics|Kyoto University"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Lattice (order)",
+        "Computer science",
+        "State space",
+        "Branching factor",
+        "Grid",
+        "Multiple sequence alignment",
+        "Exploit",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "38076005",
+        "58921990",
+        "1527157074",
+        "1532158998",
+        "2009833344",
+        "2106061706",
+        "2150470619"
+    ]
+}

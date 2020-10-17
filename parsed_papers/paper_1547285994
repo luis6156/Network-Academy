@@ -1,0 +1,41 @@
+{
+    "id": "1547285994",
+    "title": "A rely-guarantee proof system for x86-TSO",
+    "venue": "verified software: theories, tools, experiments",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Tom Ridge",
+            "id": "1981510984",
+            "org": "University of Leicester#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Sequential consistency",
+        "Computer science",
+        "Computer-assisted proof",
+        "Write buffer",
+        "Correctness",
+        "Memory model",
+        "HOL",
+        "Automated theorem proving",
+        "Assertion",
+        "Programming language"
+    ],
+    "references": [
+        "115884782",
+        "1509000726",
+        "1520556632",
+        "1525350307",
+        "1542736132",
+        "1594381772",
+        "2024255419",
+        "2084175640",
+        "2111706174",
+        "2131750946",
+        "2134482873",
+        "2142018213",
+        "2142579121"
+    ]
+}

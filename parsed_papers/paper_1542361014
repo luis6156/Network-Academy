@@ -1,0 +1,48 @@
+{
+    "id": "1542361014",
+    "title": "Matrix representation of conditions for the collision attack of SHA-1 and its application to the message modification",
+    "venue": "international workshop on security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jun Yajima",
+            "id": "2088139060",
+            "org": "Fujitsu Limited, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Takeshi Shimoyama",
+            "id": "2105611034",
+            "org": "Fujitsu Limited, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SHA-1",
+        "Theoretical computer science",
+        "Chaining",
+        "Computer science",
+        "Distributed computing",
+        "Preimage attack",
+        "Collision attack",
+        "Hash function",
+        "Collision",
+        "Matrix representation"
+    ],
+    "references": [
+        "37807558",
+        "124034723",
+        "1521015940",
+        "1550150171",
+        "1598156343",
+        "1656731780",
+        "1865207131",
+        "1962238089",
+        "2011875290",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131789164",
+        "2145706556",
+        "2593463031",
+        "2616071205"
+    ]
+}

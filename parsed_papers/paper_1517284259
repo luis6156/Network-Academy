@@ -1,0 +1,50 @@
+{
+    "id": "1517284259",
+    "title": "The Rabbit Stream Cipher - Design and Security Analysis",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Martin Boesgaard",
+            "id": "2017764870",
+            "org": "Cryptico A/S"
+        },
+        {
+            "name": "Thomas Pedersen",
+            "id": "2168164382",
+            "org": "Cryptico A/S"
+        },
+        {
+            "name": "Mette Vesterager",
+            "id": "258149804",
+            "org": "Cryptico A/S"
+        },
+        {
+            "name": "Erik Zenner",
+            "id": "2147784711",
+            "org": "Cryptico A/S"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Block cipher",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Stream cipher",
+        "Two-square cipher",
+        "Stream cipher attack",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1699105",
+        "31093886",
+        "1542020576",
+        "1572961947",
+        "1583871653",
+        "1780696059",
+        "1964723977",
+        "2069101763"
+    ]
+}

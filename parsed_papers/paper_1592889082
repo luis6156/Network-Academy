@@ -1,0 +1,45 @@
+{
+    "id": "1592889082",
+    "title": "Theoretical Use of Cache Memory as a Cryptanalytic Side-Channel",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dan Page",
+            "id": "2894300787",
+            "org": "Department of Computer Science|University of Bristol"
+        }
+    ],
+    "fields_of_study": [
+        "Cache algorithms",
+        "Theoretical computer science",
+        "Smart Cache",
+        "Parallel computing",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "Snoopy cache",
+        "MESI protocol",
+        "Cache pollution",
+        "MESIF protocol"
+    ],
+    "references": [
+        "143563236",
+        "1481631217",
+        "1486719429",
+        "1510418153",
+        "1511843316",
+        "1555915743",
+        "1566796882",
+        "1593219240",
+        "1602453119",
+        "1664808737",
+        "1890449996",
+        "2003765520",
+        "2051999750",
+        "2106358255",
+        "2145380590",
+        "2154909745",
+        "2170489924"
+    ]
+}

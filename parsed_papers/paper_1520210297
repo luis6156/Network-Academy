@@ -1,0 +1,58 @@
+{
+    "id": "1520210297",
+    "title": "Using stochastic local search to solve Quantified Boolean Formulae",
+    "venue": "principles and practice of constraint programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ian P. Gent",
+            "id": "2192614943",
+            "org": "University of St. Andrews, Fife, Scotland#TAB#"
+        },
+        {
+            "name": "Holger H. Hoos",
+            "id": "87749410",
+            "org": "University of British Columbia, Vancouver, Canada#TAB#"
+        },
+        {
+            "name": "Andrew G. D. Rowley",
+            "id": "2031048213",
+            "org": "University of St. Andrews, Fife, Scotland#TAB#"
+        },
+        {
+            "name": "Kevin Smyth",
+            "id": "2086052294",
+            "org": "University of British Columbia, Vancouver, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Search algorithm",
+        "Solver",
+        "Constraint satisfaction",
+        "WalkSAT",
+        "Local search (optimization)",
+        "Stochastic programming",
+        "True quantified Boolean formula",
+        "Boolean satisfiability problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "116480155",
+        "125178576",
+        "1501554968",
+        "1553278548",
+        "1571893670",
+        "1597057550",
+        "1607893975",
+        "1789541852",
+        "1916519491",
+        "1922361409",
+        "1979840340",
+        "2012165860",
+        "2067627899",
+        "2106440199",
+        "2150661189",
+        "2156708389"
+    ]
+}

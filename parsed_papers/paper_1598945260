@@ -1,0 +1,54 @@
+{
+    "id": "1598945260",
+    "title": "IP Video Streaming with Fine-Grained TCP-Friendly Rate Adaptation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Toufik Ahmed",
+            "id": "2137787868",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Ahmed Mehaoua",
+            "id": "2627085949",
+            "org": "University of Versailles"
+        },
+        {
+            "name": "Raouf Boutaba",
+            "id": "2202639077",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Youssef Iraqi",
+            "id": "252845094",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Network congestion",
+        "Computer science",
+        "Video quality",
+        "Computer network",
+        "Quality of service",
+        "Network packet",
+        "Best-effort delivery",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "Packet loss"
+    ],
+    "references": [
+        "1539124728",
+        "1655033841",
+        "1995173604",
+        "2099040451",
+        "2099494590",
+        "2100948257",
+        "2113511500",
+        "2116771289",
+        "2137002087",
+        "2158313156",
+        "2163093107"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1526729636",
+    "title": "A conditional random field for discriminatively-trained finite-state string edit distance",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Andrew McCallum",
+            "id": "2131293038",
+            "org": "Department of Computer Science, University of Massachusetts Amherst, Amherst, MA#TAB#"
+        },
+        {
+            "name": "Kedar Bellare",
+            "id": "1829235141",
+            "org": "Department of Computer Science, University of Massachusetts Amherst, Amherst, MA#TAB#"
+        },
+        {
+            "name": "Fernando Pereira",
+            "id": "2291088731",
+            "org": "Department of Computer and Information Science, University of Pennsylvania, Philadelphia, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Random variable",
+        "Pattern recognition",
+        "Computer science",
+        "Jaro-Winkler distance",
+        "String-to-string correction problem",
+        "Conditional random field",
+        "Generative model",
+        "CRFS",
+        "Edit distance",
+        "Discriminative model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1569123402",
+        "2003123121",
+        "2009570821",
+        "2024770506",
+        "2052581258",
+        "2057900969",
+        "2087382212",
+        "2102443632",
+        "2105738468",
+        "2134587001",
+        "2151322733",
+        "2154785834",
+        "2164456230",
+        "2167954650",
+        "2170902582"
+    ]
+}

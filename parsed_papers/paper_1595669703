@@ -1,0 +1,52 @@
+{
+    "id": "1595669703",
+    "title": "A New Double-Block-Length Hash Function Using Feistel Structure",
+    "venue": "information security and assurance",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jesang Lee",
+            "id": "2117857588",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "Department of Mathematics, University of Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Haeryong Park",
+            "id": "2154039640",
+            "org": "Korea Information Security Agency(KISA), Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Computer science",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "66505216",
+        "1547189451",
+        "1547537489",
+        "1549228503",
+        "1600432225",
+        "1746730016",
+        "1810651009",
+        "1863270349",
+        "2020726579"
+    ]
+}

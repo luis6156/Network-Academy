@@ -1,0 +1,50 @@
+{
+    "id": "156706870",
+    "title": "A chosen ciphertext attack against several e-mail encryption protocols",
+    "venue": "usenix security symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Internet Security, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Cryptographic protocol",
+        "Computer science",
+        "PKCS",
+        "Computer security",
+        "Encryption",
+        "Semantic security",
+        "Ciphertext indistinguishability",
+        "Exploit",
+        "Computer network",
+        "Internet privacy",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1516512945",
+        "1557288322",
+        "1607264302",
+        "1611563112",
+        "1612583899",
+        "1672382702",
+        "1789128797",
+        "1809974132",
+        "1836012993",
+        "1909457994",
+        "1993257560",
+        "2052987781",
+        "2104578476",
+        "2144562951",
+        "2165214731",
+        "2568739026"
+    ]
+}

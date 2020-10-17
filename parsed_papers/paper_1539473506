@@ -1,0 +1,47 @@
+{
+    "id": "1539473506",
+    "title": "Instruction set extensions for efficient AES implementation on 32-bit processors",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stefan Tillich",
+            "id": "2122320320",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Parallel computing",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "Instruction set",
+        "Embedded system",
+        "AES implementations",
+        "AES instruction set",
+        "Program optimization"
+    ],
+    "references": [
+        "1524976612",
+        "1525900064",
+        "1540837885",
+        "1558515754",
+        "1579280642",
+        "2101286902",
+        "2106181459",
+        "2131014680",
+        "2132280197",
+        "2149174385",
+        "2150250564",
+        "2152268356",
+        "2163769417",
+        "2164100802"
+    ]
+}

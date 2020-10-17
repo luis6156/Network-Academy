@@ -1,0 +1,83 @@
+{
+    "id": "1816837704",
+    "title": "Solving weighted and counting variants of connectivity problems parameterized by treewidth deterministically in single exponential time",
+    "venue": "arXiv: Data Structures and Algorithms",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Hans L. Bodlaender",
+            "id": "2288497910",
+            "org": "Utrecht University"
+        },
+        {
+            "name": "Marek Cygan",
+            "id": "2042000258",
+            "org": "University of Warsaw"
+        },
+        {
+            "name": "Stefan Kratsch",
+            "id": "2284938513",
+            "org": "Max Planck Society"
+        },
+        {
+            "name": "Jesper Nederlof",
+            "id": "2158525641",
+            "org": "Utrecht University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Treewidth",
+        "Discrete mathematics",
+        "Dominating set",
+        "Rank (linear algebra)",
+        "Combinatorics",
+        "Vertex cover",
+        "Parameterized complexity",
+        "Tree decomposition",
+        "Travelling salesman problem",
+        "Steiner tree problem"
+    ],
+    "references": [
+        "15553240",
+        "143512583",
+        "1542928981",
+        "1575411448",
+        "1592452925",
+        "1787126581",
+        "1817070267",
+        "1826506799",
+        "1850475437",
+        "1852383912",
+        "1968952709",
+        "1991755800",
+        "1995725694",
+        "2002722727",
+        "2003250112",
+        "2021180976",
+        "2028357390",
+        "2038073775",
+        "2043344835",
+        "2043841752",
+        "2059273723",
+        "2059372025",
+        "2063951771",
+        "2065963401",
+        "2066904980",
+        "2100239335",
+        "2119044694",
+        "2130481157",
+        "2148294996",
+        "2151732151",
+        "2154682992",
+        "2163751818",
+        "2167377888",
+        "2174446922",
+        "2177603603",
+        "2296148711",
+        "2296469570",
+        "2336629689",
+        "2408491755",
+        "2610479830"
+    ]
+}

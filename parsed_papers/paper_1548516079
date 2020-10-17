@@ -1,0 +1,59 @@
+{
+    "id": "1548516079",
+    "title": "The Efeect of Contention on the Scalability of Page-Based Software Shared Memory Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Eyal de Lara",
+            "id": "2123742581",
+            "org": "Rice University"
+        },
+        {
+            "name": "Y. Charlie Hu",
+            "id": "2138966024",
+            "org": "Rice University"
+        },
+        {
+            "name": "Honghui Lu",
+            "id": "2162317311",
+            "org": "Rice University"
+        },
+        {
+            "name": "Alan L. Cox",
+            "id": "2139024270",
+            "org": "Rice University"
+        },
+        {
+            "name": "Willy Zwaenepoel",
+            "id": "2290999210",
+            "org": "Rice University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "TreadMarks",
+        "Software development",
+        "Release consistency",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Distributed shared memory",
+        "Optimizing compiler",
+        "Real-time computing"
+    ],
+    "references": [
+        "1542985837",
+        "1966285605",
+        "2002694006",
+        "2097113145",
+        "2133022700",
+        "2133766356",
+        "2141318181",
+        "2144614730",
+        "2165365531",
+        "2176864362"
+    ]
+}

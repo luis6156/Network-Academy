@@ -1,0 +1,41 @@
+{
+    "id": "1578895382",
+    "title": "Verifying Temporal Properties of Sequential Machines Without Building their State Diagrams",
+    "venue": "computer aided verification",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Olivier Coudert",
+            "id": "257365206",
+            "org": "Bull Research Center"
+        },
+        {
+            "name": "Jean Christophe Madre",
+            "id": "2302861403",
+            "org": "Bull Research Center"
+        },
+        {
+            "name": "Christian Berthet",
+            "id": "2082423035",
+            "org": "Bull Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "State diagram",
+        "Binary decision diagram",
+        "Extended finite-state machine",
+        "Interval temporal logic",
+        "Richards controller",
+        "State transition table",
+        "Boolean function",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1992006255",
+        "2080267935",
+        "2141542945",
+        "2150119568"
+    ]
+}

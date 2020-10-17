@@ -1,0 +1,44 @@
+{
+    "id": "1572251458",
+    "title": "Completeness of a Bytecode Verifier and a Certifying Java-to-JVM Compiler",
+    "venue": "Journal of Automated Reasoning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Robert F. Stark",
+            "id": "2745713932",
+            "org": "ETH Zurich. e-mail: staerk@inf.ethz.ch#TAB#"
+        },
+        {
+            "name": "Joachim Schmid",
+            "id": "2136345113",
+            "org": "Siemens AG, Munich. e-mail: joachim.schmid@tydo.de#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Algorithm",
+        "Definite assignment analysis",
+        "Java bytecode",
+        "Compiler",
+        "Computer science",
+        "Bytecode",
+        "Stack (abstract data type)",
+        "Subroutine",
+        "restrict",
+        "Programming language"
+    ],
+    "references": [
+        "1490228606",
+        "1633108902",
+        "1966130668",
+        "1969402593",
+        "1976394633",
+        "1996469056",
+        "2010608535",
+        "2020763704",
+        "2031833469",
+        "2150352456",
+        "2585379342"
+    ]
+}

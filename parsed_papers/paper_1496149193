@@ -1,0 +1,44 @@
+{
+    "id": "1496149193",
+    "title": "Efficient and Forward-Secure Identity-Based Signcryption.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Noel McCullagh",
+            "id": "2131373556",
+            "org": "Dublin City University"
+        },
+        {
+            "name": "Paulo S. L. M. Barreto",
+            "id": "2092095195",
+            "org": "University of Sao Paulo"
+        }
+    ],
+    "fields_of_study": [
+        "Signcryption",
+        "Theoretical computer science",
+        "Computer science",
+        "Pairing",
+        "Forward secrecy",
+        "Open problem",
+        "Weil pairing",
+        "Semantic security"
+    ],
+    "references": [
+        "115792472",
+        "1250588604",
+        "1486255205",
+        "1489428282",
+        "1499103434",
+        "1518817958",
+        "1518871948",
+        "1569083856",
+        "1571104860",
+        "1637905077",
+        "1643928249",
+        "2079257806",
+        "2112914778",
+        "2148437174"
+    ]
+}

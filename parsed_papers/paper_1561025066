@@ -1,0 +1,66 @@
+{
+    "id": "1561025066",
+    "title": "Dynamic Symbolic Execution for Testing Distributed Objects",
+    "venue": "tests and proofs",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Andreas Griesmayer",
+            "id": "1633365979",
+            "org": "International Institute for Software Technology, United Nations University (UNU-IIST), Macao S.A.R., China#TAB#"
+        },
+        {
+            "name": "Bernhard K. Aichernig",
+            "id": "171850535",
+            "org": "International Institute for Software Technology, United Nations University (UNU-IIST), Macao S.A.R., China and Institute for Software Technology, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Einar Broch Johnsen",
+            "id": "1923830530",
+            "org": "Department of Informatics, University of Oslo, Norway#TAB#"
+        },
+        {
+            "name": "Rudolf Schlatte",
+            "id": "1155925581",
+            "org": "International Institute for Software Technology, United Nations University (UNU-IIST), Macao S.A.R., China and Institute for Software Technology, Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Concolic testing",
+        "Computer science",
+        "Symbolic execution",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Race condition",
+        "Distributed object",
+        "Model-based testing",
+        "Real-time computing",
+        "Modeling language"
+    ],
+    "references": [
+        "1495461922",
+        "1546588633",
+        "1548806133",
+        "1556566737",
+        "1720848645",
+        "1845288303",
+        "1887412317",
+        "1968156395",
+        "1976195354",
+        "2033745581",
+        "2055647675",
+        "2055999595",
+        "2074891852",
+        "2096449544",
+        "2098400709",
+        "2101512909",
+        "2110311336",
+        "2112678128",
+        "2118437239",
+        "2134287022",
+        "2138538192",
+        "2171683519",
+        "2194223632"
+    ]
+}

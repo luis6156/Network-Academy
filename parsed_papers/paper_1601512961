@@ -1,0 +1,74 @@
+{
+    "id": "1601512961",
+    "title": "Automatic multi-organ segmentation using learning-based segmentation and level set optimization",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Timo Kohlberger",
+            "id": "2810472328",
+            "org": "Image Analytics and Informatics, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Michal Sofka",
+            "id": "1880413372",
+            "org": "Image Analytics and Informatics, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Jingdan Zhang",
+            "id": "2147787624",
+            "org": "Image Analytics and Informatics, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Neil Birkbeck",
+            "id": "1476131191",
+            "org": "Image Analytics and Informatics, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Jens Wetzl",
+            "id": "2777374589",
+            "org": "Image Analytics and Informatics, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Jens N. Kaftan",
+            "id": "2073644877",
+            "org": "Molecular Imaging, Siemens Healthcare, Oxford, UK#TAB#"
+        },
+        {
+            "name": "Jerome Declerck",
+            "id": "2054755465",
+            "org": "Molecular Imaging, Siemens Healthcare, Oxford, UK#TAB#"
+        },
+        {
+            "name": "S. Kevin Zhou",
+            "id": "2167740186",
+            "org": "Image Analytics and Informatics, Siemens Corporate Research, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Image segmentation",
+        "Point cloud",
+        "Scale-space segmentation",
+        "Level set",
+        "Robustness (computer science)",
+        "Segmentation-based object categorization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1480873147",
+        "1519604908",
+        "1589124700",
+        "2006968062",
+        "2016777897",
+        "2101689475",
+        "2116040950",
+        "2146514558",
+        "2153284654",
+        "2155343350",
+        "2158362736"
+    ]
+}

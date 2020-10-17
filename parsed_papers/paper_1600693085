@@ -1,0 +1,58 @@
+{
+    "id": "1600693085",
+    "title": "Algebraic side-channel analysis in the presence of errors",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yossef Oren",
+            "id": "2627822722",
+            "org": "Computer and Network Security Lab, School of Electrical Engineering, Tel-Aviv University, Ramat Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Mario Kirschbaum",
+            "id": "2150407325",
+            "org": "Institute for Applied Information Processing and Communications, Graz University Of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Popp",
+            "id": "2137618640",
+            "org": "Institute for Applied Information Processing and Communications, Graz University Of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Avishai Wool",
+            "id": "2064532066",
+            "org": "Computer and Network Security Lab, School of Electrical Engineering, Tel-Aviv University, Ramat Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Observational error",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Computer science",
+        "Optimization problem",
+        "Power analysis",
+        "KeeLoq",
+        "Boolean satisfiability problem",
+        "Solver",
+        "Correlation attack"
+    ],
+    "references": [
+        "1490304119",
+        "1495989020",
+        "1504927043",
+        "1531340371",
+        "1546849562",
+        "1573175443",
+        "1583771634",
+        "1794592934",
+        "1870923733",
+        "1991133427",
+        "2014328192",
+        "2073472614",
+        "2147436724",
+        "2149174385",
+        "2154909745",
+        "2222122796"
+    ]
+}

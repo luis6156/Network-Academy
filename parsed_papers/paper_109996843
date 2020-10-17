@@ -1,0 +1,31 @@
+{
+    "id": "109996843",
+    "title": "Fast IPsec: a high-performance IPsec implementation",
+    "venue": "BSDC'03 Proceedings of the BSD Conference 2003 on BSD Conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Samuel J. Leffler",
+            "id": "2573095037",
+            "org": "Errno Consulting#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Porting",
+        "Throughput",
+        "Cryptographic protocol",
+        "Computer science",
+        "IPsec",
+        "Uniprocessor system",
+        "Secure communication",
+        "Operating system",
+        "Computer network",
+        "Hardware acceleration"
+    ],
+    "references": [
+        "103875505",
+        "156908571",
+        "1586222347"
+    ]
+}

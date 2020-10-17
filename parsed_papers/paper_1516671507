@@ -1,0 +1,50 @@
+{
+    "id": "1516671507",
+    "title": "Truncated Differential Cryptanalysis of Camellia",
+    "venue": "international conference on information security and cryptology",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Seonhee Lee",
+            "id": "2584960222",
+            "org": "Korea University"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Korea University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Korea University"
+        },
+        {
+            "name": "Seonhee Yoon",
+            "id": "2279902601",
+            "org": "Korea Information Security Agency(KISA)"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Block cipher",
+        "Theoretical computer science",
+        "NESSIE",
+        "Computer science",
+        "Discrete mathematics",
+        "Encryption",
+        "Truncated differential cryptanalysis",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "1488537309",
+        "1500584382",
+        "1554500429",
+        "2234576048"
+    ]
+}

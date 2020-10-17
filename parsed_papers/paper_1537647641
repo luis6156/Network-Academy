@@ -1,0 +1,48 @@
+{
+    "id": "1537647641",
+    "title": "Multiplexing packets with arbitrary deadlines in bounded buffers",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yossi Azar",
+            "id": "2128632650",
+            "org": "School of Computer Science, Tel Aviv University, Tel Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Nir Levy",
+            "id": "2130853029",
+            "org": "School of Computer Science, Tel Aviv University, Tel Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Competitive analysis",
+        "Mathematics",
+        "Greedy algorithm",
+        "Randomized algorithm",
+        "Distributed computing",
+        "Deterministic algorithm",
+        "Online algorithm",
+        "Bounded function",
+        "Network packet",
+        "Out-of-order delivery",
+        "Real-time computing"
+    ],
+    "references": [
+        "1530717015",
+        "1587641343",
+        "1986933829",
+        "1990869735",
+        "1991173480",
+        "1994408974",
+        "2009303716",
+        "2010459659",
+        "2067963342",
+        "2070497154",
+        "2076648698",
+        "2095073910",
+        "2136399962",
+        "2168012204",
+        "2169023571"
+    ]
+}

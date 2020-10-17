@@ -1,0 +1,42 @@
+{
+    "id": "1696118358",
+    "title": "Highly parallel implementation of Harris Corner detector on CSX SIMD architecture",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Fouzhan Hosseini",
+            "id": "2156657027",
+            "org": "Italian Institute of Technology, Genova, Italy#TAB#"
+        },
+        {
+            "name": "Amir Fijany",
+            "id": "2303998027",
+            "org": "Italian Institute of Technology, Genova, Italy#TAB#"
+        },
+        {
+            "name": "Jean-Guy Fontaine",
+            "id": "2214303232",
+            "org": "Italian Institute of Technology, Genova, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "SIMD",
+        "Computer science",
+        "Feature detection",
+        "Architecture",
+        "Frame rate",
+        "Corner detection"
+    ],
+    "references": [
+        "1480524957",
+        "1520043801",
+        "1995903777",
+        "2111308925",
+        "2117676267",
+        "2129076589",
+        "2162910395"
+    ]
+}

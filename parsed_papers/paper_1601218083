@@ -1,0 +1,57 @@
+{
+    "id": "1601218083",
+    "title": "A framework for password-based authenticated key exchange",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Yehuda Lindell",
+            "id": "30238620",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Key exchange",
+        "Cryptographic protocol",
+        "Computer science",
+        "Password",
+        "Hash function",
+        "Authentication",
+        "Authenticated Key Exchange",
+        "Modular design"
+    ],
+    "references": [
+        "203500824",
+        "1504856445",
+        "1516161674",
+        "1542059364",
+        "1595293097",
+        "1602484190",
+        "1972792640",
+        "2002930326",
+        "2052267638",
+        "2074861055",
+        "2091020476",
+        "2101803085",
+        "2111443676",
+        "2124371582",
+        "2124926080",
+        "2132172731",
+        "2133432179",
+        "2134475940",
+        "2152688060",
+        "2153281696",
+        "2156186849",
+        "2157604883",
+        "2163172859",
+        "2165111290",
+        "2403237970"
+    ]
+}

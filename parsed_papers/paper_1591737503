@@ -1,0 +1,56 @@
+{
+    "id": "1591737503",
+    "title": "Fail-Safe ANSI-C Compiler: An Approach to Making C Programs Secure Progress Report",
+    "venue": "International Symposium on Software Security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Yutaka Oiwa",
+            "id": "2781111649",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Tatsurou Sekiguchi",
+            "id": "2155236881",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Eijiro Sumii",
+            "id": "319986475",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Akinori Yonezawa",
+            "id": "660900409",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Dangling pointer",
+        "Pointer (computer programming)",
+        "Undefined behavior",
+        "Compiler",
+        "Computer science",
+        "ANSI C",
+        "Runtime system",
+        "Buffer overflow",
+        "Real-time computing",
+        "Programming language",
+        "Legacy system"
+    ],
+    "references": [
+        "1499992849",
+        "1579850852",
+        "1655226010",
+        "1685737956",
+        "1825457006",
+        "1973326708",
+        "1981962444",
+        "2025317174",
+        "2040384644",
+        "2043647957",
+        "2107742417",
+        "2130711572",
+        "2140611647"
+    ]
+}

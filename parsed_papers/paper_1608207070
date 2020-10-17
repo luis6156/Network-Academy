@@ -1,0 +1,42 @@
+{
+    "id": "1608207070",
+    "title": "Incremental locally linear embedding algorithm",
+    "venue": "scandinavian conference on image analysis",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Olga Kouropteva",
+            "id": "330902113",
+            "org": "Machine Vision Group, Infotech Oulu and Department of Electrical and Information Engineering, University of Oulu, Finland#TAB#"
+        },
+        {
+            "name": "Oleg Okun",
+            "id": "2027791909",
+            "org": "Machine Vision Group, Infotech Oulu and Department of Electrical and Information Engineering, University of Oulu, Finland#TAB#"
+        },
+        {
+            "name": "Matti Pietikainen",
+            "id": "2007797616",
+            "org": "Machine Vision Group, Infotech Oulu and Department of Electrical and Information Engineering, University of Oulu, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Embedding",
+        "Nonlinear dimensionality reduction",
+        "Algorithm",
+        "Dimensionality reduction",
+        "Batch processing",
+        "Computer science",
+        "Curse of dimensionality",
+        "Optimization problem",
+        "Batch production",
+        "Data structure"
+    ],
+    "references": [
+        "119967642",
+        "1512834934",
+        "2063532964",
+        "2097308346",
+        "2153934661"
+    ]
+}

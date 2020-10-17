@@ -1,0 +1,45 @@
+{
+    "id": "1794421227",
+    "title": "Related-Key impossible differential attacks on 8-round AES-192",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Cryptanalysis"
+    ],
+    "references": [
+        "18798069",
+        "1493204363",
+        "1515958737",
+        "1516699468",
+        "1541703086",
+        "1541853791",
+        "1587120902",
+        "1596744447",
+        "1974355178",
+        "1979802565",
+        "1991897749",
+        "2514781489"
+    ]
+}

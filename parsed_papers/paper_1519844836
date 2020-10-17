@@ -1,0 +1,52 @@
+{
+    "id": "1519844836",
+    "title": "Lock-Free Asynchronous Rendezvous Design for MPI Point-to-Point Communication",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Rahul Kumar",
+            "id": "2294879117",
+            "org": "Network-Based Computing Laboratory Department of Computer Science and Engineering, The Ohio State University,#TAB#"
+        },
+        {
+            "name": "Amith R. Mamidala",
+            "id": "2223198241",
+            "org": "Network-Based Computing Laboratory Department of Computer Science and Engineering, The Ohio State University,#TAB#"
+        },
+        {
+            "name": "Matthew J. Koop",
+            "id": "2069441235",
+            "org": "Network-Based Computing Laboratory Department of Computer Science and Engineering, The Ohio State University,#TAB#"
+        },
+        {
+            "name": "Gopalakrishnan Santhanaraman",
+            "id": "1993030442",
+            "org": "Network-Based Computing Laboratory Department of Computer Science and Engineering, The Ohio State University,#TAB#"
+        },
+        {
+            "name": "Dhabaleswar K. Panda",
+            "id": "2126583185",
+            "org": "Network-Based Computing Laboratory Department of Computer Science and Engineering, The Ohio State University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Rendezvous",
+        "Linux kernel",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Message Passing Interface",
+        "Distributed memory",
+        "Non-blocking algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "1966418706",
+        "1996887196",
+        "2126509165",
+        "2155066383"
+    ]
+}

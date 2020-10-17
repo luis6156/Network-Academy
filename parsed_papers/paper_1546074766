@@ -1,0 +1,54 @@
+{
+    "id": "1546074766",
+    "title": "SPAKE: a single-party public-key authenticated key exchange protocol for contact-less applications",
+    "venue": "financial cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "University of Luxembourg#TAB#"
+        },
+        {
+            "name": "Aline Gouget",
+            "id": "1967231191",
+            "org": "CryptoExperts and Gemalto Security Labs#TAB#"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "CryptoExperts and Gemalto Security Labs#TAB#"
+        },
+        {
+            "name": "Karine Villegas",
+            "id": "2294671700",
+            "org": "Gemalto Security Labs#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key exchange",
+        "Universal composability",
+        "Session key",
+        "Computer science",
+        "Cryptographic protocol",
+        "Computer security",
+        "Oakley protocol",
+        "Key-agreement protocol",
+        "Key management",
+        "Computer network",
+        "Internet privacy",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "1495266644",
+        "1516512945",
+        "1552695147",
+        "1561907855",
+        "1890195226",
+        "2047137914",
+        "2124926080",
+        "2147436724",
+        "2159864663",
+        "2742455357"
+    ]
+}

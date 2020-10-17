@@ -1,0 +1,39 @@
+{
+    "id": "1599493248",
+    "title": "Intrusion detection using cost-sensitive classification",
+    "venue": "arXiv: Cryptography and Security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Aikaterini Mitrokotsa",
+            "id": "1985788981",
+            "org": "Vrije University Amsterdam"
+        },
+        {
+            "name": "Christos Dimitrakakis",
+            "id": "1968011823",
+            "org": "University of Leoben"
+        },
+        {
+            "name": "Christos Douligeris",
+            "id": "248087451",
+            "org": "University of Piraeus"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "False alarm",
+        "Computer security",
+        "Anomaly-based intrusion detection system",
+        "Intrusion detection system",
+        "Constant false alarm rate",
+        "Mixture model"
+    ],
+    "references": [
+        "1576154654",
+        "1670263352",
+        "1794828807",
+        "1826478421",
+        "2058732827"
+    ]
+}

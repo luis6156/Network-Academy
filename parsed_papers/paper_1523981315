@@ -1,0 +1,44 @@
+{
+    "id": "1523981315",
+    "title": "Iteration bound analysis and throughput optimum architecture of SHA-256 (384,512) for hardware implementations",
+    "venue": "workshop on information security applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yong Ki Lee",
+            "id": "2106716874",
+            "org": "University of California, Los Angeles#TAB#"
+        },
+        {
+            "name": "Herwin Chan",
+            "id": "2115635389",
+            "org": "University of California, Los Angeles#TAB#"
+        },
+        {
+            "name": "Ingrid Verbauwhede",
+            "id": "2044881251",
+            "org": "University of California, Los Angeles and Katholieke Universiteit Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Computer science",
+        "Implementation",
+        "Hash function",
+        "Architecture"
+    ],
+    "references": [
+        "1600401946",
+        "1972680527",
+        "1994249952",
+        "2101778660",
+        "2126252444",
+        "2132567738",
+        "2141569810",
+        "2161842651",
+        "2202331604"
+    ]
+}

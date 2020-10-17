@@ -1,0 +1,32 @@
+{
+    "id": "1532230833",
+    "title": "A migration framework for executing parallel programs in the grid",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jozsef Kovacs",
+            "id": "2429420683",
+            "org": "MTA SZTAKI, Parallel and Distributed Systems Laboratory"
+        },
+        {
+            "name": "Peter Kacsuk",
+            "id": "1988113753",
+            "org": "MTA SZTAKI, Parallel and Distributed Systems Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "DRMAA",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Grid",
+        "Visualization",
+        "Virtual machine",
+        "Grid computing"
+    ],
+    "references": [
+        "2132572305",
+        "2154010459"
+    ]
+}

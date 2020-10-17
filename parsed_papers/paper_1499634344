@@ -1,0 +1,48 @@
+{
+    "id": "1499634344",
+    "title": "Limitations of learning via embeddings in euclidean half spaces",
+    "venue": "Journal of Machine Learning Research",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Shai Ben-David",
+            "id": "2151264347",
+            "org": "Department of Computer Science, Technion, Haifa 32000, Israel#TAB#"
+        },
+        {
+            "name": "Nadav Eiron",
+            "id": "2402050362",
+            "org": "IBM Almaden Research Center, 650 Harry Road, San Jose, CA#TAB#"
+        },
+        {
+            "name": "Hans Ulrich Simon",
+            "id": "2100767082",
+            "org": "Fakultat fur Mathematik, Ruhr-Universitat Bochum, D-44780 Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Embedding",
+        "Dimension function",
+        "Discrete mathematics",
+        "Minkowski-Bouligand dimension",
+        "Topology",
+        "VC dimension",
+        "Inductive dimension",
+        "Effective dimension",
+        "Half-space",
+        "Euclidean space",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1516726196",
+        "1597529531",
+        "1868906402",
+        "1979711143",
+        "2008671796",
+        "2067220985",
+        "2123750718",
+        "2148603752"
+    ]
+}

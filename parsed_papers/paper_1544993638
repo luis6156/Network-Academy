@@ -1,0 +1,51 @@
+{
+    "id": "1544993638",
+    "title": "Secure Communication Scheme Applying MX Resource Record in DNSSEC Domain",
+    "venue": "international conference on computational science and its applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hyung-Jin Lim",
+            "id": "2145880495",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Hak-Ju Kim",
+            "id": "2643112837",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Tae-Kyung Kim",
+            "id": "2489062647",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Tai-Myung Chung",
+            "id": "2101520931",
+            "org": "Sungkyunkwan University"
+        }
+    ],
+    "fields_of_study": [
+        "Mutual authentication",
+        "Computer science",
+        "Forward secrecy",
+        "Zone file",
+        "Computer security",
+        "Secure communication",
+        "Domain Name System",
+        "Trust mechanism",
+        "Random oracle",
+        "Computer network",
+        "Wide area network"
+    ],
+    "references": [
+        "1552489884",
+        "1570504403",
+        "1667466877",
+        "1828150029",
+        "2036601781",
+        "2111427271",
+        "2125114320",
+        "2138192988"
+    ]
+}

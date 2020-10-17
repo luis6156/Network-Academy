@@ -1,0 +1,70 @@
+{
+    "id": "1710455405",
+    "title": "Shoal: smart allocation and replication of memory for parallel programs",
+    "venue": "usenix annual technical conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Stefan Kaestle",
+            "id": "2278615466",
+            "org": "Systems Group, Dept. of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Reto Achermann",
+            "id": "2287296923",
+            "org": "Systems Group, Dept. of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Timothy Roscoe",
+            "id": "1981466420",
+            "org": "Systems Group, Dept. of Computer Science, ETH Zurich#TAB#"
+        },
+        {
+            "name": "Tim Harris",
+            "id": "2124464945",
+            "org": "Oracle Labs, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Parallel computing",
+        "Program analysis",
+        "Compiler",
+        "Computer science",
+        "Analytics",
+        "Memory management",
+        "Workload",
+        "Latency (engineering)",
+        "Exploit",
+        "Real-time computing"
+    ],
+    "references": [
+        "190062532",
+        "1437641643",
+        "1582138098",
+        "1638046175",
+        "1964057018",
+        "2006500015",
+        "2031844067",
+        "2040057776",
+        "2072277531",
+        "2076265406",
+        "2088723365",
+        "2090409324",
+        "2100817684",
+        "2101196063",
+        "2104329103",
+        "2109065830",
+        "2109982223",
+        "2120616073",
+        "2134431066",
+        "2146236588",
+        "2157802978",
+        "2165382766",
+        "2168075869",
+        "2169875292",
+        "2240938131",
+        "2290201699",
+        "2432978112"
+    ]
+}

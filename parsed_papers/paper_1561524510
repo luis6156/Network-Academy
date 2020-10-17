@@ -1,0 +1,48 @@
+{
+    "id": "1561524510",
+    "title": "Modular TCP Handoff Design in STREAMS-Based TCP/IP Implementation",
+    "venue": "international conference on networking",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Wenting Tang",
+            "id": "2167159946",
+            "org": "Hewlett-Packard Labs"
+        },
+        {
+            "name": "Ludmila Cherkasova",
+            "id": "1992532619",
+            "org": "Hewlett-Packard Labs"
+        },
+        {
+            "name": "Lance Russell",
+            "id": "2141664691",
+            "org": "Hewlett-Packard Labs"
+        },
+        {
+            "name": "Matt W. Mutka",
+            "id": "2228061382",
+            "org": "Michigan State Universsity"
+        }
+    ],
+    "fields_of_study": [
+        "Compound TCP",
+        "Zeta-TCP",
+        "Computer science",
+        "Quality of service",
+        "TCP tuning",
+        "TCP hole punching",
+        "Network address translation",
+        "TCP global synchronization",
+        "Computer network",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "140414421",
+        "1675263286",
+        "2102748509",
+        "2121879336",
+        "2166751304"
+    ]
+}

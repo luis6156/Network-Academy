@@ -1,0 +1,49 @@
+{
+    "id": "1499791368",
+    "title": "New branch prediction vulnerabilities in openSSL and necessary software countermeasures",
+    "venue": "Cryptography and Coding'07 Proceedings of the 11th IMA international conference on Cryptography and coding",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Onur Aciicmez",
+            "id": "301415581",
+            "org": "Samsung Information Systems America, San Jose#TAB#"
+        },
+        {
+            "name": "Shay Gueron",
+            "id": "2178289",
+            "org": "Department of Mathematics, University of Haifa, Haifa, Israel and Intel Corporation, IDC, Israel#TAB#"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2429031393",
+            "org": "Samsung Information Systems America, San Jose and Institute for Computer Science, University of Innsbruck, Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Software analysis pattern",
+        "Side channel attack",
+        "Software",
+        "Computer science",
+        "Extended Euclidean algorithm",
+        "Cryptosystem",
+        "Exploit",
+        "Public-key cryptography",
+        "Real-time computing"
+    ],
+    "references": [
+        "1488058190",
+        "1496265857",
+        "1512628322",
+        "1587865420",
+        "1660562555",
+        "1809974132",
+        "1972622169",
+        "2056778557",
+        "2107691219",
+        "2131019288",
+        "2132064685",
+        "2137243422"
+    ]
+}

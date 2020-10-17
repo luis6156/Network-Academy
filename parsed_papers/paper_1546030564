@@ -1,0 +1,87 @@
+{
+    "id": "1546030564",
+    "title": "An Authorization Framework for a Grid Based Component Architecture",
+    "venue": "grid computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Lavanya Ramakrishnan",
+            "id": "2189176786",
+            "org": "Department of Computer Science, Indiana University, Bloomington, USA"
+        },
+        {
+            "name": "Helen Rehn",
+            "id": "2464959204",
+            "org": "National Center for Supercomputer Applications, Champaign, USA"
+        },
+        {
+            "name": "Jay Alameda",
+            "id": "1987737632",
+            "org": "National Center for Supercomputer Applications, Champaign, USA"
+        },
+        {
+            "name": "Rachana Ananthakrishnan",
+            "id": "2798451782",
+            "org": "Department of Computer Science, Indiana University, Bloomington, USA"
+        },
+        {
+            "name": "Madhusudhan Govindaraju",
+            "id": "1800311415",
+            "org": "Department of Computer Science, Indiana University, Bloomington, USA"
+        },
+        {
+            "name": "Aleksander Slominski",
+            "id": "2115256642",
+            "org": "Department of Computer Science, Indiana University, Bloomington, USA"
+        },
+        {
+            "name": "Kay Connelly",
+            "id": "2037819608",
+            "org": "Department of Computer Science, Indiana University, Bloomington, USA"
+        },
+        {
+            "name": "Von Welch",
+            "id": "2116420871",
+            "org": "National Center for Supercomputer Applications, Champaign, USA"
+        },
+        {
+            "name": "Dennis Gannon",
+            "id": "2167405706",
+            "org": "Department of Computer Science, Indiana University, Bloomington, USA"
+        },
+        {
+            "name": "Randall Bramley",
+            "id": "2099667507",
+            "org": "Department of Computer Science, Indiana University, Bloomington, USA"
+        },
+        {
+            "name": "Shawn Hampton",
+            "id": "2424760258",
+            "org": "National Center for Supercomputer Applications, Champaign, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Grid",
+        "Architecture",
+        "Authoring system",
+        "Database",
+        "Authorization",
+        "Authentication",
+        "Common Component Architecture",
+        "Grid Security Infrastructure",
+        "SOAP"
+    ],
+    "references": [
+        "176675676",
+        "1598149995",
+        "1754120094",
+        "1851877160",
+        "2104838136",
+        "2127247263",
+        "2157689518",
+        "2171960302",
+        "2439240014"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1589943213",
+    "title": "High Performance Matrix Multiplication on Many Cores",
+    "venue": "european conference on parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Nan Yuan",
+            "id": "2110069924",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P. R. China 100190 and Graduate University of Chinese Academy of Scienc ...#TAB#"
+        },
+        {
+            "name": "Yongbin Zhou",
+            "id": "2685693763",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P. R. China 100190 and Graduate University of Chinese Academy of Scienc ...#TAB#"
+        },
+        {
+            "name": "Guangming Tan",
+            "id": "2109042203",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P. R. China 100190#TAB#"
+        },
+        {
+            "name": "Junchao Zhang",
+            "id": "2166008230",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P. R. China 100190#TAB#"
+        },
+        {
+            "name": "Dongrui Fan",
+            "id": "2107724744",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P. R. China 100190#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Matrix multiplication",
+        "Parallel computing",
+        "Software",
+        "Memory hierarchy",
+        "Chip",
+        "Computer science",
+        "Task parallelism",
+        "Multiplication algorithm",
+        "Architecture"
+    ],
+    "references": [
+        "1692608938",
+        "1964057018",
+        "1999217875",
+        "2033272178",
+        "2065771339",
+        "2081040934",
+        "2098246773",
+        "2103817093",
+        "2108824541",
+        "2147345262",
+        "2167498466",
+        "2172212694"
+    ]
+}

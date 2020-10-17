@@ -1,0 +1,38 @@
+{
+    "id": "1514343851",
+    "title": "Formal analysis of Suzuki & Kasami distributed mutual exclusion algorithm",
+    "venue": "formal methods for open object based distributed systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kazuhiro Ogata",
+            "id": "2159806495",
+            "org": "SRA Key-Technology, Laboratory#TAB#"
+        },
+        {
+            "name": "Kokichi Futatsugi",
+            "id": "675972888",
+            "org": "Graduate School of Information Science, JAIST#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Mutual exclusion",
+        "Distributed computing",
+        "Distributed algorithm",
+        "Mutually exclusive events"
+    ],
+    "references": [
+        "1494879905",
+        "1540180001",
+        "1857327297",
+        "1980152580",
+        "2015688007",
+        "2030551489",
+        "2033809864",
+        "2093916942",
+        "2611515161"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1544956979",
+    "title": "Real Time Cryptanalysis of A5/1 on a PC",
+    "venue": "fast software encryption",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "The Weizmann Institute"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "The Weizmann Institute"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Reverse engineering",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Stream cipher",
+        "GSM",
+        "Correctness",
+        "Real-time computing"
+    ],
+    "references": [
+        "1554090281",
+        "2012646342"
+    ]
+}

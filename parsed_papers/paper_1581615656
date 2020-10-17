@@ -1,0 +1,45 @@
+{
+    "id": "1581615656",
+    "title": "Using Run-Time Predictions to Estimate Queue Wait Times and Improve Scheduler Performance",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Warren Smith",
+            "id": "2475449320",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "Valerie E. Taylor",
+            "id": "2105362179",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Ian T. Foster",
+            "id": "2017222965",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Job queue",
+        "Resource allocation",
+        "Multilevel queue",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Queue",
+        "Systems architecture",
+        "Real-time computing"
+    ],
+    "references": [
+        "136979417",
+        "1492040731",
+        "1581344573",
+        "1603445711",
+        "1639032689",
+        "2108905989",
+        "2111996486",
+        "2147953263",
+        "2150074609"
+    ]
+}

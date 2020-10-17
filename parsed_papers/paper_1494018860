@@ -1,0 +1,66 @@
+{
+    "id": "1494018860",
+    "title": "Image Segmentation by Branch-and-Mincut",
+    "venue": "european conference on computer vision",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Victor S. Lempitsky",
+            "id": "2241827754",
+            "org": "Microsoft Research Cambridge, #TAB#"
+        },
+        {
+            "name": "Andrew Blake",
+            "id": "2191458383",
+            "org": "Microsoft Research Cambridge, #TAB#"
+        },
+        {
+            "name": "Carsten Rother",
+            "id": "2047672443",
+            "org": "Microsoft Research Cambridge, #TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Connected-component labeling",
+        "Cut",
+        "Pattern recognition",
+        "Binary image",
+        "Image segmentation",
+        "GrabCut",
+        "Segmentation-based object categorization",
+        "Minimum spanning tree-based segmentation",
+        "Mathematical optimization",
+        "Scale-space segmentation",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1493988777",
+        "1541388462",
+        "1992192543",
+        "1995444699",
+        "2074078071",
+        "2089181482",
+        "2097137185",
+        "2097819447",
+        "2101309634",
+        "2103443842",
+        "2105365768",
+        "2105811459",
+        "2111703137",
+        "2113137767",
+        "2113201641",
+        "2113622401",
+        "2116040950",
+        "2120804060",
+        "2124351162",
+        "2136224190",
+        "2138180828",
+        "2142473789",
+        "2169527406",
+        "2169551590",
+        "2171187077",
+        "2173414649"
+    ]
+}

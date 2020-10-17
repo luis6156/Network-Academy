@@ -1,0 +1,67 @@
+{
+    "id": "1543181810",
+    "title": "BIOMET: a multimodal person authentication database including face, voice, fingerprint, hand and signature modalities",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sonia Garcia-Salicetti",
+            "id": "249315193",
+            "org": "INT, Dept. EPH, Evry, France#TAB#"
+        },
+        {
+            "name": "Charles Beumier",
+            "id": "1964485877",
+            "org": "RMA, SIC Brussels, Belgium#TAB#"
+        },
+        {
+            "name": "Gerard Chollet",
+            "id": "2583658090",
+            "org": "ENST Paris, TSI and COMELEC Dept., Paris, France#TAB#"
+        },
+        {
+            "name": "Bernadette Dorizzi",
+            "id": "331804587",
+            "org": "INT, Dept. EPH, Evry, France#TAB#"
+        },
+        {
+            "name": "Jean Leroux les Jardins",
+            "id": "2283339871",
+            "org": "ENST Paris, TSI and COMELEC Dept., Paris, France#TAB#"
+        },
+        {
+            "name": "Jan Lunter",
+            "id": "2662136912",
+            "org": "ENST Paris, TSI and COMELEC Dept., Paris, France#TAB#"
+        },
+        {
+            "name": "Yang Ni",
+            "id": "2699409608",
+            "org": "INT, Dept. EPH, Evry, France#TAB#"
+        },
+        {
+            "name": "Dijana Petrovska-Delacretaz",
+            "id": "1126092775",
+            "org": "DIVA Group, University of Fribourg, Informatics Dept., Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Authentication",
+        "Computer science",
+        "Biometrics",
+        "Database",
+        "Fingerprint",
+        "Speech recognition",
+        "Information technology",
+        "Modalities"
+    ],
+    "references": [
+        "1805888261",
+        "2060755870",
+        "2068723942",
+        "2087264103",
+        "2119332272",
+        "2136461127",
+        "2148680321"
+    ]
+}

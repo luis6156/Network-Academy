@@ -1,0 +1,82 @@
+{
+    "id": "1579367023",
+    "title": "Accelerating lattice reduction with FPGAs",
+    "venue": "international conference on progress in cryptology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jeremie Detrey",
+            "id": "2789698078",
+            "org": "LORIA, INRIA, CNRS, Nancy Universite, Vandoeuvre-les-Nancy Cedex, France#TAB#"
+        },
+        {
+            "name": "Guillaume Hanrot",
+            "id": "2797010795",
+            "org": "ENS Lyon, Universite de Lyon, Laboratoire LIP, CNRS-ENSL-INRIA-UCBL, Lyon Cedex 07, France#TAB#"
+        },
+        {
+            "name": "Xavier Pujol",
+            "id": "2150454253",
+            "org": "ENS Lyon, Universite de Lyon, Laboratoire LIP, CNRS-ENSL-INRIA-UCBL, Lyon Cedex 07, France#TAB#"
+        },
+        {
+            "name": "Damien Stehle",
+            "id": "2083332514",
+            "org": "CNRS, Macquarie University and University of Sydney, Dpt. of Mathematics and Statistics, University of Sydney, NSW, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Enumeration",
+        "Theoretical computer science",
+        "Lattice (order)",
+        "Lattice reduction",
+        "Lattice problem"
+    ],
+    "references": [
+        "10068438",
+        "141781985",
+        "610273277",
+        "1490056131",
+        "1491861813",
+        "1499766499",
+        "1527643685",
+        "1531850752",
+        "1532770887",
+        "1575598731",
+        "1584795124",
+        "1598269861",
+        "1675339804",
+        "1761303171",
+        "1845765495",
+        "1886646278",
+        "1921478076",
+        "1979160832",
+        "1989510734",
+        "2000956176",
+        "2012589104",
+        "2021907057",
+        "2026506266",
+        "2031533839",
+        "2038761522",
+        "2040996999",
+        "2050689197",
+        "2058785578",
+        "2061949491",
+        "2077244027",
+        "2096221836",
+        "2101040389",
+        "2108983612",
+        "2116631972",
+        "2122973102",
+        "2126483728",
+        "2149789050",
+        "2151237818",
+        "2155178472",
+        "2160639384",
+        "2168830205",
+        "2614049390"
+    ]
+}

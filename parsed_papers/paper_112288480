@@ -1,0 +1,36 @@
+{
+    "id": "112288480",
+    "title": "Dynamic detection and prevention of race conditions in file accesses",
+    "venue": "usenix security symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Eugene Tsyrklevich",
+            "id": "2361946175",
+            "org": "Department of Computer Science and Engineering, University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Bennet Yee",
+            "id": "2108834582",
+            "org": "Department of Computer Science and Engineering, University of California, San Diego#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer security",
+        "Namespace",
+        "Specfs",
+        "Race condition",
+        "Authorization",
+        "Real-time computing"
+    ],
+    "references": [
+        "186343359",
+        "289744816",
+        "1495613484",
+        "1516211918",
+        "2097589646",
+        "2137952932",
+        "2169476734"
+    ]
+}

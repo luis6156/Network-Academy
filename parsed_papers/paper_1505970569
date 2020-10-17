@@ -1,0 +1,55 @@
+{
+    "id": "1505970569",
+    "title": "A Lock-Based STM Protocol That Satisfies Opacity and Progressiveness",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Damien Imbs",
+            "id": "2810731885",
+            "org": "IRISA, Universite de Rennes 1, Rennes, France 35042#TAB#"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA, Universite de Rennes 1, Rennes, France 35042#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Shared memory",
+        "Commit",
+        "Computer science",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Concurrency control",
+        "Distributed transaction",
+        "Real-time computing",
+        "Software transactional memory",
+        "Database transaction"
+    ],
+    "references": [
+        "1523021320",
+        "1533810997",
+        "1542975293",
+        "1566614300",
+        "1988800505",
+        "1993805917",
+        "2013021588",
+        "2023304911",
+        "2034485694",
+        "2042885752",
+        "2064803799",
+        "2081960123",
+        "2084130915",
+        "2101939036",
+        "2103642785",
+        "2106871513",
+        "2123845384",
+        "2128585185",
+        "2136986825",
+        "2167680229",
+        "2307238513",
+        "2769656678"
+    ]
+}

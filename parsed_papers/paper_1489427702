@@ -1,0 +1,43 @@
+{
+    "id": "1489427702",
+    "title": "A TLA Solution to the Specification and Verification of the RLP1 Retransmission Protocol",
+    "venue": "formal methods",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Abdelillah Mokkedem",
+            "id": "2276391235",
+            "org": "INRS-Telecommunications"
+        },
+        {
+            "name": "Michael J. Ferguson",
+            "id": "2265308277",
+            "org": "INRS-Telecommunications"
+        },
+        {
+            "name": "Robert Johnston",
+            "id": "2155292253",
+            "org": "INRS-Telecommunications"
+        }
+    ],
+    "fields_of_study": [
+        "Specification language",
+        "Theoretical computer science",
+        "Retransmission",
+        "Formal specification",
+        "Computer science",
+        "Liveness",
+        "Implementation",
+        "Formal language",
+        "Mathematical proof",
+        "Sliding window protocol",
+        "Real-time computing"
+    ],
+    "references": [
+        "1543935311",
+        "2015688007",
+        "2016457827",
+        "2049559341",
+        "2132107743"
+    ]
+}

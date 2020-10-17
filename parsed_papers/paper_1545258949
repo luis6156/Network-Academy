@@ -1,0 +1,42 @@
+{
+    "id": "1545258949",
+    "title": "Iteration Space Slicing for Locality",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "William Pugh",
+            "id": "2098006947",
+            "org": "Univ. of Maryland"
+        },
+        {
+            "name": "Evan Rosser",
+            "id": "2164119802",
+            "org": "Univ. of Maryland"
+        }
+    ],
+    "fields_of_study": [
+        "Loop interchange",
+        "Parallel computing",
+        "Loop inversion",
+        "Computer science",
+        "Distributed computing",
+        "Loop fusion",
+        "Loop splitting",
+        "Loop dependence analysis",
+        "Loop fission",
+        "Loop nest optimization",
+        "Loop tiling"
+    ],
+    "references": [
+        "1996030720",
+        "2015478888",
+        "2026220934",
+        "2042629708",
+        "2085073695",
+        "2102582914",
+        "2108315152",
+        "2163935347",
+        "2293624369"
+    ]
+}

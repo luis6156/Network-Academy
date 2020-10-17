@@ -1,0 +1,36 @@
+{
+    "id": "1675137049",
+    "title": "Using client puzzles to protect TLS",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Drew Dean",
+            "id": "2705396378",
+            "org": "Xerox PARC#TAB#"
+        },
+        {
+            "name": "Adam Stubblefield",
+            "id": "1989862221",
+            "org": "Rice University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Computer science",
+        "Implementation",
+        "Computer security",
+        "Latency (engineering)",
+        "Web server",
+        "Backward compatibility",
+        "Server",
+        "Internet privacy"
+    ],
+    "references": [
+        "1510273591",
+        "1601379374",
+        "1986071441",
+        "2047925852",
+        "2156954980"
+    ]
+}

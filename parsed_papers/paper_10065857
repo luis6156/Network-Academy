@@ -1,0 +1,40 @@
+{
+    "id": "10065857",
+    "title": "Gradient Based Image Motion Estimation Without Computing Gradients",
+    "venue": "International Journal of Computer Vision",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Naresh Gupta",
+            "id": "2112684445",
+            "org": "Department of Computer Science, University of Maryland,"
+        },
+        {
+            "name": "Laveen N. Kanal",
+            "id": "135822269",
+            "org": "Department of Computer Science, University of Maryland,"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Optical flow",
+        "Surface integral",
+        "Divergence theorem",
+        "Numerical differentiation",
+        "Motion estimation",
+        "Constraint algorithm",
+        "Affine transformation",
+        "Volume integral",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "112287601",
+        "1578285471",
+        "1982959340",
+        "2001367356",
+        "2031555400",
+        "2031912957",
+        "2051456680",
+        "2146203184"
+    ]
+}

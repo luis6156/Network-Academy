@@ -1,0 +1,54 @@
+{
+    "id": "1588880699",
+    "title": "CirCUs: A Satisfiability Solver Geared towards Bounded Model Checking",
+    "venue": "computer aided verification",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "HoonSang Jin",
+            "id": "2132320085",
+            "org": "University of Colorado at Boulder"
+        },
+        {
+            "name": "Mohammad Awedh",
+            "id": "2023302887",
+            "org": "University of Colorado at Boulder"
+        },
+        {
+            "name": "Fabio Somenzi",
+            "id": "208756671",
+            "org": "University of Colorado at Boulder"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean circuit",
+        "Algorithm",
+        "Boolean algebra",
+        "Computer science",
+        "Constraint satisfaction",
+        "Binary decision diagram",
+        "Bounded function",
+        "Model checking",
+        "Solver",
+        "Conjunctive normal form"
+    ],
+    "references": [
+        "1495266209",
+        "1510368738",
+        "1511155470",
+        "1523041988",
+        "1535375892",
+        "1787074469",
+        "1822320350",
+        "2046239089",
+        "2048051309",
+        "2075959177",
+        "2107470986",
+        "2110123236",
+        "2110737535",
+        "2142785340",
+        "2151398141",
+        "2159503942",
+        "2160667400"
+    ]
+}

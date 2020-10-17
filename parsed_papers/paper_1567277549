@@ -1,0 +1,46 @@
+{
+    "id": "1567277549",
+    "title": "PIVOT and UNPIVOT: optimization and execution strategies in an RDBMS",
+    "venue": "very large data bases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Conor Cunningham",
+            "id": "2186100890",
+            "org": "Microsoft Corporation, One Microsoft Way, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Cesar A. Galindo-Legaria",
+            "id": "177590072",
+            "org": "Microsoft Corporation, One Microsoft Way, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Goetz Graefe",
+            "id": "2284116839",
+            "org": "Microsoft Corporation, One Microsoft Way, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "View",
+        "Query expansion",
+        "Computer science",
+        "Data mining",
+        "Query language",
+        "Query by Example",
+        "Data modeling",
+        "Database",
+        "Sargable",
+        "Query optimization",
+        "Data model"
+    ],
+    "references": [
+        "135863099",
+        "1561055565",
+        "2067650870",
+        "2075827270",
+        "2102951036",
+        "2103201239",
+        "2134964460",
+        "2143979434"
+    ]
+}

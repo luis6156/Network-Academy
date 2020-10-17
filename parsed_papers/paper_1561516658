@@ -1,0 +1,61 @@
+{
+    "id": "1561516658",
+    "title": "Specification for NLSv2",
+    "venue": "New Stream Cipher Designs",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Philip Michael Hawkes",
+            "id": "2104586604",
+            "org": "Qualcomm Australia, Gladesville, Australia NSW 2111#TAB#"
+        },
+        {
+            "name": "Cameron McDonald",
+            "id": "2154787920",
+            "org": "Qualcomm Australia, Gladesville, Australia NSW 2111#TAB#"
+        },
+        {
+            "name": "Michael Paddon",
+            "id": "2481105884",
+            "org": "Qualcomm Australia, Gladesville, Australia NSW 2111#TAB#"
+        },
+        {
+            "name": "Gregory G. Rose",
+            "id": "2145324050",
+            "org": "Qualcomm Australia, Gladesville, Australia NSW 2111#TAB#"
+        },
+        {
+            "name": "Miriam Wiggers de Vries",
+            "id": "2146996809",
+            "org": "Qualcomm Australia, Gladesville, Australia NSW 2111#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Running key cipher",
+        "Keystream",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Message authentication code",
+        "Linear feedback shift register",
+        "NLS"
+    ],
+    "references": [
+        "1699105",
+        "170584983",
+        "1505348697",
+        "1507863964",
+        "1521783451",
+        "1562974983",
+        "1628083612",
+        "1661175875",
+        "1697454544",
+        "1729681995",
+        "1793240080",
+        "1832305045",
+        "2105451999",
+        "2126098610",
+        "2398873195"
+    ]
+}

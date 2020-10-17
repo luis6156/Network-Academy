@@ -1,0 +1,43 @@
+{
+    "id": "1528195418",
+    "title": "Token-Based Read/Write-Locks for Distributed Mutual Exclusion",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Claus Wagner",
+            "id": "2530641142",
+            "org": "TECHNION"
+        },
+        {
+            "name": "Frank Mueller",
+            "id": "2107119837",
+            "org": "Humboldt University Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Critical section",
+        "Computer science",
+        "Communications protocol",
+        "Security token",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Binary logarithm",
+        "Exploit",
+        "Real-time computing"
+    ],
+    "references": [
+        "1560383917",
+        "1966125214",
+        "1973501242",
+        "1979885075",
+        "2032182549",
+        "2044902313",
+        "2079214242",
+        "2100198355",
+        "2100884969",
+        "2117049808",
+        "2140606557",
+        "2147496615"
+    ]
+}

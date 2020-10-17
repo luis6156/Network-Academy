@@ -1,0 +1,114 @@
+{
+    "id": "1514535095",
+    "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+    "venue": "international conference on machine learning",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Kelvin Xu",
+            "id": "2485834696",
+            "org": "Universite de Montreal"
+        },
+        {
+            "name": "Jimmy Ba",
+            "id": "2097546270",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Ryan Kiros",
+            "id": "1190321462",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Kyunghyun Cho",
+            "id": "2462121670",
+            "org": "Universite de Montreal"
+        },
+        {
+            "name": "Aaron C. Courville",
+            "id": "2328522601",
+            "org": "Universite de Montreal"
+        },
+        {
+            "name": "Ruslan Salakhudinov",
+            "id": "2285514476",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Rich Zemel",
+            "id": "2763241838",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Yoshua Bengio",
+            "id": "161269817",
+            "org": "Universite de Montreal"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Object detection",
+        "Backpropagation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Visualization",
+        "Salient",
+        "Machine translation",
+        "Gaze",
+        "Upper and lower bounds",
+        "Machine learning",
+        "Closed captioning"
+    ],
+    "references": [
+        "8316075",
+        "1484210532",
+        "1522301498",
+        "1527575280",
+        "1533803232",
+        "1586939924",
+        "1591801644",
+        "1606347560",
+        "1686810756",
+        "1687846465",
+        "1753482797",
+        "1810943226",
+        "1811254738",
+        "1850742715",
+        "1858383477",
+        "1861492603",
+        "1889624880",
+        "1895577753",
+        "1905882502",
+        "1909320841",
+        "1931639407",
+        "1947481528",
+        "1959608418",
+        "1969616664",
+        "2064675550",
+        "2066134726",
+        "2095705004",
+        "2097117768",
+        "2115595010",
+        "2117539524",
+        "2119717200",
+        "2122180654",
+        "2130942839",
+        "2131241448",
+        "2133459682",
+        "2133564696",
+        "2141399712",
+        "2143449221",
+        "2147527908",
+        "2149172860",
+        "2154071538",
+        "2156718681",
+        "2157331557",
+        "2163605009",
+        "2164370980",
+        "2171361956",
+        "2185175083",
+        "2296385829",
+        "2618530766"
+    ]
+}

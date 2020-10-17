@@ -1,0 +1,47 @@
+{
+    "id": "1534774510",
+    "title": "An Original Constraint Based Approach for Solving over Constrained Problems",
+    "venue": "principles and practice of constraint programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jean-Charles Regin",
+            "id": "2239919637",
+            "org": "ILOG"
+        },
+        {
+            "name": "Thierry Petit",
+            "id": "2781040232",
+            "org": "ILOG"
+        },
+        {
+            "name": "Christian Bessiere",
+            "id": "2168734674",
+            "org": "LIRMM (UMR 5506 CNRS)"
+        },
+        {
+            "name": "Jean-Francois Puget",
+            "id": "1924168505",
+            "org": "ILOG S.A."
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Mathematics",
+        "Constraint satisfaction problem",
+        "Constraint graph",
+        "Discrete mathematics",
+        "Constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Arity",
+        "Local consistency",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1567384271",
+        "2076921757",
+        "2180162723",
+        "2604854229"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1618439507",
+    "title": "FLASH, a Fast Multivariate Signature Algorithm",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jacques Patarin",
+            "id": "2703701658",
+            "org": "Bull CP8"
+        },
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "342533692",
+            "org": "Bull CP8"
+        },
+        {
+            "name": "Louis Goubin",
+            "id": "300917408",
+            "org": "Bull CP8"
+        }
+    ],
+    "fields_of_study": [
+        "Digital Signature Algorithm",
+        "Cryptanalysis",
+        "NESSIE",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Multivariate cryptography",
+        "Public-key cryptography",
+        "Hidden Field Equations",
+        "Smart card"
+    ],
+    "references": [
+        "1532849667",
+        "1568587963",
+        "2128968394"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1504087034",
+    "title": "Replication for Load Balancing and Hot-Spot Relief on Proxy Web Caches with Hash Routing",
+    "venue": "Distributed and Parallel Databases",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kun Lung Wu",
+            "id": "2860758814",
+            "org": "IBM T.J. Watson Research Center, 19 Skyline Drive, Hawthorne, NY 10532, USA. klwu@us.ibm.com#TAB#"
+        },
+        {
+            "name": "Philip S. Yu",
+            "id": "2125104194",
+            "org": "IBM T.J. Watson Research Center, 19 Skyline Drive, Hawthorne, NY 10532, USA. psyu@us.ibm.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Smart Cache",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Real-time computing",
+        "Hash function",
+        "Cache invalidation",
+        "CPU cache",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1527961683",
+        "1575304539",
+        "1579489005",
+        "1581144645",
+        "1981730822",
+        "1987961297",
+        "2037842078",
+        "2044902313",
+        "2049666548",
+        "2049994230",
+        "2077967211",
+        "2083353055",
+        "2107460938",
+        "2116623050",
+        "2126540423",
+        "2156435549",
+        "2157740020"
+    ]
+}

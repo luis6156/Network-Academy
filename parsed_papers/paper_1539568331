@@ -1,0 +1,50 @@
+{
+    "id": "1539568331",
+    "title": "A Light-Weight Approach to Dynamical Runtime Linking Supporting Heterogenous, Parallel, and Reconfigurable Architectures",
+    "venue": "automation, robotics and control systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Rainer Buchty",
+            "id": "1109740205",
+            "org": "Institut fur Technische Informatik, Lehrstuhl fur Rechnerarchitektur, Universitat Karlsruhe (TH), Karlsruhe, Germany 76128#TAB#"
+        },
+        {
+            "name": "David Kramer",
+            "id": "2191944063",
+            "org": "Institut fur Technische Informatik, Lehrstuhl fur Rechnerarchitektur, Universitat Karlsruhe (TH), Karlsruhe, Germany 76128#TAB#"
+        },
+        {
+            "name": "Mario Kicherer",
+            "id": "2088418423",
+            "org": "Institut fur Technische Informatik, Lehrstuhl fur Rechnerarchitektur, Universitat Karlsruhe (TH), Karlsruhe, Germany 76128#TAB#"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Institut fur Technische Informatik, Lehrstuhl fur Rechnerarchitektur, Universitat Karlsruhe (TH), Karlsruhe, Germany 76128#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Function pointer",
+        "Hardware acceleration",
+        "Runtime system",
+        "Decision tree",
+        "Initialization",
+        "Real-time computing"
+    ],
+    "references": [
+        "8559343",
+        "1576412380",
+        "1772887859",
+        "2109426995",
+        "2121758805",
+        "2124484873",
+        "2170675383"
+    ]
+}

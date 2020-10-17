@@ -1,0 +1,46 @@
+{
+    "id": "1559266576",
+    "title": "A zero-dimensional grobner basis for AES-128",
+    "venue": "fast software encryption",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Johannes A. Buchmann",
+            "id": "1552168940",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Andrei Pyshkin",
+            "id": "1971992527",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Ralf-Philipp Weinmann",
+            "id": "2147515735",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Grobner basis",
+        "Advanced Encryption Standard",
+        "Discrete mathematics",
+        "Lexicographical order",
+        "Ciphertext",
+        "Plaintext"
+    ],
+    "references": [
+        "1481997196",
+        "1520260307",
+        "1542020576",
+        "1579761987",
+        "1588952639",
+        "1676521748",
+        "1700662932",
+        "2020124901",
+        "2040327317",
+        "2056982721",
+        "2059522106"
+    ]
+}

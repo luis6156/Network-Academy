@@ -1,0 +1,52 @@
+{
+    "id": "1531486232",
+    "title": "Figure/Ground assignment in natural images",
+    "venue": "european conference on computer vision",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Xiaofeng Ren",
+            "id": "2102013811",
+            "org": "Computer Science Division, University of California at Berkeley, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Charless C. Fowlkes",
+            "id": "263994822",
+            "org": "Computer Science Division, University of California at Berkeley, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Jitendra Malik",
+            "id": "2136556746",
+            "org": "Computer Science Division, University of California at Berkeley, Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Figure-ground",
+        "Computer vision",
+        "Computer science",
+        "Ground truth",
+        "Image processing",
+        "Conditional random field",
+        "Belief propagation",
+        "Approximate inference",
+        "Automatic image annotation",
+        "Edge detection",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1998873630",
+        "2019909743",
+        "2095844239",
+        "2124189704",
+        "2127597232",
+        "2127948493",
+        "2133267925",
+        "2138742001",
+        "2143933056",
+        "2147880316",
+        "2160619799",
+        "2162253476",
+        "2167428357"
+    ]
+}

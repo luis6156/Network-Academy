@@ -1,0 +1,41 @@
+{
+    "id": "1534794563",
+    "title": "FRATS: A parallel reduction strategy for shared memory",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Koen Langendoen",
+            "id": "1969311846",
+            "org": "University of Amsterdam"
+        },
+        {
+            "name": "Willem G. Vree",
+            "id": "1968545134",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Eager evaluation",
+        "Uniform memory access",
+        "Memory management",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Shared disk architecture"
+    ],
+    "references": [
+        "1577503839",
+        "1990067258",
+        "2048867801",
+        "2063068243",
+        "2085014646",
+        "2087090231",
+        "2122250035",
+        "2132084888",
+        "2136608835"
+    ]
+}

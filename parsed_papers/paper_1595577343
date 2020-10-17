@@ -1,0 +1,65 @@
+{
+    "id": "1595577343",
+    "title": "Sparse Depth Odometry: 3D keypoint based pose estimation from dense depth data",
+    "venue": "international conference on robotics and automation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Prakhya Sai Manoj",
+            "id": "2225855322",
+            "org": "School of Computer Engineering, Nanyang Technological University, Singapore"
+        },
+        {
+            "name": "Liu Bingbing",
+            "id": "2226857517",
+            "org": "Institute for Infocomm Research, A*STAR, Singapore"
+        },
+        {
+            "name": "Lin Weisi",
+            "id": "2110322141",
+            "org": "School of Computer Engineering, Nanyang Technological University, Singapore"
+        },
+        {
+            "name": "Usman Qayyum",
+            "id": "2776667522",
+            "org": "Institute for Infocomm Research, A*STAR, Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Pose",
+        "Computer vision",
+        "Pattern recognition",
+        "Point cloud",
+        "Odometry",
+        "Signed distance function",
+        "Visual odometry",
+        "RGB color model",
+        "Engineering",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1424933",
+        "1969291828",
+        "1972671602",
+        "1986172167",
+        "1987648924",
+        "1988874269",
+        "2013345945",
+        "2021851106",
+        "2021930164",
+        "2026179794",
+        "2041094000",
+        "2054804188",
+        "2067956279",
+        "2073660060",
+        "2091226544",
+        "2108136994",
+        "2126457740",
+        "2132761823",
+        "2133844819",
+        "2152864241",
+        "2243794092",
+        "2296228853",
+        "2398703443"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1566283016",
+    "title": "Permanent fault attack on the parameters of RSA with CRT",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sung-Ming Yen",
+            "id": "2103270851",
+            "org": "Laboratory of Cryptography and Information Security, Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C.#TAB#"
+        },
+        {
+            "name": "SangJae Moon",
+            "id": "2106509025",
+            "org": "Mobile Network Security Technology Research Center, Kyungpook National University, Taegu, Korea#TAB#"
+        },
+        {
+            "name": "Jae-Cheol Ha",
+            "id": "2110501458",
+            "org": "Dept of Computer and Information, Korea Nazarene University, Choong Nam, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Factorization",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Speedup",
+        "Computer science",
+        "Chinese remainder theorem",
+        "Exploit",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1554128539",
+        "1571786080",
+        "1583816927",
+        "1584975026",
+        "1595231197",
+        "1660562555",
+        "1768621358",
+        "1994959057",
+        "1996360405",
+        "2108834246",
+        "2144952508",
+        "2155441237",
+        "2170489924"
+    ]
+}

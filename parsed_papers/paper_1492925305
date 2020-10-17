@@ -1,0 +1,50 @@
+{
+    "id": "1492925305",
+    "title": "Approximate line nearest neighbor in high dimensions",
+    "venue": "symposium on discrete algorithms",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Alexandr Andoni",
+            "id": "2152243552",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "Piotr Indyk",
+            "id": "22135093",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "Robert Krauthgamer",
+            "id": "200092699",
+            "org": "Weizmann Institute of Science#TAB#"
+        },
+        {
+            "name": "Huy L. Nguyen",
+            "id": "2156269194",
+            "org": "MIT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Mathematics",
+        "Fixed-radius near neighbors",
+        "Discrete mathematics",
+        "k-nearest neighbors algorithm",
+        "Combinatorics",
+        "Nearest neighbor graph",
+        "Best bin first",
+        "Cover tree",
+        "Ball tree",
+        "R-tree"
+    ],
+    "references": [
+        "1997744504",
+        "2050749090",
+        "2061769667",
+        "2088101210",
+        "2104232723",
+        "2147717514",
+        "2154660245"
+    ]
+}

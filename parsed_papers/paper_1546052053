@@ -1,0 +1,40 @@
+{
+    "id": "1546052053",
+    "title": "Validation of image segmentation by estimating rater bias and variance",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Simon K. Warfield",
+            "id": "2141164367",
+            "org": "Computational Radiology Laboratory, Dept. Radiology, Children's Hospital#TAB#"
+        },
+        {
+            "name": "Kelly H. Zou",
+            "id": "346920127",
+            "org": "Dept. Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA#TAB#"
+        },
+        {
+            "name": "William M. Wells",
+            "id": "2107357764",
+            "org": "Dept. Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Ground truth",
+        "Accuracy and precision",
+        "Image segmentation",
+        "Alternative assessment",
+        "Distance transform",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1773005811",
+        "2124565667",
+        "2142456468",
+        "2148347694"
+    ]
+}

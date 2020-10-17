@@ -1,0 +1,65 @@
+{
+    "id": "1814543774",
+    "title": "Mencius: building efficient replicated state machines for WANs",
+    "venue": "operating systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yanhua Mao",
+            "id": "2128454953",
+            "org": "CSE, UC San Diego, San Diego, CA#TAB#"
+        },
+        {
+            "name": "Flavio Junqueira",
+            "id": "2308249582",
+            "org": "Yahoo! Research Barcelona, Barcelona, Catalonia, Spain#TAB#"
+        },
+        {
+            "name": "Keith Marzullo",
+            "id": "677445823",
+            "org": "CSE, UC San Diego, San Diego, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "State machine replication",
+        "Strong consistency",
+        "Paxos",
+        "Real-time computing",
+        "Finite-state machine",
+        "Wide area network"
+    ],
+    "references": [
+        "1497150730",
+        "1508662847",
+        "1583991335",
+        "1973501242",
+        "1992479210",
+        "1999955156",
+        "2019648104",
+        "2035362408",
+        "2050689913",
+        "2075854425",
+        "2077240273",
+        "2077671984",
+        "2103814941",
+        "2114407468",
+        "2114579022",
+        "2121510533",
+        "2129994716",
+        "2130264930",
+        "2133943294",
+        "2134337235",
+        "2134667299",
+        "2139359217",
+        "2143149536",
+        "2143221733",
+        "2147524598",
+        "2152465173",
+        "2156377020",
+        "2600949214"
+    ]
+}

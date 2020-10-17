@@ -1,0 +1,66 @@
+{
+    "id": "1820393415",
+    "title": "Spoiled Onions: Exposing Malicious Tor Exit Relays",
+    "venue": "privacy enhancing technologies",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Philipp Winter",
+            "id": "2165157018",
+            "org": "Karlstad University"
+        },
+        {
+            "name": "Richard Kower",
+            "id": "2760987535",
+            "org": "FH Campus Wien"
+        },
+        {
+            "name": "Martin Mulazzani",
+            "id": "2303735815",
+            "org": "SBA Research"
+        },
+        {
+            "name": "Markus Huber",
+            "id": "2123869012",
+            "org": "SBA Research"
+        },
+        {
+            "name": "Sebastian Schrittwieser",
+            "id": "2015770213",
+            "org": "SBA Research"
+        },
+        {
+            "name": "Stefan Lindskog",
+            "id": "2086181858",
+            "org": "Karlstad University"
+        },
+        {
+            "name": "Edgar R. Weippl",
+            "id": "989270",
+            "org": "SBA Research"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Computer science",
+        "Computer security",
+        "Attack surface",
+        "Relay",
+        "Man-in-the-middle attack",
+        "Internet privacy",
+        "Modular design"
+    ],
+    "references": [
+        "37277103",
+        "1494441789",
+        "1524103604",
+        "1526472062",
+        "1545050218",
+        "1608512230",
+        "1655958391",
+        "1910751411",
+        "1950882734",
+        "2161954933",
+        "2300554752"
+    ]
+}

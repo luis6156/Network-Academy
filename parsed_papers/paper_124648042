@@ -1,0 +1,53 @@
+{
+    "id": "124648042",
+    "title": "An analysis of process and memory models to support high-speed networking in a UNIX environment",
+    "venue": "usenix annual technical conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "B. J. Murphy",
+            "id": "2626354978",
+            "org": "Computer Laboratory, University of Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Sherali Zeadally",
+            "id": "97975655",
+            "org": "Department of Computer Science, University of Buckingham, UK#TAB#"
+        },
+        {
+            "name": "C. J. Adams",
+            "id": "2639111293",
+            "org": "Department of Computer Science, University of Buckingham, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Adapter (computing)",
+        "STREAMS",
+        "Parallel computing",
+        "Address space",
+        "Networking hardware",
+        "Computer science",
+        "Network packet",
+        "Unix architecture",
+        "Real-time computing",
+        "User space"
+    ],
+    "references": [
+        "68194216",
+        "1525458120",
+        "1555915743",
+        "1560585010",
+        "1657203581",
+        "2019590278",
+        "2096241833",
+        "2109928164",
+        "2111673261",
+        "2113440470",
+        "2128883551",
+        "2134323418",
+        "2145112413",
+        "2169505235",
+        "2611425847"
+    ]
+}

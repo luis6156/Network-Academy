@@ -1,0 +1,62 @@
+{
+    "id": "1531417849",
+    "title": "Using Kendall-t meta-bagging to improve protein-protein docking predictions",
+    "venue": "pattern recognition in bioinformatics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jerome Aze",
+            "id": "2483024660",
+            "org": "Universite de Paris-Sud, Laboratoire de Recherche en Informatique, INRIA, AMIB Group, Orsay Cedex, France#TAB#"
+        },
+        {
+            "name": "Thomas Bourquard",
+            "id": "2780527916",
+            "org": "INRIA Nancy-Grand Est, LORIA, Vandoeuvre-les-Nancy, France#TAB#"
+        },
+        {
+            "name": "Sylvie Hamel",
+            "id": "2280269491",
+            "org": "Universite de Montreal, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Anne Poupon",
+            "id": "1127480018",
+            "org": "BIOS Group, INRA, UMR, Unite Physiologie de la Reproduction et des Comportements, Nouzilly, France and CNRS and Universite Francois Rabelais, Tours, France#TAB#"
+        },
+        {
+            "name": "David W. Ritchie",
+            "id": "2616802200",
+            "org": "INRIA Nancy-Grand Est, LORIA, Vandoeuvre-les-Nancy, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Macromolecular docking",
+        "Computer science",
+        "Scoring algorithm",
+        "Complementarity (molecular biology)",
+        "Pairwise comparison",
+        "Root-mean-square deviation",
+        "Voronoi diagram",
+        "Bootstrap aggregating",
+        "Kendall tau distance",
+        "Bioinformatics",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1566407554",
+        "1602012035",
+        "1971748934",
+        "1986978101",
+        "2051834357",
+        "2091858563",
+        "2095940121",
+        "2120412820",
+        "2127296617",
+        "2128674962",
+        "2133990480",
+        "2134125092",
+        "2171778773"
+    ]
+}

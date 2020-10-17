@@ -1,0 +1,60 @@
+{
+    "id": "1546844943",
+    "title": "New Distinguishing Attack on MAC Using Secret-Prefix Method",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Center for Advanced Study, Tsinghua University, Beijing, China 100084 and Key Laboratory of Cryptographic Technology and Information Security, Ministry of Education, Shandong University, Jinan, Ch ...#TAB#"
+        },
+        {
+            "name": "Wei Wang",
+            "id": "2671840795",
+            "org": "Key Laboratory of Cryptographic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100#TAB#"
+        },
+        {
+            "name": "Keting Jia",
+            "id": "2143996220",
+            "org": "Key Laboratory of Cryptographic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100#TAB#"
+        },
+        {
+            "name": "Meiqin Wang",
+            "id": "2251995558",
+            "org": "Key Laboratory of Cryptographic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Prefix",
+        "Theoretical computer science",
+        "SHA-1",
+        "Distributed computing",
+        "Hash function",
+        "Distinguishing attack",
+        "Random function"
+    ],
+    "references": [
+        "9162323",
+        "1491431082",
+        "1513113529",
+        "1513711610",
+        "1550771246",
+        "1560798398",
+        "1566273181",
+        "1656731780",
+        "1866609797",
+        "2011095011",
+        "2103239853",
+        "2107165730",
+        "2130238828",
+        "2131212920",
+        "2131300413",
+        "2135759164",
+        "2172433705",
+        "2399310879",
+        "2531150596",
+        "2611506938"
+    ]
+}

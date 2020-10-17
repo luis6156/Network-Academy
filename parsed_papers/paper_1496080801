@@ -1,0 +1,51 @@
+{
+    "id": "1496080801",
+    "title": "Power analysis for clock fluctuation LSI",
+    "venue": "software engineering artificial intelligence networking and parallel distributed computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yusuke Nozaki",
+            "id": "2137456933",
+            "org": "Dept. of Information Engineering, Meijo University, 1-501 Shiogamaguchi, Tenpaku, Nagoya, Aichi, Japan"
+        },
+        {
+            "name": "Toshiya Asai",
+            "id": "2110936048",
+            "org": "Dept. of Information Engineering, Meijo University, 1-501 Shiogamaguchi, Tenpaku, Nagoya, Aichi, Japan"
+        },
+        {
+            "name": "Kensaku Asahi",
+            "id": "2122286547",
+            "org": "Dept. of Information Engineering, Meijo University, 1-501 Shiogamaguchi, Tenpaku, Nagoya, Aichi, Japan"
+        },
+        {
+            "name": "Masaya Yoshikawa",
+            "id": "2129981863",
+            "org": "Dept. of Information Engineering, Meijo University, 1-501 Shiogamaguchi, Tenpaku, Nagoya, Aichi, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Electronic engineering",
+        "Waveform",
+        "Tamper resistance",
+        "Clock drift",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Embedded system",
+        "Power analysis"
+    ],
+    "references": [
+        "83781150",
+        "1506423869",
+        "1511843316",
+        "1530384431",
+        "1562542037",
+        "1873852107",
+        "2144630005",
+        "2154909745",
+        "2161188731"
+    ]
+}

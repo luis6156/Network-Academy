@@ -1,0 +1,40 @@
+{
+    "id": "1525058020",
+    "title": "The Network Agnostic MPI - Scali MPI Connect",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Lars Paul Huse",
+            "id": "1986415264",
+            "org": "Scali AS"
+        },
+        {
+            "name": "Ole W. Saastad",
+            "id": "2650470501",
+            "org": "Scali AS"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Parallel computing",
+        "MPICH",
+        "Remote memory",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Bandwidth (signal processing)",
+        "Message passing",
+        "Interconnection"
+    ],
+    "references": [
+        "301660381",
+        "1541547953",
+        "1860999749",
+        "1969215126",
+        "2105908643",
+        "2114728910",
+        "2133994512",
+        "2168281730"
+    ]
+}

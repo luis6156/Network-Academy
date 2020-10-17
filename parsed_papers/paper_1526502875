@@ -1,0 +1,52 @@
+{
+    "id": "1526502875",
+    "title": "The hBP-tree: A Modified hB-tree Supporting Concurrency, Recovery and Node Consolidation",
+    "venue": "very large data bases",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Georgios Evangelidis",
+            "id": "1904424559",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "David B. Lomet",
+            "id": "1983664831",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Betty Salzberg",
+            "id": "1964963541",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Access method",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Curse of dimensionality",
+        "Database",
+        "Consolidation (soil)",
+        "Concurrency",
+        "Distributed concurrency control"
+    ],
+    "references": [
+        "158309005",
+        "1536424880",
+        "1981561414",
+        "2030279442",
+        "2036122593",
+        "2047908203",
+        "2067021215",
+        "2088146133",
+        "2108179552",
+        "2108643052",
+        "2108908993",
+        "2118269922",
+        "2131620262",
+        "2149173084",
+        "2161694911"
+    ]
+}

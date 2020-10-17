@@ -1,0 +1,48 @@
+{
+    "id": "1537460546",
+    "title": "Avoiding the Cache-Coherence Problem in a Parallel/Distributed File System",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Toni Cortes",
+            "id": "2127228213",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Sergi Girona",
+            "id": "2161088577",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Unix file types",
+        "Computer science",
+        "Distributed computing",
+        "Versioning file system",
+        "File Control Block",
+        "File system fragmentation",
+        "Stub file",
+        "Self-certifying File System",
+        "Torrent file",
+        "Memory-mapped file"
+    ],
+    "references": [
+        "1491490998",
+        "1584023462",
+        "1595501290",
+        "1981730822",
+        "2007415020",
+        "2012643955",
+        "2025413686",
+        "2077967211",
+        "2135131646",
+        "2147909647"
+    ]
+}

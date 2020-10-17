@@ -1,0 +1,54 @@
+{
+    "id": "1628832232",
+    "title": "New online/offline signature schemes without random oracles",
+    "venue": "public key cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Department of Computer and Information Sciences, Ibaraki University, Japan#TAB#"
+        },
+        {
+            "name": "Katja Schmidt-Samoa",
+            "id": "2227799396",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Commitment scheme",
+        "Strong RSA assumption",
+        "Digital signature",
+        "Schnorr signature",
+        "Public-key cryptography",
+        "Merkle signature scheme",
+        "Collision resistance"
+    ],
+    "references": [
+        "299586966",
+        "1493969756",
+        "1495266644",
+        "1506914504",
+        "1575893707",
+        "1589205472",
+        "1591954407",
+        "1593401740",
+        "1653866131",
+        "1851031742",
+        "1971559531",
+        "2002930326",
+        "2010507480",
+        "2012857639",
+        "2018752427",
+        "2052267638",
+        "2071056578",
+        "2101040389",
+        "2151413173",
+        "2152521692",
+        "2563302303"
+    ]
+}

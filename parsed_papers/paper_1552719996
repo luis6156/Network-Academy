@@ -1,0 +1,82 @@
+{
+    "id": "1552719996",
+    "title": "On combining privacy with guaranteed output delivery in secure multiparty computation",
+    "venue": "international cryptology conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yuval Ishai",
+            "id": "114908009",
+            "org": "Technion#TAB#"
+        },
+        {
+            "name": "Eyal Kushilevitz",
+            "id": "307687659",
+            "org": "Technion#TAB#"
+        },
+        {
+            "name": "Yehuda Lindell",
+            "id": "30238620",
+            "org": "Bar-Ilan University#TAB#"
+        },
+        {
+            "name": "Erez Petrank",
+            "id": "123545119",
+            "org": "Technion#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Oblivious transfer",
+        "Input/output",
+        "Cryptographic protocol",
+        "Computer science",
+        "Abort",
+        "Distributed computing",
+        "Correctness",
+        "Adversary",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "44936433",
+        "127725952",
+        "196195722",
+        "1488658290",
+        "1495266644",
+        "1499934958",
+        "1511917306",
+        "1526518474",
+        "1526979127",
+        "1528330226",
+        "1551471557",
+        "1556155774",
+        "1581680965",
+        "1600010237",
+        "1625669103",
+        "1648477311",
+        "1659580679",
+        "1954882695",
+        "1987667503",
+        "1997859100",
+        "2037285013",
+        "2064265141",
+        "2064829080",
+        "2077315235",
+        "2089592270",
+        "2095077828",
+        "2096430557",
+        "2099035153",
+        "2113085788",
+        "2123783718",
+        "2132836799",
+        "2141420453",
+        "2142222275",
+        "2144613321",
+        "2153783737",
+        "2161670619",
+        "2210874835",
+        "2611486156",
+        "2611719703",
+        "2728487654"
+    ]
+}

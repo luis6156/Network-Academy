@@ -1,0 +1,53 @@
+{
+    "id": "1611570974",
+    "title": "On the Impossibility of Detecting Virtual Machine Monitors",
+    "venue": "information security conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shay Gueron",
+            "id": "2178289",
+            "org": "University of Haifa, Haifa 31905, Israel and Intel Corporation, Israel Development Center"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2228949119",
+            "org": "Technische Universitat Berlin and Deutsche Telekom Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Application virtualization",
+        "Hypervisor",
+        "Full virtualization",
+        "Virtualization",
+        "Trusted Computing",
+        "Computer science",
+        "Distributed computing",
+        "Hardware virtualization",
+        "Virtual machine",
+        "Temporal isolation among virtual machines"
+    ],
+    "references": [
+        "23711711",
+        "1485364724",
+        "1488058190",
+        "1506939014",
+        "1507889006",
+        "1604135736",
+        "1641762327",
+        "1838112905",
+        "2008847063",
+        "2010966584",
+        "2098375905",
+        "2099137371",
+        "2102031794",
+        "2117882778",
+        "2123022344",
+        "2125895608",
+        "2137902624",
+        "2149886445",
+        "2151182669",
+        "2164358678",
+        "2166004296"
+    ]
+}

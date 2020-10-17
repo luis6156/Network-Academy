@@ -1,0 +1,46 @@
+{
+    "id": "1553976974",
+    "title": "Incorporating Parameter Uncertainty in Bayesian Segmentation Models: Application to Hippocampal Subfield Volumetry",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Juan Eugenio Iglesias",
+            "id": "2305672373",
+            "org": "MGH, Harvard Medical School"
+        },
+        {
+            "name": "Mert R. Sabuncu",
+            "id": "1207328436",
+            "org": "MGH, Harvard Medical School"
+        },
+        {
+            "name": "Koen Van Leemput",
+            "id": "2420674471",
+            "org": "MGH, Harvard Medical School"
+        }
+    ],
+    "fields_of_study": [
+        "Bayes' theorem",
+        "Segmentation",
+        "Machine learning",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Markov chain Monte Carlo",
+        "Bayesian probability",
+        "Sampling (statistics)",
+        "Monte Carlo method",
+        "Scale-space segmentation",
+        "Point estimation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "29661792",
+        "1585202308",
+        "1831299220",
+        "2136573752",
+        "2153171432",
+        "2162630772"
+    ]
+}

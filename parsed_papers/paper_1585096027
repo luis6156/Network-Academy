@@ -1,0 +1,50 @@
+{
+    "id": "1585096027",
+    "title": "A method for fast revocation of public key certificates and security capabilities",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Computer Science Department, Stanford University#TAB#"
+        },
+        {
+            "name": "Xuhua Ding",
+            "id": "2649168652",
+            "org": "Department of Information and Computer Science, University of California, Irvine#TAB#"
+        },
+        {
+            "name": "Gene Tsudik",
+            "id": "465425324",
+            "org": "Department of Information and Computer Science, University of California, Irvine#TAB#"
+        },
+        {
+            "name": "Chi Ming Wong",
+            "id": "2523988664",
+            "org": "Computer Science Department, Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Threshold cryptosystem",
+        "Implicit certificate",
+        "Root certificate",
+        "Certificate authority",
+        "Computer science",
+        "X.509",
+        "Public key certificate",
+        "Revocation list",
+        "Computer security",
+        "Online Certificate Status Protocol",
+        "Internet privacy"
+    ],
+    "references": [
+        "1498896551",
+        "1502896015",
+        "1721341781",
+        "1888768993",
+        "1996360405",
+        "2089934546",
+        "2160878415"
+    ]
+}

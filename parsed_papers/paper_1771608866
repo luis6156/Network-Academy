@@ -1,0 +1,39 @@
+{
+    "id": "1771608866",
+    "title": "Performance characteristics of protocols with ordered shared locks",
+    "venue": "international conference on data engineering",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Divyakant Agrawal",
+            "id": "2169544959",
+            "org": "Dept. of Comput. Sci., California Univ., Santa Barbara, CA, USA"
+        },
+        {
+            "name": "A. El Abbadi",
+            "id": "2055247794",
+            "org": "Dept. of Comput. Sci., California Univ., Santa Barbara, CA, USA"
+        },
+        {
+            "name": "A.E. Lang",
+            "id": "2482928143",
+            "org": "Dept. of Comput. Sci., California Univ., Santa Barbara, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Concurrent computing",
+        "Distributed computing",
+        "Centralized database",
+        "Concurrency control",
+        "Database",
+        "Real-time computing",
+        "Two-phase locking"
+    ],
+    "references": [
+        "60934647",
+        "1991199257",
+        "2074095926",
+        "2102333161"
+    ]
+}

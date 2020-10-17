@@ -1,0 +1,46 @@
+{
+    "id": "1699782153",
+    "title": "Power analysis attacks against FPGA implementations of the DES",
+    "venue": "field-programmable logic and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Siddika Berna Ors",
+            "id": "2426848074",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Tamper resistance",
+        "Cryptanalysis",
+        "Computer science",
+        "Encryption",
+        "Power analysis",
+        "Cryptosystem",
+        "Real-time computing",
+        "Smart card"
+    ],
+    "references": [
+        "1629850749",
+        "2126541236",
+        "2133707980",
+        "2154909745"
+    ]
+}

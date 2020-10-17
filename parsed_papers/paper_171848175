@@ -1,0 +1,62 @@
+{
+    "id": "171848175",
+    "title": "FELI: HW/SW support for on-chip distributed shared memory in multicores",
+    "venue": "international conference on parallel processing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Carlos Villavieja",
+            "id": "2040133189",
+            "org": "Universitat Politecnica de Catalunya and Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Yoav Etsion",
+            "id": "340749550",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Alex Ramirez",
+            "id": "2132337531",
+            "org": "Universitat Politecnica de Catalunya and Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Nacho Navarro",
+            "id": "2153460013",
+            "org": "Universitat Politecnica de Catalunya and Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Translation lookaside buffer",
+        "Parallel computing",
+        "Computer science",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Cache-only memory architecture",
+        "Average memory access time",
+        "Real-time computing",
+        "Working set",
+        "Architecture"
+    ],
+    "references": [
+        "1498889240",
+        "1533807543",
+        "1546666317",
+        "1979940985",
+        "2000102195",
+        "2039701223",
+        "2040146928",
+        "2066159952",
+        "2072730350",
+        "2126880069",
+        "2127497003",
+        "2134633067",
+        "2149590159",
+        "2153644244",
+        "2158574844",
+        "2162528816",
+        "2163188020",
+        "2163270257",
+        "2169875292"
+    ]
+}

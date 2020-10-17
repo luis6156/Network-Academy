@@ -1,0 +1,43 @@
+{
+    "id": "1593663058",
+    "title": "An empirical analysis of algorithms for constructing a minimum spanning tree",
+    "venue": "workshop on algorithms and data structures",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Bernard M. E. Moret",
+            "id": "2289719737",
+            "org": "University of New Mexico"
+        },
+        {
+            "name": "Henry D. Shapiro",
+            "id": "2102475856",
+            "org": "University of New Mexico"
+        }
+    ],
+    "fields_of_study": [
+        "Spanning tree",
+        "Reverse-delete algorithm",
+        "Prim's algorithm",
+        "Computer science",
+        "Combinatorics",
+        "Expected linear time MST algorithm",
+        "Minimum spanning tree",
+        "Kruskal's algorithm",
+        "Mathematical optimization",
+        "Distributed minimum spanning tree",
+        "Gomory-Hu tree"
+    ],
+    "references": [
+        "1963503748",
+        "1982512167",
+        "2006820476",
+        "2019235922",
+        "2023135239",
+        "2063301486",
+        "2084224084",
+        "2087216833",
+        "2128865241",
+        "2164485560"
+    ]
+}

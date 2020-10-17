@@ -1,0 +1,41 @@
+{
+    "id": "1570733685",
+    "title": "Parallelization of an Adaptive Vlasov Solver",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Olivier Hoenen",
+            "id": "2040690355",
+            "org": "Universite Louis Pasteur"
+        },
+        {
+            "name": "Michel Mehrenberger",
+            "id": "2558686538",
+            "org": "Universite Louis Pasteur"
+        },
+        {
+            "name": "Eric Violard",
+            "id": "79719743",
+            "org": "Universite Louis Pasteur"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical analysis",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Vlasov equation",
+        "Locality",
+        "Computer science",
+        "Message passing",
+        "Parallel algorithm",
+        "Virtual machine",
+        "Solver",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1501639307",
+        "1574320203",
+        "1980011357"
+    ]
+}

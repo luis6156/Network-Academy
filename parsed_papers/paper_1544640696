@@ -1,0 +1,57 @@
+{
+    "id": "1544640696",
+    "title": "MPIRace-check: detection of message races in MPI programs",
+    "venue": "grid and pervasive computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mi-Young Park",
+            "id": "2582487239",
+            "org": "Chonnam National University, Gwanju#TAB#"
+        },
+        {
+            "name": "Su Jeong Shim",
+            "id": "2512791009",
+            "org": "Chonnam National University, Gwanju#TAB#"
+        },
+        {
+            "name": "Yong-Kee Jun",
+            "id": "2141574714",
+            "org": "Gyeongsang National University, Jinju#TAB#"
+        },
+        {
+            "name": "Hyuk-Ro Park",
+            "id": "2126235961",
+            "org": "Chonnam National University, Gwanju, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Communication channel",
+        "Line number",
+        "Message passing",
+        "Race condition",
+        "Concurrency",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "1549875746",
+        "1568158668",
+        "1603868614",
+        "1614399588",
+        "1823227073",
+        "1862086829",
+        "1969215126",
+        "1973501242",
+        "2007840840",
+        "2112966019",
+        "2119982682",
+        "2162648685",
+        "2171348457",
+        "2303756261"
+    ]
+}

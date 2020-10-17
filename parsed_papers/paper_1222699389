@@ -1,0 +1,68 @@
+{
+    "id": "1222699389",
+    "title": "Cross Site Scripting Prevention with Dynamic Data Tainting and Static Analysis.",
+    "venue": "network and distributed system security symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Philipp Vogt",
+            "id": "2281646841",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Florian Nentwich",
+            "id": "2401637282",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Nenad Jovanovic",
+            "id": "2096629812",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Engin Kirda",
+            "id": "59249629",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Christopher Krugel",
+            "id": "1968092662",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Giovanni Vigna",
+            "id": "2192390985",
+            "org": "University of California, Santa Barbara"
+        }
+    ],
+    "fields_of_study": [
+        "Server-side",
+        "Client-side",
+        "Static analysis",
+        "Computer science",
+        "Scripting language",
+        "Information sensitivity",
+        "Web application",
+        "Cross-site scripting",
+        "Internet privacy",
+        "Dynamic data"
+    ],
+    "references": [
+        "1491178396",
+        "1511560695",
+        "1582331515",
+        "1598083179",
+        "1977764760",
+        "2094873755",
+        "2100666033",
+        "2102970979",
+        "2103378897",
+        "2108810805",
+        "2122049982",
+        "2156250856",
+        "2157375374",
+        "2161688581",
+        "2162316255",
+        "2168264487"
+    ]
+}

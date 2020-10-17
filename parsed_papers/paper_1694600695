@@ -1,0 +1,47 @@
+{
+    "id": "1694600695",
+    "title": "Exploiting redundancy in natural language to penetrate Bayesian spam filters",
+    "venue": "WOOT '07 Proceedings of the first USENIX workshop on Offensive Technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Christoph Karlberger",
+            "id": "2275924436",
+            "org": "Secure Systems Lab., Technical University Vienna#TAB#"
+        },
+        {
+            "name": "Gunther Bayler",
+            "id": "2286868111",
+            "org": "Secure Systems Lab., Technical University Vienna#TAB#"
+        },
+        {
+            "name": "Christopher Kruegel",
+            "id": "2001160045",
+            "org": "Secure Systems Lab., Technical University Vienna#TAB#"
+        },
+        {
+            "name": "Engin Kirda",
+            "id": "59249629",
+            "org": "Secure Systems Lab., Technical University Vienna#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Synonym",
+        "Redundancy (engineering)",
+        "Computer science",
+        "Data mining",
+        "Bag-of-words model",
+        "Test set",
+        "Spambot",
+        "Forum spam",
+        "Precondition",
+        "Natural language"
+    ],
+    "references": [
+        "3805906",
+        "73527130",
+        "205142145",
+        "2046224275",
+        "2120189271"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": "1503805806",
+    "title": "Alloy+HotCore: a fast approximation to unsat core",
+    "venue": "abstract state machines alloy b and z",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Nicolas D'Ippolito",
+            "id": "2711194133",
+            "org": "Departamento de Computacion, UBA, Argentina#TAB#"
+        },
+        {
+            "name": "Marcelo F. Frias",
+            "id": "2660484328",
+            "org": "Departamento de Computacion, UBA, Argentina#TAB#"
+        },
+        {
+            "name": "Juan Pablo Galeotti",
+            "id": "2779637858",
+            "org": "Departamento de Computacion, UBA, Argentina#TAB#"
+        },
+        {
+            "name": "Esteban Lanzarotti",
+            "id": "2631623239",
+            "org": "Departamento de Computacion, UBA, Argentina#TAB#"
+        },
+        {
+            "name": "Sergio Mera",
+            "id": "2655431326",
+            "org": "Departamento de Computacion, UBA, Argentina#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Alloy",
+        "Alloy Analyzer",
+        "Theoretical computer science",
+        "Algorithm",
+        "Heuristics",
+        "Computer science",
+        "Unsatisfiable core",
+        "Use case",
+        "Conjunctive normal form"
+    ],
+    "references": [
+        "157753919",
+        "1518705996",
+        "1519503479",
+        "1527892282",
+        "1535058956",
+        "1556566737",
+        "1573044584",
+        "1667614912",
+        "1895387792",
+        "2005030466",
+        "2010166520",
+        "2036265926",
+        "2048051309",
+        "2057361103",
+        "2142785340",
+        "2143934828"
+    ]
+}

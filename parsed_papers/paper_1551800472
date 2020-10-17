@@ -1,0 +1,83 @@
+{
+    "id": "1551800472",
+    "title": "A generic method for reducing ciphertext length of reproducible KEMs in the RO model",
+    "venue": "international workshop on security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yusuke Sakai",
+            "id": "2120099836",
+            "org": "The University of Electro-Communications, Japan#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "National Institute of Advanced Industrial Science and Technology, Japan#TAB#"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Ibaraki University, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "The University of Electro-Communications, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Small number",
+        "Satisfiability",
+        "Cryptographic hash function",
+        "Chip",
+        "Computer science",
+        "Computer security",
+        "Key encapsulation",
+        "Hash function",
+        "Ciphertext",
+        "Random oracle"
+    ],
+    "references": [
+        "1489041988",
+        "1495266644",
+        "1510154334",
+        "1516512945",
+        "1521253015",
+        "1533880360",
+        "1536074886",
+        "1536816541",
+        "1542889080",
+        "1551902067",
+        "1552695147",
+        "1552943669",
+        "1574314127",
+        "1589586740",
+        "1590654318",
+        "1604454960",
+        "1607264302",
+        "1656028867",
+        "1801447676",
+        "1871739018",
+        "2034313414",
+        "2036149657",
+        "2052267638",
+        "2067318305",
+        "2073210531",
+        "2086042811",
+        "2097638666",
+        "2101803085",
+        "2129359810",
+        "2129956927",
+        "2146907493",
+        "2147436724",
+        "2149093588",
+        "2151874514",
+        "2152924492",
+        "2157679418",
+        "2161195863",
+        "2165111290",
+        "2165214731",
+        "2607627035"
+    ]
+}

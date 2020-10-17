@@ -1,0 +1,57 @@
+{
+    "id": "1551023902",
+    "title": "On the collision resistance of RIPEMD-160",
+    "venue": "international conference on information security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Hash chain",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "1521015940",
+        "1533979572",
+        "1570866738",
+        "1590269592",
+        "1656731780",
+        "2086659222",
+        "2095675261",
+        "2103239853",
+        "2104633167",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2172433705",
+        "2408744439",
+        "2611506938"
+    ]
+}

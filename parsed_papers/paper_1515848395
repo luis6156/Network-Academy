@@ -1,0 +1,46 @@
+{
+    "id": "1515848395",
+    "title": "RT-IPC: an IPC extension for real-time mach",
+    "venue": "moas'93 USENIX Symposium on USENIX Microkernels and Other Kernel Architectures Symposium - Volume 4",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Takuro Kitayama",
+            "id": "2776715013",
+            "org": "School of Computer Science, Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Hideyuki Tokuda",
+            "id": "2583824008",
+            "org": "School of Computer Science, Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Tatsuo Nakajima",
+            "id": "2653178640",
+            "org": "Japan Advanced Institute of Science and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Inter-process communication",
+        "Microkernel",
+        "Parallel computing",
+        "Computer science",
+        "Priority inversion",
+        "Mach number",
+        "Extensibility",
+        "Real-time computing",
+        "CPU time"
+    ],
+    "references": [
+        "178711978",
+        "186132619",
+        "1486435130",
+        "1492360400",
+        "1512697351",
+        "2045719854",
+        "2106202449",
+        "2143944813",
+        "2160293203"
+    ]
+}

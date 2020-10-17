@@ -1,0 +1,60 @@
+{
+    "id": "1597267576",
+    "title": "Efficient, non-optimistic secure circuit evaluation based on the elgamal encryption",
+    "venue": "workshop on information security applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Go Yamamoto",
+            "id": "2479128311",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Yokosuka, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Koji Chida",
+            "id": "2071097838",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Yokosuka, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Anderson C. A. Nascimento",
+            "id": "2122470293",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Yokosuka, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Koutarou Suzuki",
+            "id": "2526671548",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Yokosuka, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Shigenori Uchiyama",
+            "id": "2164513077",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Yokosuka, Kanagawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Homomorphic encryption",
+        "Theoretical computer science",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Encryption",
+        "Computer security",
+        "Probabilistic encryption",
+        "ElGamal encryption",
+        "Random oracle",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1522597308",
+        "1524218577",
+        "1539482743",
+        "1589034595",
+        "1853639762",
+        "1885156594",
+        "2102632861",
+        "2134646057",
+        "2153193245",
+        "2166462813",
+        "2168970529",
+        "2728487654"
+    ]
+}

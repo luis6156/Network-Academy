@@ -1,0 +1,49 @@
+{
+    "id": "1815733288",
+    "title": "Analysis and Improvements of NTRU Encryption Paddings",
+    "venue": "international cryptology conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Phong Q. Nguyen",
+            "id": "2426635924",
+            "org": "Ecole normale superieure"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "Ecole normale superieure"
+        }
+    ],
+    "fields_of_study": [
+        "NTRU",
+        "Theoretical computer science",
+        "Computer science",
+        "NTRUEncrypt",
+        "Encryption",
+        "One-way function",
+        "Cryptosystem",
+        "Random oracle",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1516512945",
+        "1552695147",
+        "1553144034",
+        "1561907855",
+        "1582043969",
+        "1589176872",
+        "1594742286",
+        "1596740612",
+        "1599862784",
+        "1607264302",
+        "1611563112",
+        "1675339804",
+        "1833653714",
+        "1989510734",
+        "2073210531",
+        "2096221836",
+        "2161195863"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "1525451871",
+    "title": "Enhancing server availability and security through failure-oblivious computing",
+    "venue": "operating systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Martin C. Rinard",
+            "id": "343541395",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Cristian Cadar",
+            "id": "1243827984",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Daniel Dumitran",
+            "id": "2282763690",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Daniel M. Roy",
+            "id": "2604016004",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Tudor Leu",
+            "id": "2278438240",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "William S. Beebee",
+            "id": "2171035489",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Call stack",
+        "Interleaved memory",
+        "Memory errors",
+        "Distributed computing",
+        "Computer science",
+        "Server",
+        "Computing with Memory",
+        "Exploit",
+        "Data structure",
+        "Memory corruption",
+        "Real-time computing"
+    ],
+    "references": [
+        "19830081",
+        "1499992849",
+        "1515932031",
+        "1535713556",
+        "1579850852",
+        "1655226010",
+        "1745893157",
+        "1806657109",
+        "1825457006",
+        "1973326708",
+        "1980627207",
+        "1998285060",
+        "2018408172",
+        "2024914463",
+        "2040384644",
+        "2066859698",
+        "2079029390",
+        "2079549821",
+        "2084974764",
+        "2096267728",
+        "2097990218",
+        "2098010463",
+        "2103881697",
+        "2107635250",
+        "2107742417",
+        "2110753312",
+        "2117115928",
+        "2122960384",
+        "2125044336",
+        "2127467423",
+        "2127784167",
+        "2130711572",
+        "2132153846",
+        "2137622193",
+        "2140332639",
+        "2140611647",
+        "2143694779",
+        "2153463445",
+        "2153950928"
+    ]
+}

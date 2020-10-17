@@ -1,0 +1,77 @@
+{
+    "id": "1579850852",
+    "title": "A First Step Towards Automated Detection of Buffer Overrun Vulnerabilities.",
+    "venue": "network and distributed system security symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California , Berkeley"
+        },
+        {
+            "name": "Jeffrey S. Foster",
+            "id": "2155210674",
+            "org": "University of California , Berkeley"
+        },
+        {
+            "name": "Eric A. Brewer",
+            "id": "1975802069",
+            "org": "University of California , Berkeley"
+        },
+        {
+            "name": "Alex Aiken",
+            "id": "2067453598",
+            "org": "University of California , Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Static analysis",
+        "Vulnerability",
+        "Computer science",
+        "Audit",
+        "Embedded system",
+        "Buffer overflow",
+        "Operating system",
+        "Stack buffer overflow"
+    ],
+    "references": [
+        "1489150842",
+        "1502028089",
+        "1504339396",
+        "1529049337",
+        "1538458686",
+        "1548650523",
+        "1655226010",
+        "1877773550",
+        "1884521777",
+        "1907867776",
+        "1973326708",
+        "1994372357",
+        "1996094959",
+        "1996325171",
+        "2002934700",
+        "2005192022",
+        "2005873279",
+        "2006471246",
+        "2007181618",
+        "2019609597",
+        "2024914463",
+        "2042619750",
+        "2051632385",
+        "2076090418",
+        "2079235644",
+        "2079549821",
+        "2085048392",
+        "2090286414",
+        "2092583284",
+        "2103228939",
+        "2107995193",
+        "2132661148",
+        "2133608633",
+        "2158134106",
+        "2165069483",
+        "2175178858"
+    ]
+}

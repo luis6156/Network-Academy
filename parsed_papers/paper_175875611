@@ -1,0 +1,61 @@
+{
+    "id": "175875611",
+    "title": "Defense against Stack-Based Attacks Using Speculative Stack Layout Transformation",
+    "venue": "runtime verification",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Benjamin D. Rodes",
+            "id": "2018925255",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "Anh Nguyen-Tuong",
+            "id": "81472127",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "Jason D. Hiser",
+            "id": "2007290804",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "John C. Knight",
+            "id": "2178599376",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "Michele Co",
+            "id": "2119952123",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "Jack W. Davidson",
+            "id": "2138526175",
+            "org": "University of Virginia"
+        }
+    ],
+    "fields_of_study": [
+        "Local variable",
+        "Theoretical computer science",
+        "Static analysis",
+        "Source code",
+        "Call stack",
+        "Computer science",
+        "Padding",
+        "Inference",
+        "Buffer overflow",
+        "Regression testing",
+        "Real-time computing"
+    ],
+    "references": [
+        "1112477",
+        "1545927878",
+        "1575709006",
+        "1587981097",
+        "1591370639",
+        "1593678010",
+        "1862935431",
+        "2123022206"
+    ]
+}

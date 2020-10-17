@@ -1,0 +1,65 @@
+{
+    "id": "1551705780",
+    "title": "Storage-Aware Caching: Revisiting Caching for Heterogeneous Storage Systems",
+    "venue": "file and storage technologies",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Brian C. Forney",
+            "id": "1988470635",
+            "org": "University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Andrea C. Arpaci-Dusseau",
+            "id": "1979388515",
+            "org": "University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Remzi H. Arpaci-Dusseau",
+            "id": "74145742",
+            "org": "University of Wisconsin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Inline caching",
+        "Computer data storage",
+        "Cache algorithms",
+        "Parallel computing",
+        "Computer science",
+        "False sharing",
+        "Real-time computing"
+    ],
+    "references": [
+        "1512122621",
+        "1677118421",
+        "1918432491",
+        "1976029653",
+        "1979890365",
+        "1983274120",
+        "2005373714",
+        "2007479771",
+        "2015408864",
+        "2017644570",
+        "2029131452",
+        "2042120213",
+        "2042789015",
+        "2049762624",
+        "2081534862",
+        "2082859480",
+        "2097174266",
+        "2104210894",
+        "2107460938",
+        "2111087562",
+        "2112266966",
+        "2115103717",
+        "2122296645",
+        "2125576935",
+        "2137935742",
+        "2145118374",
+        "2147342997",
+        "2148165526",
+        "2150864656",
+        "2168395296"
+    ]
+}

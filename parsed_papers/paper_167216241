@@ -1,0 +1,63 @@
+{
+    "id": "167216241",
+    "title": "HeapSentry: kernel-assisted protection against heap overflows",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Nick Nikiforakis",
+            "id": "2223183145",
+            "org": "iMinds-DistriNet, KU Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Frank Piessens",
+            "id": "233250515",
+            "org": "iMinds-DistriNet, KU Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Wouter Joosen",
+            "id": "1969876091",
+            "org": "iMinds-DistriNet, KU Leuven, Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binomial heap",
+        "Computer science",
+        "Distributed computing",
+        "Heap (data structure)",
+        "Buffer overflow",
+        "Garbage",
+        "Heap overflow",
+        "Double-ended priority queue",
+        "Memory corruption",
+        "Real-time computing",
+        "User space"
+    ],
+    "references": [
+        "1112477",
+        "1499992849",
+        "1516211918",
+        "1545927878",
+        "1575709006",
+        "1591370639",
+        "1655226010",
+        "1761672165",
+        "1943511174",
+        "1946174678",
+        "1996931407",
+        "2010990718",
+        "2020208333",
+        "2023959340",
+        "2091820864",
+        "2116136092",
+        "2121218648",
+        "2136651729",
+        "2136938453",
+        "2149263382",
+        "2154795299",
+        "2162800072",
+        "2167432494",
+        "2171143790",
+        "2171938395"
+    ]
+}

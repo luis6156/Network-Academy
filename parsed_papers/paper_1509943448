@@ -1,0 +1,46 @@
+{
+    "id": "1509943448",
+    "title": "Optimization of a statically partitioned hypermatrix sparse cholesky factorization",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jose R. Herrero",
+            "id": "2128317003",
+            "org": "Computer Architecture Department, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Juan J. Navarro",
+            "id": "2136247142",
+            "org": "Computer Architecture Department, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Mathematics",
+        "Cholesky decomposition",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Memory hierarchy",
+        "Matrix (mathematics)",
+        "Incomplete Cholesky factorization",
+        "Sparse approximation",
+        "Parallel algorithm",
+        "Minimum degree algorithm"
+    ],
+    "references": [
+        "1504637606",
+        "1563077596",
+        "1579927935",
+        "1580643653",
+        "1997442930",
+        "1998276913",
+        "2013459285",
+        "2043616552",
+        "2046332585",
+        "2052321453",
+        "2070232376",
+        "2135653967",
+        "2548341626"
+    ]
+}

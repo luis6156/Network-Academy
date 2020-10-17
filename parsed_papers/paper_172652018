@@ -1,0 +1,57 @@
+{
+    "id": "172652018",
+    "title": "Core based architecture to speed up optimal ate pairing on FPGA platform",
+    "venue": "international conference on pairing based cryptography",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Santosh Ghosh",
+            "id": "2617847132",
+            "org": "Dept. Electrical Engineering-ESAT/SCD/COSIC, KU Leuven and IBBT, Heverlee-Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Ingrid Verbauwhede",
+            "id": "2044881251",
+            "org": "Dept. Electrical Engineering-ESAT/SCD/COSIC, KU Leuven and IBBT, Heverlee-Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Dipanwita RoyChowdhury",
+            "id": "2027574193",
+            "org": "Dept. Computer Science and Engineering, Indian Institute of Technology Kharagpur, Kharagpur, WB, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Cycles per instruction",
+        "Speedup",
+        "Computation",
+        "Pairing",
+        "Computer science",
+        "Karatsuba algorithm",
+        "Architecture"
+    ],
+    "references": [
+        "1497232275",
+        "1553083934",
+        "1584385726",
+        "1738223579",
+        "1846967348",
+        "2066288907",
+        "2069900560",
+        "2097352988",
+        "2097953324",
+        "2099570668",
+        "2110698954",
+        "2114609370",
+        "2119500161",
+        "2128139403",
+        "2143910611",
+        "2164960664",
+        "2164985605",
+        "2296489817",
+        "2399911312",
+        "2401500311",
+        "2523604003"
+    ]
+}

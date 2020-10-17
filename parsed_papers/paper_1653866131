@@ -1,0 +1,37 @@
+{
+    "id": "1653866131",
+    "title": "Improved Online/Offline Signature Schemes",
+    "venue": "international cryptology conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "The Weizmann Institute of Science"
+        },
+        {
+            "name": "Yael Tauman",
+            "id": "2097307850",
+            "org": "The Weizmann Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "EdDSA",
+        "Digital signature",
+        "Hash function",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1996360405",
+        "2010507480",
+        "2012857639",
+        "2151413173"
+    ]
+}

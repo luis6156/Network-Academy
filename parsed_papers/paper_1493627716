@@ -1,0 +1,39 @@
+{
+    "id": "1493627716",
+    "title": "Zero-Knowledge With Finite State Verifiers",
+    "venue": "international cryptology conference",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Cynthia Dwork",
+            "id": "208343995",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Larry J. Stockmeyer",
+            "id": "2312167908",
+            "org": "IBM Almaden Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Deterministic finite automaton",
+        "Mathematics",
+        "Probabilistic automaton",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Zero-knowledge proof",
+        "State diagram",
+        "Interactive proof system",
+        "Generalized nondeterministic finite automaton",
+        "Two-way deterministic finite automaton",
+        "Nondeterministic finite automaton"
+    ],
+    "references": [
+        "1521651075",
+        "1528588003",
+        "2070598115",
+        "2073696431",
+        "2096390054",
+        "2156037486"
+    ]
+}

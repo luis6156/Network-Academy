@@ -1,0 +1,43 @@
+{
+    "id": "1527178015",
+    "title": "An approach to buffer management in java HPC messaging",
+    "venue": "international conference on computational science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mark Baker",
+            "id": "2151088111",
+            "org": "Distributed Systems Group, University of Portsmouth#TAB#"
+        },
+        {
+            "name": "Bryan Carpenter",
+            "id": "2138632804",
+            "org": "Distributed Systems Group, University of Portsmouth#TAB#"
+        },
+        {
+            "name": "Aamir Shafi",
+            "id": "2630506009",
+            "org": "Distributed Systems Group, University of Portsmouth#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Byte",
+        "Parallel computing",
+        "Java",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Memory management",
+        "Message passing",
+        "Operating system",
+        "Direct memory access"
+    ],
+    "references": [
+        "10909701",
+        "1982540003",
+        "2006017338",
+        "2066712085"
+    ]
+}

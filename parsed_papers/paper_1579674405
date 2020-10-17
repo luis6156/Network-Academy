@@ -1,0 +1,71 @@
+{
+    "id": "1579674405",
+    "title": "Tradeoffs in buffering memory state for thread-level speculation in multiprocessors",
+    "venue": "high-performance computer architecture",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Maria Jesus Garzaran",
+            "id": "2240166792",
+            "org": "Zaragoza Univ., Spain"
+        },
+        {
+            "name": "Milos Prvulovic",
+            "id": "2798501289",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Jose M. Llaberia",
+            "id": "2092768348",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Victor Vinals",
+            "id": "2194809712",
+            "org": "Universidad de Zaragoza"
+        },
+        {
+            "name": "Lawrence Rauchwerger",
+            "id": "84560969",
+            "org": "Texas A and M University"
+        },
+        {
+            "name": "Josep Torrellas",
+            "id": "2154776208",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Architecture framework",
+        "Parallel computing",
+        "Speculation",
+        "Computer science",
+        "Merge (version control)",
+        "Memory management",
+        "Multithreading",
+        "Speculative multithreading",
+        "Cache-only memory architecture",
+        "Real-time computing"
+    ],
+    "references": [
+        "1525227808",
+        "1977838359",
+        "1980999196",
+        "2002549773",
+        "2029479717",
+        "2052285774",
+        "2078429521",
+        "2103224933",
+        "2106018697",
+        "2107916517",
+        "2108200978",
+        "2109502721",
+        "2120518487",
+        "2128546784",
+        "2131867938",
+        "2136798749",
+        "2143549041",
+        "2296006986",
+        "2537115708"
+    ]
+}

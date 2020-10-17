@@ -1,0 +1,51 @@
+{
+    "id": "1607742242",
+    "title": "Human pose estimation using a mixture of Gaussians based image modeling",
+    "venue": "international conference on human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Do Joon Jung",
+            "id": "2144918470",
+            "org": "Department of Computer Engineering, Kyungpook National University, Daegu, Korea#TAB#"
+        },
+        {
+            "name": "Kyung Su Kwon",
+            "id": "2162998662",
+            "org": "Department of Computer Engineering, Kyungpook National University, Daegu, Korea#TAB#"
+        },
+        {
+            "name": "Hang Joon Kim",
+            "id": "2123426506",
+            "org": "Department of Computer Engineering, Kyungpook National University, Daegu, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pose",
+        "Mixture distribution",
+        "Bayesian network",
+        "3D pose estimation",
+        "Parametric model",
+        "Computer vision",
+        "Computer science",
+        "Pattern recognition",
+        "Prior probability",
+        "Mixture model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1527673973",
+        "1584606685",
+        "1599766542",
+        "2105297815",
+        "2112382942",
+        "2125263419",
+        "2131432112",
+        "2140235142",
+        "2150095155",
+        "2153978529",
+        "2159080219",
+        "2160773379",
+        "2162253476"
+    ]
+}

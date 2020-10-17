@@ -1,0 +1,57 @@
+{
+    "id": "1501126699",
+    "title": "Cryptanalysis of the TRMC-4 Public Key Cryptosystem",
+    "venue": "applied cryptography and network security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Xuyun Nie",
+            "id": "2429444176",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing 100049, China#TAB#"
+        },
+        {
+            "name": "Lei Hu",
+            "id": "2145762831",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing 100049, China#TAB#"
+        },
+        {
+            "name": "Jintai Ding",
+            "id": "2135465465",
+            "org": "Department of Mathematical Sciences, University of Cincinnati, Cincinnati, OH, 45220, USA and Fachbereich Informatik, Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Jianyu Li",
+            "id": "2246824873",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing 100049, China#TAB#"
+        },
+        {
+            "name": "John Wagner",
+            "id": "2307282372",
+            "org": "Department of Mathematical Sciences, University of Cincinnati, Cincinnati, OH, 45220, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear equation",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Linearization",
+        "Computer security",
+        "Cryptosystem",
+        "Ciphertext",
+        "Public-key cryptography",
+        "Hidden Field Equations",
+        "Plaintext"
+    ],
+    "references": [
+        "1547026537",
+        "1568587963",
+        "1597660579",
+        "1844458029",
+        "1906691896",
+        "2128968394",
+        "2137147061",
+        "2150548144"
+    ]
+}

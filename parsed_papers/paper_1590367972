@@ -1,0 +1,48 @@
+{
+    "id": "1590367972",
+    "title": "Random walks for interactive organ segmentation in two and three dimensions: implementation and validation",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Leo Grady",
+            "id": "2762993399",
+            "org": "Department of Imaging and Visualization, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Thomas Schiwietz",
+            "id": "2790030697",
+            "org": "Department of Imaging and Visualization, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Shmuel Aharon",
+            "id": "2142395864",
+            "org": "Department of Imaging and Visualization, Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Rudiger Westermann",
+            "id": "2030039896",
+            "org": "Technische Universitat Munchen, Lehrstuhl fur Informatik 15, Garching, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Computer science",
+        "Graphics processing unit",
+        "Random walker algorithm",
+        "Random walk",
+        "Image processing",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "119622245",
+        "1870947790",
+        "1987983010",
+        "2107679877",
+        "2132540527",
+        "2133509043",
+        "2154118576",
+        "2169551590"
+    ]
+}

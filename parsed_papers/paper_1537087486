@@ -1,0 +1,44 @@
+{
+    "id": "1537087486",
+    "title": "Control flow analysis for recursion removal",
+    "venue": "software and compilers for embedded systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stefaan Himpe",
+            "id": "97548718",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Francky Catthoor",
+            "id": "2420147499",
+            "org": "IMEC"
+        },
+        {
+            "name": "Geert Deconinck",
+            "id": "2114527781",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Divide and conquer algorithms",
+        "Control flow",
+        "Recursion",
+        "Recursion (computer science)",
+        "Mutual recursion",
+        "Discrete mathematics",
+        "Computer science",
+        "Corecursion",
+        "Structural induction",
+        "Control flow analysis"
+    ],
+    "references": [
+        "1510119905",
+        "1576705125",
+        "2073366168",
+        "2089674328",
+        "2113996446",
+        "2127490568",
+        "2785107620"
+    ]
+}

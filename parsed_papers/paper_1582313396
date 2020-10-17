@@ -1,0 +1,41 @@
+{
+    "id": "1582313396",
+    "title": "Improved integral attacks on reduced-round CLEFIA block cipher",
+    "venue": "workshop on information security applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Yanjun Li",
+            "id": "2166923499",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "CLEFIA"
+    ],
+    "references": [
+        "1506585282",
+        "1507656853",
+        "1535060573",
+        "1542121656",
+        "1555570710",
+        "1569252980",
+        "1573651642",
+        "1587120902",
+        "2109265351"
+    ]
+}

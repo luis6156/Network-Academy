@@ -1,0 +1,31 @@
+{
+    "id": "1578184507",
+    "title": "Software generation of practically strong random numbers",
+    "venue": "usenix security symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Peter Gutmann",
+            "id": "2152406828",
+            "org": "Department of Computer Science, University of Auckland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographically secure pseudorandom number generator",
+        "Cryptography",
+        "Random number generator attack",
+        "Pseudorandom number generator",
+        "Hardware random number generator",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Computer security",
+        "Random number generation",
+        "Random seed"
+    ],
+    "references": [
+        "1607313240",
+        "1660562555",
+        "2601560571"
+    ]
+}

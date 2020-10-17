@@ -1,0 +1,46 @@
+{
+    "id": "1586474125",
+    "title": "Modified Floyd-Warshall algorithm for equal cost multipath in software-defined data center",
+    "venue": "international conference on communications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Akinniyi Ojo",
+            "id": "2225157602",
+            "org": "Department of Electrical and Computer Engineering, Ryerson University, Toronto, Canada"
+        },
+        {
+            "name": "Ngok-Wah Ma",
+            "id": "2166872563",
+            "org": "Department of Electrical and Computer Engineering, Ryerson University, Toronto, Canada"
+        },
+        {
+            "name": "Isaac Woungang",
+            "id": "1107982399",
+            "org": "Department of Computer Science, Ryerson University, Toronto, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Software-defined networking",
+        "Software-defined data center",
+        "Floyd-Warshall algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "K shortest path routing",
+        "Average path length",
+        "Computer network",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1577170445",
+        "1698388015",
+        "2011008125",
+        "2028926203",
+        "2136451165",
+        "2147118406",
+        "2166870713"
+    ]
+}

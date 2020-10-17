@@ -1,0 +1,56 @@
+{
+    "id": "178917645",
+    "title": "An Asymptotically Optimal Structural Attack on the ABC Multivariate Encryption Scheme",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Dustin Moody",
+            "id": "2114596499",
+            "org": "National Institute of Standards and Technology"
+        },
+        {
+            "name": "Ray A. Perlner",
+            "id": "274342115",
+            "org": "National Institute of Standards and Technology"
+        },
+        {
+            "name": "Daniel C. Smith-Tone",
+            "id": "2799065432",
+            "org": "National Institute of Standards and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Signcryption",
+        "Key-recovery attack",
+        "Mathematics",
+        "Optimal asymmetric encryption padding",
+        "Discrete mathematics",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "108815129",
+        "193286297",
+        "1481415336",
+        "1512302998",
+        "1527826064",
+        "1532849667",
+        "1549300373",
+        "1576359684",
+        "1607525463",
+        "1628272610",
+        "1841201355",
+        "1906691896",
+        "1986124084",
+        "2062777165",
+        "2093643075",
+        "2137147061",
+        "2141143262",
+        "2150548144",
+        "2218982563"
+    ]
+}

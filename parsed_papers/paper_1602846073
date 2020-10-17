@@ -1,0 +1,52 @@
+{
+    "id": "1602846073",
+    "title": "FASTUS : a finite-state processor for information extraction from real-world text",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Douglas E. Appelt",
+            "id": "2308608303",
+            "org": "SRI International"
+        },
+        {
+            "name": "Jerry R. Hobbs",
+            "id": "2220962793",
+            "org": "SRI International"
+        },
+        {
+            "name": "John Bear",
+            "id": "2611592044",
+            "org": "SRI International"
+        },
+        {
+            "name": "David J. Israel",
+            "id": "2305801616",
+            "org": "SRI International"
+        },
+        {
+            "name": "Mabry Tyson",
+            "id": "2226624194",
+            "org": "SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Artificial intelligence",
+        "Text processing",
+        "Nondeterministic algorithm",
+        "Computer science",
+        "Noun",
+        "Information extraction",
+        "Sentence",
+        "Parsing",
+        "Context-free grammar",
+        "Natural language processing"
+    ],
+    "references": [
+        "2072062674",
+        "2090358740",
+        "2145375832",
+        "2158937425"
+    ]
+}

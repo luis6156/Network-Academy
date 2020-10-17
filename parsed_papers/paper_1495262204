@@ -1,0 +1,78 @@
+{
+    "id": "1495262204",
+    "title": "FIFO queueing policies for packets with heterogeneous processing",
+    "venue": "arXiv: Networking and Internet Architecture",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Kirill Kogan",
+            "id": "2061135030",
+            "org": "School of Computer Science, University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Alejandro Lopez-Ortiz",
+            "id": "1382709",
+            "org": "School of Computer Science, University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Sergey I. Nikolenko",
+            "id": "2296078496",
+            "org": "Steklov Mathematical Institute, St. Petersburg, Russia, St. Petersburg Academic University, St. Petersburg, Russia#TAB#"
+        },
+        {
+            "name": "Alexander V. Sirotkin",
+            "id": "2420895491",
+            "org": "St. Petersburg Institute for Informatics and Automation of the RAS, St. Petersburg, Russia, St. Petersburg Academic University, St. Petersburg, Russia#TAB#"
+        },
+        {
+            "name": "Denis Tugaryov",
+            "id": "2417034656",
+            "org": "St. Petersburg Academic University, St. Petersburg, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Competitive analysis",
+        "Throughput",
+        "FIFO (computing and electronics)",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Online algorithm",
+        "Queue",
+        "Network packet",
+        "Computer network",
+        "Real-time computing",
+        "Queueing theory"
+    ],
+    "references": [
+        "230344389",
+        "1472690358",
+        "1504391490",
+        "1552828154",
+        "1911070062",
+        "1964235381",
+        "1998382156",
+        "2013760396",
+        "2026817574",
+        "2033562126",
+        "2040241738",
+        "2041645394",
+        "2047150311",
+        "2050020523",
+        "2054322995",
+        "2067963342",
+        "2072981314",
+        "2095073910",
+        "2099834050",
+        "2110416206",
+        "2116240509",
+        "2136400145",
+        "2138913627",
+        "2141282318",
+        "2148275477",
+        "2160702061",
+        "2165659786",
+        "2169023571",
+        "2593786213"
+    ]
+}

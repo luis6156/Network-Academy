@@ -1,0 +1,67 @@
+{
+    "id": "1587120902",
+    "title": "Improved Cryptanalysis of Rijndael",
+    "venue": "fast software encryption",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Niels Ferguson",
+            "id": "2798793505",
+            "org": "Counterpane Internet Security, Inc."
+        },
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Internet Security, Inc."
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2810229488",
+            "org": "University of Mannheim"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Internet Security, Inc."
+        },
+        {
+            "name": "Michael Stay",
+            "id": "2894468205",
+            "org": "N. University"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California Berkeley"
+        },
+        {
+            "name": "Doug Whiting",
+            "id": "2305174373",
+            "org": "Hi/fn, Inc., 5973"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "XSL attack",
+        "Integral cryptanalysis",
+        "Key schedule",
+        "Cryptanalysis",
+        "Cipher",
+        "Advanced Encryption Standard",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Computer science",
+        "Arithmetic",
+        "Advanced Encryption Standard process"
+    ],
+    "references": [
+        "45309531",
+        "85295516",
+        "1515935938",
+        "1516699468",
+        "1546907539",
+        "1991897749",
+        "2109265351",
+        "2610935322"
+    ]
+}

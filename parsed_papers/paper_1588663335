@@ -1,0 +1,41 @@
+{
+    "id": "1588663335",
+    "title": "Combining Methods for the Livelock Analysis of a Fault-Tolerant System",
+    "venue": "algebraic methodology and software technology",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bettina Buth",
+            "id": "2223782920",
+            "org": "BISS, Bremen Institute for Safe Systems"
+        },
+        {
+            "name": "Jan Peleska",
+            "id": "6818022",
+            "org": "JP Software-Consulting"
+        },
+        {
+            "name": "Hui Shi",
+            "id": "2124081924",
+            "org": "University of Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Computer science",
+        "Distributed computing",
+        "Modular programming",
+        "Abstraction",
+        "Formal methods",
+        "Model checking",
+        "Systems architecture",
+        "Deadlock",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1541671050",
+        "2110425399",
+        "2120510885",
+        "2133996557"
+    ]
+}

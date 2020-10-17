@@ -1,0 +1,52 @@
+{
+    "id": "1576962385",
+    "title": "The challenges of massive on-chip concurrency",
+    "venue": "annual computer security applications conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kostas Bousias",
+            "id": "778870742",
+            "org": "Computer Systems Architecture Group, Instituut voor informatica, Universiteit van Amsterdam#TAB#"
+        },
+        {
+            "name": "Chris R. Jesshope",
+            "id": "2005348437",
+            "org": "Computer Systems Architecture Group, Instituut voor informatica, Universiteit van Amsterdam#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Forward compatibility",
+        "Microarchitecture",
+        "Multiprocessing",
+        "Concurrency",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "336616212",
+        "1495727459",
+        "1511097910",
+        "1523613876",
+        "1963904218",
+        "1990433043",
+        "2002281184",
+        "2013129990",
+        "2060791349",
+        "2101542938",
+        "2108392608",
+        "2120015050",
+        "2120625156",
+        "2130781449",
+        "2137860371",
+        "2148163757",
+        "2149502911",
+        "2171872029",
+        "2173501262"
+    ]
+}

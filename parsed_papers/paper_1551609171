@@ -1,0 +1,48 @@
+{
+    "id": "1551609171",
+    "title": "MPI datatype marshalling: a case study in datatype equivalence",
+    "venue": "EuroMPI'10 Proceedings of the 17th European MPI users' group meeting conference on Recent advances in the message passing interface",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dries Kimpe",
+            "id": "2136037333",
+            "org": "Argonne National Laboratory, Argonne, IL and University of Chicago, Chicago, IL#TAB#"
+        },
+        {
+            "name": "David Goodell",
+            "id": "1999697108",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Robert B. Ross",
+            "id": "2135752517",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Equivalence (measure theory)",
+        "Computer science",
+        "Distributed computing",
+        "Marshalling",
+        "Message Passing Interface",
+        "Function pointer",
+        "Abstraction",
+        "Serialization",
+        "Complex data type",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1508800646",
+        "1510443042",
+        "1514571304",
+        "1547443095",
+        "1555194772",
+        "1581386200",
+        "1700387131",
+        "1969215126",
+        "2117815739",
+        "2139712615"
+    ]
+}

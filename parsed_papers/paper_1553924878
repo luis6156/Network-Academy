@@ -1,0 +1,40 @@
+{
+    "id": "1553924878",
+    "title": "Improving J9 virtual machine with LTTng for efficient and effective tracing",
+    "venue": "Software - Practice and Experience",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yang Wang",
+            "id": "2674815308",
+            "org": "IBM Center for Advanced Studies Atlantic, Fredericton, Canada#TAB#"
+        },
+        {
+            "name": "Kenneth B. Kent",
+            "id": "2170339953",
+            "org": "IBM Center for Advanced Studies Atlantic, Fredericton, Canada#TAB#"
+        },
+        {
+            "name": "Graeme Johnson",
+            "id": "2159752177",
+            "org": "IBM Center for Advanced Studies Atlantic, Fredericton, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Tracing",
+        "Instrumentation",
+        "Virtual machine",
+        "Real-time computing",
+        "Performance tuning"
+    ],
+    "references": [
+        "148956775",
+        "1493196595",
+        "1604771615",
+        "1984036659",
+        "1987788747",
+        "2015574046",
+        "2065773673"
+    ]
+}

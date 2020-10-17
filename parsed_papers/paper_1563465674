@@ -1,0 +1,77 @@
+{
+    "id": "1563465674",
+    "title": "Protecting circuits from leakage: the computationally-bounded and noisy cases",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sebastian Faust",
+            "id": "2654250198",
+            "org": "K.U. Leuven ESAT-COSIC/IBBT#TAB#"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "IBM Research#TAB#"
+        },
+        {
+            "name": "Leonid Reyzin",
+            "id": "236344266",
+            "org": "Boston University#TAB#"
+        },
+        {
+            "name": "Eran Tromer",
+            "id": "349649168",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "Vinod Vaikuntanathan",
+            "id": "330291328",
+            "org": "IBM Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Boolean circuit",
+        "Security parameter",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Bounded function",
+        "OR gate",
+        "ACC0",
+        "Electronic circuit",
+        "Leakage (electronics)",
+        "Equivalent circuit"
+    ],
+    "references": [
+        "66508742",
+        "111085860",
+        "1483290420",
+        "1488058190",
+        "1547517307",
+        "1573157032",
+        "1588518948",
+        "1592625985",
+        "1606216659",
+        "1606729219",
+        "1724890242",
+        "1752847028",
+        "1819824216",
+        "1980147712",
+        "1988374166",
+        "2005756274",
+        "2014850486",
+        "2020981190",
+        "2060270693",
+        "2070678975",
+        "2096290348",
+        "2107691219",
+        "2120551550",
+        "2133701468",
+        "2141420453",
+        "2154909745",
+        "2165293955",
+        "2169985476",
+        "2520195611"
+    ]
+}

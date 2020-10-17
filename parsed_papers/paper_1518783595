@@ -1,0 +1,60 @@
+{
+    "id": "1518783595",
+    "title": "Reducing elimination tree height for parallel LU factorization of sparse unsymmetric matrices",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Enver Kayaaslan",
+            "id": "2443076787",
+            "org": "INRIA and LIP (UMR 5668: ENS Lyon, CNRS, UCBL, Universite de Lyon, INRIA), 46 allee d'Italie, 69364, Lyon, France"
+        },
+        {
+            "name": "Bora Ucar",
+            "id": "2810823393",
+            "org": "CNRS and LIP (UMR 5668: ENS Lyon, CNRS, UCBL, Universite de Lyon, INRIA), 46 allee d'Italie, 69364, Lyon, France"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Cholesky decomposition",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Matrix decomposition",
+        "Incomplete Cholesky factorization",
+        "LU decomposition",
+        "Dependency graph",
+        "Mathematical optimization",
+        "Incomplete LU factorization"
+    ],
+    "references": [
+        "133962531",
+        "1506768432",
+        "1510015875",
+        "1904476389",
+        "1975442866",
+        "1978446887",
+        "1980946208",
+        "1984425270",
+        "1988221401",
+        "2010089223",
+        "2016441057",
+        "2016590962",
+        "2019527978",
+        "2030118642",
+        "2035080386",
+        "2038205735",
+        "2052210031",
+        "2055094346",
+        "2058374962",
+        "2059098138",
+        "2072148290",
+        "2089898547",
+        "2108520826",
+        "2118396891",
+        "2141124297",
+        "2142184646",
+        "2148847183",
+        "2167797964"
+    ]
+}

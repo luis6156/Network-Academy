@@ -1,0 +1,49 @@
+{
+    "id": "1586481148",
+    "title": "OMAC: One-Key CBC MAC",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Tetsu Iwata",
+            "id": "2130303538",
+            "org": "Ibaraki University"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Ibaraki University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Algorithm",
+        "Distributed computing",
+        "CBC-MAC",
+        "PMAC",
+        "Key (lock)",
+        "Provable security"
+    ],
+    "references": [
+        "1489155257",
+        "1495058159",
+        "1558385964",
+        "1569469989",
+        "1597235115",
+        "1891091891",
+        "1996360405",
+        "2013613544",
+        "2022521688",
+        "2025322090",
+        "2058546698",
+        "2095708839",
+        "2108834246",
+        "2125591151",
+        "2137848579",
+        "2145227448",
+        "2395677762",
+        "2613962897"
+    ]
+}

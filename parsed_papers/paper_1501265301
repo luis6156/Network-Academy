@@ -1,0 +1,66 @@
+{
+    "id": "1501265301",
+    "title": "Sign change fault attacks on elliptic curve cryptosystems",
+    "venue": "workshop on fault diagnosis and tolerance in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Johannes Blomer",
+            "id": "138736257",
+            "org": "Institute for Computer Science, Paderborn University, Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Martin Otto",
+            "id": "2106919588",
+            "org": "Institute for Computer Science, Paderborn University, Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2727304887",
+            "org": "Virtualization & Trust Lab -- CTG, Intel Corporation, Hillsboro, OR#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic curve cryptography",
+        "Cryptosystem",
+        "Exploit",
+        "Elliptic curve",
+        "Scalar (physics)",
+        "Fault tolerance"
+    ],
+    "references": [
+        "36802666",
+        "131409819",
+        "1483700347",
+        "1495447492",
+        "1498685334",
+        "1506380191",
+        "1539482743",
+        "1546865581",
+        "1563937974",
+        "1565369953",
+        "1583816927",
+        "1584722274",
+        "1587217691",
+        "1644344319",
+        "1935672779",
+        "2057209427",
+        "2066425771",
+        "2067706455",
+        "2081882878",
+        "2096133993",
+        "2111725598",
+        "2117317147",
+        "2137393540",
+        "2137567577",
+        "2138433464",
+        "2147594251",
+        "2155441237",
+        "2296300514"
+    ]
+}

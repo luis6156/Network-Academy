@@ -1,0 +1,71 @@
+{
+    "id": "1557949450",
+    "title": "Architecture of the XL C++ browser",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Shahram Javey",
+            "id": "187973094",
+            "org": "IBM Language Techonology Center, Toronto, Ontario#TAB#"
+        },
+        {
+            "name": "Kinichi Mitsui",
+            "id": "2131220307",
+            "org": "IBM Language Techonology Center, Toronto, Ontario#TAB#"
+        },
+        {
+            "name": "Hiroaki Nakamura",
+            "id": "2495441038",
+            "org": "IBM Language Techonology Center, Toronto, Ontario#TAB#"
+        },
+        {
+            "name": "Tsuyoshi Ohira",
+            "id": "2237841770",
+            "org": "IBM Language Techonology Center, Toronto, Ontario#TAB#"
+        },
+        {
+            "name": "Kazu Yasuda",
+            "id": "2575912982",
+            "org": "IBM Language Techonology Center, Toronto, Ontario#TAB#"
+        },
+        {
+            "name": "Kazushi Kuse",
+            "id": "2564526949",
+            "org": "IBM Language Techonology Center, Toronto, Ontario#TAB#"
+        },
+        {
+            "name": "Tsutomu Kamimura",
+            "id": "2286988987",
+            "org": "IBM Tokyo Research Laboratory, 5-19 Sanban-cho, Chiyoda-ku, Tokyo#TAB#"
+        },
+        {
+            "name": "Richard Helm",
+            "id": "2780840644",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Input/output (C++)",
+        "Computer science",
+        "Distributed computing",
+        "Database",
+        "Policy-based design",
+        "Architecture",
+        "Windows Runtime",
+        "const",
+        "High-level architecture",
+        "Programming language"
+    ],
+    "references": [
+        "16783397",
+        "67492172",
+        "2029722359",
+        "2045267305",
+        "2050645799",
+        "2083472806",
+        "2097997737",
+        "2519461236"
+    ]
+}

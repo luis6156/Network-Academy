@@ -1,0 +1,52 @@
+{
+    "id": "1600034691",
+    "title": "Memory Management for Parallel Tasks in Shared Memory",
+    "venue": "international symposium on memory management",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Koen Langendoen",
+            "id": "1969311846",
+            "org": "University of Amsterdam"
+        },
+        {
+            "name": "Henk L. Muller",
+            "id": "2135972342",
+            "org": "University of Amsterdam"
+        },
+        {
+            "name": "Willem G. Vree",
+            "id": "1968545134",
+            "org": "University of Amsterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Memory management",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Manual memory management",
+        "Real-time computing",
+        "Flat memory model",
+        "Virtual memory"
+    ],
+    "references": [
+        "1534794563",
+        "1577503839",
+        "1604333376",
+        "1604339875",
+        "1965571929",
+        "1976113642",
+        "1993621349",
+        "2028080565",
+        "2127227668",
+        "2138149796",
+        "2143319781",
+        "2156956446",
+        "2165971729"
+    ]
+}

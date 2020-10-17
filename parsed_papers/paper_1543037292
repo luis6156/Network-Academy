@@ -1,0 +1,64 @@
+{
+    "id": "1543037292",
+    "title": "Implications of I/O for Gang Scheduled Workloads",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Walter Lee",
+            "id": "2171202045",
+            "org": "M.I.T. Laboratory for Computer Science"
+        },
+        {
+            "name": "Matthew I. Frank",
+            "id": "2131247511",
+            "org": "M.I.T. Laboratory for Computer Science"
+        },
+        {
+            "name": "Victor Lee",
+            "id": "2306254810",
+            "org": "M.I.T. Laboratory for Computer Science"
+        },
+        {
+            "name": "Kenneth Mackenzie",
+            "id": "2344198099",
+            "org": "M.I.T. Laboratory for Computer Science"
+        },
+        {
+            "name": "Larry Rudolph",
+            "id": "2000056369",
+            "org": "M.I.T. Laboratory for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Gang scheduling",
+        "Multiprocessor scheduling",
+        "Coscheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1498765419",
+        "1525016610",
+        "1589576271",
+        "1861933395",
+        "1966275462",
+        "1968504700",
+        "1971636727",
+        "1973459706",
+        "2000635775",
+        "2029804882",
+        "2036398208",
+        "2061469721",
+        "2099413756",
+        "2103686944",
+        "2107364194",
+        "2108187310",
+        "2126503506",
+        "2174818301"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1528620870",
+    "title": "An evaluation of implementation options for MPI one-sided communication",
+    "venue": "european pvm/mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Multiprocessing",
+        "Data transmission",
+        "Message passing",
+        "Synchronization",
+        "Virtual machine",
+        "Real-time computing",
+        "Computer cluster"
+    ],
+    "references": [
+        "1502560748",
+        "1529327506",
+        "1552841156",
+        "1590267976",
+        "1596157658",
+        "1861151562",
+        "1990512864",
+        "1995396170",
+        "2041327854",
+        "2084557272",
+        "2102650110",
+        "2104679970",
+        "2109274854",
+        "2109982223",
+        "2131613942",
+        "2135232264",
+        "2541014599"
+    ]
+}

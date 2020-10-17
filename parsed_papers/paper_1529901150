@@ -1,0 +1,37 @@
+{
+    "id": "1529901150",
+    "title": "Implementing a New Low-Level Tasking Support for the GNAT Runtime System",
+    "venue": "international conference on reliable software technologies",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jose Ruiz",
+            "id": "2206376029",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Jesus M. Gonzalez-Barahona",
+            "id": "2706647987",
+            "org": "Universidad Carlos III de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Software development",
+        "Preemption",
+        "Computer science",
+        "Mutual exclusion",
+        "Bare machine",
+        "Runtime system",
+        "Real-time operating system",
+        "POSIX Threads",
+        "Real-time computing"
+    ],
+    "references": [
+        "1548567212",
+        "1901085887",
+        "1973581806",
+        "2012308034",
+        "2023429917"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1576210310",
+    "title": "Performance Evaluation of a Multithreaded Fast Fourier Transform Algorithm for Derivative Pricing",
+    "venue": "The Journal of Supercomputing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ruppa K. Thulasiram",
+            "id": "89925337",
+            "org": "Department of Computer Science, University of Manitoba, Winnipeg, Manitoba R3T 2N2 tulsi@cs.umanitoba.ca#TAB#"
+        },
+        {
+            "name": "Parimala Thulasiraman",
+            "id": "373078722",
+            "org": "Department of Computer Science, University of Manitoba, Winnipeg, Manitoba R3T 2N2 thulasir@cs.umanitoba.ca#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Sequential algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Cooley-Tukey FFT algorithm",
+        "Prime-factor FFT algorithm",
+        "Fast Fourier transform",
+        "Local algorithm",
+        "Parallel algorithm",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "1819476060",
+        "1846255698",
+        "1896968490",
+        "1964766724",
+        "2070169025",
+        "2091692923",
+        "2109189514",
+        "2122427319",
+        "2134321573"
+    ]
+}

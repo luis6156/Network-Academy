@@ -1,0 +1,53 @@
+{
+    "id": "1526216923",
+    "title": "Solving constraint satisfaction problems with SAT technology",
+    "venue": "international symposium on functional and logic programming",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Naoyuki Tamura",
+            "id": "2004240429",
+            "org": "Information Science and Technology Center, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Tomoya Tanjo",
+            "id": "2062009368",
+            "org": "Graduate School of Engineering, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Mutsunori Banbara",
+            "id": "99608674",
+            "org": "Information Science and Technology Center, Kobe University, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction problem",
+        "Software verification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Maximum satisfiability problem",
+        "Computer science",
+        "Constraint satisfaction",
+        "#SAT",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Mathematical optimization",
+        "Boolean data type"
+    ],
+    "references": [
+        "145815032",
+        "160447551",
+        "1518705996",
+        "1538681263",
+        "1542386705",
+        "1550483759",
+        "1586677474",
+        "1639866337",
+        "1748017702",
+        "1983758948",
+        "1986964870",
+        "2030455524",
+        "2067633747",
+        "2605289564"
+    ]
+}

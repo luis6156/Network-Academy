@@ -1,0 +1,81 @@
+{
+    "id": "1488330426",
+    "title": "Use of PVFS for efficient execution of jobs with pipeline-shared I/O",
+    "venue": "grid computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Nagavijayalakshmi Vydyanathan",
+            "id": "1803745773",
+            "org": "Dept. of Comput. Sci. & Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Gaurav Khanna",
+            "id": "2273439798",
+            "org": "Dept. of Comput. Sci. & Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Tahsin M. Kurc",
+            "id": "2310949129",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Umit V. Catalyurek",
+            "id": "244960322",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Pete Wyckoff",
+            "id": "2059209832",
+            "org": "Ohio Supercomputer Center#TAB#"
+        },
+        {
+            "name": "Joel H. Saltz",
+            "id": "2111158966",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "P. Sadayappan",
+            "id": "1966094299",
+            "org": "The Ohio State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Virtual file system",
+        "Self-certifying File System",
+        "File system",
+        "Grid computing",
+        "Computer cluster"
+    ],
+    "references": [
+        "1509413870",
+        "1573033176",
+        "1911742366",
+        "1945028620",
+        "1987340991",
+        "1995070612",
+        "2000300079",
+        "2040466547",
+        "2053609011",
+        "2057298723",
+        "2066191928",
+        "2094186309",
+        "2103166562",
+        "2110298485",
+        "2118436132",
+        "2119381135",
+        "2129518977",
+        "2133338501",
+        "2137512655",
+        "2142470696",
+        "2145251660",
+        "2152526229",
+        "2157423447"
+    ]
+}

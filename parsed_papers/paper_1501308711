@@ -1,0 +1,54 @@
+{
+    "id": "1501308711",
+    "title": "Easy Verifiable Primitives and Practical Public Key Cryptosystems",
+    "venue": "international conference on information security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David Galindo",
+            "id": "2278651514",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Sebastia Martin",
+            "id": "2164485612",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Paz Morillo",
+            "id": "2152852252",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Jorge L. Villar",
+            "id": "2137851336",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Concrete security",
+        "Theoretical computer science",
+        "Standardization",
+        "Computer science",
+        "Encryption",
+        "Verifiable secret sharing",
+        "Hybrid cryptosystem",
+        "Random oracle",
+        "Timing attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1516175629",
+        "1529862094",
+        "1560706682",
+        "1589586740",
+        "1594742286",
+        "1607264302",
+        "1706109527",
+        "2042226948",
+        "2052267638",
+        "2161195863",
+        "2165111290",
+        "2554713832"
+    ]
+}

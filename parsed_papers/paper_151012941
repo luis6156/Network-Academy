@@ -1,0 +1,51 @@
+{
+    "id": "151012941",
+    "title": "An FPGA Implementation of a Montgomery Multiplier Over GF(2^m)",
+    "venue": "Computing and Informatics \\/ Computers and Artificial Intelligence",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Nele Mentens",
+            "id": "1386430577",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Siddika Berna Ors",
+            "id": "2426848074",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "GF(2)",
+        "Systolic array",
+        "Mathematics",
+        "Field-programmable gate array",
+        "Polynomial",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Modular arithmetic",
+        "Finite field",
+        "Elliptic curve",
+        "Clock rate"
+    ],
+    "references": [
+        "1481833500",
+        "1582292377",
+        "2098235952",
+        "2123257885",
+        "2148225107",
+        "2156186849",
+        "2161198480",
+        "2785547368"
+    ]
+}

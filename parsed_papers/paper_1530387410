@@ -1,0 +1,46 @@
+{
+    "id": "1530387410",
+    "title": "Finding Preimages in Full MD5 Faster Than Exhaustive Search",
+    "venue": "international cryptology conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Tokyo, Japan 180-8585#TAB#"
+        },
+        {
+            "name": "Kazumaro Aoki",
+            "id": "2437729937",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Tokyo, Japan 180-8585#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Theoretical computer science",
+        "Algorithm",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "172560767",
+        "1499593564",
+        "1503774814",
+        "1533007301",
+        "1568906052",
+        "1598517024",
+        "1660562555",
+        "1814882979",
+        "2103239853",
+        "2147436724",
+        "2172433705",
+        "2394910287",
+        "2521026666"
+    ]
+}

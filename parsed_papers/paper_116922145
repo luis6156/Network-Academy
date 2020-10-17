@@ -1,0 +1,68 @@
+{
+    "id": "116922145",
+    "title": "Automatic Detection and Segmentation of Kidneys in 3D CT Images Using Random Forests",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Remi Cuingnet",
+            "id": "2082222046",
+            "org": "Philips Research Medisys"
+        },
+        {
+            "name": "Raphael Prevost",
+            "id": "2278422887",
+            "org": "Philips Research Medisys"
+        },
+        {
+            "name": "David Lesage",
+            "id": "2141751838",
+            "org": "Philips Research Medisys"
+        },
+        {
+            "name": "Laurent D. Cohen",
+            "id": "2558182630",
+            "org": "Paris Dauphine University"
+        },
+        {
+            "name": "Benoit Mory",
+            "id": "1723782055",
+            "org": "Philips Research Medisys"
+        },
+        {
+            "name": "Roberto Ardon",
+            "id": "2134483961",
+            "org": "Philips Research Medisys"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Sorensen-Dice coefficient",
+        "Random forest",
+        "Local regression",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Probabilistic logic",
+        "Scale-space segmentation",
+        "Both kidneys",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "29661792",
+        "111214574",
+        "124240369",
+        "199587707",
+        "1526682349",
+        "1568207135",
+        "1573412753",
+        "1642496694",
+        "1870126640",
+        "2049516470",
+        "2101689475",
+        "2136000821",
+        "2156312950",
+        "2162140684",
+        "2167825066"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1581869671",
+    "title": "A Scalable Process-Management Environment for Parallel Programs",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ralph Butler",
+            "id": "2304381266",
+            "org": "University of North Florida"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "Ewing L. Lusk",
+            "id": "1977610862",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Daemon",
+        "Parallel computing",
+        "Process control",
+        "Process management",
+        "MPICH",
+        "Computer science",
+        "Distributed computing",
+        "C file input/output",
+        "Message passing",
+        "Debugger",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "1513913200",
+        "1592554907",
+        "1759783712",
+        "1964564149",
+        "2004593585",
+        "2039088133",
+        "2043381104",
+        "2081612620",
+        "2140332639"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": "1578321116",
+    "title": "Overview of Elliptic Curve Cryptography",
+    "venue": "public key cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Kiyomichi Araki",
+            "id": "2295678974",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Takakazu Satoh",
+            "id": "2311261232",
+            "org": "Saitama University"
+        },
+        {
+            "name": "Shinji Miura",
+            "id": "2163321989",
+            "org": "Sony Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Counting points on elliptic curves",
+        "Theoretical computer science",
+        "Curve25519",
+        "Post-quantum cryptography",
+        "Discrete mathematics",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Elliptic curve cryptography",
+        "Public-key cryptography",
+        "IEEE P1363"
+    ],
+    "references": [
+        "1490994218",
+        "1494149592",
+        "1496801598",
+        "1515841333",
+        "1529862094",
+        "1540704115",
+        "1560603711",
+        "1835682632",
+        "1979485530",
+        "1981455414",
+        "2003736153",
+        "2019311852",
+        "2027028382",
+        "2028358228",
+        "2039596581",
+        "2046569422",
+        "2091260227",
+        "2091826091",
+        "2095708839",
+        "2098377074",
+        "2108834246",
+        "2111310412",
+        "2156186849",
+        "2161531038"
+    ]
+}

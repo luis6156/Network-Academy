@@ -1,0 +1,60 @@
+{
+    "id": "1525476162",
+    "title": "Designing efficient elliptic Curve Diffie-Hellman accelerators for embedded systems",
+    "venue": "international symposium on circuits and systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Apostolos P. Fournaris",
+            "id": "2159045736",
+            "org": "Industrial Systems Institute (ISI) / R.C.\"ATHENA\", Patras Science Park Platani, Patra, Greece"
+        },
+        {
+            "name": "Ioannis Zafeirakis",
+            "id": "761816377",
+            "org": "Electrical and Computer Engineering Department, University of Patras, Rion Campus, Patra, Greece"
+        },
+        {
+            "name": "Christos Koulamas",
+            "id": "2568648407",
+            "org": "Industrial Systems Institute (ISI) / R.C.\"ATHENA\", Patras Science Park Platani, Patra, Greece"
+        },
+        {
+            "name": "Nicolas Sklavos",
+            "id": "267657683",
+            "org": "KNOSSOSnet Research Group, Computer Informatics Engineering Department, Technological Educational Institute of Western Greece, Antirion, Patra, Greece"
+        },
+        {
+            "name": "Odysseas G. Koufopavlou",
+            "id": "125314923",
+            "org": "Electrical and Computer Engineering Department, University of Patras, Rion Campus, Patra, Greece"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Software",
+        "Computer science",
+        "Elliptic curve Diffie-Hellman",
+        "MicroBlaze",
+        "Virtex",
+        "Elliptic curve cryptography",
+        "Embedded system",
+        "Elliptic curve",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "124286720",
+        "1510930713",
+        "1511530643",
+        "1522228241",
+        "1990334072",
+        "2025568631",
+        "2086829759",
+        "2106688507",
+        "2134585683",
+        "2138082886",
+        "2147227696"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1560394043",
+    "title": "Verifying Opacity of a Transactional Mutex Lock",
+    "venue": "formal methods",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "John Derrick",
+            "id": "2126147314",
+            "org": "University of Sheffield"
+        },
+        {
+            "name": "Brijesh Dongol",
+            "id": "2103345461",
+            "org": "Brunel University"
+        },
+        {
+            "name": "Gerhard Schellhorn",
+            "id": "123694094",
+            "org": "Universitat Augsburg"
+        },
+        {
+            "name": "Oleg Travkin",
+            "id": "2025025158",
+            "org": "Universitat Paderborn"
+        },
+        {
+            "name": "Heike Wehrheim",
+            "id": "2062320239",
+            "org": "Universitat Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Opacity",
+        "Transactional memory",
+        "Computer science",
+        "Lock (computer science)",
+        "Implementation",
+        "Semaphore",
+        "Correctness",
+        "Atomicity",
+        "Real-time computing",
+        "Software transactional memory"
+    ],
+    "references": [
+        "127393827",
+        "307320947",
+        "1542975293",
+        "1758810311",
+        "1833690663",
+        "2017559473",
+        "2021030008",
+        "2022984109",
+        "2023304911",
+        "2035134754",
+        "2077571050",
+        "2101939036",
+        "2108204150",
+        "2128585185",
+        "2133108345",
+        "2508779702",
+        "2769656678"
+    ]
+}

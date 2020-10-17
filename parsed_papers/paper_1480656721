@@ -1,0 +1,39 @@
+{
+    "id": "1480656721",
+    "title": "MGTP: A Parallel Theorem Prover Based on Lazy Model Generation",
+    "venue": "conference on automated deduction",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Ryuzo Hasegawa",
+            "id": "2138670808",
+            "org": "Institute for New Generation Computer Technology"
+        },
+        {
+            "name": "Miyuki Koshimura",
+            "id": "1218237348",
+            "org": "Toshiba Information Systems"
+        },
+        {
+            "name": "Hiroshi Fujita",
+            "id": "2599757804",
+            "org": "Mitsubishi Electric Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Gas meter prover",
+        "Spacetime",
+        "Algorithm",
+        "Speedup",
+        "Discrete mathematics",
+        "Mathematical proof",
+        "Inference",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "1525307746",
+        "1589905862",
+        "1924552249"
+    ]
+}

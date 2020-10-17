@@ -1,0 +1,36 @@
+{
+    "id": "1518969538",
+    "title": "Optimizing Sparse Matrix Computations for Register Reuse in SPARSITY",
+    "venue": "international conference on computational science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Eun-Jin Im",
+            "id": "2127413150",
+            "org": "University of California"
+        },
+        {
+            "name": "Katherine A. Yelick",
+            "id": "2062901400",
+            "org": "Kookmin University"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Cuthill-McKee algorithm",
+        "Matrix multiplication",
+        "Theoretical computer science",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Sparse approximation",
+        "Sparse matrix-vector multiplication",
+        "Mathematical optimization",
+        "Matrix calculus",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1987393840",
+        "2098220211",
+        "2400300130"
+    ]
+}

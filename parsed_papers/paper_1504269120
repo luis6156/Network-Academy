@@ -1,0 +1,61 @@
+{
+    "id": "1504269120",
+    "title": "Exploiting Temporal Persistence to Detect Covert Botnet Channels",
+    "venue": "recent advances in intrusion detection",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Frederic Giroire",
+            "id": "2010112691",
+            "org": "Project Mascotte, I3S(CNRS/UNS)/INRIA,#TAB#"
+        },
+        {
+            "name": "Jaideep Chandrashekar",
+            "id": "2281328142",
+            "org": "Intel Research,#TAB#"
+        },
+        {
+            "name": "Nina Taft",
+            "id": "1978105320",
+            "org": "Intel Research,#TAB#"
+        },
+        {
+            "name": "Eve M. Schooler",
+            "id": "2270120658",
+            "org": "Intel Research,#TAB#"
+        },
+        {
+            "name": "Dina Papagiannaki",
+            "id": "2174112422",
+            "org": "Intel Research,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Enterprise private network",
+        "Port (computer networking)",
+        "Whitelist",
+        "Computer science",
+        "Communication channel",
+        "Persistence (computer science)",
+        "Computer security",
+        "Filter (signal processing)",
+        "False positive rate",
+        "Real-time computing",
+        "Botnet"
+    ],
+    "references": [
+        "80155331",
+        "172040345",
+        "191098608",
+        "1462349742",
+        "1499648394",
+        "1583098994",
+        "1586807939",
+        "1593743365",
+        "1744212210",
+        "1775772884",
+        "2100307718",
+        "2118528519",
+        "2145211381"
+    ]
+}

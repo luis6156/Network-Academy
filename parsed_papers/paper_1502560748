@@ -1,0 +1,34 @@
+{
+    "id": "1502560748",
+    "title": "MPI-2 One-Sided Communications on a Giganet SMP Cluster",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Maciej Golebiewski",
+            "id": "2165149574",
+            "org": "NEC Europe Ltd."
+        },
+        {
+            "name": "Jesper Larsson Traff",
+            "id": "718724760",
+            "org": "NEC Europe Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Point-to-point",
+        "Supercomputer",
+        "Parallel computing",
+        "MPICH",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Data type"
+    ],
+    "references": [
+        "1529327506",
+        "1969215126",
+        "2135232264",
+        "2541014599"
+    ]
+}

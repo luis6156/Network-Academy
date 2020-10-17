@@ -1,0 +1,64 @@
+{
+    "id": "1640798781",
+    "title": "Hyperparameter search space pruning - A new component for sequential model-based hyperparameter optimization",
+    "venue": "european conference on machine learning",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Martin Wistuba",
+            "id": "2114698921",
+            "org": "Information Systems and Machine Learning Lab, University of Hildesheim, Hildesheim, Germany#TAB#"
+        },
+        {
+            "name": "Nicolas Schilling",
+            "id": "2019736652",
+            "org": "Information Systems and Machine Learning Lab, University of Hildesheim, Hildesheim, Germany#TAB#"
+        },
+        {
+            "name": "Lars Schmidt-Thieme",
+            "id": "78243962",
+            "org": "Information Systems and Machine Learning Lab, University of Hildesheim, Hildesheim, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Random forest",
+        "Surrogate model",
+        "Machine learning",
+        "Pattern recognition",
+        "Computer science",
+        "Gaussian process",
+        "Data set",
+        "Initialization",
+        "Hyperparameter",
+        "Support vector machine",
+        "Hyperparameter optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "60686164",
+        "76331760",
+        "122178443",
+        "1510052597",
+        "1705110237",
+        "1746819321",
+        "1925504357",
+        "2020732830",
+        "2091364465",
+        "2097998348",
+        "2102539288",
+        "2106411961",
+        "2112204321",
+        "2113145584",
+        "2118858186",
+        "2131241448",
+        "2132862423",
+        "2133990480",
+        "2144161366",
+        "2144931885",
+        "2153635508",
+        "2157069634",
+        "2158001550",
+        "2166566250",
+        "2405673391"
+    ]
+}

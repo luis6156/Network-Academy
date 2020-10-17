@@ -1,0 +1,38 @@
+{
+    "id": "1535963469",
+    "title": "High Performance Cholesky Factorization via Blocking and Recursion That Uses Minimal Storage",
+    "venue": "parallel computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Fred G. Gustavson",
+            "id": "2077030820",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Isak Jonsson",
+            "id": "2099027815",
+            "org": "Umea University"
+        }
+    ],
+    "fields_of_study": [
+        "Cholesky decomposition",
+        "Parallel computing",
+        "Recursion",
+        "Recursion (computer science)",
+        "Theoretical computer science",
+        "Recursive data type",
+        "Computer science",
+        "Algorithmics",
+        "Subroutine",
+        "Basic Linear Algebra Subprograms",
+        "Minimum degree algorithm"
+    ],
+    "references": [
+        "1516000274",
+        "1585447259",
+        "1986334759",
+        "2026237859",
+        "2042975873"
+    ]
+}

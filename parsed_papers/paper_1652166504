@@ -1,0 +1,34 @@
+{
+    "id": "1652166504",
+    "title": "A bit-slice implementation of the whirlpool hash function",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Karl Scheibelhofer",
+            "id": "59372381",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SSE2",
+        "Lookup table",
+        "Parallel computing",
+        "Hash-based message authentication code",
+        "Computer science",
+        "Whirlpool",
+        "Reference implementation",
+        "Hash function",
+        "Real-time computing",
+        "Timing attack",
+        "CPU cache"
+    ],
+    "references": [
+        "1548516269",
+        "1563001590",
+        "1656731780",
+        "2009582397",
+        "2106181459",
+        "2127752881"
+    ]
+}

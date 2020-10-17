@@ -1,0 +1,41 @@
+{
+    "id": "1558730651",
+    "title": "Large Primes in Stream Cipher Cryptography",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Kencheng Zeng",
+            "id": "2664444933",
+            "org": "Academia Sinica"
+        },
+        {
+            "name": "Chung-Huang Yang",
+            "id": "2140218263",
+            "org": "University of Southwestern Louisiana"
+        },
+        {
+            "name": "T. R. N. Rao",
+            "id": "2698207862",
+            "org": "University of Southwestern Louisiana"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Ciphertext stealing",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Discrete mathematics",
+        "Computer science",
+        "Two-square cipher",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Substitution-permutation network"
+    ],
+    "references": [
+        "1495460021",
+        "2062544469",
+        "2107271959",
+        "2154271831"
+    ]
+}

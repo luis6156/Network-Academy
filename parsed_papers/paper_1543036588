@@ -1,0 +1,59 @@
+{
+    "id": "1543036588",
+    "title": "Security analysis of a cryptographically-enabled RFID device",
+    "venue": "usenix security symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stephen C. Bono",
+            "id": "2138618354",
+            "org": "Department of Computer Science, The Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Matthew Green",
+            "id": "2248595014",
+            "org": "Department of Computer Science, The Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Adam Stubblefield",
+            "id": "1989862221",
+            "org": "Department of Computer Science, The Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Ari Juels",
+            "id": "46726047",
+            "org": "RSA Laboratories, Middlesex Turnpike, MA#TAB#"
+        },
+        {
+            "name": "Aviel D. Rubin",
+            "id": "2112283555",
+            "org": "Department of Computer Science, The Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Michael Szydlo",
+            "id": "794659302",
+            "org": "RSA Laboratories, Middlesex Turnpike, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Oracle",
+        "Cipher",
+        "Computer science",
+        "Computer security",
+        "Digital signature",
+        "Embedded system",
+        "Key (lock)",
+        "Transponder",
+        "Digital signature transponder",
+        "Key size"
+    ],
+    "references": [
+        "1544956979",
+        "1591620981",
+        "1656678770",
+        "1951560508",
+        "2012646342",
+        "2170489924"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1524701752",
+    "title": "A Rate Controller for Long-Lived TCP Flows",
+    "venue": "distributed multimedia systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Peter Dorfinger",
+            "id": "239888040",
+            "org": "Fachhochschule Salzburg"
+        },
+        {
+            "name": "Christof Brandauer",
+            "id": "2019261827",
+            "org": "Salzburg Research"
+        },
+        {
+            "name": "Ulrich Hofmann",
+            "id": "2586317004",
+            "org": "Salzburg Research"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1990920914",
+        "2050489767",
+        "2096077397",
+        "2124478678",
+        "2156639545",
+        "2164150988"
+    ]
+}

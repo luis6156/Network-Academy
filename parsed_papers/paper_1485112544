@@ -1,0 +1,58 @@
+{
+    "id": "1485112544",
+    "title": "Fast and Scalable Barrier Using RDMA and Multicast Mechanisms for InfiniBand-Based Clusters",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sushmitha P. Kini",
+            "id": "2127869837",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Jiuxing Liu",
+            "id": "2135132588",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Jiesheng Wu",
+            "id": "2130616086",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Pete Wyckoff",
+            "id": "2059209832",
+            "org": "Ohio Supercomputer Center"
+        },
+        {
+            "name": "Dhabaleswar K. Panda",
+            "id": "2126583185",
+            "org": "The Ohio State University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Remote direct memory access",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing",
+        "Multicast",
+        "Architecture"
+    ],
+    "references": [
+        "1541547953",
+        "1591363587",
+        "1595141187",
+        "1937799376",
+        "1969215126",
+        "1984788566",
+        "2001738739",
+        "2081612620",
+        "2098246574",
+        "2155066383"
+    ]
+}

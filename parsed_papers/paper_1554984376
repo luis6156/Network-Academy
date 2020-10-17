@@ -1,0 +1,63 @@
+{
+    "id": "1554984376",
+    "title": "Probabilistic multi-class scene flow segmentation for traffic scenes",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alexander Barth",
+            "id": "2276787982",
+            "org": "University of Bonn, Department of Photogrammetry, Germany#TAB#"
+        },
+        {
+            "name": "Jan Siegemund",
+            "id": "158458412",
+            "org": "University of Bonn, Department of Photogrammetry, Germany#TAB#"
+        },
+        {
+            "name": "Annemarie Meissner",
+            "id": "2762827129",
+            "org": "Daimler AG, Group Research, Sindelfingen, Germany#TAB#"
+        },
+        {
+            "name": "Uwe Franke",
+            "id": "2134082329",
+            "org": "Daimler AG, Group Research, Sindelfingen, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Forstner",
+            "id": "1857454961",
+            "org": "University of Bonn, Department of Photogrammetry, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Object Class",
+        "Conditional random field",
+        "Topological order",
+        "Probabilistic logic",
+        "Scene statistics",
+        "Flow (psychology)",
+        "Pixel",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1479789543",
+        "1601541057",
+        "1608643120",
+        "1808303360",
+        "1879762224",
+        "1981283549",
+        "2019329118",
+        "2097853086",
+        "2100864581",
+        "2110306576",
+        "2140789035",
+        "2147880316",
+        "2165363188",
+        "2337319582"
+    ]
+}

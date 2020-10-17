@@ -1,0 +1,80 @@
+{
+    "id": "146475325",
+    "title": "Automatic Inference of Necessary Preconditions",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Patrick Cousot",
+            "id": "2148533322",
+            "org": "NYU, ENS, CNRS, INRIA, France#TAB#"
+        },
+        {
+            "name": "Radhia Cousot",
+            "id": "1995565190",
+            "org": "CNRS, ENS, INRIA, France#TAB#"
+        },
+        {
+            "name": "Manuel Fahndrich",
+            "id": "1974059945",
+            "org": "Microsoft Research, USA#TAB#"
+        },
+        {
+            "name": "Francesco Logozzo",
+            "id": "30997055",
+            "org": "Microsoft Research, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Predicate abstraction",
+        "Theoretical computer science",
+        "Program analysis",
+        "Computer science",
+        "Data mining",
+        "Abstract interpretation",
+        "Inference",
+        "Precondition"
+    ],
+    "references": [
+        "1494768888",
+        "1498946538",
+        "1511737804",
+        "1517409399",
+        "1521064342",
+        "1550127321",
+        "1555946950",
+        "1556566737",
+        "1568478782",
+        "1657354101",
+        "1766065475",
+        "1813351732",
+        "1877129949",
+        "1956613073",
+        "1986827952",
+        "1993836075",
+        "2008732772",
+        "2012816689",
+        "2036086780",
+        "2042033151",
+        "2073264387",
+        "2074847015",
+        "2080573945",
+        "2082357899",
+        "2084974764",
+        "2096449544",
+        "2104220745",
+        "2108241838",
+        "2111950041",
+        "2114337691",
+        "2114925430",
+        "2133832333",
+        "2135584970",
+        "2146177878",
+        "2152567582",
+        "2154985136",
+        "2156045808",
+        "2165069483",
+        "2168441850",
+        "2194223632"
+    ]
+}

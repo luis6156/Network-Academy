@@ -1,0 +1,52 @@
+{
+    "id": "1598886868",
+    "title": "The java hotspot TM server compiler",
+    "venue": "JVM'01 Proceedings of the 2001 Symposium on JavaTM Virtual Machine Research and Technology Symposium - Volume 1",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Michael H. Paleczny",
+            "id": "2063418375",
+            "org": "Sun Microsystems, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Christopher A. Vick",
+            "id": "2106905703",
+            "org": "Sun Microsystems, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Cliff Click",
+            "id": "2680889219",
+            "org": "Sun Microsystems, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interprocedural optimization",
+        "Parallel computing",
+        "Compiler",
+        "Functional compiler",
+        "Computer science",
+        "Inline expansion",
+        "Manifest expression",
+        "Compiler correctness",
+        "Optimizing compiler",
+        "Operating system",
+        "Superoptimization"
+    ],
+    "references": [
+        "1491178396",
+        "1979823255",
+        "2013724146",
+        "2014474920",
+        "2044636417",
+        "2046052568",
+        "2054399553",
+        "2094449661",
+        "2100111786",
+        "2111379929",
+        "2118866757",
+        "2141582038",
+        "2152885483",
+        "2159558457"
+    ]
+}

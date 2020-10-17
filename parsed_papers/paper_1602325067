@@ -1,0 +1,82 @@
+{
+    "id": "1602325067",
+    "title": "nPAKE+: a hierarchical group password-authenticated key exchange protocol using different passwords",
+    "venue": "international conference on information and communication security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Zhiguo Wan",
+            "id": "2163367184",
+            "org": "K.U.Leuven, ESAT/SCD, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Robert H. Deng",
+            "id": "2062283694",
+            "org": "School of Information Systems, Singapore Management University, Singapore#TAB#"
+        },
+        {
+            "name": "Feng Bao",
+            "id": "2311384390",
+            "org": "Institute for Infocomm Research, Heng Mui Keng Terrace, Singapore#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "K.U.Leuven, ESAT/SCD, Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "Key exchange",
+        "Computer science",
+        "Distributed computing",
+        "Oakley protocol",
+        "Password",
+        "Key-agreement protocol",
+        "Random oracle",
+        "Diffie-Hellman key exchange",
+        "Computer network",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "126840821",
+        "203500824",
+        "288327399",
+        "1485183201",
+        "1506030643",
+        "1509672724",
+        "1516161674",
+        "1595293097",
+        "1597518623",
+        "1600327347",
+        "1601218083",
+        "1602484190",
+        "1795601689",
+        "1837822405",
+        "1866147697",
+        "1970448459",
+        "1981689534",
+        "2019267322",
+        "2041027981",
+        "2054251041",
+        "2064967060",
+        "2091020476",
+        "2095841131",
+        "2104748480",
+        "2110804296",
+        "2111799375",
+        "2117398379",
+        "2118357205",
+        "2124371582",
+        "2124926080",
+        "2131123432",
+        "2132648536",
+        "2133432179",
+        "2134475940",
+        "2143545186",
+        "2157604883",
+        "2165482045",
+        "2167154815",
+        "2404603417"
+    ]
+}

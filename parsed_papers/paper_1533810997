@@ -1,0 +1,42 @@
+{
+    "id": "1533810997",
+    "title": "Maintaining Consistent Transactional States without a Global Clock",
+    "venue": "SIROCCO '08 Proceedings of the 15th international colloquium on Structural Information and Communication Complexity",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hillel Avni",
+            "id": "2099365084",
+            "org": "Tel-Aviv University, Tel-Aviv, Israel 69978 and Freescale Semiconductor Israel Ltd., Herzliya, Israel 46725#TAB#"
+        },
+        {
+            "name": "Nir Shavit",
+            "id": "2071581749",
+            "org": "Tel-Aviv University, Tel-Aviv, Israel 69978 and Sun Microsystems Laboratories, Burlington MA 01803-0903#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Clock synchronization",
+        "Transactional memory",
+        "Abort",
+        "Distributed computing",
+        "Computer science",
+        "Transactional leadership",
+        "Real-time computing",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1542975293",
+        "1993805917",
+        "2094222793",
+        "2103642785",
+        "2108204150",
+        "2116145395",
+        "2125445874",
+        "2128585185",
+        "2135430119",
+        "2149089882",
+        "2168519934",
+        "2769656678"
+    ]
+}

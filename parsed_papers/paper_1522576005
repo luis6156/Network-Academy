@@ -1,0 +1,47 @@
+{
+    "id": "1522576005",
+    "title": "Y-Invalidate: A New Protocol for Implementing Weak Consistency in DSM Systems",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Yosi Ben-Asher",
+            "id": "267669107",
+            "org": "Computer Science Department, Haifa University, Haifa, Israel. yosi@cs.haifa.ac.il#TAB#"
+        },
+        {
+            "name": "Dimitry Podvolny",
+            "id": "2344327918",
+            "org": "Computer Science Department, Haifa University, Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Source code",
+        "Compiler",
+        "Merge (version control)",
+        "Distributed computing",
+        "Computer science",
+        "Cache coherence",
+        "Weak consistency",
+        "Synchronization",
+        "Consistency model"
+    ],
+    "references": [
+        "51427095",
+        "1542985837",
+        "1926816778",
+        "1967800745",
+        "2006294673",
+        "2023186718",
+        "2054739713",
+        "2092816328",
+        "2125558661",
+        "2126990153",
+        "2141318181",
+        "2145021036",
+        "2157632164",
+        "2176864362"
+    ]
+}

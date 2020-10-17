@@ -1,0 +1,71 @@
+{
+    "id": "1804236779",
+    "title": "Fault Attacks on Public Key Elements: Application to DLP-Based Schemes",
+    "venue": "european public key infrastructure workshop",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Chong Hee Kim",
+            "id": "2223378643",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium 1348#TAB#"
+        },
+        {
+            "name": "Philippe Bulens",
+            "id": "2081890085",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium 1348#TAB#"
+        },
+        {
+            "name": "Christophe Petit",
+            "id": "2222142713",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium 1348#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium 1348#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Discrete logarithm",
+        "Integer factorization",
+        "Distributed computing",
+        "Computer science",
+        "Computer security",
+        "Cryptosystem",
+        "ElGamal encryption",
+        "Smart card",
+        "Public-key cryptography",
+        "Internet privacy",
+        "Fault injection"
+    ],
+    "references": [
+        "54889511",
+        "1501265301",
+        "1511843316",
+        "1519539754",
+        "1527059802",
+        "1536508214",
+        "1562542037",
+        "1584975026",
+        "1587481360",
+        "1724890242",
+        "1811355673",
+        "1824485463",
+        "1935672779",
+        "2057209427",
+        "2066425771",
+        "2105114022",
+        "2107691219",
+        "2108834246",
+        "2111725598",
+        "2112284176",
+        "2117947592",
+        "2120481817",
+        "2125815652",
+        "2145386488",
+        "2154909745",
+        "2170489924",
+        "2464729570"
+    ]
+}

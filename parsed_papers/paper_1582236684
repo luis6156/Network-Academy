@@ -1,0 +1,51 @@
+{
+    "id": "1582236684",
+    "title": "Strongly Multiplicative Hierarchical Threshold Secret Sharing",
+    "venue": "international conference on information theoretic security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Emilia Kasper",
+            "id": "2100092778",
+            "org": "ESAT/COSIC, K.U. Leuven,#TAB#"
+        },
+        {
+            "name": "Ventzislav Nikov",
+            "id": "2113011208",
+            "org": "TASS, Belgium#TAB#"
+        },
+        {
+            "name": "Svetla Nikova",
+            "id": "2097428058",
+            "org": "ESAT/COSIC, K.U. Leuven,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Multiplicative function",
+        "Hierarchy",
+        "Verifiable secret sharing",
+        "Homomorphic secret sharing",
+        "Secret sharing",
+        "Shamir's Secret Sharing",
+        "Multiplication",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1507039798",
+        "1556155774",
+        "1572181357",
+        "1574535057",
+        "2036133214",
+        "2046021070",
+        "2083952939",
+        "2101288164",
+        "2120551550",
+        "2140328402",
+        "2141420453",
+        "2223862429"
+    ]
+}

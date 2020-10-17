@@ -1,0 +1,53 @@
+{
+    "id": "1503962612",
+    "title": "An Efficient Index Data Structure with the Capabilities of Suffix Trees and Suffix Arrays for Alphabets of Non-negligible Size",
+    "venue": "string processing and information retrieval",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dong Kyue Kim",
+            "id": "2243600060",
+            "org": "Pusan National University"
+        },
+        {
+            "name": "Jeong Eun Jeon",
+            "id": "2491564686",
+            "org": "Pusan National University"
+        },
+        {
+            "name": "Heejin Park",
+            "id": "2302361571",
+            "org": "Hanyang University"
+        }
+    ],
+    "fields_of_study": [
+        "Suffix",
+        "Algorithm",
+        "FM-index",
+        "Longest common substring problem",
+        "Computer science",
+        "Generalized suffix tree",
+        "Suffix array",
+        "Suffix tree",
+        "Arithmetic",
+        "Compressed suffix array",
+        "Search tree"
+    ],
+    "references": [
+        "117230746",
+        "301824129",
+        "1489909987",
+        "1497529086",
+        "1527782099",
+        "1573714593",
+        "1997841190",
+        "2024147613",
+        "2059513841",
+        "2107079154",
+        "2121252285",
+        "2130564474",
+        "2134283755",
+        "2158874082",
+        "2533248932"
+    ]
+}

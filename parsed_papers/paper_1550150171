@@ -1,0 +1,49 @@
+{
+    "id": "1550150171",
+    "title": "Hash functions and the (amplified) boomerang attack",
+    "venue": "international cryptology conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Antoine Joux",
+            "id": "2755216431",
+            "org": "DGA and Universite de Versailles Saint-Quentin-en-Yvelines#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2893390095",
+            "org": "France Telecom R&D and Universite de Versailles Saint-Quentin-en-Yvelines#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Collision resistance",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Boomerang attack",
+        "Collision attack",
+        "MDC-2",
+        "Preimage attack",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "4943677",
+        "52191336",
+        "124034723",
+        "1542068190",
+        "1549228503",
+        "1590269592",
+        "1600432225",
+        "1656731780",
+        "1870015754",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2394910287",
+        "2593463031",
+        "2611506938"
+    ]
+}

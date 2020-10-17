@@ -1,0 +1,49 @@
+{
+    "id": "1573783702",
+    "title": "Implementation of a reliable remote memory pager",
+    "venue": "usenix annual technical conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Evangelos P. Markatos",
+            "id": "1973983982",
+            "org": "Computer Architecture and VLSI Systems Group, Institute of Computer Science (ICS), Foundation for Research & Technology, Hellas (FORTH), Crete#TAB#"
+        },
+        {
+            "name": "George Dramitinos",
+            "id": "2046404424",
+            "org": "Computer Architecture and VLSI Systems Group, Institute of Computer Science (ICS), Foundation for Research & Technology, Hellas (FORTH), Crete#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Paging",
+        "Demand paging",
+        "Thrashing",
+        "Parallel computing",
+        "Pager",
+        "Computer science",
+        "Embedded system",
+        "Operating system",
+        "Ethernet",
+        "Device file",
+        "Real-time computing",
+        "Flat memory model",
+        "Page replacement algorithm"
+    ],
+    "references": [
+        "1555915743",
+        "1585157973",
+        "1971988549",
+        "2012643955",
+        "2025413686",
+        "2044902313",
+        "2077967211",
+        "2098462981",
+        "2110468472",
+        "2135131646",
+        "2147853062",
+        "2152056423",
+        "2155066383",
+        "2205436351"
+    ]
+}

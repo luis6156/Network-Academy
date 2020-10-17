@@ -1,0 +1,63 @@
+{
+    "id": "1593214439",
+    "title": "Automated foveola localization in retinal 3D-OCT images using structural support vector machine prediction",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yu-Ying Liu",
+            "id": "2121185338",
+            "org": "College of Computing, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Hiroshi Ishikawa",
+            "id": "2304460835",
+            "org": "UPMC Eye Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA, Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Mei Chen",
+            "id": "2708428610",
+            "org": "Intel Science and Technology Center on Embedded Computing, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Gadi Wollstein",
+            "id": "2085189057",
+            "org": "UPMC Eye Center, University of Pittsburgh School of Medicine, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Joel S. Schuman",
+            "id": "1864519913",
+            "org": "UPMC Eye Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA, Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "James M. Rehg",
+            "id": "2211579681",
+            "org": "College of Computing, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Scaling",
+        "Ground truth",
+        "Foveola",
+        "Local binary patterns",
+        "Binary classification",
+        "Support vector machine",
+        "Training set",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1525954826",
+        "1556839878",
+        "1893210478",
+        "1978478291",
+        "2016194585",
+        "2031248101",
+        "2117132237",
+        "2148671379",
+        "2337319582",
+        "2429914308"
+    ]
+}

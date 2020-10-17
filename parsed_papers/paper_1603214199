@@ -1,0 +1,44 @@
+{
+    "id": "1603214199",
+    "title": "Meet-in-the-Middle Attacks on SHA-3 Candidates",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Dmitry Khovratovich",
+            "id": "717857179",
+            "org": "University of Luxembourg,#TAB#"
+        },
+        {
+            "name": "Ivica Nikolic",
+            "id": "2157574998",
+            "org": "University of Luxembourg,#TAB#"
+        },
+        {
+            "name": "Ralf-Philipp Weinmann",
+            "id": "2147515735",
+            "org": "University of Luxembourg,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pre-play attack",
+        "Theoretical computer science",
+        "Birthday attack",
+        "Computer science",
+        "SHA-3",
+        "Exploit",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "112271350",
+        "124034723",
+        "1569874887",
+        "1592183051",
+        "1991374982",
+        "2026522166",
+        "2103239853",
+        "2147436724",
+        "2593463031"
+    ]
+}

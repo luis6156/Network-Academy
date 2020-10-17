@@ -1,0 +1,58 @@
+{
+    "id": "1795706927",
+    "title": "An evaluation of auto-scoping in OpenMP",
+    "venue": "international workshop on openmp",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Voss",
+            "id": "2780881901",
+            "org": "Edwards S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Eric Chiu",
+            "id": "2277939072",
+            "org": "Edwards S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Patrick Man Yan Chow",
+            "id": "2275587109",
+            "org": "Edwards S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Catherine Wong",
+            "id": "2480725218",
+            "org": "Edwards S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Kevin Yuen",
+            "id": "2041294373",
+            "org": "Edwards S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Toronto, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Intrinsic function",
+        "Automatic parallelization",
+        "Parallel computing",
+        "Computer architecture",
+        "Speedup",
+        "Computer science",
+        "Compiler",
+        "Compiler correctness",
+        "Spec#",
+        "Fortran"
+    ],
+    "references": [
+        "1506064755",
+        "1580702865",
+        "1664707389",
+        "1980385176",
+        "1980999196",
+        "2006239873",
+        "2078429521",
+        "2103795388",
+        "2110161565",
+        "2111365507",
+        "2163488221"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1583456310",
+    "title": "Relative doubling attack against montgomery ladder",
+    "venue": "international conference on information security and cryptology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sung-Ming Yen",
+            "id": "2103270851",
+            "org": "Laboratory of Cryptography and Information Security (LCIS), Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C#TAB#"
+        },
+        {
+            "name": "Lee-Chun Ko",
+            "id": "2480679297",
+            "org": "Laboratory of Cryptography and Information Security (LCIS), Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C#TAB#"
+        },
+        {
+            "name": "SangJae Moon",
+            "id": "2106509025",
+            "org": "School of Electronic and Electrical Engineering, Kyungpook National University, Taegu, Korea#TAB#"
+        },
+        {
+            "name": "Jae-Cheol Ha",
+            "id": "2110501458",
+            "org": "Dept of Computer and Information, Korea Nazarene University, Choong Nam, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Side channel attack",
+        "Exponentiation",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Computer science",
+        "Cryptanalysis",
+        "Countermeasure",
+        "Power analysis",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1498044825",
+        "1500693694",
+        "1532398039",
+        "1552695147",
+        "1565369953",
+        "1996360405",
+        "2003736153",
+        "2096133993",
+        "2099317248",
+        "2108834246",
+        "2144952508",
+        "2154909745"
+    ]
+}

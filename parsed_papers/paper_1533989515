@@ -1,0 +1,43 @@
+{
+    "id": "1533989515",
+    "title": "Efficient Generation of Elliptic Curve Cryptosystems",
+    "venue": "computing and combinatorics conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Kwok-Yan Lam",
+            "id": "2157193625",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "San Ling",
+            "id": "2134794795",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Lucas Chi Kwong Hui",
+            "id": "2892481217",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperelliptic curve cryptography",
+        "Theoretical computer science",
+        "Curve25519",
+        "Discrete mathematics",
+        "Computer science",
+        "Elliptic curve Diffie-Hellman",
+        "Elliptic curve cryptography",
+        "Tripling-oriented Doche-Icart-Kohel curve",
+        "Jacobian curve",
+        "Counting points on elliptic curves",
+        "Baby-step giant-step"
+    ],
+    "references": [
+        "1488176134",
+        "1546865581",
+        "2028358228",
+        "2111310412",
+        "2139192386"
+    ]
+}

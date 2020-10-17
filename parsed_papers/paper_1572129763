@@ -1,0 +1,66 @@
+{
+    "id": "1572129763",
+    "title": "Lowering STM overhead with static analysis",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yehuda Afek",
+            "id": "341823498",
+            "org": "Computer Science Department, Tel-Aviv University, Israel#TAB#"
+        },
+        {
+            "name": "Guy Korland",
+            "id": "2007951327",
+            "org": "Computer Science Department, Tel-Aviv University, Israel#TAB#"
+        },
+        {
+            "name": "Arie Zilberstein",
+            "id": "2555392690",
+            "org": "Computer Science Department, Tel-Aviv University, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Redundant array of independent memory",
+        "Parallel computing",
+        "Computer science",
+        "Interleaved memory",
+        "Transactional memory",
+        "Memory model",
+        "Optimizing compiler",
+        "Memory map",
+        "Registered memory",
+        "Real-time computing",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1482951056",
+        "1494930385",
+        "1533810997",
+        "1542975293",
+        "1554668868",
+        "1581722795",
+        "1623282124",
+        "1912722244",
+        "1963520590",
+        "2017700354",
+        "2025317174",
+        "2045506295",
+        "2056890346",
+        "2079854797",
+        "2080696000",
+        "2087086761",
+        "2101483132",
+        "2113238444",
+        "2113751407",
+        "2116145395",
+        "2116451681",
+        "2124644142",
+        "2126501440",
+        "2150473702",
+        "2151257213",
+        "2156800521",
+        "2163654949",
+        "2172064476"
+    ]
+}

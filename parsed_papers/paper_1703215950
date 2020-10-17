@@ -1,0 +1,46 @@
+{
+    "id": "1703215950",
+    "title": "Improving the Rainbow Attack by Reusing Colours",
+    "venue": "cryptology and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Agren",
+            "id": "2145996148",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Lund, Sweden 221 00#TAB#"
+        },
+        {
+            "name": "Thomas Johansson",
+            "id": "2289389470",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Lund, Sweden 221 00#TAB#"
+        },
+        {
+            "name": "Martin Hell",
+            "id": "2097958848",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Lund, Sweden 221 00#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Pre-play attack",
+        "Theoretical computer science",
+        "Rainbow table",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Computer security",
+        "Slide attack",
+        "Reflection attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1535402424",
+        "1544956979",
+        "1549671385",
+        "1857473325",
+        "1882297107",
+        "2012646342",
+        "2130943734",
+        "2144345181"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1505884345",
+    "title": "Sequential aggregate signatures and multisignatures without random oracles",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Steve Lu",
+            "id": "2113015380",
+            "org": "UCLA#TAB#"
+        },
+        {
+            "name": "Rafail Ostrovsky",
+            "id": "1482108584",
+            "org": "UCLA#TAB#"
+        },
+        {
+            "name": "Amit Sahai",
+            "id": "2159933393",
+            "org": "UCLA#TAB#"
+        },
+        {
+            "name": "Hovav Shacham",
+            "id": "2894291373",
+            "org": "Weizmann Institute of Science#TAB#"
+        },
+        {
+            "name": "Brent Waters",
+            "id": "2131229705",
+            "org": "SRI International#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Oracle",
+        "Mathematics",
+        "Theoretical computer science",
+        "Multisignature",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Encryption",
+        "Digital signature",
+        "Random oracle",
+        "Ring signature",
+        "Provable security"
+    ],
+    "references": [
+        "104938420",
+        "1553083934",
+        "1567539097",
+        "1590713339",
+        "1592092778",
+        "1592741821",
+        "1788452017",
+        "1826437507",
+        "1928401044",
+        "1970943434",
+        "1976385711",
+        "1988619302",
+        "2003590000",
+        "2014239329",
+        "2070122514",
+        "2086042811",
+        "2108240589",
+        "2112240651",
+        "2117596926",
+        "2117685508",
+        "2123527797",
+        "2134651419",
+        "2147104527",
+        "2151413173",
+        "2152688060",
+        "2163614799",
+        "2167179301",
+        "2167303353",
+        "2167882086",
+        "2610275508",
+        "2610931382"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1567889185",
+    "title": "A Program Generator for Intel AES-NI Instructions",
+    "venue": "international conference on cryptology in india",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Raymond Manley",
+            "id": "2155643650",
+            "org": "Trinity College Dublin"
+        },
+        {
+            "name": "David Gregg",
+            "id": "2112276106",
+            "org": "Trinity College Dublin"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Assembly language",
+        "Computer science",
+        "Code generation",
+        "AES instruction set"
+    ],
+    "references": [
+        "1515225084",
+        "1531269151",
+        "1556212265",
+        "1982205631",
+        "2102182691",
+        "2123412205",
+        "2128221687",
+        "2132109246",
+        "2136952590",
+        "2161420356"
+    ]
+}

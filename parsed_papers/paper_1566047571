@@ -1,0 +1,47 @@
+{
+    "id": "1566047571",
+    "title": "How to strengthen any weakly unforgeable signature into a strongly unforgeable signature",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ron Steinfeld",
+            "id": "2146879686",
+            "org": "Centre for Advanced Computing - Algorithms and Cryptography (ACAC), Dept. of Computing, Macquarie University, North Ryde, Australia#TAB#"
+        },
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "Centre for Advanced Computing - Algorithms and Cryptography (ACAC), Dept. of Computing, Macquarie University, North Ryde, Australia#TAB#"
+        },
+        {
+            "name": "Huaxiong Wang",
+            "id": "2120427923",
+            "org": "Centre for Advanced Computing - Algorithms and Cryptography (ACAC), Dept. of Computing, Macquarie University, North Ryde, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Digital signature",
+        "Hash function",
+        "Merkle signature scheme",
+        "Ring signature",
+        "Provable security"
+    ],
+    "references": [
+        "1546778987",
+        "1583471030",
+        "1584427796",
+        "1591954407",
+        "1595153681",
+        "1653866131",
+        "1709517452",
+        "1974232544",
+        "2007909731",
+        "2097638666",
+        "2117797270",
+        "2121786567"
+    ]
+}

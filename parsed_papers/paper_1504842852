@@ -1,0 +1,42 @@
+{
+    "id": "1504842852",
+    "title": "A Study of Implicit Data Distribution Methods for OpenMP Using the SPEC Benchmarks",
+    "venue": "international workshop on openmp",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dimitrios S. Nikolopoulos",
+            "id": "222314420",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Speedup",
+        "Shared memory",
+        "Memory ordering",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Memory management",
+        "Non-uniform memory access",
+        "Runtime system",
+        "Embarrassingly parallel"
+    ],
+    "references": [
+        "155912745",
+        "1780789683",
+        "2041321749",
+        "2084903759",
+        "2111554650",
+        "2143189877",
+        "2153752404",
+        "2166696935"
+    ]
+}

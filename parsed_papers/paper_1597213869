@@ -1,0 +1,48 @@
+{
+    "id": "1597213869",
+    "title": "Fast suboptimal algorithms for the computation of graph edit distance",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michel Neuhaus",
+            "id": "2062873860",
+            "org": "Institute of Computer Science and Applied Mathematics, University of Bern, Bern, Switzerland#TAB#"
+        },
+        {
+            "name": "Kaspar Riesen",
+            "id": "2797595224",
+            "org": "Institute of Computer Science and Applied Mathematics, University of Bern, Bern, Switzerland#TAB#"
+        },
+        {
+            "name": "Horst Bunke",
+            "id": "1948338481",
+            "org": "Institute of Computer Science and Applied Mathematics, University of Bern, Bern, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speedup",
+        "Algorithm",
+        "Damerau-Levenshtein distance",
+        "Computer science",
+        "Matching (graph theory)",
+        "String-to-string correction problem",
+        "Wagner-Fischer algorithm",
+        "Computational complexity theory",
+        "Edit distance",
+        "Graph operations"
+    ],
+    "references": [
+        "90018616",
+        "1558740878",
+        "1569488024",
+        "1969483458",
+        "1975844474",
+        "1985850469",
+        "2010541316",
+        "2046021036",
+        "2133148894",
+        "2136761100",
+        "2167205203"
+    ]
+}

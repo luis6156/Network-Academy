@@ -1,0 +1,43 @@
+{
+    "id": "1516577572",
+    "title": "The Semantics of Local Storage, or What Makes the Free-List Free?",
+    "venue": "POPL",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Joseph Y. Halpern",
+            "id": "716715026",
+            "org": "Laboratory for Computer Science|Dept . of Computer Science"
+        },
+        {
+            "name": "Albert R. Meyer",
+            "id": "2250310737",
+            "org": "Laboratory for Computer Science|Dept . of Computer Science"
+        },
+        {
+            "name": "Boris A. Trakhtenbrot",
+            "id": "2084930579",
+            "org": "Laboratory for Computer Science|Dept . of Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Computer science",
+        "Denotational semantics",
+        "Normalisation by evaluation",
+        "Denotational semantics of the Actor model",
+        "Action semantics",
+        "Operational semantics",
+        "Free list",
+        "Programming language"
+    ],
+    "references": [
+        "1965297988",
+        "1966811716",
+        "1973576343",
+        "2007098021",
+        "2011277486",
+        "2062024564",
+        "2152944474"
+    ]
+}

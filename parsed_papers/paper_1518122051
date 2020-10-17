@@ -1,0 +1,58 @@
+{
+    "id": "1518122051",
+    "title": "Parameterized Verification of a Cache Coherence Protocol: Safety and Liveness",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kai Baukus",
+            "id": "2507644426",
+            "org": "CAU Kiel"
+        },
+        {
+            "name": "Yassine Lakhnech",
+            "id": "245516513",
+            "org": "Verimag"
+        },
+        {
+            "name": "Karsten Stahl",
+            "id": "2518008566",
+            "org": "CAU Kiel"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Systems modeling",
+        "Computer science",
+        "Distributed computing",
+        "Liveness",
+        "Cache coherence",
+        "Parameterized complexity",
+        "Decidability",
+        "CPU cache"
+    ],
+    "references": [
+        "1484571639",
+        "1488858096",
+        "1529349649",
+        "1544459976",
+        "1561112849",
+        "1561867409",
+        "1573633114",
+        "1589760516",
+        "1783679080",
+        "1926085771",
+        "1982900911",
+        "1987073197",
+        "2000210358",
+        "2036526834",
+        "2048880957",
+        "2051054731",
+        "2053294975",
+        "2080593426",
+        "2090106217",
+        "2141957585",
+        "2147269402",
+        "2344021881"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1555841518",
+    "title": "Validating Digital Signatures without TTP's Time-Stamping and Certificate Revocation",
+    "venue": "international conference on information security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jianying Zhou",
+            "id": "2240894600",
+            "org": "Institute for Infocomm Research"
+        },
+        {
+            "name": "Feng Bao",
+            "id": "2311384390",
+            "org": "Institute for Infocomm Research"
+        },
+        {
+            "name": "Robert H. Deng",
+            "id": "2062283694",
+            "org": "Institute for Infocomm Research"
+        }
+    ],
+    "fields_of_study": [
+        "Implicit certificate",
+        "Self-signed certificate",
+        "Root certificate",
+        "Certificate authority",
+        "Computer science",
+        "Public key certificate",
+        "Revocation list",
+        "Computer security",
+        "Chain of trust",
+        "Online Certificate Status Protocol",
+        "Real-time computing"
+    ],
+    "references": [
+        "1481068248",
+        "1498063506",
+        "1505202270",
+        "1532140623",
+        "1579435243",
+        "1588301088",
+        "1595293097",
+        "1674259750",
+        "1877684430",
+        "1911825786",
+        "2000847945",
+        "2011550196",
+        "2063127731",
+        "2101082016",
+        "2157604883",
+        "2170017018",
+        "2605928589"
+    ]
+}

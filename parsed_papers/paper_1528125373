@@ -1,0 +1,43 @@
+{
+    "id": "1528125373",
+    "title": "The DSD Schema Language",
+    "venue": "automated software engineering",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Nils Klarlund",
+            "id": "2611551992",
+            "org": "AT&T Labs-Research, Shannon Labs, 180 Park Ave, Florham Park, NJ 07932. klarlund@research.att.com#TAB#"
+        },
+        {
+            "name": "Anders Moller",
+            "id": "2189404259",
+            "org": "BRICS, Dept. of Computer Science, University of Aarhus, Ny Munkegade, 8000 Aarhus C, Denmark. amoeller@brics.dk#TAB#"
+        },
+        {
+            "name": "Michael I. Schwartzbach",
+            "id": "2169111505",
+            "org": "BRICS, Dept. of Computer Science, University of Aarhus, Ny Munkegade, 8000 Aarhus C, Denmark. [email protected]#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XML schema",
+        "XML Schema Editor",
+        "Computer science",
+        "XML validation",
+        "Efficient XML Interchange",
+        "Database",
+        "Document Structure Description",
+        "XML Schema (W3C)",
+        "Document Definition Markup Language",
+        "Programming language",
+        "RELAX NG"
+    ],
+    "references": [
+        "1979778741",
+        "2085885823",
+        "2086130705",
+        "2118789840",
+        "2295209691"
+    ]
+}

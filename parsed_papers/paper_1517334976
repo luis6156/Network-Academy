@@ -1,0 +1,41 @@
+{
+    "id": "1517334976",
+    "title": "A Flexible Containment Mechanism for Executing Untrusted Code",
+    "venue": "usenix security symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "David Shane Peterson",
+            "id": "2130700533",
+            "org": "Department of Computer Science|University of California , Davis"
+        },
+        {
+            "name": "Matt Bishop",
+            "id": "2195620147",
+            "org": "Department of Computer Science|University of California , Davis"
+        },
+        {
+            "name": "Raju Pandey",
+            "id": "2293893369",
+            "org": "Department of Computer Science|University of California , Davis"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Sandbox (computer security)",
+        "Distributed computing",
+        "Computer security",
+        "Security policy",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1500460345",
+        "1508969946",
+        "1569888476",
+        "1576501285",
+        "2066137796",
+        "2095881341",
+        "2113350481",
+        "2150769115"
+    ]
+}

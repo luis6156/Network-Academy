@@ -1,0 +1,43 @@
+{
+    "id": "1628901167",
+    "title": "A Performance Study on Bounteous Transfer in Multiprocessor Sectored Caches",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kuang-Chih Liu",
+            "id": "2118233892",
+            "org": "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan, 30043, R. O. C. kcliu@cs.nthu.edu.tw#TAB#"
+        },
+        {
+            "name": "Chung-Ta King",
+            "id": "2165659576",
+            "org": "Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan, 30043, R. O. C. king@cs.nthu.edu.tw#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "False sharing",
+        "Cache coherence",
+        "Multiprocessing",
+        "CPU cache"
+    ],
+    "references": [
+        "1726687202",
+        "1804921254",
+        "2045423292",
+        "2054739713",
+        "2073197815",
+        "2119807951",
+        "2121204981",
+        "2139642361",
+        "2139951364",
+        "2145021036",
+        "2154346069",
+        "2156147622",
+        "2173730676"
+    ]
+}

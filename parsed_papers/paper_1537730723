@@ -1,0 +1,38 @@
+{
+    "id": "1537730723",
+    "title": "sharpSAT: counting models with advanced component caching and implicit BCP",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Marc Thurley",
+            "id": "2304234901",
+            "org": "Institut fur Informatik, Humboldt-Universitat zu Berlin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Look-ahead",
+        "DPLL algorithm",
+        "Satisfiability",
+        "Constraint satisfaction",
+        "Computer science",
+        "Solver",
+        "Boolean satisfiability problem",
+        "CPU cache"
+    ],
+    "references": [
+        "14839205",
+        "179198942",
+        "1539326816",
+        "1565010992",
+        "1686746446",
+        "2048051309",
+        "2057361103",
+        "2075959177",
+        "2096307462",
+        "2142785340"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1519361875",
+    "title": "Static and Precise Detection of Concurrency Errors in Systems Code Using SMT Solvers",
+    "venue": "computer aided verification",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shuvendu K. Lahiri",
+            "id": "2178011691",
+            "org": "Microsoft Research, Redmond, USA#TAB#"
+        },
+        {
+            "name": "Shaz Qadeer",
+            "id": "1985363956",
+            "org": "Microsoft Research, Redmond, USA#TAB#"
+        },
+        {
+            "name": "Zvonimir Rakamaric",
+            "id": "326559460",
+            "org": "Department of Computer Science, University of British Columbia, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Boolean circuit",
+        "Context switch",
+        "Theoretical computer science",
+        "Algorithm",
+        "Pointer (computer programming)",
+        "Computer science",
+        "Heap (data structure)",
+        "Boolean model",
+        "Concurrency",
+        "Programming language"
+    ],
+    "references": [
+        "1480909796",
+        "1493367105",
+        "1505597832",
+        "1528455415",
+        "1545371423",
+        "1550653935",
+        "1554834491",
+        "1556566737",
+        "1560743762",
+        "1598142426",
+        "1606177908",
+        "1606540187",
+        "1782479956",
+        "2027179699",
+        "2087046173",
+        "2088139180",
+        "2111050128",
+        "2128453996",
+        "2135948849",
+        "2136877520",
+        "2155962559",
+        "2158395308",
+        "2162284942",
+        "2162339514",
+        "2504100651"
+    ]
+}

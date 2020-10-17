@@ -1,0 +1,40 @@
+{
+    "id": "1552735106",
+    "title": "Bridging the GAP Between Relational and Native XML Storage with Staircase Join",
+    "venue": "Tagungsband zum 15. GI-Workshop Grundlagen von Datenbanken",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Maurice van Keulen",
+            "id": "673062711",
+            "org": "University of Konstanz"
+        },
+        {
+            "name": "Torsten Grust",
+            "id": "2021389961",
+            "org": "University of Twente"
+        },
+        {
+            "name": "Jens Teubner",
+            "id": "2077338896",
+            "org": "University of Konstanz"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Object-relational impedance mismatch",
+        "Database model",
+        "Computer science",
+        "Database",
+        "Relational model",
+        "Sort-merge join",
+        "Nested set model",
+        "Database design",
+        "Relational database management system"
+    ],
+    "references": [
+        "2123645388",
+        "2137924956",
+        "2230830246"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1524103123",
+    "title": "Chain replication for supporting high throughput and availability",
+    "venue": "operating systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Robbert van Renesse",
+            "id": "2109217526",
+            "org": "FAST Search & Transfer ASA, Tromso, Norway and Department of Computer Science, Cornell University, Ithaca, New York#TAB#"
+        },
+        {
+            "name": "Fred B. Schneider",
+            "id": "2106636992",
+            "org": "FAST Search & Transfer ASA, Tromso, Norway and Department of Computer Science, Cornell University, Ithaca, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Geo-replication",
+        "Throughput",
+        "Computer science",
+        "Distributed computing",
+        "Distributed hash table",
+        "Server",
+        "Strong consistency",
+        "Real-time computing"
+    ],
+    "references": [
+        "1496814404",
+        "1555114514",
+        "1743681434",
+        "1881553382",
+        "1973115038",
+        "1999255105",
+        "2001803004",
+        "2018501701",
+        "2054481902",
+        "2065538422",
+        "2075854425",
+        "2089138728",
+        "2094162326",
+        "2099105350",
+        "2107483781",
+        "2111586962",
+        "2119565742",
+        "2121133177",
+        "2123820820",
+        "2124074197",
+        "2150676586",
+        "2152465173",
+        "2152686036",
+        "2167776925",
+        "2171724337"
+    ]
+}

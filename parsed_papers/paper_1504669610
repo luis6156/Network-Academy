@@ -1,0 +1,51 @@
+{
+    "id": "1504669610",
+    "title": "Design and implementation of a TCG-based integrity measurement architecture",
+    "venue": "usenix security symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Reiner Sailer",
+            "id": "2014533025",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Xiaolan Zhang",
+            "id": "2185958501",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Trent Jaeger",
+            "id": "2181741781",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Leendert van Doorn",
+            "id": "2153906754",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rootkit",
+        "Hengzhi chip",
+        "Trusted Platform Module",
+        "Executable",
+        "Trusted Computing",
+        "Computer science",
+        "Computer security",
+        "Web server",
+        "Embedded system",
+        "Operating system",
+        "Trusted Network Connect",
+        "Direct Anonymous Attestation"
+    ],
+    "references": [
+        "1531765245",
+        "1597184376",
+        "2111015674",
+        "2122122437",
+        "2137902624",
+        "2152505375",
+        "2166004296"
+    ]
+}

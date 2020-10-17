@@ -1,0 +1,87 @@
+{
+    "id": "1595771334",
+    "title": "Post-Quantum Key Exchange for the TLS Protocol from the Ring Learning with Errors Problem",
+    "venue": "ieee symposium on security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Joppe W. Bos",
+            "id": "2148258182",
+            "org": "NXP Semiconductors"
+        },
+        {
+            "name": "Craig Costello",
+            "id": "2106128776",
+            "org": "Microsoft"
+        },
+        {
+            "name": "Michael Naehrig",
+            "id": "2091054652",
+            "org": "Microsoft"
+        },
+        {
+            "name": "Douglas Stebila",
+            "id": "260284752",
+            "org": "Queensland University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Hypertext Transfer Protocol over Secure Socket Layer",
+        "Key exchange",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Computer science",
+        "Key (cryptography)",
+        "Elliptic curve Diffie-Hellman",
+        "Distributed computing",
+        "Computer security",
+        "Diffie-Hellman key exchange",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "31130112",
+        "39167138",
+        "80562455",
+        "87154849",
+        "108218230",
+        "124221785",
+        "151792660",
+        "181098788",
+        "580467909",
+        "1488058190",
+        "1506423323",
+        "1527798905",
+        "1542059364",
+        "1603256047",
+        "1664808737",
+        "1675339804",
+        "1761303171",
+        "1778221050",
+        "1859498317",
+        "1871739018",
+        "1929950373",
+        "1992938819",
+        "1996360405",
+        "2002579292",
+        "2003736153",
+        "2031533839",
+        "2038619601",
+        "2040961499",
+        "2061949491",
+        "2071825329",
+        "2083368929",
+        "2089477764",
+        "2106970188",
+        "2107506969",
+        "2133177257",
+        "2137147061",
+        "2146537406",
+        "2153041122",
+        "2156186849",
+        "2164428090",
+        "2192787805",
+        "2398538644",
+        "2400700555"
+    ]
+}

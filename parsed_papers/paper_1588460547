@@ -1,0 +1,44 @@
+{
+    "id": "1588460547",
+    "title": "Integration of parsing and incremental speech recognition",
+    "venue": "european signal processing conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Sven Wachsmuth",
+            "id": "1965275326",
+            "org": "University of Bielefeld, Technical Faculty, P.O. Box 100131, 33501 Bielefeld, Germany"
+        },
+        {
+            "name": "Gernot A. Fink",
+            "id": "2084423426",
+            "org": "University of Bielefeld, Technical Faculty, P.O. Box 100131, 33501 Bielefeld, Germany"
+        },
+        {
+            "name": "Gerhard Sagerer",
+            "id": "2030686812",
+            "org": "University of Bielefeld, Technical Faculty, P.O. Box 100131, 33501 Bielefeld, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Word error rate",
+        "Factored language model",
+        "Acoustic model",
+        "Computer science",
+        "Audio mining",
+        "Parsing",
+        "Speech corpus",
+        "Speech recognition",
+        "Cache language model"
+    ],
+    "references": [
+        "4580097",
+        "186828541",
+        "276649157",
+        "1538585905",
+        "2106484162",
+        "2126924254",
+        "2158310889"
+    ]
+}

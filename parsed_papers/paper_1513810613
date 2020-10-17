@@ -1,0 +1,47 @@
+{
+    "id": "1513810613",
+    "title": "Analytical modeling of TCP clients in Wi-Fi hot spot networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Raffaele Bruno",
+            "id": "2137615239",
+            "org": "Italian National Research Council (CNR)"
+        },
+        {
+            "name": "Marco Conti",
+            "id": "1964468254",
+            "org": "Italian National Research Council (CNR)"
+        },
+        {
+            "name": "Enrico Gregori",
+            "id": "2148812019",
+            "org": "Italian National Research Council (CNR)"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "Distributed computing",
+        "HSTCP",
+        "TCP tuning",
+        "TCP hole punching",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1514195665",
+        "1673008520",
+        "1896822992",
+        "2025782074",
+        "2110820313",
+        "2111579580",
+        "2121149549",
+        "2126345586",
+        "2162598825"
+    ]
+}

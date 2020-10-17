@@ -1,0 +1,42 @@
+{
+    "id": "1529355856",
+    "title": "Kernel Mode Linux: Toward an operating system protected by a type theory",
+    "venue": "Annual Asian Computing Science Conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Toshiyuki Maeda",
+            "id": "2277023050",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Akinori Yonezawa",
+            "id": "660900409",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "epoll",
+        "sysfs",
+        "Linux kernel",
+        "Kernel virtual address space",
+        "Kernel preemption",
+        "Computer science",
+        "procfs",
+        "Process management (computing)",
+        "Operating system",
+        "Configfs"
+    ],
+    "references": [
+        "1521734293",
+        "2069107692",
+        "2069954929",
+        "2079029390",
+        "2105321788",
+        "2115401928",
+        "2140164463",
+        "2151355704",
+        "2151480972",
+        "2505656361"
+    ]
+}

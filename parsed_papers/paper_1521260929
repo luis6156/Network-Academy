@@ -1,0 +1,56 @@
+{
+    "id": "1521260929",
+    "title": "Improvement on ha-moon randomized exponentiation algorithm",
+    "venue": "international conference on information security and cryptology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sung-Ming Yen",
+            "id": "2103270851",
+            "org": "Laboratory of Cryptography and Information Security (LCIS), Dept of Computer Science and Information Engineering, National Central University, Taiwan, R.O.C#TAB#"
+        },
+        {
+            "name": "Chien-Ning Chen",
+            "id": "2250618734",
+            "org": "Laboratory of Cryptography and Information Security (LCIS), Dept of Computer Science and Information Engineering, National Central University, Taiwan, R.O.C#TAB#"
+        },
+        {
+            "name": "SangJae Moon",
+            "id": "2106509025",
+            "org": "School of Electronic and Electrical Engineering, Kyungpook National University, Taegu, Korea#TAB#"
+        },
+        {
+            "name": "Jae-Cheol Ha",
+            "id": "2110501458",
+            "org": "Dept of Computer and Information, Korea Nazarene University, Choong Nam, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Randomized algorithm",
+        "Algorithm",
+        "Discrete mathematics",
+        "Exponentiation",
+        "Integer",
+        "Exponentiation by squaring",
+        "Cryptosystem",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1500693694",
+        "1515945839",
+        "1532398039",
+        "1546849562",
+        "1551523997",
+        "1565369953",
+        "1664808737",
+        "2105374413",
+        "2121017442",
+        "2141469508",
+        "2148862943",
+        "2154909745"
+    ]
+}

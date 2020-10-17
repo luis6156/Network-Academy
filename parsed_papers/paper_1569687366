@@ -1,0 +1,74 @@
+{
+    "id": "1569687366",
+    "title": "Probabilistic points-to analysis for java",
+    "venue": "compiler construction",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Qiang Sun",
+            "id": "2698156115",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Jianjun Zhao",
+            "id": "2095987522",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China and School of Software, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Yuting Chen",
+            "id": "2118230381",
+            "org": "School of Software, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Java",
+        "Theoretical computer science",
+        "Interface (Java)",
+        "Computer science",
+        "Shape analysis (program analysis)",
+        "Scala",
+        "Probabilistic logic",
+        "strictfp",
+        "Dead store",
+        "Programming language"
+    ],
+    "references": [
+        "1557543533",
+        "1734116059",
+        "1971137495",
+        "1974608873",
+        "1980468060",
+        "1987719170",
+        "1989818743",
+        "1996146601",
+        "1999517284",
+        "2002771912",
+        "2004881145",
+        "2046699259",
+        "2051600169",
+        "2074737297",
+        "2077850509",
+        "2078739669",
+        "2087612811",
+        "2092467549",
+        "2106837287",
+        "2115971347",
+        "2117576153",
+        "2130794519",
+        "2131093354",
+        "2131135493",
+        "2131586869",
+        "2141442517",
+        "2148390433",
+        "2151198779",
+        "2151360539",
+        "2154847114",
+        "2156216691",
+        "2156549049",
+        "2158600037",
+        "2162544703",
+        "2166091242",
+        "2171240827"
+    ]
+}

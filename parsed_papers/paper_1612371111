@@ -1,0 +1,58 @@
+{
+    "id": "1612371111",
+    "title": "Measuring Database Performance in Online Services: A Trace-Based Approach",
+    "venue": "Performance Evaluation and Benchmarking",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Swaroop Kavalanekar",
+            "id": "1979639407",
+            "org": "Microsoft Corporation, Redmond, USA 98052#TAB#"
+        },
+        {
+            "name": "Dushyanth Narayanan",
+            "id": "2137354378",
+            "org": "Microsoft Research Ltd., Cambridge, United Kingdom CB3 0FB#TAB#"
+        },
+        {
+            "name": "Sriram Sankar",
+            "id": "2171151519",
+            "org": "Microsoft Corporation, Redmond, USA 98052#TAB#"
+        },
+        {
+            "name": "Eno Thereska",
+            "id": "2152541190",
+            "org": "Microsoft Research Ltd., Cambridge, United Kingdom CB3 0FB#TAB#"
+        },
+        {
+            "name": "Kushagra Vaid",
+            "id": "2057572943",
+            "org": "Microsoft Corporation, Redmond, USA 98052#TAB#"
+        },
+        {
+            "name": "Bruce L. Worthington",
+            "id": "2147855721",
+            "org": "Microsoft Corporation, Redmond, USA 98052#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database tuning",
+        "Provisioning",
+        "Computer science",
+        "Server",
+        "Metadata",
+        "Workload",
+        "Database",
+        "SQL",
+        "The Internet",
+        "Database server"
+    ],
+    "references": [
+        "140616940",
+        "2045644810",
+        "2124954621",
+        "2163750144",
+        "2171299219",
+        "2201220957"
+    ]
+}

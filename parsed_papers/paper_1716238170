@@ -1,0 +1,41 @@
+{
+    "id": "1716238170",
+    "title": "High-level data mapping for clusters of SMPs",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Siegfried Benkner",
+            "id": "329203016",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Thomas Brandes",
+            "id": "2314113078",
+            "org": "SCAI-Institute for Algorithms and Scientific Computing"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "High Performance Fortran",
+        "Execution model",
+        "Application programming interface",
+        "Data mapping",
+        "Fortran",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1780789683",
+        "2084903759",
+        "2088915003",
+        "2098482419",
+        "2154777588",
+        "2159145958",
+        "2169991914"
+    ]
+}

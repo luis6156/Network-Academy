@@ -1,0 +1,49 @@
+{
+    "id": "1499717650",
+    "title": "A New Cache Replacement Algorithm in SMO",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jianmin Li",
+            "id": "2676987077",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Bo Zhang",
+            "id": "2438699337",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Fuzong Lin",
+            "id": "2636463666",
+            "org": "Tsinghua University"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Algorithm",
+        "Least frequently used",
+        "Cache coloring",
+        "Computer science",
+        "Sequential minimal optimization",
+        "Cache-oblivious algorithm",
+        "Cache invalidation",
+        "CPU cache"
+    ],
+    "references": [
+        "1482684349",
+        "1486089539",
+        "1512068198",
+        "1556115774",
+        "1980801609",
+        "2100366146",
+        "2105038653",
+        "2121739042",
+        "2139212933",
+        "2140586694",
+        "2151040995",
+        "2159737176"
+    ]
+}

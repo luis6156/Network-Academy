@@ -1,0 +1,30 @@
+{
+    "id": "1515644111",
+    "title": "A new elliptic curve based analogue of RSA",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "N. Demytko",
+            "id": "2052479879",
+            "org": "Telecom Australia Research Laboratories, Clayton, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Curve25519",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1557014463",
+        "2003736153",
+        "2156186849"
+    ]
+}

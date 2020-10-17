@@ -1,0 +1,60 @@
+{
+    "id": "1754905695",
+    "title": "On parallelizing matrix multiplication by the column-row method",
+    "venue": "algorithm engineering and experimentation",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Andrea Campagna",
+            "id": "2791818591",
+            "org": "IT University of Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Konstantin Kutzkov",
+            "id": "2792472986",
+            "org": "IT University of Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Rasmus Pagh",
+            "id": "1864519460",
+            "org": "IT University of Copenhagen, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Mathematics",
+        "STREAMS",
+        "Matrix multiplication",
+        "Parallel computing",
+        "Speedup",
+        "Transaction data",
+        "Matrix (mathematics)",
+        "Combinatorics",
+        "Multiplication",
+        "Mathematical optimization",
+        "Outer product"
+    ],
+    "references": [
+        "151938044",
+        "1493892051",
+        "1839329870",
+        "1970779762",
+        "1972525637",
+        "1985269159",
+        "2004748427",
+        "2042465463",
+        "2045390367",
+        "2048105574",
+        "2048346983",
+        "2068668367",
+        "2069980026",
+        "2080939910",
+        "2105818667",
+        "2116427863",
+        "2135552269",
+        "2140864287",
+        "2144447093",
+        "2145194992",
+        "2160011226"
+    ]
+}

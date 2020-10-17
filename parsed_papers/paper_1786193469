@@ -1,0 +1,54 @@
+{
+    "id": "1786193469",
+    "title": "Efficient query processing for multi-dimensionally clustered tables in DB2",
+    "venue": "very large data bases",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Bishwaranjan Bhattacharjee",
+            "id": "2290747941",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Sriram Padmanabhan",
+            "id": "2200939589",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Timothy R. Malkemus",
+            "id": "2079739265",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Tony Wen Hsun Lai",
+            "id": "2482439292",
+            "org": "IBM Toronto Laboratories, Markham, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Leslie A. Cranston",
+            "id": "2170311902",
+            "org": "IBM Toronto Laboratories, Markham, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Matthew A. Huras",
+            "id": "2531170802",
+            "org": "IBM Toronto Laboratories, Markham, Ontario, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Contiguity (probability theory)",
+        "Theoretical computer science",
+        "Access method",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Database",
+        "Joins",
+        "Cluster analysis",
+        "Expression (mathematics)"
+    ],
+    "references": [
+        "2084757499"
+    ]
+}

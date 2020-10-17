@@ -1,0 +1,54 @@
+{
+    "id": "1491431082",
+    "title": "The second-preimage attack on MD4",
+    "venue": "cryptology and network security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hongbo Yu",
+            "id": "2427311814",
+            "org": "School of Mathematics and System Sciences, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Gaoli Wang",
+            "id": "2720712306",
+            "org": "School of Mathematics and System Sciences, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Guoyan Zhang",
+            "id": "2696046744",
+            "org": "School of Mathematics and System Sciences, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "School of Mathematics and System Sciences, Shandong University, Jinan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Brute-force attack",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Collision",
+        "Computer security",
+        "Hash function",
+        "Message authentication code",
+        "Hamming weight",
+        "Preimage attack"
+    ],
+    "references": [
+        "1537185870",
+        "1542068190",
+        "1587648112",
+        "1590269592",
+        "1656731780",
+        "1851023053",
+        "2098801947",
+        "2103239853",
+        "2131212920"
+    ]
+}

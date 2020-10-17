@@ -1,0 +1,45 @@
+{
+    "id": "1789460706",
+    "title": "Breaking 104 Bit WEP in less than 60 seconds",
+    "venue": "workshop on information security applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Erik Tews",
+            "id": "1485344885",
+            "org": "TU Darmstadt, FB Informatik, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Ralf-Philipp Weinmann",
+            "id": "2147515735",
+            "org": "TU Darmstadt, FB Informatik, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Andrei Pyshkin",
+            "id": "1971992527",
+            "org": "TU Darmstadt, FB Informatik, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Wired Equivalent Privacy",
+        "Initialization vector",
+        "Computer security",
+        "Stream cipher",
+        "Laptop",
+        "Network packet",
+        "RC4",
+        "Temporal Key Integrity Protocol",
+        "Address Resolution Protocol"
+    ],
+    "references": [
+        "1556597491",
+        "1608372408",
+        "1629946144",
+        "2077099041",
+        "2109740421",
+        "2114566185",
+        "2149237395",
+        "2164725724"
+    ]
+}

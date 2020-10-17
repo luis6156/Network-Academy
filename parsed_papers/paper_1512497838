@@ -1,0 +1,50 @@
+{
+    "id": "1512497838",
+    "title": "TWIS --- A Lightweight Block Cipher",
+    "venue": "international conference on information systems security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shri Kant Ojha",
+            "id": "2483979638",
+            "org": "Department of Defence R & D, Metcalfe House, Joint Cipher Bureau, India 110054#TAB#"
+        },
+        {
+            "name": "Naveen Kumar",
+            "id": "2720009767",
+            "org": "Department of Computer Science, University of Delhi, India 110007#TAB#"
+        },
+        {
+            "name": "Kritika Jain",
+            "id": "2438203982",
+            "org": "Department of Computer Science, University of Delhi, India 110007#TAB#"
+        },
+        {
+            "name": "Sangeeta",
+            "id": "2485358096",
+            "org": "Department of Computer Science, University of Delhi, India 110007#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Computer science",
+        "Two-square cipher",
+        "Computer security",
+        "Key whitening",
+        "Triple DES",
+        "CBC-MAC",
+        "CLEFIA",
+        "Substitution-permutation network",
+        "MDC-2"
+    ],
+    "references": [
+        "60103823",
+        "1522919234",
+        "1596841000",
+        "1599653461",
+        "1894646615",
+        "1987476244",
+        "2064501361"
+    ]
+}

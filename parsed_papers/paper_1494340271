@@ -1,0 +1,44 @@
+{
+    "id": "1494340271",
+    "title": "The Application of ID-Based Key Distribution Systems to an Elliptic Curve",
+    "venue": "ISW '97 Proceedings of the First International Workshop on Information Security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hisao Sakazaki",
+            "id": "2093561712",
+            "org": "Japan Advanced Institute of Science and Technology"
+        },
+        {
+            "name": "Eiji Okamoto",
+            "id": "2286134849",
+            "org": "Japan Advanced Institute of Science and Technology"
+        },
+        {
+            "name": "Masahiro Mambo",
+            "id": "2276012637",
+            "org": "Japan Advanced Institute of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Curve25519",
+        "Public-key cryptography",
+        "Key distribution",
+        "Discrete mathematics",
+        "Elliptic curve Diffie-Hellman",
+        "Elliptic curve cryptography",
+        "Cryptosystem",
+        "Counting points on elliptic curves",
+        "Baby-step giant-step"
+    ],
+    "references": [
+        "255366893",
+        "1558879852",
+        "1963578159",
+        "2028358228",
+        "2080302839",
+        "2227653143"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1776498962",
+    "title": "Performance Evaluation of Sparse Matrix Multiplication Kernels on Intel Xeon Phi",
+    "venue": "international conference on parallel processing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Erik Saule",
+            "id": "52716989",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Kamer Kaya",
+            "id": "2123746129",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Umit V. Catalyurek",
+            "id": "244960322",
+            "org": "The Ohio State University"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Thread (computing)",
+        "Matrix multiplication",
+        "Parallel computing",
+        "Xeon Phi",
+        "SIMD",
+        "Computer science",
+        "Coprocessor",
+        "Memory bandwidth",
+        "CUDA"
+    ],
+    "references": [
+        "1518969538",
+        "1982733412",
+        "1990832096",
+        "1994609277",
+        "2043715315",
+        "2045116116",
+        "2092013581",
+        "2111667319",
+        "2126004407",
+        "2128853364",
+        "2162630236",
+        "2269751313"
+    ]
+}

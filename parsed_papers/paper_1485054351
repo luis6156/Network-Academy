@@ -1,0 +1,41 @@
+{
+    "id": "1485054351",
+    "title": "Application of LFSRs in time/memory trade-off cryptanalysis",
+    "venue": "workshop on information security applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sourav Mukhopadhyay",
+            "id": "2304521216",
+            "org": "Cryptology Research Group, Applied Statistics Unit, Indian Statistical Institute, Kolkata, India#TAB#"
+        },
+        {
+            "name": "Palash Sarkar",
+            "id": "2126988666",
+            "org": "Cryptology Research Group, Applied Statistics Unit, Indian Statistical Institute, Kolkata, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Rainbow table",
+        "Computer science",
+        "One-way function",
+        "Trade-off",
+        "Pseudorandomness",
+        "Shift register",
+        "Linear feedback shift register"
+    ],
+    "references": [
+        "1518051266",
+        "1549671385",
+        "1563880518",
+        "1923545420",
+        "2008272678",
+        "2012646342",
+        "2020306457",
+        "2091293484",
+        "2130943734"
+    ]
+}

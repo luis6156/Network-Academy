@@ -1,0 +1,44 @@
+{
+    "id": "1485008821",
+    "title": "On QoS-based scheduling of a meta-task with multiple QoS demands in heterogeneous computing",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Atakan Dogan",
+            "id": "2632037914",
+            "org": "Dept. of Electr. Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Fusun Ozguner",
+            "id": "1986184231",
+            "org": "Dept. of Electr. Eng., Ohio State Univ., Columbus, OH, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "162105483",
+        "1627577332",
+        "1819660368",
+        "2095602318",
+        "2123042473",
+        "2141244905",
+        "2144996947",
+        "2148777733",
+        "2167605042",
+        "2171791403"
+    ]
+}

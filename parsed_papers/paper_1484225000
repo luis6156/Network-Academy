@@ -1,0 +1,58 @@
+{
+    "id": "1484225000",
+    "title": "Basing weak public-key cryptography on strong one-way functions",
+    "venue": "theory of cryptography conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion, Israel#TAB#"
+        },
+        {
+            "name": "Yaron J. Goren",
+            "id": "2693502694",
+            "org": "Rosetta Genomic, Israel#TAB#"
+        },
+        {
+            "name": "Yuval Ishai",
+            "id": "114908009",
+            "org": "Technion, Israel and UCLA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Merkle's Puzzles",
+        "Mathematics",
+        "Theoretical computer science",
+        "Universal composability",
+        "Cryptographic protocol",
+        "Distributed computing",
+        "Key-agreement protocol",
+        "Advantage",
+        "Diffie-Hellman key exchange",
+        "Public-key cryptography",
+        "Adversary"
+    ],
+    "references": [
+        "1513792611",
+        "1518083319",
+        "1525673003",
+        "1530248577",
+        "1968372742",
+        "1971282587",
+        "1980147712",
+        "2004881597",
+        "2012646342",
+        "2016201895",
+        "2027528470",
+        "2031495811",
+        "2045234394",
+        "2047925852",
+        "2084652510",
+        "2137147061",
+        "2155299787",
+        "2159460804",
+        "2294870549",
+        "2611398525"
+    ]
+}

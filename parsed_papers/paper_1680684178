@@ -1,0 +1,48 @@
+{
+    "id": "1680684178",
+    "title": "CIRC: a behavioral verification tool based on circular coinduction",
+    "venue": "conference on algebra and coalgebra in computer science",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Dorel Lucanu",
+            "id": "21303530",
+            "org": "Faculty of Computer Science, Alexandru Ioan Cuza University, Iasi, Romania#TAB#"
+        },
+        {
+            "name": "Eugen Ioan Goriac",
+            "id": "2848343149",
+            "org": "Faculty of Computer Science, Alexandru Ioan Cuza University, Iasi, Romania#TAB#"
+        },
+        {
+            "name": "Georgiana Caltais",
+            "id": "1978745385",
+            "org": "Faculty of Computer Science, Alexandru Ioan Cuza University, Iasi, Romania#TAB#"
+        },
+        {
+            "name": "Grigore Rosu",
+            "id": "96492545",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Gas meter prover",
+        "Algorithm",
+        "Discrete mathematics",
+        "Data structure",
+        "Automated theorem proving",
+        "Coinduction"
+    ],
+    "references": [
+        "1498001169",
+        "1529485247",
+        "1600605172",
+        "1647909232",
+        "1816709040",
+        "2101777238",
+        "2127868304",
+        "2136097161",
+        "2158409018"
+    ]
+}

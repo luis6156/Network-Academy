@@ -1,0 +1,41 @@
+{
+    "id": "1570574004",
+    "title": "Non-intrusive authentication",
+    "venue": "information security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Daniele Alberto Galliano",
+            "id": "2336474342",
+            "org": "Politecnico di Torino - Dip"
+        },
+        {
+            "name": "Antonio Lioy",
+            "id": "315881260",
+            "org": "Politecnico di Torino - Dip"
+        },
+        {
+            "name": "Fabio Maino",
+            "id": "2749046685",
+            "org": "Politecnico di Torino - Dip"
+        }
+    ],
+    "fields_of_study": [
+        "Challenge-response authentication",
+        "Computer science",
+        "SSLIOP",
+        "Generic Bootstrapping Architecture",
+        "Computer security",
+        "Challenge-Handshake Authentication Protocol",
+        "Email authentication",
+        "Internet privacy",
+        "Chip Authentication Program",
+        "Lightweight Extensible Authentication Protocol",
+        "NTLMSSP"
+    ],
+    "references": [
+        "1480557029",
+        "2146749986",
+        "2774071578"
+    ]
+}

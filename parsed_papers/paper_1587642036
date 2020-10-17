@@ -1,0 +1,73 @@
+{
+    "id": "1587642036",
+    "title": "Architecture of highly available databases",
+    "venue": "international service availability symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sam Drake",
+            "id": "2602250532",
+            "org": "TimesTen, Inc, Mountain View, CA#TAB#"
+        },
+        {
+            "name": "Wei Hu",
+            "id": "2512530645",
+            "org": "Oracle Corporation, Redwood Shores, CA#TAB#"
+        },
+        {
+            "name": "Dale M. McInnis",
+            "id": "2531602260",
+            "org": "IBM Canada Ltd., Markham, ON, Canada#TAB#"
+        },
+        {
+            "name": "Martin Skold",
+            "id": "2599125637",
+            "org": "MySQL AB, Uppsala, Sweden#TAB#"
+        },
+        {
+            "name": "Alok Srivastava",
+            "id": "2396415014",
+            "org": "Oracle Corporation, Redwood Shores, CA#TAB#"
+        },
+        {
+            "name": "Lars Thalmann",
+            "id": "2699168696",
+            "org": "MySQL AB, Uppsala, Sweden#TAB#"
+        },
+        {
+            "name": "Matti Tikkanen",
+            "id": "1981916044",
+            "org": "Nokia Group, Nokia Corporation, Finland#TAB#"
+        },
+        {
+            "name": "Oystein Torbjornsen",
+            "id": "2304687807",
+            "org": "Sun Microsystems, Haakon VII gt 7B, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Antoni Wolski",
+            "id": "2658390918",
+            "org": "Solid Information Technology, Helsinki, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dual modular redundancy",
+        "Data redundancy",
+        "Redundancy (engineering)",
+        "Computer science",
+        "Database",
+        "Real-time computing",
+        "Architecture",
+        "Database transaction"
+    ],
+    "references": [
+        "1502559188",
+        "1515932031",
+        "1558252816",
+        "1593708180",
+        "1837049365",
+        "2000637380",
+        "2051699256",
+        "2097035957"
+    ]
+}

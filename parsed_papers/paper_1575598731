@@ -1,0 +1,41 @@
+{
+    "id": "1575598731",
+    "title": "Fully homomorphic encryption with relatively small key and ciphertext sizes",
+    "venue": "public key cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Nigel P. Smart",
+            "id": "2110748698",
+            "org": "Dept. Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        },
+        {
+            "name": "Frederik Vercauteren",
+            "id": "2091944293",
+            "org": "COSIC - Electrical Engineering, Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Attribute-based encryption",
+        "Homomorphic encryption",
+        "Mathematics",
+        "Theoretical computer science",
+        "Integer",
+        "Discrete mathematics",
+        "Prime ideal",
+        "Homomorphic secret sharing",
+        "Ciphertext",
+        "Public-key cryptography",
+        "Key size"
+    ],
+    "references": [
+        "197145066",
+        "1496801598",
+        "1675339804",
+        "1886646278",
+        "2031533839",
+        "2060509762",
+        "2096221836",
+        "2403861493"
+    ]
+}

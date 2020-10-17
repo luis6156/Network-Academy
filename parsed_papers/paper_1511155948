@@ -1,0 +1,57 @@
+{
+    "id": "1511155948",
+    "title": "Automatic Classification of SPECT Images of Alzheimer's Disease Patients and Control Subjects",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jonathan Stoeckel",
+            "id": "2469224594",
+            "org": "EPIDAURE Project, INRIA, Sophia Antipolis, France"
+        },
+        {
+            "name": "Nicholas Ayache",
+            "id": "2161288054",
+            "org": "EPIDAURE Project, INRIA, Sophia Antipolis, France"
+        },
+        {
+            "name": "Gregoire Malandain",
+            "id": "2172723547",
+            "org": "EPIDAURE Project, INRIA, Sophia Antipolis, France"
+        },
+        {
+            "name": "Pierre Malick Koulibaly",
+            "id": "2065501009",
+            "org": "Service de Medecine Nucleaire - Centre Antoine Lacassagne"
+        },
+        {
+            "name": "Klaus P. Ebmeier",
+            "id": "1973352150",
+            "org": "Royal Edinburgh Hospital"
+        },
+        {
+            "name": "Jacques Darcourt",
+            "id": "666553694",
+            "org": "Service de Medecine Nucleaire - Centre Antoine Lacassagne"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical parametric mapping",
+        "Perfusion scanning",
+        "Computer vision",
+        "Explicit knowledge",
+        "Pattern recognition",
+        "Computer science",
+        "Ground truth",
+        "Voxel",
+        "Region of interest",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1537967768",
+        "1575374100",
+        "1999772635",
+        "1999954977",
+        "2147868149"
+    ]
+}

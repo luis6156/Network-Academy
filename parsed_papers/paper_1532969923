@@ -1,0 +1,103 @@
+{
+    "id": "1532969923",
+    "title": "Amnesic cache management for non-volatile memory",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Dongwoo Kang",
+            "id": "2169105793",
+            "org": "Dept. of Software, Dankook University, South Korea"
+        },
+        {
+            "name": "Seungjae Baek",
+            "id": "2151705190",
+            "org": "Dept. of Software, Dankook University, South Korea"
+        },
+        {
+            "name": "Jongmoo Choi",
+            "id": "2099573926",
+            "org": "Dept. of Software, Dankook University, South Korea"
+        },
+        {
+            "name": "Donghee Lee",
+            "id": "2502098821",
+            "org": "School of Computer Science, University of Seoul, South Korea"
+        },
+        {
+            "name": "Sam H. Noh",
+            "id": "2571969136",
+            "org": "School of Comp. & Info. Eng., Hongik University, South Korea"
+        },
+        {
+            "name": "Onur Mutlu",
+            "id": "2160510735",
+            "org": "Dept. of Electrical and Computer Engineering, Carnegie Mellon University, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "Page cache",
+        "Real-time computing",
+        "Cache pollution",
+        "Cache invalidation"
+    ],
+    "references": [
+        "308775487",
+        "1487370894",
+        "1514634512",
+        "1520248310",
+        "1567210335",
+        "1971266949",
+        "1972388231",
+        "2001217269",
+        "2005887179",
+        "2010202670",
+        "2010390358",
+        "2016839924",
+        "2022372008",
+        "2027974552",
+        "2033982707",
+        "2041588416",
+        "2047379549",
+        "2048588974",
+        "2079632486",
+        "2091988614",
+        "2096259250",
+        "2100343205",
+        "2102449048",
+        "2104305170",
+        "2105271931",
+        "2108048675",
+        "2113637091",
+        "2119092821",
+        "2121001352",
+        "2124306283",
+        "2124570687",
+        "2135393827",
+        "2136316949",
+        "2136552635",
+        "2142886360",
+        "2147539449",
+        "2147926533",
+        "2150662965",
+        "2150864656",
+        "2151303863",
+        "2155551886",
+        "2155694951",
+        "2157808045",
+        "2162031809",
+        "2166905397",
+        "2171724053",
+        "2175509047",
+        "2198659786",
+        "2201220957",
+        "2219142176"
+    ]
+}

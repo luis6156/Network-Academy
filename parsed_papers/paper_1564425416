@@ -1,0 +1,53 @@
+{
+    "id": "1564425416",
+    "title": "Fault Detection and Diagnosis in Distributed Systems: An Approach by Partially Stochastic Petri Nets",
+    "venue": "Discrete Event Dynamic Systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Armen Aghasaryan",
+            "id": "1889997331",
+            "org": "IRISA/INRIA, projet Sigma 2, Campus de Beaulieu, F-35042 Rennes cedex, France; aaghasar@irisa.fr#TAB#"
+        },
+        {
+            "name": "Eric Fabre",
+            "id": "2151505697",
+            "org": "IRISA/INRIA, projet Sigma 2, Campus de Beaulieu, F-35042 Rennes cedex, France; [email protected]#TAB#"
+        },
+        {
+            "name": "Albert Benveniste",
+            "id": "2295575204",
+            "org": "IRISA/INRIA, projet Sigma 2, Campus de Beaulieu, F-35042 Rennes cedex, France; benvenis@irisa.fr#TAB#"
+        },
+        {
+            "name": "Renee Boubour",
+            "id": "428371822",
+            "org": "France TELEcom/CNET Lannion - DTL/DLI, Technopole Anticipa, 2, av. Pierre Marzin, F-22307 Lannion cedex, France; renee.boubour@cnet.francetelecom.fr#TAB#"
+        },
+        {
+            "name": "Claude Jard",
+            "id": "182723510",
+            "org": "IRISA/CNRS, projet Pampa, Campus de Beaulieu, F-35042 Rennes cedex, France; [email protected]#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concurrence",
+        "Fault management",
+        "Distributed computing",
+        "Fault detection and isolation",
+        "Computer science",
+        "Process architecture",
+        "Stochastic Petri net",
+        "Concurrency",
+        "Petri net",
+        "Viterbi algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "1502246203",
+        "1519324376",
+        "1553245026",
+        "1986755980",
+        "2004601443"
+    ]
+}

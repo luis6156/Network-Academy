@@ -1,0 +1,52 @@
+{
+    "id": "108026660",
+    "title": "A Block-Cipher-Based Hash Function Using an MMO-Type Double-Block Compression Function",
+    "venue": "provable security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Shoichi Hirose",
+            "id": "2140040504",
+            "org": "University of Fukui"
+        },
+        {
+            "name": "Hidenori Kuwakado",
+            "id": "260539752",
+            "org": "Kansai University"
+        }
+    ],
+    "fields_of_study": [
+        "K-independent hashing",
+        "Theoretical computer science",
+        "Computer science",
+        "Rolling hash",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "1004367835",
+        "1419025060",
+        "1480951587",
+        "1505322521",
+        "1522447864",
+        "1524358972",
+        "1547189451",
+        "1552704549",
+        "1587127684",
+        "1638242903",
+        "1689385595",
+        "1822502977",
+        "1939171670",
+        "2005903962",
+        "2007585625",
+        "2106698019",
+        "2145006563",
+        "2146395537",
+        "2169290761",
+        "2177399963"
+    ]
+}

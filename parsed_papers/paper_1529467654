@@ -1,0 +1,47 @@
+{
+    "id": "1529467654",
+    "title": "Persistent Versus Dynamic Role Membership",
+    "venue": "DBSec",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jean Bacon",
+            "id": "2162937838",
+            "org": "University of Cambridge Computer Laboratory"
+        },
+        {
+            "name": "Ken Moody",
+            "id": "2258298444",
+            "org": "University of Cambridge Computer Laboratory"
+        },
+        {
+            "name": "David W. Chadwick",
+            "id": "2149179216",
+            "org": "University of Salford"
+        },
+        {
+            "name": "Oleksandr Otenko",
+            "id": "2697848076",
+            "org": "University of Salford"
+        }
+    ],
+    "fields_of_study": [
+        "Access control",
+        "Small number",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Role-based access control",
+        "Authentication"
+    ],
+    "references": [
+        "1492040236",
+        "1975156286",
+        "1975908400",
+        "2000952251",
+        "2019295012",
+        "2081186654",
+        "2166602595",
+        "2170212068"
+    ]
+}

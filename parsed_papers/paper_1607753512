@@ -1,0 +1,44 @@
+{
+    "id": "1607753512",
+    "title": "Multi-view head pose estimation using neural networks",
+    "venue": "canadian conference on computer and robot vision",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael Voit",
+            "id": "2132136416",
+            "org": "Interactive Syst. Labs, Univ. Karlsruhe, Germany"
+        },
+        {
+            "name": "Kai Nickel",
+            "id": "2146998523",
+            "org": "Interactive Syst. Labs, Univ. Karlsruhe, Germany"
+        },
+        {
+            "name": "Rainer Stiefelhagen",
+            "id": "332721774",
+            "org": "Interactive Syst. Labs, Univ. Karlsruhe, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Pose",
+        "Object detection",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Artificial neural network",
+        "Mean squared error",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2011126660",
+        "2102126962",
+        "2110411756",
+        "2111918405",
+        "2130763609",
+        "2137785778",
+        "2148508265",
+        "2164997042",
+        "2168682262"
+    ]
+}

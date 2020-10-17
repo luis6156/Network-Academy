@@ -1,0 +1,59 @@
+{
+    "id": "1525126243",
+    "title": "Studying network protocol offload with emulation: approach and preliminary results",
+    "venue": "high performance interconnects",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Roland Westrelin",
+            "id": "2302814268",
+            "org": "Sun Microsystems, Inc., Santa Clara, CA, USA"
+        },
+        {
+            "name": "Nicolas Fugier",
+            "id": "2397508092",
+            "org": "Sun Microsystems, Inc., Santa Clara, CA, USA"
+        },
+        {
+            "name": "Erik Nordmark",
+            "id": "2111640313",
+            "org": "Sun Microsystems, Inc., Santa Clara, CA, USA"
+        },
+        {
+            "name": "Kai Kunze",
+            "id": "2777096157",
+            "org": "Sun Microsystems, Inc., Santa Clara, CA, USA"
+        },
+        {
+            "name": "Eric Lemoine",
+            "id": "2481405392",
+            "org": "Sun Microsystems, Inc., Santa Clara, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Large segment offload",
+        "Throughput",
+        "TCP offload engine",
+        "Large receive offload",
+        "Computer science",
+        "Communications protocol",
+        "Network interface",
+        "Network interface controller",
+        "Computer network"
+    ],
+    "references": [
+        "154335262",
+        "319739543",
+        "1496417343",
+        "2022019790",
+        "2049229276",
+        "2054188454",
+        "2101195691",
+        "2108914546",
+        "2114728910",
+        "2123255787",
+        "2128883551",
+        "2131198439"
+    ]
+}

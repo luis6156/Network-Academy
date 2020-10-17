@@ -1,0 +1,67 @@
+{
+    "id": "1514993642",
+    "title": "Efficient and First-Order DPA Resistant Implementations of Keccak",
+    "venue": "smart card research and advanced application conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Begul Bilgin",
+            "id": "2160609498",
+            "org": "KU Leuven"
+        },
+        {
+            "name": "Joan Daemen",
+            "id": "2022183134",
+            "org": "STMicroelectronics"
+        },
+        {
+            "name": "Ventzislav Nikov",
+            "id": "2113011208",
+            "org": "NXP Semiconductors"
+        },
+        {
+            "name": "Svetla Nikova",
+            "id": "2097428058",
+            "org": "KU Leuven"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "KU Leuven"
+        },
+        {
+            "name": "Gilles Van Assche",
+            "id": "1974686051",
+            "org": "STMicroelectronics"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Small number",
+        "NIST",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Implementation",
+        "Hash function",
+        "Real-time computing"
+    ],
+    "references": [
+        "1481603678",
+        "1503638523",
+        "1506423869",
+        "1512062395",
+        "1541098965",
+        "1569212589",
+        "1592625985",
+        "1820473293",
+        "1897761346",
+        "2040320008",
+        "2099854998",
+        "2114286085",
+        "2144630005",
+        "2154909745",
+        "2251439738",
+        "2612208439"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1485506105",
+    "title": "Priority Based Packet Scheduling with Tunable Reliability for Wireless Streaming",
+    "venue": "international conference on communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jan Kritzner",
+            "id": "2199381531",
+            "org": "Aachen University"
+        },
+        {
+            "name": "Uwe Horn",
+            "id": "1937997637",
+            "org": "Ericsson Research"
+        },
+        {
+            "name": "Markus Kampmann",
+            "id": "1991656501",
+            "org": "Ericsson Research"
+        },
+        {
+            "name": "Joachim Sachs",
+            "id": "2185582564",
+            "org": "Ericsson Research"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Priority inheritance",
+        "Computer science",
+        "Distributed computing",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Priority ceiling protocol",
+        "Rate-monotonic scheduling",
+        "Computer network",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Packet loss"
+    ],
+    "references": [
+        "190600026",
+        "2140984813",
+        "2145173180",
+        "2147391674"
+    ]
+}

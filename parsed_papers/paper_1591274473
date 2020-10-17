@@ -1,0 +1,64 @@
+{
+    "id": "1591274473",
+    "title": "A core calculus for scala type checking",
+    "venue": "mathematical foundations of computer science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vincent Cremet",
+            "id": "205242568",
+            "org": "Ecole Polytechnique Federale de Lausanne, INR Ecublens, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Francois Garillot",
+            "id": "2779631725",
+            "org": "Ecole Normale Superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Serguei Lenglet",
+            "id": "2550149760",
+            "org": "Ecole Normale Superieure de Lyon, Lyon, France#TAB#"
+        },
+        {
+            "name": "Martin Odersky",
+            "id": "248131350",
+            "org": "Ecole Polytechnique Federale de Lausanne, INR Ecublens, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Type theory",
+        "Mixin",
+        "Scala",
+        "Covariance and contravariance",
+        "Simply typed lambda calculus",
+        "Subtyping",
+        "Abstract type",
+        "Type signature",
+        "Calculus"
+    ],
+    "references": [
+        "280477205",
+        "1567378416",
+        "1576418074",
+        "1577182889",
+        "1593771739",
+        "1739798036",
+        "1972445726",
+        "2005221219",
+        "2025407135",
+        "2032220227",
+        "2033348393",
+        "2048569219",
+        "2049773429",
+        "2057779758",
+        "2070880808",
+        "2120668987",
+        "2150101804",
+        "2168986107",
+        "2172232818",
+        "2689640124",
+        "2886203375"
+    ]
+}

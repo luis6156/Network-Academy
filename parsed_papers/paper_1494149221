@@ -1,0 +1,45 @@
+{
+    "id": "1494149221",
+    "title": "A fault attack on the LED block cipher",
+    "venue": "international workshop constructive side-channel analysis and secure design",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Philipp Jovanovic",
+            "id": "2292701633",
+            "org": "Fakultat fur Informatik und Mathematik, Universitat Passau, Passau, Germany#TAB#"
+        },
+        {
+            "name": "Martin Kreuzer",
+            "id": "2637675899",
+            "org": "Fakultat fur Informatik und Mathematik, Universitat Passau, Passau, Germany#TAB#"
+        },
+        {
+            "name": "Ilia Polian",
+            "id": "89805724",
+            "org": "Fakultat fur Informatik und Mathematik, Universitat Passau, Passau, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Residual block termination",
+        "Stream cipher attack",
+        "Key whitening",
+        "Triple DES",
+        "Meet-in-the-middle attack",
+        "CBC-MAC",
+        "Differential fault analysis"
+    ],
+    "references": [
+        "1522919234",
+        "1524438853",
+        "1730333074",
+        "1894646615",
+        "2108329338",
+        "2111725598",
+        "2139750209",
+        "2141124495"
+    ]
+}

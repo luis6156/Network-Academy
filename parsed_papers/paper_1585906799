@@ -1,0 +1,52 @@
+{
+    "id": "1585906799",
+    "title": "A fast method for overflow effect analysis in fixed-point systems",
+    "venue": "conference on design and architectures for signal and image processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Riham Nehmeh",
+            "id": "377031694",
+            "org": "STMicroelectronics, 38926 Crolles, France"
+        },
+        {
+            "name": "Daniel Menard",
+            "id": "2147969889",
+            "org": "UEB, INSA, IETR, UMR 6164, 35708 Rennes, France"
+        },
+        {
+            "name": "Andrei Banciu",
+            "id": "2063536694",
+            "org": "STMicroelectronics, 38926 Crolles, France"
+        },
+        {
+            "name": "Thierry Michel",
+            "id": "2311557116",
+            "org": "STMicroelectronics, 38926 Crolles, France"
+        },
+        {
+            "name": "Romuald Rocher",
+            "id": "2102679052",
+            "org": "UEB, University of Rennes, IRISA/INRIA, 22300 Lannion, France"
+        }
+    ],
+    "fields_of_study": [
+        "Quantization (signal processing)",
+        "Integer",
+        "Fixed point",
+        "Fixed-point arithmetic",
+        "Computer science",
+        "Signal processing",
+        "Real-time computing"
+    ],
+    "references": [
+        "1485410503",
+        "1985495331",
+        "2004464838",
+        "2072837756",
+        "2091452063",
+        "2101623124",
+        "2131798279",
+        "2160144274"
+    ]
+}

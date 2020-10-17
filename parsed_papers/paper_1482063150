@@ -1,0 +1,41 @@
+{
+    "id": "1482063150",
+    "title": "Feature-Based Registration of Medical Images: Estimation and Validation of the Pose Accuracy",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Xavier Pennec",
+            "id": "2777180503",
+            "org": "INRIA Sophia Antipolis"
+        },
+        {
+            "name": "Charles R. G. Guttmann",
+            "id": "879220929",
+            "org": "Harvard Medical School"
+        },
+        {
+            "name": "Jean-Philippe Thirion",
+            "id": "1573952450",
+            "org": "Focus Imaging SA"
+        }
+    ],
+    "fields_of_study": [
+        "Pose",
+        "Artificial intelligence",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Least squares",
+        "Mahalanobis distance",
+        "Gradient descent"
+    ],
+    "references": [
+        "1526891024",
+        "1540542974",
+        "2099678533",
+        "2121797328",
+        "2128019145",
+        "2159593339"
+    ]
+}

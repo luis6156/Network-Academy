@@ -1,0 +1,48 @@
+{
+    "id": "1492842935",
+    "title": "Integrating Temporal Assertions into a Parallel Debugger",
+    "venue": "european conference on parallel processing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jozsef Kovacs",
+            "id": "2429420683",
+            "org": "Computer and Automation Research Institute (MTA SZTAKI)"
+        },
+        {
+            "name": "Gabor Kusper",
+            "id": "2716562368",
+            "org": "Johannes Kepler University"
+        },
+        {
+            "name": "Robert Lovas",
+            "id": "2421720549",
+            "org": "Computer and Automation Research Institute (MTA SZTAKI)"
+        },
+        {
+            "name": "Wolfgang Schreiner",
+            "id": "1981626875",
+            "org": "Johannes Kepler University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Temporal logic",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Debugger",
+        "Model checking",
+        "Debugging"
+    ],
+    "references": [
+        "1503367339",
+        "2010923741",
+        "2019212127",
+        "2063215088",
+        "2093916942",
+        "2098024714",
+        "2119965246",
+        "2340735175"
+    ]
+}

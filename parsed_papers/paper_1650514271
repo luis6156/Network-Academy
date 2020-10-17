@@ -1,0 +1,53 @@
+{
+    "id": "1650514271",
+    "title": "Robust and secure password and key change method",
+    "venue": "Journal of Computer Security",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ralf Hauser",
+            "id": "2120552531",
+            "org": "IBM Research Laboratory, CH-8803 Ruschlikon, Switzerland, E-mail: {pj.evh}@zurich.ibm.com#TAB#"
+        },
+        {
+            "name": "Philippe A. Janson",
+            "id": "2003456873",
+            "org": "IBM Research Laboratory, CH-8803 Ruschlikon, Switzerland, E-mail: {pj.evh}@zurich.ibm.com#TAB#"
+        },
+        {
+            "name": "Gene Tsudik",
+            "id": "465425324",
+            "org": "IBM Research Laboratory, CH-8803 Ruschlikon, Switzerland, E-mail: {pj.evh}@zurich.ibm.com#TAB#"
+        },
+        {
+            "name": "Els Van Herreweghen",
+            "id": "2169639643",
+            "org": "IBM Research Laboratory, CH-8803 Ruschlikon, Switzerland, E-mail: {pj.evh}@zurich.ibm.com#TAB#"
+        },
+        {
+            "name": "Refik Molva",
+            "id": "2071596984",
+            "org": "EURECOM Institute, Sophia Antipolis, F-06560 Valbonne, France, E-mail: molva@eurecom.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Password policy",
+        "Computer science",
+        "Communications protocol",
+        "Distributed computing",
+        "Forward secrecy",
+        "Computer security",
+        "Data processing",
+        "Password",
+        "Key (lock)",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1610349667",
+        "2072707905",
+        "2107515440",
+        "2146749986",
+        "2157604883"
+    ]
+}

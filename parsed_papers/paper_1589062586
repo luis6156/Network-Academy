@@ -1,0 +1,43 @@
+{
+    "id": "1589062586",
+    "title": "Performance analysis of a dynamic query processing scheme",
+    "venue": "Proceedings of the PRISMA workshop on Parallel database systems",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Martin L. Kersten",
+            "id": "2117317669",
+            "org": "Centre for Mathematics and Computer Science"
+        },
+        {
+            "name": "S. Shair-Ali",
+            "id": "2659142098",
+            "org": "Centre for Mathematics and Computer Science"
+        },
+        {
+            "name": "C. A. van den Berg",
+            "id": "2709803967",
+            "org": "Centre for Mathematics and Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Sargable",
+        "Query expansion",
+        "View",
+        "Theoretical computer science",
+        "Computer science",
+        "Query by Example",
+        "Network model",
+        "Database",
+        "Online aggregation",
+        "Software architecture",
+        "Query optimization"
+    ],
+    "references": [
+        "1490725342",
+        "1994502095",
+        "2080427212",
+        "2101468026",
+        "2171922437"
+    ]
+}

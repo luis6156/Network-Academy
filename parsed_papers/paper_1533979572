@@ -1,0 +1,33 @@
+{
+    "id": "1533979572",
+    "title": "Update on SHA-1",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": ",IAIK, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Elisabeth Oswald",
+            "id": "2112794742",
+            "org": ",IAIK, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "SHA-1",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Hash function"
+    ],
+    "references": [
+        "1491388917",
+        "2095675261",
+        "2099250555",
+        "2135759164"
+    ]
+}

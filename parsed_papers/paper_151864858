@@ -1,0 +1,54 @@
+{
+    "id": "151864858",
+    "title": "Differential cache-collision timing attacks on AES with applications to embedded CPUs",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Thomas Eisenbarth",
+            "id": "2200657679",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Malte Wienecke",
+            "id": "2479855281",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cryptography",
+        "Block cipher",
+        "Parallel computing",
+        "Side channel attack",
+        "Computer science",
+        "CPU cache",
+        "Real-time computing",
+        "Timing attack",
+        "Chosen-ciphertext attack",
+        "Collision"
+    ],
+    "references": [
+        "1480815770",
+        "1488058190",
+        "1592889082",
+        "1664808737",
+        "1811355673",
+        "1890449996",
+        "2064399009",
+        "2126132644",
+        "2131202839",
+        "2132064685",
+        "2154909745"
+    ]
+}

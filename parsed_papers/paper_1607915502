@@ -1,0 +1,59 @@
+{
+    "id": "1607915502",
+    "title": "Stronger password authentication using browser extensions",
+    "venue": "usenix security symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Blake Ross",
+            "id": "2695872278",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Collin Jackson",
+            "id": "2135217518",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Nick Miyake",
+            "id": "2630022023",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford University"
+        },
+        {
+            "name": "John C. Mitchell",
+            "id": "2125383417",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Cognitive password",
+        "Password strength",
+        "Computer science",
+        "Computer security",
+        "Password",
+        "One-time password",
+        "Internet privacy"
+    ],
+    "references": [
+        "12010980",
+        "192036632",
+        "1506796649",
+        "1591302859",
+        "1733713784",
+        "2030993695",
+        "2117362057",
+        "2124926080",
+        "2155631698",
+        "2157604883"
+    ]
+}

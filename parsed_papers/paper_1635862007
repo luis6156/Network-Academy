@@ -1,0 +1,55 @@
+{
+    "id": "1635862007",
+    "title": "Worst-case analysis of heap allocations",
+    "venue": "leveraging applications of formal methods",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Wolfgang Puffitsch",
+            "id": "287525815",
+            "org": "Institute of Computer Engineering, Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Benedikt Huber",
+            "id": "2117348810",
+            "org": "Institute of Computer Engineering, Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Martin Schoeberl",
+            "id": "2118320911",
+            "org": "Dept. of Informatics and Mathematical Modeling, Technical University of Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Worst-case execution time",
+        "C dynamic memory allocation",
+        "Parallel computing",
+        "Object-oriented programming",
+        "Slab allocation",
+        "Computer science",
+        "Memory management",
+        "Heap (data structure)",
+        "Runtime system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1544023751",
+        "1974895492",
+        "1981525818",
+        "1983134029",
+        "2003295303",
+        "2006053872",
+        "2051600169",
+        "2066744234",
+        "2106407962",
+        "2107806761",
+        "2113533273",
+        "2113535112",
+        "2115597529",
+        "2126415451",
+        "2127400362",
+        "2138952175",
+        "2194223632"
+    ]
+}

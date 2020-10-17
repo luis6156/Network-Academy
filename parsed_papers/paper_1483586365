@@ -1,0 +1,52 @@
+{
+    "id": "1483586365",
+    "title": "Conflict-aware scheduling for dynamic content applications",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cristiana Amza",
+            "id": "2107834659",
+            "org": "Department of Computer Science, Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Alan L. Cox",
+            "id": "2139024270",
+            "org": "Department of Computer Science, Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Willy Zwaenepoel",
+            "id": "2290999210",
+            "org": "School of Computer and Communication Sciences, EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Serializability",
+        "Dynamic web page",
+        "Scaling",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Computer science",
+        "Workload",
+        "E-commerce",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1515932031",
+        "1530666332",
+        "1545155892",
+        "1549404527",
+        "1590303417",
+        "1833823679",
+        "1918075888",
+        "1968398752",
+        "1977591152",
+        "2102748509",
+        "2111586962",
+        "2117260615",
+        "2154909541",
+        "2171922437"
+    ]
+}

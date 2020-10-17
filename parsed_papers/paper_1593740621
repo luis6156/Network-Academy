@@ -1,0 +1,52 @@
+{
+    "id": "1593740621",
+    "title": "Using Failed Local Search for SAT as an Oracle for Tackling Harder A.I. Problems More Efficiently",
+    "venue": "artificial intelligence methodology systems applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Eric Gregoire",
+            "id": "2099230921",
+            "org": "CRIL-CNRS - Universite d'Artois"
+        },
+        {
+            "name": "Bertrand Mazure",
+            "id": "711703943",
+            "org": "CRIL-CNRS - Universite d'Artois"
+        },
+        {
+            "name": "Lakhdar Sais",
+            "id": "2152639631",
+            "org": "CRIL-CNRS - Universite d'Artois"
+        }
+    ],
+    "fields_of_study": [
+        "Oracle",
+        "Computation",
+        "Computer science",
+        "Local search (optimization)",
+        "Constraint satisfaction",
+        "Decision problem",
+        "Optimization problem",
+        "Minimal models",
+        "Boolean satisfiability problem",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "36382082",
+        "48425311",
+        "127040706",
+        "1482918955",
+        "1490149163",
+        "1495369628",
+        "1513769081",
+        "1523105781",
+        "1667614912",
+        "1998363560",
+        "2032066666",
+        "2057361103",
+        "2106440199",
+        "2108309071"
+    ]
+}

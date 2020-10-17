@@ -1,0 +1,71 @@
+{
+    "id": "1568817903",
+    "title": "Related-key rectangle attacks on reduced AES-192 and AES-256",
+    "venue": "fast software encryption",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Center for Information Security Technologies, Korea University, Anam Dong, Sungbuk Gu, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies, Korea University, Anam Dong, Sungbuk Gu, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven, Dept. ESAT/SCD-COSIC, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Advanced Encryption Standard",
+        "Key space",
+        "Related-key attack",
+        "Slide attack",
+        "Key (lock)"
+    ],
+    "references": [
+        "3926427",
+        "18798069",
+        "45309531",
+        "52191336",
+        "798366527",
+        "1493204363",
+        "1498330251",
+        "1502924772",
+        "1515958737",
+        "1516699468",
+        "1540066842",
+        "1540211477",
+        "1541703086",
+        "1543271574",
+        "1546907539",
+        "1556212265",
+        "1556727271",
+        "1584813264",
+        "1587120902",
+        "1596744447",
+        "1605786664",
+        "1629301835",
+        "1794421227",
+        "1806447353",
+        "1870015754",
+        "1871986277",
+        "1974355178",
+        "1991897749",
+        "2066464272",
+        "2234576048",
+        "2469620764",
+        "2493686639",
+        "2514781489",
+        "2592352276"
+    ]
+}

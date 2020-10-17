@@ -1,0 +1,44 @@
+{
+    "id": "1553604836",
+    "title": "Inheritance and synchronization in concurrent OOP",
+    "venue": "european conference on object-oriented programming",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Jean-Pierre Briot",
+            "id": "2893374355",
+            "org": "Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Akinori Yonezawa",
+            "id": "660900409",
+            "org": "Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Delegation",
+        "Object-oriented programming",
+        "Theoretical computer science",
+        "Composition over inheritance",
+        "Knowledge sharing",
+        "Shared memory",
+        "Distributed computing",
+        "Computer science",
+        "Concurrent object-oriented programming",
+        "Message passing",
+        "Atomicity",
+        "Programming language"
+    ],
+    "references": [
+        "4371058",
+        "1558478766",
+        "1569389706",
+        "1591007360",
+        "1984689011",
+        "1993318777",
+        "2123709269",
+        "2132055297",
+        "2157368609",
+        "2162564004"
+    ]
+}

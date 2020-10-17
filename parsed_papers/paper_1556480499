@@ -1,0 +1,56 @@
+{
+    "id": "1556480499",
+    "title": "Certificate-Based Signature Schemes without Pairings or Random Oracles",
+    "venue": "international conference on information security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Joseph K. Liu",
+            "id": "2108886137",
+            "org": "Cryptography and Security Department Institute for Infocomm Research, , Singapore#TAB#"
+        },
+        {
+            "name": "Joonsang Baek",
+            "id": "2157523914",
+            "org": "Cryptography and Security Department Institute for Infocomm Research, , Singapore#TAB#"
+        },
+        {
+            "name": "Willy Susilo",
+            "id": "2114127059",
+            "org": "Centre for Computer and Information Security (CCISR) School of Computer Science and Software Engineering, University of Wollongong, Australia#TAB#"
+        },
+        {
+            "name": "Jianying Zhou",
+            "id": "2799012699",
+            "org": "Cryptography and Security Department Institute for Infocomm Research, , Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete logarithm",
+        "Computation",
+        "Pairing",
+        "Schnorr signature",
+        "Random oracle",
+        "Certificate"
+    ],
+    "references": [
+        "1495266644",
+        "1497351799",
+        "1501670540",
+        "1542057243",
+        "1547928704",
+        "1559628144",
+        "1568514840",
+        "1569083856",
+        "1590902397",
+        "1591524234",
+        "1592092778",
+        "1600495091",
+        "1925483862",
+        "2056442302",
+        "2086042811",
+        "2152924492"
+    ]
+}

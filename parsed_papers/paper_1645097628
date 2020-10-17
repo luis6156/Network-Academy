@@ -1,0 +1,62 @@
+{
+    "id": "1645097628",
+    "title": "Code generation for STA architecture",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jie Guo",
+            "id": "2624855800",
+            "org": "Vodafone Chair Mobile Communication Systems, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Torsten Limberg",
+            "id": "2662075019",
+            "org": "Vodafone Chair Mobile Communication Systems, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Emil Matus",
+            "id": "2063567697",
+            "org": "Vodafone Chair Mobile Communication Systems, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Bjorn Mennenga",
+            "id": "1495745629",
+            "org": "Vodafone Chair Mobile Communication Systems, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Reimund Klemm",
+            "id": "2100920122",
+            "org": "Vodafone Chair Mobile Communication Systems, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Gerhard P. Fettweis",
+            "id": "2184435702",
+            "org": "Vodafone Chair Mobile Communication Systems, TU Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Redundant code",
+        "Parallel computing",
+        "Source code",
+        "Computer science",
+        "Instruction set",
+        "Unreachable code",
+        "Loop-invariant code motion",
+        "Code generation",
+        "Dead code elimination"
+    ],
+    "references": [
+        "1491178396",
+        "1545229252",
+        "1555915743",
+        "1565196699",
+        "1577420679",
+        "2010594747",
+        "2069951131",
+        "2114067856",
+        "2129207930",
+        "2155316957"
+    ]
+}

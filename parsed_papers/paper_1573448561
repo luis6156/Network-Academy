@@ -1,0 +1,83 @@
+{
+    "id": "1573448561",
+    "title": "A prototype representation to approximate white matter bundles with weighted currents.",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Pietro Gori",
+            "id": "1933463178",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Olivier Colliot",
+            "id": "2230162326",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Linda Marrakchi-Kacem",
+            "id": "1551812294",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Yulia Worbe",
+            "id": "286068496",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Fabrizio De Vico Fallani",
+            "id": "1905736333",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Mario Chavez",
+            "id": "2095945270",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Sophie Lecomte",
+            "id": "2157770323",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Cyril Poupon",
+            "id": "2170969504",
+            "org": "Neurospin, CEA"
+        },
+        {
+            "name": "Andreas Hartmann",
+            "id": "2105084301",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        },
+        {
+            "name": "Nicholas Ayache",
+            "id": "2161288054",
+            "org": "Inria Sophia Antipolis"
+        },
+        {
+            "name": "Stanley Durrleman",
+            "id": "1976939201",
+            "org": "Inria Paris-Rocquencourt, Sorbonne Universites, UPMC Univ Paris 06 UMR S1127, Inserm U1127, CNRS UMR 7225, ICM"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Fiber bundle",
+        "Topology",
+        "Cluster analysis",
+        "Fiber",
+        "Tractography",
+        "Mixture model"
+    ],
+    "references": [
+        "1606637515",
+        "1966699768",
+        "1972158357",
+        "1978460470",
+        "2030669466",
+        "2042392031",
+        "2114856020",
+        "2129390822",
+        "2171660634"
+    ]
+}

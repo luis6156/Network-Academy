@@ -1,0 +1,56 @@
+{
+    "id": "1557543533",
+    "title": "Context-Sensitive points-to analysis: is it worth it?",
+    "venue": "compiler construction",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ondrej Lhotak",
+            "id": "1860963857",
+            "org": "School of Computer Science, University of Waterloo, Waterloo, ON, Canada#TAB#"
+        },
+        {
+            "name": "Laurie J. Hendren",
+            "id": "2057929015",
+            "org": "School of Computer Science, McGill University, Montreal, QC, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Theoretical computer science",
+        "Pointer (computer programming)",
+        "Algorithm",
+        "Computer science",
+        "Binary decision diagram",
+        "Heap (data structure)",
+        "String (computer science)",
+        "Call graph",
+        "Call site",
+        "Multigraph"
+    ],
+    "references": [
+        "1529049337",
+        "1533004102",
+        "1536098516",
+        "1812582761",
+        "1975514564",
+        "1996146601",
+        "2046699259",
+        "2057085278",
+        "2069482167",
+        "2075309900",
+        "2077102566",
+        "2078739669",
+        "2087612811",
+        "2113238444",
+        "2127172188",
+        "2127309882",
+        "2132685964",
+        "2136503680",
+        "2151360539",
+        "2158600037",
+        "2162544703",
+        "2171240827",
+        "2465715726"
+    ]
+}

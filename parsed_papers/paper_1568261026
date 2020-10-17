@@ -1,0 +1,45 @@
+{
+    "id": "1568261026",
+    "title": "Self-Configuration of the Number of Concurrently Running MapReduce Jobs in a Hadoop Cluster",
+    "venue": "international conference on autonomic computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Bo Zhang",
+            "id": "2335513270",
+            "org": "INRIA, Univ. of Lille 1, Lille, France"
+        },
+        {
+            "name": "Filip Krikava",
+            "id": "2018564708",
+            "org": "INRIA, Univ. of Lille 1, Lille, France"
+        },
+        {
+            "name": "Romain Rouvoy",
+            "id": "182829486",
+            "org": "INRIA, Univ. of Lille 1, Lille, France"
+        },
+        {
+            "name": "Lionel Seinturier",
+            "id": "1986010036",
+            "org": "INRIA, Univ. of Lille 1, Lille, France"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Memory management",
+        "Control system",
+        "Real-time computing"
+    ],
+    "references": [
+        "136979389",
+        "1834532152",
+        "2087715056",
+        "2088687427",
+        "2114896543",
+        "2163291889"
+    ]
+}

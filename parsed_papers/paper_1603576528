@@ -1,0 +1,45 @@
+{
+    "id": "1603576528",
+    "title": "A parallel adaptive cartesian PDE solver using space-filling curves",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hans-Joachim Bungartz",
+            "id": "2251662199",
+            "org": "Technical University Munich, Garching, Germany#TAB#"
+        },
+        {
+            "name": "Miriam Mehl",
+            "id": "1972860878",
+            "org": "Technical University Munich, Garching, Germany#TAB#"
+        },
+        {
+            "name": "Tobias Weinzierl",
+            "id": "1986130288",
+            "org": "Technical University Munich, Garching, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Space-filling curve",
+        "Mathematics",
+        "Elliptic operator",
+        "Discrete mathematics",
+        "Grid",
+        "Domain decomposition methods",
+        "Parallel algorithm",
+        "Solver",
+        "Mathematical optimization",
+        "Multigrid method",
+        "Regular grid"
+    ],
+    "references": [
+        "1497401088",
+        "1531802798",
+        "1563955133",
+        "1969215126",
+        "2028763350",
+        "2056345907",
+        "2563604890"
+    ]
+}

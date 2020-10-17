@@ -1,0 +1,53 @@
+{
+    "id": "1508337795",
+    "title": "A distributed and replicated service for checkpoint storage",
+    "venue": "CoreGRID Workshop - Making Grids Work",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Fatiha Bouabache",
+            "id": "2558377159",
+            "org": "Universite Paris Sud-XI"
+        },
+        {
+            "name": "Thomas Herault",
+            "id": "2798796973",
+            "org": "Universite Paris Sud-XI"
+        },
+        {
+            "name": "Gilles Fedak",
+            "id": "2751560220",
+            "org": "Universite Paris Sud-XI"
+        },
+        {
+            "name": "Franck Cappello",
+            "id": "1927643586",
+            "org": "Universite Paris Sud-XI"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Administrative domain",
+        "Mean time between failures",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Grid",
+        "Rollback",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1548320035",
+        "1923741182",
+        "2043877046",
+        "2046309377",
+        "2098740653",
+        "2100970777",
+        "2106753104",
+        "2131053137",
+        "2133287150",
+        "2166146590",
+        "2623488153"
+    ]
+}

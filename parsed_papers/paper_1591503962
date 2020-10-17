@@ -1,0 +1,39 @@
+{
+    "id": "1591503962",
+    "title": "Sliding Windows Succumbs to Big Mac Attack",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Colin D. Walter",
+            "id": "2170406325",
+            "org": "UMIST"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Blinding",
+        "Small number",
+        "Computer science",
+        "Distributed computing",
+        "Power analysis",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Key size",
+        "Plaintext"
+    ],
+    "references": [
+        "1511843316",
+        "1536508214",
+        "1565369953",
+        "1587481360",
+        "1601001795",
+        "1613874182",
+        "1657240689",
+        "1664808737",
+        "1996360405",
+        "2120608395",
+        "2148862943",
+        "2154909745"
+    ]
+}

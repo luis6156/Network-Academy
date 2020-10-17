@@ -1,0 +1,56 @@
+{
+    "id": "1557252148",
+    "title": "Countering Persistent Kernel Rootkits through Systematic Hook Discovery",
+    "venue": "recent advances in intrusion detection",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Zhi Wang",
+            "id": "2569141412",
+            "org": "North Carolina State University,#TAB#"
+        },
+        {
+            "name": "Xuxian Jiang",
+            "id": "2101920419",
+            "org": "North Carolina State University,#TAB#"
+        },
+        {
+            "name": "Weidong Cui",
+            "id": "2107517118",
+            "org": "Microsoft Research,#TAB#"
+        },
+        {
+            "name": "Xinyuan Wang",
+            "id": "2112836700",
+            "org": "George Mason University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Hypervisor",
+        "Rootkit",
+        "Software",
+        "Computer science",
+        "Hook",
+        "Computer security",
+        "Proof of concept",
+        "System call",
+        "Real-time computing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1112477",
+        "94181602",
+        "161166442",
+        "1522250664",
+        "1742385376",
+        "1829003931",
+        "1984248430",
+        "2029224396",
+        "2089560940",
+        "2101077503",
+        "2112731379",
+        "2146431583",
+        "2160510992"
+    ]
+}

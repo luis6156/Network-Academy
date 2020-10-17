@@ -1,0 +1,76 @@
+{
+    "id": "1726196700",
+    "title": "Comparison and Evaluation of Segmentation Techniques for Subcortical Structures in Brain MRI",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kolawole O. Babalola",
+            "id": "2223691168",
+            "org": "Division of Imaging Science and Biomedical Engineering (ISBE), University of Manchester, UK#TAB#"
+        },
+        {
+            "name": "Brian Patenaude",
+            "id": "2000576877",
+            "org": "FMRIB Centre, John Radcliffe Hospital, University of Oxford, UK OX3 9DU#TAB#"
+        },
+        {
+            "name": "Paul Aljabar",
+            "id": "1977871830",
+            "org": "Department of Computing, Imperial College London, , UK SW7 2BZ#TAB#"
+        },
+        {
+            "name": "Julia A. Schnabel",
+            "id": "2110742426",
+            "org": "Department of Engineering Science, University of Oxford, Oxford, UK OX1 3PJ#TAB#"
+        },
+        {
+            "name": "David N. Kennedy",
+            "id": "2165961942",
+            "org": "MGH/MIT/HMS Athinoula A. Martinos Center for Biomedical Imaging, Charlestown, USA MA 02129#TAB#"
+        },
+        {
+            "name": "William R. Crum",
+            "id": "2162477921",
+            "org": "Institute of Psychiatry, , London, UK SE5 8AF#TAB#"
+        },
+        {
+            "name": "Stephen M. Smith",
+            "id": "2160198784",
+            "org": "FMRIB Centre, John Radcliffe Hospital, University of Oxford, UK OX3 9DU#TAB#"
+        },
+        {
+            "name": "Timothy F. Cootes",
+            "id": "2141316474",
+            "org": "Division of Imaging Science and Biomedical Engineering (ISBE), University of Manchester, UK#TAB#"
+        },
+        {
+            "name": "Mark Jenkinson",
+            "id": "2151338116",
+            "org": "FMRIB Centre, John Radcliffe Hospital, University of Oxford, UK OX3 9DU#TAB#"
+        },
+        {
+            "name": "Daniel Rueckert",
+            "id": "2169057019",
+            "org": "Department of Computing, Imperial College London, , UK SW7 2BZ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active appearance model",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Brain atlas",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1517839093",
+        "1791261144",
+        "1875387157",
+        "2090653043",
+        "2101608218",
+        "2130686832"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1526124194",
+    "title": "Single table access using multiple indexes: optimization, execution, and concurrency control techniques",
+    "venue": "extending database technology",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "C. Mohan",
+            "id": "2411984561",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Donald J. Haderle",
+            "id": "2228853458",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Yun Wang",
+            "id": "2281878739",
+            "org": "IBM Santa Teresa Laboratory"
+        },
+        {
+            "name": "Josephine M. Cheng",
+            "id": "2146753901",
+            "org": "IBM Santa Teresa Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Data mining",
+        "Optimistic concurrency control",
+        "Database",
+        "Distributed concurrency control",
+        "Spite",
+        "Timestamp-based concurrency control",
+        "Query optimization",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "85898013",
+        "1501548698",
+        "1569583874",
+        "1581906976",
+        "1608665031",
+        "1825341804",
+        "1975433309",
+        "1976607278",
+        "1991199257",
+        "2012802704",
+        "2047908203",
+        "2095562348",
+        "2106887953",
+        "2153329411"
+    ]
+}

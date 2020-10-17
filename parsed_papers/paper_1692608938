@@ -1,0 +1,62 @@
+{
+    "id": "1692608938",
+    "title": "Optimization of dense matrix multiplication on IBM cyclops-64: challenges and experiences",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ziang Hu",
+            "id": "2134385938",
+            "org": "Department of Electrical and Computer Engineering, University of Delaware, Newark, Delaware, U.S.A.#TAB#"
+        },
+        {
+            "name": "Juan del Cuvillo",
+            "id": "2031751064",
+            "org": "Department of Electrical and Computer Engineering, University of Delaware, Newark, Delaware, U.S.A.#TAB#"
+        },
+        {
+            "name": "Weirong Zhu",
+            "id": "2122251991",
+            "org": "Department of Electrical and Computer Engineering, University of Delaware, Newark, Delaware, U.S.A.#TAB#"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "Department of Electrical and Computer Engineering, University of Delaware, Newark, Delaware, U.S.A.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Parallel computing",
+        "Memory hierarchy",
+        "Shared memory",
+        "Memory architecture",
+        "Computer science",
+        "Distributed computing",
+        "Memory bandwidth",
+        "System on a chip",
+        "CPU cache",
+        "Architecture"
+    ],
+    "references": [
+        "1494930385",
+        "1503700136",
+        "1513554765",
+        "2004976090",
+        "2008117760",
+        "2028914463",
+        "2038543880",
+        "2052934867",
+        "2059082469",
+        "2070922326",
+        "2080422774",
+        "2101462267",
+        "2112482891",
+        "2114491263",
+        "2117982462",
+        "2119609467",
+        "2122418911",
+        "2153691881",
+        "2244841219"
+    ]
+}

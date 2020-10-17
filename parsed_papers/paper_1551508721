@@ -1,0 +1,53 @@
+{
+    "id": "1551508721",
+    "title": "Towards end-to-end quality of service: controlling I/O interference in shared storage servers",
+    "venue": "acm ifip usenix international conference on middleware",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Gokul Soundararajan",
+            "id": "2305737780",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Cristiana Amza",
+            "id": "2107834659",
+            "org": "University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Resource allocation",
+        "Computer science",
+        "Client-server model",
+        "Server",
+        "Quality of service",
+        "File server",
+        "Database engine",
+        "Real-time computing",
+        "Server farm"
+    ],
+    "references": [
+        "54400829",
+        "1538558539",
+        "1569184546",
+        "1571043125",
+        "1574895192",
+        "1580054209",
+        "1992331625",
+        "1996676736",
+        "1998927861",
+        "2001500256",
+        "2081461624",
+        "2100892891",
+        "2111087562",
+        "2121542813",
+        "2121863487",
+        "2131726714",
+        "2138428327",
+        "2151795327",
+        "2156599987",
+        "2163012480",
+        "2171332387"
+    ]
+}

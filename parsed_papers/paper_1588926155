@@ -1,0 +1,52 @@
+{
+    "id": "1588926155",
+    "title": "Managing Security in Dynamic Networks",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Alexander V. Konstantinou",
+            "id": "2704523386",
+            "org": "Columbia University#TAB#"
+        },
+        {
+            "name": "Yechiam Yemini",
+            "id": "2278076677",
+            "org": "Columbia University#TAB#"
+        },
+        {
+            "name": "Sandeep N. Bhatt",
+            "id": "2778467312",
+            "org": "Telcordia Technologies [formerly Bellcore]#TAB#"
+        },
+        {
+            "name": "Sivaramakrishnan Rajagopalan",
+            "id": "2284609316",
+            "org": "Telcordia Technologies [formerly Bellcore]#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network element",
+        "Access control",
+        "Computer science",
+        "Scripting language",
+        "Dynamic Host Configuration Protocol",
+        "Security policy",
+        "Control reconfiguration",
+        "Virtual LAN",
+        "Computer network",
+        "Configuration management"
+    ],
+    "references": [
+        "50018512",
+        "1497448167",
+        "1519553749",
+        "1561750979",
+        "1885232648",
+        "1952098864",
+        "2097577798",
+        "2116707462",
+        "2126843975",
+        "2169196622"
+    ]
+}

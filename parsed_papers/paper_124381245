@@ -1,0 +1,55 @@
+{
+    "id": "124381245",
+    "title": "Quantifying Windows File Slack Size and Stability",
+    "venue": "international conference on digital forensics",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Martin Mulazzani",
+            "id": "2303735815",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Sebastian Neuner",
+            "id": "2304942492",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Peter Kieseberg",
+            "id": "180899930",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Markus Huber",
+            "id": "2123869012",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Sebastian Schrittwieser",
+            "id": "2015770213",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Edgar R. Weippl",
+            "id": "989270",
+            "org": "Vienna University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "Microsoft Windows",
+        "Computer science",
+        "Real-time computing",
+        "Partition alignment",
+        "Information hiding"
+    ],
+    "references": [
+        "169466422",
+        "1976389057",
+        "2019239374",
+        "2062345441",
+        "2074400425",
+        "2109921293",
+        "2152247885"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1528635791",
+    "title": "DBMS on modern storage hardware",
+    "venue": "international conference on data engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ilia Petrov",
+            "id": "2295015832",
+            "org": "Reutlingen University, Germany"
+        },
+        {
+            "name": "Robert Gottstein",
+            "id": "1865479656",
+            "org": "Technical University Darmstadt, Germany"
+        },
+        {
+            "name": "Sergej Hardock",
+            "id": "573755735",
+            "org": "Technical University Darmstadt, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Flash memory",
+        "Append",
+        "Computer science",
+        "RAID",
+        "Granularity",
+        "Search engine indexing",
+        "Flash file system",
+        "Database",
+        "Architecture",
+        "Database transaction"
+    ],
+    "references": [
+        "200639877",
+        "1613131791",
+        "1633637678",
+        "1975148716",
+        "1980603653",
+        "1982935918",
+        "2083544890",
+        "2106436364",
+        "2107663766",
+        "2130301020",
+        "2133671413",
+        "2165068957"
+    ]
+}

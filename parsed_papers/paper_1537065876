@@ -1,0 +1,68 @@
+{
+    "id": "1537065876",
+    "title": "Fast elliptic curve arithmetic and improved weil pairing evaluation",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kirsten Eisentrager",
+            "id": "119340740",
+            "org": "Department of Mathematics, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Kristin E. Lauter",
+            "id": "1987314855",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Peter L. Montgomery",
+            "id": "2045397799",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Side channel attack",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Elliptic curve",
+        "Scalar (physics)",
+        "Arithmetic",
+        "Weil pairing",
+        "Addition chain"
+    ],
+    "references": [
+        "189450844",
+        "199045578",
+        "1497183072",
+        "1516510761",
+        "1517614257",
+        "1521787982",
+        "1531102506",
+        "1539482743",
+        "1558378922",
+        "1565369953",
+        "1565378600",
+        "1591209990",
+        "1600315411",
+        "1603321026",
+        "1610688607",
+        "1637905077",
+        "1664808737",
+        "1838435525",
+        "1838876034",
+        "1996360405",
+        "2086042811",
+        "2099317248",
+        "2105374413",
+        "2115190247",
+        "2121017442",
+        "2137567577",
+        "2147594251",
+        "2152924492",
+        "2154909745",
+        "2155244510"
+    ]
+}

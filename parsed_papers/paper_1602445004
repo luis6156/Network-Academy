@@ -1,0 +1,68 @@
+{
+    "id": "1602445004",
+    "title": "SemTree: An index for supporting semantic retrieval of documents",
+    "venue": "international conference on data engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Flora Amato",
+            "id": "2118455619",
+            "org": "Dipartimento di Ingegneria Elettrica e Tecnologie dellInformazione, University of Naples \"Federico II\", via Claudio 21, 80125, Italy"
+        },
+        {
+            "name": "Aniello De Santo",
+            "id": "2151013422",
+            "org": "Dipartimento di Ingegneria Elettrica e Tecnologie dellInformazione, University of Naples \"Federico II\", via Claudio 21, 80125, Italy"
+        },
+        {
+            "name": "Francesco Gargiulo",
+            "id": "2295935091",
+            "org": "Dipartimento di Ingegneria Elettrica e Tecnologie dellInformazione, University of Naples \"Federico II\", via Claudio 21, 80125, Italy"
+        },
+        {
+            "name": "Vincenzo Moscato",
+            "id": "2059573711",
+            "org": "Dipartimento di Ingegneria Elettrica e Tecnologie dellInformazione, University of Naples \"Federico II\", via Claudio 21, 80125, Italy"
+        },
+        {
+            "name": "Fabio Persia",
+            "id": "1999990307",
+            "org": "Dipartimento di Ingegneria Elettrica e Tecnologie dellInformazione, University of Naples \"Federico II\", via Claudio 21, 80125, Italy"
+        },
+        {
+            "name": "Antonio Picariello",
+            "id": "2063259125",
+            "org": "Dipartimento di Ingegneria Elettrica e Tecnologie dellInformazione, University of Naples \"Federico II\", via Claudio 21, 80125, Italy"
+        },
+        {
+            "name": "Silvestro Roberto Poccia",
+            "id": "2222406764",
+            "org": "Dipartimento di Ingegneria Elettrica e Tecnologie dellInformazione, University of Naples \"Federico II\", via Claudio 21, 80125, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Semantics",
+        "Document clustering",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Explicit semantic analysis",
+        "Database",
+        "Software requirements",
+        "Information retrieval",
+        "RDF",
+        "Vector space model"
+    ],
+    "references": [
+        "1659833910",
+        "1993692165",
+        "2044105912",
+        "2071503531",
+        "2080870269",
+        "2109937690",
+        "2167081989",
+        "2402941701",
+        "2404780948"
+    ]
+}

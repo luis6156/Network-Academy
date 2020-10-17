@@ -1,0 +1,37 @@
+{
+    "id": "10195015",
+    "title": "A RANSAC-based approach to model fitting and its application to finding cylinders in range data",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Robert C. Bolles",
+            "id": "2421371604",
+            "org": "SRI Interational, Menlo Park, CA#TAB#"
+        },
+        {
+            "name": "Martin A. Fischler",
+            "id": "2100760765",
+            "org": "SRI Interational, Menlo Park, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "RANSAC",
+        "Observational error",
+        "Ellipse",
+        "Smoothing",
+        "Computation",
+        "Computer science",
+        "Cylinder (engine)",
+        "Arc (geometry)",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "186878922",
+        "1852924452",
+        "1953654329",
+        "2085261163",
+        "2122888449"
+    ]
+}

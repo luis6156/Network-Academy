@@ -1,0 +1,43 @@
+{
+    "id": "1517304607",
+    "title": "SKaMPI: A Detailed, Accurate MPI Benchmark",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ralf H. Reussner",
+            "id": "2065819799",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Peter Sanders",
+            "id": "2056122262",
+            "org": "Max-Planck Institute for Computer Science"
+        },
+        {
+            "name": "Lutz Prechelt",
+            "id": "328104153",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Matthias M. Muller",
+            "id": "2108878776",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Priority queue",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing",
+        "Network packet",
+        "Robustness (computer science)",
+        "Virtual machine"
+    ],
+    "references": [
+        "1528881642"
+    ]
+}

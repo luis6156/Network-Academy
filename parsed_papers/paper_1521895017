@@ -1,0 +1,54 @@
+{
+    "id": "1521895017",
+    "title": "Public key encryption schemes with bounded CCA security and optimal ciphertext length based on the CDH assumption",
+    "venue": "international conference on information security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mayana Pereira",
+            "id": "2344016840",
+            "org": "Department of Electrical Engeneering, University of Brasilia, Brasilia, DF, Brazil#TAB#"
+        },
+        {
+            "name": "Rafael Dowsley",
+            "id": "2070985240",
+            "org": "National Institute of Advanced Industrial Science and Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "National Institute of Advanced Industrial Science and Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Anderson C. A. Nascimento",
+            "id": "2122470293",
+            "org": "Department of Electrical Engeneering, University of Brasilia, Brasilia, DF, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Computational Diffie-Hellman assumption",
+        "Cramer-Shoup cryptosystem",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Ciphertext indistinguishability",
+        "56-bit encryption",
+        "Deterministic encryption",
+        "Attribute-based encryption",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1542889080",
+        "1549397354",
+        "1585474545",
+        "1589176872",
+        "2027528470",
+        "2067318305",
+        "2073210531",
+        "2101803085",
+        "2102697875",
+        "2146907493",
+        "2157679418"
+    ]
+}

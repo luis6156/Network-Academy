@@ -1,0 +1,77 @@
+{
+    "id": "1475719308",
+    "title": "Specifying crash safety for storage systems",
+    "venue": "hot topics in operating systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Haogang Chen",
+            "id": "2117466421",
+            "org": "MIT, CSAIL#TAB#"
+        },
+        {
+            "name": "Daniel Ziegler",
+            "id": "2311703592",
+            "org": "MIT, CSAIL#TAB#"
+        },
+        {
+            "name": "Adam Chlipala",
+            "id": "46689790",
+            "org": "MIT, CSAIL#TAB#"
+        },
+        {
+            "name": "M. Frans Kaashoek",
+            "id": "2779384724",
+            "org": "MIT, CSAIL#TAB#"
+        },
+        {
+            "name": "Eddie Kohler",
+            "id": "2114981089",
+            "org": "Harvard University#TAB#"
+        },
+        {
+            "name": "Nickolai Zeldovich",
+            "id": "1150986126",
+            "org": "MIT, CSAIL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Crash",
+        "Design choice",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Hoare logic",
+        "Correctness",
+        "System call",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "157238496",
+        "1412006679",
+        "1423003888",
+        "1434079718",
+        "1436494858",
+        "1436965661",
+        "1657896522",
+        "1975808766",
+        "1995626000",
+        "2023035194",
+        "2054075353",
+        "2090551028",
+        "2098959411",
+        "2101939036",
+        "2104670257",
+        "2111706174",
+        "2121405115",
+        "2130427425",
+        "2136310957",
+        "2137628566",
+        "2138555106",
+        "2141729404",
+        "2155216527",
+        "2167814583"
+    ]
+}

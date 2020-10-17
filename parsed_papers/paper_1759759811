@@ -1,0 +1,96 @@
+{
+    "id": "1759759811",
+    "title": "Universally composable password-based key exchange",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ran Canetti",
+            "id": "687553606",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Shai Halevi",
+            "id": "1686185850",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Dept. of Computer Science, University of Maryland, MD#TAB#"
+        },
+        {
+            "name": "Yehuda Lindell",
+            "id": "30238620",
+            "org": "Department of Computer Science, Bar-Ilan University, Israel#TAB#"
+        },
+        {
+            "name": "Philip D. MacKenzie",
+            "id": "2167787271",
+            "org": "Bell Labs, Lucent Technologies, Murray Hill, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "Cryptography",
+        "Theoretical computer science",
+        "Password policy",
+        "Key exchange",
+        "Computer science",
+        "Computer security",
+        "Key stretching",
+        "Password",
+        "One-time password",
+        "String (computer science)"
+    ],
+    "references": [
+        "190420314",
+        "203500824",
+        "1485497075",
+        "1499934958",
+        "1504280744",
+        "1504669610",
+        "1506423323",
+        "1516161674",
+        "1516512945",
+        "1528984509",
+        "1532874975",
+        "1542059364",
+        "1542255234",
+        "1555117193",
+        "1559498407",
+        "1561441787",
+        "1582232238",
+        "1589176872",
+        "1593558380",
+        "1598399750",
+        "1601218083",
+        "1601458649",
+        "1606635928",
+        "1611372029",
+        "1772901473",
+        "1949661937",
+        "1992506132",
+        "2003243054",
+        "2010507480",
+        "2043188413",
+        "2059808351",
+        "2069382570",
+        "2074861055",
+        "2083744087",
+        "2102632861",
+        "2103741267",
+        "2110804296",
+        "2119177715",
+        "2124926080",
+        "2130817593",
+        "2134475940",
+        "2134754504",
+        "2157604883",
+        "2159339434",
+        "2165111290",
+        "2167006959",
+        "2170220035",
+        "2405015683"
+    ]
+}

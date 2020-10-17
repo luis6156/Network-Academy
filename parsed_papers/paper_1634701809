@@ -1,0 +1,43 @@
+{
+    "id": "1634701809",
+    "title": "Stealing secrets with SSL/TLS and SSH - kleptographic attacks",
+    "venue": "cryptology and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Zbigniew Golebiewski",
+            "id": "2526745542",
+            "org": "Institute of Mathematics and Computer Science, Wroclaw University of Technology#TAB#"
+        },
+        {
+            "name": "Miroslaw Kutylowski",
+            "id": "181516391",
+            "org": "Institute of Mathematics and Computer Science, Wroclaw University of Technology#TAB#"
+        },
+        {
+            "name": "Filip Zagorski",
+            "id": "21958388",
+            "org": "Institute of Mathematics and Computer Science, Wroclaw University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Kleptography",
+        "Transport Layer Security",
+        "Computer science",
+        "Communication channel",
+        "Communication Analysis",
+        "Computer security"
+    ],
+    "references": [
+        "1483713801",
+        "1484363069",
+        "1499713421",
+        "1505760520",
+        "1526746996",
+        "1733713784",
+        "2129719496",
+        "2137739383",
+        "2156186849"
+    ]
+}

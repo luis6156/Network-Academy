@@ -1,0 +1,66 @@
+{
+    "id": "1510644311",
+    "title": "A practical optimal padding for signature schemes",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Haifeng Qian",
+            "id": "2106970787",
+            "org": "Computer Science & Technology Department, East China Normal University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Zhibin Li",
+            "id": "2244600582",
+            "org": "Computer Science & Technology Department, East China Normal University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Zhijie Chen",
+            "id": "2687917663",
+            "org": "Department of Mathematics, East China Normal University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Siman Yang",
+            "id": "2131907818",
+            "org": "Department of Mathematics, East China Normal University, Shanghai, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Block cipher mode of operation",
+        "Residual block termination",
+        "Stream cipher",
+        "CBC-MAC",
+        "Schnorr signature",
+        "Merkle signature scheme"
+    ],
+    "references": [
+        "1487958904",
+        "1490476950",
+        "1526736116",
+        "1526844866",
+        "1583972302",
+        "1599446772",
+        "1610688607",
+        "1805549252",
+        "1996360405",
+        "2002930326",
+        "2052267638",
+        "2117797270",
+        "2132022887",
+        "2135222307",
+        "2138992486",
+        "2151413173",
+        "2152688060",
+        "2158276883",
+        "2159047178",
+        "2162653919",
+        "2166462813",
+        "2251667637",
+        "2286477783",
+        "2610849871"
+    ]
+}

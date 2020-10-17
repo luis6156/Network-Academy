@@ -1,0 +1,51 @@
+{
+    "id": "1569469989",
+    "title": "On the Security of Randomized CBC-MAC Beyond the Birthday Paradox Limit: A New Construction",
+    "venue": "fast software encryption",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Eliane Jaulmes",
+            "id": "2260899514",
+            "org": "DCSSI Crypto Lab"
+        },
+        {
+            "name": "Antoine Joux",
+            "id": "2755216431",
+            "org": "DCSSI Crypto Lab"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "DCSSI Crypto Lab"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Ciphertext stealing",
+        "Algorithm",
+        "Birthday problem",
+        "Distributed computing",
+        "Triple DES",
+        "CBC-MAC",
+        "Message authentication code",
+        "Random oracle"
+    ],
+    "references": [
+        "1485474160",
+        "1533692520",
+        "1578627459",
+        "1908897196",
+        "1985623009",
+        "2022521688",
+        "2109450547",
+        "2122984309",
+        "2125591151",
+        "2131300413",
+        "2146009225",
+        "2167569963",
+        "2613962897"
+    ]
+}

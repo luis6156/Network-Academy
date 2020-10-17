@@ -1,0 +1,41 @@
+{
+    "id": "1567404383",
+    "title": "A memory model sensitive checker for c",
+    "venue": "formal methods",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Thuan Quang Huynh",
+            "id": "2047495550",
+            "org": "Department of Computer Science, National University of Singapore#TAB#"
+        },
+        {
+            "name": "Abhik Roychoudhury",
+            "id": "2153766775",
+            "org": "Department of Computer Science, National University of Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Memory barrier",
+        "Parallel computing",
+        "Sequential consistency",
+        "Computer science",
+        "Concurrent computing",
+        "Memory model",
+        "Concurrency",
+        "Model checking",
+        "Consistency model",
+        "Programming language"
+    ],
+    "references": [
+        "1510520642",
+        "1545792627",
+        "1569204390",
+        "1586063751",
+        "1999637392",
+        "2054739713",
+        "2091085450",
+        "2121217300"
+    ]
+}

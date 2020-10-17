@@ -1,0 +1,51 @@
+{
+    "id": "1480180755",
+    "title": "Pastis: a highly-scalable multi-user peer-to-peer file system",
+    "venue": "european conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jean-Michel Busca",
+            "id": "2797544197",
+            "org": "INRIA Rocquencourt, Le Chesnay, France#TAB#"
+        },
+        {
+            "name": "Fabio Picconi",
+            "id": "1963980519",
+            "org": "LIP6, Universite Paris 6 - CNRS, Paris, France#TAB#"
+        },
+        {
+            "name": "Pierre Sens",
+            "id": "2691525748",
+            "org": "LIP6, Universite Paris 6 - CNRS, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Peer-to-peer",
+        "Computer science",
+        "Multi-user",
+        "File sharing",
+        "Block (data storage)",
+        "Distributed computing",
+        "Distributed hash table",
+        "Database",
+        "File system",
+        "Consistency model"
+    ],
+    "references": [
+        "66643683",
+        "1984674591",
+        "2000876023",
+        "2005373714",
+        "2071958655",
+        "2104210894",
+        "2118828464",
+        "2121133177",
+        "2123820820",
+        "2126087831",
+        "2150676586",
+        "2167898414",
+        "2174507869"
+    ]
+}

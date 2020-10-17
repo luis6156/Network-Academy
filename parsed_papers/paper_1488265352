@@ -1,0 +1,41 @@
+{
+    "id": "1488265352",
+    "title": "Blind signatures based on the discrete logarithm problem",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jan Camenisch",
+            "id": "2893335945",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Jean-Marc Piveteau",
+            "id": "2015713106",
+            "org": "Union Bank of Switzerland"
+        },
+        {
+            "name": "Markus Stadler",
+            "id": "2042629587",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Mathematics",
+        "Blind signature",
+        "Theoretical computer science",
+        "Discrete logarithm",
+        "Discrete mathematics",
+        "Anonymity",
+        "Smart card"
+    ],
+    "references": [
+        "1521562196",
+        "1594128832",
+        "1963578159",
+        "1996360405",
+        "2010553858",
+        "2153193245"
+    ]
+}

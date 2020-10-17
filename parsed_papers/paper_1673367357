@@ -1,0 +1,48 @@
+{
+    "id": "1673367357",
+    "title": "Cache Side-Channel Attack to Recover Plaintext against Datagram TLS",
+    "venue": "international conference on it convergence and security, icitcs",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ye Tang",
+            "id": "2310164436",
+            "org": "Shenzhen Inst. of Adv. Technol., Shenzhen, China"
+        },
+        {
+            "name": "Huiyun Li",
+            "id": "2664985913",
+            "org": "Shenzhen Inst. of Adv. Technol., Shenzhen, China"
+        },
+        {
+            "name": "Guoqing Xu",
+            "id": "2655148773",
+            "org": "Shenzhen Inst. of Adv. Technol., Shenzhen, China"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Padding oracle attack",
+        "Computer science",
+        "Datagram Transport Layer Security",
+        "UDP flood attack",
+        "Computer network",
+        "Timing attack",
+        "Chosen-ciphertext attack",
+        "Plaintext"
+    ],
+    "references": [
+        "1427174644",
+        "1533182289",
+        "1558317064",
+        "2001759130",
+        "2109256061",
+        "2114965623",
+        "2119028650",
+        "2159520802",
+        "2159840470",
+        "2301760163",
+        "2407537758"
+    ]
+}

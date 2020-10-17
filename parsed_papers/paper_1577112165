@@ -1,0 +1,57 @@
+{
+    "id": "1577112165",
+    "title": "An Effective SPARQL Support over Relational Databases",
+    "venue": "Semantic Web, Ontologies and Databases",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jing Lu",
+            "id": "2583663094",
+            "org": "Shanghai Jiao Tong University, Shanghai, China 200030 and IBM China Research Laboratory, Beijing, China 100094#TAB#"
+        },
+        {
+            "name": "Feng Cao",
+            "id": "2428634916",
+            "org": "IBM China Research Laboratory, Beijing, China 100094#TAB#"
+        },
+        {
+            "name": "Li Ma",
+            "id": "2567043615",
+            "org": "IBM China Research Laboratory, Beijing, China 100094#TAB#"
+        },
+        {
+            "name": "Yong Yu",
+            "id": "2119244895",
+            "org": "Shanghai Jiao Tong University, Shanghai, China 200030#TAB#"
+        },
+        {
+            "name": "Yue Pan",
+            "id": "2127638357",
+            "org": "IBM China Research Laboratory, Beijing, China 100094#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Named graph",
+        "Computer science",
+        "Data mining",
+        "RDF query language",
+        "Spatial query",
+        "Query by Example",
+        "Database",
+        "RDF Schema",
+        "SPARQL",
+        "SQL",
+        "Sargable"
+    ],
+    "references": [
+        "139336485",
+        "1504439773",
+        "1560159331",
+        "1603311785",
+        "1812636409",
+        "1847745151",
+        "2125685488",
+        "2131785201",
+        "2590474552"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1491384312",
+    "title": "Integer factorization by a parallel GNFS algorithm for public key cryptosystems",
+    "venue": "international conference on embedded software and systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Laurence T. Yang",
+            "id": "2145586806",
+            "org": "Department of Computer Science, St. Francis Xavier University, Antigonish, NS, Canada#TAB#"
+        },
+        {
+            "name": "Li Xu",
+            "id": "2541395600",
+            "org": "Department of Computer Science, St. Francis Xavier University, Antigonish, NS, Canada#TAB#"
+        },
+        {
+            "name": "Man Lin",
+            "id": "2166708166",
+            "org": "Department of Computer Science, St. Francis Xavier University, Antigonish, NS, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Integer",
+        "Algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "General number field sieve",
+        "Elliptic curve cryptography",
+        "Cryptosystem",
+        "Parallel algorithm",
+        "Public-key cryptography",
+        "Integer factorization",
+        "Quadratic sieve"
+    ],
+    "references": [
+        "1512680026",
+        "1754939103",
+        "1996360405",
+        "2142778315"
+    ]
+}

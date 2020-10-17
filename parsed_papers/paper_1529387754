@@ -1,0 +1,53 @@
+{
+    "id": "1529387754",
+    "title": "Speculative Clustered Caches for Clustered Processors",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dana S. Henry",
+            "id": "2098123135",
+            "org": "Department of Electrical Engineering, Yale University, USA#TAB#"
+        },
+        {
+            "name": "Gabriel H. Loh",
+            "id": "2892641391",
+            "org": "Department of Computer Science, Yale University, New Haven, USA 06520#TAB#"
+        },
+        {
+            "name": "Rahul Sami",
+            "id": "2805918051",
+            "org": "Department of Computer Science, Yale University, New Haven, USA 06520#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "Snoopy cache",
+        "Distributed computing",
+        "Pipeline burst cache",
+        "Cache pollution",
+        "Real-time computing"
+    ],
+    "references": [
+        "1525227808",
+        "2029171059",
+        "2032094184",
+        "2100021878",
+        "2101084218",
+        "2109054996",
+        "2109262733",
+        "2123015889",
+        "2138351227",
+        "2140200206",
+        "2161864047",
+        "2165423885",
+        "2294451725",
+        "2296006986"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1602905584",
+    "title": "A timing attack against the secret permutation in the mceliece PKC",
+    "venue": "PQCrypto'10 Proceedings of the Third international conference on Post-Quantum Cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Falko Strenzke",
+            "id": "2654084954",
+            "org": "FlexSecure GmbH, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Mathematics",
+        "Pre-play attack",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Power analysis",
+        "McEliece cryptosystem",
+        "Timing attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1506139516",
+        "1549171111",
+        "1579684562",
+        "1594742286",
+        "1664808737",
+        "1996360405",
+        "2001123117",
+        "2003736153",
+        "2095890461",
+        "2135205181",
+        "2136772235",
+        "2137147061",
+        "2149636648",
+        "2154909745",
+        "2156186849",
+        "2166362740",
+        "2168676717"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1563001590",
+    "title": "An Implementation of Bitsliced DES on the Pentium MMXTM Processor",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Lauren May",
+            "id": "2131092143",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Lyta Penna",
+            "id": "2115634877",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Andrew J. Clark",
+            "id": "2152482024",
+            "org": "Queensland University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Software development",
+        "Cycles per instruction",
+        "Computer architecture",
+        "Assembly language",
+        "Computer science",
+        "MMX",
+        "Pentium",
+        "Operating system"
+    ],
+    "references": [
+        "89161022",
+        "1503267625",
+        "1548516269",
+        "1792236423"
+    ]
+}

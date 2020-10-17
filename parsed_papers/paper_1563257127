@@ -1,0 +1,43 @@
+{
+    "id": "1563257127",
+    "title": "A new framework for computing Grobner bases",
+    "venue": "Mathematics of Computation",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Shuhong Gao",
+            "id": "2188705904",
+            "org": "Department of Mathematical Sciences, Clemson University, Clemson, South Carolina 29634-0975"
+        },
+        {
+            "name": "Frank Volny",
+            "id": "159983730",
+            "org": "Department of Mathematical Sciences, Clemson University, Clemson, South Carolina 29634-0975"
+        },
+        {
+            "name": "Mingsheng Wang",
+            "id": "2720901830",
+            "org": "Information Security Lab, Institute of Information Engineering, Chinese Academy of Sciences, Beijing 100190, People's Republic of China"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Buchberger's algorithm",
+        "Grobner basis",
+        "Faugere's F4 and F5 algorithms",
+        "Discrete mathematics"
+    ],
+    "references": [
+        "1481997196",
+        "1576188537",
+        "1583871653",
+        "1989653154",
+        "1993995116",
+        "2054143903",
+        "2058865345",
+        "2079751279",
+        "2098942149",
+        "2099172492"
+    ]
+}

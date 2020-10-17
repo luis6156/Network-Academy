@@ -1,0 +1,43 @@
+{
+    "id": "1592924974",
+    "title": "Deterministic, Constant Space, Self-Stabilizing Leader Election on Uniform Rings",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Gene Itkis",
+            "id": "570249712",
+            "org": "Technion"
+        },
+        {
+            "name": "Chengdian Lin",
+            "id": "2141381872",
+            "org": "University of Chicago"
+        },
+        {
+            "name": "Janos Simon",
+            "id": "2115957428",
+            "org": "University of Chicago"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Clockwise",
+        "Composite number",
+        "Distributed computing",
+        "Prime (order theory)",
+        "Finite-state machine",
+        "Fault tolerance",
+        "Leader election"
+    ],
+    "references": [
+        "1970096085",
+        "1992996044",
+        "2010875998",
+        "2026546364",
+        "2028772596",
+        "2044696477",
+        "2099633481",
+        "2111132249"
+    ]
+}

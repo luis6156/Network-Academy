@@ -1,0 +1,44 @@
+{
+    "id": "1535782201",
+    "title": "Brief announcement: dynamic FTSS in asynchronous systems: the case of unison",
+    "venue": "international symposium on distributed computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Swan Dubois",
+            "id": "2125905918",
+            "org": "LIP6, UMR, Universite Pierre et Marie Curie, Paris6 and INRIA#TAB#"
+        },
+        {
+            "name": "Maria Potop-Butucaru",
+            "id": "2083925789",
+            "org": "LIP6, UMR, Universite Pierre et Marie Curie, Paris6 and INRIA#TAB#"
+        },
+        {
+            "name": "Sebastien Tixeuil",
+            "id": "2781472777",
+            "org": "LIP6, UMR, Universite Pierre et Marie Curie, Paris6 and INRIA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Crash",
+        "Fixed point",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Convergence (routing)",
+        "Asynchronous system",
+        "Synchronization",
+        "Memory corruption",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "53615003",
+        "1512611678",
+        "1981758545",
+        "2035362408",
+        "2055941918",
+        "2111132249"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1510476294",
+    "title": "Meet-in-the-middle attack on digital signature schemes",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        },
+        {
+            "name": "Kenji Koyama",
+            "id": "2143259014",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "KCDSA",
+        "Theoretical computer science",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "EdDSA",
+        "Schnorr signature",
+        "Real-time computing",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1541421768",
+        "1581114570",
+        "1991374982",
+        "1994995146",
+        "1996360405",
+        "2134518741",
+        "2155099317",
+        "2156186849"
+    ]
+}

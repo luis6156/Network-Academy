@@ -1,0 +1,47 @@
+{
+    "id": "1513366578",
+    "title": "BPLRU: a buffer management scheme for improving random writes in flash storage",
+    "venue": "file and storage technologies",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hyojun Kim",
+            "id": "2138132782",
+            "org": "Software Laboratory of Samsung Electronics, Korea#TAB#"
+        },
+        {
+            "name": "Seongjun Ahn",
+            "id": "2487425809",
+            "org": "Software Laboratory of Samsung Electronics, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile device",
+        "Computer hardware",
+        "Cache algorithms",
+        "Parallel computing",
+        "Write combining",
+        "Flash memory",
+        "Computer science",
+        "Padding",
+        "Write buffer",
+        "Flash file system",
+        "Exploit",
+        "Real-time computing"
+    ],
+    "references": [
+        "1486947867",
+        "1541038956",
+        "1574377256",
+        "1860107648",
+        "2006803879",
+        "2038619757",
+        "2056515386",
+        "2072853307",
+        "2106117073",
+        "2108183412",
+        "2114828666",
+        "2119678569",
+        "2150958198"
+    ]
+}

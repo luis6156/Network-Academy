@@ -1,0 +1,48 @@
+{
+    "id": "1506482163",
+    "title": "A self-stabilizing link-coloring protocol resilient to unbounded byzantine faults in arbitrary networks",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Toshimitsu Masuzawa",
+            "id": "2075504009",
+            "org": "Osaka University, Japan#TAB#"
+        },
+        {
+            "name": "Sebastien Tixeuil",
+            "id": "2781472777",
+            "org": "LRI-CNRS UMR 8623 & INRIA Grand Large, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Daemon",
+        "Transient response",
+        "Computer science",
+        "Distributed computing",
+        "Self-stabilization",
+        "Byzantine fault tolerance",
+        "Degree (graph theory)",
+        "Spite",
+        "Quantum Byzantine agreement",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "61861843",
+        "1486290681",
+        "1512611678",
+        "1530145911",
+        "1543193821",
+        "1635470144",
+        "1905972793",
+        "1981758545",
+        "2036135294",
+        "2044573924",
+        "2046563089",
+        "2064536265",
+        "2069413879",
+        "2111132249",
+        "2340995113"
+    ]
+}

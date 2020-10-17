@@ -1,0 +1,50 @@
+{
+    "id": "1577294232",
+    "title": "Investigations on InfiniBand: efficient network buffer utilization at scale",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Galen M. Shipman",
+            "id": "2074390756",
+            "org": "Los Alamos National Laboratory, Los Alamos, NM#TAB#"
+        },
+        {
+            "name": "Ron Brightwell",
+            "id": "2141506386",
+            "org": "Sandia National Laboratories, Albuquerque, NM#TAB#"
+        },
+        {
+            "name": "Brian Barrett",
+            "id": "2810786813",
+            "org": "Los Alamos National Laboratory, Los Alamos, NM#TAB#"
+        },
+        {
+            "name": "Jeffrey M. Squyres",
+            "id": "169428505",
+            "org": "Cisco, Inc., San Jose, CA#TAB#"
+        },
+        {
+            "name": "Gil Bloch",
+            "id": "2122089692",
+            "org": "Mellanox Technologies, Santa Clara, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Global network",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Registered memory",
+        "Free list"
+    ],
+    "references": [
+        "1554413585",
+        "2114262241",
+        "2119126991",
+        "2141107779",
+        "2151526088",
+        "2167890759"
+    ]
+}

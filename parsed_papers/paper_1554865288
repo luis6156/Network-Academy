@@ -1,0 +1,50 @@
+{
+    "id": "1554865288",
+    "title": "Distinguisher and Related-Key Attack on the Full AES-256",
+    "venue": "international cryptology conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxembourg,#TAB#"
+        },
+        {
+            "name": "Dmitry Khovratovich",
+            "id": "717857179",
+            "org": "University of Luxembourg,#TAB#"
+        },
+        {
+            "name": "Ivica Nikolic",
+            "id": "2157574998",
+            "org": "University of Luxembourg,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Rebound attack",
+        "Block size",
+        "Theoretical computer science",
+        "Cipher",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Related-key attack",
+        "Provable security"
+    ],
+    "references": [
+        "81015123",
+        "1515958737",
+        "1544498556",
+        "1556212265",
+        "1568817903",
+        "1569469989",
+        "1583969855",
+        "1587120902",
+        "1826962815",
+        "1863270349",
+        "1871494460",
+        "2040877282",
+        "2079364662",
+        "2152688060"
+    ]
+}

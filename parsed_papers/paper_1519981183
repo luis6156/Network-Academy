@@ -1,0 +1,81 @@
+{
+    "id": "1519981183",
+    "title": "Verifying heap-manipulating programs in an SMT framework",
+    "venue": "automated technology for verification and analysis",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Zvonimir Rakamaric",
+            "id": "326559460",
+            "org": "Department of Computer Science, University of British Columbia, Canada#TAB#"
+        },
+        {
+            "name": "Roberto Bruttomesso",
+            "id": "1918427700",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alan J. Hu",
+            "id": "2001625928",
+            "org": "Department of Computer Science, University of British Columbia, Canada#TAB#"
+        },
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Predicate abstraction",
+        "Boolean satisfiability problem",
+        "Theoretical computer science",
+        "Software",
+        "Computer science",
+        "Reachability",
+        "Heap (data structure)",
+        "Data structure",
+        "Satisfiability modulo theories",
+        "Software verification"
+    ],
+    "references": [
+        "101497066",
+        "1485718948",
+        "1497571013",
+        "1508466043",
+        "1515930456",
+        "1533299090",
+        "1538691881",
+        "1552505815",
+        "1557880268",
+        "1578097867",
+        "1585486594",
+        "1591856965",
+        "1606540187",
+        "1774864661",
+        "1830693712",
+        "1851346840",
+        "1987469449",
+        "1988441831",
+        "1993836075",
+        "2030101147",
+        "2032767692",
+        "2043876870",
+        "2055477538",
+        "2105588192",
+        "2109337044",
+        "2114037873",
+        "2114241070",
+        "2123828382",
+        "2126626789",
+        "2147121279",
+        "2147832077",
+        "2162284942",
+        "2164778826",
+        "2168441850",
+        "2172166433",
+        "2276124093",
+        "2295903414",
+        "2484332895",
+        "2524085643"
+    ]
+}

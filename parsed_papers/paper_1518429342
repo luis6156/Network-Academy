@@ -1,0 +1,35 @@
+{
+    "id": "1518429342",
+    "title": "ParaLEX: a parallel extension for the CPLEX mixed integer optimizer",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yuji Shinano",
+            "id": "2432602462",
+            "org": "Division of Systems and Information Technology, Institute of Symbiotic Science and Technology, Tokyo University of Agriculture and Technology, Koganei-Shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Tetsuya Fujie",
+            "id": "2171009303",
+            "org": "School of Business Administration, University of Hyogo, Kobe, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Parallel computing",
+        "Integer",
+        "Integer programming",
+        "Computer science",
+        "Branch and price",
+        "Computer experiment",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1493274197",
+        "1518911419",
+        "2140007372",
+        "2147609091"
+    ]
+}

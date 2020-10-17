@@ -1,0 +1,52 @@
+{
+    "id": "1502602891",
+    "title": "Timing analysis of interrupt-driven programs under context bounds",
+    "venue": "formal methods in computer-aided design",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jonathan Kotker",
+            "id": "2081808591",
+            "org": "EECS Department, UC Berkeley"
+        },
+        {
+            "name": "Dorsa Sadigh",
+            "id": "1048081354",
+            "org": "EECS Department, UC Berkeley"
+        },
+        {
+            "name": "Sanjit A. Seshia",
+            "id": "260128524",
+            "org": "EECS Department, UC Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Interrupt",
+        "Context switch",
+        "Software",
+        "Empirical evidence",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Systems analysis",
+        "Static timing analysis",
+        "Real-time computing"
+    ],
+    "references": [
+        "1481397690",
+        "1493367105",
+        "1519361875",
+        "1554834491",
+        "1977708885",
+        "2018161659",
+        "2061291692",
+        "2076285066",
+        "2087046173",
+        "2102298287",
+        "2109172715",
+        "2126510393",
+        "2128453996",
+        "2154569078",
+        "2155198478"
+    ]
+}

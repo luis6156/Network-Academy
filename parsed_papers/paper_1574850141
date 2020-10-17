@@ -1,0 +1,38 @@
+{
+    "id": "1574850141",
+    "title": "Using induction and BDDs to model check invariants",
+    "venue": "Proceedings of the IFIP WG 10.5 International Conference on Correct Hardware Design and Verification Methods: Advances in Hardware Design and Verification",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "David Deharbe",
+            "id": "2093130377",
+            "org": "UFRN -- DIMAp, Universidade Federal do Rio Grande do Norte"
+        },
+        {
+            "name": "Anamaria Martins Moreira",
+            "id": "2129245147",
+            "org": "UFRN -- DIMAp, Universidade Federal do Rio Grande do Norte"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Discrete mathematics",
+        "CTL*",
+        "Transition system",
+        "Symbolic trajectory evaluation",
+        "Kripke structure",
+        "Model checking",
+        "Computation tree logic",
+        "Abstraction model checking",
+        "Partial order reduction"
+    ],
+    "references": [
+        "1593428110",
+        "2080267935",
+        "2117189826",
+        "2151056896",
+        "2157127957"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1472390841",
+    "title": "MPI Thread-Level Checking for MPI+OpenMP Applications",
+    "venue": "european conference on parallel processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Emmanuelle Saillard",
+            "id": "2090188995",
+            "org": "CEA, DAM, DIF"
+        },
+        {
+            "name": "Patrick Carribault",
+            "id": "2291359811",
+            "org": "CEA, DAM, DIF"
+        },
+        {
+            "name": "Denis Barthou",
+            "id": "2294530855",
+            "org": "Bordeaux Institute of Technology, LaBRI / INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "SPMD",
+        "Parallel programming model",
+        "Distributed computing",
+        "Computer science",
+        "Message Passing Interface",
+        "Plug-in",
+        "Interoperability",
+        "Debugging"
+    ],
+    "references": [
+        "1552387776",
+        "1564425542",
+        "1868299092",
+        "1963882433",
+        "1987895727",
+        "2023728230",
+        "2069501221",
+        "2075250402",
+        "2084779424",
+        "2113918640",
+        "2139712615",
+        "2146412016",
+        "2156588754",
+        "2160611910",
+        "2161957670",
+        "2303756261"
+    ]
+}

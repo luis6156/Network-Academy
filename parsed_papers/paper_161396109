@@ -1,0 +1,66 @@
+{
+    "id": "161396109",
+    "title": "Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System",
+    "venue": "Distributed and Parallel Databases",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kun Lung Wu",
+            "id": "2860758814",
+            "org": "IBM T. J. Watson Research Center, P.O. Box 704, Yorktown Heights, NY 10598, USA. klwu@watson.ibm.com#TAB#"
+        },
+        {
+            "name": "Philip S. Yu",
+            "id": "2125104194",
+            "org": "IBM T. J. Watson Research Center, P.O. Box 704, Yorktown Heights, NY 10598, USA#TAB#"
+        },
+        {
+            "name": "Jen Yao Chung",
+            "id": "2779384599",
+            "org": "IBM T. J. Watson Research Center, P.O. Box 704, Yorktown Heights, NY 10598, USA#TAB#"
+        },
+        {
+            "name": "James Zu-chia Teng",
+            "id": "2139556000",
+            "org": "IBM Programming Systems, P.O. Box 49023, San Jose, CA 95161, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Response time",
+        "Data striping",
+        "Merge sort",
+        "Computer science",
+        "Distributed computing",
+        "Logical partition",
+        "Multiprocessing",
+        "Workload",
+        "Database",
+        "Real-time computing"
+    ],
+    "references": [
+        "1520815598",
+        "1568617491",
+        "1583865258",
+        "1599413807",
+        "1975577269",
+        "2020040909",
+        "2029849129",
+        "2037807795",
+        "2038142281",
+        "2040823248",
+        "2057176147",
+        "2083113964",
+        "2088590034",
+        "2095562348",
+        "2096428277",
+        "2107358291",
+        "2124170481",
+        "2133078257",
+        "2147504831",
+        "2159209233",
+        "2160847577",
+        "2163910189",
+        "2296226841"
+    ]
+}

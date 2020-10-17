@@ -1,0 +1,39 @@
+{
+    "id": "1756027381",
+    "title": "Towards an Efficient Process Placement Policy for MPI Applications in Multicore Environments",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Guillaume Mercier",
+            "id": "2776359565",
+            "org": "Universite de Bordeaux - INRIA - LaBRI, Talence cedex F-33405#TAB#"
+        },
+        {
+            "name": "Jerome Clet-Ortega",
+            "id": "34676858",
+            "org": "Universite de Bordeaux - INRIA - LaBRI, Talence cedex F-33405#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Message passing",
+        "Performance improvement",
+        "Architecture"
+    ],
+    "references": [
+        "1657789554",
+        "1825216778",
+        "1969215126",
+        "2083655751",
+        "2111364199",
+        "2131239319",
+        "2138782497"
+    ]
+}

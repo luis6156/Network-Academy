@@ -1,0 +1,54 @@
+{
+    "id": "102701264",
+    "title": "Design and Implementation of Dynamic Process Management for Grid-Enabled MPICH",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sang-Bum Kim",
+            "id": "2388699847",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Namyoon Woo",
+            "id": "2147407417",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Heon Young Yeom",
+            "id": "2073048984",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Taesoon Park",
+            "id": "2149390175",
+            "org": "Sejong University"
+        },
+        {
+            "name": "Hyoungwoo Park",
+            "id": "2115760192",
+            "org": "KISTI"
+        }
+    ],
+    "fields_of_study": [
+        "Process management",
+        "MPICH",
+        "Computer science",
+        "Distributed computing",
+        "Physical address",
+        "Communication channel",
+        "Implementation",
+        "Grid",
+        "Callback",
+        "Message passing",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1576341769",
+        "1596554096",
+        "1969215126",
+        "2002452469",
+        "2123669573"
+    ]
+}

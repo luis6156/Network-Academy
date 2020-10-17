@@ -1,0 +1,56 @@
+{
+    "id": "1523099545",
+    "title": "Software Implementation of the NIST Elliptic Curves Over Prime Fields",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Michael Brown",
+            "id": "2113257544",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Darrel Hankerson",
+            "id": "2038237781",
+            "org": "Auburn University"
+        },
+        {
+            "name": "Julio Lopez",
+            "id": "2134179577",
+            "org": "University of Valle"
+        },
+        {
+            "name": "Alfred Menezes",
+            "id": "2165548239",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "NIST",
+        "Computer science",
+        "Binary number",
+        "Prime (order theory)",
+        "Elliptic curve cryptography",
+        "Pentium",
+        "Elliptic curve",
+        "Workstation"
+    ],
+    "references": [
+        "1521787982",
+        "1539482743",
+        "1546781418",
+        "1563272506",
+        "1575893707",
+        "1584579923",
+        "1584722274",
+        "1660562555",
+        "2003736153",
+        "2108558890",
+        "2108834246",
+        "2115190247",
+        "2145428071",
+        "2613496446"
+    ]
+}

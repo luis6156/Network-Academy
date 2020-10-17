@@ -1,0 +1,58 @@
+{
+    "id": "1547723203",
+    "title": "Differential-Linear Type Attacks on Reduced Rounds of SHACAL-2",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yongsup Shin",
+            "id": "2408290600",
+            "org": "Ministry of Information and Communications(MIC)"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Korea University"
+        },
+        {
+            "name": "Guil Kim",
+            "id": "2316960430",
+            "org": "Korea University"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Korea University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "SHACAL",
+        "Block cipher",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Related-key attack",
+        "Slide attack",
+        "Triple DES",
+        "Stream cipher attack",
+        "MDC-2"
+    ],
+    "references": [
+        "1481366493",
+        "1524407627",
+        "1527545029",
+        "1530646519",
+        "1565173996",
+        "1598870173",
+        "1829558115",
+        "1964723977",
+        "2091612798",
+        "2109265351"
+    ]
+}

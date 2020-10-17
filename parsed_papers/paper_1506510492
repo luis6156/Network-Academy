@@ -1,0 +1,53 @@
+{
+    "id": "1506510492",
+    "title": "Dynamic test generation to find integer bugs in x86 binary linux programs",
+    "venue": "usenix security symposium",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "David Molnar",
+            "id": "2001305480",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Xue Cong Li",
+            "id": "2321289747",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "UC Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Root cause",
+        "Test case",
+        "Software",
+        "Fuzz testing",
+        "Computer science",
+        "Symbolic execution",
+        "Computer security",
+        "Integer overflow",
+        "Real-time computing",
+        "Bebugging",
+        "Dynamic testing"
+    ],
+    "references": [
+        "127238549",
+        "145355838",
+        "157156687",
+        "1536898727",
+        "1565952674",
+        "1710734607",
+        "2000181257",
+        "2002934700",
+        "2096449544",
+        "2100583963",
+        "2107445402",
+        "2123129867",
+        "2129487583",
+        "2132897303",
+        "2156858199"
+    ]
+}

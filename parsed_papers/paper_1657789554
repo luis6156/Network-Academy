@@ -1,0 +1,45 @@
+{
+    "id": "1657789554",
+    "title": "Building portable thread schedulers for hierarchical multiprocessors: the bubblesched framework",
+    "venue": "european conference on parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Samuel Thibault",
+            "id": "2085880144",
+            "org": "INRIA Futurs, LaBRI, Talence cedex, France#TAB#"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "INRIA Futurs, LaBRI, Talence cedex, France#TAB#"
+        },
+        {
+            "name": "Pierre-Andre Wacrenier",
+            "id": "1234376516",
+            "org": "INRIA Futurs, LaBRI, Talence cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Round-robin scheduling",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Multiprocessing",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Computer cluster",
+        "Architecture",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1534037014",
+        "1583920484",
+        "1606304418",
+        "1991707635",
+        "2081597309",
+        "2127861782"
+    ]
+}

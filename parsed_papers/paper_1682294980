@@ -1,0 +1,49 @@
+{
+    "id": "1682294980",
+    "title": "A Deductive Database for Mathematical Formulas",
+    "venue": "international symposium on design and implementation of symbolic computation systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Stephane Dalmas",
+            "id": "2481227322",
+            "org": "INRIA Sophia Antipolis, projet SAFIR"
+        },
+        {
+            "name": "Marc Gaetano",
+            "id": "2420219936",
+            "org": "Universite de Nice-Sophia-Antipolis, I3S, projet SAFIR"
+        },
+        {
+            "name": "Claude Huchet",
+            "id": "2646418110",
+            "org": "Universite de Nice-Sophia-Antipolis, I3S, projet SAFIR"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Symbolic computation",
+        "Computer science",
+        "Client-server model",
+        "Query language",
+        "Lemma (mathematics)",
+        "Deductive database",
+        "Unification",
+        "Horn clause",
+        "Automated theorem proving",
+        "Programming language"
+    ],
+    "references": [
+        "1519900778",
+        "1522489781",
+        "1542420363",
+        "2013994275",
+        "2024730457",
+        "2056737359",
+        "2074679569",
+        "2082569732",
+        "2114177167",
+        "2132239740",
+        "2167838416"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1499143161",
+    "title": "Finding fixed points in finite lattices",
+    "venue": "international conference on functional programming",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Chris Martin",
+            "id": "2192131177",
+            "org": "Imperial College of Science and Technology, London, UK#TAB#"
+        },
+        {
+            "name": "Chris Hankin",
+            "id": "2655212443",
+            "org": "Imperial College of Science and Technology, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Theoretical computer science",
+        "Program analysis",
+        "Lattice (order)",
+        "Computer science",
+        "Compile time",
+        "Fixed point",
+        "Abstract interpretation",
+        "Strictness analysis",
+        "Least fixed point"
+    ],
+    "references": [
+        "1855771754",
+        "1924152497",
+        "2160453029",
+        "2293206574"
+    ]
+}

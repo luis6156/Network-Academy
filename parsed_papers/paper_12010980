@@ -1,0 +1,39 @@
+{
+    "id": "12010980",
+    "title": "A Real-World Analysis of Kerberos Password Security.",
+    "venue": "network and distributed system security symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Thomas D. Wu",
+            "id": "2100418737",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Challenge-response authentication",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Kerberos",
+        "Kerberized Internet Negotiation of Keys",
+        "Password strength",
+        "Computer science",
+        "Computer security",
+        "Generic Security Service Algorithm for Secret Key Transaction",
+        "One-time password",
+        "Internet privacy"
+    ],
+    "references": [
+        "139326802",
+        "1548067747",
+        "1548516269",
+        "1595293097",
+        "2024323935",
+        "2109131235",
+        "2133432179",
+        "2146749986",
+        "2146973388",
+        "2157604883",
+        "2402540768"
+    ]
+}

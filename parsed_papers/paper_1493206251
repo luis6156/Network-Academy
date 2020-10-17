@@ -1,0 +1,41 @@
+{
+    "id": "1493206251",
+    "title": "Nested parallelism in the OMPI OpenmP/C compiler",
+    "venue": "european conference on parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Panagiotis E. Hadjidoukas",
+            "id": "2221444126",
+            "org": "Department of Computer Science, University of Ioannina, Ioannina, Greece#TAB#"
+        },
+        {
+            "name": "Vassilios V. Dimakopoulos",
+            "id": "2150676827",
+            "org": "Department of Computer Science, University of Ioannina, Ioannina, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Runtime library",
+        "Parallel computing",
+        "Virtual Processor",
+        "Computer architecture",
+        "Shared memory",
+        "Computation",
+        "Compiler",
+        "Computer science",
+        "Multithreading",
+        "Work stealing"
+    ],
+    "references": [
+        "245990283",
+        "1534037014",
+        "1589136629",
+        "1604421843",
+        "2013051005",
+        "2035529706",
+        "2065600847",
+        "2146416301"
+    ]
+}

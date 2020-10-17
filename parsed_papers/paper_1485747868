@@ -1,0 +1,44 @@
+{
+    "id": "1485747868",
+    "title": "A very fast prolog compiler on multiple architectures",
+    "venue": "fall joint computer conference",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Toshiaki Kurokawa",
+            "id": "2651598634",
+            "org": "Science Institute, IBM Japan, Ltd., 5-19 Sanban-cho, Chiyoda-ku, Tokyo 102, Japan#TAB#"
+        },
+        {
+            "name": "Naoyuki Tamura",
+            "id": "2004240429",
+            "org": "Science Institute, IBM Japan, Ltd., 5-19 Sanban-cho, Chiyoda-ku, Tokyo 102, Japan#TAB#"
+        },
+        {
+            "name": "Yasuo Asakawa",
+            "id": "2104408939",
+            "org": "Science Institute, IBM Japan, Ltd., 5-19 Sanban-cho, Chiyoda-ku, Tokyo 102, Japan#TAB#"
+        },
+        {
+            "name": "Hideaki Komatsu",
+            "id": "2115381187",
+            "org": "Science Institute, IBM Japan, Ltd., 5-19 Sanban-cho, Chiyoda-ku, Tokyo 102, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer architecture",
+        "Compiler",
+        "Functional compiler",
+        "Computer science",
+        "Compiler construction",
+        "Compiler correctness",
+        "Prolog",
+        "Programming language"
+    ],
+    "references": [
+        "113772595",
+        "1576113161",
+        "1975681120",
+        "2116446217"
+    ]
+}

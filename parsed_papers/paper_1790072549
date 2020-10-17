@@ -1,0 +1,44 @@
+{
+    "id": "1790072549",
+    "title": "Security evaluation of DPA countermeasures using dual-rail pre-charge logic style",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daisuke Suzuki",
+            "id": "2229860552",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Minoru Saeki",
+            "id": "2091917567",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation, Kanagawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic engineering",
+        "CMOS",
+        "Field-programmable gate array",
+        "Logic level",
+        "Parallel computing",
+        "Place and route",
+        "Logic gate",
+        "Computer science",
+        "Telecommunications",
+        "Dynamic logic (digital electronics)",
+        "Electronic circuit",
+        "Leakage (electronics)"
+    ],
+    "references": [
+        "83781150",
+        "1506423869",
+        "1515827409",
+        "1575446397",
+        "1594464909",
+        "1595639514",
+        "2144630005",
+        "2154909745",
+        "2164584813",
+        "2165637947"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1491895814",
+    "title": "Refactoring Intermediately Executed Code to Reduce Cache Capacity Misses",
+    "venue": "Journal of Instruction-level Parallelism",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kristof Beyls",
+            "id": "149857333",
+            "org": "Ghent University"
+        },
+        {
+            "name": "Erik H. D'Hollander",
+            "id": "2249398125",
+            "org": "Ghent University"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Profiling (computer programming)",
+        "Cache algorithms",
+        "Parallel computing",
+        "Reuse",
+        "Cache coloring",
+        "Computer science",
+        "Cache pollution",
+        "Code refactoring",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "1488421969",
+        "1503700136",
+        "1561247983",
+        "1887913568",
+        "1963741373",
+        "2125766931",
+        "2147543317",
+        "2153456949",
+        "2169987756"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "118147013",
+    "title": "Reciprocal hash tables for nearest neighbor search",
+    "venue": "national conference on artificial intelligence",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Xianglong Liu",
+            "id": "2095699825",
+            "org": "State Key Lab of Software Development Environment, Beihang University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Junfeng He",
+            "id": "2124520320",
+            "org": "Department of Electrical Engineering, Columbia University, New York, NY and Facebook, Menlo Park, CA#TAB#"
+        },
+        {
+            "name": "Bo Lang",
+            "id": "2111208759",
+            "org": "State Key Lab of Software Development Environment, Beihang University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Feature hashing",
+        "Hash table",
+        "Primary clustering",
+        "Rolling hash",
+        "Universal hashing",
+        "Computer science",
+        "Hash function",
+        "Double hashing",
+        "Dynamic perfect hashing",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "199018803",
+        "1502916507",
+        "1607408214",
+        "1883985887",
+        "1969241115",
+        "1972036246",
+        "1982193706",
+        "2012833704",
+        "2074668987",
+        "2084363474",
+        "2085168338",
+        "2122196799",
+        "2124509324",
+        "2131929066",
+        "2136040699",
+        "2147717514",
+        "2158169729",
+        "2161561128",
+        "2162006472",
+        "2162670057",
+        "2170037597",
+        "2170432751",
+        "2171626009",
+        "2171790913",
+        "2251864938",
+        "2292992741",
+        "2293597654",
+        "2408177717"
+    ]
+}

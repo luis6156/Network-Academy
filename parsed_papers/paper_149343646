@@ -1,0 +1,75 @@
+{
+    "id": "149343646",
+    "title": "Leakage-Resilient symmetric encryption via re-keying",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Michel Abdalla",
+            "id": "2143328931",
+            "org": "Ecole Normale Superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Sonia Belaid",
+            "id": "2037562961",
+            "org": "Ecole Normale Superieure, Paris, France,Thales Communications & Security, Gennevilliers, France#TAB#"
+        },
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Ecole Normale Superieure, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Client-side encryption",
+        "40-bit encryption",
+        "Computer science",
+        "Distributed computing",
+        "Cryptographic key types",
+        "Encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "4186701",
+        "54412699",
+        "111085860",
+        "154633427",
+        "236432643",
+        "1503689022",
+        "1527529076",
+        "1532559214",
+        "1548656471",
+        "1573157032",
+        "1574082713",
+        "1579351653",
+        "1592625985",
+        "1594300884",
+        "1598102953",
+        "1601568537",
+        "1602503772",
+        "1602918044",
+        "1658234468",
+        "1753795543",
+        "1897761346",
+        "1902160629",
+        "1973823100",
+        "2070991879",
+        "2096218735",
+        "2113999696",
+        "2117362057",
+        "2133701468",
+        "2139172211",
+        "2149847764",
+        "2150892302",
+        "2153417364",
+        "2153971105",
+        "2154909745",
+        "2161740631",
+        "2572799557",
+        "2612208439"
+    ]
+}

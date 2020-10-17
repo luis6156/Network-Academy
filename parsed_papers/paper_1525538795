@@ -1,0 +1,75 @@
+{
+    "id": "1525538795",
+    "title": "SWIFFT: A Modest Proposal for FFT Hashing",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vadim Lyubashevsky",
+            "id": "627763154",
+            "org": "University of California at San Diego,#TAB#"
+        },
+        {
+            "name": "Daniele Micciancio",
+            "id": "83353782",
+            "org": "University of California at San Diego,#TAB#"
+        },
+        {
+            "name": "Chris Peikert",
+            "id": "1249250080",
+            "org": "SRI International,#TAB#"
+        },
+        {
+            "name": "Alon Rosen",
+            "id": "2159238162",
+            "org": "IDC Herzliya,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Fourier transform",
+        "Theoretical computer science",
+        "Computer science",
+        "Prime-factor FFT algorithm",
+        "Fast Fourier transform",
+        "Hash function",
+        "Random oracle",
+        "SWIFFT",
+        "Linear combination"
+    ],
+    "references": [
+        "149470655",
+        "187970104",
+        "1546634390",
+        "1548701190",
+        "1549228503",
+        "1562285034",
+        "1569088779",
+        "1576470039",
+        "1579876520",
+        "1590269592",
+        "1607206152",
+        "1675339804",
+        "1788833175",
+        "1819127300",
+        "1892979794",
+        "1994790157",
+        "2051176401",
+        "2065151783",
+        "2103239853",
+        "2117362057",
+        "2120030642",
+        "2122086332",
+        "2130238828",
+        "2142048307",
+        "2144758780",
+        "2146633075",
+        "2149789050",
+        "2155690458",
+        "2158794453",
+        "2169649500",
+        "2514326694",
+        "2611506938"
+    ]
+}

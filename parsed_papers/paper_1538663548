@@ -1,0 +1,75 @@
+{
+    "id": "1538663548",
+    "title": "Blurred persistence in transactional persistent memory",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Youyou Lu",
+            "id": "2146655352",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China"
+        },
+        {
+            "name": "Jiwu Shu",
+            "id": "2104906475",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China"
+        },
+        {
+            "name": "Long Sun",
+            "id": "2149615077",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Cache coloring",
+        "Interleaved memory",
+        "Computer science",
+        "Uniform memory access",
+        "Cache-only memory architecture",
+        "Cache pollution",
+        "Memory map",
+        "CPU cache"
+    ],
+    "references": [
+        "19204414",
+        "98895588",
+        "1487773734",
+        "1494047080",
+        "1557990038",
+        "1567210335",
+        "1568181892",
+        "1965912002",
+        "1970581729",
+        "1991522295",
+        "1992755462",
+        "1994681235",
+        "1996031850",
+        "2005887179",
+        "2015477844",
+        "2043521205",
+        "2048588974",
+        "2070761976",
+        "2082844074",
+        "2102449048",
+        "2104954161",
+        "2110231861",
+        "2113637091",
+        "2113751407",
+        "2117289367",
+        "2135393827",
+        "2147926533",
+        "2149089882",
+        "2150662965",
+        "2155323584",
+        "2157808045",
+        "2159779511",
+        "2166905397",
+        "2171724053",
+        "2172126130",
+        "2340530615",
+        "2610308442",
+        "2620706897"
+    ]
+}

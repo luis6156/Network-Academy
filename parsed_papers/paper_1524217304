@@ -1,0 +1,52 @@
+{
+    "id": "1524217304",
+    "title": "MPEG-TFRCP: video transfer with TCP-friendly rate control protocol",
+    "venue": "international conference on communications",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Masaki Miyabayashi",
+            "id": "2075490257",
+            "org": "Dept. of Inf. & Math. Sci., Osaka Univ., Japan"
+        },
+        {
+            "name": "Naoki Wakamiya",
+            "id": "1894328807",
+            "org": "Department of Informatics|Graduate School of Engineering Science|Osaka University"
+        },
+        {
+            "name": "Masayuki Murata",
+            "id": "2694317447",
+            "org": "Department of Informatics|Graduate School of Engineering Science|Osaka University"
+        },
+        {
+            "name": "Hideo Miyahara",
+            "id": "2086998538",
+            "org": "Department of Informatics|Graduate School of Engineering Science|Osaka University"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "H-TCP",
+        "TCP tuning",
+        "TCP acceleration",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "Compound TCP"
+    ],
+    "references": [
+        "1926755594",
+        "1990920914",
+        "1995173604",
+        "2080451193",
+        "2096077397",
+        "2102782181",
+        "2124478678",
+        "2125845735",
+        "2126880366"
+    ]
+}

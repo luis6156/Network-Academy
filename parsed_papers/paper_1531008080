@@ -1,0 +1,48 @@
+{
+    "id": "1531008080",
+    "title": "A GDB-based real-time tracing tool for remote debugging of SoC programs",
+    "venue": "international conference on hybrid information technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Myeong-Chul Park",
+            "id": "2158811010",
+            "org": "Division of Computer Science, Gyeongsang National University, Jinju, South Korea#TAB#"
+        },
+        {
+            "name": "Young-Joo Kim",
+            "id": "2483323698",
+            "org": "Division of Computer Science, Gyeongsang National University, Jinju, South Korea#TAB#"
+        },
+        {
+            "name": "Ingeol Chun",
+            "id": "2308533529",
+            "org": "Embedded S/W Research Division, Electronics and Telecommunications Research Institute, Daejeon, South Korea#TAB#"
+        },
+        {
+            "name": "Seok-Wun Ha",
+            "id": "2143241749",
+            "org": "Division of Computer Science, Gyeongsang National University, Jinju, South Korea#TAB#"
+        },
+        {
+            "name": "Yong-Kee Jun",
+            "id": "2141574714",
+            "org": "Division of Computer Science, Gyeongsang National University, Jinju, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Background debug mode interface",
+        "Computer science",
+        "Nexus (standard)",
+        "Tracing",
+        "Embedded system",
+        "System on a chip",
+        "Debugging"
+    ],
+    "references": [
+        "148956775",
+        "2005939600",
+        "2123721542",
+        "2163611666"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "1580959709",
+    "title": "Replication in DHTs using dynamic groups",
+    "venue": "Transactions on large-scale data- and knowledge-centered systems III",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Reza Akbarinia",
+            "id": "295546380",
+            "org": "INRIA and LIRMM, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Mounir Tlili",
+            "id": "1969142552",
+            "org": "INRIA and LINA, Univ. Nantes, France#TAB#"
+        },
+        {
+            "name": "Esther Pacitti",
+            "id": "1678409130",
+            "org": "INRIA and LIRMM, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "INRIA and LIRMM, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Alexandre A. B. Lima",
+            "id": "2161022388",
+            "org": "COPPE/UFRJ, Rio de Janeiro, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Hash table",
+        "Timestamp",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Real-time computing",
+        "Monotonic function",
+        "Hash function",
+        "Data retrieval",
+        "Data availability"
+    ],
+    "references": [
+        "1586961412",
+        "1600328410",
+        "1775738142",
+        "1979799156",
+        "1979977750",
+        "1992208760",
+        "2085922198",
+        "2106101127",
+        "2111227779",
+        "2112527958",
+        "2118428193",
+        "2121074361",
+        "2126336952",
+        "2150484852",
+        "2150676586",
+        "2158049821",
+        "2162061797",
+        "2163059190",
+        "2167898414",
+        "2169178672"
+    ]
+}

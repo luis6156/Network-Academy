@@ -1,0 +1,58 @@
+{
+    "id": "1602083203",
+    "title": "Query planning in the presence of overlapping sources",
+    "venue": "extending database technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jens Bleiholder",
+            "id": "71826499",
+            "org": "Humboldt-Universitat zu Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Samir Khuller",
+            "id": "2159856632",
+            "org": "University of Maryland, College Park, Maryland#TAB#"
+        },
+        {
+            "name": "Felix Naumann",
+            "id": "2099727678",
+            "org": "Humboldt-Universitat zu Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Louiqa Raschid",
+            "id": "285822418",
+            "org": "University of Maryland, College Park, Maryland#TAB#"
+        },
+        {
+            "name": "Yao Wu",
+            "id": "2123209195",
+            "org": "University of Maryland, College Park, Maryland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cardinality",
+        "Greedy algorithm",
+        "Heuristics",
+        "Integer programming",
+        "Tree traversal",
+        "Distributed computing",
+        "Computer science",
+        "Overhead (computing)",
+        "Database",
+        "Maximum coverage problem",
+        "Mathematical optimization",
+        "Query optimization"
+    ],
+    "references": [
+        "1508790985",
+        "1513665907",
+        "2080379754",
+        "2082493470",
+        "2099132625",
+        "2102166438",
+        "2112101330",
+        "2153329411",
+        "2406529495"
+    ]
+}

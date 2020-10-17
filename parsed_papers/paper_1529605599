@@ -1,0 +1,57 @@
+{
+    "id": "1529605599",
+    "title": "Efficient Lazy Narrowing using Demandedness Analysis",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Juan Jose Moreno-Navarro",
+            "id": "2149397661",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Herbert Kuchen",
+            "id": "2065250043",
+            "org": "RWTH Aachen"
+        },
+        {
+            "name": "Julio Marino-Carballo",
+            "id": "223098860",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Stephan Winkler",
+            "id": "2322735458",
+            "org": "RWTH Aachen"
+        },
+        {
+            "name": "Werner Hans",
+            "id": "2096270769",
+            "org": "RWTH Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Functional logic programming",
+        "Syntax",
+        "Theoretical computer science",
+        "Reactive programming",
+        "Computer science",
+        "Function application",
+        "Demand patterns",
+        "Inefficiency",
+        "Operational semantics",
+        "Logic programming"
+    ],
+    "references": [
+        "60619409",
+        "100098737",
+        "1538923662",
+        "1542522921",
+        "1572831335",
+        "1582786773",
+        "1599996235",
+        "2013076094",
+        "2053719172",
+        "2166822586"
+    ]
+}

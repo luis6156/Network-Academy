@@ -1,0 +1,45 @@
+{
+    "id": "1508904444",
+    "title": "Search space filling and shrinking based to solve constraint optimization problems",
+    "venue": "international conference on intelligent computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yi Hong",
+            "id": "2585119703",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiaotong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Qingsheng Ren",
+            "id": "2670329420",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiaotong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Jin Zeng",
+            "id": "2426333749",
+            "org": "Department of Mathematics, Shanghai Jiaotong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Ying Zhang",
+            "id": "2721610269",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiaotong University, Shanghai, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Search algorithm",
+        "Combinatorial search",
+        "Min-conflicts algorithm",
+        "State space search",
+        "Iterative deepening depth-first search",
+        "Best-first search",
+        "Backtracking line search",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1524742142",
+        "2093505886",
+        "2149815769"
+    ]
+}

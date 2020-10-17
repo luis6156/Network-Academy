@@ -1,0 +1,55 @@
+{
+    "id": "1630959906",
+    "title": "Hardware accelerated per-pixel displacement mapping",
+    "venue": "graphics interface",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Johannes Hirche",
+            "id": "2127632292",
+            "org": "University of Tubingen, Germany#TAB#"
+        },
+        {
+            "name": "Alexander Ehlert",
+            "id": "2086236902",
+            "org": "University of Tubingen, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Guthe",
+            "id": "2169808706",
+            "org": "University of Tubingen, Germany#TAB#"
+        },
+        {
+            "name": "Michael C. Doggett",
+            "id": "2121766484",
+            "org": "ATI Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Rendering (computer graphics)",
+        "Computer science",
+        "Shader",
+        "Triangle mesh",
+        "Level of detail",
+        "Hardware acceleration",
+        "Prism",
+        "Pixel",
+        "Displacement mapping",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "38210301",
+        "207485495",
+        "1530000391",
+        "1786506983",
+        "1981896797",
+        "1991392662",
+        "2039338378",
+        "2054137343",
+        "2125749846",
+        "2146410861",
+        "2155155926",
+        "2763192925"
+    ]
+}

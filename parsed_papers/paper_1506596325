@@ -1,0 +1,57 @@
+{
+    "id": "1506596325",
+    "title": "Embedded inodes and explicit grouping: exploiting disk bandwidth for small files",
+    "venue": "usenix annual technical conference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Gregory R. Ganger",
+            "id": "2791808",
+            "org": "M.I.T. Laboratory for Computer Science, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "M. Frans Kaashoek",
+            "id": "378983930",
+            "org": "M.I.T. Laboratory for Computer Science, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Unix file types",
+        "Computer science",
+        "Versioning file system",
+        "Fork (file system)",
+        "File Control Block",
+        "Stub file",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "Computer file",
+        "Real-time computing"
+    ],
+    "references": [
+        "24973626",
+        "140970508",
+        "201248661",
+        "1538319448",
+        "1595924276",
+        "1967141605",
+        "1968838480",
+        "2007415020",
+        "2008633193",
+        "2017563980",
+        "2040373683",
+        "2068689036",
+        "2077967211",
+        "2093793584",
+        "2108183412",
+        "2114167330",
+        "2115600841",
+        "2122244530",
+        "2122960384",
+        "2129269323",
+        "2135652458",
+        "2139589346",
+        "2167819041",
+        "2171352284"
+    ]
+}

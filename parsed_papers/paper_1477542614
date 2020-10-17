@@ -1,0 +1,56 @@
+{
+    "id": "1477542614",
+    "title": "Compression functions using a dedicated blockcipher for lightweight hashing",
+    "venue": "international conference on information security and cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Shoichi Hirose",
+            "id": "2140040504",
+            "org": "Graduate School of Engineering, University of Fukui, Japan#TAB#"
+        },
+        {
+            "name": "Hidenori Kuwakado",
+            "id": "260539752",
+            "org": "Graduate School of Engineering, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Hirotaka Yoshida",
+            "id": "2105707368",
+            "org": "Yokohama Research Laboratory, Hitachi, Ltd., Japan,Department of Electrical Engineering ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "K-independent hashing",
+        "Theoretical computer science",
+        "Cipher",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Hash function",
+        "Pseudorandom permutation",
+        "Key size",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "35428663",
+        "35465894",
+        "147018390",
+        "1527450129",
+        "1547537489",
+        "1565415113",
+        "1587127684",
+        "1601321736",
+        "1754628477",
+        "1863270349",
+        "1894646615",
+        "2105746068",
+        "2106698019",
+        "2139078445",
+        "2148555789",
+        "2493686639",
+        "2592359449",
+        "2786169301"
+    ]
+}

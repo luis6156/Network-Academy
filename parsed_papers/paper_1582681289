@@ -1,0 +1,46 @@
+{
+    "id": "1582681289",
+    "title": "CONTESSA: concurrency testing augmented with symbolic analysis",
+    "venue": "computer aided verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sudipta Kundu",
+            "id": "2134553900",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Malay K. Ganai",
+            "id": "2117247149",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Chao Wang",
+            "id": "2854535502",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Algorithm",
+        "Symbolic data analysis",
+        "Test harness",
+        "Computer science",
+        "Interleaving",
+        "Concurrency",
+        "Debugging",
+        "Partial order reduction"
+    ],
+    "references": [
+        "1502049067",
+        "1549521157",
+        "1560743762",
+        "1990838770",
+        "2080703024",
+        "2118437239",
+        "2135395375",
+        "2136877520"
+    ]
+}

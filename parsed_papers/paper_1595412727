@@ -1,0 +1,72 @@
+{
+    "id": "1595412727",
+    "title": "Efficient password-authenticated key exchange based on RSA",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sangjoon Park",
+            "id": "2114882932",
+            "org": "Information Security Group, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        },
+        {
+            "name": "Junghyun Nam",
+            "id": "2222295587",
+            "org": "Information Security Group, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        },
+        {
+            "name": "Seungjoo Kim",
+            "id": "2139158536",
+            "org": "Information Security Group, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        },
+        {
+            "name": "Dongho Won",
+            "id": "2127395087",
+            "org": "Information Security Group, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Prime number",
+        "Algorithm",
+        "Key exchange",
+        "Discrete mathematics",
+        "Forward secrecy",
+        "Password",
+        "Random oracle",
+        "Public-key cryptography",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "203500824",
+        "1491152510",
+        "1503670812",
+        "1516161674",
+        "1542059364",
+        "1552695147",
+        "1593324857",
+        "1593713025",
+        "1595293097",
+        "1600842905",
+        "1601218083",
+        "1602484190",
+        "1660562555",
+        "1770532091",
+        "1994386233",
+        "1996360405",
+        "2052267638",
+        "2091020476",
+        "2110804296",
+        "2111443676",
+        "2124432603",
+        "2124926080",
+        "2133432179",
+        "2134475940",
+        "2157604883",
+        "2167006959",
+        "2167154815",
+        "2170220035",
+        "2583351422"
+    ]
+}

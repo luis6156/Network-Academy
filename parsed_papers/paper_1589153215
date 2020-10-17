@@ -1,0 +1,40 @@
+{
+    "id": "1589153215",
+    "title": "From Finite State Machines To Provably Correct Java Card Applets",
+    "venue": "information security conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Engelbert Hubbers",
+            "id": "2091447658",
+            "org": "University of Nijmegen"
+        },
+        {
+            "name": "Martijn Oostdijk",
+            "id": "2163118756",
+            "org": "University of Nijmegen"
+        },
+        {
+            "name": "Erik Poll",
+            "id": "2149911619",
+            "org": "University of Nijmegen"
+        }
+    ],
+    "fields_of_study": [
+        "Java Modeling Language",
+        "Java",
+        "Java Card",
+        "Java applet",
+        "Generics in Java",
+        "Java annotation",
+        "Computer science",
+        "Java concurrency",
+        "strictfp",
+        "Programming language"
+    ],
+    "references": [
+        "1583826417",
+        "2107995193",
+        "2164810907"
+    ]
+}

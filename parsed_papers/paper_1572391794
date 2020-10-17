@@ -1,0 +1,49 @@
+{
+    "id": "1572391794",
+    "title": "Channel quality based adaptation of TCP with loss discrimination",
+    "venue": "global communications conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Yaling Yang",
+            "id": "2147527658",
+            "org": "Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Honghai Zhang",
+            "id": "2636592736",
+            "org": "Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Robin Kravets",
+            "id": "2048673625",
+            "org": "Illinois Univ., Urbana, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1508623828",
+        "1970131865",
+        "1977274150",
+        "1977927650",
+        "2008793926",
+        "2056645566",
+        "2093031903",
+        "2123071925",
+        "2127414672",
+        "2162454640",
+        "2163308057"
+    ]
+}

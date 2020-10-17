@@ -1,0 +1,42 @@
+{
+    "id": "1524600321",
+    "title": "MULTOPS: a data-structure for bandwidth attack detection",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thomer Michael Gil",
+            "id": "2308200729",
+            "org": "Vrije Universiteit, Amsterdam, The Netherlands and MIT, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Massimiliano Poletto",
+            "id": "2660408621",
+            "org": "Vrije Universiteit, Amsterdam, The Netherlands and MIT, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Network traffic control",
+        "Crash",
+        "Networking hardware",
+        "Computer science",
+        "Computer network",
+        "Computer security",
+        "Bandwidth (signal processing)",
+        "Network packet",
+        "Subnet",
+        "Data structure"
+    ],
+    "references": [
+        "206164581",
+        "1518154917",
+        "1867219652",
+        "1920802909",
+        "1967949770",
+        "2010365467",
+        "2141487810",
+        "2145211381",
+        "2150228605"
+    ]
+}

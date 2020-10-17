@@ -1,0 +1,68 @@
+{
+    "id": "10183529",
+    "title": "Shrinker: improving live migration of virtual clusters over WANs with distributed data deduplication and content-based addressing",
+    "venue": "international conference on parallel processing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Pierre Riteau",
+            "id": "2781460504",
+            "org": "Universite de Rennes 1 and INRIA, Centre INRIA Rennes, Rennes, France#TAB#"
+        },
+        {
+            "name": "Christine Morin",
+            "id": "2098877419",
+            "org": "INRIA, Centre INRIA Rennes, Rennes, France#TAB#"
+        },
+        {
+            "name": "Thierry Priol",
+            "id": "533106700",
+            "org": "INRIA, Centre INRIA Rennes, Rennes, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Parallel computing",
+        "Live migration",
+        "Virtualization",
+        "Virtual machine",
+        "Computer science",
+        "Distributed computing",
+        "Data deduplication",
+        "Data diffusion machine",
+        "Computer network",
+        "Cloud computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "66768725",
+        "1522250664",
+        "1576397915",
+        "1589276590",
+        "1656731780",
+        "1974943206",
+        "1997269120",
+        "2013592197",
+        "2037050314",
+        "2050765519",
+        "2083357144",
+        "2094224023",
+        "2099072754",
+        "2114051442",
+        "2118509347",
+        "2121542813",
+        "2125163937",
+        "2135050683",
+        "2138165844",
+        "2139058102",
+        "2143818983",
+        "2143882267",
+        "2144009915",
+        "2146266614",
+        "2149993626",
+        "2152276958",
+        "2152921908",
+        "2161092827",
+        "2216311525"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1487111756",
+    "title": "Kerberos security with clocks adrift",
+    "venue": "usenix security symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Don Davis",
+            "id": "2098150550",
+            "org": "Independent Consultant, Allston, MA#TAB#"
+        },
+        {
+            "name": "Daniel E. Geer",
+            "id": "2659171356",
+            "org": "OpenVision Technologies, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Kerberos",
+        "Kerberized Internet Negotiation of Keys",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Server",
+        "Generic Security Service Algorithm for Secret Key Transaction",
+        "Ticket",
+        "Synchronization",
+        "Mobile computing",
+        "Authentication"
+    ],
+    "references": [
+        "1607313240",
+        "1610349667",
+        "1635413415",
+        "2001788001",
+        "2026329508",
+        "2146749986",
+        "2146973388"
+    ]
+}

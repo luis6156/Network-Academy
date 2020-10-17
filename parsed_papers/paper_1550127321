@@ -1,0 +1,72 @@
+{
+    "id": "1550127321",
+    "title": "Footprint analysis: a shape analysis that discovers preconditions",
+    "venue": "static analysis symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Cristiano Calcagno",
+            "id": "2115355226",
+            "org": "Imperial College, London#TAB#"
+        },
+        {
+            "name": "Dino Distefano",
+            "id": "1977689941",
+            "org": "Queen Mary, University of London#TAB#"
+        },
+        {
+            "name": "Peter W. O'Hearn",
+            "id": "188470835",
+            "org": "Queen Mary, University of London#TAB#"
+        },
+        {
+            "name": "Hongseok Yang",
+            "id": "2125768396",
+            "org": "Queen Mary, University of London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Program analysis",
+        "Separation logic",
+        "Computer science",
+        "Symbolic execution",
+        "Shape analysis (digital geometry)",
+        "Precondition",
+        "Data structure",
+        "Footprint"
+    ],
+    "references": [
+        "1480370622",
+        "1494768888",
+        "1495368328",
+        "1508811155",
+        "1522742464",
+        "1533299090",
+        "1552505815",
+        "1556566737",
+        "1595182411",
+        "1608869910",
+        "1887332367",
+        "1991837261",
+        "2043100293",
+        "2082827821",
+        "2101572430",
+        "2107089133",
+        "2121025472",
+        "2121405115",
+        "2132638915",
+        "2132761501",
+        "2135163511",
+        "2136242294",
+        "2137628566",
+        "2138245690",
+        "2139748880",
+        "2148687959",
+        "2149286246",
+        "2154713600",
+        "2160563691",
+        "2160896531",
+        "2194223632"
+    ]
+}

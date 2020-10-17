@@ -1,0 +1,69 @@
+{
+    "id": "1566834790",
+    "title": "A model checker for AADL",
+    "venue": "computer aided verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Marco Bozzano",
+            "id": "2160184347",
+            "org": "Fondazione Bruno Kessler, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "Fondazione Bruno Kessler, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Joost-Pieter Katoen",
+            "id": "2036890539",
+            "org": "RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Viet Yen Nguyen",
+            "id": "2000277685",
+            "org": "RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Noll",
+            "id": "2176979352",
+            "org": "RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Marco Roveri",
+            "id": "1957840925",
+            "org": "Fondazione Bruno Kessler, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Ralf Wimmer",
+            "id": "2096923501",
+            "org": "Albert-Ludwigs-University Freiburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fault tree analysis",
+        "Functional verification",
+        "Computer science",
+        "Avionics",
+        "Probabilistic logic",
+        "Model checking",
+        "Fault injection",
+        "Capability Maturity Model"
+    ],
+    "references": [
+        "168297085",
+        "168394658",
+        "326424914",
+        "1521216227",
+        "1554303980",
+        "1845451745",
+        "1996832037",
+        "2055856629",
+        "2070874614",
+        "2128225705",
+        "2130820909",
+        "2141881497",
+        "2152863619"
+    ]
+}

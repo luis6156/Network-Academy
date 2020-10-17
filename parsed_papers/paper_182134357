@@ -1,0 +1,49 @@
+{
+    "id": "182134357",
+    "title": "Object tracking based on extended SURF and particle filter",
+    "venue": "international conference on intelligent computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Min Niu",
+            "id": "2516591949",
+            "org": "School of Electrical Engineering, Zhengzhou University, Zhengzhou, China#TAB#"
+        },
+        {
+            "name": "Xiaobo Mao",
+            "id": "2114116742",
+            "org": "School of Electrical Engineering, Zhengzhou University, Zhengzhou, China#TAB#"
+        },
+        {
+            "name": "Jing J. Liang",
+            "id": "2573861241",
+            "org": "School of Electrical Engineering, Zhengzhou University, Zhengzhou, China#TAB#"
+        },
+        {
+            "name": "Ben Niu",
+            "id": "2074212559",
+            "org": "College of Management, Shenzhen University, Shenzhen, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Video tracking",
+        "Particle filter",
+        "Grayscale",
+        "Computer vision",
+        "Pattern recognition",
+        "Invariant (mathematics)",
+        "Computer science",
+        "Affine transformation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526034937",
+        "1627400044",
+        "1967723270",
+        "1994215930",
+        "2067191022",
+        "2119605622",
+        "2124386111",
+        "2151103935"
+    ]
+}

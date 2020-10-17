@@ -1,0 +1,56 @@
+{
+    "id": "1482235964",
+    "title": "Statistical Validation of Automated Probabilistic Segmentation against Composite Latent Expert Ground Truth in MR Imaging of Brain Tumors",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kelly H. Zou",
+            "id": "346920127",
+            "org": "Harvard Medical School and Brigham and Women's Hospital"
+        },
+        {
+            "name": "William M. Wells",
+            "id": "2107357764",
+            "org": "Harvard Medical School and Brigham and Women's Hospital"
+        },
+        {
+            "name": "Michael Kaus",
+            "id": "1743482105",
+            "org": "Harvard Medical School and Brigham and Women's Hospital"
+        },
+        {
+            "name": "Ron Kikinis",
+            "id": "908076792",
+            "org": "Harvard Medical School and Brigham and Women's Hospital"
+        },
+        {
+            "name": "Ferenc A. Jolesz",
+            "id": "2090988392",
+            "org": "Harvard Medical School and Brigham and Women's Hospital"
+        },
+        {
+            "name": "Simon K. Warfield",
+            "id": "2141164367",
+            "org": "Harvard Medical School and Brigham and Women's Hospital"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Ground truth",
+        "Probabilistic logic",
+        "Voxel",
+        "Scale-space segmentation",
+        "Image processing",
+        "Receiver operating characteristic",
+        "Mutual information",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1543465991",
+        "2132513126"
+    ]
+}

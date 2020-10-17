@@ -1,0 +1,50 @@
+{
+    "id": "1519343834",
+    "title": "A simple region inference algorithm for a first-order functional language",
+    "venue": "workshop on functional and constraint logic programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Manuel Montenegro",
+            "id": "2145391421",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Ricardo Pena",
+            "id": "2702397742",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Clara Segura",
+            "id": "2130208810",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Garbage collection",
+        "Proof-carrying code",
+        "Inference",
+        "Polymorphic recursion",
+        "Heap (data structure)",
+        "Correctness",
+        "Runtime system",
+        "Data structure",
+        "Programming language"
+    ],
+    "references": [
+        "1590222747",
+        "1811793995",
+        "1971634047",
+        "1981962444",
+        "1988661738",
+        "2006638707",
+        "2040070287",
+        "2068055184",
+        "2074003683",
+        "2087875803",
+        "2194223632"
+    ]
+}

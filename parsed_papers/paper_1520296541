@@ -1,0 +1,60 @@
+{
+    "id": "1520296541",
+    "title": "Sender-Side TCP Modifications: An Analytical Study",
+    "venue": "international ifip tc networking conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Renato Lo Cigno",
+            "id": "2343071437",
+            "org": "Politecnico di Torino, Dipartimento di Elettronica Corso Duca degli Abruzzi, 24 10129 Torino Italy"
+        },
+        {
+            "name": "Gregorio Procissi",
+            "id": "246462552",
+            "org": "Universita di Pisa Dipartimento di Ingegneria della Informazione Via Diotisalvi 2 56126 Pisa Italy"
+        },
+        {
+            "name": "Mario Gerla",
+            "id": "563121846",
+            "org": "UCLA Computer Science Department -- Boelter Hall 405 Hilgard Ave. Los Angeles CA 90024 USA"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "BIC TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP delayed acknowledgment",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1499517860",
+        "1668270659",
+        "1804414343",
+        "1867970377",
+        "1894154420",
+        "1970131865",
+        "1994717387",
+        "2018724471",
+        "2037710455",
+        "2093044164",
+        "2094120782",
+        "2096077397",
+        "2101182788",
+        "2115459263",
+        "2115461350",
+        "2117264435",
+        "2126956578",
+        "2133638675",
+        "2140490525",
+        "2141405301",
+        "2145942024",
+        "2149422460",
+        "2165082078"
+    ]
+}

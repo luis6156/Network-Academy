@@ -1,0 +1,44 @@
+{
+    "id": "1533781519",
+    "title": "Formal Verification of SIGNAL Programs: Application to a Power Transformer Station Controller",
+    "venue": "algebraic methodology and software technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Michel Le Borgne",
+            "id": "2099701579",
+            "org": "IRISA/INRIA - Rennes"
+        },
+        {
+            "name": "Herve Marchand",
+            "id": "2012617630",
+            "org": "IRISA/INRIA - Rennes"
+        },
+        {
+            "name": "Eric Rutten",
+            "id": "2171728300",
+            "org": "IRISA/INRIA - Rennes"
+        },
+        {
+            "name": "Mazen Samaan",
+            "id": "2303353955",
+            "org": "EDF/DER, EP"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "System of polynomial equations",
+        "Computer science",
+        "Liveness",
+        "Control theory",
+        "Runtime verification",
+        "Control system",
+        "Synchronous Data Flow",
+        "Polynomial"
+    ],
+    "references": [
+        "1984478483",
+        "2151250735"
+    ]
+}

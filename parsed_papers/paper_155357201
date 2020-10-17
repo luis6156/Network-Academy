@@ -1,0 +1,64 @@
+{
+    "id": "155357201",
+    "title": "A new strategy for distributed compensations with interruption in long-running transactions",
+    "venue": "workshop on recent trends in algebraic development techniques",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Roberto Bruni",
+            "id": "2147391338",
+            "org": "Department of Computer Science, University of Pisa, Italy#TAB#"
+        },
+        {
+            "name": "Anne Kersten",
+            "id": "2279651188",
+            "org": "Institute for Andvanced Studies, IMT Lucca, Italy#TAB#"
+        },
+        {
+            "name": "Ivan Lanese",
+            "id": "367970676",
+            "org": "Focus Team, University of Bologna/INRIA, Italy#TAB#"
+        },
+        {
+            "name": "Giorgio Spagnolo",
+            "id": "2125421879",
+            "org": "Department of Computer Science, University of Pisa, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Causality",
+        "Algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Denotational semantics",
+        "Failure semantics",
+        "Concurrency",
+        "Petri net",
+        "Operational semantics"
+    ],
+    "references": [
+        "1504007491",
+        "1516672854",
+        "1542817421",
+        "1552587784",
+        "1579083398",
+        "1580055894",
+        "1580720942",
+        "1594366040",
+        "1851917928",
+        "1974168649",
+        "2110425399",
+        "2126025425",
+        "2132524091",
+        "2150864072",
+        "2153074919",
+        "2164485904",
+        "2167399349",
+        "2170151971",
+        "2194223632",
+        "2395283731",
+        "2460103410"
+    ]
+}

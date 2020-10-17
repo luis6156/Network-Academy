@@ -1,0 +1,64 @@
+{
+    "id": "1577551647",
+    "title": "Efficient data race detection for async-finish parallelism",
+    "venue": "runtime verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Raghavan Raman",
+            "id": "2108618758",
+            "org": "Rice University#TAB#"
+        },
+        {
+            "name": "Jisheng Zhao",
+            "id": "2115689153",
+            "org": "Rice University#TAB#"
+        },
+        {
+            "name": "Vivek Sarkar",
+            "id": "2164197688",
+            "org": "Rice University#TAB#"
+        },
+        {
+            "name": "Martin T. Vechev",
+            "id": "39971648",
+            "org": "IBM T. J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Eran Yahav",
+            "id": "2194672974",
+            "org": "IBM T. J. Watson Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Java",
+        "Software development",
+        "Parallel computing",
+        "Asynchronous communication",
+        "Parallel programming model",
+        "Computer science",
+        "Cilk",
+        "Slowdown",
+        "Real-time computing",
+        "Dynamic data"
+    ],
+    "references": [
+        "1605226475",
+        "1975579741",
+        "2004420781",
+        "2005031208",
+        "2011903918",
+        "2016559894",
+        "2043003055",
+        "2066952803",
+        "2101431901",
+        "2101951782",
+        "2104861744",
+        "2109065830",
+        "2113563476",
+        "2130374657",
+        "2150473702",
+        "2167744164"
+    ]
+}

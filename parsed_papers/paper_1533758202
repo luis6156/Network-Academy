@@ -1,0 +1,41 @@
+{
+    "id": "1533758202",
+    "title": "MCMC for doubly-intractable distributions",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Iain Murray",
+            "id": "2195050966",
+            "org": "Gatsby Computational, Neuroscience Unit, University College London#TAB#"
+        },
+        {
+            "name": "Zoubin Ghahramani",
+            "id": "617670330",
+            "org": "Department of Engineering, University of Cambridge#TAB#"
+        },
+        {
+            "name": "David J. C. MacKay",
+            "id": "2401920469",
+            "org": "Cavendish Laboratory, University of Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Metropolis-Hastings algorithm",
+        "Markov chain Monte Carlo",
+        "Graphical model",
+        "Sampling (statistics)",
+        "Statistics",
+        "Normalization (statistics)",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1492880328",
+        "1513873506",
+        "1802388531",
+        "2033900415",
+        "2042492924",
+        "2043719428"
+    ]
+}

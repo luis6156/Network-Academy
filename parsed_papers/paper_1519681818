@@ -1,0 +1,64 @@
+{
+    "id": "1519681818",
+    "title": "A CDH-Based ring signature scheme with short signatures and public keys",
+    "venue": "financial cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sven Schage",
+            "id": "665923922",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-Universitat Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Jorg Schwenk",
+            "id": "2145024463",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-Universitat Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Group ring",
+        "EdDSA",
+        "Schnorr signature",
+        "Public-key cryptography",
+        "Internet privacy",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1483714364",
+        "1500682127",
+        "1505884345",
+        "1511404237",
+        "1513535488",
+        "1521092767",
+        "1592092778",
+        "1603546715",
+        "1798609567",
+        "1826437507",
+        "1828411905",
+        "1851031742",
+        "1888254701",
+        "1978183200",
+        "1988619302",
+        "2002930326",
+        "2017904798",
+        "2033820870",
+        "2052267638",
+        "2107401406",
+        "2113999696",
+        "2125808633",
+        "2129483619",
+        "2147436724",
+        "2151413173",
+        "2159864663",
+        "2167606175",
+        "2563302303",
+        "2607627035",
+        "2622017675"
+    ]
+}

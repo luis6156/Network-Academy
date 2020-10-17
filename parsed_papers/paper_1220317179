@@ -1,0 +1,93 @@
+{
+    "id": "1220317179",
+    "title": "Boxify: full-fledged app sandboxing for stock android",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michael Backes",
+            "id": "2045355816",
+            "org": "CISPA, Saarland University & MPI-SWS#TAB#"
+        },
+        {
+            "name": "Sven Bugiel",
+            "id": "1964698894",
+            "org": "CISPA, Saarland University#TAB#"
+        },
+        {
+            "name": "Christian Hammer",
+            "id": "2112860460",
+            "org": "CISPA, Saarland University#TAB#"
+        },
+        {
+            "name": "Oliver Schranz",
+            "id": "1217191137",
+            "org": "CISPA, Saarland University#TAB#"
+        },
+        {
+            "name": "Philipp von Styp-Rekowsky",
+            "id": "216112922",
+            "org": "CISPA, Saarland University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Application virtualization",
+        "Firmware",
+        "Computer science",
+        "Sandbox (computer security)",
+        "Computer security",
+        "Software deployment",
+        "Isolated environment",
+        "Privilege separation",
+        "Security policy",
+        "Android (operating system)",
+        "Operating system",
+        "Internet privacy"
+    ],
+    "references": [
+        "6385438",
+        "32581813",
+        "53797064",
+        "81879861",
+        "1229457308",
+        "1516211918",
+        "1522939654",
+        "1549577837",
+        "1608091202",
+        "1658739283",
+        "1912565424",
+        "1963971515",
+        "1968660590",
+        "1974649417",
+        "1989255032",
+        "2003276999",
+        "2043579558",
+        "2043777221",
+        "2044228862",
+        "2050379150",
+        "2062340141",
+        "2066383384",
+        "2082300114",
+        "2084957670",
+        "2087804676",
+        "2090465075",
+        "2095410061",
+        "2099686419",
+        "2101799521",
+        "2101834106",
+        "2103370348",
+        "2105412867",
+        "2105842205",
+        "2121221235",
+        "2125011234",
+        "2126242334",
+        "2131303746",
+        "2152149943",
+        "2163643194",
+        "2294170611",
+        "2398484989",
+        "2399034518",
+        "2399891510",
+        "2405120356"
+    ]
+}

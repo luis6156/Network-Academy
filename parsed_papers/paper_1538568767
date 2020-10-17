@@ -1,0 +1,39 @@
+{
+    "id": "1538568767",
+    "title": "Black-box collision attacks on the compression function of the GOST Hash function",
+    "venue": "international conference on security and cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "342533692",
+            "org": "Computer Science, University College London, Gower Street, WC1E 6BT, U.K."
+        },
+        {
+            "name": "Theodosis Mourouzis",
+            "id": "935205573",
+            "org": "Computer Science, University College London, Gower Street, WC1E 6BT, U.K."
+        }
+    ],
+    "fields_of_study": [
+        "KCDSA",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Fowler-Noll-Vo hash function",
+        "Hash chain",
+        "Computer security",
+        "Meet-in-the-middle attack",
+        "Hash function",
+        "MDC-2"
+    ],
+    "references": [
+        "1524508699",
+        "1548701190",
+        "1607206152",
+        "2121433919",
+        "2206761661",
+        "2398836113"
+    ]
+}

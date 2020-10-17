@@ -1,0 +1,40 @@
+{
+    "id": "1554024515",
+    "title": "Weakly consistent transactions in ROSS",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Barry J. Brachman",
+            "id": "2041520888",
+            "org": "University of British Columbia, Vancouver, B.C.#TAB#"
+        },
+        {
+            "name": "Gerald W. Neufeld",
+            "id": "38292625",
+            "org": "University of British Columbia, Vancouver, B.C.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Serializability",
+        "Computer science",
+        "Merge (version control)",
+        "Distributed computing",
+        "Weak consistency",
+        "Database",
+        "Atomicity",
+        "Real-time computing"
+    ],
+    "references": [
+        "135878858",
+        "1545155892",
+        "1574320195",
+        "2030195504",
+        "2048071586",
+        "2116142433",
+        "2119636671",
+        "2124074197",
+        "2130493426",
+        "2156027558"
+    ]
+}

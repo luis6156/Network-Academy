@@ -1,0 +1,73 @@
+{
+    "id": "1803659615",
+    "title": "Joint parametric reconstruction and motion correction framework for dynamic PET data.",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jieqing Jiao",
+            "id": "2160034446",
+            "org": "UCL"
+        },
+        {
+            "name": "Alexandre Bousse",
+            "id": "2048170214",
+            "org": "University College London"
+        },
+        {
+            "name": "Kris Thielemans",
+            "id": "2199909754",
+            "org": "University College London"
+        },
+        {
+            "name": "Pawel J. Markiewicz",
+            "id": "2136891583",
+            "org": "UCL"
+        },
+        {
+            "name": "Ninon Burgos",
+            "id": "2136373128",
+            "org": "UCL"
+        },
+        {
+            "name": "David Atkinson",
+            "id": "2123297755",
+            "org": "University College London"
+        },
+        {
+            "name": "Simon R. Arridge",
+            "id": "302542049",
+            "org": "UCL"
+        },
+        {
+            "name": "Brian F. Hutton",
+            "id": "2893325911",
+            "org": "University College London"
+        },
+        {
+            "name": "Sebastien Ourselin",
+            "id": "2045358941",
+            "org": "UCL"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Parametric statistics",
+        "Pattern recognition",
+        "Computer science",
+        "Residual",
+        "Noisy data",
+        "Iterative reconstruction",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "29661792",
+        "88403186",
+        "168545695",
+        "175563506",
+        "1845428797",
+        "2001452654",
+        "2012411286",
+        "2122313934"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1539957619",
+    "title": "Improving MPI-I/O Performance on PVFS",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jonathan Ilroy",
+            "id": "2481287393",
+            "org": "Universite Mons-Hainaut"
+        },
+        {
+            "name": "Cyrille Randriamaro",
+            "id": "2477200177",
+            "org": "Universite Picardie Jules Verne"
+        },
+        {
+            "name": "Gil Utard",
+            "id": "2721122461",
+            "org": "Universite Picardie Jules Verne"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Input/output",
+        "Data access",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Virtual file system",
+        "Message passing",
+        "Operating system",
+        "File system",
+        "Workstation",
+        "Distributed File System"
+    ],
+    "references": [
+        "1539573557",
+        "2104486653",
+        "2113393807",
+        "2166064431"
+    ]
+}

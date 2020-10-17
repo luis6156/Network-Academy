@@ -1,0 +1,45 @@
+{
+    "id": "1607621735",
+    "title": "Developing Components in the Presence of Re-entrance",
+    "venue": "formal methods",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Leonid Mikhajlov",
+            "id": "1989029174",
+            "org": "Turku Centre for Computer Science"
+        },
+        {
+            "name": "Emil Sekerinski",
+            "id": "2396174511",
+            "org": "Turku Centre Computer Science Lemminkaisenkatu 14A Turku 20520 Finland"
+        },
+        {
+            "name": "Linas Laibinis",
+            "id": "43277033",
+            "org": "Turku Centre for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Specification language",
+        "Formal verification",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Information system",
+        "Real-time computing",
+        "Component (UML)",
+        "Modular design"
+    ],
+    "references": [
+        "1511826042",
+        "1514452691",
+        "1552647623",
+        "2086970510",
+        "2161825580",
+        "2167500728",
+        "2293400264",
+        "2610296873"
+    ]
+}

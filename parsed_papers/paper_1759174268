@@ -1,0 +1,45 @@
+{
+    "id": "1759174268",
+    "title": "Dynamic control of parallelism and granularity in executing nested parallel loops",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Williams Ludwell Harrison",
+            "id": "2163808885",
+            "org": "Center for Supercomput. Res. & Dev., Illinois Univ., Urbana, IL, USA"
+        },
+        {
+            "name": "Jyh-Herng Chow",
+            "id": "2306026955",
+            "org": "Center for Supercomput. Res. & Dev., Illinois Univ., Urbana, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "Scheduling (computing)",
+        "Granularity",
+        "Workload",
+        "Task parallelism",
+        "Runtime system",
+        "Real-time computing",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "188832472",
+        "299124407",
+        "1508832769",
+        "1647001983",
+        "2032404535",
+        "2040836178",
+        "2047896115",
+        "2069342860",
+        "2098688018",
+        "2103738812",
+        "2116975584",
+        "2149663533"
+    ]
+}

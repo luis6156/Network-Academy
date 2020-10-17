@@ -1,0 +1,40 @@
+{
+    "id": "1496064480",
+    "title": "Group-Based Performance Analysis for Multithreaded SMP Cluster Applications",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Holger Brunst",
+            "id": "2233930081",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Hans-Christian Hoppe",
+            "id": "2098417237",
+            "org": "Pallas GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "STREAMS",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Traverse",
+        "Parallel processing",
+        "Message passing",
+        "Multithreading"
+    ],
+    "references": [
+        "1595501290",
+        "2098984303",
+        "2158182626"
+    ]
+}

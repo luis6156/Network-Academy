@@ -1,0 +1,51 @@
+{
+    "id": "1527410104",
+    "title": "Conditional oblivious transfer and timed-release encryption",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Giovanni Di Crescenzo",
+            "id": "2019977874",
+            "org": "Computer Science Department, University of California San Diego, La Jolla, CA#TAB#"
+        },
+        {
+            "name": "Rafail Ostrovsky",
+            "id": "1482108584",
+            "org": "Bell Communications Research, Morristown, NJ#TAB#"
+        },
+        {
+            "name": "Sivaramakrishnan Rajagopalan",
+            "id": "2284609316",
+            "org": "Bell Communications Research, Morristown, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Oblivious transfer",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Communication source",
+        "Heuristic",
+        "Network Time Protocol",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1506292293",
+        "1965163152",
+        "1987667503",
+        "1992874778",
+        "2001891653",
+        "2016443801",
+        "2047925852",
+        "2051250911",
+        "2101803085",
+        "2119422255",
+        "2125247191",
+        "2153708829",
+        "2168957864"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1509778976",
+    "title": "Key attestation from trusted execution environments",
+    "venue": "trust and trustworthy computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kari Kostiainen",
+            "id": "2345698697",
+            "org": "Nokia Research Center, Helsinki, Finland#TAB#"
+        },
+        {
+            "name": "Alexandra Dmitrienko",
+            "id": "2234360275",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Jan-Erik Ekberg",
+            "id": "2155537204",
+            "org": "Nokia Research Center, Helsinki, Finland#TAB#"
+        },
+        {
+            "name": "Ahmad-Reza Sadeghi",
+            "id": "2120420677",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "N. Asokan",
+            "id": "2383048336",
+            "org": "Nokia Research Center, Helsinki, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Credential",
+        "Trusted Platform Module",
+        "Computer science",
+        "Key (cryptography)",
+        "Computer security",
+        "Mobile phone",
+        "Password",
+        "Digital credential",
+        "Internet privacy",
+        "Direct Anonymous Attestation"
+    ],
+    "references": [
+        "161166442",
+        "1571697522",
+        "1594414003",
+        "1626549230",
+        "2136677179",
+        "2156171043",
+        "2277781126",
+        "2611598995"
+    ]
+}

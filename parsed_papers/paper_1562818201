@@ -1,0 +1,68 @@
+{
+    "id": "1562818201",
+    "title": "Multi-core Implementation of the Tate Pairing over Supersingular Elliptic Curves",
+    "venue": "cryptology and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Luc Beuchat",
+            "id": "1981725373",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan 305-8573#TAB#"
+        },
+        {
+            "name": "Emmanuel Lopez-Trejo",
+            "id": "91414225",
+            "org": "Nehalem Platform Validation, Intel Guadalajara Design Center, Tlaquepaque, Mexico 45600#TAB#"
+        },
+        {
+            "name": "Luis Martinez-Ramos",
+            "id": "2513479203",
+            "org": "Computer Science Department, Centro de Investigacion y de Estudios Avanzados del IPN, Mexico City, Mexico 07300#TAB#"
+        },
+        {
+            "name": "Shigeo Mitsunari",
+            "id": "2660552418",
+            "org": "Cybozu Labs, Inc., Akasaka Twin Tower East 15F, 2-17-22 Akasaka, Minato-ku, Tokyo 107-0052#TAB#"
+        },
+        {
+            "name": "Francisco Rodriguez-Henriquez",
+            "id": "727884664",
+            "org": "Computer Science Department, Centro de Investigacion y de Estudios Avanzados del IPN, Mexico City, Mexico 07300#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supersingular elliptic curve",
+        "Cryptography",
+        "Mathematics",
+        "Multi-core processor",
+        "Discrete mathematics",
+        "Computation",
+        "Pairing",
+        "Algebra",
+        "Finite field arithmetic",
+        "Tate pairing"
+    ],
+    "references": [
+        "1518871948",
+        "1553083934",
+        "1560768562",
+        "1570351601",
+        "1586130370",
+        "1592773427",
+        "1637905077",
+        "1650411492",
+        "1775300479",
+        "1860992226",
+        "1990220158",
+        "2032767749",
+        "2055083041",
+        "2097493047",
+        "2103995847",
+        "2109719955",
+        "2119803016",
+        "2121371977",
+        "2125467055",
+        "2128139403",
+        "2296489817"
+    ]
+}

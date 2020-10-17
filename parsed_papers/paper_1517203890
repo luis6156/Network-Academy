@@ -1,0 +1,77 @@
+{
+    "id": "1517203890",
+    "title": "Concert/C: a language for distributed programming",
+    "venue": "usenix winter technical conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Joshua S. Auerbach",
+            "id": "2130885035",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Arthur P. Goldberg",
+            "id": "2164944204",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "German S. Goldszmidt",
+            "id": "2305577700",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Ajei Sarat Gopal",
+            "id": "2123256848",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Mark T. Kennedy",
+            "id": "2136110021",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Josyula R. Rao",
+            "id": "2778154417",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "James R. Russell",
+            "id": "2134924584",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inter-process communication",
+        "Pointer (computer programming)",
+        "Compile time",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "ANSI C",
+        "Complex data type",
+        "Operating system",
+        "Multicast",
+        "C data types"
+    ],
+    "references": [
+        "1522437708",
+        "1523856938",
+        "1563392297",
+        "1649488069",
+        "1991494135",
+        "1993503482",
+        "2002116247",
+        "2014923870",
+        "2025348113",
+        "2045142523",
+        "2058806660",
+        "2108167744",
+        "2119388734",
+        "2125606443",
+        "2126129257",
+        "2129787078",
+        "2134783171",
+        "2175671778",
+        "2294581346"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1756431498",
+    "title": "A Polynomial Delay Algorithm for the Enumeration of Bubbles with Length Constraints in Directed Graphs and Its Application to the Detection of Alternative Splicing in RNA-seq Data",
+    "venue": "workshop on algorithms in bioinformatics",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Gustavo Sacomoto",
+            "id": "2029608532",
+            "org": "INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Vincent Lacroix",
+            "id": "2144103282",
+            "org": "INRIA Rhone-Alpes"
+        },
+        {
+            "name": "Marie-France Sagot",
+            "id": "1268254517",
+            "org": "INRIA Rhone-Alpes"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Alternative splicing",
+        "Enumeration",
+        "Directed graph",
+        "Algorithm",
+        "Priority queue",
+        "Combinatorics",
+        "RNA-Seq",
+        "Bioinformatics",
+        "Polynomial"
+    ],
+    "references": [
+        "190527922",
+        "1495524224",
+        "1981194976",
+        "2019637647",
+        "2103635790",
+        "2105656684",
+        "2156841387",
+        "2160365857",
+        "2179933869"
+    ]
+}

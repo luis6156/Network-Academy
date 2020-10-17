@@ -1,0 +1,39 @@
+{
+    "id": "1487555425",
+    "title": "Working with MPI Benchmarking Suites on ccNUMA Architectures",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hermann Mierendorff",
+            "id": "2497122678",
+            "org": "GMD - German National Research Center for Information Technology"
+        },
+        {
+            "name": "Klare Cassirer",
+            "id": "2629598501",
+            "org": "GMD - German National Research Center for Information Technology"
+        },
+        {
+            "name": "Helmut Schwamborn",
+            "id": "1078198690",
+            "org": "GMD - German National Research Center for Information Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Piecewise linear function",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Benchmarking",
+        "Systems architecture"
+    ],
+    "references": [
+        "1517304607",
+        "1551272572",
+        "1969215126",
+        "2100720297"
+    ]
+}

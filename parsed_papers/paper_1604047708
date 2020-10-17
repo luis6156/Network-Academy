@@ -1,0 +1,49 @@
+{
+    "id": "1604047708",
+    "title": "WARPsim: A code-transparent network simulator for WARP devices",
+    "venue": "world of wireless mobile and multimedia networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Andreas Schumacher",
+            "id": "2226361165",
+            "org": "Communication and Distributed Systems, RWTH Aachen University, Germany"
+        },
+        {
+            "name": "Martin Serror",
+            "id": "2230213394",
+            "org": "Communication and Distributed Systems, RWTH Aachen University, Germany"
+        },
+        {
+            "name": "Christian Dombrowski",
+            "id": "2145485899",
+            "org": "Communication and Distributed Systems, RWTH Aachen University, Germany"
+        },
+        {
+            "name": "James Gross",
+            "id": "2344077619",
+            "org": "School of Electrical Engineering, KTH Royal Institute of Technology, Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Link Control Protocol",
+        "Internet Protocol",
+        "Port Control Protocol",
+        "Resource Reservation Protocol",
+        "Computer science",
+        "Distributed computing",
+        "Reverse Address Resolution Protocol",
+        "General Inter-ORB Protocol",
+        "Internetwork protocol",
+        "Computer network",
+        "Internet protocol suite",
+        "Real-time computing"
+    ],
+    "references": [
+        "1518366467",
+        "1923594657",
+        "1970705443",
+        "1983472463",
+        "2128335669"
+    ]
+}

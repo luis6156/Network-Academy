@@ -1,0 +1,44 @@
+{
+    "id": "1592530555",
+    "title": "A New Exact Solution Algorithm for the Job Shop Problem with Sequence-Dependent Setup Times",
+    "venue": "integration of ai and or techniques in constraint programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christian Artigues",
+            "id": "141678549",
+            "org": "FRE CNRS 2487 Universite d'Avignon, Agroparc"
+        },
+        {
+            "name": "S. Belmokhtar",
+            "id": "2308061371",
+            "org": "MSGI-G2I, Ecole des Mines de Saint Etienne"
+        },
+        {
+            "name": "Dominique Feillet",
+            "id": "630090078",
+            "org": "FRE CNRS 2487 Universite d'Avignon, Agroparc"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Branch and bound",
+        "Constraint satisfaction",
+        "Computer science",
+        "Constraint programming",
+        "Local consistency",
+        "Job shop scheduling",
+        "Flow shop scheduling",
+        "Job shop",
+        "Travelling salesman problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "8226277",
+        "49511221",
+        "106605499",
+        "2011593869",
+        "2037615545",
+        "2135644739"
+    ]
+}

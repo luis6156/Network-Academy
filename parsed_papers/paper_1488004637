@@ -1,0 +1,48 @@
+{
+    "id": "1488004637",
+    "title": "VCEGAR: Verilog counterexample guided abstraction refinement",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Himanshu Jain",
+            "id": "2293136709",
+            "org": "Carnegie Mellon University, School of Computer Science#TAB#"
+        },
+        {
+            "name": "Daniel Kroening",
+            "id": "2132595810",
+            "org": "ETH Zuerich, Switzerland#TAB#"
+        },
+        {
+            "name": "Natasha Sharygina",
+            "id": "1365520453",
+            "org": "Carnegie Mellon University, School of Computer Science and Informatics Department, University of Lugano#TAB#"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie Mellon University, School of Computer Science#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Verilog",
+        "Formal equivalence checking",
+        "Theoretical computer science",
+        "Computer architecture",
+        "Register transfer language",
+        "High-level verification",
+        "Computer science",
+        "Intelligent verification",
+        "Formal methods",
+        "Logic simulation",
+        "Hardware description language"
+    ],
+    "references": [
+        "1497571013",
+        "1574896545",
+        "2043876870",
+        "2158395308",
+        "2164829820"
+    ]
+}

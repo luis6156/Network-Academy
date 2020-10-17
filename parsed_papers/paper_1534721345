@@ -1,0 +1,45 @@
+{
+    "id": "1534721345",
+    "title": "A microbenchmark study of OpenMP overheads under nested parallelism",
+    "venue": "international workshop on openmp",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vassilios V. Dimakopoulos",
+            "id": "2150676827",
+            "org": "Department of Computer Science, University of Ioannina, Ioannina, Greece#TAB#"
+        },
+        {
+            "name": "Panagiotis E. Hadjidoukas",
+            "id": "2221444126",
+            "org": "Department of Computer Science, University of Ioannina, Ioannina, Greece#TAB#"
+        },
+        {
+            "name": "Giorgos Ch. Philos",
+            "id": "2278321397",
+            "org": "Department of Computer Science, University of Ioannina, Ioannina, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Data parallelism",
+        "Implementation",
+        "Implicit parallelism",
+        "Task parallelism",
+        "Runtime system",
+        "Concurrency"
+    ],
+    "references": [
+        "1493206251",
+        "1589136629",
+        "1968978915",
+        "1999752372",
+        "2013051005",
+        "2109566345",
+        "2140514001"
+    ]
+}

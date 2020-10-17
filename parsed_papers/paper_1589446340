@@ -1,0 +1,43 @@
+{
+    "id": "1589446340",
+    "title": "A family of measurement-based admission control algorithms",
+    "venue": "PICS '98 Proceedings of the IFIP TC6/WG6.3 Seventh International Conference on Performance of Information and Communication Systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Zoltan Richard Turanyi",
+            "id": "56725504",
+            "org": "Ericsson, Traffic Analysis and Network Performance Laboratory"
+        },
+        {
+            "name": "Andras Veres",
+            "id": "2217429667",
+            "org": "Ericsson, Traffic Analysis and Network Performance Laboratory"
+        },
+        {
+            "name": "A. Olah",
+            "id": "2697612761",
+            "org": "Ericsson, Traffic Analysis and Network Performance Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Integrated services",
+        "Algorithm",
+        "FIFO (computing and electronics)",
+        "Computer science",
+        "Scheduling (computing)",
+        "Bandwidth (signal processing)",
+        "Admission control",
+        "Computer network",
+        "Token bucket"
+    ],
+    "references": [
+        "1991247510",
+        "2020599752",
+        "2038432072",
+        "2101239612",
+        "2126421073",
+        "2158283087",
+        "2176566884"
+    ]
+}

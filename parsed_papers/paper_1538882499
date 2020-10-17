@@ -1,0 +1,76 @@
+{
+    "id": "1538882499",
+    "title": "From model-checking to automated testing of security protocols: bridging the gap",
+    "venue": "tests and proofs",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Alessandro Armando",
+            "id": "2345056753",
+            "org": "DIST, Universita degli Studi di Genova, Italy,Security & Trust Unit, FBK-irst, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Giancarlo Pellegrino",
+            "id": "2777018719",
+            "org": "Institute Eurecom, Sophia Antipolis, France,SAP Research, Mougins, France#TAB#"
+        },
+        {
+            "name": "Roberto Carbone",
+            "id": "2121969309",
+            "org": "Security & Trust Unit, FBK-irst, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alessio Merlo",
+            "id": "2160285081",
+            "org": "DIST, Universita degli Studi di Genova, Italy,Universita Telematica E-Campus, Italy#TAB#"
+        },
+        {
+            "name": "Davide Balzarotti",
+            "id": "342838144",
+            "org": "Institute Eurecom, Sophia Antipolis, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Bridging (networking)",
+        "Theoretical computer science",
+        "Authentication",
+        "Cryptographic protocol",
+        "System under test",
+        "Computer science",
+        "Implementation",
+        "Model checking",
+        "Linear temporal logic"
+    ],
+    "references": [
+        "50729311",
+        "185032413",
+        "1480381693",
+        "1484172663",
+        "1489243061",
+        "1508108434",
+        "1556566737",
+        "1858410342",
+        "1979931683",
+        "1997423921",
+        "1997504384",
+        "2052495090",
+        "2054931328",
+        "2077836579",
+        "2078441146",
+        "2096217661",
+        "2108731912",
+        "2117064875",
+        "2119296494",
+        "2121025472",
+        "2121845793",
+        "2122991962",
+        "2126338744",
+        "2134245564",
+        "2136396212",
+        "2145415641",
+        "2155032609",
+        "2164210998",
+        "2295187523"
+    ]
+}

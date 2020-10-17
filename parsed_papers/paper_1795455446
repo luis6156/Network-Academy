@@ -1,0 +1,72 @@
+{
+    "id": "1795455446",
+    "title": "Fast multipole preconditioners for sparse matrices arising from elliptic equations",
+    "venue": "Computing and Visualization in Science",
+    "year": 2018,
+    "authors": [
+        {
+            "name": "Huda Ibeid",
+            "id": "210629122",
+            "org": "Extreme Computing Research Center, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+        },
+        {
+            "name": "Rio Yokota",
+            "id": "2779126626",
+            "org": "Tokyo Institute of Technology, Tokyo, Japan"
+        },
+        {
+            "name": "Jennifer Pestana",
+            "id": "2160273999",
+            "org": "University of Strathclyde, Glasgow, UK"
+        },
+        {
+            "name": "David E. Keyes",
+            "id": "2301871865",
+            "org": "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Mathematics",
+        "Preconditioner",
+        "Truncation error",
+        "Boundary element method",
+        "Fast multipole method",
+        "Boundary value problem",
+        "Solver",
+        "Mathematical optimization",
+        "Multigrid method"
+    ],
+    "references": [
+        "98110951",
+        "1506342804",
+        "1712535590",
+        "1800130386",
+        "1963960519",
+        "1973786815",
+        "1981314568",
+        "1985877409",
+        "1986624837",
+        "1990081118",
+        "1996639891",
+        "2017654099",
+        "2018419001",
+        "2030947573",
+        "2050124308",
+        "2054622952",
+        "2079472602",
+        "2079598795",
+        "2100437155",
+        "2106150226",
+        "2115400927",
+        "2119233169",
+        "2122137889",
+        "2136722618",
+        "2140980608",
+        "2164754386",
+        "2243933622",
+        "2330546299",
+        "2474724963",
+        "2506156067"
+    ]
+}

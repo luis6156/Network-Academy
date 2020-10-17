@@ -1,0 +1,50 @@
+{
+    "id": "1552039303",
+    "title": "Towards metaprogramming for parallel systems on a chip",
+    "venue": "international conference on parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Lee W. Howes",
+            "id": "2780412590",
+            "org": "Department of Computing, Imperial College London, London, UK#TAB#"
+        },
+        {
+            "name": "Anton Lokhmotov",
+            "id": "275028358",
+            "org": "Department of Computing, Imperial College London, London, UK#TAB#"
+        },
+        {
+            "name": "Alastair F. Donaldson",
+            "id": "2157244358",
+            "org": "Computing Laboratory, University of Oxford, Oxford, UK#TAB#"
+        },
+        {
+            "name": "Paul H. J. Kelly",
+            "id": "2125424380",
+            "org": "Department of Computing, Imperial College London, London, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Metaprogramming",
+        "Parallel computing",
+        "Computer architecture",
+        "Memory hierarchy",
+        "Chip",
+        "Computer science",
+        "Distributed computing",
+        "Metadata",
+        "Memory bandwidth",
+        "Space mapping",
+        "CUDA",
+        "Programmer"
+    ],
+    "references": [
+        "1484160293",
+        "1537323515",
+        "1623282124",
+        "1993320379",
+        "2085118703",
+        "2106416475"
+    ]
+}

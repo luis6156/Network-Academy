@@ -1,0 +1,37 @@
+{
+    "id": "1549263032",
+    "title": "Formal verification of a SHA-1 circuit core using ACL2",
+    "venue": "theorem proving in higher order logics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Diana Toma",
+            "id": "2057430885",
+            "org": "TIMA Laboratory, VDS Group, Grenoble, France#TAB#"
+        },
+        {
+            "name": "Dominique Borrione",
+            "id": "2045075578",
+            "org": "TIMA Laboratory, VDS Group, Grenoble, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "SHA-1",
+        "Theoretical computer science",
+        "Algorithm",
+        "Register-transfer level",
+        "Cryptographic hash function",
+        "Computer science",
+        "VHDL",
+        "ACL2",
+        "Hash function",
+        "Hardware description language"
+    ],
+    "references": [
+        "1494093576",
+        "1526312845",
+        "1592502301",
+        "1992006255"
+    ]
+}

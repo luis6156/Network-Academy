@@ -1,0 +1,36 @@
+{
+    "id": "1509491396",
+    "title": "Block Ciphers and Systems of Quadratic Equations",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Christophe De Canniere",
+            "id": "2038466276",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "XSL attack",
+        "Block size",
+        "Mathematics",
+        "MISTY1",
+        "KHAZAD",
+        "Integral cryptanalysis",
+        "Advanced Encryption Standard",
+        "Discrete mathematics",
+        "KASUMI"
+    ],
+    "references": [
+        "1542020576",
+        "1583871653",
+        "1588952639",
+        "1676521748"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1515018669",
+    "title": "Formal Verification of Molecular Computational Models in ACL2: A Case Study",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Francisco-Jesus Martin-Mateos",
+            "id": "1983303251",
+            "org": "University of Seville, E.T.S.I. Informatica"
+        },
+        {
+            "name": "Jose-Antonio Alonso",
+            "id": "2501192444",
+            "org": "University of Seville, E.T.S.I. Informatica"
+        },
+        {
+            "name": "Maria-Jose Hidalgo",
+            "id": "2503078830",
+            "org": "University of Seville, E.T.S.I. Informatica"
+        },
+        {
+            "name": "Jose-Luis Ruiz-Reina",
+            "id": "1996561238",
+            "org": "University of Seville, E.T.S.I. Informatica"
+        }
+    ],
+    "fields_of_study": [
+        "Computational model",
+        "Formal verification",
+        "Discrete mathematics",
+        "Proof theory",
+        "Formal proof",
+        "Soundness",
+        "ACL2",
+        "Constraint satisfaction",
+        "Computer science",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "327400",
+        "1529785534",
+        "1577360993",
+        "1588366745",
+        "2158708642",
+        "2293975237",
+        "2395938105"
+    ]
+}

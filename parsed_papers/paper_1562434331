@@ -1,0 +1,44 @@
+{
+    "id": "1562434331",
+    "title": "Fair and comprehensive methodology for comparing hardware performance of fourteen round two SHA-3 candidates using FPGAs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kris Gaj",
+            "id": "211296065",
+            "org": "ECE Department, George Mason University, Fairfax, VA#TAB#"
+        },
+        {
+            "name": "Ekawat Homsirikamol",
+            "id": "184154264",
+            "org": "ECE Department, George Mason University, Fairfax, VA#TAB#"
+        },
+        {
+            "name": "Marcin Rogawski",
+            "id": "2031306274",
+            "org": "ECE Department, George Mason University, Fairfax, VA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Computer hardware",
+        "Theoretical computer science",
+        "Computer science",
+        "Ranking",
+        "Performance metric",
+        "Benchmarking",
+        "SHA-3",
+        "Hash function"
+    ],
+    "references": [
+        "104126654",
+        "1559467217",
+        "2105101922",
+        "2121448889",
+        "2395044639",
+        "2404173250",
+        "2507916045"
+    ]
+}

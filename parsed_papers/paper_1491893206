@@ -1,0 +1,39 @@
+{
+    "id": "1491893206",
+    "title": "Automated Test of TCP Congestion Control Algorithms",
+    "venue": "Proceedings of the IFIP TC6 12th International Workshop on Testing Communicating Systems: Method and Applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Roland Gecse",
+            "id": "1889180933",
+            "org": "Ericsson Ltd."
+        },
+        {
+            "name": "Peter Kremer",
+            "id": "2098015594",
+            "org": "Ericsson Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "HSTCP",
+        "Computer science",
+        "H-TCP",
+        "TCP tuning",
+        "Scalable TCP",
+        "Real-time computing",
+        "TCP delayed acknowledgment",
+        "TCP pacing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1590810061",
+        "1591738014",
+        "1935756551",
+        "2015527743",
+        "2101080231",
+        "2257924330",
+        "2753542457"
+    ]
+}

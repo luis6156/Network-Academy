@@ -1,0 +1,45 @@
+{
+    "id": "1490121172",
+    "title": "Fault Attacks on Signature Schemes",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christophe Giraud",
+            "id": "2154295012",
+            "org": "Oberthur Card Systems"
+        },
+        {
+            "name": "Erik Woodward Knudsen",
+            "id": "2163043621",
+            "org": "Logos Smart Card A/S"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Side channel attack",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "EdDSA",
+        "Digital signature",
+        "ElGamal encryption",
+        "Schnorr signature",
+        "Fault model"
+    ],
+    "references": [
+        "1495121609",
+        "1500693694",
+        "1537875328",
+        "1584975026",
+        "1935672779",
+        "2057209427",
+        "2110162979",
+        "2110941647",
+        "2112284176",
+        "2144048023",
+        "2144952508",
+        "2155441237",
+        "2170489924"
+    ]
+}

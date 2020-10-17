@@ -1,0 +1,72 @@
+{
+    "id": "1521566648",
+    "title": "Non-Blocking PMI Extensions for Fast MPI Startup",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Sourav Chakraborty",
+            "id": "2253360101",
+            "org": "Dept. of Comput. Sci. & Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Hari Subramoni",
+            "id": "1836587477",
+            "org": "Dept. of Comput. Sci. & Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Adam Moody",
+            "id": "2158044129",
+            "org": "Lawrence Livermore Nat. Lab., Livermore, CA, USA"
+        },
+        {
+            "name": "Akshay Venkatesh",
+            "id": "2164173626",
+            "org": "Dept. of Comput. Sci. & Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Jonathan L. Perkins",
+            "id": "2165226404",
+            "org": "Dept. of Comput. Sci. & Eng., Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Dhabaleswar K. Panda",
+            "id": "2126583185",
+            "org": "Dept. of Comput. Sci. & Eng., Ohio State Univ., Columbus, OH, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Implementation",
+        "Data transmission",
+        "Message passing",
+        "Middleware",
+        "Initialization"
+    ],
+    "references": [
+        "1533020549",
+        "1547502462",
+        "1596936080",
+        "1605746882",
+        "1916850769",
+        "1967541550",
+        "2020653682",
+        "2035499422",
+        "2062724150",
+        "2091780466",
+        "2101342772",
+        "2120827897",
+        "2127089909",
+        "2143539682",
+        "2151255837",
+        "2151445386",
+        "2152994038",
+        "2165102815",
+        "2165808215",
+        "2166097017"
+    ]
+}

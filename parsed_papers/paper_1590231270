@@ -1,0 +1,57 @@
+{
+    "id": "1590231270",
+    "title": "Geometric and Optical Flow Based Method for Facial Expression Recognition in Color Image Sequences",
+    "venue": "international conference on computer vision",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ayoub Al-Hamadi",
+            "id": "2030990617",
+            "org": "Institute for Electronics, Signal Processing and Communications (IESK), Otto-von-Guericke-University Magdeburg, Germany#TAB#"
+        },
+        {
+            "name": "Robert Niese",
+            "id": "1987729406",
+            "org": "Institute for Electronics, Signal Processing and Communications (IESK), Otto-von-Guericke-University Magdeburg, Germany#TAB#"
+        },
+        {
+            "name": "Saira Saleem Pathan",
+            "id": "2143507528",
+            "org": "Institute for Electronics, Signal Processing and Communications (IESK), Otto-von-Guericke-University Magdeburg, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Michaelis",
+            "id": "2013892650",
+            "org": "Institute for Electronics, Signal Processing and Communications (IESK), Otto-von-Guericke-University Magdeburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Feature (machine learning)",
+        "Feature detection (computer vision)",
+        "Feature (computer vision)",
+        "Optical flow",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Color image",
+        "k-nearest neighbors algorithm",
+        "Feature vector",
+        "Support vector machine",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1494234915",
+        "1509031088",
+        "1852351459",
+        "1963631544",
+        "2005628955",
+        "2075688085",
+        "2101965618",
+        "2118877769",
+        "2127462305",
+        "2130684315",
+        "2154412566",
+        "2162238004",
+        "2164598857"
+    ]
+}

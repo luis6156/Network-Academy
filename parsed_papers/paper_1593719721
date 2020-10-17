@@ -1,0 +1,70 @@
+{
+    "id": "1593719721",
+    "title": "Preventing active timing attacks in low-latency anonymous communication",
+    "venue": "privacy enhancing technologies",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Joan Feigenbaum",
+            "id": "2167932487",
+            "org": "Yale University#TAB#"
+        },
+        {
+            "name": "Aaron Johnson",
+            "id": "2261877457",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Paul F. Syverson",
+            "id": "2051205022",
+            "org": "Naval Research Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Routing protocol",
+        "Computer science",
+        "Communications protocol",
+        "Padding",
+        "Computer security",
+        "Latency (engineering)",
+        "Timing attack",
+        "Adversary",
+        "Computer network",
+        "Internet privacy",
+        "IP forwarding"
+    ],
+    "references": [
+        "13300996",
+        "1509835774",
+        "1518119787",
+        "1524103604",
+        "1545050218",
+        "1567366855",
+        "1569777704",
+        "1590015132",
+        "1606058619",
+        "1627303300",
+        "1655958391",
+        "1978884755",
+        "2014682428",
+        "2029272944",
+        "2029770675",
+        "2058143565",
+        "2087811006",
+        "2092085685",
+        "2108668142",
+        "2112178441",
+        "2122281733",
+        "2125657162",
+        "2126397841",
+        "2127295197",
+        "2143215034",
+        "2144268522",
+        "2146148058",
+        "2150248082",
+        "2156410527",
+        "2169991041",
+        "2172231332",
+        "2174056151"
+    ]
+}

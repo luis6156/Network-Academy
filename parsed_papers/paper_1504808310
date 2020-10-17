@@ -1,0 +1,47 @@
+{
+    "id": "1504808310",
+    "title": "AMRoute: ad hoc multicast routing protocol",
+    "venue": "Mobile Networks and Applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jason Xie",
+            "id": "2660005052",
+            "org": "University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Rajesh Talpade",
+            "id": "2116441557",
+            "org": "Telcordia Technologies#TAB#"
+        },
+        {
+            "name": "Anthony J. McAuley",
+            "id": "2099478613",
+            "org": "Telcordia Technologies#TAB#"
+        },
+        {
+            "name": "Mingyan Liu",
+            "id": "2101098421",
+            "org": "University of Maryland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multicast address",
+        "ODMRP",
+        "Xcast",
+        "Computer science",
+        "Distributed computing",
+        "Distance Vector Multicast Routing Protocol",
+        "Protocol Independent Multicast",
+        "Pragmatic General Multicast",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "Multicast"
+    ],
+    "references": [
+        "1745205774",
+        "2038781258",
+        "2102258543",
+        "2132932625"
+    ]
+}

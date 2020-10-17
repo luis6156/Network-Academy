@@ -1,0 +1,68 @@
+{
+    "id": "1789738249",
+    "title": "Collective caching: application-aware client-side file caching",
+    "venue": "high performance distributed computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Wei-keng Liao",
+            "id": "2791333731",
+            "org": "Electr. & Comput. Eng. Dept., Northwestern Univ., Evanston, IL, USA"
+        },
+        {
+            "name": "Kenin Coloma",
+            "id": "505014980",
+            "org": "Electr. & Comput. Eng. Dept., Northwestern Univ., Evanston, IL, USA"
+        },
+        {
+            "name": "Alok N. Choudhary",
+            "id": "2147783234",
+            "org": "Electr. & Comput. Eng. Dept., Northwestern Univ., Evanston, IL, USA"
+        },
+        {
+            "name": "Lee Ward",
+            "id": "2122152068",
+            "org": "Sandia National Laboratories NM"
+        },
+        {
+            "name": "Eric Russell",
+            "id": "2682472419",
+            "org": "Sandia National Laboratories NM"
+        },
+        {
+            "name": "Sonja Tideman",
+            "id": "2275376515",
+            "org": "Sandia National Laboratories NM"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Inline caching",
+        "Smart Cache",
+        "Computer science",
+        "Distributed computing",
+        "False sharing",
+        "Server",
+        "Message passing",
+        "File server",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1545155892",
+        "1584023462",
+        "1782125413",
+        "1856310083",
+        "1973326289",
+        "1978513924",
+        "2017952893",
+        "2026245985",
+        "2056985101",
+        "2077967211",
+        "2083200599",
+        "2110298485",
+        "2127443536",
+        "2131645490",
+        "2148132761"
+    ]
+}

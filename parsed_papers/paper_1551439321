@@ -1,0 +1,54 @@
+{
+    "id": "1551439321",
+    "title": "2PC Agent method: achieving serializability in presence of failures in a heterogeneous multidatabase",
+    "venue": "international conference on databases parallel architectures and their applications",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Antoni Wolski",
+            "id": "2754358750",
+            "org": "Tech. Res. Center of Finland, Helsinki, Finland"
+        },
+        {
+            "name": "Jari Veijalainen",
+            "id": "287545490",
+            "org": "Tech. Res. Center of Finland, Helsinki, Finland"
+        }
+    ],
+    "fields_of_study": [
+        "Commitment ordering",
+        "Non-lock concurrency control",
+        "Schedule (computer science)",
+        "Serializability",
+        "Distributed computing",
+        "Computer science",
+        "Global serializability",
+        "Distributed concurrency control",
+        "Real-time computing",
+        "Isolation (database systems)",
+        "Two-phase locking"
+    ],
+    "references": [
+        "176809997",
+        "1545155892",
+        "1559896221",
+        "1917626582",
+        "1991199257",
+        "2000417180",
+        "2030653663",
+        "2044091679",
+        "2083822024",
+        "2093508352",
+        "2103687844",
+        "2103824348",
+        "2105700867",
+        "2106887953",
+        "2137825655",
+        "2148199530",
+        "2148230860",
+        "2162520370",
+        "2169379483",
+        "2295243699",
+        "2336159763"
+    ]
+}

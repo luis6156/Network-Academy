@@ -1,0 +1,42 @@
+{
+    "id": "1554786964",
+    "title": "PARTHEO: a high-performance parallel theorem prover",
+    "venue": "conference on automated deduction",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Johann Schumann",
+            "id": "2274380264",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Reinhold Letz",
+            "id": "2077072820",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Gas meter prover",
+        "Warren Abstract Machine",
+        "Theoretical computer science",
+        "Algorithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Abstract machine",
+        "First-order logic",
+        "Skolem normal form",
+        "Proof calculus",
+        "Automated theorem proving",
+        "Model elimination"
+    ],
+    "references": [
+        "17889614",
+        "23752547",
+        "93523116",
+        "1514729613",
+        "1525644138",
+        "1588666994",
+        "1869961429",
+        "2081092823"
+    ]
+}

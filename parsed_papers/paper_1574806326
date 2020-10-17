@@ -1,0 +1,42 @@
+{
+    "id": "1574806326",
+    "title": "A Portable and Adaptative Multi-protocol Communication Library for Multithreaded Runtime Systems",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Olivier Aumage",
+            "id": "33265524",
+            "org": "ENS Lyon"
+        },
+        {
+            "name": "Luc Bouge",
+            "id": "2610466900",
+            "org": "ENS Lyon"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "ENS Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Communications protocol",
+        "Distributed computing",
+        "Block (data storage)",
+        "Message Passing Interface",
+        "User requirements document",
+        "Runtime system",
+        "Ethernet",
+        "Myrinet"
+    ],
+    "references": [
+        "22448193",
+        "1598240236",
+        "1999922992",
+        "2095793442",
+        "2098228070"
+    ]
+}

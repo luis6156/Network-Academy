@@ -1,0 +1,42 @@
+{
+    "id": "1600690517",
+    "title": "Adaptive XML Shredding: Architecture, Implementation, and Challenges.",
+    "venue": "EEXTT",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Juliana Freire",
+            "id": "2116519607",
+            "org": "Bell Laboratories, 600 Mountain Avenue, Murray Hill, 07974 NJ, USA"
+        },
+        {
+            "name": "Jerome Simeon",
+            "id": "2136479023",
+            "org": "Bell Laboratories, 600 Mountain Avenue, Murray Hill, 07974 NJ, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "XML",
+        "Data control language",
+        "XML database",
+        "Database model",
+        "Computer science",
+        "Database",
+        "Distributed concurrency control",
+        "Architecture"
+    ],
+    "references": [
+        "1540408937",
+        "2026896584",
+        "2082425356",
+        "2104476081",
+        "2122816893",
+        "2133640934",
+        "2136195851",
+        "2139086573",
+        "2148832586",
+        "2165286227"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1816225866",
+    "title": "A non-parametric Bayesian method for inferring hidden causes",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Frank D. Wood",
+            "id": "2155983567",
+            "org": "Computer Science, Brown University, Providence, RI#TAB#"
+        },
+        {
+            "name": "Thomas L. Griffiths",
+            "id": "2122351653",
+            "org": "Cognitive and Linguistic Sciences, Brown University, Providence, RI#TAB#"
+        },
+        {
+            "name": "Zoubin Ghahramani",
+            "id": "617670330",
+            "org": "Department of Engineering, University of Cambridge, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Reversible-jump Markov chain Monte Carlo",
+        "Finite set",
+        "Gibbs sampling",
+        "Markov chain Monte Carlo",
+        "Hidden semi-Markov model",
+        "Bayesian probability",
+        "Observable",
+        "Nonparametric statistics",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1815331012",
+        "2065391030",
+        "2120636621",
+        "2123562323",
+        "2128002512",
+        "2159080219",
+        "2160077621"
+    ]
+}

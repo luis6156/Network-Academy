@@ -1,0 +1,45 @@
+{
+    "id": "1459875537",
+    "title": "Proving Correctness of a KRK Chess Endgame Strategy by Using Isabelle/HOL and Z3",
+    "venue": "conference on automated deduction",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Filip Maric",
+            "id": "206558969",
+            "org": "University of Belgrade"
+        },
+        {
+            "name": "Predrag Janicic",
+            "id": "91530389",
+            "org": "University of Belgrade"
+        },
+        {
+            "name": "Marko Malikovic",
+            "id": "2262059203",
+            "org": "University of Rijeka"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction problem",
+        "Logical framework",
+        "Algorithm",
+        "Theoretical computer science",
+        "Executable",
+        "Proof assistant",
+        "Computer science",
+        "Chess endgame",
+        "Correctness",
+        "HOL",
+        "Satisfiability modulo theories",
+        "Programming language"
+    ],
+    "references": [
+        "81349459",
+        "1532290481",
+        "1552715853",
+        "1574010314",
+        "1976969390",
+        "2149534079"
+    ]
+}

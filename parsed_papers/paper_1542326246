@@ -1,0 +1,69 @@
+{
+    "id": "1542326246",
+    "title": "Convergent Compilation Applied to Loop Unrolling",
+    "venue": "high performance embedded architectures and compilers",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nicholas Nethercote",
+            "id": "2278577441",
+            "org": "The University of Texas at Austin,#TAB#"
+        },
+        {
+            "name": "Doug Burger",
+            "id": "2141961906",
+            "org": "The University of Texas at Austin,#TAB#"
+        },
+        {
+            "name": "Kathryn S. McKinley",
+            "id": "2115847858",
+            "org": "The University of Texas at Austin,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop unrolling",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Heuristics",
+        "Computer science",
+        "Compiler",
+        "Single Compilation Unit",
+        "Register allocation",
+        "Code generation",
+        "Real-time computing",
+        "TRIPS architecture"
+    ],
+    "references": [
+        "92605443",
+        "350392096",
+        "1521790034",
+        "1531339993",
+        "1967846636",
+        "2005985523",
+        "2022554539",
+        "2052934867",
+        "2055817654",
+        "2060533244",
+        "2074427026",
+        "2102081731",
+        "2102582914",
+        "2102839400",
+        "2116158110",
+        "2116243944",
+        "2116299797",
+        "2118937112",
+        "2119537359",
+        "2128151625",
+        "2129207930",
+        "2129962996",
+        "2143588523",
+        "2147345262",
+        "2153027931",
+        "2153637321",
+        "2154332652",
+        "2158561130",
+        "2168519934",
+        "2170753802",
+        "2589638396"
+    ]
+}

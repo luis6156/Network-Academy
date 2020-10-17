@@ -1,0 +1,50 @@
+{
+    "id": "1538818432",
+    "title": "Parallel Processing of \"Group-By Join\" Queries on Shared Nothing Machines",
+    "venue": "international conference on software and data technologies",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "M. Al Hajj Hassan",
+            "id": "2110113255",
+            "org": "Universite d'Orleans"
+        },
+        {
+            "name": "Mostafa Bamha",
+            "id": "1120993694",
+            "org": "Universite d'Orleans"
+        }
+    ],
+    "fields_of_study": [
+        "Shared nothing architecture",
+        "Scalability",
+        "Bulk synchronous parallel",
+        "Input/output",
+        "Recursive join",
+        "Computer science",
+        "Distributed computing",
+        "Hash join",
+        "Sort-merge join",
+        "Parallel algorithm"
+    ],
+    "references": [
+        "1538786304",
+        "1544008239",
+        "1569198079",
+        "1570320352",
+        "1583130056",
+        "1597532222",
+        "1608248699",
+        "1916323520",
+        "1973797056",
+        "1997020216",
+        "2024680396",
+        "2045271686",
+        "2052207834",
+        "2102607950",
+        "2122265344",
+        "2131724164",
+        "2152845022",
+        "2626304854"
+    ]
+}

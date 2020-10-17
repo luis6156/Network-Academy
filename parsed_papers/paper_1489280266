@@ -1,0 +1,49 @@
+{
+    "id": "1489280266",
+    "title": "A minimally-interactive watershed algorithm designed for efficient CTA bone removal",
+    "venue": "european conference on computer vision",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Horst K. Hahn",
+            "id": "2157164624",
+            "org": "MeVis, Center for Medical Diagnostic Systems and Visualization, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Markus T. Wenzel",
+            "id": "2578121883",
+            "org": "MeVis, Center for Medical Diagnostic Systems and Visualization, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Olaf Konrad-Verse",
+            "id": "2093892874",
+            "org": "MeVis, Center for Medical Diagnostic Systems and Visualization, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Heinz-Otto Peitgen",
+            "id": "2576425098",
+            "org": "MeVis, Center for Medical Diagnostic Systems and Visualization, Bremen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Watershed",
+        "Segmentation",
+        "Computer vision",
+        "Algorithm design",
+        "Bone structures",
+        "Computer science",
+        "Image segmentation",
+        "Segmentation-based object categorization",
+        "Subdivision",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1576648105",
+        "1652775531",
+        "2094232965",
+        "2108824264",
+        "2124260943",
+        "2131006320"
+    ]
+}

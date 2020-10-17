@@ -1,0 +1,50 @@
+{
+    "id": "1515291320",
+    "title": "Time-synchronous continuous speech recognizer driven by a context-free grammar",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Tohru Shimizu",
+            "id": "2589956332",
+            "org": "ATR Interpreting Telecommun. Res. Labs., Kyoto, Japan"
+        },
+        {
+            "name": "Seikou Monzen",
+            "id": "2567602893",
+            "org": "ATR Interpreting|Telec ommunications Research Labs"
+        },
+        {
+            "name": "Harald Singer",
+            "id": "2307791046",
+            "org": "ATR Interpreting|Telec ommunications Research Labs"
+        },
+        {
+            "name": "Shoichi Matsunaga",
+            "id": "2304938836",
+            "org": "ATR Interpreting|Telec ommunications Research Labs"
+        }
+    ],
+    "fields_of_study": [
+        "GLR parser",
+        "Simple LR parser",
+        "Pattern recognition",
+        "Computer science",
+        "Trie",
+        "Hidden Markov model",
+        "LR parser",
+        "Canonical LR parser",
+        "Viterbi algorithm",
+        "Speech recognition",
+        "Context-free grammar",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "169642203",
+        "298176830",
+        "1549379126",
+        "1556596644",
+        "2113197526",
+        "2136133161"
+    ]
+}

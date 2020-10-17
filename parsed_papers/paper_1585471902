@@ -1,0 +1,78 @@
+{
+    "id": "1585471902",
+    "title": "Dual-quorum replication for edge services",
+    "venue": "acm ifip usenix international conference on middleware",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Lei Gao",
+            "id": "2398761394",
+            "org": "University of Texas at Austin, Austin, TX#TAB#"
+        },
+        {
+            "name": "Michael Dahlin",
+            "id": "2051666199",
+            "org": "University of Texas at Austin, Austin, TX#TAB#"
+        },
+        {
+            "name": "Jiandan Zheng",
+            "id": "2125309963",
+            "org": "University of Texas at Austin, Austin, TX#TAB#"
+        },
+        {
+            "name": "Lorenzo Alvisi",
+            "id": "2292936287",
+            "org": "University of Texas at Austin, Austin, TX#TAB#"
+        },
+        {
+            "name": "Arun Iyengar",
+            "id": "1251078740",
+            "org": "IBM TJ Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Response time",
+        "Replication (computing)",
+        "Input/output",
+        "Algorithm design",
+        "Distributed computing",
+        "Computer science",
+        "Weak consistency",
+        "Concurrency",
+        "Middleware",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "1545155892",
+        "1552054694",
+        "1802699987",
+        "1984674591",
+        "1999255105",
+        "2001803004",
+        "2005373714",
+        "2012481411",
+        "2020765652",
+        "2043801088",
+        "2052960791",
+        "2063738427",
+        "2071958655",
+        "2089661946",
+        "2094162326",
+        "2099105350",
+        "2110765100",
+        "2112999365",
+        "2113012239",
+        "2115806861",
+        "2117260615",
+        "2119360906",
+        "2125264097",
+        "2127440409",
+        "2139975493",
+        "2142849519",
+        "2147894617",
+        "2148383895",
+        "2156680601",
+        "2166851716"
+    ]
+}

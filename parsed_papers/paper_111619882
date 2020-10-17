@@ -1,0 +1,46 @@
+{
+    "id": "111619882",
+    "title": "Lessons learned from developing a dynamic OCL constraint enforcement tool for java",
+    "venue": "model driven engineering languages and systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Wojciech J. Dzidek",
+            "id": "698413335",
+            "org": "Simula Research Laboratory, Lysaker, Norway#TAB#"
+        },
+        {
+            "name": "Lionel C. Briand",
+            "id": "2144557644",
+            "org": "Software Quality Engineering Laboratory, Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, Canada#TAB#"
+        },
+        {
+            "name": "Yvan Labiche",
+            "id": "294141752",
+            "org": "Software Quality Engineering Laboratory, Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unified Modeling Language",
+        "Java",
+        "Postcondition",
+        "Computer science",
+        "Object Constraint Language",
+        "Aspect-oriented programming",
+        "Precondition",
+        "Programming language",
+        "Design by contract",
+        "Debugging"
+    ],
+    "references": [
+        "1526993786",
+        "1583910909",
+        "1605034451",
+        "1987264191",
+        "2054943246",
+        "2098683443",
+        "2119582290",
+        "2161825580",
+        "2168926899"
+    ]
+}

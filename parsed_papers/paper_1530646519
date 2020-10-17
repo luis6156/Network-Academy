@@ -1,0 +1,36 @@
+{
+    "id": "1530646519",
+    "title": "On probability of success in linear and differential cryptanalysis",
+    "venue": "international workshop on security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ali Aydin Selcuk",
+            "id": "2171730961",
+            "org": "Department of Computer Sciences, Purdue Univeristy, West Lafayette, IN#TAB#"
+        },
+        {
+            "name": "Ali Bicak",
+            "id": "2222923207",
+            "org": "Maryland Center for Telecommunications Research, Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Computer science",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Strong cryptography"
+    ],
+    "references": [
+        "1535662987",
+        "1537206908",
+        "1964723977",
+        "1979802565"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1496537533",
+    "title": "A performance measurement infrastructure for co-array fortran",
+    "venue": "european conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "Forschungszentrum Julich, ZAM, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Luiz DeRose",
+            "id": "1893306346",
+            "org": "Cray Inc, Mendota Heights, MN#TAB#"
+        },
+        {
+            "name": "Jeffrey S. Vetter",
+            "id": "2165234532",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Parallel computing",
+        "Remote memory",
+        "Parallel programming model",
+        "Computer science",
+        "Visualization",
+        "Performance measurement",
+        "Data collection",
+        "Programming language",
+        "Fortran",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1508462451",
+        "1515668834",
+        "1518911419",
+        "1538073575",
+        "1574249939",
+        "1858951234",
+        "1953207896",
+        "1965351873",
+        "2033848632",
+        "2099000434",
+        "2111686839",
+        "2133681296",
+        "2157456548"
+    ]
+}

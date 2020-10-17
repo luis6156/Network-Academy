@@ -1,0 +1,52 @@
+{
+    "id": "1801085879",
+    "title": "Automatic FIR filter generation for FPGAs",
+    "venue": "international conference on embedded computer systems architectures modeling and simulation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Holger Ruckdeschel",
+            "id": "2097299973",
+            "org": "Department of Computer Science 12, Hardware-Software-Co-Design, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Hritam Dutta",
+            "id": "2028047377",
+            "org": "Department of Computer Science 12, Hardware-Software-Co-Design, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Frank Hannig",
+            "id": "2054620176",
+            "org": "Department of Computer Science 12, Hardware-Software-Co-Design, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Jurgen Teich",
+            "id": "2017911276",
+            "org": "Department of Computer Science 12, Hardware-Software-Co-Design, University of Erlangen-Nuremberg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Massively parallel",
+        "Design flow",
+        "VHDL",
+        "Computer science",
+        "Distributed computing",
+        "Digital filter",
+        "Signal processing",
+        "Finite impulse response",
+        "Design space exploration",
+        "Hardware description language"
+    ],
+    "references": [
+        "164873639",
+        "1550601003",
+        "1801675113",
+        "1989435461",
+        "2102041794",
+        "2104078774",
+        "2107166246",
+        "2112482891",
+        "2140837302",
+        "2144665532"
+    ]
+}

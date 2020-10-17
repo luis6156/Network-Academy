@@ -1,0 +1,65 @@
+{
+    "id": "1590267976",
+    "title": "Efficient Implementation of MPI-2 Passive One-Sided Communication on InfiniBand Clusters",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Weihang Jiang",
+            "id": "2589332037",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Jiuxing Liu",
+            "id": "2135132588",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Hyun-Wook Jin",
+            "id": "2231510597",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Dhabaleswar K. Panda",
+            "id": "2126583185",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Darius Buntinas",
+            "id": "3647825",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Compare-and-swap",
+        "InfiniBand",
+        "Message Passing Interface",
+        "Message passing",
+        "Concurrency",
+        "Synchronization",
+        "Virtual machine"
+    ],
+    "references": [
+        "1502560748",
+        "1529327506",
+        "1596157658",
+        "2001738739",
+        "2102650110",
+        "2104679970",
+        "2135232264",
+        "2541014599"
+    ]
+}

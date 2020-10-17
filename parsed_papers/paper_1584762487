@@ -1,0 +1,43 @@
+{
+    "id": "1584762487",
+    "title": "Implementation concepts in vaucanson 2",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Akim Demaille",
+            "id": "2028890336",
+            "org": "LRDE, EPITA, France#TAB#"
+        },
+        {
+            "name": "Alexandre Duret-Lutz",
+            "id": "1583275405",
+            "org": "LRDE, EPITA, France#TAB#"
+        },
+        {
+            "name": "Sylvain Lombardy",
+            "id": "20817233",
+            "org": "LaBRI, Universite de Bordeaux, France#TAB#"
+        },
+        {
+            "name": "Jacques Sakarovitch",
+            "id": "671245860",
+            "org": "LTCI, CNRS, Telecom-ParisTech, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Obfuscation",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computation",
+        "Computer science",
+        "Cyclomatic complexity"
+    ],
+    "references": [
+        "1507431154",
+        "1582482241",
+        "1586668623",
+        "1988733675",
+        "2110905183"
+    ]
+}

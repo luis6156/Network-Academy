@@ -1,0 +1,73 @@
+{
+    "id": "1762780572",
+    "title": "Caching indices for efficient lookup in structured overlay networks",
+    "venue": "AP2PC'05 Proceedings of the 4th international conference on Agents and Peer-to-Peer Computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Vasilios Darlagiannis",
+            "id": "345546752",
+            "org": "Multimedia Communications Lab (KOM), Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Nicolas Liebau",
+            "id": "2023572540",
+            "org": "Multimedia Communications Lab (KOM), Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Oliver Heckmann",
+            "id": "2059364095",
+            "org": "Multimedia Communications Lab (KOM), Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Andreas Mauthe",
+            "id": "1995919685",
+            "org": "Computing Department, Lancaster University, Lancaster, UK#TAB#"
+        },
+        {
+            "name": "Ralf Steinmetz",
+            "id": "2238793978",
+            "org": "Multimedia Communications Lab (KOM), Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Virtual network",
+        "Peer-to-peer",
+        "Computer science",
+        "Distributed computing",
+        "Bloom filter",
+        "Distributed hash table",
+        "Hash function",
+        "Pastry",
+        "Overlay network"
+    ],
+    "references": [
+        "137535920",
+        "1510672679",
+        "1590209364",
+        "1922083703",
+        "1974817122",
+        "2051842979",
+        "2054308357",
+        "2101755427",
+        "2104210894",
+        "2118276956",
+        "2118428193",
+        "2119245106",
+        "2121531691",
+        "2123482462",
+        "2123820820",
+        "2123845384",
+        "2137627075",
+        "2152118092",
+        "2152319665",
+        "2153527920",
+        "2153752068",
+        "2163059190",
+        "2167898414",
+        "2169517512",
+        "2171066406",
+        "2714193396"
+    ]
+}

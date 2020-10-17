@@ -1,0 +1,45 @@
+{
+    "id": "1578364281",
+    "title": "Collective error detection for MPI collective operations",
+    "venue": "european pvm/mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Christopher Falzone",
+            "id": "2316644142",
+            "org": "University of Pennsylvania at Edinboro, Edinboro, Pennsylvania#TAB#"
+        },
+        {
+            "name": "Anthony Chan",
+            "id": "2098567839",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois#TAB#"
+        },
+        {
+            "name": "Ewing L. Lusk",
+            "id": "1977610862",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois#TAB#"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Application profile",
+        "Profiling (computer programming)",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Message passing",
+        "Hash function",
+        "Virtual machine",
+        "Error detection and correction"
+    ],
+    "references": [
+        "1501525194",
+        "1510443042",
+        "2068751442",
+        "2117815739"
+    ]
+}

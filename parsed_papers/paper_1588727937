@@ -1,0 +1,49 @@
+{
+    "id": "1588727937",
+    "title": "X-SRQ - Improving Scalability and Performance of Multi-core InfiniBand Clusters",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Galen M. Shipman",
+            "id": "2074390756",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN, USA#TAB#"
+        },
+        {
+            "name": "Stephen W. Poole",
+            "id": "2107434135",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN, USA#TAB#"
+        },
+        {
+            "name": "Pavel Shamis",
+            "id": "306578653",
+            "org": "Mellanox Technologies, Yokneam, Israel#TAB#"
+        },
+        {
+            "name": "Ishai Rabinovitz",
+            "id": "1733954800",
+            "org": "Mellanox Technologies, Yokneam, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Memory footprint",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Queue",
+        "Cluster (physics)",
+        "Scalability testing"
+    ],
+    "references": [
+        "1517304607",
+        "1577294232",
+        "1825216778",
+        "1969215126",
+        "2082490936",
+        "2141107779",
+        "2151526088"
+    ]
+}

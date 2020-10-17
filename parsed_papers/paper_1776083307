@@ -1,0 +1,62 @@
+{
+    "id": "1776083307",
+    "title": "Buffer cache de-duplication for query dispatch in replicated databases",
+    "venue": "database systems for advanced applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Takeshi Yamamuro",
+            "id": "2102150782",
+            "org": "NTT Cyber Space Laboratories#TAB#"
+        },
+        {
+            "name": "Yoshiharu Suga",
+            "id": "2436198328",
+            "org": "NTT Cyber Space Laboratories#TAB#"
+        },
+        {
+            "name": "Naoya Kotani",
+            "id": "2756960934",
+            "org": "NTT Cyber Space Laboratories#TAB#"
+        },
+        {
+            "name": "Toshio Hitaka",
+            "id": "2049146953",
+            "org": "NTT Cyber Space Laboratories#TAB#"
+        },
+        {
+            "name": "Masashi Yamamuro",
+            "id": "2283364383",
+            "org": "NTT Cyber Space Laboratories#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Disk buffer",
+        "Lookup table",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Data deduplication",
+        "Database",
+        "Time-driven programming",
+        "SQL"
+    ],
+    "references": [
+        "1573783702",
+        "1971680255",
+        "1992208760",
+        "2012643955",
+        "2017952893",
+        "2025787252",
+        "2027980081",
+        "2041180570",
+        "2072552880",
+        "2102748509",
+        "2108594838",
+        "2112053513",
+        "2116030291",
+        "2132316133",
+        "2151131636",
+        "2168023501"
+    ]
+}

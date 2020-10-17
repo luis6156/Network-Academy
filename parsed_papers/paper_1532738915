@@ -1,0 +1,41 @@
+{
+    "id": "1532738915",
+    "title": "Locality Information Based Scheduling in Shared Memory Multiprocessors",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Frank Bellosa",
+            "id": "2342891543",
+            "org": "University of Erlangen-Nurnberg"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Memory hierarchy",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Data diffusion machine",
+        "Cache-only memory architecture",
+        "Real-time computing",
+        "Locality of reference",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "146888557",
+        "1525016610",
+        "1861933395",
+        "1966938284",
+        "1992359780",
+        "2012898464",
+        "2048407520",
+        "2050241504",
+        "2063301486",
+        "2073100321",
+        "2094877030",
+        "2162811112"
+    ]
+}

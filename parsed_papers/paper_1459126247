@@ -1,0 +1,72 @@
+{
+    "id": "1459126247",
+    "title": "Horus: fine-grained encryption-based security for large-scale storage",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Yan Li",
+            "id": "2577747123",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA#TAB#"
+        },
+        {
+            "name": "Nakul Sanjay Dhotre",
+            "id": "2062791060",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA#TAB#"
+        },
+        {
+            "name": "Yasuhiro Ohara",
+            "id": "2025414611",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA#TAB#"
+        },
+        {
+            "name": "Thomas M. Kroeger",
+            "id": "2081623485",
+            "org": "Sandia National Laboratories, Livermore, CA#TAB#"
+        },
+        {
+            "name": "Ethan L. Miller",
+            "id": "2168190067",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA#TAB#"
+        },
+        {
+            "name": "Darrell D. E. Long",
+            "id": "2171999619",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "40-bit encryption",
+        "Client-side encryption",
+        "Key distribution",
+        "Computer science",
+        "Key server",
+        "Encryption",
+        "Computer security",
+        "56-bit encryption",
+        "On-the-fly encryption",
+        "Computer network",
+        "Attribute-based encryption",
+        "Real-time computing"
+    ],
+    "references": [
+        "192814132",
+        "1526843360",
+        "1530504482",
+        "1572593068",
+        "1782674917",
+        "1970955154",
+        "1970958679",
+        "1999984505",
+        "2110298485",
+        "2114349788",
+        "2119738171",
+        "2125499854",
+        "2131645490",
+        "2131894525",
+        "2146749986",
+        "2155358881",
+        "2156186849",
+        "2162315257"
+    ]
+}

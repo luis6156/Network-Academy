@@ -1,0 +1,68 @@
+{
+    "id": "1480800263",
+    "title": "A protocol for reconciling recovery and high-availability in replicated databases",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jose Enrique Armendariz-Inigo",
+            "id": "160609645",
+            "org": "Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "Francesc D. Munoz-Escoi",
+            "id": "2089263920",
+            "org": "Instituto Tecnologico de Informatica, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Hendrik Decker",
+            "id": "2600423479",
+            "org": "Instituto Tecnologico de Informatica, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "J. R. Juarez-Rodriguez",
+            "id": "1964492366",
+            "org": "Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "J. R. Gonzalez de Mendivil",
+            "id": "1485089301",
+            "org": "Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Two-phase commit protocol",
+        "Snapshot isolation",
+        "Computer science",
+        "Distributed computing",
+        "Database",
+        "Correctness",
+        "Middleware",
+        "Node (networking)",
+        "Real-time computing",
+        "High availability",
+        "Fault tolerance"
+    ],
+    "references": [
+        "62414292",
+        "1484380194",
+        "1545155892",
+        "1580521276",
+        "1988311692",
+        "1991152532",
+        "2034747525",
+        "2109439113",
+        "2111586962",
+        "2112161048",
+        "2112187863",
+        "2117917070",
+        "2122533354",
+        "2126249379",
+        "2131751093",
+        "2138368466",
+        "2155374901",
+        "2165900899",
+        "2168227861"
+    ]
+}

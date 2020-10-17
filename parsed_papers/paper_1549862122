@@ -1,0 +1,51 @@
+{
+    "id": "1549862122",
+    "title": "Concurrency Control for Global Transaction Management in MDBSs",
+    "venue": "database and expert systems applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Kyu-Woong Lee",
+            "id": "2309222772",
+            "org": "Computer & Software Tech. Lab., ETRI"
+        },
+        {
+            "name": "Seog Park",
+            "id": "2148457208",
+            "org": "Sogang University"
+        },
+        {
+            "name": "Gil-Rok Oh",
+            "id": "2110248865",
+            "org": "Computer & Software Tech. Lab., ETRI"
+        }
+    ],
+    "fields_of_study": [
+        "Commitment ordering",
+        "Non-lock concurrency control",
+        "Global concurrency control",
+        "Computer science",
+        "Distributed computing",
+        "Serializability",
+        "Optimistic concurrency control",
+        "Distributed transaction",
+        "Database",
+        "Global serializability",
+        "Real-time computing",
+        "Two-phase locking"
+    ],
+    "references": [
+        "176809997",
+        "1503819114",
+        "1545155892",
+        "1551439321",
+        "1917626582",
+        "2066292115",
+        "2103184997",
+        "2130888794",
+        "2148199530",
+        "2151077968",
+        "2164468195",
+        "2166565804"
+    ]
+}

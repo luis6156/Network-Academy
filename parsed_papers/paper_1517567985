@@ -1,0 +1,53 @@
+{
+    "id": "1517567985",
+    "title": "Self-Stabilizing Distributed Algorithm for Strong Matching in a System Graph",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Wayne Goddard",
+            "id": "2105016980",
+            "org": "Clemson University"
+        },
+        {
+            "name": "Stephen T. Hedetniemi",
+            "id": "1255050494",
+            "org": "Clemson University"
+        },
+        {
+            "name": "David Pokrass Jacobs",
+            "id": "2113171912",
+            "org": "Clemson University"
+        },
+        {
+            "name": "Pradip K. Srimani",
+            "id": "2089465206",
+            "org": "Clemson University"
+        }
+    ],
+    "fields_of_study": [
+        "Blossom algorithm",
+        "Reverse-delete algorithm",
+        "Theoretical computer science",
+        "Suzuki-Kasami algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Dinic's algorithm",
+        "Tarjan's strongly connected components algorithm",
+        "FSA-Red Algorithm",
+        "Suurballe's algorithm",
+        "Brooks-Iyengar algorithm"
+    ],
+    "references": [
+        "1531062132",
+        "1560378633",
+        "1599359157",
+        "1969320647",
+        "2045036484",
+        "2105187651",
+        "2111132249",
+        "2165513513",
+        "2212070637",
+        "2294012738"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1592644319",
+    "title": "Differential power analysis of HMAC based on SHA-2, and countermeasures",
+    "venue": "workshop on information security applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Robert P. McEvoy",
+            "id": "2046370476",
+            "org": "Department of Electrical & Electronic Engineering, University College Cork, Ireland#TAB#"
+        },
+        {
+            "name": "Michael Tunstall",
+            "id": "2097787842",
+            "org": "Department of Electrical & Electronic Engineering, University College Cork, Ireland#TAB#"
+        },
+        {
+            "name": "Colin C. Murphy",
+            "id": "2144326399",
+            "org": "Department of Electrical & Electronic Engineering, University College Cork, Ireland#TAB#"
+        },
+        {
+            "name": "William P. Marnane",
+            "id": "2012913529",
+            "org": "Department of Electrical & Electronic Engineering, University College Cork, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HMAC-based One-time Password Algorithm",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Computer security",
+        "Power analysis",
+        "Hash function",
+        "Message authentication code"
+    ],
+    "references": [
+        "1498787080",
+        "1550146135",
+        "1559467217",
+        "1562542037",
+        "1592811212",
+        "1605806774",
+        "1758363771",
+        "2033711887",
+        "2066508184",
+        "2131300413",
+        "2132250906",
+        "2154909745",
+        "2164584813",
+        "2270780164"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1682231999",
+    "title": "Architecture Design Space Exploration for Streaming Applications Through Timing Analysis",
+    "venue": "communicating process architectures",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Maarten H. Wiggers",
+            "id": "2055323627",
+            "org": "Computer Architecture Design and Test for Embedded Systems"
+        },
+        {
+            "name": "Nikolay Kavaldjiev",
+            "id": "2776030857",
+            "org": "Department of EEMCS|University of Twente"
+        },
+        {
+            "name": "Gerard Smit",
+            "id": "2139010492",
+            "org": "Computer Architecture Design and Test for Embedded Systems"
+        },
+        {
+            "name": "Pierre G. Jansen",
+            "id": "2150546098",
+            "org": "Department of EEMCS|University of Twente"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Clock rate",
+        "Static timing analysis",
+        "Dataflow",
+        "System on a chip",
+        "Design space exploration",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "119289332",
+        "154371562",
+        "1541459986",
+        "2055649415",
+        "2096856647",
+        "2117648684"
+    ]
+}

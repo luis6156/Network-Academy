@@ -1,0 +1,75 @@
+{
+    "id": "1540366790",
+    "title": "Structural Evaluation of AES and Chosen-Key Distinguisher of 9-round AES-128",
+    "venue": "international cryptology conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Universite de Rennes 1"
+        },
+        {
+            "name": "Jeremy Jean",
+            "id": "2084267557",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2524111462",
+            "org": "Nanyang Technological University"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "S-box",
+        "Discrete mathematics",
+        "Computer science",
+        "T-function",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "88257312",
+        "98505615",
+        "98791876",
+        "122104886",
+        "124034723",
+        "170950682",
+        "380217570",
+        "1487227166",
+        "1509875874",
+        "1527450129",
+        "1540966986",
+        "1546257376",
+        "1547537489",
+        "1554865288",
+        "1556212265",
+        "1587158155",
+        "1597699498",
+        "1629301835",
+        "1656731780",
+        "1826962815",
+        "1835253008",
+        "1871494460",
+        "1894646615",
+        "1969483458",
+        "2061323203",
+        "2095934050",
+        "2103239853",
+        "2103717651",
+        "2136320902",
+        "2141124495",
+        "2234576048",
+        "2252149818",
+        "2405068754",
+        "2593463031",
+        "2610935322",
+        "2614865870",
+        "2884742479"
+    ]
+}

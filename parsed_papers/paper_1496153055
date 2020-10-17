@@ -1,0 +1,69 @@
+{
+    "id": "1496153055",
+    "title": "Timing Analysis for Data and Wrap-Around Fill Caches",
+    "venue": "Real-time Systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Randall T. White",
+            "id": "2545065746",
+            "org": "Florida State University, Computer Science Department, Tallahassee, FL 32306-4530#TAB#"
+        },
+        {
+            "name": "Frank Mueller",
+            "id": "2107119837",
+            "org": "Humboldt-Universitat zu Berlin, Institut fur Informatik, 10099 Berlin (Germany)#TAB#"
+        },
+        {
+            "name": "Christopher A. Healy",
+            "id": "2406300821",
+            "org": "Florida State University, Computer Science Department, Tallahassee, FL 32306-4530#TAB#"
+        },
+        {
+            "name": "David B. Whalley",
+            "id": "2099007890",
+            "org": "Florida State University, Computer Science Department, Tallahassee, FL 32306-4530#TAB#"
+        },
+        {
+            "name": "Marion G. Harmon",
+            "id": "1984231185",
+            "org": "Florida A&M University, Computer & Information Systems Department, Tallahassee, FL 32307-3101#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache invalidation",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "Cache pollution",
+        "Real-time computing",
+        "Locality of reference"
+    ],
+    "references": [
+        "276460788",
+        "1484206933",
+        "1491178396",
+        "1555915743",
+        "1967022475",
+        "1976596991",
+        "1996384031",
+        "2000820780",
+        "2015509025",
+        "2024800288",
+        "2032742044",
+        "2090659503",
+        "2112482891",
+        "2117605807",
+        "2145529472",
+        "2146218445",
+        "2149052625",
+        "2154158220",
+        "2162222856",
+        "2163712520",
+        "2171518785"
+    ]
+}

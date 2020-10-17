@@ -1,0 +1,89 @@
+{
+    "id": "1588777214",
+    "title": "Kernel mean shrinkage estimators",
+    "venue": "Journal of Machine Learning Research",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Krikamol Muandet",
+            "id": "2093953614",
+            "org": "Empirical Inference Department, Max Planck Institute for Intelligent Systems, Germany#TAB#"
+        },
+        {
+            "name": "Bharath K. Sriperumbudur",
+            "id": "289005672",
+            "org": "Department of Statistics, Pennsylvania State University, University Park, PA#TAB#"
+        },
+        {
+            "name": "Kenji Fukumizu",
+            "id": "167589996",
+            "org": "The Institute of Statistical Mathematics, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Arthur Gretton",
+            "id": "2468960519",
+            "org": "Gatsby Computational Neuroscience Unit, CSML, University College London, London, United Kingdom#TAB#"
+        },
+        {
+            "name": "Bernhard Scholkopf",
+            "id": "297432538",
+            "org": "Empirical Inference Department, Max Planck Institute for Intelligent Systems, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Kernel principal component analysis",
+        "Principal component regression",
+        "Multivariate kernel density estimation",
+        "Kernel embedding of distributions",
+        "Statistics",
+        "Variable kernel density estimation",
+        "Polynomial kernel",
+        "Radial basis function kernel",
+        "Kernel (statistics)",
+        "Econometrics"
+    ],
+    "references": [
+        "155671838",
+        "1153891179",
+        "1490077895",
+        "1490760466",
+        "1510073064",
+        "1515072779",
+        "1540155273",
+        "1551944942",
+        "1560724230",
+        "1567012231",
+        "1583477766",
+        "1746819321",
+        "1886722015",
+        "1946137962",
+        "1986007546",
+        "2099973661",
+        "2104438796",
+        "2105732805",
+        "2107552638",
+        "2112552549",
+        "2114099644",
+        "2123845705",
+        "2124331852",
+        "2125865219",
+        "2127166906",
+        "2135191607",
+        "2136440798",
+        "2138153286",
+        "2140095548",
+        "2140593607",
+        "2148603752",
+        "2156204103",
+        "2157801062",
+        "2160536246",
+        "2162798864",
+        "2164468118",
+        "2164903478",
+        "2166058103",
+        "2212660284",
+        "2295593024",
+        "2547788783"
+    ]
+}

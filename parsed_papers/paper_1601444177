@@ -1,0 +1,56 @@
+{
+    "id": "1601444177",
+    "title": "Speedups between x70 and x120 for a generic local search (memetic) algorithm on a single GPGPU chip",
+    "venue": "european conference on applications of evolutionary computation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Frederic Kruger",
+            "id": "2099235527",
+            "org": "LSIIT, UMR 7005, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Ogier Maitre",
+            "id": "2169864358",
+            "org": "LSIIT, UMR 7005, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Santiago Jimenez",
+            "id": "2763433739",
+            "org": "Instituto de Tecnologia Quimica, UPV-CSIC, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Laurent A. Baumes",
+            "id": "25387670",
+            "org": "Instituto de Tecnologia Quimica, UPV-CSIC, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Pierre Collet",
+            "id": "2042503075",
+            "org": "LSIIT, UMR 7005, Illkirch, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Memetic algorithm",
+        "Local search (optimization)",
+        "Genetic programming",
+        "CUDA",
+        "Evolutionary algorithm",
+        "General-purpose computing on graphics processing units",
+        "Upgrade",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1563077463",
+        "1608577215",
+        "1974361763",
+        "1985153141",
+        "2005470683",
+        "2095085199",
+        "2128051575",
+        "2149198726"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1628209569",
+    "title": "A new type of timing attack: Application to GPS",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Julien Cathalo",
+            "id": "2311111288",
+            "org": "Universite catholique de Louvain"
+        },
+        {
+            "name": "Francois Koeune",
+            "id": "165547707",
+            "org": "Universite catholique de Louvain"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Universite catholique de Louvain"
+        }
+    ],
+    "fields_of_study": [
+        "Hamming distance",
+        "Pre-play attack",
+        "Side channel attack",
+        "Remainder",
+        "Distributed computing",
+        "Computer science",
+        "Hamming code",
+        "Public-key cryptography",
+        "Timing attack",
+        "Hamming weight"
+    ],
+    "references": [
+        "1500077521",
+        "1502105705",
+        "1522337283",
+        "1581260209",
+        "1587481360",
+        "1664808737",
+        "2052667569",
+        "2107691219"
+    ]
+}

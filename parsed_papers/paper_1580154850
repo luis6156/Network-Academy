@@ -1,0 +1,59 @@
+{
+    "id": "1580154850",
+    "title": "Making mapreduce scheduling effective in erasure-coded storage clusters",
+    "venue": "workshop on local and metropolitan area networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Runhui Li",
+            "id": "2104659934",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Patrick P. C. Lee",
+            "id": "2131590615",
+            "org": "The Chinese University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "154253821",
+        "330091898",
+        "1441763937",
+        "1510496002",
+        "1605552180",
+        "1629652666",
+        "1836955865",
+        "1861377444",
+        "1968818878",
+        "2012706015",
+        "2074190161",
+        "2094469165",
+        "2096125134",
+        "2099602864",
+        "2100830825",
+        "2110104287",
+        "2122465391",
+        "2130373037",
+        "2130531694",
+        "2131894525",
+        "2138744797",
+        "2139703052",
+        "2150620836",
+        "2157614013",
+        "2161993886",
+        "2173213060"
+    ]
+}

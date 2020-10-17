@@ -1,0 +1,38 @@
+{
+    "id": "1543520236",
+    "title": "A Study of the Parallelization of a Coevolutionary Multi-objective Evolutionary Algorithm",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Carlos A. Coello Coello",
+            "id": "2040834078",
+            "org": "CINVESTAV-IPN (Evolutionary Computation Group)"
+        },
+        {
+            "name": "Margarita Reyes Sierra",
+            "id": "2145177888",
+            "org": "CINVESTAV-IPN (Evolutionary Computation Group)"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Shared memory",
+        "Computer science",
+        "Message passing",
+        "Distributed memory",
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Parallel algorithm",
+        "POSIX Threads",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "268706133",
+        "1555689267",
+        "1612556207",
+        "2140267146"
+    ]
+}

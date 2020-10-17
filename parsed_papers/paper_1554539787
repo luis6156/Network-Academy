@@ -1,0 +1,46 @@
+{
+    "id": "1554539787",
+    "title": "Analysis of Loops",
+    "venue": "compiler construction",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Florian Martin",
+            "id": "2135218977",
+            "org": "Universit- des Saarlandes"
+        },
+        {
+            "name": "Martin Alt",
+            "id": "2123828657",
+            "org": "Universit- des Saarlandes"
+        },
+        {
+            "name": "Reinhard Wilhelm",
+            "id": "2127844901",
+            "org": "Universit- des Saarlandes"
+        },
+        {
+            "name": "Christian Ferdinand",
+            "id": "2135737970",
+            "org": "Universit- des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Functional approach",
+        "Program analysis",
+        "Computer science",
+        "Abstract interpretation",
+        "Data flow diagram",
+        "Optimizing compiler",
+        "Data-flow analysis",
+        "Programming language"
+    ],
+    "references": [
+        "1503265404",
+        "1555915743",
+        "1604147565",
+        "1874478398",
+        "2021437589",
+        "2062066235"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "14389471",
+    "title": "Distributed Resource Discovery on PlanetLab with SWORD.",
+    "venue": "WORLDS",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David L. Oppenheimer",
+            "id": "2154796182",
+            "org": "University of California, Berkeley"
+        },
+        {
+            "name": "Jeannie R. Albrecht",
+            "id": "2406262242",
+            "org": "University of California, Berkeley"
+        },
+        {
+            "name": "David A. Patterson",
+            "id": "2098984663",
+            "org": "University of California, San Diego"
+        },
+        {
+            "name": "Amin Vahdat",
+            "id": "295064773",
+            "org": "University of California, San Diego"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "SWORD",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "PlanetLab",
+        "Software deployment",
+        "Range query (data structures)",
+        "High-level architecture",
+        "Architecture"
+    ],
+    "references": [
+        "1488638488",
+        "2002546113",
+        "2054278783",
+        "2096538410",
+        "2132051999",
+        "2142590813",
+        "2153752068",
+        "2171743423"
+    ]
+}

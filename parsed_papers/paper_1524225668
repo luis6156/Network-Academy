@@ -1,0 +1,45 @@
+{
+    "id": "1524225668",
+    "title": "Flexible exponentiation with resistance to side channel attacks",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Camille Vuillaume",
+            "id": "1964667369",
+            "org": "Hitachi, Ltd., Systems Development Laboratory, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Katsuyuki Okeya",
+            "id": "1780672632",
+            "org": "Hitachi, Ltd., Systems Development Laboratory, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Tamper resistance",
+        "Side channel attack",
+        "Countermeasure",
+        "Computer science",
+        "Computer security",
+        "Server",
+        "Modular exponentiation",
+        "CPU cache",
+        "Fault tolerance"
+    ],
+    "references": [
+        "81509012",
+        "1521260929",
+        "1522337283",
+        "1565369953",
+        "1664808737",
+        "1901598124",
+        "2122485219",
+        "2134899616",
+        "2144952508",
+        "2147906334",
+        "2151279347",
+        "2154909745",
+        "2155244510"
+    ]
+}

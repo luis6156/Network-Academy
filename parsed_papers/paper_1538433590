@@ -1,0 +1,73 @@
+{
+    "id": "1538433590",
+    "title": "A General BRDF Representation Based on Tensor Decomposition",
+    "venue": "Computer Graphics Forum",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ahmet Bilgili",
+            "id": "1966559088",
+            "org": "International Computer Institute, Ege University, Turkey ahmetbilgili@gmail.com and murat.kurt@ege.edu.tr"
+        },
+        {
+            "name": "Aydin Ozturk",
+            "id": "2893146365",
+            "org": "Department of Computer Engineering, Yasar University, Turkey aydin.ozturk@yasar.edu.tr"
+        },
+        {
+            "name": "Murat Kurt",
+            "id": "2141321110",
+            "org": "International Computer Institute, Ege University, Turkey ahmetbilgili@gmail.com and murat.kurt@ege.edu.tr"
+        }
+    ],
+    "fields_of_study": [
+        "Global illumination",
+        "Tensor",
+        "Bidirectional reflectance distribution function",
+        "Mathematics",
+        "Computer vision",
+        "Rendering (computer graphics)",
+        "Tensor product",
+        "Tucker decomposition",
+        "Monte Carlo method",
+        "Importance sampling",
+        "Mathematical optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "180746060",
+        "1494645067",
+        "1524975883",
+        "1964909831",
+        "1971962687",
+        "1979606301",
+        "2002699656",
+        "2012909180",
+        "2022516098",
+        "2024165284",
+        "2090346540",
+        "2092752047",
+        "2094673986",
+        "2100144083",
+        "2104587129",
+        "2105933175",
+        "2111920077",
+        "2118841697",
+        "2122585444",
+        "2132896093",
+        "2138624212",
+        "2138834358",
+        "2144323660",
+        "2144736368",
+        "2149089336",
+        "2149694281",
+        "2150810898",
+        "2153160066",
+        "2153314920",
+        "2153763188",
+        "2156529056",
+        "2161446118",
+        "2169337238",
+        "2242284366"
+    ]
+}

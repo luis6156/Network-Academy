@@ -1,0 +1,80 @@
+{
+    "id": "1593239840",
+    "title": "Similarity-Based Models of Word Cooccurrence Probabilities",
+    "venue": "Machine Learning",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ido Dagan",
+            "id": "356610775",
+            "org": "Dept. of Mathematics and Computer Science, Bar Ilan University, Ramat Gan 52900, Israel. dagan@macs.biu.ac.il#TAB#"
+        },
+        {
+            "name": "Lillian Lee",
+            "id": "2124867291",
+            "org": "Department of Computer Science, Cornell University, Ithaca, NY 14853, USA. llee@cs.cornell.edu#TAB#"
+        },
+        {
+            "name": "Fernando Pereira",
+            "id": "2291088731",
+            "org": "AT&T Labs--Research, 180 Park Ave., Florham Park, NJ 07932, USA. pereira@research.att.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bigram",
+        "SemEval",
+        "Artificial intelligence",
+        "Factored language model",
+        "Language model",
+        "Perplexity",
+        "Language identification",
+        "Pattern recognition",
+        "Computer science",
+        "Cache language model",
+        "Machine learning",
+        "Word Association"
+    ],
+    "references": [
+        "47415966",
+        "1517267840",
+        "1608874027",
+        "1647729745",
+        "1680231578",
+        "1689445748",
+        "1715319291",
+        "1993258438",
+        "2004131797",
+        "2007107125",
+        "2016001305",
+        "2040004971",
+        "2058045861",
+        "2059849436",
+        "2061271742",
+        "2095958485",
+        "2096071381",
+        "2097927681",
+        "2098750402",
+        "2099247782",
+        "2100935296",
+        "2102997946",
+        "2113641473",
+        "2121227244",
+        "2122111042",
+        "2123084125",
+        "2123489126",
+        "2127314673",
+        "2127675721",
+        "2134237567",
+        "2140842551",
+        "2145269499",
+        "2146950091",
+        "2147169507",
+        "2149671658",
+        "2151375725",
+        "2155063582",
+        "2157025692",
+        "2158195707",
+        "2162151798",
+        "2295097532"
+    ]
+}

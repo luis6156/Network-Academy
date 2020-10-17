@@ -1,0 +1,109 @@
+{
+    "id": "1544547617",
+    "title": "Discriminative dictionary learning for abdominal multi-organ segmentation.",
+    "venue": "Medical Image Analysis",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Tong Tong",
+            "id": "2122372986",
+            "org": "Biomedical Image Analysis Group, Department of Computing, Imperial College London, 180 Queen's Gate, London SW7 2AZ, UK"
+        },
+        {
+            "name": "Robin Wolz",
+            "id": "2033221684",
+            "org": "Biomedical Image Analysis Group, Department of Computing, Imperial College London, 180 Queen's Gate, London SW7 2AZ, UK"
+        },
+        {
+            "name": "Zehan Wang",
+            "id": "2152099389",
+            "org": "Biomedical Image Analysis Group, Department of Computing, Imperial College London, 180 Queen's Gate, London SW7 2AZ, UK"
+        },
+        {
+            "name": "Qinquan Gao",
+            "id": "2309648363",
+            "org": "Biomedical Image Analysis Group, Department of Computing, Imperial College London, 180 Queen's Gate, London SW7 2AZ, UK"
+        },
+        {
+            "name": "Kazunari Misawa",
+            "id": "2140678091",
+            "org": "Aichi Cancer Center, Nagoya 464-8681, Japan"
+        },
+        {
+            "name": "Michitaka Fujiwara",
+            "id": "2116617894",
+            "org": "Nagoya University Hospital, Nagoya 466-0065, Japan"
+        },
+        {
+            "name": "Kensaku Mori",
+            "id": "2129174359",
+            "org": "Information and Communications, Nagoya University, Furo-cho, Chikusa-ku, Nagoya 464-8603, Japan"
+        },
+        {
+            "name": "Joseph V. Hajnal",
+            "id": "2312081260",
+            "org": "Center for the Developing Brain, Division of Imaging Sciences and Biomedical Engineering, King's College London, St. Thomas Hospital, London SE1 7EH, UK"
+        },
+        {
+            "name": "Daniel Rueckert",
+            "id": "2169057019",
+            "org": "Biomedical Image Analysis Group, Department of Computing, Imperial College London, 180 Queen's Gate, London SW7 2AZ, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Image segmentation",
+        "Segmentation-based object categorization",
+        "Scale-space segmentation",
+        "Discriminative model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "8258973",
+        "17779984",
+        "29661792",
+        "38089536",
+        "62526948",
+        "91894041",
+        "123659436",
+        "175563506",
+        "186896354",
+        "196093984",
+        "1494315810",
+        "1547035658",
+        "1561449508",
+        "1677741797",
+        "1919214937",
+        "1934726605",
+        "1984327987",
+        "2005876975",
+        "2010587020",
+        "2014105136",
+        "2016991777",
+        "2018662705",
+        "2032377318",
+        "2038952578",
+        "2045732268",
+        "2046622279",
+        "2046758959",
+        "2049516470",
+        "2057332541",
+        "2089954740",
+        "2093215004",
+        "2095098995",
+        "2114740909",
+        "2115560616",
+        "2129946558",
+        "2131104747",
+        "2131282464",
+        "2143781397",
+        "2153269637",
+        "2153431772",
+        "2156564892",
+        "2156875677",
+        "2160153825"
+    ]
+}

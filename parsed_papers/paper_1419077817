@@ -1,0 +1,91 @@
+{
+    "id": "1419077817",
+    "title": "Broom: sweeping out garbage collection from big data systems",
+    "venue": "hot topics in operating systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ionel Gog",
+            "id": "1242599949",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Jana Giceva",
+            "id": "2893061661",
+            "org": "ETH Zurich and University of Cambridge#TAB#"
+        },
+        {
+            "name": "Malte Schwarzkopf",
+            "id": "2113508224",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Kapil Vaswani",
+            "id": "1823475869",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Dimitrios Vytiniotis",
+            "id": "77990519",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Ganesan Ramalingan",
+            "id": "2534336361",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Derek Gordon Murray",
+            "id": "2307210230",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Steven Hand",
+            "id": "2532889880",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Michael Isard",
+            "id": "2004792601",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Data pre-processing",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Memory management",
+        "Heap (data structure)",
+        "Garbage",
+        "Manual memory management",
+        "Data processing system",
+        "Real-time computing",
+        "Big data"
+    ],
+    "references": [
+        "1473115402",
+        "1493893823",
+        "1746258828",
+        "1976821017",
+        "1981962444",
+        "2028080565",
+        "2038897371",
+        "2082171780",
+        "2087466192",
+        "2087875803",
+        "2100830825",
+        "2115597529",
+        "2119745055",
+        "2123683215",
+        "2131975293",
+        "2148746214",
+        "2152432695",
+        "2154849212",
+        "2160768644",
+        "2163365446",
+        "2167521024",
+        "2173213060"
+    ]
+}

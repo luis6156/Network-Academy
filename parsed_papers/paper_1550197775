@@ -1,0 +1,43 @@
+{
+    "id": "1550197775",
+    "title": "An efficient approach for self-scheduling parallel loops on multiprogrammed parallel computers",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Arun Kejariwal",
+            "id": "2308881381",
+            "org": "Center for Embedded Computer Systems, University of California at Irvine, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Alexandru Nicolau",
+            "id": "2144832383",
+            "org": "Center for Embedded Computer Systems, University of California at Irvine, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Constantine D. Polychronopoulos",
+            "id": "2301418095",
+            "org": "Center for Supercomputing Research and Development, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Scheduling (computing)",
+        "Multiprocessor scheduling",
+        "Dynamic priority scheduling",
+        "Multiprocessing",
+        "Rate-monotonic scheduling",
+        "Real-time computing",
+        "Load balancing (computing)",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1503508068",
+        "1988781135",
+        "2083734282",
+        "2118717320",
+        "2126753236"
+    ]
+}

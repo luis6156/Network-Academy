@@ -1,0 +1,48 @@
+{
+    "id": "1599704226",
+    "title": "PCOW: Pipelining-based COW snapshot method to decrease first write penalty",
+    "venue": "grid and pervasive computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Zhikun Wang",
+            "id": "2113578959",
+            "org": "College of Computer, Huazhong University of Science and Technology, Division of Data Storage System, Wuhan National Laboratory for Optoelectronics, China#TAB#"
+        },
+        {
+            "name": "Dan Feng",
+            "id": "2112861373",
+            "org": "College of Computer, Huazhong University of Science and Technology, Division of Data Storage System, Wuhan National Laboratory for Optoelectronics, China#TAB#"
+        },
+        {
+            "name": "Ke Zhou",
+            "id": "2155787637",
+            "org": "College of Computer, Huazhong University of Science and Technology, Division of Data Storage System, Wuhan National Laboratory for Optoelectronics, China#TAB#"
+        },
+        {
+            "name": "Fang Wang",
+            "id": "2600475032",
+            "org": "College of Computer, Huazhong University of Science and Technology, Division of Data Storage System, Wuhan National Laboratory for Optoelectronics, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Hash table",
+        "Parallel computing",
+        "Asynchronous communication",
+        "Queue",
+        "Computer science",
+        "Block (data storage)",
+        "Pipeline (computing)",
+        "Snapshot (computer storage)",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1605199404",
+        "1744795482",
+        "2097829252",
+        "2115837944",
+        "2123845384"
+    ]
+}

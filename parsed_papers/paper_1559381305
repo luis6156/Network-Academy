@@ -1,0 +1,36 @@
+{
+    "id": "1559381305",
+    "title": "MeSch - An Approach to Resource Management in a Distributed Environment",
+    "venue": "grid computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gerd Quecke",
+            "id": "2480246885",
+            "org": "SCAI - Institute for Scientific Computing and Algorithms"
+        },
+        {
+            "name": "Wolfgang Ziegler",
+            "id": "2292028617",
+            "org": "SCAI - Institute for Scientific Computing and Algorithms"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Resource allocation",
+        "Job scheduler",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Distributed Computing Environment",
+        "Grid",
+        "Systems architecture",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1492040731",
+        "2138363683",
+        "2150074609"
+    ]
+}

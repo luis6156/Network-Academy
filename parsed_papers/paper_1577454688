@@ -1,0 +1,76 @@
+{
+    "id": "1577454688",
+    "title": "Revising 1-Copy Equivalence in Replicated Databases with Snapshot Isolation",
+    "venue": "OTM '09 Proceedings of the Confederated International Conferences, CoopIS, DOA, IS, and ODBASE 2009 on On the Move to Meaningful Internet Systems: Part I",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Francesc D. Munoz-Escoi",
+            "id": "2089263920",
+            "org": "Instituto Tecnologico de Informatica, Univ. Politecnica de Valencia, Valencia, Spain 46022#TAB#"
+        },
+        {
+            "name": "Josep M. Bernabe-Gisbert",
+            "id": "2076351786",
+            "org": "Instituto Tecnologico de Informatica, Univ. Politecnica de Valencia, Valencia, Spain 46022#TAB#"
+        },
+        {
+            "name": "Ruben de Juan-Marin",
+            "id": "294250301",
+            "org": "Instituto Tecnologico de Informatica, Univ. Politecnica de Valencia, Valencia, Spain 46022#TAB#"
+        },
+        {
+            "name": "Jose Enrique Armendariz-Inigo",
+            "id": "160609645",
+            "org": "Depto. de Ing. Matematica e Informatica, Univ. Publica de Navarra, Pamplona, Spain 31006#TAB#"
+        },
+        {
+            "name": "Jose Ramon Gonzalez de Mendivil",
+            "id": "2163354892",
+            "org": "Depto. de Ing. Matematica e Informatica, Univ. Publica de Navarra, Pamplona, Spain 31006#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential consistency",
+        "Replication (computing)",
+        "Delegate",
+        "Snapshot isolation",
+        "Distributed computing",
+        "Computer science",
+        "Database",
+        "Snapshot (computer storage)",
+        "Concurrency control",
+        "Consistency model",
+        "Database transaction"
+    ],
+    "references": [
+        "136137863",
+        "1496236417",
+        "1502188834",
+        "1545155892",
+        "1571653861",
+        "1585527216",
+        "1935050232",
+        "1973681401",
+        "1988311692",
+        "1996952974",
+        "2006290581",
+        "2029601347",
+        "2034747525",
+        "2041180570",
+        "2046793036",
+        "2054739713",
+        "2101939036",
+        "2114925953",
+        "2117917070",
+        "2127953641",
+        "2130823263",
+        "2131751093",
+        "2149508091",
+        "2152255642",
+        "2161407849",
+        "2166005724",
+        "2168227861",
+        "2613214602"
+    ]
+}

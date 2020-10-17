@@ -1,0 +1,50 @@
+{
+    "id": "1599042404",
+    "title": "A performance comparison of NFS and iSCSI for IP-networked storage",
+    "venue": "file and storage technologies",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Peter Radkov",
+            "id": "2032943760",
+            "org": "University of Massachusetts#TAB#"
+        },
+        {
+            "name": "Li Yin",
+            "id": "2684138452",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Pawan Goyal",
+            "id": "2152918269",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Prasenjit Sarkar",
+            "id": "2134968289",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Prashant J. Shenoy",
+            "id": "2129693715",
+            "org": "University of Massachusetts#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "iSCSI",
+        "Operating system",
+        "HyperSCSI"
+    ],
+    "references": [
+        "1605161111",
+        "2005373714",
+        "2117520706",
+        "2120080216",
+        "2128946566",
+        "2137808089",
+        "2155463028",
+        "2167777830"
+    ]
+}

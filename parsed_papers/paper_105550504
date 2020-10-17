@@ -1,0 +1,58 @@
+{
+    "id": "105550504",
+    "title": "Parallel Signcryption with OAEP, PSS-R, and other Feistel Paddings.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yevgeniy Dodis",
+            "id": "1259442811",
+            "org": "New York University"
+        },
+        {
+            "name": "Michael J. Freedman",
+            "id": "2144033718",
+            "org": "New York University"
+        },
+        {
+            "name": "Shabsi Walfish",
+            "id": "2306345715",
+            "org": "New York University"
+        }
+    ],
+    "fields_of_study": [
+        "Signcryption",
+        "Mathematics",
+        "Concrete security",
+        "Optimal asymmetric encryption padding",
+        "Distributed computing",
+        "Padding",
+        "PKCS",
+        "Encryption",
+        "Key management",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1490305787",
+        "1516634197",
+        "1524651855",
+        "1531848080",
+        "1551910192",
+        "1561907855",
+        "1589176872",
+        "1656028867",
+        "1809369763",
+        "1969694673",
+        "1991914881",
+        "1996182770",
+        "2052267638",
+        "2103627472",
+        "2106847401",
+        "2133065964",
+        "2135222307",
+        "2151413173",
+        "2151433956",
+        "2162653919",
+        "2530869853"
+    ]
+}

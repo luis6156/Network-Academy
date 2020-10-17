@@ -1,0 +1,62 @@
+{
+    "id": "1572004252",
+    "title": "Non-intrusive scheduling of TCP flows",
+    "venue": "2015 IFIP Networking Conference (IFIP Networking)",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Urtzi Ayesta",
+            "id": "2761791714",
+            "org": "CNRS, LAAS, 7 avenue du colonel Roche, 31400 Toulouse, France"
+        },
+        {
+            "name": "Lionel Bertaux",
+            "id": "2761326764",
+            "org": "CNRS, LAAS, 7 avenue du colonel Roche, 31400 Toulouse, France"
+        },
+        {
+            "name": "Denis Carvin",
+            "id": "1553207594",
+            "org": "CNRS, LAAS, 7 avenue du colonel Roche, 31400 Toulouse, France"
+        }
+    ],
+    "fields_of_study": [
+        "Compound TCP",
+        "Zeta-TCP",
+        "Computer science",
+        "Distributed computing",
+        "TCP tuning",
+        "H-TCP",
+        "TCP hole punching",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "85141315",
+        "1504771965",
+        "1609755472",
+        "1763580265",
+        "1808014354",
+        "1823805418",
+        "1941181913",
+        "1969296673",
+        "1970131865",
+        "1983737681",
+        "1986166139",
+        "1986662958",
+        "2021085547",
+        "2022844530",
+        "2028301248",
+        "2092660001",
+        "2103781423",
+        "2110514750",
+        "2113852631",
+        "2125120372",
+        "2139378549",
+        "2163038493",
+        "2165642084",
+        "2168802575"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "1484386933",
+    "title": "A Regional Popularity-Aware Cache replacement algorithm to improve the performance and lifetime of SSD-based disk cache",
+    "venue": "networking architecture and storages",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Feng Ye",
+            "id": "2436569738",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Jianxi Chen",
+            "id": "2722023626",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Xuejiao Fang",
+            "id": "2226230751",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Jieqiong Li",
+            "id": "2518833904",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Dan Feng",
+            "id": "2112861373",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Algorithm",
+        "Cache coloring",
+        "Computer science",
+        "Page cache",
+        "Real-time computing",
+        "Cache pollution",
+        "Adaptive replacement cache",
+        "Cache invalidation"
+    ],
+    "references": [
+        "67191628",
+        "87143622",
+        "140616940",
+        "1860107648",
+        "1968769087",
+        "1974817122",
+        "1983274120",
+        "2001122975",
+        "2010133494",
+        "2023678166",
+        "2031460721",
+        "2039189705",
+        "2054308357",
+        "2058884229",
+        "2065685496",
+        "2071490148",
+        "2072853307",
+        "2095905546",
+        "2100587833",
+        "2107200720",
+        "2111784404",
+        "2121605376",
+        "2131411713",
+        "2139277679",
+        "2144570882"
+    ]
+}

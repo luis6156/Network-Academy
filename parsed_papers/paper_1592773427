@@ -1,0 +1,73 @@
+{
+    "id": "1592773427",
+    "title": "New State Recovery Attack on RC4",
+    "venue": "international cryptology conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Alexander Maximov",
+            "id": "2794574848",
+            "org": "Laboratory of Algorithmics, Cryptology and Security, University of Luxembourg, Luxembourg L-1359#TAB#"
+        },
+        {
+            "name": "Dmitry Khovratovich",
+            "id": "717857179",
+            "org": "Laboratory of Algorithmics, Cryptology and Security, University of Luxembourg, Luxembourg L-1359#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Key-recovery attack",
+        "Interpolation attack",
+        "Theoretical computer science",
+        "Algorithm",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Slide attack",
+        "Stream cipher attack",
+        "Meet-in-the-middle attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1481574984",
+        "1500414598",
+        "1510584840",
+        "1518871948",
+        "1532836984",
+        "1541610148",
+        "1551800379",
+        "1566979565",
+        "1601410587",
+        "1602293460",
+        "1637905077",
+        "1724491999",
+        "1776302329",
+        "1990220158",
+        "1998368731",
+        "2007751412",
+        "2007876915",
+        "2032767749",
+        "2055083041",
+        "2058038200",
+        "2067913138",
+        "2096702363",
+        "2096816559",
+        "2097493047",
+        "2109719955",
+        "2111310412",
+        "2117596926",
+        "2121371977",
+        "2123460950",
+        "2125467055",
+        "2129085629",
+        "2144724363",
+        "2151074078",
+        "2159538959",
+        "2159892543",
+        "2161716369",
+        "2164262733",
+        "2785449841",
+        "2786219742"
+    ]
+}

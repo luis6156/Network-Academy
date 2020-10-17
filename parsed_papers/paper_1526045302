@@ -1,0 +1,58 @@
+{
+    "id": "1526045302",
+    "title": "Analysis of step-reduced SHA-256",
+    "venue": "fast software encryption",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Hash function",
+        "Boolean function",
+        "Modular design",
+        "Collision"
+    ],
+    "references": [
+        "73995444",
+        "798366527",
+        "1504695911",
+        "1518393264",
+        "1521015940",
+        "1533979572",
+        "1536493828",
+        "1579664096",
+        "1590269592",
+        "1656731780",
+        "2093465763",
+        "2095675261",
+        "2099250555",
+        "2103239853",
+        "2121078396",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2611506938"
+    ]
+}

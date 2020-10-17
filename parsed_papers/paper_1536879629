@@ -1,0 +1,41 @@
+{
+    "id": "1536879629",
+    "title": "RDFBroker: a signature-based high-performance RDF store",
+    "venue": "european semantic web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Sintek",
+            "id": "2246443285",
+            "org": "DFKI GmbH, Kaiserslautern, Germany#TAB#"
+        },
+        {
+            "name": "Malte Kiesel",
+            "id": "2043870454",
+            "org": "DFKI GmbH, Kaiserslautern, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Entity-attribute-value model",
+        "RDF/XML",
+        "RDF query language",
+        "Database",
+        "RDF Schema",
+        "Simple Knowledge Organization System",
+        "Cwm",
+        "SPARQL",
+        "Information retrieval",
+        "Blank node"
+    ],
+    "references": [
+        "29172951",
+        "43013837",
+        "1504083444",
+        "1565595968",
+        "2075351444",
+        "2088221426",
+        "2134547754",
+        "2161291780"
+    ]
+}

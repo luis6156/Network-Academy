@@ -1,0 +1,46 @@
+{
+    "id": "172155664",
+    "title": "A pushdown transducer extension for the openfst library",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Cyril Allauzen",
+            "id": "2276041039",
+            "org": "Google Research, New York, NY#TAB#"
+        },
+        {
+            "name": "Michael Riley",
+            "id": "2143421543",
+            "org": "Google Research, New York, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transducer",
+        "Context-free language",
+        "Algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "Embedded pushdown automaton",
+        "Parsing",
+        "Deterministic pushdown automaton",
+        "Pushdown automaton",
+        "Nested word",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1505482284",
+        "1577934069",
+        "1582482241",
+        "1586668623",
+        "1607161872",
+        "1768003599",
+        "1818782312",
+        "1955233831",
+        "1998809603",
+        "2046932483",
+        "2054435341",
+        "2104599542",
+        "2437005631"
+    ]
+}

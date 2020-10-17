@@ -1,0 +1,44 @@
+{
+    "id": "1564835217",
+    "title": "Experiments with N-gram prefixes on a multinomial language model versus Lucene's off-the-shelf ranking scheme and Rocchio query expansion (TEL@CLEF monolingual task)",
+    "venue": "cross language evaluation forum",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jorge Machado",
+            "id": "2433175215",
+            "org": "Departmento de Engenharia Informatica, Technical University of Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Bruno Martins",
+            "id": "2238216042",
+            "org": "Departmento de Engenharia Informatica, Technical University of Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Jose Luis Borbinha",
+            "id": "1254911949",
+            "org": "Departmento de Engenharia Informatica, Technical University of Lisbon, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Query expansion",
+        "Indexation",
+        "Vector space model",
+        "Computer science",
+        "Natural language processing",
+        "LGTE",
+        "Ranking",
+        "n-gram",
+        "Ranking (information retrieval)",
+        "Information retrieval",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1606197053",
+        "2084212212",
+        "2085030399",
+        "2098162425",
+        "2131133093"
+    ]
+}

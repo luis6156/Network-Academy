@@ -1,0 +1,53 @@
+{
+    "id": "1600821313",
+    "title": "Efficient Long-Term Validation of Digital Signatures",
+    "venue": "public key cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Arne Ansper",
+            "id": "1603999449",
+            "org": "Cybernetica"
+        },
+        {
+            "name": "Ahto Buldas",
+            "id": "287036867",
+            "org": "Cybernetica"
+        },
+        {
+            "name": "Meelis Roos",
+            "id": "2116900569",
+            "org": "Cybernetica"
+        },
+        {
+            "name": "Jan Willemson",
+            "id": "169085603",
+            "org": "Cybernetica"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Timestamp",
+        "Service provider",
+        "Ephemeral key",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Digital signature",
+        "Revocation",
+        "Key (lock)",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "190693689",
+        "1488056159",
+        "1502896015",
+        "1542430206",
+        "1566345534",
+        "1997911919",
+        "2005725110",
+        "2008524185",
+        "2089934546",
+        "2156186849"
+    ]
+}

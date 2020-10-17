@@ -1,0 +1,81 @@
+{
+    "id": "1493098199",
+    "title": "Consistently estimating the selectivity of conjuncts of predicates",
+    "venue": "very large data bases",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Volker Markl",
+            "id": "2713902155",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Nimrod Megiddo",
+            "id": "2016073234",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Marcel Kutsch",
+            "id": "2086802575",
+            "org": "IBM Germany#TAB#"
+        },
+        {
+            "name": "Tam Minh Tran",
+            "id": "2106405597",
+            "org": "IBM Silicon Valley Lab#TAB#"
+        },
+        {
+            "name": "Peter J. Haas",
+            "id": "2118460571",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Utkarsh Srivastava",
+            "id": "2274204266",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cardinality",
+        "Consistent estimator",
+        "Joint probability distribution",
+        "Data mining",
+        "Computer science",
+        "Principle of maximum entropy",
+        "Selectivity",
+        "Database",
+        "Multivariate statistics",
+        "Mathematical optimization",
+        "Query optimization",
+        "Almost surely"
+    ],
+    "references": [
+        "25483517",
+        "67858951",
+        "1480809079",
+        "1495105959",
+        "1569148339",
+        "1581547316",
+        "1608665031",
+        "2000025733",
+        "2007069074",
+        "2019286881",
+        "2026896584",
+        "2041404167",
+        "2060091058",
+        "2097710895",
+        "2102166438",
+        "2102489964",
+        "2103863416",
+        "2112056262",
+        "2120108467",
+        "2126013973",
+        "2137516889",
+        "2142550009",
+        "2153329411",
+        "2160149182",
+        "2168865746",
+        "2171903035",
+        "2212047990"
+    ]
+}

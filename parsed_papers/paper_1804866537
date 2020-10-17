@@ -1,0 +1,50 @@
+{
+    "id": "1804866537",
+    "title": "Control traffic balancing in software defined networks",
+    "venue": "Computer Networks",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Shih-Chun Lin",
+            "id": "2690549750",
+            "org": "Broadband Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA#TAB#"
+        },
+        {
+            "name": "Pu Wang",
+            "id": "2437423718",
+            "org": "Department of Electrical Engineering and Computer Science, Wichita State University, Wichita, KS 67260, USA#TAB#"
+        },
+        {
+            "name": "Min Luo",
+            "id": "2293398595",
+            "org": "Shannon Lab, Huawei Technologies Co., Ltd. Santa Clara, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal control",
+        "Traffic generation model",
+        "Computer science",
+        "Distributed computing",
+        "Approximation algorithm",
+        "Control theory",
+        "Convergence (routing)",
+        "Traffic engineering",
+        "In-band control",
+        "Computer network",
+        "Real-time computing",
+        "OpenFlow"
+    ],
+    "references": [
+        "331141525",
+        "1529620455",
+        "1549918636",
+        "2051716090",
+        "2067605982",
+        "2102090846",
+        "2126822952",
+        "2136835942",
+        "2145091572",
+        "2147118406",
+        "2164278908"
+    ]
+}

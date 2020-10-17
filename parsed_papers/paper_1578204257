@@ -1,0 +1,30 @@
+{
+    "id": "1578204257",
+    "title": "Parallelism in LASSAP, a LArge Scale Sequence compArisons Package",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jean-Jacques Codani",
+            "id": "2289117176",
+            "org": "INRIA Rocquencourt"
+        },
+        {
+            "name": "Eric Glemet",
+            "id": "2460636755",
+            "org": "INRIA Rocquencourt"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Work in process",
+        "MIMD"
+    ],
+    "references": [
+        "1542985837"
+    ]
+}

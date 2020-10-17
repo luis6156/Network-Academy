@@ -1,0 +1,45 @@
+{
+    "id": "1820775600",
+    "title": "Architecture independent short vector FFTs",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Franz Franchetti",
+            "id": "131649368",
+            "org": "Dept. of Appl. & Numerical Math., Tech. Univ. of Vienna, Austria"
+        },
+        {
+            "name": "Herbert Karner",
+            "id": "2600569716",
+            "org": "Department of Applied and Numerical Mathematics Technical University of Vienna"
+        },
+        {
+            "name": "Stefan Kral",
+            "id": "2129748880",
+            "org": "Department of Applied and Numerical Mathematics Technical University of Vienna"
+        },
+        {
+            "name": "Christoph W. Ueberhuber",
+            "id": "1984981406",
+            "org": "Department of Applied and Numerical Mathematics Technical University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "SIMD",
+        "Fourier transform",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Vectorization (mathematics)",
+        "Computer science",
+        "Instruction set",
+        "Parallel processing",
+        "Fast Fourier transform",
+        "Kernel (linear algebra)",
+        "Architecture"
+    ],
+    "references": [
+        "2096070062",
+        "2164197394"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1555040241",
+    "title": "Part-of-speech tagging and PP attachment disambiguation using a boosted maximum entropy model",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Seong-Bae Park",
+            "id": "2142433248",
+            "org": "Department of Computer Engineering, Kyungpook National University, Daegu, Korea#TAB#"
+        },
+        {
+            "name": "Jangmin O",
+            "id": "407234674",
+            "org": "School of Computer Science and Engineering, Seoul National University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sang-Jo Lee",
+            "id": "2170380242",
+            "org": "Department of Computer Engineering, Kyungpook National University, Daegu, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "AdaBoost",
+        "ID3 algorithm",
+        "Pattern recognition",
+        "Computer science",
+        "Principle of maximum entropy",
+        "Chunking (psychology)",
+        "Feature selection",
+        "Computational complexity theory",
+        "Decision tree",
+        "Maximum-entropy Markov model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1608076529",
+        "1773803948"
+    ]
+}

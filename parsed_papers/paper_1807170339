@@ -1,0 +1,57 @@
+{
+    "id": "1807170339",
+    "title": "Tile Reduction: The First Step towards Tile Aware Parallelization in OpenMP",
+    "venue": "international workshop on openmp",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ge Gan",
+            "id": "2805388684",
+            "org": "Dep. of Electrical and Computer Engineering, University of Delaware, Newark, U.S.A. 19716#TAB#"
+        },
+        {
+            "name": "Xu Wang",
+            "id": "2659283849",
+            "org": "Dep. of Electrical Engineering, Jilin University, Jilin, China 130000#TAB#"
+        },
+        {
+            "name": "Joseph B. Manzano",
+            "id": "2148301931",
+            "org": "Dep. of Electrical and Computer Engineering, University of Delaware, Newark, U.S.A. 19716#TAB#"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "Dep. of Electrical and Computer Engineering, University of Delaware, Newark, U.S.A. 19716#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Tile",
+        "Locality",
+        "Computer science",
+        "Parallel programming model",
+        "Compiler",
+        "Language construct",
+        "Code generation",
+        "Programmer"
+    ],
+    "references": [
+        "1487318190",
+        "1551889632",
+        "2008654264",
+        "2014033064",
+        "2038543880",
+        "2053693090",
+        "2070922326",
+        "2090676346",
+        "2099281741",
+        "2109065830",
+        "2117920638",
+        "2119609467",
+        "2126952393",
+        "2144643978"
+    ]
+}

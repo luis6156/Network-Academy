@@ -1,0 +1,53 @@
+{
+    "id": "1535680761",
+    "title": "Memory Allocation Tracing with VampirTrace",
+    "venue": "international conference on computational science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Matthias Jurenz",
+            "id": "45113656",
+            "org": "ZIH, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Ronny Brendel",
+            "id": "2307982116",
+            "org": "ZIH, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Andreas Knupfer",
+            "id": "2051308727",
+            "org": "ZIH, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Matthias S. Muller",
+            "id": "2403124791",
+            "org": "ZIH, TU Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "ZIH, TU Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Allocator",
+        "Memory management",
+        "Tracing",
+        "Data acquisition",
+        "Instrumentation",
+        "Static memory allocation"
+    ],
+    "references": [
+        "158805579",
+        "1566403276",
+        "1965351873",
+        "1994309501",
+        "2038897371",
+        "2103030387",
+        "2112858958",
+        "2128274900"
+    ]
+}

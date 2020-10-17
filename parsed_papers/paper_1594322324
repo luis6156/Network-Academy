@@ -1,0 +1,49 @@
+{
+    "id": "1594322324",
+    "title": "Fast Query Evaluation with (Lazy) Control Flow Compilation",
+    "venue": "international conference on logic programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Remko Troncon",
+            "id": "1963437978",
+            "org": "K.U.Leuven"
+        },
+        {
+            "name": "Gerda Janssens",
+            "id": "1997037825",
+            "org": "K.U.Leuven"
+        },
+        {
+            "name": "Henk Vandecasteele",
+            "id": "595543391",
+            "org": "K.U.Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Control flow",
+        "Algorithm",
+        "Inductive logic programming",
+        "Computer science",
+        "Garbage collection",
+        "Distributed computing",
+        "Just-in-time compilation",
+        "Unreachable code",
+        "Compiled language",
+        "Decision tree",
+        "Exploit"
+    ],
+    "references": [
+        "150885707",
+        "1499599031",
+        "1514437925",
+        "1535300873",
+        "1996824494",
+        "1999138184",
+        "2000050212",
+        "2033072307",
+        "2113243831",
+        "2119831128"
+    ]
+}

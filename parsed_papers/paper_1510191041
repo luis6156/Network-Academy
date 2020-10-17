@@ -1,0 +1,36 @@
+{
+    "id": "1510191041",
+    "title": "A Proposal for the Implementation of a Parallel Watershed Algorithm",
+    "venue": "computer analysis of images and patterns",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Arnold Meijster",
+            "id": "1088542956",
+            "org": "University of Groningen"
+        },
+        {
+            "name": "Jos B. T. M. Roerdink",
+            "id": "323429155",
+            "org": "University of Groningen"
+        }
+    ],
+    "fields_of_study": [
+        "Watershed",
+        "Parallel computing",
+        "Theoretical computer science",
+        "SPMD",
+        "Mathematical morphology",
+        "Computation",
+        "Shared memory",
+        "Computer science",
+        "Distributed memory",
+        "Exploit",
+        "Parallel algorithm"
+    ],
+    "references": [
+        "1532915129",
+        "2109372408",
+        "2124260943"
+    ]
+}

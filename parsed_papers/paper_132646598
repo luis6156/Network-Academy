@@ -1,0 +1,70 @@
+{
+    "id": "132646598",
+    "title": "Reflection Cryptanalysis of PRINCE-Like Ciphers",
+    "venue": "fast software encryption",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Hadi Soleimany",
+            "id": "2203385203",
+            "org": "Aalto University School of Science"
+        },
+        {
+            "name": "Celine Blondeau",
+            "id": "1996688774",
+            "org": "Aalto University School of Science"
+        },
+        {
+            "name": "Xiaoli Yu",
+            "id": "2303611080",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Kaisa Nyberg",
+            "id": "2152819472",
+            "org": "Aalto University School of Science"
+        },
+        {
+            "name": "Huiling Zhang",
+            "id": "2505490062",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Yanfeng Wang",
+            "id": "2612478789",
+            "org": "Chinese Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Block cipher",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Kasiski examination"
+    ],
+    "references": [
+        "1482084358",
+        "1524508699",
+        "1554594656",
+        "1599175145",
+        "1853704432",
+        "1966655096",
+        "2141124495",
+        "2340541605"
+    ]
+}

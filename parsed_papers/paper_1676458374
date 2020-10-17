@@ -1,0 +1,52 @@
+{
+    "id": "1676458374",
+    "title": "Algorithms for Temperature-Aware Task Scheduling in Microprocessor Systems",
+    "venue": "algorithmic applications in management",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marek Chrobak",
+            "id": "625447375",
+            "org": "Department of Computer Science, University of California, Supported by NSF grants OISE-0340752 and CCF-0729071, Riverside CA 92521#TAB#"
+        },
+        {
+            "name": "Christoph Durr",
+            "id": "1908522208",
+            "org": "CNRS, LIX UMR 7161, Ecole Polytechnique, Supported by ANR Alpage, France#TAB#"
+        },
+        {
+            "name": "Mathilde Hurand",
+            "id": "2216252180",
+            "org": "CNRS, LIX UMR 7161, Ecole Polytechnique, Supported by ANR Alpage, France#TAB#"
+        },
+        {
+            "name": "Julien Robert",
+            "id": "2299602969",
+            "org": "Laboratoire de l'Informatique du Parallelisme, ENS Lyon, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Competitive analysis",
+        "Computer science",
+        "Scheduling (computing)",
+        "Online algorithm",
+        "Deterministic algorithm",
+        "Dynamic priority scheduling",
+        "Job shop scheduling",
+        "Embedded system",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "190397983",
+        "2005012890",
+        "2011039300",
+        "2026585238",
+        "2095942479",
+        "2123853086",
+        "2137500257",
+        "2153388373",
+        "2165160270"
+    ]
+}

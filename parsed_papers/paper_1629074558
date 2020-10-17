@@ -1,0 +1,74 @@
+{
+    "id": "1629074558",
+    "title": "Sealing the Leak on Classical NTRU Signatures",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Carlos Aguilar Melchor",
+            "id": "1016856182",
+            "org": "Universite de Limoges"
+        },
+        {
+            "name": "Xavier Boyen",
+            "id": "67263304",
+            "org": "QUT"
+        },
+        {
+            "name": "Jean-Christophe Deneuville",
+            "id": "2107116574",
+            "org": "Universite de Limoges"
+        },
+        {
+            "name": "Philippe Gaborit",
+            "id": "1911089074",
+            "org": "Universite de Limoges"
+        }
+    ],
+    "fields_of_study": [
+        "NTRU",
+        "Mathematics",
+        "Theoretical computer science",
+        "Lattice (order)",
+        "Lattice-based cryptography",
+        "Digital signature",
+        "NTRUSign",
+        "Parallelepiped",
+        "Modulo",
+        "Provable security"
+    ],
+    "references": [
+        "42080394",
+        "80562455",
+        "121367636",
+        "129929154",
+        "187212994",
+        "610273277",
+        "1489617931",
+        "1515730531",
+        "1527450129",
+        "1531850752",
+        "1541721626",
+        "1553144034",
+        "1553792294",
+        "1761303171",
+        "1766548092",
+        "1886646278",
+        "1893972099",
+        "1936753088",
+        "1992226551",
+        "1994790157",
+        "2038761522",
+        "2074196013",
+        "2088297362",
+        "2096218735",
+        "2106970188",
+        "2142048307",
+        "2143148823",
+        "2150624282",
+        "2164736940",
+        "2177399963",
+        "2400070855",
+        "2525966718"
+    ]
+}

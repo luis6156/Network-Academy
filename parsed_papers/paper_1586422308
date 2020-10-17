@@ -1,0 +1,75 @@
+{
+    "id": "1586422308",
+    "title": "Unified parallel C for GPU clusters: language extensions and compiler implementation",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Li Chen",
+            "id": "2655719509",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Lei Liu",
+            "id": "2696473436",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Shenglin Tang",
+            "id": "2497957457",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Lei Huang",
+            "id": "2669635377",
+            "org": "Department of Computer Science, University of Houston, Houston, TX#TAB#"
+        },
+        {
+            "name": "Zheng Jing",
+            "id": "2477306491",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Shixiong Xu",
+            "id": "2796845100",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Dingfei Zhang",
+            "id": "2141022106",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Baojiang Shou",
+            "id": "2113238759",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "SPMD",
+        "Unified Parallel C",
+        "Computer science",
+        "Compiler",
+        "Execution model",
+        "Runtime system",
+        "CUDA",
+        "GPU cluster"
+    ],
+    "references": [
+        "1494271578",
+        "1537323515",
+        "1579925828",
+        "1623282124",
+        "2085118703",
+        "2103393368",
+        "2129232868",
+        "2135342109",
+        "2139935536",
+        "2156742168",
+        "2159560337",
+        "2170634604"
+    ]
+}

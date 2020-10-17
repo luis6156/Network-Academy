@@ -1,0 +1,82 @@
+{
+    "id": "1483547670",
+    "title": "Exploiting schemas in data synchronization",
+    "venue": "database programming languages",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "J. Nathan Foster",
+            "id": "2138056070",
+            "org": "University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Michael B. Greenwald",
+            "id": "1922358508",
+            "org": "Bell Labs, Lucent Technologies#TAB#"
+        },
+        {
+            "name": "Christian Kirkegaard",
+            "id": "2317301826",
+            "org": "BRICS, University of Aarhus#TAB#"
+        },
+        {
+            "name": "Benjamin C. Pierce",
+            "id": "1988947184",
+            "org": "University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Alan Schmitt",
+            "id": "2234656419",
+            "org": "INRIA, Rhone-Alpes#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Replication (computing)",
+        "Computer science",
+        "Data synchronization",
+        "Distributed computing",
+        "Synchronizing",
+        "Data modeling",
+        "Database",
+        "Synchronization (computer science)",
+        "Synchronization",
+        "Tuple",
+        "Data structure"
+    ],
+    "references": [
+        "66727416",
+        "182346126",
+        "1490720341",
+        "1494692399",
+        "1535992660",
+        "1539975380",
+        "1570069168",
+        "1943176887",
+        "1965311471",
+        "1982213843",
+        "1993994360",
+        "2001200683",
+        "2008896880",
+        "2015500760",
+        "2017740323",
+        "2024797550",
+        "2054873404",
+        "2072881690",
+        "2085631457",
+        "2093428114",
+        "2099184519",
+        "2113582770",
+        "2116142433",
+        "2125713144",
+        "2139135093",
+        "2142104809",
+        "2145388050",
+        "2146462464",
+        "2150365753",
+        "2154193287",
+        "2294548604",
+        "2295541535",
+        "2502590327"
+    ]
+}

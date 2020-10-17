@@ -1,0 +1,71 @@
+{
+    "id": "1553308705",
+    "title": "ReFormat: automatic reverse engineering of encrypted messages",
+    "venue": "european symposium on research in computer security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Zhi Wang",
+            "id": "2569141412",
+            "org": "North Carolina State University#TAB#"
+        },
+        {
+            "name": "Xuxian Jiang",
+            "id": "2101920419",
+            "org": "North Carolina State University#TAB#"
+        },
+        {
+            "name": "Weidong Cui",
+            "id": "2107517118",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Xinyuan Wang",
+            "id": "2112836700",
+            "org": "George Mason University#TAB#"
+        },
+        {
+            "name": "Michael C. Grace",
+            "id": "2161845773",
+            "org": "North Carolina State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Message broker",
+        "Message format",
+        "Technical report",
+        "Reverse engineering",
+        "Computer science",
+        "Communications protocol",
+        "Encryption",
+        "Computer security",
+        "Static timing analysis",
+        "Plaintext"
+    ],
+    "references": [
+        "157156687",
+        "179510128",
+        "1222699389",
+        "1489157620",
+        "1538375546",
+        "1736607886",
+        "1921075642",
+        "1978063312",
+        "2014589236",
+        "2049867480",
+        "2100666033",
+        "2102970979",
+        "2115675703",
+        "2117470854",
+        "2131875129",
+        "2134633067",
+        "2136337200",
+        "2140839850",
+        "2145211381",
+        "2151135920",
+        "2156858199",
+        "2163762767",
+        "2164253698",
+        "2172163424"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1793695472",
+    "title": "HMM-Based Continuous Sign Language Recognition Using Stochastic Grammars",
+    "venue": "GW '99 Proceedings of the International Gesture Workshop on Gesture-Based Communication in Human-Computer Interaction",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Hermann Hienz",
+            "id": "2048752931",
+            "org": "Aachen University of Technology (RWTH)"
+        },
+        {
+            "name": "Britta Bauer",
+            "id": "2001400433",
+            "org": "Aachen University of Technology (RWTH)"
+        },
+        {
+            "name": "Karl-Friedrich Kraiss",
+            "id": "2700821624",
+            "org": "Aachen University of Technology (RWTH)"
+        }
+    ],
+    "fields_of_study": [
+        "Bigram",
+        "Language model",
+        "Rule-based machine translation",
+        "Computer science",
+        "Hidden Markov model",
+        "Sign language",
+        "Lexicon",
+        "German Sign Language",
+        "Speech recognition",
+        "Cache language model"
+    ],
+    "references": [
+        "1747251355",
+        "2112753968",
+        "2125834953",
+        "2146221819"
+    ]
+}

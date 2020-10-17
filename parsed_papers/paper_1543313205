@@ -1,0 +1,80 @@
+{
+    "id": "1543313205",
+    "title": "Optimizing the exploitation of multicore processors and GPUs with OpenMP and OpenCL",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Roger Ferrer",
+            "id": "2307706594",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Judit Planas",
+            "id": "2600682738",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Pieter Bellens",
+            "id": "1893074995",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Alejandro Duran",
+            "id": "2601250523",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Marc Gonzalez",
+            "id": "2124963511",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain and Departament d'Arquitectura de Computadors, Univ. Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Xavier Martorell",
+            "id": "2155127561",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain and Departament d'Arquitectura de Computadors, Univ. Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Rosa M. Badia",
+            "id": "2170220285",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain and Artificial Intelligence Research Institute, Spanish National Research Council, Spain#TAB#"
+        },
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain and Departament d'Arquitectura de Computadors, Univ. Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Barcelona Supercomputing Center, Barcelona, Spain and Departament d'Arquitectura de Computadors, Univ. Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Multi-core processor",
+        "Computer science",
+        "Perlin noise",
+        "Compiler",
+        "Programmer",
+        "Runtime system",
+        "CUDA",
+        "Programming paradigm",
+        "GPU cluster"
+    ],
+    "references": [
+        "1537323515",
+        "1623282124",
+        "1630577638",
+        "1977043846",
+        "1978319530",
+        "2080393180",
+        "2106416475",
+        "2109426995",
+        "2119010809",
+        "2121758805",
+        "2126545867",
+        "2126952393",
+        "2165831368"
+    ]
+}

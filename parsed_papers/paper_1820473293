@@ -1,0 +1,74 @@
+{
+    "id": "1820473293",
+    "title": "Threshold implementations of all 3x3 and 4x4 s-boxes",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Begul Bilgin",
+            "id": "2160609498",
+            "org": "Dept. ESAT/SCD-COSIC and IBBT, KU Leuven, Belgium,EEMCS-DIES, University of Twente, The Netherlands#TAB#"
+        },
+        {
+            "name": "Svetla Nikova",
+            "id": "2097428058",
+            "org": "Dept. ESAT/SCD-COSIC and IBBT, KU Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Ventzislav Nikov",
+            "id": "2113011208",
+            "org": "NXP Semiconductors, Belgium#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Dept. ESAT/SCD-COSIC and IBBT, KU Leuven, Belgium,IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Georg Stutz",
+            "id": "2046240689",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Invertible matrix",
+        "Cryptography",
+        "Theoretical computer science",
+        "S-box",
+        "Computation",
+        "Computer science",
+        "Glitch",
+        "Implementation",
+        "Secret sharing",
+        "Boolean function"
+    ],
+    "references": [
+        "112080296",
+        "130371449",
+        "1481603678",
+        "1492619099",
+        "1506423869",
+        "1506890909",
+        "1512062395",
+        "1541098965",
+        "1592625985",
+        "1595033009",
+        "1832719378",
+        "1839956289",
+        "1853704432",
+        "1873852107",
+        "1959383191",
+        "2044843614",
+        "2072356129",
+        "2114286085",
+        "2128197017",
+        "2136500007",
+        "2144630005",
+        "2145829971",
+        "2161740631",
+        "2164584813",
+        "2192045618",
+        "2251439738",
+        "2615943859"
+    ]
+}

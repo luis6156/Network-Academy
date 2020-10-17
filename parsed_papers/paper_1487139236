@@ -1,0 +1,61 @@
+{
+    "id": "1487139236",
+    "title": "Robust focal length estimation by voting in multi-view scene reconstruction",
+    "venue": "asian conference on computer vision",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Bujnak",
+            "id": "304968506",
+            "org": "Bratislava, Slovakia#TAB#"
+        },
+        {
+            "name": "Zuzana Kukelova",
+            "id": "306718082",
+            "org": "Center for Machine Perception, Czech Technical University in Prague#TAB#"
+        },
+        {
+            "name": "Tomas Pajdla",
+            "id": "1996122094",
+            "org": "Center for Machine Perception, Czech Technical University in Prague#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "RANSAC",
+        "Mathematics",
+        "Structure from motion",
+        "Computer vision",
+        "3D reconstruction",
+        "Pattern recognition",
+        "Ground truth",
+        "Data set",
+        "Focal length",
+        "Epipolar geometry",
+        "Voting",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "40551646",
+        "1496447336",
+        "1597120896",
+        "1627400044",
+        "1660742177",
+        "2047835845",
+        "2058650633",
+        "2085261163",
+        "2097382602",
+        "2099927035",
+        "2106199912",
+        "2107302218",
+        "2109635530",
+        "2109757902",
+        "2119605622",
+        "2130017587",
+        "2130156102",
+        "2134211982",
+        "2143221441",
+        "2171244244",
+        "2337319582",
+        "2537404232"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1584218284",
+    "title": "Group Rekeying Algorithm Using Pseudo-random Functions and Modular Reduction",
+    "venue": "grid and cooperative computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Josep Pegueroles",
+            "id": "2145085107",
+            "org": "Technical University of Catalonia"
+        },
+        {
+            "name": "Wang Bin",
+            "id": "2404337771",
+            "org": "Shangai Jiaotong University"
+        },
+        {
+            "name": "Miguel Soriano",
+            "id": "2304869110",
+            "org": "Technical University of Catalonia"
+        },
+        {
+            "name": "Francisco Rico-Novella",
+            "id": "2067467125",
+            "org": "Technical University of Catalonia"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom number generator",
+        "Rekeying",
+        "Session key",
+        "Key server",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Computer science",
+        "Keying",
+        "Trusted third party",
+        "Modular design"
+    ],
+    "references": [
+        "1600192790",
+        "1660562555"
+    ]
+}

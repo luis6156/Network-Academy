@@ -1,0 +1,57 @@
+{
+    "id": "1694765325",
+    "title": "Fast and generalized polynomial time memory consistency verification",
+    "venue": "computer aided verification",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Amitabha Roy",
+            "id": "2106745668",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Stephan Zeisset",
+            "id": "297242139",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Charles J. Fleckenstein",
+            "id": "2492770651",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "John C. Huang",
+            "id": "2477330291",
+            "org": "Intel Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Theoretical computer science",
+        "Algorithm",
+        "SIMD",
+        "Parallel computing",
+        "Sequential consistency",
+        "Microprocessor",
+        "Computer science",
+        "Processor consistency",
+        "Local consistency",
+        "Parallel algorithm",
+        "Real-time computing",
+        "Consistency model"
+    ],
+    "references": [
+        "1511234963",
+        "1823635467",
+        "1993990180",
+        "2029601347",
+        "2034531215",
+        "2104734478",
+        "2105945277",
+        "2111491143",
+        "2129938370",
+        "2137650676",
+        "2176864362",
+        "2520885739"
+    ]
+}

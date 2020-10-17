@@ -1,0 +1,59 @@
+{
+    "id": "1485183201",
+    "title": "Forward secrecy in password-only key exchange protocols",
+    "venue": "international workshop on security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Department of Computer Science, University of Maryland, College Park#TAB#"
+        },
+        {
+            "name": "Rafail Ostrovsky",
+            "id": "1482108584",
+            "org": "Telcordia Technologies, Inc.#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Dictionary attack",
+        "Key exchange",
+        "Computer science",
+        "Forward secrecy",
+        "Computer security",
+        "Adversary",
+        "Password",
+        "Random oracle",
+        "Internet privacy",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "121782665",
+        "140743382",
+        "203500824",
+        "1516161674",
+        "1540322376",
+        "1542059364",
+        "1595293097",
+        "1974664062",
+        "1992506132",
+        "1994386233",
+        "2035164471",
+        "2047241038",
+        "2074861055",
+        "2083744087",
+        "2124926080",
+        "2128758858",
+        "2134475940",
+        "2156186849",
+        "2157604883",
+        "2170220035",
+        "2397756951"
+    ]
+}

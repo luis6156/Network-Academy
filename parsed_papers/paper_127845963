@@ -1,0 +1,68 @@
+{
+    "id": "127845963",
+    "title": "Automated information flow analysis of virtualized infrastructures",
+    "venue": "european symposium on research in computer security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Soren Bleikertz",
+            "id": "1255703803",
+            "org": "IBM Research - Zurich#TAB#"
+        },
+        {
+            "name": "Thomas Gross",
+            "id": "2163402659",
+            "org": "IBM Research - Zurich#TAB#"
+        },
+        {
+            "name": "Matthias Schunter",
+            "id": "2048769069",
+            "org": "IBM Research - Zurich#TAB#"
+        },
+        {
+            "name": "Konrad Eriksson",
+            "id": "2396659367",
+            "org": "InfraSight Labs#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Transitive closure",
+        "Graph (abstract data type)",
+        "Virtualization",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Graph coloring",
+        "Information flow (information theory)",
+        "Virtual machine",
+        "Graph traversal"
+    ],
+    "references": [
+        "188713382",
+        "1516018459",
+        "1541087836",
+        "1558464214",
+        "1561441787",
+        "1604454960",
+        "1923195206",
+        "1977764760",
+        "1985800317",
+        "1992056756",
+        "1995761541",
+        "2042752559",
+        "2099137371",
+        "2109332509",
+        "2119028650",
+        "2122049982",
+        "2124877509",
+        "2129858673",
+        "2134502203",
+        "2138623315",
+        "2140069682",
+        "2144235923",
+        "2146573211",
+        "2150210903",
+        "2156204309"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "1530918642",
+    "title": "A Boyer-Moore Type Algorithm for Compressed Pattern Matching",
+    "venue": "combinatorial pattern matching",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Yusuke Shibata",
+            "id": "2108288588",
+            "org": "Kyushu University 33"
+        },
+        {
+            "name": "Tetsuya Matsumoto",
+            "id": "2167886539",
+            "org": "Kyushu University 33"
+        },
+        {
+            "name": "Masayuki Takeda",
+            "id": "2558385632",
+            "org": "Kyushu University 33"
+        },
+        {
+            "name": "Ayumi Shinohara",
+            "id": "2149841904",
+            "org": "Kyushu University 33"
+        },
+        {
+            "name": "Setsuo Arikawa",
+            "id": "1907359370",
+            "org": "Kyushu University 33"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Search algorithm",
+        "Data compression",
+        "String searching algorithm",
+        "Algorithm",
+        "Byte pair encoding",
+        "Discrete mathematics",
+        "Computer science",
+        "Combinatorics",
+        "Compressed pattern matching",
+        "Boyer-Moore string search algorithm",
+        "Pattern matching"
+    ],
+    "references": [
+        "1480106357",
+        "1497102622",
+        "1499930986",
+        "1512616185",
+        "1514337702",
+        "1553048644",
+        "1569173524",
+        "1586630604",
+        "1804684259",
+        "1859298736",
+        "1883832029",
+        "1981409766",
+        "1985108724",
+        "1986106281",
+        "1991731883",
+        "2045821558",
+        "2062657631",
+        "2099964107",
+        "2107745473",
+        "2134826720",
+        "2611477341"
+    ]
+}

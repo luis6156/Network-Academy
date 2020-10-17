@@ -1,0 +1,81 @@
+{
+    "id": "1203397",
+    "title": "SPN-hash: improving the provable resistance against differential collision attacks",
+    "venue": "international conference on cryptology in africa",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jiali Choy",
+            "id": "2147277912",
+            "org": "DSO National Laboratories, Singapore#TAB#"
+        },
+        {
+            "name": "Huihui Yap",
+            "id": "2160250037",
+            "org": "DSO National Laboratories, Singapore#TAB#"
+        },
+        {
+            "name": "Khoongming Khoo",
+            "id": "2155732702",
+            "org": "DSO National Laboratories, Singapore#TAB#"
+        },
+        {
+            "name": "Jian Guo",
+            "id": "2151853455",
+            "org": "Institute for Infocomm Research, A*STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2524111462",
+            "org": "SPMS, Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Axel Poschmann",
+            "id": "1981858454",
+            "org": "SPMS, Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Chik How Tan",
+            "id": "2274428782",
+            "org": "Temasek Laboratories, National University of Singapore, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Primary clustering",
+        "Distributed computing",
+        "Hash chain",
+        "Collision attack",
+        "SWIFFT",
+        "Hash function",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "35428663",
+        "1507705751",
+        "1521253015",
+        "1527450129",
+        "1544857718",
+        "1553650484",
+        "1554865288",
+        "1556212265",
+        "1568559070",
+        "1572032991",
+        "1583471030",
+        "1601321736",
+        "1603433154",
+        "1660562555",
+        "1838677899",
+        "1843429063",
+        "2089916326",
+        "2094173427",
+        "2102589916",
+        "2136320902",
+        "2149174385",
+        "2163466490",
+        "2395122469"
+    ]
+}

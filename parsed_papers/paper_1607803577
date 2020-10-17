@@ -1,0 +1,65 @@
+{
+    "id": "1607803577",
+    "title": "Scalable access control for distributed object systems",
+    "venue": "usenix security symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Daniel F. Sterne",
+            "id": "1205374189",
+            "org": "NAI Labs, Network Associates, Inc.#TAB#"
+        },
+        {
+            "name": "Gregg W. Tally",
+            "id": "2033633178",
+            "org": "NAI Labs, Network Associates, Inc.#TAB#"
+        },
+        {
+            "name": "C. Durward McDonell",
+            "id": "2627612040",
+            "org": "NAI Labs, Network Associates, Inc.#TAB#"
+        },
+        {
+            "name": "David L. Sherman",
+            "id": "2100922454",
+            "org": "NAI Labs, Network Associates, Inc.#TAB#"
+        },
+        {
+            "name": "David L. Sames",
+            "id": "2081424925",
+            "org": "NAI Labs, Network Associates, Inc.#TAB#"
+        },
+        {
+            "name": "Pierre X. Pasturel",
+            "id": "2576630650",
+            "org": "NAI Labs, Network Associates, Inc.#TAB#"
+        },
+        {
+            "name": "E. John Sebes",
+            "id": "2571104674",
+            "org": "Kroll-O'Gara Information Security Group#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Object-oriented programming",
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Terminology",
+        "Role-based access control",
+        "Common Object Request Broker Architecture",
+        "Enforcement",
+        "Distributed object",
+        "Real-time computing"
+    ],
+    "references": [
+        "1576501285",
+        "1618548847",
+        "2091788338",
+        "2095881341",
+        "2097024276",
+        "2109310851",
+        "2124511523"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1509358216",
+    "title": "Rebound attacks on the reduced grostl hash function",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "2607524346",
+            "org": "Dept. of Electrical Engineering ESAT/COSIC, K.U. Leuven, and Interdisciplinary Institute for BroadBand Technology (IBBT), Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Martin Schlaffer",
+            "id": "2159898291",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Soren S. Thomsen",
+            "id": "2151455423",
+            "org": "Department of Mathematics, Technical University of Denmark, Lyngby, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rebound attack",
+        "Mathematics",
+        "MDC-2",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Collision attack",
+        "Arithmetic",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "124034723",
+        "1558076723",
+        "1603433154",
+        "1656731780",
+        "2103239853",
+        "2121895731",
+        "2136320902",
+        "2404173250",
+        "2513781444",
+        "2593463031"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "1598575013",
+    "title": "The Design and Implementation of TIDeFlow: A Dataflow-Inspired Execution Model for Parallel Loops and Task Pipelining",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Daniel A. Orozco",
+            "id": "2139588259",
+            "org": "University of Delaware, Newark, USA#TAB#"
+        },
+        {
+            "name": "Elkin Garcia",
+            "id": "2125628578",
+            "org": "University of Delaware, Newark, USA#TAB#"
+        },
+        {
+            "name": "Robert S. Pavel",
+            "id": "2095345785",
+            "org": "University of Delaware, Newark, USA#TAB#"
+        },
+        {
+            "name": "Jaime Arteaga",
+            "id": "2480371743",
+            "org": "University of Delaware, Newark, USA#TAB#"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "University of Delaware, Newark, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Scheduling (computing)",
+        "Execution model",
+        "Dataflow",
+        "Runtime system",
+        "Pipeline (computing)",
+        "Dependency graph",
+        "Programming paradigm",
+        "Programming language",
+        "Software pipelining"
+    ],
+    "references": [
+        "187340102",
+        "1418714876",
+        "1502956417",
+        "1529356657",
+        "1542931031",
+        "1559577056",
+        "1600335798",
+        "1842847600",
+        "1929091259",
+        "1981259316",
+        "1984222112",
+        "1986926028",
+        "2016559894",
+        "2029419996",
+        "2030779424",
+        "2038897871",
+        "2049319673",
+        "2055534506",
+        "2108674173",
+        "2113941519",
+        "2114768856",
+        "2142677441",
+        "2146767870",
+        "2153768689",
+        "2162830667",
+        "2165606466",
+        "2296218291"
+    ]
+}

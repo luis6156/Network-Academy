@@ -1,0 +1,54 @@
+{
+    "id": "180462146",
+    "title": "Property grammar parsing seen as a constraint optimization problem",
+    "venue": "FG'10/FG'11 Proceedings of the 15th and 16th international conference on Formal Grammar",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Denys Duchier",
+            "id": "2776703043",
+            "org": "Centre, Val de Loire Universite, LIFO, Universite d'Orleans, Orleans Cedex 2, France#TAB#"
+        },
+        {
+            "name": "Thi-Bich-Hanh Dao",
+            "id": "2119479014",
+            "org": "Centre, Val de Loire Universite, LIFO, Universite d'Orleans, Orleans Cedex 2, France#TAB#"
+        },
+        {
+            "name": "Yannick Parmentier",
+            "id": "1926522801",
+            "org": "Centre, Val de Loire Universite, LIFO, Universite d'Orleans, Orleans Cedex 2, France#TAB#"
+        },
+        {
+            "name": "Willy Lesaint",
+            "id": "128500590",
+            "org": "Centre, Val de Loire Universite, LIFO, Universite d'Orleans, Orleans Cedex 2, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Algorithm",
+        "Discrete mathematics",
+        "Parser combinator",
+        "Computer science",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Mildly context-sensitive grammar formalism",
+        "Grammar-based code",
+        "Top-down parsing",
+        "Operator-precedence grammar"
+    ],
+    "references": [
+        "106128036",
+        "174431064",
+        "1571692922",
+        "1581252818",
+        "1602425092",
+        "1896380057",
+        "2085153732",
+        "2114610605",
+        "2185868871",
+        "2467660826",
+        "2570710533"
+    ]
+}

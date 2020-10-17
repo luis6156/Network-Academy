@@ -1,0 +1,48 @@
+{
+    "id": "1581530935",
+    "title": "Relations among notions of complete non-malleability: indistinguishability characterisation and efficient construction without random oracles",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Manuel Barbosa",
+            "id": "2258975328",
+            "org": "CCTC, Departamento de Informatica, Universidade do Minho, Braga, Portugal#TAB#"
+        },
+        {
+            "name": "Pooya Farshim",
+            "id": "2632413065",
+            "org": "Royal Holloway, University of London, Egham, Surrey, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Oracle",
+        "Theoretical computer science",
+        "Malleability",
+        "Cramer-Shoup cryptosystem",
+        "Ciphertext indistinguishability",
+        "Ciphertext",
+        "Random oracle",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1502682709",
+        "1516512945",
+        "1551902067",
+        "1591524234",
+        "1592092778",
+        "1759806169",
+        "1901278359",
+        "2097834299",
+        "2101803085",
+        "2112409151",
+        "2137807850",
+        "2143036215",
+        "2147436724",
+        "2167606175",
+        "2169290761",
+        "2753555060"
+    ]
+}

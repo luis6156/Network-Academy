@@ -1,0 +1,58 @@
+{
+    "id": "1603189358",
+    "title": "Toward Efficient Support for Multithreaded MPI Communication",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Pavan Balaji",
+            "id": "1990703395",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA IL 60439#TAB#"
+        },
+        {
+            "name": "Darius Buntinas",
+            "id": "3647825",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA IL 60439#TAB#"
+        },
+        {
+            "name": "David Goodell",
+            "id": "1999697108",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA IL 60439#TAB#"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Department of Computer Science, University of Illinois, Urbana, USA IL, 61801#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA IL 60439#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Critical section",
+        "Parallel computing",
+        "Multi-core processor",
+        "Transactional memory",
+        "Distributed computing",
+        "Computer science",
+        "Granularity",
+        "Message Passing Interface",
+        "Reference counting",
+        "Programming paradigm"
+    ],
+    "references": [
+        "42305685",
+        "1500862294",
+        "1563772499",
+        "1969215126",
+        "2053663473",
+        "2085407655",
+        "2101431901",
+        "2113918640",
+        "2156189380",
+        "2170523074"
+    ]
+}

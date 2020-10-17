@@ -1,0 +1,57 @@
+{
+    "id": "1754198554",
+    "title": "Unaligned rebound attack: application to keccak",
+    "venue": "fast software encryption",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Alexandre Duc",
+            "id": "2097397558",
+            "org": "Ecole Polytechnique Federale de Lausanne, Swizerland#TAB#"
+        },
+        {
+            "name": "Jian Guo",
+            "id": "2151853455",
+            "org": "Institute for Infocomm Research, Singapore#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2524111462",
+            "org": "Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Lei Wei",
+            "id": "2682256403",
+            "org": "Nanyang Technological University, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rebound attack",
+        "Mathematics",
+        "Algorithm",
+        "NIST",
+        "Differential cryptanalysis",
+        "SHA-3",
+        "Skein",
+        "Hash function",
+        "Permutation"
+    ],
+    "references": [
+        "5981243",
+        "8084311",
+        "72943107",
+        "195844219",
+        "1489847101",
+        "1521253015",
+        "1527450129",
+        "1568559070",
+        "1603433154",
+        "1656731780",
+        "1838677899",
+        "1968465898",
+        "2052267638",
+        "2101800793",
+        "2103239853",
+        "2136320902"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "1775362121",
+    "title": "Model checking x86 executables with codesurfer/x86 and WPDS++",
+    "venue": "computer aided verification",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gogul Balakrishnan",
+            "id": "2107215626",
+            "org": "Comp. Sci. Dept., University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Thomas W. Reps",
+            "id": "341386833",
+            "org": "Comp. Sci. Dept., University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Nicholas Kidd",
+            "id": "1982330966",
+            "org": "Comp. Sci. Dept., University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Akash Lal",
+            "id": "2123176980",
+            "org": "Comp. Sci. Dept., University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Junghee Lim",
+            "id": "2116310923",
+            "org": "Comp. Sci. Dept., University of Wisconsin#TAB#"
+        },
+        {
+            "name": "David Melski",
+            "id": "2084562734",
+            "org": "GrammaTech, Inc#TAB#"
+        },
+        {
+            "name": "Radu Gruian",
+            "id": "2036368792",
+            "org": "GrammaTech, Inc#TAB#"
+        },
+        {
+            "name": "Suan Hsi Yong",
+            "id": "2125628827",
+            "org": "GrammaTech, Inc#TAB#"
+        },
+        {
+            "name": "Chi-Hua Chen",
+            "id": "2696855548",
+            "org": "GrammaTech, Inc#TAB#"
+        },
+        {
+            "name": "Tim Teitelbaum",
+            "id": "1850861862",
+            "org": "GrammaTech, Inc#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "x86",
+        "Theoretical computer science",
+        "Algorithm",
+        "Software",
+        "Executable",
+        "Computer science",
+        "Distributed computing",
+        "Reachability",
+        "Model checking",
+        "Call graph"
+    ],
+    "references": [
+        "73531603",
+        "326424914",
+        "1521221596",
+        "1544837488",
+        "1582456956",
+        "1919280204",
+        "1991504773",
+        "1996832037",
+        "2025554746",
+        "2065675749",
+        "2092507068",
+        "2117009500",
+        "2171834078",
+        "2693104213"
+    ]
+}

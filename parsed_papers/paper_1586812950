@@ -1,0 +1,44 @@
+{
+    "id": "1586812950",
+    "title": "Efficient Arithmetic in Finite Field Extensions with Application in Elliptic Curve Cryptography",
+    "venue": "Journal of Cryptology",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Daniel V. Bailey",
+            "id": "2764226806",
+            "org": "Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA 01609, U.S.A. bailey@cs.wpi.edu, US#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Electrical and Computer Engineering and Computer Science Departments, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA 01609, U.S.A. christof@ece.wpi.edu, US#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Arithmetic",
+        "Finite field arithmetic",
+        "Elliptic curve cryptography",
+        "Multiplication",
+        "Logarithm",
+        "Finite field",
+        "Elliptic curve",
+        "Multiplication algorithm",
+        "DEC Alpha"
+    ],
+    "references": [
+        "1500356409",
+        "1529013801",
+        "1531435794",
+        "1546138476",
+        "1560768562",
+        "1605116544",
+        "1660562555",
+        "1869939343",
+        "2007751412",
+        "2091826091",
+        "2115840814"
+    ]
+}

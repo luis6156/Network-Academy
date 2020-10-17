@@ -1,0 +1,76 @@
+{
+    "id": "1706109527",
+    "title": "On the Power of Misbehaving Adversaries and Security Analysis of the Original EPOC",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "CertCo"
+        }
+    ],
+    "fields_of_study": [
+        "Adversary model",
+        "Key-recovery attack",
+        "Computer science",
+        "Distributed computing",
+        "Adversary",
+        "Ciphertext indistinguishability",
+        "Advantage",
+        "Ciphertext",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "4659987",
+        "91034606",
+        "174706587",
+        "1490653284",
+        "1497619716",
+        "1505785519",
+        "1516512945",
+        "1524320869",
+        "1525737403",
+        "1528516365",
+        "1529862094",
+        "1552695147",
+        "1554668164",
+        "1563121242",
+        "1572695506",
+        "1588742902",
+        "1589129854",
+        "1589176872",
+        "1594742286",
+        "1597956772",
+        "1599759243",
+        "1602865989",
+        "1607264302",
+        "1611563112",
+        "1809974132",
+        "1871739018",
+        "2052267638",
+        "2062424686",
+        "2073210531",
+        "2101803085",
+        "2106583429",
+        "2109365488",
+        "2112409151",
+        "2125073114",
+        "2147906334",
+        "2157075838",
+        "2157276252",
+        "2169165807",
+        "2400235427"
+    ]
+}

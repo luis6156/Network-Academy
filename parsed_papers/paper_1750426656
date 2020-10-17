@@ -1,0 +1,43 @@
+{
+    "id": "1750426656",
+    "title": "Efficient Sealed-Bid Auction Using Hash Chain",
+    "venue": "international conference on information security and cryptology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Koutarou Suzuki",
+            "id": "2526671548",
+            "org": "NTT Laboratories"
+        },
+        {
+            "name": "Kunio Kobayashi",
+            "id": "2513495652",
+            "org": "NTT Laboratories"
+        },
+        {
+            "name": "Hikaru Morita",
+            "id": "2097033960",
+            "org": "NTT Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Commit",
+        "Computer science",
+        "Distributed computing",
+        "Hash chain",
+        "Cryptosystem",
+        "Hash function",
+        "Public-key cryptography",
+        "Modular exponentiation",
+        "Bidding"
+    ],
+    "references": [
+        "1566496285",
+        "1603141861",
+        "1639145229",
+        "2038228603",
+        "2040168265",
+        "2113446256"
+    ]
+}

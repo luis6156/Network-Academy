@@ -1,0 +1,46 @@
+{
+    "id": "1717406790",
+    "title": "FPGA-Based true random number generation using circuit metastability with adaptive feedback control",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mehrdad Majzoobi",
+            "id": "2130845978",
+            "org": "Rice University, ECE, Houston, TX#TAB#"
+        },
+        {
+            "name": "Farinaz Koushanfar",
+            "id": "270906047",
+            "org": "Rice University, ECE, Houston, TX#TAB#"
+        },
+        {
+            "name": "Srinivas Devadas",
+            "id": "855547412",
+            "org": "Massachusetts Institute of Technology, CSAIL, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Metastability",
+        "Computer science",
+        "Virtex",
+        "Randomness tests",
+        "Random number generation",
+        "Robustness (computer science)",
+        "PID controller",
+        "Real-time computing",
+        "Randomness"
+    ],
+    "references": [
+        "204854894",
+        "1488916099",
+        "1574038160",
+        "2000171858",
+        "2022202043",
+        "2033711887",
+        "2116374153",
+        "2141757723",
+        "2167352984"
+    ]
+}

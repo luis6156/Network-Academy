@@ -1,0 +1,37 @@
+{
+    "id": "1498896551",
+    "title": "Efficient Generation of Shared RSA Keys (Extended Abstract)",
+    "venue": "international cryptology conference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Bellcore, 445 South St., 07960 Morristown, NJ, USA"
+        },
+        {
+            "name": "Matthew K. Franklin",
+            "id": "2306237498",
+            "org": "AT&T Labs, 180 Park Ave., 07932 Florham-Park, NJ, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Shared secret",
+        "Key (lock)",
+        "PKCS #1"
+    ],
+    "references": [
+        "1531764614",
+        "1557783852",
+        "1862740493",
+        "1964053266",
+        "1979215153",
+        "1985623009",
+        "2054458282",
+        "2135740056",
+        "2232070551"
+    ]
+}

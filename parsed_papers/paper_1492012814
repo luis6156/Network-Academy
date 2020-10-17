@@ -1,0 +1,55 @@
+{
+    "id": "1492012814",
+    "title": "A middleware architecture for supporting adaptable replication of enterprise application data",
+    "venue": "very large data bases",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "J.E. Armendariz",
+            "id": "2151482159",
+            "org": "Dpto. de Matematica e Informatica, Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "Hendrik Decker",
+            "id": "2600423479",
+            "org": "Instituto Tecnologico de Informatica, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Francesc D. Munoz-Escoi",
+            "id": "2089263920",
+            "org": "Instituto Tecnologico de Informatica, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Luis Irun-Briz",
+            "id": "1968476822",
+            "org": "Instituto Tecnologico de Informatica, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "R. de Juan-Marin",
+            "id": "2806838421",
+            "org": "Instituto Tecnologico de Informatica, Valencia, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Replication (computing)",
+        "Computer science",
+        "Fault tolerance",
+        "Transaction processing",
+        "Database",
+        "Dependability",
+        "Middleware",
+        "Data warehouse",
+        "Architecture"
+    ],
+    "references": [
+        "163910826",
+        "1584817583",
+        "1602123872",
+        "2034747525",
+        "2111586962",
+        "2143278699",
+        "2168104306",
+        "2168227861"
+    ]
+}

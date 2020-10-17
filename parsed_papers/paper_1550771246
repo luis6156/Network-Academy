@@ -1,0 +1,57 @@
+{
+    "id": "1550771246",
+    "title": "On authentication with HMAC and non-random properties",
+    "venue": "financial cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Graz University of Technology, Institute for Applied Information Processing and Communications, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Graz University of Technology, Institute for Applied Information Processing and Communications, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HMAC-based One-time Password Algorithm",
+        "Secure Hash Standard",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Hash chain",
+        "Computer security",
+        "Hash function",
+        "Internet privacy",
+        "Double hashing"
+    ],
+    "references": [
+        "37807558",
+        "124034723",
+        "1491431082",
+        "1512933114",
+        "1521015940",
+        "1590269592",
+        "1629301835",
+        "1656731780",
+        "1660562555",
+        "1866609797",
+        "2095675261",
+        "2103239853",
+        "2107165730",
+        "2113043611",
+        "2130238828",
+        "2131212920",
+        "2131300413",
+        "2172433705",
+        "2525619314",
+        "2531150596",
+        "2593463031",
+        "2611506938",
+        "2616071205"
+    ]
+}

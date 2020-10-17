@@ -1,0 +1,37 @@
+{
+    "id": "1518009464",
+    "title": "Compiler optimizations using data compression to decrease address reference entropy",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Henry G. Dietz",
+            "id": "2522779933",
+            "org": "Electrical and Computer Engineering Department, University of Kentucky, Lexington, KY#TAB#"
+        },
+        {
+            "name": "Timothy Mattox",
+            "id": "2531568552",
+            "org": "Electrical and Computer Engineering Department, University of Kentucky, Lexington, KY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Lookup table",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Random access",
+        "Data compression",
+        "Computer science",
+        "Memory address",
+        "Optimizing compiler",
+        "Hash function",
+        "Data structure",
+        "Special case"
+    ],
+    "references": [
+        "1576818901",
+        "1589156006",
+        "2114012357",
+        "2130899092"
+    ]
+}

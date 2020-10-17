@@ -1,0 +1,69 @@
+{
+    "id": "1491540504",
+    "title": "Sweet storage SLOs with Frosting",
+    "venue": "usenix conference on hot topics in cloud ccomputing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Andrew Wang",
+            "id": "2476404900",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Shivaram Venkataraman",
+            "id": "2232375382",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Sara Alspaugh",
+            "id": "2048793609",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Ion Stoica",
+            "id": "2161479384",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Randy H. Katz",
+            "id": "2246122413",
+            "org": "University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Application layer",
+        "Overlay",
+        "Computer science",
+        "Scheduling (computing)",
+        "Latency (engineering)",
+        "Workload",
+        "Distributed data store",
+        "Real-time computing",
+        "Multiplex"
+    ],
+    "references": [
+        "16408702",
+        "1551508721",
+        "1569184546",
+        "1587317090",
+        "1594675213",
+        "1802083805",
+        "1964137381",
+        "1981420413",
+        "1985229168",
+        "1985419898",
+        "1998927861",
+        "2001500256",
+        "2025549137",
+        "2052579982",
+        "2100857980",
+        "2100892891",
+        "2104276806",
+        "2111087562",
+        "2138428327",
+        "2138440835",
+        "2151795327",
+        "2163012480",
+        "2624304035"
+    ]
+}

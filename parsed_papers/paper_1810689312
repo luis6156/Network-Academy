@@ -1,0 +1,62 @@
+{
+    "id": "1810689312",
+    "title": "Array regrouping on CMP with non-uniform cache sharing",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yunlian Jiang",
+            "id": "2117195575",
+            "org": "Computer Science Department, The College of William and Mary, Williamsburg, VA#TAB#"
+        },
+        {
+            "name": "Eddy Z. Zhang",
+            "id": "2307243157",
+            "org": "Computer Science Department, The College of William and Mary, Williamsburg, VA#TAB#"
+        },
+        {
+            "name": "Xipeng Shen",
+            "id": "2115619625",
+            "org": "Computer Science Department, The College of William and Mary, Williamsburg, VA#TAB#"
+        },
+        {
+            "name": "Yaoqing Gao",
+            "id": "2277693213",
+            "org": "IBM Toronto Software Lab, Toronto, Canada#TAB#"
+        },
+        {
+            "name": "Roch Georges Archambault",
+            "id": "2087636533",
+            "org": "IBM Toronto Software Lab, Toronto, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer science",
+        "Scheduling (computing)",
+        "Interleaving",
+        "False sharing",
+        "Memory bandwidth",
+        "Multithreading",
+        "CPU cache"
+    ],
+    "references": [
+        "1490084794",
+        "1527530983",
+        "1984005572",
+        "1985539519",
+        "1991707635",
+        "2080422774",
+        "2086291744",
+        "2122858224",
+        "2134779330",
+        "2141170493",
+        "2145115986",
+        "2147278401",
+        "2166410708",
+        "2168102371",
+        "2169875292"
+    ]
+}

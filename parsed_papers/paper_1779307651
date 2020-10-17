@@ -1,0 +1,56 @@
+{
+    "id": "1779307651",
+    "title": "A provably starvation-free distributed directory protocol",
+    "venue": "international conference on stabilization safety and security of distributed systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hagit Attiya",
+            "id": "685665164",
+            "org": "Technion, Israel and EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Vincent Gramoli",
+            "id": "2104034072",
+            "org": "EPFL, Switzerland and University of Neuchatel, Switzerland#TAB#"
+        },
+        {
+            "name": "Alessia Milani",
+            "id": "2139874618",
+            "org": "LIP6, Universite Pierre et Marie Curie, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tree (data structure)",
+        "Overlay",
+        "Transactional memory",
+        "Computer science",
+        "Distributed computing",
+        "General Inter-ORB Protocol",
+        "Distributed shared memory",
+        "Race condition",
+        "Directory",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1511334863",
+        "1511442367",
+        "1769402780",
+        "1969588170",
+        "1980499862",
+        "1985209733",
+        "1990396103",
+        "2003895614",
+        "2008258200",
+        "2015077309",
+        "2017179936",
+        "2095284638",
+        "2097447543",
+        "2101334300",
+        "2101939036",
+        "2116497098",
+        "2128445648",
+        "2140606557",
+        "2152450729"
+    ]
+}

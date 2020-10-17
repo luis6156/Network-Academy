@@ -1,0 +1,40 @@
+{
+    "id": "1646889574",
+    "title": "A Signature with Shared Verification Scheme",
+    "venue": "international cryptology conference",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Marijke De Soete",
+            "id": "2492693831",
+            "org": "MBLE-I.S.G."
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "PRLB"
+        },
+        {
+            "name": "Klaus Vedder",
+            "id": "2273703050",
+            "org": "GAO"
+        }
+    ],
+    "fields_of_study": [
+        "Threshold cryptosystem",
+        "Blind signature",
+        "Theoretical computer science",
+        "Computer science",
+        "Electronic signature",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1507039798",
+        "1565014611",
+        "1568979690"
+    ]
+}

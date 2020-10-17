@@ -1,0 +1,35 @@
+{
+    "id": "1547830536",
+    "title": "Compiling for SIMD Within a Register",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Randall J. Fisher",
+            "id": "2102990560",
+            "org": "Purdue University"
+        },
+        {
+            "name": "Henry G. Dietz",
+            "id": "2120276898",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SIMD",
+        "Computer architecture",
+        "Computer science",
+        "Distributed computing",
+        "SWAR",
+        "Implementation",
+        "Bitwise operation",
+        "Execution model",
+        "Optimizing compiler"
+    ],
+    "references": [
+        "402670",
+        "2035746958",
+        "2061055971"
+    ]
+}

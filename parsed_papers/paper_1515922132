@@ -1,0 +1,63 @@
+{
+    "id": "1515922132",
+    "title": "Strongly Secure Authenticated Key Exchange without NAXOS' Approach",
+    "venue": "international workshop on security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Minkyu Kim",
+            "id": "2159730471",
+            "org": "ISaC and Department of Mathematical Sciences, Seoul National University, Seoul, Korea 151-747#TAB#"
+        },
+        {
+            "name": "Atsushi Fujioka",
+            "id": "2735592098",
+            "org": "NTT Information Sharing Platform Laboratories, Tokyo, Japan 180-8585#TAB#"
+        },
+        {
+            "name": "Berkant Ustaoglu",
+            "id": "1898019549",
+            "org": "NTT Information Sharing Platform Laboratories, Tokyo, Japan 180-8585#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Ephemeral key",
+        "Key derivation function",
+        "Cryptographic protocol",
+        "Computer science",
+        "Computer security",
+        "Adversary",
+        "Random oracle",
+        "Public-key cryptography",
+        "Internet privacy",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "1488807031",
+        "1515609811",
+        "1542059364",
+        "1585389879",
+        "1589586740",
+        "1660562555",
+        "1665450113",
+        "1857035554",
+        "1927099252",
+        "2035098060",
+        "2037090944",
+        "2047241038",
+        "2067318305",
+        "2100788090",
+        "2117455301",
+        "2124926080",
+        "2134679597",
+        "2135654420",
+        "2153281696",
+        "2156186849",
+        "2169194339",
+        "2172194269",
+        "2397855210",
+        "2398824621",
+        "2399231875"
+    ]
+}

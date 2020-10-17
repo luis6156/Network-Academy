@@ -1,0 +1,64 @@
+{
+    "id": "1565672720",
+    "title": "Differential power analysis of HMAC SHA-2 in the Hamming weight model",
+    "venue": "international conference on security and cryptography",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Sonia Belaid",
+            "id": "2037562961",
+            "org": "Ecole Normale Superieure, 45 rue d'Ulm, 75005 Paris, France"
+        },
+        {
+            "name": "Luk Bettale",
+            "id": "1673802351",
+            "org": "Oberthur Technologies, Cryptography Group, 420 rue d'Estienne d'Orves, 92700 Colombes, France"
+        },
+        {
+            "name": "Emmanuelle Dottax",
+            "id": "1252829508",
+            "org": "Oberthur Technologies, Cryptography Group, 420 rue d'Estienne d'Orves, 92700 Colombes, France"
+        },
+        {
+            "name": "Laurie Genelle",
+            "id": "41329827",
+            "org": "Oberthur Technologies, Cryptography Group, 420 rue d'Estienne d'Orves, 92700 Colombes, France"
+        },
+        {
+            "name": "Franck Rondepierre",
+            "id": "1950410423",
+            "org": "Oberthur Technologies, Cryptography Group, 420 rue d'Estienne d'Orves, 92700 Colombes, France"
+        }
+    ],
+    "fields_of_study": [
+        "Hamming distance",
+        "Side channel attack",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "SHA-2",
+        "Computer science",
+        "Hamming bound",
+        "Hamming code",
+        "Computer security",
+        "Power analysis",
+        "Hamming weight"
+    ],
+    "references": [
+        "193356274",
+        "1486712081",
+        "1498787080",
+        "1503689022",
+        "1549228503",
+        "1550146135",
+        "1562542037",
+        "1566345534",
+        "1572251059",
+        "1592644319",
+        "2024820457",
+        "2036927889",
+        "2131052647",
+        "2131300413",
+        "2154909745",
+        "2182096981"
+    ]
+}

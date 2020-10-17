@@ -1,0 +1,47 @@
+{
+    "id": "1535027983",
+    "title": "An implicit binomial queue with constant insertion time",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Svante Carlsson",
+            "id": "2108137896",
+            "org": "Lund Univ., Lund, Sweden#TAB#"
+        },
+        {
+            "name": "J. Ian Munro",
+            "id": "2136616430",
+            "org": "Univ. of Waterloo, Waterloo, Ont., Canada#TAB#"
+        },
+        {
+            "name": "Patricio V. Poblete",
+            "id": "2110548038",
+            "org": "Univ. of Chile, Santiago#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Amortized analysis",
+        "Multilevel queue",
+        "Discrete mathematics",
+        "Computer science",
+        "Queue",
+        "Priority queue",
+        "Combinatorics",
+        "G/G/1 queue",
+        "Bulk queue",
+        "M/G/k queue",
+        "Mathematical optimization",
+        "M/D/c queue"
+    ],
+    "references": [
+        "1970691969",
+        "1995675812",
+        "2046713587",
+        "2051768731",
+        "2084224084",
+        "2088987495",
+        "2094999127",
+        "2163169902"
+    ]
+}

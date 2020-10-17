@@ -1,0 +1,49 @@
+{
+    "id": "1751637436",
+    "title": "Co-array Fortran Performance and Potential: An NPB Experimental Study",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cristian Coarfa",
+            "id": "2776108597",
+            "org": "Rice University"
+        },
+        {
+            "name": "Yuri Dotsenko",
+            "id": "2009759252",
+            "org": "Rice University"
+        },
+        {
+            "name": "Jason Eckhardt",
+            "id": "2085747931",
+            "org": "Rice University"
+        },
+        {
+            "name": "John M. Mellor-Crummey",
+            "id": "2249219846",
+            "org": "Rice University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Itanium",
+        "Computer architecture",
+        "SPMD",
+        "Computer science",
+        "Compiler",
+        "Message passing",
+        "Optimizing compiler",
+        "Programming paradigm",
+        "Fortran",
+        "Myrinet"
+    ],
+    "references": [
+        "1492405878",
+        "1567779032",
+        "1861151562",
+        "2058621196",
+        "2199463396",
+        "2261467532"
+    ]
+}

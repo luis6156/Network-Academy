@@ -1,0 +1,48 @@
+{
+    "id": "1508725737",
+    "title": "Blending different latency traffic with alpha-mixing",
+    "venue": "privacy enhancing technologies",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Roger Dingledine",
+            "id": "2046591593",
+            "org": "The Free Haven Project#TAB#"
+        },
+        {
+            "name": "Andrei Serjantov",
+            "id": "303149343",
+            "org": "The Free Haven Project#TAB#"
+        },
+        {
+            "name": "Paul F. Syverson",
+            "id": "2051205022",
+            "org": "Naval Research Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Security parameter",
+        "Edge case",
+        "Computer science",
+        "Anonymity",
+        "Computer security",
+        "Mix network",
+        "Latency (engineering)",
+        "Communications system",
+        "Internet privacy"
+    ],
+    "references": [
+        "1485854900",
+        "1524103604",
+        "1599111390",
+        "1655958391",
+        "1805249784",
+        "1971219113",
+        "2103597742",
+        "2108668142",
+        "2128735745",
+        "2150248082",
+        "2159657485"
+    ]
+}

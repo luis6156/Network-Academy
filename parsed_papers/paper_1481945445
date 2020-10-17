@@ -1,0 +1,54 @@
+{
+    "id": "1481945445",
+    "title": "Efficient and effective buffer overflow protection on ARM processors",
+    "venue": "workshop in information security theory and practice",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Raoul Strackx",
+            "id": "2087126534",
+            "org": "Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Yves Younan",
+            "id": "707981970",
+            "org": "Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Pieter Philippaerts",
+            "id": "220035981",
+            "org": "Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Frank Piessens",
+            "id": "233250515",
+            "org": "Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mobile device",
+        "Countermeasure",
+        "ARM architecture",
+        "Computer science",
+        "Computer security",
+        "Stack (abstract data type)",
+        "Instruction set",
+        "Embedded system",
+        "Real-time computing",
+        "Buffer overflow",
+        "Buffer overflow protection",
+        "Stack buffer overflow"
+    ],
+    "references": [
+        "1545927878",
+        "1565113942",
+        "1591743417",
+        "1655226010",
+        "1982778414",
+        "2098806455",
+        "2122177035",
+        "2138049695",
+        "2164474450",
+        "2293797831"
+    ]
+}

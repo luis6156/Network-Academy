@@ -1,0 +1,51 @@
+{
+    "id": "1565201084",
+    "title": "Multinomial naive bayes for text categorization revisited",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ashraf Masood Kibriya",
+            "id": "2125625665",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand#TAB#"
+        },
+        {
+            "name": "Eibe Frank",
+            "id": "2165714491",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand#TAB#"
+        },
+        {
+            "name": "Bernhard Pfahringer",
+            "id": "1991131908",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand#TAB#"
+        },
+        {
+            "name": "Geoffrey Holmes",
+            "id": "2189262995",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Naive Bayes classifier",
+        "Content analysis",
+        "Multinomial distribution",
+        "Pattern recognition",
+        "tf-idf",
+        "Categorization",
+        "Support vector machine",
+        "Normalization (statistics)",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "67881473",
+        "1524688041",
+        "1689445748",
+        "2005422315",
+        "2140336868",
+        "2149684865",
+        "2170654002",
+        "2171665309"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1540222798",
+    "title": "Queueing and Fluid Analysis of Partial Message Discarding Policy",
+    "venue": "Queueing Systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Parijat Dube",
+            "id": "2161096669",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY 10598, USA pdube@us.ibm.com#TAB#"
+        },
+        {
+            "name": "Eitan Altman",
+            "id": "2105253337",
+            "org": "Project MISTRAL, INRIA, 2004, Route des Lucioles, B.P. 93, 06902, Sophia Antipolis Cedex, France altman@sophia.inria.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fork-join queue",
+        "Mathematics",
+        "Fluid queue",
+        "Multilevel queue",
+        "M/M/1 queue",
+        "M/D/1 queue",
+        "Bulk queue",
+        "Real-time computing",
+        "M/M/c queue",
+        "M/D/c queue"
+    ],
+    "references": [
+        "77077806",
+        "1505768939",
+        "2004018553",
+        "2016348677",
+        "2103012289",
+        "2133213017",
+        "2155395786",
+        "2158515202",
+        "2158733823",
+        "2160545585"
+    ]
+}

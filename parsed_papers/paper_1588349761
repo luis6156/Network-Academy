@@ -1,0 +1,63 @@
+{
+    "id": "1588349761",
+    "title": "Bloom histogram: path selectivity estimation for XML data with updates",
+    "venue": "very large data bases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Wei Wang",
+            "id": "2549858022",
+            "org": "School of Computer Science and Engineering, University of NSW, Australia and NICTA, Australia#TAB#"
+        },
+        {
+            "name": "Haifeng Jiang",
+            "id": "2099420347",
+            "org": "Dept. of Computer Science, Hong Kong Univ. of Sci. & Tech., Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Hongjun Lu",
+            "id": "2131290459",
+            "org": "Dept. of Computer Science, Hong Kong Univ. of Sci. & Tech., Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Jeffrey Xu Yu",
+            "id": "2119358208",
+            "org": "Department of System Engineering and Engineering Management, The Chinese Univ. of Hong Kong, Hong Kong, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Estimation",
+        "Theoretical computer science",
+        "XML",
+        "Computer science",
+        "Data mining",
+        "Selectivity",
+        "Database",
+        "Histogram",
+        "Bloom",
+        "Data structure",
+        "Path expression",
+        "Query optimization"
+    ],
+    "references": [
+        "119813091",
+        "1822348499",
+        "1975887898",
+        "1993284846",
+        "2023797161",
+        "2047424291",
+        "2053075747",
+        "2092919877",
+        "2099132625",
+        "2102116440",
+        "2118229812",
+        "2120108467",
+        "2123845384",
+        "2132560950",
+        "2148832586",
+        "2151310484",
+        "2153230306",
+        "2156210689",
+        "2161463763"
+    ]
+}

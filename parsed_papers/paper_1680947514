@@ -1,0 +1,53 @@
+{
+    "id": "1680947514",
+    "title": "An efficient many-core architecture for Elliptic Curve Cryptography security assessment",
+    "venue": "field programmable logic and applications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Marco Indaco",
+            "id": "2012895079",
+            "org": "Dipartimento di Automatica e Informatica, Politecnico di Torino, Italy"
+        },
+        {
+            "name": "Fabio Lauriz",
+            "id": "2228133033",
+            "org": "Dipartimento di Automatica e Informatica, Politecnico di Torino, Italy"
+        },
+        {
+            "name": "Andrea Mieley",
+            "id": "2231757366",
+            "org": "LACAL, EPFL, Lausanne, Switzerland"
+        },
+        {
+            "name": "Pascal Trotta",
+            "id": "2108424560",
+            "org": "Dipartimento di Automatica e Informatica, Politecnico di Torino, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Curve25519",
+        "Post-quantum cryptography",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Elliptic curve cryptography",
+        "Counting points on elliptic curves",
+        "Key size",
+        "Architecture"
+    ],
+    "references": [
+        "108218230",
+        "1480958376",
+        "1538333734",
+        "1552628852",
+        "1977131936",
+        "2003736153",
+        "2008272678",
+        "2012770528",
+        "2141836061",
+        "2165980985"
+    ]
+}

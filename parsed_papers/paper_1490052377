@@ -1,0 +1,42 @@
+{
+    "id": "1490052377",
+    "title": "Keep your enemies close: distance bounding against smartcard relay attacks",
+    "venue": "usenix security symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Saar Drimer",
+            "id": "1216344013",
+            "org": "Computer Laboratory, University of Cambridge#TAB#"
+        },
+        {
+            "name": "Steven J. Murdoch",
+            "id": "2123399684",
+            "org": "Computer Laboratory, University of Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Tamper resistance",
+        "Computer science",
+        "Computer security",
+        "Relay attack",
+        "Hardware architecture",
+        "Distance-bounding protocol",
+        "Payment",
+        "Authentication",
+        "Internet privacy",
+        "Smart card"
+    ],
+    "references": [
+        "1494610650",
+        "1504280744",
+        "1542255234",
+        "1550817798",
+        "1558274462",
+        "2127785555",
+        "2146034932",
+        "2157921329",
+        "2165148376"
+    ]
+}

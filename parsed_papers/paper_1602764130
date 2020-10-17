@@ -1,0 +1,49 @@
+{
+    "id": "1602764130",
+    "title": "Small secret key attack on a variant of RSA (due to Takagi)",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kouichi Itoh",
+            "id": "2128256318",
+            "org": "Fujistu Laboratories#TAB#"
+        },
+        {
+            "name": "Noboru Kunihiro",
+            "id": "2775951726",
+            "org": "University of Electro-Communications#TAB#"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Ibaraki University, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Lattice (order)",
+        "Algebra",
+        "Modulus",
+        "Polynomial",
+        "Special case"
+    ],
+    "references": [
+        "1488844414",
+        "1503520699",
+        "1550863203",
+        "1562208741",
+        "1582926144",
+        "1602865989",
+        "1871879997",
+        "1961022628",
+        "1996360405",
+        "2010504984",
+        "2088000113",
+        "2101040389",
+        "2101059923",
+        "2155578564",
+        "2166780626",
+        "2607627035"
+    ]
+}

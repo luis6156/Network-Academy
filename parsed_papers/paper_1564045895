@@ -1,0 +1,46 @@
+{
+    "id": "1564045895",
+    "title": "The modified Oja-RLS algorithm, stochastic convergence analysis and application for image compression",
+    "venue": "Fundamenta Informaticae",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Wladyslaw Skarbek",
+            "id": "691441148",
+            "org": "(Correspd.) Department of Electronics and Information Technology, Warsaw University of Technology, Nowowiejska 15/19, 00-665 Warszawa, Poland. Skarbek@ire.pw.edu.pl#TAB#"
+        },
+        {
+            "name": "Adam Pietrowcew",
+            "id": "2650018001",
+            "org": "(Correspd.) Department of Informatics, Technical University of Bialystok, Bialystok, Poland#TAB#"
+        },
+        {
+            "name": "Radoslaw Sikora",
+            "id": "2719256465",
+            "org": "(Correspd.) Institute of Mathematics Polish Academy of Sciences Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Quantization (signal processing)",
+        "Artificial intelligence",
+        "Discrete cosine transform",
+        "Pattern recognition",
+        "Quantization (image processing)",
+        "Entropy encoding",
+        "JPEG",
+        "Karhunen-Loeve theorem",
+        "Image compression",
+        "Learning rule"
+    ],
+    "references": [
+        "1508878067",
+        "1539332313",
+        "1555179601",
+        "1569967998",
+        "1586638664",
+        "1592619056",
+        "2080300995",
+        "2119501108"
+    ]
+}

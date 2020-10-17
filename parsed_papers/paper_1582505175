@@ -1,0 +1,50 @@
+{
+    "id": "1582505175",
+    "title": "An extensible framework for distributed testing of MPI implementations",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Joshua Hursey",
+            "id": "1513549892",
+            "org": "Indiana University Open Systems Laboratory, Bloomington, IN#TAB#"
+        },
+        {
+            "name": "Ethan Mallove",
+            "id": "1858262833",
+            "org": "Sun Microsystems, Inc., Burlington, MA#TAB#"
+        },
+        {
+            "name": "Jeffrey M. Squyres",
+            "id": "169428505",
+            "org": "Cisco, Inc., San Jose, CA#TAB#"
+        },
+        {
+            "name": "Andrew Lumsdaine",
+            "id": "2140207053",
+            "org": "Indiana University Open Systems Laboratory, Bloomington, IN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Test strategy",
+        "Acceptance testing",
+        "Computer science",
+        "System testing",
+        "Manual testing",
+        "Software performance testing",
+        "Regression testing",
+        "Non-regression testing",
+        "Real-time computing",
+        "White-box testing"
+    ],
+    "references": [
+        "1579775238",
+        "1825216778",
+        "1969215126",
+        "2000790522",
+        "2009501125",
+        "2025774589",
+        "2081612620",
+        "2152417223"
+    ]
+}

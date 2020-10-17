@@ -1,0 +1,81 @@
+{
+    "id": "1547702603",
+    "title": "Micro-grasping Forceps Manipulator for MR-Guided Neurosurgery",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Nobuhiko Miyata",
+            "id": "2274371900",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Etsuko Kobayashi",
+            "id": "2133166648",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Daeyoung Kim",
+            "id": "2811253109",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Ken Masamune",
+            "id": "2779495931",
+            "org": "Tokyo Denki University"
+        },
+        {
+            "name": "Ichiro Sakuma",
+            "id": "2077870708",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Naoki Yahagi",
+            "id": "2223978518",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Takayuki Tsuji",
+            "id": "2443873390",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Hiroshi Inada",
+            "id": "2157529974",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Takeyoshi Dohi",
+            "id": "2278104853",
+            "org": "the University of Tokyo"
+        },
+        {
+            "name": "Hiroshi Iseki",
+            "id": "1421441336",
+            "org": "Tokyo Women's Medical University"
+        },
+        {
+            "name": "Kintomo Takakura",
+            "id": "2330000176",
+            "org": "Tokyo Women's Medical University"
+        }
+    ],
+    "fields_of_study": [
+        "Intraoperative MRI",
+        "Robot",
+        "Forceps",
+        "Computer vision",
+        "Computer science",
+        "Image-guided surgery",
+        "Neurosurgery",
+        "Manipulator",
+        "Neurosurgical Procedure",
+        "Micromanipulator",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "136987982",
+        "2034241527",
+        "2149998541"
+    ]
+}

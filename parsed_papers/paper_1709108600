@@ -1,0 +1,55 @@
+{
+    "id": "1709108600",
+    "title": "Exposure-resilient one-round tripartite key exchange without random oracles",
+    "venue": "applied cryptography and network security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Koutarou Suzuki",
+            "id": "2526671548",
+            "org": "NTT Secure Platform Laboratories, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuki Yoneyama",
+            "id": "2013076459",
+            "org": "NTT Secure Platform Laboratories, Musashino-shi, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Group key",
+        "Theoretical computer science",
+        "Key exchange",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Pairing",
+        "Forward secrecy",
+        "Computer security",
+        "Random oracle",
+        "Authenticated Key Exchange",
+        "Special case"
+    ],
+    "references": [
+        "18272818",
+        "1480336181",
+        "1487952919",
+        "1490057720",
+        "1542059364",
+        "1545843592",
+        "1547792260",
+        "1583362816",
+        "1583594557",
+        "1603256047",
+        "1605836888",
+        "1606603454",
+        "1859498317",
+        "1931780207",
+        "1998368731",
+        "2117455301",
+        "2127125497",
+        "2135654420",
+        "2149305608",
+        "2153281696",
+        "2157679418"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "1506978116",
+    "title": "Formal Development of a Total Order Broadcast for Distributed Transactions Using Event-B",
+    "venue": "Methods, Models and Tools for Fault Tolerance",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Divakar Yadav",
+            "id": "2791307114",
+            "org": "School of Electronics and Computer Science, University of Southampton, Southampton, U.K. SO17 1BJ#TAB#"
+        },
+        {
+            "name": "Michael Butler",
+            "id": "2114313152",
+            "org": "School of Electronics and Computer Science, University of Southampton, Southampton, U.K. SO17 1BJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data access",
+        "Invariant (mathematics)",
+        "Distributed computing",
+        "Computer science",
+        "Distributed transaction",
+        "Race condition",
+        "Deadlock",
+        "Atomic broadcast",
+        "Fault tolerance",
+        "Database transaction"
+    ],
+    "references": [
+        "1511729915",
+        "1515932031",
+        "1545155892",
+        "1556500444",
+        "1563841124",
+        "1574797275",
+        "1576231073",
+        "1583345979",
+        "1594381772",
+        "1604869359",
+        "1775738142",
+        "1826115816",
+        "1832857872",
+        "1833823679",
+        "1928843336",
+        "1955276477",
+        "1964482512",
+        "1972153061",
+        "1981928839",
+        "1984296082",
+        "1985349143",
+        "1991152532",
+        "2006007456",
+        "2007567551",
+        "2017181780",
+        "2027917863",
+        "2053684268",
+        "2057081379",
+        "2083336677",
+        "2115730333",
+        "2126249379",
+        "2130264930",
+        "2155599869",
+        "2159181605",
+        "2168104306",
+        "2611515161"
+    ]
+}

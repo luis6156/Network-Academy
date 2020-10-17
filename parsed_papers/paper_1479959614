@@ -1,0 +1,44 @@
+{
+    "id": "1479959614",
+    "title": "Dataflow-Based Lenient Implementation of a Functional Language, Valid, on Conventional Multi-processors",
+    "venue": "PACT '94 Proceedings of the IFIP WG10.3 Working Conference on Parallel Architectures and Compilation Techniques",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Shigeru Kusakabe",
+            "id": "2040413981",
+            "org": "Kyushu Univ"
+        },
+        {
+            "name": "Eiichi Takahashi",
+            "id": "2127601112",
+            "org": "Department of Intelligent Systems, Kyushu University"
+        },
+        {
+            "name": "Rin-ichiro Taniguchi",
+            "id": "2069950536",
+            "org": "Kyushu Univ"
+        },
+        {
+            "name": "Makoto Amamiya",
+            "id": "2108495959",
+            "org": "Kyushu Univ"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Data flow diagram",
+        "Dataflow",
+        "Functional programming",
+        "Programming language"
+    ],
+    "references": [
+        "1796684637",
+        "1986804682",
+        "2075728976",
+        "2112590555",
+        "2132084888",
+        "2139227049"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1608482003",
+    "title": "LEDA: a library of efficient data types and algorithms",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Stefan Naher",
+            "id": "2110544705",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Kurt Mehlhorn",
+            "id": "512556102",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Leda",
+        "Theoretical computer science",
+        "Algorithm",
+        "Widest path problem",
+        "Computer science",
+        "Dinic's algorithm",
+        "K shortest path routing",
+        "FSA-Red Algorithm",
+        "Suurballe's algorithm",
+        "Data structure",
+        "Computational geometry"
+    ],
+    "references": [
+        "2151318905"
+    ]
+}

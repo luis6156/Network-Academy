@@ -1,0 +1,45 @@
+{
+    "id": "159328285",
+    "title": "On the Distribution of Nodes in Distributed Hash Tables.",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Heiko Niedermayer",
+            "id": "33510021",
+            "org": "Wilhelm-Schickard-Institute for Computer Science|University of T"
+        },
+        {
+            "name": "Simon Rieche",
+            "id": "2332261775",
+            "org": "Wilhelm-Schickard-Institute for Computer Science|University of T"
+        },
+        {
+            "name": "Klaus Wehrle",
+            "id": "1933700146",
+            "org": "Wilhelm-Schickard-Institute for Computer Science|University of T"
+        },
+        {
+            "name": "Georg Carle",
+            "id": "2127992992",
+            "org": "Wilhelm-Schickard-Institute for Computer Science|University of T"
+        }
+    ],
+    "fields_of_study": [
+        "Primary clustering",
+        "Rolling hash",
+        "Distributed computing",
+        "Computer science",
+        "Hash buster",
+        "Distributed hash table",
+        "Quadratic probing",
+        "Hash filter",
+        "Double hashing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1533432294",
+        "1566777210",
+        "2166069203"
+    ]
+}

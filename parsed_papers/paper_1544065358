@@ -1,0 +1,32 @@
+{
+    "id": "1544065358",
+    "title": "Distributed File System over a Multilevel Secure Architecture - Problems and Solutions",
+    "venue": "european symposium on research in computer security",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Christel Calas",
+            "id": "2125696172",
+            "org": "CERT-ONERA"
+        }
+    ],
+    "fields_of_study": [
+        "SSH File Transfer Protocol",
+        "Global Namespace",
+        "Unix file types",
+        "Computer science",
+        "Distributed computing",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "Torrent file",
+        "File area network",
+        "Distributed File System"
+    ],
+    "references": [
+        "1517477525",
+        "1547030198",
+        "2084420317",
+        "2134321601",
+        "2146548969"
+    ]
+}

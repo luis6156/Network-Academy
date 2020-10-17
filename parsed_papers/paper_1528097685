@@ -1,0 +1,39 @@
+{
+    "id": "1528097685",
+    "title": "A lock-free multithreaded monte-carlo tree search algorithm",
+    "venue": "advances in computer games",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Markus Enzenberger",
+            "id": "2116358464",
+            "org": "Department of Computing Science, University of Alberta#TAB#"
+        },
+        {
+            "name": "Martin Muller",
+            "id": "2157217378",
+            "org": "Department of Computing Science, University of Alberta#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Search algorithm",
+        "Parallel computing",
+        "Algorithm",
+        "Self-balancing binary search tree",
+        "Computer science",
+        "Distributed computing",
+        "Monte Carlo tree search",
+        "Dichotomic search",
+        "Optimal binary search tree",
+        "Order statistic tree",
+        "Fractal tree index",
+        "K-D-B-tree"
+    ],
+    "references": [
+        "1573483709",
+        "1603772156",
+        "1714211023",
+        "1768032052",
+        "2101101673"
+    ]
+}

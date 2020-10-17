@@ -1,0 +1,67 @@
+{
+    "id": "1548237169",
+    "title": "Automatic Server Hang Bug Diagnosis: Feasible Reality or Pipe Dream?",
+    "venue": "international conference on autonomic computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Daniel Joseph Dean",
+            "id": "2151656511",
+            "org": "North Carolina State Univ., Raleigh, NC, USA"
+        },
+        {
+            "name": "Peipei Wang",
+            "id": "2135550027",
+            "org": "North Carolina State Univ., Raleigh, NC, USA"
+        },
+        {
+            "name": "Xiaohui Gu",
+            "id": "2312033102",
+            "org": "North Carolina State Univ., Raleigh, NC, USA"
+        },
+        {
+            "name": "William Enck",
+            "id": "1999189064",
+            "org": "North Carolina State Univ., Raleigh, NC, USA"
+        },
+        {
+            "name": "Guoliang Jin",
+            "id": "2107587079",
+            "org": "North Carolina State Univ., Raleigh, NC, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Hang",
+        "Security bug",
+        "Root cause",
+        "False positives and false negatives",
+        "Software",
+        "Bebugging",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Database",
+        "Software bug",
+        "Real-time computing"
+    ],
+    "references": [
+        "1455804204",
+        "1873898332",
+        "1976006326",
+        "1989657183",
+        "2029147209",
+        "2035382792",
+        "2053449529",
+        "2080723026",
+        "2093101674",
+        "2100627043",
+        "2122465391",
+        "2127825616",
+        "2135954168",
+        "2137422315",
+        "2145458045",
+        "2173213060",
+        "2173478231",
+        "2251066406"
+    ]
+}

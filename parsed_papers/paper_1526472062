@@ -1,0 +1,57 @@
+{
+    "id": "1526472062",
+    "title": "Spying the world from your laptop: identifying and profiling content providers and big downloaders in BitTorrent",
+    "venue": "usenix conference on large scale exploits and emergent threats",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Stevens Le Blond",
+            "id": "2559524632",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Arnaud Legout",
+            "id": "1935905282",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Fabrice Lefessant",
+            "id": "2531465041",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Walid Dabbous",
+            "id": "2088573606",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Mohamed Ali Kaafar",
+            "id": "2004245999",
+            "org": "I.N.R.I.A, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Upload",
+        "Computer science",
+        "Internet privacy",
+        "BitTorrent protocol encryption",
+        "Computer security",
+        "BitTorrent",
+        "BitTorrent tracker",
+        "Exploit",
+        "Computer network",
+        "Adversary",
+        "The Internet"
+    ],
+    "references": [
+        "114020513",
+        "140935022",
+        "1598962800",
+        "1606501333",
+        "1853908281",
+        "2119809214",
+        "2146539853",
+        "2166245380"
+    ]
+}

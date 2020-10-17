@@ -1,0 +1,37 @@
+{
+    "id": "1560301528",
+    "title": "Preimage and collision attacks on MD2",
+    "venue": "fast software encryption",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "Department of Mathematics, Technical University of Denmark#TAB#"
+        },
+        {
+            "name": "John Erik Mathiassen",
+            "id": "2034430715",
+            "org": "Department of Informatics, University of Bergen, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "MD2",
+        "Mathematics",
+        "SHA-2",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Collision",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "1534508339",
+        "1549228503",
+        "1600432225",
+        "1660562555",
+        "2144849953"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "1505872263",
+    "title": "A lazy and layered SMT(BV) solver for hard industrial verification problems",
+    "venue": "computer aided verification",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Roberto Bruttomesso",
+            "id": "1918427700",
+            "org": "FBK-irst, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "FBK-irst, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Anders Franzen",
+            "id": "2164428911",
+            "org": "FBK-irst, Povo, Trento, Italy and DIT, Universita di Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alberto Griggio",
+            "id": "2118432880",
+            "org": "DIT, Universita di Trento, Italy#TAB#"
+        },
+        {
+            "name": "Ziyad Hanna",
+            "id": "2109240632",
+            "org": "Logic and Validation Technologies, Intel Architecture Group of Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Alexander Nadel",
+            "id": "2123511186",
+            "org": "Logic and Validation Technologies, Intel Architecture Group of Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Amit Palti",
+            "id": "1975431534",
+            "org": "Logic and Validation Technologies, Intel Architecture Group of Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Roberto Sebastiani",
+            "id": "2150132257",
+            "org": "DIT, Universita di Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Uninterpreted function",
+        "Boolean satisfiability problem",
+        "Theoretical computer science",
+        "Algorithm",
+        "Satisfiability",
+        "Boolean algebra",
+        "Computer science",
+        "True quantified Boolean formula",
+        "Satisfiability modulo theories",
+        "Solver",
+        "Rewriting"
+    ],
+    "references": [
+        "1498875780",
+        "1512564652",
+        "1554280243",
+        "1606555018",
+        "1886978684",
+        "2036085256",
+        "2080267935",
+        "2095210125",
+        "2100126165",
+        "2108065216",
+        "2115207428",
+        "2137249130",
+        "2142785340",
+        "2154211329",
+        "2158995961",
+        "2160089068"
+    ]
+}

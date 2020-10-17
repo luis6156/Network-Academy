@@ -1,0 +1,40 @@
+{
+    "id": "1569212589",
+    "title": "A lightweight implementation of Keccak hash function for radio-frequency identification applications",
+    "venue": "radio frequency identification security and privacy issues",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Elif Bilge Kavun",
+            "id": "2062544466",
+            "org": "Department of Cryptography, Institute of Applied Mathematics, METU, Ankara, Turkey#TAB#"
+        },
+        {
+            "name": "Tolga Yalcin",
+            "id": "2467593619",
+            "org": "Department of Cryptography, Institute of Applied Mathematics, METU, Ankara, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Throughput",
+        "Parallel computing",
+        "Standard cell",
+        "Computer science",
+        "Sponge function",
+        "Embedded system",
+        "SHA-3",
+        "Application-specific integrated circuit",
+        "Hash function"
+    ],
+    "references": [
+        "1514141030",
+        "1553650484",
+        "1689385595",
+        "1845145297",
+        "2106698019",
+        "2139078445",
+        "2139958505"
+    ]
+}

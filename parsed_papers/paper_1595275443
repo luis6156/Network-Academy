@@ -1,0 +1,47 @@
+{
+    "id": "1595275443",
+    "title": "An online POMDP algorithm used by the policeforce agents in the robocuprescue simulation",
+    "venue": "robot soccer world cup",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sebastien Paquet",
+            "id": "2004724611",
+            "org": "DAMAS Laboratory, Laval University#TAB#"
+        },
+        {
+            "name": "Ludovic Tobin",
+            "id": "2113471851",
+            "org": "DAMAS Laboratory, Laval University#TAB#"
+        },
+        {
+            "name": "Brahim Chaib-draa",
+            "id": "111233263",
+            "org": "DAMAS Laboratory, Laval University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Markov decision process",
+        "Partially observable Markov decision process",
+        "Algorithm",
+        "Computer science",
+        "Robotics",
+        "Online algorithm",
+        "Computational complexity theory",
+        "Look-ahead",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "183139520",
+        "1487408605",
+        "1532688806",
+        "1575388622",
+        "2032100464",
+        "2101421095",
+        "2108052711",
+        "2134802714",
+        "2168359464"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1529823739",
+    "title": "High Performance Implementation of MPI for Myrinet",
+    "venue": "parallel computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Maciej Golebiewski",
+            "id": "2165149574",
+            "org": "C & C Research Laboratories, NEC Europe Ltd."
+        },
+        {
+            "name": "Markus Baum",
+            "id": "2194556648",
+            "org": "C & C Research Laboratories, NEC Europe Ltd."
+        },
+        {
+            "name": "Rolf Hempel",
+            "id": "2003334398",
+            "org": "C & C Research Laboratories, NEC Europe Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Test suite",
+        "Parallel computing",
+        "Software",
+        "MPICH",
+        "Computer science",
+        "Multi-user",
+        "Message passing",
+        "Fortran",
+        "Myrinet"
+    ],
+    "references": [
+        "1509469082",
+        "1521734293",
+        "1565559386",
+        "2036122775",
+        "2066014101",
+        "2081612620",
+        "2126430778",
+        "2129975056",
+        "2145513012"
+    ]
+}

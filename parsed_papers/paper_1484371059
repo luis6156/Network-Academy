@@ -1,0 +1,64 @@
+{
+    "id": "1484371059",
+    "title": "Bundle adjustment in the large",
+    "venue": "european conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sameer Agarwal",
+            "id": "2175835430",
+            "org": "Google Inc.#TAB#"
+        },
+        {
+            "name": "Noah Snavely",
+            "id": "1737721025",
+            "org": "Cornell University#TAB#"
+        },
+        {
+            "name": "Steven M. Seitz",
+            "id": "2134777055",
+            "org": "Google Inc. & University of Washington#TAB#"
+        },
+        {
+            "name": "Richard Szeliski",
+            "id": "1989985383",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Levenberg-Marquardt algorithm",
+        "Mathematics",
+        "Factorization",
+        "Conjugate gradient method",
+        "Newton's method in optimization",
+        "Structure from motion",
+        "Bundle adjustment",
+        "Mathematical optimization",
+        "Truncated Newton method",
+        "Schur complement"
+    ],
+    "references": [
+        "654805605",
+        "1506342804",
+        "1576347883",
+        "1597120896",
+        "1964814179",
+        "1974260711",
+        "1986224264",
+        "2010315317",
+        "2058650633",
+        "2084379367",
+        "2089024363",
+        "2100388501",
+        "2109757902",
+        "2124313187",
+        "2133192850",
+        "2143116602",
+        "2156598602",
+        "2160972224",
+        "2163446794",
+        "2170070567",
+        "2337319582",
+        "2536680313"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "id": "1562545139",
+    "title": "FIDES: lightweight authenticated cipher with side-channel resistance for constrained hardware",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Begul Bilgin",
+            "id": "2160609498",
+            "org": "ESAT/COSIC and iMinds, KU Leuven, Belgium,EEMCS-DIES, University of Twente, The Netherlands#TAB#"
+        },
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "Department of Mathematics, Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Miroslav Knezevic",
+            "id": "2141086856",
+            "org": "NXP Semiconductors, Belgium#TAB#"
+        },
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Qingju Wang",
+            "id": "2619601369",
+            "org": "ESAT/COSIC and iMinds, KU Leuven, Belgium,Department of Computer Science and Engineering, Shanghai Jiao Tong University, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer hardware",
+        "Throughput",
+        "Parallel computing",
+        "Side channel attack",
+        "Cipher",
+        "Cryptographic nonce",
+        "Distributed computing",
+        "Computer science",
+        "Latency (engineering)",
+        "Authenticated encryption",
+        "Fides",
+        "Authentication"
+    ],
+    "references": [
+        "8368275",
+        "35428663",
+        "40376036",
+        "147018390",
+        "153516704",
+        "197313453",
+        "270847108",
+        "1482922493",
+        "1503638523",
+        "1507705751",
+        "1540966986",
+        "1541098965",
+        "1553792294",
+        "1556212265",
+        "1587687098",
+        "1599175145",
+        "1601321736",
+        "1607874478",
+        "1820473293",
+        "1873852107",
+        "1883151075",
+        "2092583284",
+        "2124884278",
+        "2141124495",
+        "2155350101",
+        "2165883295",
+        "2786169301"
+    ]
+}

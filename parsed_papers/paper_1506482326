@@ -1,0 +1,41 @@
+{
+    "id": "1506482326",
+    "title": "Sciddle 4.0, or, Remote Procedure Calles in PVM",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Peter Arbenz",
+            "id": "1230262070",
+            "org": "Swiss Federal Institute of Technology (ETH)"
+        },
+        {
+            "name": "Walter Gander",
+            "id": "210999829",
+            "org": "Swiss Federal Institute of Technology (ETH)"
+        },
+        {
+            "name": "Hans Peter Luthi",
+            "id": "1978184680",
+            "org": "Swiss Federal Institute of Technology (ETH)"
+        },
+        {
+            "name": "Urs von Matt",
+            "id": "674108008",
+            "org": "Swiss Federal Institute of Technology (ETH)"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Client-server model",
+        "Message passing",
+        "Remote procedure call"
+    ],
+    "references": [
+        "1977856399",
+        "2023446730",
+        "2040400778"
+    ]
+}

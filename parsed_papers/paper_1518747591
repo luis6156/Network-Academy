@@ -1,0 +1,62 @@
+{
+    "id": "1518747591",
+    "title": "Forgery and key recovery attacks on PMAC and mitchell's TMAC variant",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Changhoon Lee",
+            "id": "2809353927",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "Department of Mathematics, University of Seoul, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Information system",
+        "CBC-MAC",
+        "PMAC",
+        "Message authentication code"
+    ],
+    "references": [
+        "122619279",
+        "204135640",
+        "1484640685",
+        "1551325341",
+        "1569469989",
+        "1586481148",
+        "1597235115",
+        "1599415687",
+        "1660562555",
+        "1868857761",
+        "1891091891",
+        "1998038614",
+        "2040594604",
+        "2112006428",
+        "2112359291",
+        "2122984309",
+        "2125591151",
+        "2146009225"
+    ]
+}

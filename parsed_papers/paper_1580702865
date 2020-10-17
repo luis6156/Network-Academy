@@ -1,0 +1,46 @@
+{
+    "id": "1580702865",
+    "title": "Automatic scoping of variables in parallel regions of an OpenMP program",
+    "venue": "international workshop on openmp",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yuan Lin",
+            "id": "2305186786",
+            "org": "Sun Microsystems#TAB#"
+        },
+        {
+            "name": "Christian Terboven",
+            "id": "1093591045",
+            "org": "RWTH Aachen University, Center for Computing and Communication, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Dieter an Mey",
+            "id": "2146642270",
+            "org": "RWTH Aachen University, Center for Computing and Communication, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Nawal Copty",
+            "id": "2261596756",
+            "org": "Sun Microsystems#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Solver",
+        "Fortran",
+        "Automatic parallelization",
+        "Programmer"
+    ],
+    "references": [
+        "1599485139",
+        "1795706927",
+        "1980999196",
+        "1994464372",
+        "2037929850",
+        "2163488221"
+    ]
+}

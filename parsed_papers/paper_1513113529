@@ -1,0 +1,60 @@
+{
+    "id": "1513113529",
+    "title": "Full key-recovery attacks on HMAC/NMAC-MD4 and NMAC-MD5",
+    "venue": "international cryptology conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Ecole Normale Superieure, Departement d'Informatique, Paris cedex 05, France#TAB#"
+        },
+        {
+            "name": "Gaetan Leurent",
+            "id": "2149886747",
+            "org": "Ecole Normale Superieure, Departement d'Informatique, Paris cedex 05, France#TAB#"
+        },
+        {
+            "name": "Phong Q. Nguyen",
+            "id": "2426635924",
+            "org": "Ecole Normale Superieure, Departement d'Informatique, Paris cedex 05, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Mathematics",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Collision attack",
+        "Hash function",
+        "MD5",
+        "Collision"
+    ],
+    "references": [
+        "1491431082",
+        "1550771246",
+        "1590269592",
+        "1656731780",
+        "1866609797",
+        "2043711803",
+        "2062518666",
+        "2103239853",
+        "2107165730",
+        "2112006428",
+        "2120136986",
+        "2127124188",
+        "2128698001",
+        "2131212920",
+        "2131300413",
+        "2134615993",
+        "2172433705",
+        "2399310879",
+        "2408744439",
+        "2531150596",
+        "2593463031",
+        "2611506938",
+        "2615690688"
+    ]
+}

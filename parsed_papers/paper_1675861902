@@ -1,0 +1,43 @@
+{
+    "id": "1675861902",
+    "title": "A mediated proxy signature scheme with fast revocation for electronic transactions",
+    "venue": "trust and privacy in digital business",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Seung-Hyun Seo",
+            "id": "2302103509",
+            "org": "Department of Computer Science and Engineering, Ewha Womans University#TAB#"
+        },
+        {
+            "name": "Kyung-Ah Shim",
+            "id": "2250484256",
+            "org": "Department of Mathematics, Ewha Womans University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sang-Ho Lee",
+            "id": "2608845515",
+            "org": "Department of Computer Science and Engineering, Ewha Womans University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete logarithm",
+        "Delegate",
+        "Computer science",
+        "Transaction processing",
+        "Computer security",
+        "Server",
+        "Digital signature",
+        "Authentication server",
+        "Revocation",
+        "Internet privacy",
+        "CPU cache"
+    ],
+    "references": [
+        "1492137673",
+        "1506251333",
+        "1585096027",
+        "2058696077",
+        "2137128393"
+    ]
+}

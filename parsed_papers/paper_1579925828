@@ -1,0 +1,52 @@
+{
+    "id": "1579925828",
+    "title": "Hierarchical place trees: a portable abstraction for task parallelism and data movement",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Yonghong Yan",
+            "id": "2279020891",
+            "org": "Department of Computer Science, Rice University#TAB#"
+        },
+        {
+            "name": "Jisheng Zhao",
+            "id": "2115689153",
+            "org": "Department of Computer Science, Rice University#TAB#"
+        },
+        {
+            "name": "Yi Guo",
+            "id": "2302614756",
+            "org": "Department of Computer Science, Rice University#TAB#"
+        },
+        {
+            "name": "Vivek Sarkar",
+            "id": "2164197688",
+            "org": "Department of Computer Science, Rice University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory hierarchy",
+        "Multi-core processor",
+        "Computer science",
+        "Data parallelism",
+        "Symmetric multiprocessor system",
+        "Scalable parallelism",
+        "Task parallelism",
+        "Runtime system",
+        "Programming paradigm"
+    ],
+    "references": [
+        "1494271578",
+        "2006620454",
+        "2019565705",
+        "2085118703",
+        "2107594045",
+        "2109065830",
+        "2121696621",
+        "2159560337",
+        "2167181433",
+        "2611598995"
+    ]
+}

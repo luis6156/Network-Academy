@@ -1,0 +1,51 @@
+{
+    "id": "1644094983",
+    "title": "An ant-algorithm for the weighted minimum hitting set problem",
+    "venue": "ieee swarm intelligence symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Alessandro Cincotti",
+            "id": "381172027",
+            "org": "Dept. of Math. & Comput. Sci., Catania Univ., Italy"
+        },
+        {
+            "name": "Vincenzo Cutello",
+            "id": "2131798677",
+            "org": "Dept. of Math. & Comput. Sci., Catania Univ., Italy"
+        },
+        {
+            "name": "Francesco Pappalardo",
+            "id": "2285454035",
+            "org": "Dept. of Math. & Comput. Sci., Catania Univ., Italy"
+        }
+    ],
+    "fields_of_study": [
+        "ANT",
+        "Mathematics",
+        "Randomized weighted majority algorithm",
+        "Greedy algorithm",
+        "Evolutionary computation",
+        "Algorithm",
+        "K-approximation of k-hitting set",
+        "Combinatorial optimization",
+        "Genetic algorithm",
+        "Set theory",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1559307900",
+        "1566652554",
+        "1735161956",
+        "1969665089",
+        "2003159902",
+        "2013652529",
+        "2038933051",
+        "2071580092",
+        "2079052655",
+        "2107941094",
+        "2132258126",
+        "2143996311",
+        "2152221184"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1733695051",
+    "title": "New pseudo near collision attack on Tiger",
+    "venue": "international conference on security and cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dibyendu Mallik",
+            "id": "2559531464",
+            "org": "Department of Computer Science and Engineering, IIT Kharagpur, Kharagpur, India"
+        },
+        {
+            "name": "Debdeep Mukhopadhyay",
+            "id": "2150698662",
+            "org": "Department of Computer Science and Engineering, IIT Kharagpur, Kharagpur, India"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Key schedule",
+        "Cryptographic hash function",
+        "Computer science",
+        "Tiger",
+        "Computer security",
+        "Meet-in-the-middle attack",
+        "Collision attack",
+        "Hash function",
+        "Collision"
+    ],
+    "references": [
+        "1590624619",
+        "1596301089",
+        "2090135172",
+        "2098801947",
+        "2103658386",
+        "2120136986",
+        "2154759077"
+    ]
+}

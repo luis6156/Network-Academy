@@ -1,0 +1,53 @@
+{
+    "id": "1494721253",
+    "title": "DaStGen--A Data Structure Generator for Parallel C++ HPC Software",
+    "venue": "international conference on computational science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hans-Joachim Bungartz",
+            "id": "2251662199",
+            "org": "Technische Universitat Munchen, Garching, Germany 85748#TAB#"
+        },
+        {
+            "name": "Wolfgang Eckhardt",
+            "id": "2258550484",
+            "org": "Technische Universitat Munchen, Garching, Germany 85748#TAB#"
+        },
+        {
+            "name": "Miriam Mehl",
+            "id": "1972860878",
+            "org": "Technische Universitat Munchen, Garching, Germany 85748#TAB#"
+        },
+        {
+            "name": "Tobias Weinzierl",
+            "id": "1986130288",
+            "org": "Technische Universitat Munchen, Garching, Germany 85748#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory footprint",
+        "Multi-core processor",
+        "Computer science",
+        "Allocator",
+        "Distributed computing",
+        "Primitive data type",
+        "Data type",
+        "restrict",
+        "Data structure",
+        "High memory"
+    ],
+    "references": [
+        "1567880269",
+        "1595661905",
+        "1603576528",
+        "1969215126",
+        "2029414465",
+        "2036292907",
+        "2056345907",
+        "2112966019",
+        "2117895458",
+        "2166894669"
+    ]
+}

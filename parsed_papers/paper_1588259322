@@ -1,0 +1,68 @@
+{
+    "id": "1588259322",
+    "title": "Linear (Hull) and Algebraic Cryptanalysis of the Block Cipher PRESENT",
+    "venue": "cryptology and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jorge Nakahara",
+            "id": "2503813043",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Pouyan Sepehrdad",
+            "id": "44362941",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Bingsheng Zhang",
+            "id": "2806309408",
+            "org": "Cybernetica AS, Estonia and University of Tartu, Estonia#TAB#"
+        },
+        {
+            "name": "Meiqin Wang",
+            "id": "2251995558",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Two-square cipher",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Triple DES",
+        "CBC-MAC",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1699105",
+        "1502608166",
+        "1530646519",
+        "1533392870",
+        "1534885379",
+        "1542020576",
+        "1556212265",
+        "1581134854",
+        "1583224622",
+        "1583871653",
+        "1588952639",
+        "1676521748",
+        "1696873135",
+        "1734967783",
+        "1870923733",
+        "1894646615",
+        "1964723977",
+        "2071596701",
+        "2091612798",
+        "2124509406",
+        "2132161909",
+        "2137326899",
+        "2396105825",
+        "2400568052"
+    ]
+}

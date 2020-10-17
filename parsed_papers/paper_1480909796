@@ -1,0 +1,44 @@
+{
+    "id": "1480909796",
+    "title": "Z3: an efficient SMT solver",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Leonardo Mendonca de Moura",
+            "id": "1970241101",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Nikolaj Bjorner",
+            "id": "1505484182",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop invariant",
+        "Uninterpreted function",
+        "Predicate abstraction",
+        "Concolic testing",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Symbolic execution",
+        "Decision problem",
+        "Satisfiability modulo theories",
+        "Software verification",
+        "Programming language"
+    ],
+    "references": [
+        "1552077729",
+        "1979619055",
+        "2055477538",
+        "2082000355",
+        "2107794009",
+        "2110780548",
+        "2121707639",
+        "2125967324",
+        "2157499124",
+        "2165100126"
+    ]
+}

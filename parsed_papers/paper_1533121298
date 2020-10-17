@@ -1,0 +1,47 @@
+{
+    "id": "1533121298",
+    "title": "Multi-channel Attacks",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dakshi Agrawal",
+            "id": "2134142736",
+            "org": "IBM Watson Research Center"
+        },
+        {
+            "name": "Josyula R. Rao",
+            "id": "2114007677",
+            "org": "IBM Watson Research Center"
+        },
+        {
+            "name": "Pankaj Rohatgi",
+            "id": "2121267894",
+            "org": "IBM Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Theoretical computer science",
+        "Chip",
+        "Computer science",
+        "Communication channel",
+        "Adversary",
+        "Power analysis",
+        "Information leakage",
+        "Leakage (electronics)",
+        "Robust random early detection"
+    ],
+    "references": [
+        "1511843316",
+        "1519539754",
+        "1536508214",
+        "1548656471",
+        "1613874182",
+        "1664808737",
+        "1671031071",
+        "1724890242",
+        "1897761346",
+        "2154909745"
+    ]
+}

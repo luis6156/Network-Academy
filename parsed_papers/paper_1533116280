@@ -1,0 +1,39 @@
+{
+    "id": "1533116280",
+    "title": "A Microbenchmark Suite for Mixed-Mode OpenMP/MPI",
+    "venue": "international workshop on openmp",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "J. Mark Bull",
+            "id": "2294282341",
+            "org": "EPCC, The King's Buildings, The University of Edinburgh, Edinburgh, Scotland, U.K. EH9 3JZ#TAB#"
+        },
+        {
+            "name": "James P. Enright",
+            "id": "2141294481",
+            "org": "EPCC, The King's Buildings, The University of Edinburgh, Edinburgh, Scotland, U.K. EH9 3JZ#TAB#"
+        },
+        {
+            "name": "Nadia Ameer",
+            "id": "2277820275",
+            "org": "EPCC, The King's Buildings, The University of Edinburgh, Edinburgh, Scotland, U.K. EH9 3JZ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Point-to-point",
+        "Parallel computing",
+        "Computer architecture",
+        "Multi-core processor",
+        "Computer science",
+        "Suite",
+        "Programming paradigm"
+    ],
+    "references": [
+        "1963882433",
+        "1999752372",
+        "2071220401",
+        "2138782497",
+        "2170928486"
+    ]
+}

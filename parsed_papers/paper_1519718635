@@ -1,0 +1,53 @@
+{
+    "id": "1519718635",
+    "title": "A GPU implementation of level set multiview stereo",
+    "venue": "international conference on computational science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Patrick Labatut",
+            "id": "1189525356",
+            "org": "Departement d'Informatique, Ecole normale superieure, Paris Cedex 05, France#TAB#"
+        },
+        {
+            "name": "Renaud Keriven",
+            "id": "1037429264",
+            "org": "CERTIS, Ecole Nationale des Ponts et Chaussees, Marne-la-Vallee Cedex 2, France#TAB#"
+        },
+        {
+            "name": "Jean-Philippe Pons",
+            "id": "2113936036",
+            "org": "CERTIS, Ecole Nationale des Ponts et Chaussees, Marne-la-Vallee Cedex 2, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Computer science",
+        "Image segmentation",
+        "Graphics",
+        "Graphics hardware",
+        "Level set",
+        "General-purpose computing on graphics processing units",
+        "Iterative reconstruction",
+        "Bottleneck",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1518961746",
+        "1541700072",
+        "1603865250",
+        "1786660833",
+        "1819157937",
+        "2032309817",
+        "2106598426",
+        "2108157916",
+        "2115499767",
+        "2120977599",
+        "2122952014",
+        "2140743603",
+        "2167141871",
+        "2168545424",
+        "2173710661",
+        "2208332410"
+    ]
+}

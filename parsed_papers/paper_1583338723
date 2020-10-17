@@ -1,0 +1,65 @@
+{
+    "id": "1583338723",
+    "title": "Construction and validation of mean shape atlas templates for atlas-based brain image segmentation",
+    "venue": "information processing in medical imaging",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Qian Wang",
+            "id": "2421995103",
+            "org": "Faculties of Medicine and Engineering, Medical Imag Computing - ESAT/PSI, University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Dieter Seghers",
+            "id": "2159563184",
+            "org": "Faculties of Medicine and Engineering, Medical Imag Computing - ESAT/PSI, University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Emiliano D'Agostino",
+            "id": "2096598186",
+            "org": "Faculties of Medicine and Engineering, Medical Imag Computing - ESAT/PSI, University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Frederik Maes",
+            "id": "2192370666",
+            "org": "Faculties of Medicine and Engineering, Medical Imag Computing - ESAT/PSI, University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Dirk Vandermeulen",
+            "id": "2030948482",
+            "org": "Faculties of Medicine and Engineering, Medical Imag Computing - ESAT/PSI, University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Paul Suetens",
+            "id": "2344226991",
+            "org": "Faculties of Medicine and Engineering, Medical Imag Computing - ESAT/PSI, University Hospital Gasthuisberg, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Alexander Hammers",
+            "id": "2655557990",
+            "org": "Division of Neuroscience and Mental Health, MRC Clinical Sciences Centre, London, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Ground truth",
+        "Image segmentation",
+        "Atlas (anatomy)",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1557690671",
+        "1568470767",
+        "1596637622",
+        "1777255775",
+        "1972099553",
+        "1977034661",
+        "2034432063",
+        "2128907102",
+        "2130686832"
+    ]
+}

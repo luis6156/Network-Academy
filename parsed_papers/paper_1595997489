@@ -1,0 +1,65 @@
+{
+    "id": "1595997489",
+    "title": "Rapid Multipole Graph Drawing on the GPU",
+    "venue": "graph drawing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Apeksha Godiyal",
+            "id": "2275773060",
+            "org": "University of Illinois,#TAB#"
+        },
+        {
+            "name": "Jared Hoberock",
+            "id": "1110079350",
+            "org": "University of Illinois,#TAB#"
+        },
+        {
+            "name": "Michael Garland",
+            "id": "2182953115",
+            "org": "NVIDIA Corp.,#TAB#"
+        },
+        {
+            "name": "John Hart",
+            "id": "2137993087",
+            "org": "University of Illinois,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Fast multipole method",
+        "Graph drawing",
+        "Theoretical computer science",
+        "Computation",
+        "Computer science",
+        "Multipole expansion",
+        "k-d tree",
+        "Graph theory",
+        "CUDA"
+    ],
+    "references": [
+        "176513580",
+        "1495967075",
+        "1531848040",
+        "2014938807",
+        "2021053884",
+        "2054622952",
+        "2059985735",
+        "2072570498",
+        "2075220720",
+        "2086798689",
+        "2095011064",
+        "2100083479",
+        "2103185791",
+        "2119547137",
+        "2123565576",
+        "2124072601",
+        "2129084377",
+        "2142244001",
+        "2144394238",
+        "2150770193",
+        "2165558283",
+        "2167482691"
+    ]
+}

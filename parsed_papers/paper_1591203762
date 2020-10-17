@@ -1,0 +1,40 @@
+{
+    "id": "1591203762",
+    "title": "Linear cryptanalysis of reduced-round PRESENT",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Joo Yeon Cho",
+            "id": "2152162342",
+            "org": "Helsinki University of Technology, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "1489195210",
+        "1519447501",
+        "1533392870",
+        "1534885379",
+        "1556212265",
+        "1701060964",
+        "1734967783",
+        "1894646615",
+        "1964723977",
+        "2053679678",
+        "2091612798",
+        "2137326899",
+        "2150208140"
+    ]
+}

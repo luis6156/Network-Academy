@@ -1,0 +1,63 @@
+{
+    "id": "1608305252",
+    "title": "Locking protocols for materialized aggregate join views",
+    "venue": "very large data bases",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Gang Luo",
+            "id": "2104365585",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Jeffrey F. Naughton",
+            "id": "2075622585",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Curt J. Ellmann",
+            "id": "881593860",
+            "org": "NCR Advance Development Lab#TAB#"
+        },
+        {
+            "name": "Michael W. Watzke",
+            "id": "1227593890",
+            "org": "NCR Advance Development Lab#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Lock (computer science)",
+        "Database",
+        "Real-time computing",
+        "Distributed concurrency control",
+        "Materialized view",
+        "Concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "11669818",
+        "238230001",
+        "1493875369",
+        "1515932031",
+        "1545155892",
+        "1545270572",
+        "1557189078",
+        "1569583874",
+        "1648759563",
+        "1974021718",
+        "1974153654",
+        "1975637639",
+        "1976671374",
+        "2047908203",
+        "2070742144",
+        "2071009745",
+        "2081189989",
+        "2091416827",
+        "2140876280"
+    ]
+}

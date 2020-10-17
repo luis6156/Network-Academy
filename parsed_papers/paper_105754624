@@ -1,0 +1,57 @@
+{
+    "id": "105754624",
+    "title": "Optimizing and Scaling HPCG on Tianhe-2: Early Experience",
+    "venue": "international conference on algorithms and architectures for parallel processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Xianyi Zhang",
+            "id": "2701017267",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Chao Yang",
+            "id": "2688929324",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Fangfang Liu",
+            "id": "2289946457",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Yiqun Liu",
+            "id": "2585705963",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Yutong Lu",
+            "id": "2122795086",
+            "org": "National University of Defense Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Loop unrolling",
+        "Supercomputer",
+        "Parallel computing",
+        "Xeon Phi",
+        "Multi-core processor",
+        "Computer science",
+        "Coprocessor",
+        "Stencil code",
+        "Tianhe-2"
+    ],
+    "references": [
+        "1525058640",
+        "1588915715",
+        "1990832096",
+        "2087479145",
+        "2096714979",
+        "2103877122",
+        "2106416475",
+        "2150319905",
+        "2154786353",
+        "2160106616"
+    ]
+}

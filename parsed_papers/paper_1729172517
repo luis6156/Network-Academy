@@ -1,0 +1,62 @@
+{
+    "id": "1729172517",
+    "title": "vTPM: virtualizing the trusted platform module",
+    "venue": "usenix security symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stefan Berger",
+            "id": "1979518407",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Ramon Caceres",
+            "id": "2795132297",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Kenneth Alan Goldman",
+            "id": "2097292445",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Ronald Perez",
+            "id": "2118616911",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Reiner Sailer",
+            "id": "2014533025",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Leendert van Doorn",
+            "id": "2153906754",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Hypervisor",
+        "Trusted Platform Module",
+        "Software",
+        "Trusted Computing",
+        "Computer science",
+        "Computer security",
+        "Threat model",
+        "Embedded system",
+        "Operating system",
+        "Virtual machine",
+        "Certificate"
+    ],
+    "references": [
+        "1504669610",
+        "1522250664",
+        "1997269120",
+        "2122480895",
+        "2125895608",
+        "2131726714",
+        "2166004296",
+        "2168084064"
+    ]
+}

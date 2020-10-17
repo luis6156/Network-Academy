@@ -1,0 +1,39 @@
+{
+    "id": "1491103366",
+    "title": "Fixing races for fun and profit: how to use access(2)",
+    "venue": "usenix security symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Drew Dean",
+            "id": "2101006341",
+            "org": "Computer Science Laboratory, SRI International#TAB#"
+        },
+        {
+            "name": "Alan J. Hu",
+            "id": "2001625928",
+            "org": "Dept. of Computer Science, University of British Columbia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer security",
+        "Executor",
+        "Probabilistic logic",
+        "Race condition",
+        "System call",
+        "Folk theorem",
+        "setuid",
+        "Profitability index"
+    ],
+    "references": [
+        "112288480",
+        "1495613484",
+        "1545927878",
+        "1655226010",
+        "2032493761",
+        "2034711041",
+        "2069107692",
+        "2169476734"
+    ]
+}

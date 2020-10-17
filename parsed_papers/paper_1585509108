@@ -1,0 +1,46 @@
+{
+    "id": "1585509108",
+    "title": "Maximizing Loop Parallelism and Improving Data Locality via Loop Fusion and Distribution",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Ken Kennedy",
+            "id": "2136496678",
+            "org": "Rice University"
+        },
+        {
+            "name": "Kathryn S. McKinley",
+            "id": "2115847858",
+            "org": "University of Massachusetts"
+        }
+    ],
+    "fields_of_study": [
+        "Loop interchange",
+        "Greedy algorithm",
+        "Parallel computing",
+        "Locality",
+        "Computer science",
+        "Loop fusion",
+        "Granularity",
+        "Program transformation",
+        "Loop fission",
+        "Loop nest optimization"
+    ],
+    "references": [
+        "1551026808",
+        "2025168586",
+        "2031185609",
+        "2034533498",
+        "2074719548",
+        "2077960035",
+        "2086779607",
+        "2090359754",
+        "2102582914",
+        "2103412683",
+        "2134907441",
+        "2135736783",
+        "2144344516",
+        "2244841219"
+    ]
+}

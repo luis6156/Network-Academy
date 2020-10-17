@@ -1,0 +1,69 @@
+{
+    "id": "1507330041",
+    "title": "Practical model-checking method for verifying correctness of MPI programs",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Salman Pervez",
+            "id": "2156739719",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Ganesh Gopalakrishnan",
+            "id": "2129100051",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Robert M. Kirby",
+            "id": "2309436987",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Robert Palmer",
+            "id": "2154325642",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Profiling (computer programming)",
+        "Formal verification",
+        "Theoretical computer science",
+        "Computer architecture",
+        "Program analysis",
+        "Computer science",
+        "Interleaving",
+        "Data transmission",
+        "Correctness",
+        "Model checking",
+        "Partial order reduction"
+    ],
+    "references": [
+        "1485135523",
+        "1529671387",
+        "1562382146",
+        "1600980603",
+        "1848189967",
+        "1969215126",
+        "2031852978",
+        "2065675749",
+        "2103772961",
+        "2108208207",
+        "2121917833",
+        "2160611910",
+        "2161957670",
+        "2169870841",
+        "2171480813",
+        "2340735175"
+    ]
+}

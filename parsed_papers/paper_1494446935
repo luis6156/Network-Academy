@@ -1,0 +1,50 @@
+{
+    "id": "1494446935",
+    "title": "On the Security of CAMELLIA against the Square Attack",
+    "venue": "fast software encryption",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Yongjin Yeom",
+            "id": "2659305071",
+            "org": "National Security Research Institute"
+        },
+        {
+            "name": "Sangwoo Park",
+            "id": "2169109665",
+            "org": "National Security Research Institute"
+        },
+        {
+            "name": "Iljun Kim",
+            "id": "2701462527",
+            "org": "National Security Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Cryptography",
+        "Block cipher",
+        "Byte",
+        "Theoretical computer science",
+        "Integral cryptanalysis",
+        "Cryptanalysis",
+        "Computer science",
+        "Computer security",
+        "128-bit"
+    ],
+    "references": [
+        "45309531",
+        "106933294",
+        "1489027369",
+        "1489575954",
+        "1515935938",
+        "1516671507",
+        "1540875416",
+        "1554500429",
+        "1565173996",
+        "1587120902",
+        "1841857093",
+        "2109265351",
+        "2615663924"
+    ]
+}

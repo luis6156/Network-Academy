@@ -1,0 +1,50 @@
+{
+    "id": "1503420158",
+    "title": "Analysis of Memory Latencies in Multi-Processor Systems",
+    "venue": "worst case execution time analysis",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jan Staschulat",
+            "id": "135844675",
+            "org": "Technical University of Braunschweig"
+        },
+        {
+            "name": "Simon Schliecker",
+            "id": "2398330412",
+            "org": "Technical University of Braunschweig"
+        },
+        {
+            "name": "Matthias Ivers",
+            "id": "2049675873",
+            "org": "Technical University of Braunschweig"
+        },
+        {
+            "name": "Rolf Ernst",
+            "id": "2169917514",
+            "org": "Technical University of Braunschweig"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Parallel computing",
+        "Computation",
+        "Interleaved memory",
+        "Computer science",
+        "Uniform memory access",
+        "Memory management",
+        "Abstraction",
+        "CAS latency",
+        "Systems design",
+        "Real-time computing"
+    ],
+    "references": [
+        "1533929374",
+        "1543672223",
+        "2015717967",
+        "2052279347",
+        "2063345245",
+        "2136711971",
+        "2138569213"
+    ]
+}

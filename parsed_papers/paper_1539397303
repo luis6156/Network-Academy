@@ -1,0 +1,43 @@
+{
+    "id": "1539397303",
+    "title": "Concurrent Garbage Collection in O2",
+    "venue": "very large data bases",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Marcin Skubiszewski",
+            "id": "1503240961",
+            "org": "O Technology"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "O Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Computer science",
+        "Garbage collection",
+        "Dijkstra's algorithm",
+        "Database",
+        "Spite",
+        "Correctness",
+        "Manual memory management",
+        "Garbage",
+        "Synchronization"
+    ],
+    "references": [
+        "1509600745",
+        "1512539161",
+        "1515932031",
+        "1583464938",
+        "1978661247",
+        "2001657718",
+        "2005907808",
+        "2094631165",
+        "2104055277",
+        "2158525816"
+    ]
+}

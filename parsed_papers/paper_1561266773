@@ -1,0 +1,47 @@
+{
+    "id": "1561266773",
+    "title": "Stability and dynamics of TCP-NCR(DCR) protocol in presence of UDP flows",
+    "venue": "next generation internet",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tadeusz Czachorski",
+            "id": "2018175147",
+            "org": "IITiS PAN, Gliwice and II Politechnika Slaska, Gliwice#TAB#"
+        },
+        {
+            "name": "Krzysztof Grochla",
+            "id": "1942273403",
+            "org": "IITiS PAN, Gliwice#TAB#"
+        },
+        {
+            "name": "Ferhan Pekergin",
+            "id": "1936049536",
+            "org": "LIPN, Universite Paris-Nord, Villetaneuse, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Linearization",
+        "CUBIC TCP",
+        "Computer science",
+        "Queue",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "Active queue management"
+    ],
+    "references": [
+        "1804414343",
+        "1994717387",
+        "2021085547",
+        "2118687002",
+        "2127068084",
+        "2129150997",
+        "2138193369",
+        "2147837310",
+        "2165614611"
+    ]
+}

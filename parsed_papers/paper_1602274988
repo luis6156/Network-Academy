@@ -1,0 +1,48 @@
+{
+    "id": "1602274988",
+    "title": "Priority-driven scheduling of periodic task systems on multiprocessors",
+    "venue": "Real-time Systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Joel Goossens",
+            "id": "2132703715",
+            "org": "Department of Computer Science, Universite Libre de Bruxelles, Belgium#TAB#"
+        },
+        {
+            "name": "Shelby Funk",
+            "id": "2565446006",
+            "org": "Department of Computer Science, The University of North Carolina at Chapel Hill, USA#TAB#"
+        },
+        {
+            "name": "Sanjoy K. Baruah",
+            "id": "2145728887",
+            "org": "Department of Computer Science, University of North Carolina, Chapel Hill, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Least slack time scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Multiprocessor scheduling",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "194244820",
+        "204261080",
+        "1972868674",
+        "1984034567",
+        "1986832144",
+        "2001794165",
+        "2056830486",
+        "2099221082",
+        "2101300711",
+        "2160918806"
+    ]
+}

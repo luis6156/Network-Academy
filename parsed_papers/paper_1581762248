@@ -1,0 +1,35 @@
+{
+    "id": "1581762248",
+    "title": "Effective File-I/O Bandwidth Benchmark",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Rolf Rabenseifner",
+            "id": "113177573",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Alice Koniges",
+            "id": "2602159607",
+            "org": "Lawrence Livermore National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Random access",
+        "Parallel computing",
+        "Pointer (computer programming)",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Bandwidth (signal processing)",
+        "Message passing",
+        "Operating system"
+    ],
+    "references": [
+        "1501600294",
+        "2055951513",
+        "2104486653",
+        "2154531558"
+    ]
+}

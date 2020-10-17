@@ -1,0 +1,82 @@
+{
+    "id": "153725569",
+    "title": "An Encrypted In-Memory Column-Store: The Onion Selection Problem",
+    "venue": "international conference on information systems security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Florian Kerschbaum",
+            "id": "1941687626",
+            "org": "SAP, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Martin Harterich",
+            "id": "21940959",
+            "org": "SAP, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Mathias Kohler",
+            "id": "2272937009",
+            "org": "SAP, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Isabelle Hang",
+            "id": "2049464355",
+            "org": "SAP, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Andreas Schaad",
+            "id": "2422313937",
+            "org": "SAP, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Axel Schropfer",
+            "id": "2014630056",
+            "org": "SAP, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Walter Tighzert",
+            "id": "63662768",
+            "org": "SAP, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Homomorphic encryption",
+        "Theoretical computer science",
+        "Computer science",
+        "Data mining",
+        "Encryption",
+        "SQL",
+        "Database",
+        "On-the-fly encryption",
+        "Range query (data structures)",
+        "Cloud computing"
+    ],
+    "references": [
+        "1502927489",
+        "1527450129",
+        "1557302011",
+        "1590823599",
+        "1754574012",
+        "1895952394",
+        "1981455414",
+        "2004154155",
+        "2030888439",
+        "2043508455",
+        "2061802713",
+        "2132172731",
+        "2146828512",
+        "2147929033",
+        "2152516507",
+        "2153971105",
+        "2154448764",
+        "2154496743",
+        "2159915142",
+        "2163992091",
+        "2171027248",
+        "2396727930",
+        "2404098708",
+        "2404307768"
+    ]
+}

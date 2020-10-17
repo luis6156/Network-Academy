@@ -1,0 +1,74 @@
+{
+    "id": "1512730440",
+    "title": "Warming up storage-level caches with bonfire",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Yiying Zhang",
+            "id": "2109045567",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Gokul Soundararajan",
+            "id": "2305737780",
+            "org": "NetApp, Inc.#TAB#"
+        },
+        {
+            "name": "Mark Walter Storer",
+            "id": "2486477623",
+            "org": "NetApp, Inc.#TAB#"
+        },
+        {
+            "name": "Lakshmi N. Bairavasundaram",
+            "id": "1219913208",
+            "org": "NetApp, Inc.#TAB#"
+        },
+        {
+            "name": "Sethuraman Subbiah",
+            "id": "2120886123",
+            "org": "NetApp, Inc.#TAB#"
+        },
+        {
+            "name": "Andrea C. Arpaci-Dusseau",
+            "id": "1979388515",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Remzi H. Arpaci-Dusseau",
+            "id": "74145742",
+            "org": "University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Service level",
+        "Parallel computing",
+        "Heuristics",
+        "Computer science",
+        "Server",
+        "File server",
+        "Real-time computing"
+    ],
+    "references": [
+        "133196353",
+        "140616940",
+        "1510496002",
+        "1537068154",
+        "1569184546",
+        "1578858535",
+        "1677118421",
+        "1987191256",
+        "1995790197",
+        "2003597767",
+        "2042835539",
+        "2112053513",
+        "2119565742",
+        "2121887742",
+        "2128946566",
+        "2150864656",
+        "2154817671",
+        "2158310845",
+        "2201220957"
+    ]
+}

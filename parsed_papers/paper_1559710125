@@ -1,0 +1,47 @@
+{
+    "id": "1559710125",
+    "title": "A gateway from DBPL to ingres",
+    "venue": "International Conference on Applications of Databases",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Florian Matthes",
+            "id": "2030828791",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Andreas Rudloff",
+            "id": "2477367212",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Joachim W. Schmidt",
+            "id": "2196351647",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Kazimierz Subieta",
+            "id": "372955294",
+            "org": "Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Strong and weak typing",
+        "Computer science",
+        "Persistence (computer science)",
+        "Implementation",
+        "Query language",
+        "SQL",
+        "Database",
+        "Data type",
+        "Default gateway",
+        "Database server"
+    ],
+    "references": [
+        "178725421",
+        "1508398345",
+        "2024948003",
+        "2098762735",
+        "2108947685"
+    ]
+}

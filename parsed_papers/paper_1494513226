@@ -1,0 +1,59 @@
+{
+    "id": "1494513226",
+    "title": "Constructing Strong KEM from Weak KEM (or How to Revive the KEM/DEM Framework)",
+    "venue": "security and cryptography for networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Joonsang Baek",
+            "id": "2157523914",
+            "org": "Cryptography and Security Department, Institute for Infocomm Research, Singapore#TAB#"
+        },
+        {
+            "name": "David Galindo",
+            "id": "2278651514",
+            "org": "Computer Science Department, University of Malaga,#TAB#"
+        },
+        {
+            "name": "Willy Susilo",
+            "id": "2114127059",
+            "org": "Centre for Computer and Information Security Research School of Computer Science and Software Engineering, University of Wollongong, Australia#TAB#"
+        },
+        {
+            "name": "Jianying Zhou",
+            "id": "2799012699",
+            "org": "Cryptography and Security Department, Institute for Infocomm Research, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Chosen-ciphertext attack",
+        "Message authentication code",
+        "Random oracle",
+        "Hybrid cryptosystem"
+    ],
+    "references": [
+        "1486107224",
+        "1515609811",
+        "1516512945",
+        "1656028867",
+        "1801447676",
+        "1974232544",
+        "2052267638",
+        "2073210531",
+        "2077300005",
+        "2101803085",
+        "2122987162",
+        "2129956927",
+        "2131300413",
+        "2146907493",
+        "2149674197",
+        "2157679418",
+        "2165214731",
+        "2184811974",
+        "2405015683"
+    ]
+}

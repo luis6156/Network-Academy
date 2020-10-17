@@ -1,0 +1,56 @@
+{
+    "id": "1448388504",
+    "title": "Partial-Collision Attack on the Round-Reduced Compression Function of Skein-256 ?",
+    "venue": "fast software encryption",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Hongbo Yu",
+            "id": "2427311814",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Jiazhe Chen",
+            "id": "2126160519",
+            "org": "Shandong University"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Tsinghua University"
+        }
+    ],
+    "fields_of_study": [
+        "Threefish",
+        "Rebound attack",
+        "Block cipher",
+        "Hamming distance",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Slide attack",
+        "Collision attack",
+        "Skein",
+        "Hash function"
+    ],
+    "references": [
+        "16600678",
+        "157125546",
+        "571925191",
+        "1489847101",
+        "1503389453",
+        "1509358216",
+        "1521253015",
+        "1603433154",
+        "1646626921",
+        "1656731780",
+        "1660562555",
+        "1822166485",
+        "1838677899",
+        "2103239853",
+        "2109766996",
+        "2136320902",
+        "2154964832",
+        "2177399963"
+    ]
+}

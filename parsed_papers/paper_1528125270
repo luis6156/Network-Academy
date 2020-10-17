@@ -1,0 +1,37 @@
+{
+    "id": "1528125270",
+    "title": "Chameleon - A New Kind of Stream Cipher",
+    "venue": "fast software encryption",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ross J. Anderson",
+            "id": "2120643228",
+            "org": "Cambridge University Computer Laboratory"
+        },
+        {
+            "name": "Charalampos Manifavas",
+            "id": "176284018",
+            "org": "Cambridge University Computer Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Running key cipher",
+        "Computer science",
+        "Distributed computing",
+        "Weak key",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Key clustering"
+    ],
+    "references": [
+        "1527570981",
+        "1590624619",
+        "1883414310",
+        "1968372742",
+        "2090388266"
+    ]
+}

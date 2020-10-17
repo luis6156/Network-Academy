@@ -1,0 +1,96 @@
+{
+    "id": "1615500891",
+    "title": "Dynamic replication strategies in data grid systems: a survey",
+    "venue": "The Journal of Supercomputing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Uras Tos",
+            "id": "2487285729",
+            "org": "Institut de Recherche en Informatique de Toulouse (IRIT), Paul Sabatier University, Toulouse, France 31062 and Department of Computer Engineering, Izmir Institute of Technology, Urla, Turkey 35430 ...#TAB#"
+        },
+        {
+            "name": "Riad Mokadem",
+            "id": "172422796",
+            "org": "Institut de Recherche en Informatique de Toulouse (IRIT), Paul Sabatier University, Toulouse, France 31062#TAB#"
+        },
+        {
+            "name": "Abdelkader Hameurlain",
+            "id": "232125283",
+            "org": "Institut de Recherche en Informatique de Toulouse (IRIT), Paul Sabatier University, Toulouse, France 31062#TAB#"
+        },
+        {
+            "name": "Tolga Ayav",
+            "id": "1918100063",
+            "org": "Department of Computer Engineering, Izmir Institute of Technology, Urla, Turkey 35430#TAB#"
+        },
+        {
+            "name": "Sebnem Bora",
+            "id": "2169452770",
+            "org": "Department of Computer Engineering, Ege University, Bornova, Turkey 35100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Grid",
+        "Architecture",
+        "Data grid",
+        "Real-time computing",
+        "Dynamic data",
+        "Fault tolerance",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1491710744",
+        "1505604120",
+        "1559704687",
+        "1564502119",
+        "1581690648",
+        "1588391170",
+        "1767918455",
+        "1968526517",
+        "1978608510",
+        "1984940935",
+        "1986728284",
+        "1993484402",
+        "1999818425",
+        "2001199469",
+        "2001372508",
+        "2008415634",
+        "2008478599",
+        "2015823543",
+        "2018483011",
+        "2022170400",
+        "2023278881",
+        "2031282765",
+        "2036522235",
+        "2040969944",
+        "2042369464",
+        "2044098002",
+        "2055150286",
+        "2073324767",
+        "2074609907",
+        "2085605383",
+        "2086627644",
+        "2094034456",
+        "2095626986",
+        "2096122599",
+        "2112542464",
+        "2114680778",
+        "2114764342",
+        "2119464316",
+        "2130913700",
+        "2143521418",
+        "2145781941",
+        "2146223937",
+        "2146402254",
+        "2147159129",
+        "2154158105",
+        "2161908970",
+        "2170901349"
+    ]
+}

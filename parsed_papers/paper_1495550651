@@ -1,0 +1,62 @@
+{
+    "id": "1495550651",
+    "title": "Automatic intra-register vectorization for the Intel architecture",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Aart J. C. Bik",
+            "id": "2778940384",
+            "org": "Intel Corporation, 2200 Mission College Blvd. SC12-301, Santa Clara, California#TAB#"
+        },
+        {
+            "name": "Milind Girkar",
+            "id": "2007507105",
+            "org": "Intel Corporation, 2200 Mission College Blvd. SC12-301, Santa Clara, California#TAB#"
+        },
+        {
+            "name": "Paul M. Grey",
+            "id": "2103685492",
+            "org": "Intel Corporation, 2200 Mission College Blvd. SC12-301, Santa Clara, California#TAB#"
+        },
+        {
+            "name": "Xinmin Tian",
+            "id": "2163637211",
+            "org": "Intel Corporation, 2200 Mission College Blvd. SC12-301, Santa Clara, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SSE2",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "SIMD",
+        "Computer architecture",
+        "Vectorization (mathematics)",
+        "Compiler",
+        "Computer science",
+        "Architecture",
+        "Fortran",
+        "Programmer"
+    ],
+    "references": [
+        "1491178396",
+        "1494199306",
+        "1532966629",
+        "1547830536",
+        "1555915743",
+        "1589850818",
+        "1964714157",
+        "1988425770",
+        "2000250112",
+        "2016594368",
+        "2037690395",
+        "2037929850",
+        "2111394443",
+        "2112482891",
+        "2114067856",
+        "2135736783",
+        "2144481293",
+        "2538506363",
+        "2611598995"
+    ]
+}

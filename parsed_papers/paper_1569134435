@@ -1,0 +1,47 @@
+{
+    "id": "1569134435",
+    "title": "Automated data warehousing for rule-based CRM systems",
+    "venue": "australasian database conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Han-joon Kim",
+            "id": "2892485589",
+            "org": "School of Computer Science and Engineering, Seoul National University, San 56-1 Shillim-Dong Kwanak-ku, Seoul, 151-742 Korea#TAB#"
+        },
+        {
+            "name": "Taehee Lee",
+            "id": "2427533162",
+            "org": "School of Computer Science and Engineering, Seoul National University, San 56-1 Shillim-Dong Kwanak-ku, Seoul, 151-742 Korea#TAB#"
+        },
+        {
+            "name": "Sang-goo Lee",
+            "id": "2126044724",
+            "org": "School of Computer Science and Engineering, Seoul National University, San 56-1 Shillim-Dong Kwanak-ku, Seoul, 151-742 Korea#TAB#"
+        },
+        {
+            "name": "Jonghun Chun",
+            "id": "2605952603",
+            "org": "School of Computer Science and Engineering, Seoul National University, San 56-1 Shillim-Dong Kwanak-ku, Seoul, 151-742 Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rule-based system",
+        "Database schema",
+        "Online analytical processing",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Dimensional modeling",
+        "Database",
+        "Materialized view",
+        "Data warehouse"
+    ],
+    "references": [
+        "38346608",
+        "1538267625",
+        "1581805425",
+        "2161759782"
+    ]
+}

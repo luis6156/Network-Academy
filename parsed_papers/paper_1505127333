@@ -1,0 +1,64 @@
+{
+    "id": "1505127333",
+    "title": "Set-Pi: Set Membership p-Calculus",
+    "venue": "ieee computer security foundations symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Alessandro Bruni",
+            "id": "2787143517",
+            "org": "DTU Compute, Tech. Univ. of Denmark, Lyngby, Denmark"
+        },
+        {
+            "name": "Sebastian Modersheim",
+            "id": "2025806722",
+            "org": "DTU Compute, Tech. Univ. of Denmark, Lyngby, Denmark"
+        },
+        {
+            "name": "Flemming Nielson",
+            "id": "2057873166",
+            "org": "DTU Compute, Tech. Univ. of Denmark, Lyngby, Denmark"
+        },
+        {
+            "name": "Hanne Riis Nielson",
+            "id": "2778513004",
+            "org": "DTU Compute, Tech. Univ. of Denmark, Lyngby, Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Pi",
+        "Theoretical computer science",
+        "Formal verification",
+        "Authentication protocol",
+        "Cryptographic protocol",
+        "Formal specification",
+        "Computer science",
+        "Communications protocol",
+        "Distributed computing",
+        "Correctness",
+        "YubiKey"
+    ],
+    "references": [
+        "146244851",
+        "187363215",
+        "1589312904",
+        "1589756554",
+        "1603921769",
+        "1775055752",
+        "1782799247",
+        "1973054120",
+        "2006805613",
+        "2030988895",
+        "2070775894",
+        "2114189125",
+        "2125030112",
+        "2126925085",
+        "2132477736",
+        "2141624400",
+        "2145415641",
+        "2147778310",
+        "2161706819",
+        "2166327763",
+        "2169374412"
+    ]
+}

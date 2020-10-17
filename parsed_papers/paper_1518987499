@@ -1,0 +1,53 @@
+{
+    "id": "1518987499",
+    "title": "Provable Security of KASUMI and 3GPP Encryption Mode f8",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ju-Sung Kang",
+            "id": "2236709692",
+            "org": "ETRI"
+        },
+        {
+            "name": "Sang Uk Shin",
+            "id": "2504304185",
+            "org": "ETRI"
+        },
+        {
+            "name": "Dowon Hong",
+            "id": "2132423449",
+            "org": "ETRI"
+        },
+        {
+            "name": "Okyeon Yi",
+            "id": "2099049638",
+            "org": "Kookmin University"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Block cipher",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Encryption",
+        "Pseudorandom permutation",
+        "Pseudorandomness",
+        "KASUMI",
+        "Provable security"
+    ],
+    "references": [
+        "1482569179",
+        "1540875416",
+        "1548021824",
+        "1607372077",
+        "1972464518",
+        "2077300005",
+        "2122984309",
+        "2139172211",
+        "2616341659"
+    ]
+}

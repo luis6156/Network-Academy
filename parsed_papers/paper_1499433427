@@ -1,0 +1,37 @@
+{
+    "id": "1499433427",
+    "title": "Utilizing staging tables in data integration to load data into materialized views",
+    "venue": "computational intelligence and security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ahmed Ejaz",
+            "id": "2658192586",
+            "org": "Information and Computer Science Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia#TAB#"
+        },
+        {
+            "name": "Revett Kenneth",
+            "id": "2277231687",
+            "org": "Department of Computing and Information System, University of Luton, England#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data warehouse",
+        "Computer science",
+        "Data mining",
+        "Data migration",
+        "Data integration",
+        "Database",
+        "Dimensional modeling",
+        "Data quality",
+        "Materialized view",
+        "Data virtualization",
+        "Information integration"
+    ],
+    "references": [
+        "1515520450",
+        "1556253886",
+        "1569134435",
+        "1970587873"
+    ]
+}

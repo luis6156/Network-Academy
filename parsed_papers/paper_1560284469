@@ -1,0 +1,41 @@
+{
+    "id": "1560284469",
+    "title": "Note on Fast Computation of Secret RSA Exponents",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Wieland Fischer",
+            "id": "2135426620",
+            "org": "Infineon Technologies Corporation"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2727304887",
+            "org": "Infineon Technologies Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Coprime integers",
+        "Discrete mathematics",
+        "Computation",
+        "Distributed computing",
+        "Bit-length",
+        "Coprocessor",
+        "Chinese remainder theorem",
+        "Public-key cryptography",
+        "Key generation"
+    ],
+    "references": [
+        "1601624599",
+        "1644344319",
+        "1660562555",
+        "1671031071",
+        "1996360405",
+        "2066425771",
+        "2091826091"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1584023462",
+    "title": "PACA: A Cooperative File System Cache for Parallel Machines",
+    "venue": "european conference on parallel processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Toni Cortes",
+            "id": "2127228213",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Sergi Girona",
+            "id": "2161088577",
+            "org": "Universitat Politecnica de Catalunya"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Universitat Politecnica de Catalunya"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Cache stampede",
+        "Distributed computing",
+        "Computer science",
+        "MESI protocol",
+        "Cache pollution",
+        "Cache invalidation"
+    ],
+    "references": [
+        "1491490998",
+        "1981730822",
+        "2007415020",
+        "2012643955",
+        "2025413686",
+        "2064421917",
+        "2077967211",
+        "2147909647"
+    ]
+}

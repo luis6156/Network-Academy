@@ -1,0 +1,43 @@
+{
+    "id": "1608133301",
+    "title": "Solving SAT for CNF Formulas with a One-Sided Restriction on Variable Occurrences",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Daniel Johannsen",
+            "id": "2130155441",
+            "org": "Max-Planck-Institut fur Informatik, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Igor Razgon",
+            "id": "1968425599",
+            "org": "Cork Constraint Computation Centre, University College Cork, Ireland#TAB#"
+        },
+        {
+            "name": "Magnus Wahlstrom",
+            "id": "2097333440",
+            "org": "Max-Planck-Institut fur Informatik, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Branching (version control)",
+        "Combinatorics",
+        "Existential quantification",
+        "True quantified Boolean formula",
+        "Conjunctive normal form",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1534168994",
+        "1573931597",
+        "2049136377",
+        "2104094082",
+        "2126479983",
+        "2159892713",
+        "2171680292"
+    ]
+}

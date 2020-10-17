@@ -1,0 +1,61 @@
+{
+    "id": "1535758606",
+    "title": "Characterizing MPI and Hybrid MPI+Threads Applications at Scale: Case Study with BFS",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Abdelhalim Amer",
+            "id": "2099043691",
+            "org": "Tokyo Inst. of Technol., Tokyo, Japan"
+        },
+        {
+            "name": "Huiwei Lu",
+            "id": "2232255257",
+            "org": "Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Pavan Balaji",
+            "id": "1990703395",
+            "org": "Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Satoshi Matsuoka",
+            "id": "2164966972",
+            "org": "Tokyo Inst. of Technol., Tokyo, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Thread (computing)",
+        "Search algorithm",
+        "Parallel computing",
+        "Memory hierarchy",
+        "Computer science",
+        "Distributed computing",
+        "Gang scheduling",
+        "Instruction set",
+        "Memory management",
+        "Memory model",
+        "Real-time computing"
+    ],
+    "references": [
+        "1552387776",
+        "1562536132",
+        "1579891937",
+        "1603189358",
+        "1990294766",
+        "2006007301",
+        "2018481625",
+        "2021685712",
+        "2034714579",
+        "2041190562",
+        "2048150445",
+        "2071249960",
+        "2127063935",
+        "2128826935",
+        "2137874317",
+        "2138782497",
+        "2166834428"
+    ]
+}

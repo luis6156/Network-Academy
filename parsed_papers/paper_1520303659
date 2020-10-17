@@ -1,0 +1,55 @@
+{
+    "id": "1520303659",
+    "title": "A constraint-based formalism for consistency in replicated systems",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marc Shapiro",
+            "id": "2274888956",
+            "org": "Microsoft Research, Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Karthikeyan Bhargavan",
+            "id": "392089535",
+            "org": "Microsoft Research, Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Nishith Krishna",
+            "id": "2309544345",
+            "org": "Compter Science Department, Courant Institute, New York University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Sequential consistency",
+        "Release consistency",
+        "Distributed computing",
+        "Weak consistency",
+        "Local consistency",
+        "Strong consistency",
+        "Eventual consistency",
+        "Causal consistency",
+        "Consistency model"
+    ],
+    "references": [
+        "1545155892",
+        "1638372782",
+        "1838390960",
+        "1855065956",
+        "1973501242",
+        "2041020905",
+        "2043077080",
+        "2043671329",
+        "2050731094",
+        "2097218702",
+        "2101939036",
+        "2107320858",
+        "2110568694",
+        "2117260615",
+        "2118871086",
+        "2151943351",
+        "2152746211",
+        "2295541535"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "1588625941",
+    "title": "On the Design and Implementation of Structured P2P VPNs",
+    "venue": "arXiv: Networking and Internet Architecture",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "David Isaac Wolinsky",
+            "id": "1974134196",
+            "org": "University of Florida|Clemson University"
+        },
+        {
+            "name": "Linton Abraham",
+            "id": "2486880394",
+            "org": "University of Florida|Clemson University"
+        },
+        {
+            "name": "Kyungyong Lee",
+            "id": "2159270397",
+            "org": "University of Florida|Clemson University"
+        },
+        {
+            "name": "Yonggang Liu",
+            "id": "2170990023",
+            "org": "University of Florida|Clemson University"
+        },
+        {
+            "name": "Jiangyan Xu",
+            "id": "2155684414",
+            "org": "University of Florida|Clemson University"
+        },
+        {
+            "name": "P. Oscar Boykin",
+            "id": "2267980354",
+            "org": "University of Florida|Clemson University"
+        },
+        {
+            "name": "Renato J. O. Figueiredo",
+            "id": "2104262328",
+            "org": "University of Florida|Clemson University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Public key infrastructure",
+        "Computer science",
+        "Distributed computing",
+        "Internet traffic",
+        "Private network",
+        "Reference implementation",
+        "NAT traversal",
+        "Computer network",
+        "Trusted third party",
+        "Architecture"
+    ],
+    "references": [
+        "1483904142",
+        "1550768496",
+        "1564854496",
+        "1605643211",
+        "1643947153",
+        "1991307651",
+        "1996497509",
+        "2009572363",
+        "2013477342",
+        "2056990020",
+        "2101296223",
+        "2110412008",
+        "2117308707",
+        "2118428193",
+        "2123820820",
+        "2134809011",
+        "2134864026",
+        "2142449826",
+        "2156874421",
+        "2158049821",
+        "2161031030",
+        "2163059190",
+        "2167898414",
+        "2168014536",
+        "2173213060",
+        "2539398153"
+    ]
+}

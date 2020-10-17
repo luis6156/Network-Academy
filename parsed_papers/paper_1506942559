@@ -1,0 +1,55 @@
+{
+    "id": "1506942559",
+    "title": "Speedup Prediction for Selective Compilation of Embedded Java Programs",
+    "venue": "embedded software",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Vincent Colin de Verdiere",
+            "id": "2049605028",
+            "org": "Silicomp Research Institute"
+        },
+        {
+            "name": "Sebastien Cros",
+            "id": "2282091935",
+            "org": "Silicomp Research Institute"
+        },
+        {
+            "name": "Christian Fabre",
+            "id": "2801082755",
+            "org": "Silicomp Research Institute"
+        },
+        {
+            "name": "Romain Guider",
+            "id": "2684795424",
+            "org": "Silicomp Research Institute"
+        },
+        {
+            "name": "Sergio Yovine",
+            "id": "2096597339",
+            "org": "Verimag"
+        }
+    ],
+    "fields_of_study": [
+        "Java Modeling Language",
+        "Java",
+        "Parallel computing",
+        "Computer architecture",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Java concurrency",
+        "strictfp",
+        "Dynamic compilation",
+        "Java compiler"
+    ],
+    "references": [
+        "1490695841",
+        "1506090700",
+        "1508742040",
+        "1532050892",
+        "1547678654",
+        "1976811558",
+        "2007920703"
+    ]
+}

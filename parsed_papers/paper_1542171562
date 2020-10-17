@@ -1,0 +1,42 @@
+{
+    "id": "1542171562",
+    "title": "New worst-case upper bound for #2-SAT and #3-SAT with the number of clauses as the parameter",
+    "venue": "national conference on artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Junping Zhou",
+            "id": "2098999239",
+            "org": "College of Computer Science and Technology, Jilin University, Changchun, P. R. China and College of Computer, Northeast Normal University, Changchun, P. R. China#TAB#"
+        },
+        {
+            "name": "Minghao Yin",
+            "id": "2777919167",
+            "org": "College of Computer, Northeast Normal University, Changchun, P. R. China and Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education, Changchun, P. R. China#TAB#"
+        },
+        {
+            "name": "Chunguang Zhou",
+            "id": "2658132514",
+            "org": "College of Computer Science and Technology, Jilin University, Changchun, P. R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Computer science",
+        "#P-complete",
+        "#SAT",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "189719929",
+        "207488477",
+        "1501301539",
+        "1564428908",
+        "1748004346",
+        "1996980357",
+        "2030227772",
+        "2042764910",
+        "2114267503"
+    ]
+}

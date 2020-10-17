@@ -1,0 +1,81 @@
+{
+    "id": "1656156931",
+    "title": "Effects of registration regularization and atlas sharpness on segmentation accuracy",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "B. T. Thomas Yeo",
+            "id": "2261424071",
+            "org": "Computer Science and Artificial Intelligence Lab, MIT#TAB#"
+        },
+        {
+            "name": "Mert R. Sabuncu",
+            "id": "1207328436",
+            "org": "Computer Science and Artificial Intelligence Lab, MIT#TAB#"
+        },
+        {
+            "name": "Rahul S. Desikan",
+            "id": "1798390292",
+            "org": "Boston University School of Medicine#TAB#"
+        },
+        {
+            "name": "Bruce Fischl",
+            "id": "610238476",
+            "org": "Athinoula A. Martinos Center for Biomedical Imaging, MGH, MIT, HMS#TAB#"
+        },
+        {
+            "name": "Polina Golland",
+            "id": "289127100",
+            "org": "Computer Science and Artificial Intelligence Lab, MIT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Regularization (mathematics)",
+        "Markov random field",
+        "Probabilistic logic",
+        "Atlas (anatomy)",
+        "Labeled data",
+        "Fidelity",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1545349697",
+        "1550222568",
+        "1577109989",
+        "1586870336",
+        "1591850564",
+        "1601713967",
+        "1660709469",
+        "1712329996",
+        "1802062438",
+        "1994954091",
+        "2000732749",
+        "2018662705",
+        "2044069866",
+        "2047078083",
+        "2079158221",
+        "2080421862",
+        "2089128627",
+        "2092608958",
+        "2101135654",
+        "2105086806",
+        "2111677918",
+        "2118151463",
+        "2122034173",
+        "2130686832",
+        "2144132747",
+        "2144368342",
+        "2148444276",
+        "2149466360",
+        "2150601424",
+        "2153798798",
+        "2155963684",
+        "2165122923",
+        "2166916666"
+    ]
+}

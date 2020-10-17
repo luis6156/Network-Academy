@@ -1,0 +1,43 @@
+{
+    "id": "1541703086",
+    "title": "Cryptanalysis of Skipjack reduced to 31 rounds using impossible differentials",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion--Israel Institute of Technology, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "Applied Mathematics Department, Technion--Israel Institute of Technology, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Department of Applied Mathematics and Computer Science, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XSL attack",
+        "Integral cryptanalysis",
+        "Algorithm",
+        "Computer science",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Slide attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Skipjack"
+    ],
+    "references": [
+        "106933294",
+        "1481631217",
+        "1541853791",
+        "1964723977",
+        "1979802565",
+        "2081451319"
+    ]
+}

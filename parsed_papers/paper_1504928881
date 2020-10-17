@@ -1,0 +1,61 @@
+{
+    "id": "1504928881",
+    "title": "A Mechanized Proof of Loop Freedom of the (Untimed) AODV Routing Protocol",
+    "venue": "automated technology for verification and analysis",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Timothy Bourke",
+            "id": "2075296687",
+            "org": "INRIA Paris-Rocquencourt"
+        },
+        {
+            "name": "Rob J. van Glabbeek",
+            "id": "2168271037",
+            "org": "NICTA"
+        },
+        {
+            "name": "Peter Hofner",
+            "id": "2524421411",
+            "org": "NICTA"
+        }
+    ],
+    "fields_of_study": [
+        "Wireless mesh network",
+        "Routing protocol",
+        "Theoretical computer science",
+        "Proof assistant",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic Source Routing",
+        "Network packet",
+        "Exploit",
+        "HOL",
+        "Ad hoc On-Demand Distance Vector Routing"
+    ],
+    "references": [
+        "85190413",
+        "1481578403",
+        "1499941466",
+        "1528659016",
+        "1531470722",
+        "1537178853",
+        "1540180001",
+        "1594381772",
+        "1597955218",
+        "1626908390",
+        "2033871392",
+        "2035405585",
+        "2056339657",
+        "2070750095",
+        "2075281553",
+        "2099574482",
+        "2102258543",
+        "2106192381",
+        "2129206017",
+        "2133126578",
+        "2166944982",
+        "2394778093",
+        "2611515161"
+    ]
+}

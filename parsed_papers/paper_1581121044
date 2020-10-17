@@ -1,0 +1,52 @@
+{
+    "id": "1581121044",
+    "title": "Preprocessing for fast refreshing materialized views in DB2",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wugang Xu",
+            "id": "2119874701",
+            "org": "New Jersey Institute of Technology#TAB#"
+        },
+        {
+            "name": "Calisto Zuzarte",
+            "id": "2139751229",
+            "org": "IBM Canada Ltd.#TAB#"
+        },
+        {
+            "name": "Dimitri Theodoratos",
+            "id": "2284486907",
+            "org": "New Jersey Institute of Technology#TAB#"
+        },
+        {
+            "name": "Wenbin Ma",
+            "id": "2217374828",
+            "org": "IBM Canada Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "View",
+        "Query expansion",
+        "Data warehouse",
+        "Computer science",
+        "Data mining",
+        "Web query classification",
+        "Database",
+        "Query optimization",
+        "Materialized view",
+        "Sargable",
+        "Knowledge extraction"
+    ],
+    "references": [
+        "146922646",
+        "1586434403",
+        "1975968096",
+        "2058978608",
+        "2068901259",
+        "2072271542",
+        "2096674153",
+        "2112100026",
+        "2152191782"
+    ]
+}

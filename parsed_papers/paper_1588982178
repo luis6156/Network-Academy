@@ -1,0 +1,43 @@
+{
+    "id": "1588982178",
+    "title": "Transaction generators: root kits for web",
+    "venue": "usenix conference on hot topics in security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Collin Jackson",
+            "id": "2135217518",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "John C. Mitchell",
+            "id": "2125383417",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet privacy",
+        "Computer science",
+        "Login",
+        "Computer security",
+        "OpenID",
+        "Password",
+        "Distributed transaction",
+        "Authentication",
+        "Strong authentication",
+        "Phishing",
+        "Database transaction"
+    ],
+    "references": [
+        "1607915502",
+        "2010608681",
+        "2030993695",
+        "2113167642",
+        "2148327104"
+    ]
+}

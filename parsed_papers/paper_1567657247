@@ -1,0 +1,102 @@
+{
+    "id": "1567657247",
+    "title": "MOVE: An End-to-End Solution To Network Denial of Service",
+    "venue": "network and distributed system security symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Angelos Stavrou",
+            "id": "2251358113",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Angelos D. Keromytis",
+            "id": "299775663",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Jason Nieh",
+            "id": "2241681790",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Vishal Misra",
+            "id": "2202840633",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Dan Rubenstein",
+            "id": "2103752196",
+            "org": "Columbia University"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "End user",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Latency (engineering)",
+        "Server",
+        "PlanetLab",
+        "End-to-end principle",
+        "Process migration",
+        "Computer network",
+        "Overlay network"
+    ],
+    "references": [
+        "206164581",
+        "1487878019",
+        "1508882636",
+        "1518154917",
+        "1520068592",
+        "1563061804",
+        "1577581800",
+        "1579863784",
+        "1593334954",
+        "1599890279",
+        "1603565383",
+        "1655958391",
+        "1675137049",
+        "1717413452",
+        "1733713784",
+        "1967612926",
+        "1967949770",
+        "1974319290",
+        "1985454260",
+        "2000392046",
+        "2001968297",
+        "2005708967",
+        "2018501701",
+        "2020765652",
+        "2056980397",
+        "2081357650",
+        "2082740622",
+        "2098334439",
+        "2099256741",
+        "2105340904",
+        "2116142433",
+        "2117492729",
+        "2118428193",
+        "2118487884",
+        "2118878434",
+        "2119030343",
+        "2125513999",
+        "2132957552",
+        "2133087198",
+        "2135133422",
+        "2136262545",
+        "2139153904",
+        "2143629476",
+        "2145185087",
+        "2155444313",
+        "2157413319",
+        "2157801087",
+        "2159160833",
+        "2162133150",
+        "2165080990",
+        "2170771030",
+        "2170852315",
+        "2171853593"
+    ]
+}

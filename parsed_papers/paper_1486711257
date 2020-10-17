@@ -1,0 +1,46 @@
+{
+    "id": "1486711257",
+    "title": "Defeating RSA multiply-always and message blinding countermeasures",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Marc F. Witteman",
+            "id": "1990204842",
+            "org": "Riscure BV, Delft, The Netherlands#TAB#"
+        },
+        {
+            "name": "Jasper G. J. van Woudenberg",
+            "id": "2653622363",
+            "org": "Riscure BV, Delft, The Netherlands#TAB#"
+        },
+        {
+            "name": "Federico Menarini",
+            "id": "2224613779",
+            "org": "Riscure BV, Delft, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blinding",
+        "Countermeasure",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Modular exponentiation",
+        "Smart card",
+        "Modular design"
+    ],
+    "references": [
+        "1515200869",
+        "1563765474",
+        "1565369953",
+        "1601001795",
+        "1604304084",
+        "1613874182",
+        "1664808737",
+        "1789043777",
+        "1996360405",
+        "2119397824",
+        "2154909745"
+    ]
+}

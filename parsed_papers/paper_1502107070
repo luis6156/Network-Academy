@@ -1,0 +1,40 @@
+{
+    "id": "1502107070",
+    "title": "Nested Actions in Eos",
+    "venue": "POS",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Laurent Daynes",
+            "id": "2753024912",
+            "org": "INRIA Rocquencburt"
+        },
+        {
+            "name": "Olivier Gruber",
+            "id": "2309587451",
+            "org": "INRIA Rocquencburt"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Mutual exclusion",
+        "Distributed computing",
+        "Persistence (computer science)",
+        "Distributed object",
+        "Atomicity",
+        "Real-time computing"
+    ],
+    "references": [
+        "51427095",
+        "1592327060",
+        "1680399761",
+        "2001738739",
+        "2039179345",
+        "2055593834",
+        "2068387890",
+        "2097174266",
+        "2133883933",
+        "2154067205",
+        "2156325860"
+    ]
+}

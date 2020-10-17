@@ -1,0 +1,53 @@
+{
+    "id": "161813961",
+    "title": "Automatic OpenMP loop scheduling: a combined compiler and runtime approach",
+    "venue": "international workshop on openmp",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Peter Thoman",
+            "id": "783461622",
+            "org": "Distributed and Parallel Systems Group, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Herbert Jordan",
+            "id": "2184702111",
+            "org": "Distributed and Parallel Systems Group, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Simone Pellegrini",
+            "id": "2098790856",
+            "org": "Distributed and Parallel Systems Group, University of Innsbruck, Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "Distributed and Parallel Systems Group, University of Innsbruck, Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop scheduling",
+        "Loop interchange",
+        "Parallel computing",
+        "Loop inversion",
+        "Computer science",
+        "Compiler",
+        "Scheduling (computing)",
+        "Polytope model",
+        "Runtime system",
+        "Loop fission",
+        "Real-time computing"
+    ],
+    "references": [
+        "93759649",
+        "163929072",
+        "1503508068",
+        "1598202309",
+        "1600065697",
+        "1876714082",
+        "2034761517",
+        "2101285930",
+        "2150303942",
+        "2166536280"
+    ]
+}

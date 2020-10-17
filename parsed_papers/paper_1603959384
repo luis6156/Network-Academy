@@ -1,0 +1,51 @@
+{
+    "id": "1603959384",
+    "title": "Language Identification based on n-gram Frequency Ranking",
+    "venue": "conference of the international speech communication association",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ricardo de Cordoba",
+            "id": "2170103298",
+            "org": "Technical University of Madrid"
+        },
+        {
+            "name": "Luis Fernando D'Haro",
+            "id": "269240823",
+            "org": "Speech Technology Group | Dept . of Electronic Engineering | Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Fernando Fernandez-Martinez",
+            "id": "2024441849",
+            "org": "Technical University of Madrid"
+        },
+        {
+            "name": "Javier Macias Guarasa",
+            "id": "87120623",
+            "org": "Technical University of Madrid"
+        },
+        {
+            "name": "Javier Ferreiros",
+            "id": "1978583619",
+            "org": "Technical University of Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Trigram",
+        "Language identification",
+        "Pattern recognition",
+        "Computer science",
+        "Ranking",
+        "Ranking SVM",
+        "n-gram",
+        "Categorization",
+        "Ranking (information retrieval)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "111397618",
+        "2142730757",
+        "2172287020"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1571190231",
+    "title": "An Analysis of UNIX System Configuration",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Remy Evard",
+            "id": "269704811",
+            "org": "Argonne National Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "File descriptor",
+        "Unix file types",
+        "resolv.conf",
+        "Computer science",
+        "Unix filesystem",
+        "Software configuration management",
+        "Unix architecture",
+        "Unix",
+        "Operating system",
+        "fstab"
+    ],
+    "references": [
+        "38004020",
+        "50018512",
+        "79073582",
+        "117869007",
+        "161547014",
+        "1589725822"
+    ]
+}

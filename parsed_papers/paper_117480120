@@ -1,0 +1,82 @@
+{
+    "id": "117480120",
+    "title": "Identity-Based Encryption Secure against Selective Opening Chosen-Ciphertext Attack",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Junzuo Lai",
+            "id": "2127546327",
+            "org": "Jinan University"
+        },
+        {
+            "name": "Robert H. Deng",
+            "id": "2062283694",
+            "org": "Singapore Management University"
+        },
+        {
+            "name": "Shengli Liu",
+            "id": "2199883685",
+            "org": "Shanghai Jiao Tong University"
+        },
+        {
+            "name": "Jian Weng",
+            "id": "2136293085",
+            "org": "Jinan University"
+        },
+        {
+            "name": "Yunlei Zhao",
+            "id": "2170611247",
+            "org": "Fudan University, SKLOIS"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Optimal asymmetric encryption padding",
+        "Watermarking attack",
+        "Computer science",
+        "Plaintext-aware encryption",
+        "Computer security",
+        "Ciphertext indistinguishability",
+        "Chosen-plaintext attack",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "65874733",
+        "104181891",
+        "1484751769",
+        "1522101599",
+        "1532564510",
+        "1549397354",
+        "1590654318",
+        "1591073929",
+        "1685408799",
+        "1704651099",
+        "1798609567",
+        "1807462631",
+        "1973801321",
+        "1988512541",
+        "2036149657",
+        "2067047774",
+        "2096218735",
+        "2096430557",
+        "2096778698",
+        "2098259215",
+        "2102090397",
+        "2114010645",
+        "2118385436",
+        "2138669153",
+        "2140005461",
+        "2147436724",
+        "2151471396",
+        "2152783950",
+        "2153971105",
+        "2154078507",
+        "2157679418",
+        "2163423973",
+        "2169026504",
+        "2177399963",
+        "2572799557"
+    ]
+}

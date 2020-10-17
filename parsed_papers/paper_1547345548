@@ -1,0 +1,46 @@
+{
+    "id": "1547345548",
+    "title": "Bitslice implementation of AES",
+    "venue": "cryptology and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Chester Rebeiro",
+            "id": "2057146102",
+            "org": "Real Time Systems Group, Centre For Development of Advanced Computing, Bangalore, India#TAB#"
+        },
+        {
+            "name": "A. David Selvakumar",
+            "id": "2231135994",
+            "org": "Real Time Systems Group, Centre For Development of Advanced Computing, Bangalore, India#TAB#"
+        },
+        {
+            "name": "A. S. L. Devi",
+            "id": "2398822682",
+            "org": "Real Time Systems Group, Centre For Development of Advanced Computing, Bangalore, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Supercomputer",
+        "Parallel computing",
+        "SIMD",
+        "Microprocessor",
+        "Computer science",
+        "Encryption",
+        "Instruction set",
+        "Pentium",
+        "Architecture"
+    ],
+    "references": [
+        "1488058190",
+        "1522297845",
+        "1524976612",
+        "1547899855",
+        "1548516269",
+        "2099179520",
+        "2127752881",
+        "2143442685",
+        "2149174385"
+    ]
+}

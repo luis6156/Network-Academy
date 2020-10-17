@@ -1,0 +1,51 @@
+{
+    "id": "1553962486",
+    "title": "Monotone deterministic RL-Automata don't need auxiliary symbols",
+    "venue": "developments in language theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tomasz Jurdzinski",
+            "id": "348992377",
+            "org": "Institute of Computer Science, University of Wroclaw, Wroclaw, Poland#TAB#"
+        },
+        {
+            "name": "Frantisek Mraz",
+            "id": "1969032849",
+            "org": "Faculty of Mathematics and Physics, Department of Computer Science, Charles University, PRAHA 1, Czech Republic#TAB#"
+        },
+        {
+            "name": "Friedrich Otto",
+            "id": "2260963057",
+            "org": "Fachbereich Mathematik/Informatik, Universitat Kassel, Kassel, Germany#TAB#"
+        },
+        {
+            "name": "Martin Platek",
+            "id": "2128508079",
+            "org": "Faculty of Mathematics and Physics, Department of Computer Science, Charles University, PRAHA 1, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Deterministic context-free language",
+        "Discrete mathematics",
+        "Quantum finite automata",
+        "Deterministic automaton",
+        "Monotone polygon",
+        "Deterministic pushdown automaton",
+        "Pushdown automaton",
+        "Deterministic context-free grammar",
+        "Nested word"
+    ],
+    "references": [
+        "1481697503",
+        "1485378922",
+        "1546663202",
+        "1562935500",
+        "1867446189",
+        "2072604204",
+        "2401238702",
+        "2514259333"
+    ]
+}

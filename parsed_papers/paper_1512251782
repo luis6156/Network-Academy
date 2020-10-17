@@ -1,0 +1,49 @@
+{
+    "id": "1512251782",
+    "title": "DNS prefetching and its privacy implications: when good things go bad",
+    "venue": "usenix conference on large scale exploits and emergent threats",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Srinivas Krishnan",
+            "id": "2103858417",
+            "org": "Department of Computer Science, University of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "Fabian Monrose",
+            "id": "126037460",
+            "org": "Department of Computer Science, University of North Carolina at Chapel Hill#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Computer science",
+        "Instruction prefetch",
+        "Resolver",
+        "Adversary",
+        "Computer security",
+        "Inference",
+        "Internet privacy",
+        "The Internet"
+    ],
+    "references": [
+        "1486318496",
+        "1562983960",
+        "1581184532",
+        "1828150029",
+        "1973027398",
+        "1985961858",
+        "1988942367",
+        "2040210405",
+        "2059369047",
+        "2102671922",
+        "2128629010",
+        "2142144955",
+        "2148275477",
+        "2165021785",
+        "2165071399",
+        "2168282297",
+        "2341242298",
+        "2886616081"
+    ]
+}

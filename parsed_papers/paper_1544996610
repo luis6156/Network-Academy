@@ -1,0 +1,40 @@
+{
+    "id": "1544996610",
+    "title": "Multi-block collisions in hash functions based on 3c and 3c+ enhancements of the merkle-damgard construction",
+    "venue": "international conference on information security and cryptology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daniel Joscak",
+            "id": "86131441",
+            "org": "Faculty of Mathematics and Physics, Department of Algebra, Charles University in Prague, Prague 8, Czech Republic#TAB#"
+        },
+        {
+            "name": "Jiri Tuma",
+            "id": "2596910677",
+            "org": "Faculty of Mathematics and Physics, Department of Algebra, Charles University in Prague, Prague 8, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Merkle-Damgard construction",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "SWIFFT",
+        "Hash function",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1656731780",
+        "2009872679",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2133252868",
+        "2394910287"
+    ]
+}

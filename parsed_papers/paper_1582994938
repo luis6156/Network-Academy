@@ -1,0 +1,46 @@
+{
+    "id": "1582994938",
+    "title": "Design and implementation of a flexible traffic controller for ATM connections",
+    "venue": "HPN '97 Proceedings of the IFIP TC6 seventh international conference on High performance netwoking VII",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Leila Lamti",
+            "id": "2051192899",
+            "org": "Ecole Nationale Superieure des Telecommunications de Bretagne"
+        },
+        {
+            "name": "Hossam Afifi",
+            "id": "2307924393",
+            "org": "Ecole Nationale Superieure des Telecommunications de Bretagne"
+        },
+        {
+            "name": "Maher Hamdi",
+            "id": "2306048265",
+            "org": "Ecole Nationale Superieure des Telecommunications de Bretagne"
+        }
+    ],
+    "fields_of_study": [
+        "Generic cell rate algorithm",
+        "Asynchronous Transfer Mode",
+        "Control theory",
+        "Token bucket",
+        "Traffic policing",
+        "Traffic contract",
+        "Traffic shaping",
+        "Computer network",
+        "Real-time computing",
+        "Engineering",
+        "Leaky bucket"
+    ],
+    "references": [
+        "1580674457",
+        "1731416698",
+        "1973714704",
+        "2001369482",
+        "2066049387",
+        "2067891107",
+        "2118040869",
+        "2753542457"
+    ]
+}

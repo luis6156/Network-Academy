@@ -1,0 +1,36 @@
+{
+    "id": "1822341686",
+    "title": "Propagation of Roundoff Errors in Finite Precision Computations: A Semantics Approach",
+    "venue": "european symposium on programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Matthieu Martel",
+            "id": "2145271959",
+            "org": "CEA - Recherche Technologique LIST-DTSI-SLA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Semantics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computation",
+        "Round-off error",
+        "Abstract interpretation",
+        "Parameterized complexity",
+        "Correctness",
+        "Operational semantics",
+        "Floating point"
+    ],
+    "references": [
+        "1526045365",
+        "1531068736",
+        "1565837554",
+        "2028591972",
+        "2043100293",
+        "2084875723",
+        "2169004268",
+        "2565843813"
+    ]
+}

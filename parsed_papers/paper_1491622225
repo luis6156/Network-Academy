@@ -1,0 +1,47 @@
+{
+    "id": "1491622225",
+    "title": "A stochastic quasi-Newton method for online convex optimization",
+    "venue": "international conference on artificial intelligence and statistics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nicol N. Schraudolph",
+            "id": "2778547874",
+            "org": "NICTA"
+        },
+        {
+            "name": "Jin Yu",
+            "id": "2307616684",
+            "org": "Australian National University"
+        },
+        {
+            "name": "Simon Gunter",
+            "id": "2158987803",
+            "org": "NICTA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Proximal gradient methods for learning",
+        "Broyden-Fletcher-Goldfarb-Shanno algorithm",
+        "Ellipsoid method",
+        "Stochastic optimization",
+        "Drift plus penalty",
+        "Stochastic gradient descent",
+        "Gradient descent",
+        "Mathematical optimization",
+        "Proper convex function"
+    ],
+    "references": [
+        "1584535387",
+        "1995103089",
+        "2096071754",
+        "2098921539",
+        "2106164382",
+        "2109189215",
+        "2130984546",
+        "2147880316",
+        "2156515921",
+        "2166347285"
+    ]
+}

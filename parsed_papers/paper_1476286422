@@ -1,0 +1,67 @@
+{
+    "id": "1476286422",
+    "title": "Fault-tolerant finite-element multigrid algorithms with hierarchically compressed asynchronous checkpointing",
+    "venue": "parallel computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Dominik Goddeke",
+            "id": "164129410",
+            "org": "Institute for Applied Analysis and Numerical Simulation, University of Stuttgart, Pfaffenwaldring 57, 70569 Stuttgart, Germany#TAB#"
+        },
+        {
+            "name": "Mirco Altenbernd",
+            "id": "2550684599",
+            "org": "Institute for Applied Analysis and Numerical Simulation, University of Stuttgart, Pfaffenwaldring 57, 70569 Stuttgart, Germany#TAB#"
+        },
+        {
+            "name": "Dirk Ribbrock",
+            "id": "1684495440",
+            "org": "Fakultat fur Mathematik (LS3), TU Dortmund, Vogelpothsweg 87, 44227 Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Root cause",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Algorithm",
+        "Data compression",
+        "Synchronicity",
+        "Asynchronous communication",
+        "Computer science",
+        "Data loss",
+        "Finite element method",
+        "Multigrid method",
+        "Fault tolerance"
+    ],
+    "references": [
+        "145228056",
+        "1506342804",
+        "1568101540",
+        "1630030739",
+        "1779522739",
+        "1980321276",
+        "1981432246",
+        "1984840642",
+        "1985713815",
+        "1986905947",
+        "1993660990",
+        "2021234574",
+        "2023324599",
+        "2035448730",
+        "2038238534",
+        "2040379684",
+        "2070604790",
+        "2072072075",
+        "2077546582",
+        "2083613288",
+        "2088552220",
+        "2104679543",
+        "2105524676",
+        "2113188088",
+        "2122249806",
+        "2132860930",
+        "2136905849",
+        "2138660187"
+    ]
+}

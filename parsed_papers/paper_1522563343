@@ -1,0 +1,57 @@
+{
+    "id": "1522563343",
+    "title": "Protocols and Software for Exploiting Myrinet Clusters",
+    "venue": "international conference on computational science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Patrick Geoffray",
+            "id": "1289951",
+            "org": "Myricom Inc."
+        },
+        {
+            "name": "Congduc Pham",
+            "id": "2470006273",
+            "org": "Laboratoire RESAM, Universite Lyon 1"
+        },
+        {
+            "name": "Loic Prylli",
+            "id": "669904135",
+            "org": "ENS-Lyon"
+        },
+        {
+            "name": "Bernard Tourancheau",
+            "id": "228276202",
+            "org": "SUN Labs France"
+        },
+        {
+            "name": "Roland Westrelin",
+            "id": "120691778",
+            "org": "Laboratoire RESAM, Universite Lyon 1"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Software suite",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Myrinet",
+        "Message Passing Interface",
+        "Active message",
+        "Virtual machine",
+        "Workstation"
+    ],
+    "references": [
+        "1521734293",
+        "1553727810",
+        "1964564149",
+        "1996030720",
+        "2081612620",
+        "2095793442",
+        "2114728910",
+        "2123745836",
+        "2164488397",
+        "2537050437"
+    ]
+}

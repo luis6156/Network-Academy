@@ -1,0 +1,45 @@
+{
+    "id": "1564295073",
+    "title": "A generalization of linear cryptanalysis and the applicability of Matsui's piling-up lemma",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Carlo Harpes",
+            "id": "2208792158",
+            "org": "Swiss Federal Institute of Technology, Signal and Info. Proc. Lab., Zurich#TAB#"
+        },
+        {
+            "name": "Gerhard G. Kramer",
+            "id": "2604074129",
+            "org": "Swiss Federal Institute of Technology, Signal and Info. Proc. Lab., Zurich#TAB#"
+        },
+        {
+            "name": "James L. Massey",
+            "id": "1513199363",
+            "org": "Swiss Federal Institute of Technology, Signal and Info. Proc. Lab., Zurich#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Integral cryptanalysis",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "380217570",
+        "1537206908",
+        "1556727271",
+        "1597936869",
+        "1926480282",
+        "1964723977",
+        "1978695162"
+    ]
+}

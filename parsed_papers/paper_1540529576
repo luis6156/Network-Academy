@@ -1,0 +1,43 @@
+{
+    "id": "1540529576",
+    "title": "Universal Exponentiation Algorithm",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Christophe Clavier",
+            "id": "2516421471",
+            "org": "Gemplus Card International|Card Security Group"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International|Card Security Group"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Exponentiation",
+        "Algorithm",
+        "Discrete mathematics",
+        "Discrete logarithm",
+        "Exponentiation by squaring",
+        "Modular exponentiation",
+        "Provable security",
+        "Addition chain"
+    ],
+    "references": [
+        "1516512945",
+        "1552695147",
+        "1603232528",
+        "1664808737",
+        "2052267638",
+        "2087316303",
+        "2154909745",
+        "2566181608",
+        "2612208439"
+    ]
+}

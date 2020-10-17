@@ -1,0 +1,46 @@
+{
+    "id": "1562214856",
+    "title": "Avfs: an on-access anti-virus file system",
+    "venue": "usenix security symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yevgeniy Miretskiy",
+            "id": "2283887599",
+            "org": "Stony Brook University#TAB#"
+        },
+        {
+            "name": "Abhijith Das",
+            "id": "2287787335",
+            "org": "Stony Brook University#TAB#"
+        },
+        {
+            "name": "Charles P. Wright",
+            "id": "2149435715",
+            "org": "Stony Brook University#TAB#"
+        },
+        {
+            "name": "Erez Zadok",
+            "id": "288563946",
+            "org": "Stony Brook University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Stable storage",
+        "Computer security",
+        "Operating system",
+        "File system"
+    ],
+    "references": [
+        "161866744",
+        "1577629062",
+        "1665167547",
+        "1753288135",
+        "2004310915",
+        "2063524118",
+        "2099964107",
+        "2131132723"
+    ]
+}

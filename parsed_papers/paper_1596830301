@@ -1,0 +1,44 @@
+{
+    "id": "1596830301",
+    "title": "Topology aware process mapping",
+    "venue": "parallel computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sebastian von Alfthan",
+            "id": "1553481199",
+            "org": "Finnish Meteorological Institute, Finland#TAB#"
+        },
+        {
+            "name": "I. Honkonen",
+            "id": "2083368879",
+            "org": "Finnish Meteorological Institute, Finland,Department of Physics, University of Helsinki, Finland#TAB#"
+        },
+        {
+            "name": "M. Palmroth",
+            "id": "1967118918",
+            "org": "Finnish Meteorological Institute, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Network congestion",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Bandwidth (signal processing)",
+        "Message Passing Interface",
+        "Dynamic load testing"
+    ],
+    "references": [
+        "106431406",
+        "1531896033",
+        "2045152743",
+        "2079966248",
+        "2094605327",
+        "2118153741",
+        "2121253712",
+        "2125983045"
+    ]
+}

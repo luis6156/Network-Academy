@@ -1,0 +1,41 @@
+{
+    "id": "1521580745",
+    "title": "Decompiling Java Bytecode: Problems, Traps and Pitfalls",
+    "venue": "compiler construction",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jerome Miecznikowski",
+            "id": "2119093924",
+            "org": "McGill University"
+        },
+        {
+            "name": "Laurie J. Hendren",
+            "id": "2057929015",
+            "org": "McGill University"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Java bytecode",
+        "Java applet",
+        "Generics in Java",
+        "Computer science",
+        "Bytecode",
+        "Java annotation",
+        "Java concurrency",
+        "strictfp",
+        "Programming language"
+    ],
+    "references": [
+        "1482005537",
+        "1498914194",
+        "1536265389",
+        "2002126610",
+        "2059518671",
+        "2083828778",
+        "2097145414",
+        "2105926347",
+        "2157527989"
+    ]
+}

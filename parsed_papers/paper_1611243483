@@ -1,0 +1,87 @@
+{
+    "id": "1611243483",
+    "title": "Block ciphers that are easier to mask: how far can we go?",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Benoit Gerard",
+            "id": "2107041562",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite Catholique de Louvain, Belgium,Direction Generale de l'Armement, France#TAB#"
+        },
+        {
+            "name": "Vincent Grosso",
+            "id": "2165067414",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite Catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "INRIA Paris-Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite Catholique de Louvain, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "Cipher",
+        "Cryptanalysis",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Differential cryptanalysis",
+        "Exploit",
+        "Hash function"
+    ],
+    "references": [
+        "40446008",
+        "97949831",
+        "162464270",
+        "170950682",
+        "1506890909",
+        "1507705751",
+        "1515595447",
+        "1527450129",
+        "1541703086",
+        "1542020576",
+        "1548656471",
+        "1553792294",
+        "1554257389",
+        "1562362230",
+        "1575446397",
+        "1595334710",
+        "1598102953",
+        "1599175145",
+        "1601159549",
+        "1603433154",
+        "1607874478",
+        "1629301835",
+        "1758759527",
+        "1826962815",
+        "1838677899",
+        "1892788402",
+        "1894646615",
+        "1897761346",
+        "1932562570",
+        "1944544385",
+        "1964723977",
+        "2071381324",
+        "2072356129",
+        "2076397729",
+        "2109766996",
+        "2127067821",
+        "2141124495",
+        "2155861318",
+        "2161740631",
+        "2164455525",
+        "2192045618",
+        "2234576048",
+        "2248552015",
+        "2402158772",
+        "2612208439"
+    ]
+}

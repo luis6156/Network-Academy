@@ -1,0 +1,44 @@
+{
+    "id": "1560437791",
+    "title": "Reducing Page Thrashing in Recursive Query Processing",
+    "venue": "FODO '93 Proceedings of the 4th International Conference on Foundations of Data Organization and Algorithms",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Rakesh Agrawal",
+            "id": "2138427228",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Jerry Kiernan",
+            "id": "1980438029",
+            "org": "IBM Almaden Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Thrashing",
+        "Web search query",
+        "Query expansion",
+        "Web query classification",
+        "Distributed computing",
+        "Computer science",
+        "Database",
+        "Online aggregation",
+        "Sargable",
+        "Query optimization",
+        "Page fault"
+    ],
+    "references": [
+        "147240463",
+        "1509415190",
+        "1520815598",
+        "1527916118",
+        "1993504147",
+        "2004982027",
+        "2042078247",
+        "2096035728",
+        "2103709927",
+        "2132063146",
+        "2167527087"
+    ]
+}

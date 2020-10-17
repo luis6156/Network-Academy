@@ -1,0 +1,60 @@
+{
+    "id": "1559341676",
+    "title": "SMART: an integrated multi-action advisor for storage systems",
+    "venue": "usenix annual technical conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Li Yin",
+            "id": "2156316274",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Sandeep M. Uttamchandani",
+            "id": "1886654780",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Madhukar R. Korupolu",
+            "id": "183808301",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Kaladhar Voruganti",
+            "id": "2714737489",
+            "org": "IBM Almaden Research Center#TAB#"
+        },
+        {
+            "name": "Randy H. Katz",
+            "id": "2246122413",
+            "org": "University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Clustered file system",
+        "Computer science",
+        "Data migration",
+        "Workload",
+        "Service level objective",
+        "Bandwidth throttling",
+        "Storage virtualization",
+        "Schedule",
+        "Real-time computing"
+    ],
+    "references": [
+        "140894937",
+        "1531947739",
+        "1585096280",
+        "1672988363",
+        "1981568828",
+        "2001500256",
+        "2010488817",
+        "2062617656",
+        "2074272866",
+        "2101343419",
+        "2117891615",
+        "2138428327",
+        "2168395296"
+    ]
+}

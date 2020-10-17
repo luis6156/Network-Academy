@@ -1,0 +1,52 @@
+{
+    "id": "1552727081",
+    "title": "A delay-based TCP for solving incast problem in data centers",
+    "venue": "international conference on signal and information processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Feng Zheng",
+            "id": "2676828626",
+            "org": "Department of Electronic Engineering, Tsinghua University, Beijing, China 100084"
+        },
+        {
+            "name": "Yongfeng Huang",
+            "id": "2683806773",
+            "org": "Department of Electronic Engineering, Tsinghua University, Beijing, China 100084"
+        },
+        {
+            "name": "Kevin Yin",
+            "id": "2129870146",
+            "org": "Chief Technology & Architecture, Office, Cisco, Beijing, China 100022"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "Computer network",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1515525935",
+        "2037320363",
+        "2056394733",
+        "2066636486",
+        "2071314114",
+        "2114296561",
+        "2119565742",
+        "2123547142",
+        "2132449914",
+        "2133581580",
+        "2148132761",
+        "2160830750",
+        "2163404313",
+        "2173213060"
+    ]
+}

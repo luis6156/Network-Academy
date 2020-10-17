@@ -1,0 +1,38 @@
+{
+    "id": "1718722133",
+    "title": "A simpler construction of CCA2-secure public-key encryption under general assumptions",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yehuda Lindell",
+            "id": "30238620",
+            "org": "IBM T.J. Watson, Hawthorne, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Attribute-based encryption",
+        "Theoretical computer science",
+        "Computer science",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "Commitment scheme",
+        "Probabilistic encryption",
+        "Ciphertext",
+        "Public-key cryptography",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1532874975",
+        "1809974132",
+        "1972792640",
+        "1995926987",
+        "2012045293",
+        "2073210531",
+        "2074594718",
+        "2101803085",
+        "2142968417",
+        "2159339434",
+        "2165111290"
+    ]
+}

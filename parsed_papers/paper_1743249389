@@ -1,0 +1,51 @@
+{
+    "id": "1743249389",
+    "title": "Parallel Computation of Echelon Forms",
+    "venue": "european conference on parallel processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jean-Guillaume Dumas",
+            "id": "2780445585",
+            "org": "LJK-CASYS, UJF, CNRS, Inria, G'INP, UPMF, Grenoble, France"
+        },
+        {
+            "name": "Thierry Gautier",
+            "id": "2059405868",
+            "org": "LIG-MOAIS UJF, CNRS, Inria, G'INP, UPMF, Grenoble, France"
+        },
+        {
+            "name": "Clement Pernet",
+            "id": "2776491381",
+            "org": "LIP-AriC UJF, CNRS, Inria, UCBL, ENS de Lyon, France"
+        },
+        {
+            "name": "Ziad Sultan",
+            "id": "2058435975",
+            "org": "LJK-CASYS, UJF, CNRS, Inria, G'INP, UPMF, Grenoble, France"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Numerical analysis",
+        "Parallel computing",
+        "Discrete mathematics",
+        "Instability",
+        "Matrix (mathematics)",
+        "Combinatorics",
+        "Row echelon form",
+        "LU decomposition",
+        "Linear system",
+        "Parallel algorithm",
+        "Linear algebra"
+    ],
+    "references": [
+        "140014001",
+        "157734009",
+        "1991713476",
+        "2026237859",
+        "2101468865",
+        "2124480634",
+        "2127691925"
+    ]
+}

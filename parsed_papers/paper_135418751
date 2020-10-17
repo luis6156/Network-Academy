@@ -1,0 +1,69 @@
+{
+    "id": "135418751",
+    "title": "Tuning the Level of Concurrency in Software Transactional Memory: An Overview of Recent Analytical, Machine Learning and Mixed Approaches",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Diego Rughetti",
+            "id": "291054876",
+            "org": "DIAG -- Sapienza, University of Rome"
+        },
+        {
+            "name": "Pierangelo Di Sanzo",
+            "id": "684051957",
+            "org": "DIAG -- Sapienza, University of Rome"
+        },
+        {
+            "name": "Alessandro Pellegrini",
+            "id": "2098062036",
+            "org": "DIAG -- Sapienza, University of Rome"
+        },
+        {
+            "name": "Bruno Ciciani",
+            "id": "42720344",
+            "org": "DIAG -- Sapienza, University of Rome"
+        },
+        {
+            "name": "Francesco Quaglia",
+            "id": "1386854556",
+            "org": "DIAG -- Sapienza, University of Rome"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Thrashing",
+        "Multiversion concurrency control",
+        "Machine learning",
+        "Transactional memory",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Concurrency",
+        "Real-time computing",
+        "Software transactional memory",
+        "Isolation (database systems)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1542975293",
+        "1584458283",
+        "1593984632",
+        "1967337063",
+        "1967634593",
+        "2006239620",
+        "2014470984",
+        "2033276376",
+        "2087512116",
+        "2093795952",
+        "2101555342",
+        "2107164729",
+        "2113751407",
+        "2122621236",
+        "2130749812",
+        "2149089882",
+        "2163654949",
+        "2165791323",
+        "2614160902"
+    ]
+}

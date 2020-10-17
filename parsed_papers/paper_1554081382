@@ -1,0 +1,67 @@
+{
+    "id": "1554081382",
+    "title": "Efficient negative databases from cryptographic hash functions",
+    "venue": "international conference on information security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "George Danezis",
+            "id": "22890495",
+            "org": "K.U. Leuven, ESAT, COSIC, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Claudia Diaz",
+            "id": "2158044340",
+            "org": "K.U. Leuven, ESAT, COSIC, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Sebastian Faust",
+            "id": "2654250198",
+            "org": "K.U. Leuven, ESAT, COSIC, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Emilia Kasper",
+            "id": "2100092778",
+            "org": "K.U. Leuven, ESAT, COSIC, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Carmela Troncoso",
+            "id": "2124936434",
+            "org": "K.U. Leuven, ESAT, COSIC, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "K.U. Leuven, ESAT, COSIC, Leuven-Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Negative database",
+        "Collision resistance",
+        "Mathematics",
+        "Theoretical computer science",
+        "Hash chain",
+        "Database",
+        "Hash function",
+        "SWIFFT",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "195801986",
+        "1539343426",
+        "1589034595",
+        "1600401946",
+        "1617851311",
+        "1656731780",
+        "2028201288",
+        "2052267638",
+        "2099317248",
+        "2102632861",
+        "2104633167",
+        "2153193245",
+        "2167006959",
+        "2654278748"
+    ]
+}

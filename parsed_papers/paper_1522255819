@@ -1,0 +1,33 @@
+{
+    "id": "1522255819",
+    "title": "Hash-functions using modulo-N operations",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Marc Girault",
+            "id": "2107238361",
+            "org": "Service d'Etudes communes des Postes et Telecommunications, Caen-Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Secure Hash Standard",
+        "Primary clustering",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Computer science",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing"
+    ],
+    "references": [
+        "1541421768",
+        "1543503103",
+        "1581114570",
+        "1679474142",
+        "2083562020",
+        "2166457424"
+    ]
+}

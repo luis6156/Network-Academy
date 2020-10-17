@@ -1,0 +1,54 @@
+{
+    "id": "1586771003",
+    "title": "Automated test-trace inspection for microcontroller binary code",
+    "venue": "runtime verification",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Thomas Reinbacher",
+            "id": "1908439764",
+            "org": "Embedded Computing Systems Group, Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Jorg Brauer",
+            "id": "2085628850",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Daniel Schachinger",
+            "id": "2033974464",
+            "org": "Embedded Computing Systems Group, Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Andreas Steininger",
+            "id": "1271195864",
+            "org": "Embedded Computing Systems Group, Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Kowalewski",
+            "id": "2077474590",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Microcontroller",
+        "Executable",
+        "Computer science",
+        "Atomic sentence",
+        "Instruction set",
+        "Binary code",
+        "Runtime verification",
+        "Real-time computing"
+    ],
+    "references": [
+        "48442350",
+        "1552908270",
+        "1556566737",
+        "1740522204",
+        "2048327004",
+        "2114642899",
+        "2119965246",
+        "2150593762",
+        "2157739289"
+    ]
+}

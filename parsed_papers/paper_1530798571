@@ -1,0 +1,51 @@
+{
+    "id": "1530798571",
+    "title": "The inverse s-box, non-linear polynomial relations and cryptanalysis of block ciphers",
+    "venue": "AES'04 Proceedings of the 4th international conference on Advanced Encryption Standard",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "2674973965",
+            "org": "Axalto Cryptographic Research & Advanced Security, Louveciennes Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Interpolation attack",
+        "Block size",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Contact analysis"
+    ],
+    "references": [
+        "1699105",
+        "29269980",
+        "1488845236",
+        "1500382400",
+        "1520563459",
+        "1556212265",
+        "1560023496",
+        "1560088258",
+        "1564295073",
+        "1572014279",
+        "1572961947",
+        "1573095851",
+        "1579761987",
+        "1583871653",
+        "1588952639",
+        "1627303988",
+        "1654806544",
+        "1660562555",
+        "1676521748",
+        "1821087317",
+        "2099172492",
+        "2120464016",
+        "2145405854"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1573443721",
+    "title": "Multi-resolution algorithms for building spatial histograms",
+    "venue": "australasian database conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Qing Liu",
+            "id": "2701672892",
+            "org": "School of Computer Science and Engineering, University of New South Wales, Sydney, 2052 NSW, Australia#TAB#"
+        },
+        {
+            "name": "Yidong Yuan",
+            "id": "2151890559",
+            "org": "School of Computer Science and Engineering, University of New South Wales, Sydney, 2052 NSW, Australia#TAB#"
+        },
+        {
+            "name": "Xuemin Lin",
+            "id": "2125481875",
+            "org": "School of Computer Science and Engineering, University of New South Wales, Sydney, 2052 NSW, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Query expansion",
+        "Algorithm",
+        "Computer science",
+        "Data mining",
+        "Selectivity",
+        "Spatial query",
+        "Database",
+        "Histogram",
+        "Disjoint sets",
+        "Spatial database",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1499328747",
+        "1520033739",
+        "1659797312",
+        "1756966286",
+        "1902703732",
+        "1968829657",
+        "2070549533",
+        "2071425575",
+        "2091638028"
+    ]
+}

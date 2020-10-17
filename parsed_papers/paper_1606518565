@@ -1,0 +1,54 @@
+{
+    "id": "1606518565",
+    "title": "Ostia: A Delegating Architecture for Secure System Call Interposition.",
+    "venue": "network and distributed system security symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tal Garfinkel",
+            "id": "1590983864",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Ben Pfaff",
+            "id": "2122690630",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Mendel Rosenblum",
+            "id": "2102969555",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Delegation",
+        "Compromise",
+        "Computer science",
+        "Sandbox (computer security)",
+        "Limiting",
+        "Computer security",
+        "System call",
+        "Architecture"
+    ],
+    "references": [
+        "19830081",
+        "186343359",
+        "206628711",
+        "1516211918",
+        "1517334976",
+        "1576501285",
+        "1941427975",
+        "1979717085",
+        "2006611045",
+        "2039553546",
+        "2066137796",
+        "2108528485",
+        "2115348994",
+        "2117115928",
+        "2133239972",
+        "2143776233",
+        "2145287008",
+        "2169476734",
+        "2886123752"
+    ]
+}

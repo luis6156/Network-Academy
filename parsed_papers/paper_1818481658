@@ -1,0 +1,62 @@
+{
+    "id": "1818481658",
+    "title": "SILENTKNOCK: practical, provably undetectable authentication",
+    "venue": "european symposium on research in computer security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Eugene Y. Vasserman",
+            "id": "175998693",
+            "org": "Computer Science and Engineering, University of Minnesota, Minneapolis, MN#TAB#"
+        },
+        {
+            "name": "Nicholas Hopper",
+            "id": "2106238981",
+            "org": "Computer Science and Engineering, University of Minnesota, Minneapolis, MN#TAB#"
+        },
+        {
+            "name": "John Laxson",
+            "id": "2417157217",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "James Tyra",
+            "id": "1976771312",
+            "org": "Computer Science and Engineering, University of Minnesota, Minneapolis, MN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Pseudorandom number generator",
+        "Host (network)",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Port knocking",
+        "Threat model",
+        "Message authentication code",
+        "Authentication",
+        "Provable security"
+    ],
+    "references": [
+        "1479681406",
+        "1535554763",
+        "1540641082",
+        "1714781699",
+        "1763079358",
+        "1764639440",
+        "1809974132",
+        "2060626729",
+        "2086042811",
+        "2106847401",
+        "2112139527",
+        "2113003815",
+        "2122312526",
+        "2126125735",
+        "2145275507",
+        "2150020069",
+        "2156842992",
+        "2157428729",
+        "2169660454"
+    ]
+}

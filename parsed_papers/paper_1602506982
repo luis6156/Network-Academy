@@ -1,0 +1,50 @@
+{
+    "id": "1602506982",
+    "title": "The Insecurity of Nyberg-Rueppel and Other DSA-Like Signature Schemes with Partially Known Nonces",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Edwin El Mahassni",
+            "id": "284333331",
+            "org": "Macquarie University"
+        },
+        {
+            "name": "Phong Q. Nguyen",
+            "id": "2426635924",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "Igor E. Shparlinski",
+            "id": "2161307673",
+            "org": "Macquarie University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Digital Signature Algorithm",
+        "Small number",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Cryptographic nonce",
+        "Combinatorics",
+        "EdDSA",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme"
+    ],
+    "references": [
+        "1520399166",
+        "1580599221",
+        "1660562555",
+        "1751761265",
+        "1984313153",
+        "1989510734",
+        "2027325533",
+        "2050689197",
+        "2058546698",
+        "2070084604",
+        "2080302839",
+        "2126483728"
+    ]
+}

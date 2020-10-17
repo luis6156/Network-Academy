@@ -1,0 +1,37 @@
+{
+    "id": "1558489817",
+    "title": "An Elliptic Curve Analogue of McCurley's Key Agreement Scheme",
+    "venue": "Proceedings of the 5th IMA Conference on Cryptography and Coding",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Andrew M. Smith",
+            "id": "2591143334",
+            "org": "University of Manchester"
+        },
+        {
+            "name": "Colin Boyd",
+            "id": "2142756370",
+            "org": "University of Manchester"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "S/KEY",
+        "Curve25519",
+        "Elliptic curve Diffie-Hellman",
+        "Mathematical analysis",
+        "Diffie-Hellman key exchange",
+        "Elliptic curve cryptography",
+        "Elliptic curve"
+    ],
+    "references": [
+        "1494149592",
+        "1515644111",
+        "1557014463",
+        "1578644274",
+        "2033535959",
+        "2111310412",
+        "2156186849"
+    ]
+}

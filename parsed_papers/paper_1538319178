@@ -1,0 +1,52 @@
+{
+    "id": "1538319178",
+    "title": "Towards Making Luby-Rackoff Ciphers Optimal and Practical",
+    "venue": "fast software encryption",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Sarvar Patel",
+            "id": "2125066154",
+            "org": "Lucent Technologies"
+        },
+        {
+            "name": "Zulfikar Ramzan",
+            "id": "2778964226",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Ganapathy Subramanian Sundaram",
+            "id": "2489548834",
+            "org": "Lucent Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "S-box",
+        "Computer science",
+        "Distributed computing",
+        "Avalanche effect",
+        "T-function",
+        "Differential cryptanalysis",
+        "CBC-MAC",
+        "Galois/Counter Mode"
+    ],
+    "references": [
+        "1484296207",
+        "1490586645",
+        "1504217304",
+        "1552402248",
+        "1559931973",
+        "1566172292",
+        "1887453827",
+        "1972464518",
+        "1985263989",
+        "2047505738",
+        "2077300005",
+        "2117362057",
+        "2131300413",
+        "2568739026"
+    ]
+}

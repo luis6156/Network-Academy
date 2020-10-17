@@ -1,0 +1,52 @@
+{
+    "id": "1505071416",
+    "title": "Detecting application load imbalance on high end massively parallel systems",
+    "venue": "european conference on parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Luiz DeRose",
+            "id": "1893306346",
+            "org": "Cray Inc., Mendota Heights, MN#TAB#"
+        },
+        {
+            "name": "Bill Homer",
+            "id": "2020574791",
+            "org": "Cray Inc., Mendota Heights, MN#TAB#"
+        },
+        {
+            "name": "Dean Johnson",
+            "id": "2461469278",
+            "org": "Cray Inc., Mendota Heights, MN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Massively parallel",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Performance measurement",
+        "Real-time computing",
+        "Call graph",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "153274108",
+        "1509216981",
+        "1515668834",
+        "1518911419",
+        "1544432721",
+        "1904701476",
+        "1965351873",
+        "2033848632",
+        "2080757712",
+        "2098984303",
+        "2099000434",
+        "2106961628",
+        "2133681296",
+        "2144433126",
+        "2158182626",
+        "2537949677"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1569821321",
+    "title": "Cryptanalysis of the DECT standard cipher",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Karsten Nohl",
+            "id": "168794112",
+            "org": "University of Virginia#TAB#"
+        },
+        {
+            "name": "Erik Tews",
+            "id": "1485344885",
+            "org": "Technische Universitat Darmstadt#TAB#"
+        },
+        {
+            "name": "Ralf-Philipp Weinmann",
+            "id": "2147515735",
+            "org": "University of Luxembourg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Cipher",
+        "Computer science",
+        "Two-square cipher",
+        "Stream cipher",
+        "Differential cryptanalysis",
+        "Embedded system",
+        "Stream cipher attack",
+        "Triple DES",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1513439291",
+        "1544956979",
+        "1571721593",
+        "1854027143",
+        "2097140439",
+        "2102096888",
+        "2142351551",
+        "2162272584",
+        "2406342588"
+    ]
+}

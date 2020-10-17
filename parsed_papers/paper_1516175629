@@ -1,0 +1,66 @@
+{
+    "id": "1516175629",
+    "title": "Optimal Chosen-Ciphertext Secure Encryption of Arbitrary-Length Messages",
+    "venue": "public key cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Helena Handschuh",
+            "id": "1756865753",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "Christophe Tymen",
+            "id": "71261984",
+            "org": "Gemplus Card International"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer science",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Multiple encryption",
+        "On-the-fly encryption"
+    ],
+    "references": [
+        "1516512945",
+        "1552695147",
+        "1561907855",
+        "1589176872",
+        "1589586740",
+        "1594742286",
+        "1607264302",
+        "1677827171",
+        "1871739018",
+        "1901278359",
+        "2052267638",
+        "2073210531",
+        "2161195863"
+    ]
+}

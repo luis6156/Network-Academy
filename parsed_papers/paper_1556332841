@@ -1,0 +1,63 @@
+{
+    "id": "1556332841",
+    "title": "Checking Secure Interactions of Smart Card Applets",
+    "venue": "european symposium on research in computer security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Pierre Bieber",
+            "id": "2162047452",
+            "org": "ONERA-CERT/DTIM"
+        },
+        {
+            "name": "Jacques Cazin",
+            "id": "1887168994",
+            "org": "ONERA-CERT/DTIM"
+        },
+        {
+            "name": "Pierre Girard",
+            "id": "2568195421",
+            "org": "GEMPLUS"
+        },
+        {
+            "name": "Jean Louis Lanet",
+            "id": "1978487427",
+            "org": "GEMPLUS"
+        },
+        {
+            "name": "Virginie Wiels",
+            "id": "342554022",
+            "org": "ONERA-CERT/DTIM"
+        },
+        {
+            "name": "Guy Zanon",
+            "id": "2135494134",
+            "org": "ONERA-CERT/DTIM"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Java applet",
+        "Computer science",
+        "Smart card application protocol data unit",
+        "Computer security",
+        "Embedded system",
+        "Issuer",
+        "Security policy",
+        "Model checking",
+        "Virtual machine",
+        "Smart card"
+    ],
+    "references": [
+        "1488790435",
+        "1547030198",
+        "1554358172",
+        "2057503672",
+        "2080914957",
+        "2102654013",
+        "2105360973",
+        "2136296832",
+        "2153605245",
+        "2154909745"
+    ]
+}

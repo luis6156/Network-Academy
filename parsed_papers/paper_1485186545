@@ -1,0 +1,63 @@
+{
+    "id": "1485186545",
+    "title": "Integrality Property in Preemptive Parallel Machine Scheduling",
+    "venue": "computer science symposium in russia",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Philippe Baptiste",
+            "id": "2005494572",
+            "org": "CNRS, Ecole Polytechnique, Paris, France#TAB#"
+        },
+        {
+            "name": "Jacques Carlier",
+            "id": "1986118520",
+            "org": "CNRS, Heudiasyc, Univ. de Tech. de Compiegne, France#TAB#"
+        },
+        {
+            "name": "Alexander V. Kononov",
+            "id": "2470614820",
+            "org": "Sobolev Institute of Mathematics, Novosibirsk, Russia and Novosibirsk State University, Novosibirsk, Russia#TAB#"
+        },
+        {
+            "name": "Maurice Queyranne",
+            "id": "2695542807",
+            "org": "Faculty of Commerce and Business Administration, University of British Columbia, Vancouver, Canada#TAB#"
+        },
+        {
+            "name": "Sergey Sevastyanov",
+            "id": "2123782472",
+            "org": "Sobolev Institute of Mathematics, Novosibirsk, Russia and Novosibirsk State University, Novosibirsk, Russia#TAB#"
+        },
+        {
+            "name": "Maxim Sviridenko",
+            "id": "2065887407",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Two-level scheduling",
+        "Discrete mathematics",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Nurse scheduling problem",
+        "Fixed-priority pre-emptive scheduling",
+        "Mathematical optimization",
+        "Lottery scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1704392916",
+        "1964198588",
+        "1965437596",
+        "1983676174",
+        "2025235423",
+        "2073821436",
+        "2093229192",
+        "2135728788",
+        "2154964518",
+        "2165799042"
+    ]
+}

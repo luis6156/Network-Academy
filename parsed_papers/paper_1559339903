@@ -1,0 +1,70 @@
+{
+    "id": "1559339903",
+    "title": "Cache-oblivious scheduling of shared workloads",
+    "venue": "international conference on data engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Arian Bar",
+            "id": "2160660165",
+            "org": "Telecommunications Research Center Vienna (FTW), Austria"
+        },
+        {
+            "name": "Lukasz Golab",
+            "id": "2618045780",
+            "org": "University of Waterloo, Canada"
+        },
+        {
+            "name": "Stefan Ruehrup",
+            "id": "2629068711",
+            "org": "Telecommunications Research Center Vienna (FTW), Austria"
+        },
+        {
+            "name": "Mirko Schiavone",
+            "id": "2157416126",
+            "org": "Telecommunications Research Center Vienna (FTW), Austria"
+        },
+        {
+            "name": "Pedro Casas",
+            "id": "2165993933",
+            "org": "Telecommunications Research Center Vienna (FTW), Austria"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Computer science",
+        "Scheduling (production processes)",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Workload",
+        "Database",
+        "Cache-oblivious algorithm",
+        "Schedule",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1185726409",
+        "1586434403",
+        "1987163291",
+        "1990396441",
+        "2030087828",
+        "2036787492",
+        "2038176938",
+        "2060161902",
+        "2060976275",
+        "2086395677",
+        "2089347259",
+        "2095875205",
+        "2112100026",
+        "2112312025",
+        "2118049966",
+        "2126915543",
+        "2129055634",
+        "2130418601",
+        "2157403639",
+        "2157793635",
+        "2158447492",
+        "2247398386"
+    ]
+}

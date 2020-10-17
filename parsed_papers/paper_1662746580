@@ -1,0 +1,66 @@
+{
+    "id": "1662746580",
+    "title": "On the security of RC4 in TLS",
+    "venue": "usenix security symposium",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Nadhem J. AlFardan",
+            "id": "1930669913",
+            "org": "Information Security Group, Royal Holloway, University of London#TAB#"
+        },
+        {
+            "name": "Daniel J. Bernstein",
+            "id": "2572778377",
+            "org": "University of Illinois at Chicago and Technische Universiteit Eindhoven#TAB#"
+        },
+        {
+            "name": "Kenneth G. Paterson",
+            "id": "2101835147",
+            "org": "Information Security Group, Royal Holloway, University of London#TAB#"
+        },
+        {
+            "name": "Bertram Poettering",
+            "id": "148584932",
+            "org": "Information Security Group, Royal Holloway, University of London#TAB#"
+        },
+        {
+            "name": "Jacob C. N. Schuldt",
+            "id": "2892492577",
+            "org": "Information Security Group, Royal Holloway, University of London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Transport Layer Security",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Stream cipher",
+        "RC4",
+        "Authenticated encryption",
+        "Computer network",
+        "Internet privacy",
+        "The Internet",
+        "Plaintext"
+    ],
+    "references": [
+        "26237238",
+        "39401898",
+        "1427983509",
+        "1489993974",
+        "1500414598",
+        "1533182289",
+        "1556597491",
+        "1566979565",
+        "1608372408",
+        "1733713784",
+        "1835780626",
+        "2052366538",
+        "2114197583",
+        "2163005041",
+        "2249059932",
+        "2249289274",
+        "2301760163"
+    ]
+}

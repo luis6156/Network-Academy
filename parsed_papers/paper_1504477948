@@ -1,0 +1,35 @@
+{
+    "id": "1504477948",
+    "title": "On the Algorithmic Properties of Concurrent Programs",
+    "venue": "Logic of Programs, Workshop",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "Andrezej Salwicki",
+            "id": "2094827162",
+            "org": "Polish Academy of Sciences"
+        },
+        {
+            "name": "Tomasz Muldner",
+            "id": "2666857741",
+            "org": "Institute of Mathematical Machines"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Parallel computing",
+        "Shared memory",
+        "Transactional memory",
+        "Computation",
+        "Computer science",
+        "Disjoint sets"
+    ],
+    "references": [
+        "166476781",
+        "1489268458",
+        "1504877800",
+        "1582528610",
+        "2059034970",
+        "2180713429"
+    ]
+}

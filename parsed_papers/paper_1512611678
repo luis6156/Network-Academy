@@ -1,0 +1,41 @@
+{
+    "id": "1512611678",
+    "title": "Tolerating Transient and Permanent Failures (Extended Abstract)",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Efthymios Anagnostou",
+            "id": "2157971111",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Vassos Hadzilacos",
+            "id": "189416989",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Satisfiability",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Self-stabilization",
+        "Asynchronous system",
+        "Distributed algorithm",
+        "Real-time computing",
+        "Upper and lower bounds",
+        "Fault tolerance",
+        "Leader election"
+    ],
+    "references": [
+        "1481761413",
+        "1552521662",
+        "1949242036",
+        "2010875998",
+        "2028772596",
+        "2079002298",
+        "2111132249",
+        "2143063124"
+    ]
+}

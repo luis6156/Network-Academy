@@ -1,0 +1,44 @@
+{
+    "id": "11685540",
+    "title": "Running Ada on real-time linux",
+    "venue": "international conference on reliable software technologies",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Miguel Masmano",
+            "id": "1964370141",
+            "org": "Department of Computer Engineering, Technical University of Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Jorge Real",
+            "id": "2120989405",
+            "org": "Department of Computer Engineering, Technical University of Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Ismael Ripoll",
+            "id": "2152330760",
+            "org": "Department of Computer Engineering, Technical University of Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Alfons Crespo",
+            "id": "2114467277",
+            "org": "Department of Computer Engineering, Technical University of Valencia, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hang",
+        "Crash",
+        "Software",
+        "Computer science",
+        "Compiler",
+        "Protected procedure",
+        "Real-time operating system",
+        "POSIX Threads",
+        "Ada",
+        "Real-time computing"
+    ],
+    "references": [
+        "1495767594",
+        "1694489507"
+    ]
+}

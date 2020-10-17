@@ -1,0 +1,62 @@
+{
+    "id": "1693661933",
+    "title": "Demand based hierarchical QoS using storage resource pools",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ajay Gulati",
+            "id": "2154241030",
+            "org": "VMware Inc#TAB#"
+        },
+        {
+            "name": "Ganesha Shanmuganathan",
+            "id": "2107966785",
+            "org": "VMware Inc#TAB#"
+        },
+        {
+            "name": "Xuechen Zhang",
+            "id": "2157765682",
+            "org": "Wayne State University#TAB#"
+        },
+        {
+            "name": "Peter J. Varman",
+            "id": "139212693",
+            "org": "Rice University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Resource management",
+        "Software system",
+        "Computer science",
+        "Quality of service",
+        "Virtual machine",
+        "Temporal isolation among virtual machines",
+        "Real-time computing",
+        "Spare part"
+    ],
+    "references": [
+        "16408702",
+        "137206813",
+        "174289249",
+        "1569184546",
+        "1594675213",
+        "1991376651",
+        "1994331372",
+        "2001500256",
+        "2036745989",
+        "2071314114",
+        "2073440460",
+        "2097052930",
+        "2101550192",
+        "2111338347",
+        "2121542813",
+        "2123547142",
+        "2124827397",
+        "2143955124",
+        "2144916960",
+        "2146398836",
+        "2156599987"
+    ]
+}

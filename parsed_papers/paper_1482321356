@@ -1,0 +1,48 @@
+{
+    "id": "1482321356",
+    "title": "Byzantine Fault Tolerance, from Theory to Reality",
+    "venue": "international conference on computer safety, reliability, and security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kevin R. Driscoll",
+            "id": "2152157755",
+            "org": "Honeywell International"
+        },
+        {
+            "name": "Brendan Hall",
+            "id": "2164901163",
+            "org": "Honeywell International"
+        },
+        {
+            "name": "Hakan Sivencrona",
+            "id": "2799142589",
+            "org": "Chalmers University of Technology"
+        },
+        {
+            "name": "Phil Zumsteg",
+            "id": "2715114144",
+            "org": "Honeywell International"
+        }
+    ],
+    "fields_of_study": [
+        "Two Generals' Problem",
+        "Computer science",
+        "Distributed computing",
+        "Byzantine fault tolerance",
+        "Dependability",
+        "Byzantine architecture",
+        "Quantum Byzantine agreement",
+        "Systems design",
+        "Fault injection",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1488202922",
+        "1519899252",
+        "1551448594",
+        "2101395364",
+        "2117253172",
+        "2120510885"
+    ]
+}

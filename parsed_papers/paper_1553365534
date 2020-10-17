@@ -1,0 +1,77 @@
+{
+    "id": "1553365534",
+    "title": "DLM: Decentralized Linearized Alternating Direction Method of Multipliers",
+    "venue": "IEEE Transactions on Signal Processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Qing Ling",
+            "id": "2151345885",
+            "org": "Department of Automation, University of Science and Technology of China, Hefei, Anhui, China"
+        },
+        {
+            "name": "Wei Shi",
+            "id": "2307939909",
+            "org": "Department of Automation, University of Science and Technology of China, Hefei, Anhui, China"
+        },
+        {
+            "name": "Gang Wu",
+            "id": "2629100634",
+            "org": "Department of Automation, University of Science and Technology of China, Hefei, Anhui, China"
+        },
+        {
+            "name": "Alejandro Ribeiro",
+            "id": "2118051275",
+            "org": "Department of Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, Pennsylvania, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Gradient method",
+        "Convex function",
+        "Control theory",
+        "Convergence (routing)",
+        "Least squares",
+        "Lipschitz continuity",
+        "Gradient descent",
+        "Logistic regression",
+        "Mathematical optimization",
+        "Rate of convergence"
+    ],
+    "references": [
+        "1503398984",
+        "1537500458",
+        "1549918636",
+        "1578087040",
+        "1616857247",
+        "1700179272",
+        "1913585168",
+        "1964927113",
+        "2000147660",
+        "2037603831",
+        "2044212084",
+        "2046828296",
+        "2051723849",
+        "2056263844",
+        "2066332749",
+        "2105693192",
+        "2108970807",
+        "2112818748",
+        "2123000508",
+        "2123705108",
+        "2129122308",
+        "2130758224",
+        "2134711723",
+        "2144112805",
+        "2148087609",
+        "2151565294",
+        "2157879939",
+        "2158643468",
+        "2163525955",
+        "2164278908",
+        "2168877202",
+        "2171974671",
+        "2171978417",
+        "2217484818"
+    ]
+}

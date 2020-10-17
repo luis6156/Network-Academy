@@ -1,0 +1,54 @@
+{
+    "id": "1591620981",
+    "title": "Unbalanced Feistel Networks and Block Cipher Design",
+    "venue": "fast software encryption",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Format-preserving encryption",
+        "Residual block termination",
+        "Stream cipher",
+        "Triple DES",
+        "Key whitening",
+        "CBC-MAC",
+        "Substitution-permutation network"
+    ],
+    "references": [
+        "1481631217",
+        "1490586645",
+        "1492619099",
+        "1495580669",
+        "1498892963",
+        "1500356409",
+        "1501549751",
+        "1523702841",
+        "1527701244",
+        "1575149347",
+        "1803612032",
+        "1851023053",
+        "1862865750",
+        "1979802565",
+        "1985969574",
+        "2027325533",
+        "2081451319",
+        "2098801947",
+        "2112574687",
+        "2117414032",
+        "2132548943",
+        "2148175069"
+    ]
+}

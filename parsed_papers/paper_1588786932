@@ -1,0 +1,60 @@
+{
+    "id": "1588786932",
+    "title": "Incremental View Maintenance By Base Relation Tagging in Distributed Databases",
+    "venue": "Distributed and Parallel Databases",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "James Bailey",
+            "id": "2131557737",
+            "org": "Department of Computer Science, King's College London, Strand, London WC2R 2LS UK E-mail: james@dcs.kcl.ac.uk#TAB#"
+        },
+        {
+            "name": "Guozhu Dong",
+            "id": "2164298414",
+            "org": "Department of Computer Science, University of Melbourne, Parkville 3052, Australia E-mail: dong@cs.mu.oz.au#TAB#"
+        },
+        {
+            "name": "Mukesh K. Mohania",
+            "id": "254200932",
+            "org": "School of Computer and Information Science, University of South Australia, Mawson Lakes 5095, Australia E-mail: cismkm@cis.unisa.edu.au#TAB#"
+        },
+        {
+            "name": "X. Sean Wang",
+            "id": "2108008679",
+            "org": "Department of Information and Software Systems Engineering, George Mason University, Fairfax, VA 22030, USA E-mail: xywang@isse.gmu.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Maintenance Problem",
+        "Computer science",
+        "Joins",
+        "Uniform distribution (continuous)",
+        "Information retrieval",
+        "Data structure",
+        "Minification",
+        "Materialized view",
+        "Tuple"
+    ],
+    "references": [
+        "152581783",
+        "1545406293",
+        "1812691494",
+        "1814445252",
+        "1973382888",
+        "1996182172",
+        "1998147193",
+        "2009489912",
+        "2011697756",
+        "2012670464",
+        "2015372451",
+        "2102060767",
+        "2116476518",
+        "2117242988",
+        "2131165411",
+        "2134600551",
+        "2163764339",
+        "2170515491"
+    ]
+}

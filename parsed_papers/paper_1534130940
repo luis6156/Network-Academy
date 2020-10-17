@@ -1,0 +1,95 @@
+{
+    "id": "1534130940",
+    "title": "The case for tiny tasks in compute clusters",
+    "venue": "hot topics in operating systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Kay Ousterhout",
+            "id": "2016548615",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Aurojit Panda",
+            "id": "2132478116",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Joshua Rosen",
+            "id": "2507325431",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Shivaram Venkataraman",
+            "id": "2232375382",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Reynold S. Xin",
+            "id": "2059277171",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Sylvia Ratnasamy",
+            "id": "190228929",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Scott Shenker",
+            "id": "719828399",
+            "org": "UC Berkeley and ICSI#TAB#"
+        },
+        {
+            "name": "Ion Stoica",
+            "id": "2161479384",
+            "org": "UC Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Scalability",
+        "Parallel computing",
+        "Batch processing",
+        "Computer science",
+        "Distributed computing",
+        "Cluster (physics)",
+        "Real-time computing",
+        "Skew"
+    ],
+    "references": [
+        "100679602",
+        "1493893823",
+        "1861377444",
+        "1900515362",
+        "1903497807",
+        "1982063824",
+        "1997269120",
+        "2010929544",
+        "2013932952",
+        "2016559894",
+        "2022678927",
+        "2050059756",
+        "2050315205",
+        "2094469165",
+        "2096125134",
+        "2104993419",
+        "2110104287",
+        "2110514750",
+        "2118428193",
+        "2119528150",
+        "2119565742",
+        "2120422789",
+        "2122465391",
+        "2131975293",
+        "2140509629",
+        "2142892618",
+        "2158049821",
+        "2163961697",
+        "2164901581",
+        "2165606466",
+        "2165769837",
+        "2173213060",
+        "2175085668",
+        "2624304035"
+    ]
+}

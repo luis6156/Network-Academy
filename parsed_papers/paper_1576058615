@@ -1,0 +1,44 @@
+{
+    "id": "1576058615",
+    "title": "SDL-Pattern based Development of a Communication Subsystem for CAN",
+    "venue": "formal techniques for networked and distributed systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Birgit Geppert",
+            "id": "2678943818",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "A. Kuehlmeyer",
+            "id": "2314312332",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "Frank Rossler",
+            "id": "2607849442",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "Michael Schneider",
+            "id": "2343253050",
+            "org": "University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Maintainability",
+        "Software",
+        "Computer science",
+        "Communications protocol",
+        "Distributed computing",
+        "CAN bus",
+        "Design language",
+        "Message sequence chart",
+        "Code generation",
+        "Real-time computing",
+        "Design specification"
+    ],
+    "references": [
+        "2125993077"
+    ]
+}

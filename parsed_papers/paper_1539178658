@@ -1,0 +1,63 @@
+{
+    "id": "1539178658",
+    "title": "Impossible Differential Cryptanalysis for Block Cipher Structures",
+    "venue": "international conference on cryptology in india",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Korea University"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2811407219",
+            "org": "Korea Information Security Agency(KISA)"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Korea University"
+        },
+        {
+            "name": "Soohak Sung",
+            "id": "2809794347",
+            "org": "Beajea University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Ciphertext stealing",
+        "Transposition cipher",
+        "Discrete mathematics",
+        "Impossible differential cryptanalysis",
+        "Two-square cipher",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "CBC-MAC"
+    ],
+    "references": [
+        "3926427",
+        "1497721867",
+        "1499170444",
+        "1520002355",
+        "1541703086",
+        "1575149347",
+        "1607372077",
+        "1629301835",
+        "1841463954",
+        "1964723977",
+        "2047674274"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "1533186609",
+    "title": "Generation of Efficient Nested Loops from Polyhedra",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Fabien Quillere",
+            "id": "274779593",
+            "org": "Irisa, Campus de Beaulieu, F-35042 Rennes Cedex, Rennes, France#TAB#"
+        },
+        {
+            "name": "Sanjay V. Rajopadhye",
+            "id": "2461684913",
+            "org": "Irisa, Campus de Beaulieu, F-35042 Rennes Cedex, Rennes, France#TAB#"
+        },
+        {
+            "name": "Doran Wilde",
+            "id": "2112005865",
+            "org": "Brigham Young University, Provo, Utah#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Computer science",
+        "Loop splitting",
+        "Dual code",
+        "Frameworks supporting the polyhedral model",
+        "Polytope model",
+        "Systematic code",
+        "Code generation",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1489798478",
+        "1509560532",
+        "1528152663",
+        "1581546239",
+        "1595858234",
+        "1970141743",
+        "1972784701",
+        "1978762859",
+        "1995270665",
+        "2002252837",
+        "2011771274",
+        "2017032700",
+        "2032391783",
+        "2041294870",
+        "2068562880",
+        "2085376012",
+        "2085551696",
+        "2099758780",
+        "2104084101",
+        "2112059128",
+        "2152506070",
+        "2156455047"
+    ]
+}

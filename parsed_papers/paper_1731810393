@@ -1,0 +1,58 @@
+{
+    "id": "1731810393",
+    "title": "3D/2D model-to-image registration applied to TIPS surgery",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Julien Jomier",
+            "id": "2164410340",
+            "org": "Kitware Inc., Clifton Park, New York#TAB#"
+        },
+        {
+            "name": "Elizabeth Bullitt",
+            "id": "2097299224",
+            "org": "Computer-Assisted Surgery and Imaging Laboratory, Department of Surgery, The University of North Carolina at Chapel Hill, Chapel Hill#TAB#"
+        },
+        {
+            "name": "Mark H. Van Horn",
+            "id": "2492785069",
+            "org": "Computer-Assisted Surgery and Imaging Laboratory, Department of Surgery, The University of North Carolina at Chapel Hill, Chapel Hill#TAB#"
+        },
+        {
+            "name": "Chetna Pathak",
+            "id": "2328077277",
+            "org": "Computer-Assisted Surgery and Imaging Laboratory, Department of Surgery, The University of North Carolina at Chapel Hill, Chapel Hill#TAB#"
+        },
+        {
+            "name": "Stephen R. Aylward",
+            "id": "2167330059",
+            "org": "Kitware Inc., Clifton Park, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Image registration",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Surgery",
+        "Transjugular intrahepatic portosystemic shunt",
+        "Hepatic veins",
+        "Radiographic Image Enhancement",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1505967788",
+        "1556356011",
+        "1576682652",
+        "1599166230",
+        "1602923326",
+        "1605333383",
+        "1811899397",
+        "1865240395",
+        "1870947790",
+        "2131035649",
+        "2134042740",
+        "2134756983"
+    ]
+}

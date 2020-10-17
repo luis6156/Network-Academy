@@ -1,0 +1,60 @@
+{
+    "id": "1749192483",
+    "title": "Integration of grid cost model into ISS/VIOLA meta-scheduler environment",
+    "venue": "european conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "R. Gruber",
+            "id": "2145538635",
+            "org": "Ecole Polytechnique Federale de Lausanne, LIN-STI, Switzerland and CoreGRID#TAB#"
+        },
+        {
+            "name": "Vincent Keller",
+            "id": "2161990100",
+            "org": "Ecole Polytechnique Federale de Lausanne, LIN-STI, Switzerland and CoreGRID#TAB#"
+        },
+        {
+            "name": "Michela Thiemard",
+            "id": "309486043",
+            "org": "Ecole Polytechnique Federale de Lausanne, DIT-EX, Switzerland and CoreGRID#TAB#"
+        },
+        {
+            "name": "Oliver Waldrich",
+            "id": "84700319",
+            "org": "Fraunhofer Gesellschaft, SCAI, St. Augustin, Germany and CoreGRID#TAB#"
+        },
+        {
+            "name": "Philipp Wieder",
+            "id": "2121074600",
+            "org": "Froschungszentrum Julich GmbH, Germany and CoreGRID#TAB#"
+        },
+        {
+            "name": "Wolfgang Ziegler",
+            "id": "2292028617",
+            "org": "Fraunhofer Gesellschaft, SCAI, St. Augustin, Germany and CoreGRID#TAB#"
+        },
+        {
+            "name": "Pierre Manneback",
+            "id": "2296106049",
+            "org": "Faculte Polytechnique de Mons and CETIC, Mons, Belgium and CoreGRID#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Implementation",
+        "Grid",
+        "Function model",
+        "Real-time computing",
+        "Data warehouse",
+        "Free parameter"
+    ],
+    "references": [
+        "1516942492",
+        "2060703241",
+        "2146056050"
+    ]
+}

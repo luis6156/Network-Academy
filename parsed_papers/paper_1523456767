@@ -1,0 +1,46 @@
+{
+    "id": "1523456767",
+    "title": "Loop-Level Process Control: An Effective Processor Allocation Policy for Multiprogrammed Shared-Memory Multiprocessors",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Kelvin K. Yue",
+            "id": "2141820537",
+            "org": "University of Minnesota"
+        },
+        {
+            "name": "David J. Lilja",
+            "id": "202344961",
+            "org": "University of Minnesota"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Cache coloring",
+        "Uniform memory access",
+        "Non-uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Cache-only memory architecture",
+        "Cache pollution",
+        "Real-time computing"
+    ],
+    "references": [
+        "1525016610",
+        "1589576271",
+        "1968504700",
+        "1994464372",
+        "2029804882",
+        "2040582729",
+        "2079641645",
+        "2088993372",
+        "2107550548",
+        "2113985396",
+        "2127218465",
+        "2155723591",
+        "2174818301"
+    ]
+}

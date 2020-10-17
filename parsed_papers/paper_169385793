@@ -1,0 +1,71 @@
+{
+    "id": "169385793",
+    "title": "Converting meet-in-the-middle preimage attack into pseudo collision attack: application to SHA-2",
+    "venue": "fast software encryption",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ji Li",
+            "id": "2247443688",
+            "org": "Sony China Research Laboratory, China#TAB#"
+        },
+        {
+            "name": "Takanori Isobe",
+            "id": "2231071983",
+            "org": "Sony Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Kyoji Shibutani",
+            "id": "2107718852",
+            "org": "Sony Corporation, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Mathematics",
+        "Theoretical computer science",
+        "Birthday attack",
+        "SHA-2",
+        "Preimage attack",
+        "Meet-in-the-middle attack",
+        "Collision attack",
+        "Skein",
+        "Collision"
+    ],
+    "references": [
+        "63858338",
+        "112271350",
+        "1487353416",
+        "1496589496",
+        "1499593564",
+        "1517923646",
+        "1521253015",
+        "1522989667",
+        "1526045302",
+        "1530387410",
+        "1543127173",
+        "1550036077",
+        "1566855226",
+        "1568906052",
+        "1590624619",
+        "1596861772",
+        "1598517024",
+        "1599749320",
+        "1656731780",
+        "1660562555",
+        "1795624981",
+        "1800808134",
+        "1814882979",
+        "1838677899",
+        "1872530698",
+        "2007585625",
+        "2025203646",
+        "2103239853",
+        "2109766996",
+        "2147436724",
+        "2152753665",
+        "2153971105",
+        "2206761661",
+        "2593312089"
+    ]
+}

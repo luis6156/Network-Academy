@@ -1,0 +1,53 @@
+{
+    "id": "1554153316",
+    "title": "Speed records for NTRU",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jens Hermans",
+            "id": "2168755964",
+            "org": "ESAT/SCD-COSIC and IBBT, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Frederik Vercauteren",
+            "id": "2091944293",
+            "org": "ESAT/SCD-COSIC and IBBT, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "ESAT/SCD-COSIC and IBBT, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "NTRU",
+        "Orders of magnitude (numbers)",
+        "Throughput",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "NTRUEncrypt",
+        "AES implementations",
+        "CUDA",
+        "Security level"
+    ],
+    "references": [
+        "1492887728",
+        "1493856790",
+        "1531850752",
+        "1582150111",
+        "1592482282",
+        "1596740612",
+        "1868652320",
+        "1896743460",
+        "1976677460",
+        "1994962217",
+        "1996360405",
+        "2127620974",
+        "2138849660",
+        "2163115793",
+        "2286477783"
+    ]
+}

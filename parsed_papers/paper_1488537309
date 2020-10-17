@@ -1,0 +1,35 @@
+{
+    "id": "1488537309",
+    "title": "Cryptanalysis of a Reduced Version of the Block Cipher E2",
+    "venue": "fast software encryption",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Toshio Tokita",
+            "id": "1974084302",
+            "org": "Mitsubishi Electric Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Byte",
+        "Algorithm",
+        "Cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Truncated differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Plaintext"
+    ],
+    "references": [
+        "1500584382",
+        "1978695162",
+        "1979802565"
+    ]
+}

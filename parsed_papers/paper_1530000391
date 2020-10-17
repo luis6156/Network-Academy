@@ -1,0 +1,45 @@
+{
+    "id": "1530000391",
+    "title": "Geometry caching for ray-tracing displacement maps",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Matt Pharr",
+            "id": "2510363232",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Pat Hanrahan",
+            "id": "2225733586",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Random access",
+        "Distributed ray tracing",
+        "Computer vision",
+        "Geometry",
+        "Rendering (computer graphics)",
+        "Computer science",
+        "Ray tracing (graphics)",
+        "Triangle mesh",
+        "Displacement mapping",
+        "CPU cache",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2009139756",
+        "2014893164",
+        "2048049572",
+        "2083364416",
+        "2103360877",
+        "2107487516",
+        "2113610230",
+        "2118588333",
+        "2127674791",
+        "2129981905",
+        "2138624212",
+        "2156067784"
+    ]
+}

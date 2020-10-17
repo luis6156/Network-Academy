@@ -1,0 +1,42 @@
+{
+    "id": "1814129181",
+    "title": "Differential cryptanalysis of T-function based stream cipher TSC-4",
+    "venue": "international conference on information security and cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Haina Zhang",
+            "id": "2706625940",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, P.R. China#TAB#"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Tsinghua University, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "eSTREAM",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Discrete mathematics",
+        "Weak key",
+        "Related-key attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Slide attack"
+    ],
+    "references": [
+        "1481503769",
+        "1486719429",
+        "1516636971",
+        "1554858845",
+        "1555297234",
+        "1574565813",
+        "1591147293",
+        "2171096220",
+        "2591652112"
+    ]
+}

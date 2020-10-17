@@ -1,0 +1,43 @@
+{
+    "id": "1502078890",
+    "title": "Solving Large Sparse Linear Systems over Finite Fields",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Brian A. Lamacchia",
+            "id": "2019158432",
+            "org": "AT&T Bell Laboratories"
+        },
+        {
+            "name": "Andrew M. Odlyzko",
+            "id": "2029350574",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Conjugate gradient method",
+        "Biconjugate gradient method",
+        "System of linear equations",
+        "Discrete mathematics",
+        "Computer science",
+        "Derivation of the conjugate gradient method",
+        "Quantum algorithm for linear systems of equations",
+        "Sparse approximation",
+        "Numerical linear algebra",
+        "Linear algebra"
+    ],
+    "references": [
+        "1480976258",
+        "1490994218",
+        "1966677764",
+        "2001224529",
+        "2071483197",
+        "2080063509",
+        "2085189772",
+        "2091260227",
+        "2162442687",
+        "2179913373",
+        "2203317094"
+    ]
+}

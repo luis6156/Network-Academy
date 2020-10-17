@@ -1,0 +1,35 @@
+{
+    "id": "1524594851",
+    "title": "Improved MPI All-to-all Communication on a Giganet SMP Cluster",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jesper Larsson Traff",
+            "id": "718724760",
+            "org": "C&C Research Laboratories, NEC Europe Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Factorization",
+        "Hierarchical control system",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "All-to-all communication",
+        "Message Passing Interface",
+        "Multiprocessing",
+        "Message passing"
+    ],
+    "references": [
+        "1502560748",
+        "1846703755",
+        "1969215126",
+        "1974526527",
+        "1975604800",
+        "2041666096",
+        "2133994512",
+        "2135922703",
+        "2149658259"
+    ]
+}

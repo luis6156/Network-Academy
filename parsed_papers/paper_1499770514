@@ -1,0 +1,40 @@
+{
+    "id": "1499770514",
+    "title": "The architecture and performance of WMPI II",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anders Lyhne Christensen",
+            "id": "2117097353",
+            "org": "Critical Software SA"
+        },
+        {
+            "name": "Joao Brito",
+            "id": "2107378209",
+            "org": "Critical Software SA"
+        },
+        {
+            "name": "Joao Gabriel Silva",
+            "id": "2136798047",
+            "org": "University of Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "MPICH",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Message passing",
+        "Operating system",
+        "Virtual machine",
+        "Computer cluster",
+        "Architecture",
+        "Polling"
+    ],
+    "references": [
+        "1521244776",
+        "2078637295"
+    ]
+}

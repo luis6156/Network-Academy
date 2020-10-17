@@ -1,0 +1,55 @@
+{
+    "id": "1492113772",
+    "title": "DRIVE: Using implicit caching hints to achieve disk I/O reduction in virtualized environments",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Sujesha Sudevalayam",
+            "id": "2091503466",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology Bombay, Rahul Balani, Akshat Verma IBM India Research Lab"
+        },
+        {
+            "name": "Purushottam Kulkarni",
+            "id": "2161397991",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology Bombay, Rahul Balani, Akshat Verma IBM India Research Lab"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Disk buffer",
+        "Parallel computing",
+        "Logical disk",
+        "Duplicate content",
+        "Disk array controller",
+        "Distributed computing",
+        "Computer science",
+        "Data deduplication",
+        "Page cache",
+        "Operating system",
+        "Direct memory access"
+    ],
+    "references": [
+        "137089333",
+        "174289249",
+        "178328500",
+        "200233886",
+        "1589276590",
+        "1780371484",
+        "1860107648",
+        "1971212200",
+        "1971739358",
+        "2003549201",
+        "2013592197",
+        "2051751274",
+        "2066636486",
+        "2092049223",
+        "2092337769",
+        "2103919011",
+        "2140672955",
+        "2147407897",
+        "2152921908",
+        "2197093989",
+        "2216311525"
+    ]
+}

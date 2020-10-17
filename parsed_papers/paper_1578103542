@@ -1,0 +1,40 @@
+{
+    "id": "1578103542",
+    "title": "Constraint Programming Techniques for Solving Problems on Graphs",
+    "venue": "international andrei ershov memorial conference on perspectives of system informatics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Vladimir A. Sidorov",
+            "id": "2821584694",
+            "org": "A. P. Ershov Institute of Informatics Systems"
+        },
+        {
+            "name": "Vitaly Telerman",
+            "id": "360404969",
+            "org": "A. P. Ershov Institute of Informatics Systems"
+        },
+        {
+            "name": "Dmitry Ushakov",
+            "id": "2633935346",
+            "org": "Russian Research Institute of Artificial Intelligence"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Mathematics",
+        "Constraint graph",
+        "Constraint satisfaction",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Complexity of constraint satisfaction",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "151339240",
+        "1507371529",
+        "1735015507"
+    ]
+}

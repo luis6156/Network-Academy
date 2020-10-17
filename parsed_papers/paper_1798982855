@@ -1,0 +1,48 @@
+{
+    "id": "1798982855",
+    "title": "Safety of rollback-recovery protocol maintaining WFR session guarantee",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jerzy Brzezinski",
+            "id": "2238814344",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poland#TAB#"
+        },
+        {
+            "name": "Anna Kobusinska",
+            "id": "277146901",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poland#TAB#"
+        },
+        {
+            "name": "Jacek Kobusinski",
+            "id": "28012626",
+            "org": "Institute of Computing Science, Poznan University of Technology, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Rollback",
+        "Mobile computing",
+        "Computer network",
+        "Real-time computing",
+        "Consistency model",
+        "Fault tolerance",
+        "Safety property"
+    ],
+    "references": [
+        "245946026",
+        "1480180755",
+        "1888857381",
+        "2097070848",
+        "2098465352",
+        "2100970777",
+        "2104210894",
+        "2112966019",
+        "2123393597",
+        "2125930899",
+        "2800498595"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1539527934",
+    "title": "Integrating External and Internal Clock Synchronization",
+    "venue": "Real-time Systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Christof Fetzer",
+            "id": "2005970894",
+            "org": "Department of Computer Science and Engineering University of California, San Diego La Jolla, CA 92093-0114#TAB#"
+        },
+        {
+            "name": "Flaviu Cristian",
+            "id": "2295810027",
+            "org": "Department of Computer Science and Engineering University of California, San Diego La Jolla, CA 92093-0114#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Clock synchronization",
+        "Clock drift",
+        "Computer science",
+        "Distributed computing",
+        "Clock angle problem",
+        "Clock domain crossing",
+        "Matrix clock",
+        "Digital clock manager",
+        "Real-time computing",
+        "CPU multiplier",
+        "Self-clocking signal"
+    ],
+    "references": [
+        "121042495",
+        "1929762880",
+        "1966133528",
+        "2034486289",
+        "2048273724",
+        "2067060908",
+        "2081540354",
+        "2102977580",
+        "2115146630",
+        "2153142506"
+    ]
+}

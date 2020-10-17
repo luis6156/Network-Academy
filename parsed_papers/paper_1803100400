@@ -1,0 +1,51 @@
+{
+    "id": "1803100400",
+    "title": "Unnesting of Copatterns",
+    "venue": "rewriting techniques and applications",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Anton Setzer",
+            "id": "1812924146",
+            "org": "Swansea University"
+        },
+        {
+            "name": "Andreas Abel",
+            "id": "2159551710",
+            "org": "Chalmers and Gothenburg University"
+        },
+        {
+            "name": "Brigitte Pientka",
+            "id": "313130249",
+            "org": "McGill University"
+        },
+        {
+            "name": "David Thibodeau",
+            "id": "2152148690",
+            "org": "McGill University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Intermediate language",
+        "Discrete mathematics",
+        "Computer science",
+        "Compiler",
+        "Core language",
+        "Algebraic data type",
+        "Conservative extension",
+        "Pattern matching",
+        "If and only if",
+        "Coinduction",
+        "Programming language"
+    ],
+    "references": [
+        "1501891810",
+        "1508224656",
+        "1987624682",
+        "2074592053",
+        "2145108549",
+        "2148387264"
+    ]
+}

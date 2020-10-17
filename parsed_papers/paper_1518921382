@@ -1,0 +1,71 @@
+{
+    "id": "1518921382",
+    "title": "Cryptanalysis of ESSENCE",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "INRIA, Project-team SECRET, France#TAB#"
+        },
+        {
+            "name": "Andrea Rock",
+            "id": "2304828092",
+            "org": "Aalto University School of Science and Technology, Finland#TAB#"
+        },
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "Nagravision SA, Cheseaux, Switzerland#TAB#"
+        },
+        {
+            "name": "Yann Laigle-Chapuy",
+            "id": "63083894",
+            "org": "INRIA, Project-team SECRET, France#TAB#"
+        },
+        {
+            "name": "Gaetan Leurent",
+            "id": "2149886747",
+            "org": "Ecole Normale Superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2892527121",
+            "org": "Ingenico, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Rolling hash",
+        "Higher-order differential cryptanalysis",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "9162323",
+        "124034723",
+        "1513113529",
+        "1513711610",
+        "1549228503",
+        "1560798398",
+        "1600432225",
+        "1603433154",
+        "1656731780",
+        "2103239853",
+        "2121895731",
+        "2131300413",
+        "2524116991",
+        "2593463031"
+    ]
+}

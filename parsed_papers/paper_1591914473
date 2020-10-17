@@ -1,0 +1,39 @@
+{
+    "id": "1591914473",
+    "title": "Joining security realms: a single login for netware and kerberos",
+    "venue": "usenix security symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "William A. Adamson",
+            "id": "2133166486",
+            "org": "Center for Information Technology Integration, University of Michigan#TAB#"
+        },
+        {
+            "name": "Jim Rees",
+            "id": "2120712880",
+            "org": "Center for Information Technology Integration, University of Michigan#TAB#"
+        },
+        {
+            "name": "Peter Honeyman",
+            "id": "2236861272",
+            "org": "Center for Information Technology Integration, University of Michigan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Technical report",
+        "Kerberos",
+        "Realm",
+        "Computer science",
+        "Computer security",
+        "Login",
+        "Disjoint sets",
+        "Internet privacy"
+    ],
+    "references": [
+        "2146749986",
+        "2146973388",
+        "2774071578"
+    ]
+}

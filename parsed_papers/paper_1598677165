@@ -1,0 +1,57 @@
+{
+    "id": "1598677165",
+    "title": "Detecting outlying subjects in high-dimensional neuroimaging datasets with regularized minimum covariance determinant",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Virgile Fritsch",
+            "id": "2737076752",
+            "org": "Parietal Team, INRIA Saclay-Ile-de-France, Saclay and CEA, DSV, I2BM, Gif-Sur-Yvette, France#TAB#"
+        },
+        {
+            "name": "Gael Varoquaux",
+            "id": "42138872",
+            "org": "Inserm, Gif-Sur-Yvette and Parietal Team, INRIA Saclay-Ile-de-France, Saclay and CEA, DSV, I2BM, Gif-Sur-Yvette, France#TAB#"
+        },
+        {
+            "name": "Benjamin Thyreau",
+            "id": "2583725377",
+            "org": "CEA, DSV, I2BM, Gif-Sur-Yvette, France#TAB#"
+        },
+        {
+            "name": "Jean-Baptiste Poline",
+            "id": "2872078712",
+            "org": "CEA, DSV, I2BM, Gif-Sur-Yvette and Parietal Team, INRIA Saclay-Ile-de-France, Saclay#TAB#"
+        },
+        {
+            "name": "Bertrand Thirion",
+            "id": "1907357561",
+            "org": "Parietal Team, INRIA Saclay-Ile-de-France, Saclay and CEA, DSV, I2BM, Gif-Sur-Yvette, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Pattern recognition",
+        "Computer science",
+        "Medical imaging",
+        "Outlier",
+        "Regularization (mathematics)",
+        "Population",
+        "Anomaly detection",
+        "Neuroimaging",
+        "Machine learning",
+        "Covariance"
+    ],
+    "references": [
+        "1487924089",
+        "1530717303",
+        "1549862793",
+        "1720771030",
+        "1980262437",
+        "2048430744",
+        "2052515792",
+        "2096613134",
+        "2170014674"
+    ]
+}

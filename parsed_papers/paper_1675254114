@@ -1,0 +1,53 @@
+{
+    "id": "1675254114",
+    "title": "Performance implications of architectural and software techniques on I/O-intensive applications",
+    "venue": "international conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Meenakshi A. Kandaswamy",
+            "id": "1218935316",
+            "org": "EECS Dept., Syracuse Univ., NY, USA"
+        },
+        {
+            "name": "Mahmut T. Kandemir",
+            "id": "2191818565",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Alok N. Choudhary",
+            "id": "2147783234",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "David E. Bernholdt",
+            "id": "243719255",
+            "org": "Syracuse University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Computer architecture",
+        "Software",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Architectural pattern",
+        "Intel Paragon",
+        "Real-time computing",
+        "Program optimization",
+        "Architecture"
+    ],
+    "references": [
+        "1538291993",
+        "1788554450",
+        "1851874016",
+        "1964553864",
+        "1969541123",
+        "2055951513",
+        "2059991034",
+        "2107806866"
+    ]
+}

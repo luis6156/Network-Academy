@@ -1,0 +1,55 @@
+{
+    "id": "146755590",
+    "title": "Compressed suffix trees for repetitive texts",
+    "venue": "string processing and information retrieval",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Andres Abeliuk",
+            "id": "2285194927",
+            "org": "Department of Computer Science, University of Chile, Chile,Instituto de Filosofia y Ciencias de la Complejidad, IFICC, University of Chile, Chile#TAB#"
+        },
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "Department of Computer Science, University of Chile, Chile#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Suffix",
+        "Theoretical computer science",
+        "FM-index",
+        "Computer science",
+        "Longest common substring problem",
+        "LCP array",
+        "Generalized suffix tree",
+        "Suffix tree",
+        "Range minimum query",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "1485941238",
+        "1495524224",
+        "1528475610",
+        "1529451410",
+        "1551461028",
+        "1556429797",
+        "1570532020",
+        "1575701769",
+        "1965853364",
+        "1985174631",
+        "1990061958",
+        "2030962049",
+        "2041445031",
+        "2041824945",
+        "2072021854",
+        "2073921136",
+        "2088386938",
+        "2121252285",
+        "2135208303",
+        "2154803978",
+        "2158874082",
+        "2407334068",
+        "2533248932"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "1527756448",
+    "title": "Multi-Level Transaction Management, Theoretical Art or Practical Need ?",
+    "venue": "extending database technology",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Catriel Beeri",
+            "id": "345432764",
+            "org": "Hebrew University at Jerusalem"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "Technical University of Darmstadt"
+        },
+        {
+            "name": "Gerhard Weikum",
+            "id": "514836396",
+            "org": "Technical University of Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Commit",
+        "Serializability",
+        "Computer science",
+        "Transaction processing",
+        "Optimistic concurrency control",
+        "Distributed transaction",
+        "Database",
+        "Concurrency control",
+        "Database transaction"
+    ],
+    "references": [
+        "18069473",
+        "167327290",
+        "196018858",
+        "1495454977",
+        "1498065375",
+        "1537700677",
+        "1545155892",
+        "1570448592",
+        "1579294626",
+        "1694233656",
+        "1721126460",
+        "1985467476",
+        "2005888681",
+        "2011672446",
+        "2016590848",
+        "2072346647",
+        "2072781375",
+        "2093793584",
+        "2106887953",
+        "2114811697",
+        "2172126130"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "1586515244",
+    "title": "On the Impact of Serializing Contention Management on STM Performance",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Tomer Heber",
+            "id": "2092480105",
+            "org": "Department of Computer Science, Ben-Gurion University of the Negev, Be'er Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Danny Hendler",
+            "id": "1855531211",
+            "org": "Department of Computer Science, Ben-Gurion University of the Negev, Be'er Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Adi Suissa",
+            "id": "2107479491",
+            "org": "Department of Computer Science, Ben-Gurion University of the Negev, Be'er Sheva, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Computer science",
+        "Distributed computing",
+        "Concurrent computing",
+        "Transactional memory",
+        "Serialization",
+        "Concurrency",
+        "Atomicity",
+        "Operating system",
+        "Real-time computing",
+        "Software transactional memory",
+        "Database transaction"
+    ],
+    "references": [
+        "1542975293",
+        "1580087508",
+        "1613113617",
+        "1759214032",
+        "1966697570",
+        "1988800505",
+        "2002044167",
+        "2006156072",
+        "2036987653",
+        "2072544773",
+        "2094222793",
+        "2095935151",
+        "2101622459",
+        "2103933790",
+        "2105055683",
+        "2106871513",
+        "2107164729",
+        "2108204150",
+        "2113751407",
+        "2132484060",
+        "2143028966",
+        "2149089882",
+        "2149473197",
+        "2163654949",
+        "2165791323",
+        "2187800381",
+        "2769656678"
+    ]
+}

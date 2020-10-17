@@ -1,0 +1,41 @@
+{
+    "id": "1548067747",
+    "title": "UNIX password security--ten years later",
+    "venue": "international cryptology conference",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "David C. Feldmeier",
+            "id": "2662687958",
+            "org": "Bellcore"
+        },
+        {
+            "name": "Philip R. Karn",
+            "id": "2633225401",
+            "org": "Bellcore"
+        }
+    ],
+    "fields_of_study": [
+        "Password cracking",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Password strength",
+        "Computer science",
+        "Computer security",
+        "Key stretching",
+        "Password",
+        "One-time password",
+        "Operating system"
+    ],
+    "references": [
+        "1530462290",
+        "1543033881",
+        "1792236423",
+        "1838112905",
+        "1991374982",
+        "2146749986",
+        "2149929743",
+        "2299381987"
+    ]
+}

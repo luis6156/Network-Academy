@@ -1,0 +1,52 @@
+{
+    "id": "1580156033",
+    "title": "Second Preimage Attack on 5-Pass HAVAL and Partial Key-Recovery Attack on HMAC/NMAC-5-Pass HAVAL",
+    "venue": "international conference on cryptology in africa",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Gaoli Wang",
+            "id": "2627634274",
+            "org": "School of Computer Science and Technology, Donghua University, Shanghai, China 201620#TAB#"
+        },
+        {
+            "name": "Shaohui Wang",
+            "id": "2702431514",
+            "org": "Nanjing University of Posts and Telecommunications, Nanjing, China 210046#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HAVAL",
+        "Key-recovery attack",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "Exploit",
+        "Cryptographic hash function",
+        "Computer science",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "1491431082",
+        "1513113529",
+        "1513711610",
+        "1550771246",
+        "1566273181",
+        "1590269592",
+        "1656731780",
+        "1736627613",
+        "1851023053",
+        "1866609797",
+        "1955677211",
+        "2098801947",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2131300413",
+        "2135759164",
+        "2399310879",
+        "2531150596",
+        "2611506938"
+    ]
+}

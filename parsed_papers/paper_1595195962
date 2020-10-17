@@ -1,0 +1,40 @@
+{
+    "id": "1595195962",
+    "title": "An improved known plaintext attack on PKZIP encryption algorithm",
+    "venue": "international conference on information security and cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Kyung Chul Jeong",
+            "id": "2289244857",
+            "org": "The Attached Institute of ETRI, Yuseong-Gu, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2703255914",
+            "org": "The Attached Institute of ETRI, Yuseong-Gu, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Daewan Han",
+            "id": "2638180798",
+            "org": "The Attached Institute of ETRI, Yuseong-Gu, Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Computer science",
+        "Slide attack",
+        "Power analysis",
+        "Ciphertext indistinguishability",
+        "Chosen-ciphertext attack",
+        "Plaintext"
+    ],
+    "references": [
+        "1508038907",
+        "1535148475",
+        "1697947684"
+    ]
+}

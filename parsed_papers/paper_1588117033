@@ -1,0 +1,45 @@
+{
+    "id": "1588117033",
+    "title": "Optimizing particle filter parameters for self-localization",
+    "venue": "robot soccer world cup",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Armin Burchardt",
+            "id": "2141711389",
+            "org": "Universitat Bremen, Fachbereich 3 - Mathematik und Informatik, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Tim Laue",
+            "id": "2117303523",
+            "org": "Deutsches Forschungszentrum fur Kunstliche Intelligenz, Sichere Kognitive Systeme, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Rofer",
+            "id": "139009017",
+            "org": "Deutsches Forschungszentrum fur Kunstliche Intelligenz, Sichere Kognitive Systeme, Bremen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Particle filter",
+        "Monte Carlo localization",
+        "Computer science",
+        "Particle swarm optimization",
+        "Humanoid robot",
+        "Mathematical optimization",
+        "Parametrization",
+        "Multi-swarm optimization"
+    ],
+    "references": [
+        "1530727635",
+        "1560921017",
+        "1564732913",
+        "2105771760",
+        "2120712855",
+        "2131865378",
+        "2168237427",
+        "2336416123",
+        "2462538826"
+    ]
+}

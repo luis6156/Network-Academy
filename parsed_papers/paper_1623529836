@@ -1,0 +1,46 @@
+{
+    "id": "1623529836",
+    "title": "GPS error range reduction method based on linear kinematic model",
+    "venue": "conference on automation science and engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Tomohiko Hayakawa",
+            "id": "2104169642",
+            "org": "Dept. of Creative Informatics, Graduate School of Information Science and Technology, Univ. of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan"
+        },
+        {
+            "name": "Masatoshi Ishikawa",
+            "id": "2128881268",
+            "org": "Dept. of Creative Informatics, Graduate School of Information Science and Technology, Univ. of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Error analysis for the Global Positioning System",
+        "Observational error",
+        "Linear motion",
+        "Global Positioning System",
+        "Kinematics",
+        "GPS/INS",
+        "Control theory",
+        "Least squares",
+        "Geodesy",
+        "Linear regression"
+    ],
+    "references": [
+        "1544411027",
+        "1938714998",
+        "1975740369",
+        "2007657444",
+        "2085261163",
+        "2102664783",
+        "2123644741",
+        "2125680629",
+        "2129950897",
+        "2151290401",
+        "2151679392",
+        "2154339055",
+        "2166771065"
+    ]
+}

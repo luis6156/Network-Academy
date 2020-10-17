@@ -1,0 +1,47 @@
+{
+    "id": "1605775181",
+    "title": "From Sequential to Multi-Threaded Java: An Event-Based Operational Semantics",
+    "venue": "algebraic methodology and software technology",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Pietro Cenciarelli",
+            "id": "2343533141",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        },
+        {
+            "name": "Alexander Knapp",
+            "id": "2161420078",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        },
+        {
+            "name": "Bernhard Reus",
+            "id": "2163053218",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        },
+        {
+            "name": "Martin Wirsing",
+            "id": "2069719606",
+            "org": "Ludwig-Maximilians-Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Specification language",
+        "Java Modeling Language",
+        "Theoretical computer science",
+        "Java",
+        "Computer science",
+        "Programming language specification",
+        "Action semantics",
+        "Operational semantics",
+        "Programming language",
+        "Sublanguage"
+    ],
+    "references": [
+        "1533109738",
+        "1570258731",
+        "1644882639",
+        "1780296805"
+    ]
+}

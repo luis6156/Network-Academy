@@ -1,0 +1,57 @@
+{
+    "id": "1541313361",
+    "title": "Static deadlock detection for java libraries",
+    "venue": "european conference on object oriented programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Amy Williams",
+            "id": "2140008263",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "William Thies",
+            "id": "2892718459",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Michael D. Ernst",
+            "id": "2235702021",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented programming",
+        "Java",
+        "Computer science",
+        "Deadlock",
+        "Distributed computing",
+        "Wait-for graph",
+        "Cycle graph",
+        "Edge chasing",
+        "Deadlock prevention algorithms",
+        "Real-time computing",
+        "Ordered graph",
+        "Programming language"
+    ],
+    "references": [
+        "1602584413",
+        "1862182621",
+        "1968898611",
+        "1975914482",
+        "2040060046",
+        "2059224852",
+        "2072950666",
+        "2088655521",
+        "2101946114",
+        "2102640269",
+        "2107626251",
+        "2107978495",
+        "2112243500",
+        "2116873772",
+        "2149984854",
+        "2156428492",
+        "2160837838",
+        "2166509141"
+    ]
+}

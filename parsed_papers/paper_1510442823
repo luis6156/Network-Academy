@@ -1,0 +1,55 @@
+{
+    "id": "1510442823",
+    "title": "Breaking ciphers with COPACOBANA -a cost-optimized parallel code breaker",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sandeep S. Kumar",
+            "id": "2252138241",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Jan Pelzl",
+            "id": "2634080787",
+            "org": "Horst Gortz Institute for IT Security, Ruhr University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Gerd Pfeiffer",
+            "id": "2148779643",
+            "org": "Institute of Computer Science and Applied Mathematics, Faculty of Engineering, Christian-Albrechts-University of Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Manfred Schimmler",
+            "id": "2268391684",
+            "org": "Institute of Computer Science and Applied Mathematics, Faculty of Engineering, Christian-Albrechts-University of Kiel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Brute-force attack",
+        "Computer science",
+        "Encryption",
+        "Cryptosystem",
+        "Hardware architecture",
+        "Linear cryptanalysis",
+        "Key size"
+    ],
+    "references": [
+        "112063896",
+        "1485497075",
+        "1588182391",
+        "1991374982",
+        "1996360405",
+        "2008272678",
+        "2091670284"
+    ]
+}

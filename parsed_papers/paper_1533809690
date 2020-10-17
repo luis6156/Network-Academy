@@ -1,0 +1,57 @@
+{
+    "id": "1533809690",
+    "title": "Dynamic search tolerance at runtime for lookup determinism in the DHT-based P2P network Kad",
+    "venue": "consumer communications and networking conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Peter Danielis",
+            "id": "1443170458",
+            "org": "University of Rostock, Institute of Applied Microelectronics and Computer Engineering, 18051, Germany"
+        },
+        {
+            "name": "Jan Skodzik",
+            "id": "157289898",
+            "org": "University of Rostock, Institute of Applied Microelectronics and Computer Engineering, 18051, Germany"
+        },
+        {
+            "name": "Vlado Altmann",
+            "id": "2025756364",
+            "org": "University of Rostock, Institute of Applied Microelectronics and Computer Engineering, 18051, Germany"
+        },
+        {
+            "name": "Lennard Lender",
+            "id": "2231926722",
+            "org": "University of Rostock, Institute of Applied Microelectronics and Computer Engineering, 18051, Germany"
+        },
+        {
+            "name": "Dirk Timmermann",
+            "id": "2108192474",
+            "org": "University of Rostock, Institute of Applied Microelectronics and Computer Engineering, 18051, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Distributed computing",
+        "Distributed hash table",
+        "Determinism",
+        "Network model",
+        "Computer network",
+        "Data retrieval",
+        "Real-time computing"
+    ],
+    "references": [
+        "1540967342",
+        "1564854496",
+        "1970564778",
+        "2038091364",
+        "2065288034",
+        "2119245106",
+        "2150288915",
+        "2158049821",
+        "2164249291",
+        "2167757118",
+        "2167898414"
+    ]
+}

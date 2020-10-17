@@ -1,0 +1,34 @@
+{
+    "id": "1627707404",
+    "title": "Cryptanalysis of Reduced-Round MISTY",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ulrich Kuhn",
+            "id": "1928688601",
+            "org": "Group Information Technology RS Research"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "MISTY1",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "106933294",
+        "1506892872",
+        "1540875416",
+        "1541853791",
+        "1964723977",
+        "1979802565",
+        "2006309149"
+    ]
+}

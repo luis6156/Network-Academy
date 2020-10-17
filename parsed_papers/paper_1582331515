@@ -1,0 +1,60 @@
+{
+    "id": "1582331515",
+    "title": "Taint-enhanced policy enforcement: a practical approach to defeat a wide range of attacks",
+    "venue": "usenix security symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wei Xu",
+            "id": "2777755824",
+            "org": "Stony Brook University#TAB#"
+        },
+        {
+            "name": "Sandeep Bhatkar",
+            "id": "2776562224",
+            "org": "Stony Brook University#TAB#"
+        },
+        {
+            "name": "R. Sekar",
+            "id": "2132624284",
+            "org": "Stony Brook University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Access control",
+        "Computer science",
+        "Internet privacy",
+        "Computer security",
+        "Password",
+        "Exploit",
+        "Taint checking"
+    ],
+    "references": [
+        "109951691",
+        "145782308",
+        "1505465226",
+        "1511560695",
+        "1514171102",
+        "1545927878",
+        "1565113942",
+        "1582703556",
+        "1598083179",
+        "1606099259",
+        "1648477960",
+        "1655226010",
+        "1977764760",
+        "1983142587",
+        "2056073317",
+        "2098820900",
+        "2100666033",
+        "2101699859",
+        "2102970979",
+        "2122049982",
+        "2129278597",
+        "2144696387",
+        "2150174204",
+        "2150277819",
+        "2158126684",
+        "2168264487"
+    ]
+}

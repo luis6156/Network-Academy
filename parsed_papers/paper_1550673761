@@ -1,0 +1,54 @@
+{
+    "id": "1550673761",
+    "title": "Secure code generation for web applications",
+    "venue": "international conference on engineering secure software and systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Martin Johns",
+            "id": "2295852134",
+            "org": "SAP Research - CEC Karlsruhe#TAB#"
+        },
+        {
+            "name": "Christian Beyerlein",
+            "id": "1978071459",
+            "org": "Department of Informatics, SVS, University of Hamburg#TAB#"
+        },
+        {
+            "name": "Rosemaria Giesecke",
+            "id": "2098197104",
+            "org": "SAP Research - CEC Karlsruhe#TAB#"
+        },
+        {
+            "name": "Joachim Posegga",
+            "id": "2080269188",
+            "org": "Faculty for Informatics and Mathematics, ISL, University of Passau#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Code review",
+        "Redundant code",
+        "Source code",
+        "Code injection",
+        "Computer science",
+        "Unreachable code",
+        "Code bloat",
+        "Code generation",
+        "SQL injection",
+        "Programming language"
+    ],
+    "references": [
+        "150512592",
+        "1505465226",
+        "1511560695",
+        "1582331515",
+        "1598083179",
+        "1983142587",
+        "2081048703",
+        "2088675571",
+        "2090697721",
+        "2134646643",
+        "2144696387",
+        "2147478478"
+    ]
+}

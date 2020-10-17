@@ -1,0 +1,49 @@
+{
+    "id": "1515150373",
+    "title": "Smoothing of meshes and point clouds using weighted geometry-aware bases",
+    "venue": "geometric modeling and processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Timofej Volodine",
+            "id": "2521379997",
+            "org": "Department of Computer Science, KULeuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Denis Vanderstraeten",
+            "id": "2053113079",
+            "org": "Metris N.V., Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Dirk Roose",
+            "id": "2139958734",
+            "org": "Department of Computer Science, KULeuven, Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tikhonov regularization",
+        "Mathematics",
+        "Laplacian matrix",
+        "Smoothing spline",
+        "Geometry",
+        "Polygon mesh",
+        "Laplacian smoothing",
+        "Discrete mathematics",
+        "Smoothing",
+        "Least squares",
+        "Mathematical optimization",
+        "Curvature"
+    ],
+    "references": [
+        "1974956622",
+        "1984713107",
+        "2000214666",
+        "2007847953",
+        "2009940960",
+        "2018737802",
+        "2074981114",
+        "2079017595",
+        "2096094923",
+        "2159475546"
+    ]
+}

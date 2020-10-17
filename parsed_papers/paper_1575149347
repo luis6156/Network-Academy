@@ -1,0 +1,38 @@
+{
+    "id": "1575149347",
+    "title": "Provable Security Against Differential Cryptanalysis",
+    "venue": "international cryptology conference",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Kaisa Nyberg",
+            "id": "2152819472",
+            "org": "Vienna,"
+        },
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "Aarhus University, Aarhus C,"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Cipher",
+        "Discrete mathematics",
+        "Computer science",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "1498892963",
+        "1527545029",
+        "1568587963",
+        "1587697857",
+        "1629301835",
+        "1978695162"
+    ]
+}

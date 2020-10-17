@@ -1,0 +1,50 @@
+{
+    "id": "1502554142",
+    "title": "Enabling low-overhead hybrid MPI/OpenMP parallelism with MPC",
+    "venue": "international workshop on openmp",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Patrick Carribault",
+            "id": "2798676322",
+            "org": "CEA, DAM, DIF, Arpajon, France#TAB#"
+        },
+        {
+            "name": "Marc Perache",
+            "id": "953794469",
+            "org": "CEA, DAM, DIF, Arpajon, France#TAB#"
+        },
+        {
+            "name": "Herve Jourdren",
+            "id": "2576872286",
+            "org": "CEA, DAM, DIF, Arpajon, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Multiple Models",
+        "SPMD",
+        "Multi-core processor",
+        "Computer science",
+        "Parallel programming model",
+        "Implementation",
+        "Programming paradigm"
+    ],
+    "references": [
+        "42305685",
+        "1533116280",
+        "1550554130",
+        "1552387776",
+        "1556574299",
+        "1578458414",
+        "1583784092",
+        "1602359794",
+        "1969215126",
+        "1999752372",
+        "2050288836",
+        "2068042411",
+        "2098309832",
+        "2127858796"
+    ]
+}

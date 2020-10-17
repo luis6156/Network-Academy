@@ -1,0 +1,44 @@
+{
+    "id": "1526708853",
+    "title": "Collisions for the LPS expander graph hash function",
+    "venue": "international cryptology conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jean-Pierre Tillich",
+            "id": "2095107103",
+            "org": "INRIA, Equipe SECRET, Le Chesnay, France#TAB#"
+        },
+        {
+            "name": "Gilles Zemor",
+            "id": "115132794",
+            "org": "Institut de Mathematiques de Bordeaux, Universite Bordeaux 1, Talence, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Fowler-Noll-Vo hash function",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Combinatorics",
+        "Quadratic probing",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing"
+    ],
+    "references": [
+        "164869971",
+        "1484626591",
+        "1545589079",
+        "1604296007",
+        "1886344012",
+        "2000932900",
+        "2108412489",
+        "2153068015",
+        "2165769538",
+        "2615470315"
+    ]
+}

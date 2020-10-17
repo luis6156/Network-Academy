@@ -1,0 +1,42 @@
+{
+    "id": "1546507835",
+    "title": "Evaluating the resistance of stream ciphers with linear feedback against fast algebraic attacks",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "An Braeken",
+            "id": "2792844107",
+            "org": "Dept. Elect. Eng.-ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Joseph Lano",
+            "id": "2145353776",
+            "org": "Dept. Elect. Eng.-ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Dept. Elect. Eng.-ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "eSTREAM",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Algebraic number",
+        "Correlation attack",
+        "Boolean function",
+        "SFINKS"
+    ],
+    "references": [
+        "1699105",
+        "1572961947",
+        "1873576501",
+        "1918243660",
+        "2167620671"
+    ]
+}

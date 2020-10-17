@@ -1,0 +1,46 @@
+{
+    "id": "1529144236",
+    "title": "Fractional Weighted Reference Counting",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Erik Klintskog",
+            "id": "1972640157",
+            "org": "Swedish Institute of Computer Science"
+        },
+        {
+            "name": "Anna Neiderud",
+            "id": "2416772196",
+            "org": "Swedish Institute of Computer Science"
+        },
+        {
+            "name": "Per Brand",
+            "id": "2208637950",
+            "org": "Swedish Institute of Computer Science"
+        },
+        {
+            "name": "Seif Haridi",
+            "id": "678106963",
+            "org": "Royal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Merge (version control)",
+        "Distributed computing",
+        "Client-server model",
+        "Unit fraction",
+        "Garbage collection",
+        "Reference counting",
+        "Garbage"
+    ],
+    "references": [
+        "1579270891",
+        "1582105055",
+        "1876014853",
+        "2073671722",
+        "2118098427"
+    ]
+}

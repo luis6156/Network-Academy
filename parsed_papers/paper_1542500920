@@ -1,0 +1,40 @@
+{
+    "id": "1542500920",
+    "title": "Linear Cryptanalysis Using Multiple Approximations",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2235882987",
+            "org": "RSA Laboratories"
+        },
+        {
+            "name": "Matthew J. B. Robshaw",
+            "id": "2297649051",
+            "org": "RSA Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Interpolation attack",
+        "Theoretical computer science",
+        "Algorithm",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1523702841",
+        "1553753418",
+        "1964723977",
+        "1979802565",
+        "1985969574",
+        "2117414032"
+    ]
+}

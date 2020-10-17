@@ -1,0 +1,49 @@
+{
+    "id": "1579319057",
+    "title": "Block-based spatio-temporal prediction for video coding",
+    "venue": "european signal processing conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ichiro Matsuda",
+            "id": "2806753960",
+            "org": "Department of Electrical Engineering, Faculty of Science and Technology, Tokyo University of Science, 2641 Yamazaki, Noda-shi, Chiba 278-8510, Japan"
+        },
+        {
+            "name": "Kyohei Unno",
+            "id": "2223318242",
+            "org": "Department of Electrical Engineering, Faculty of Science and Technology, Tokyo University of Science, 2641 Yamazaki, Noda-shi, Chiba 278-8510, Japan"
+        },
+        {
+            "name": "Hisashi Aomori",
+            "id": "2307775441",
+            "org": "Department of Electrical Engineering, Faculty of Science and Technology, Tokyo University of Science, 2641 Yamazaki, Noda-shi, Chiba 278-8510, Japan"
+        },
+        {
+            "name": "Susumu Itoh",
+            "id": "2893926498",
+            "org": "Department of Electrical Engineering, Faculty of Science and Technology, Tokyo University of Science, 2641 Yamazaki, Noda-shi, Chiba 278-8510, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Artificial intelligence",
+        "Discrete cosine transform",
+        "Pattern recognition",
+        "Context-adaptive binary arithmetic coding",
+        "Motion compensation",
+        "Residual",
+        "Prediction by partial matching",
+        "Iterative reconstruction",
+        "Code-excited linear prediction",
+        "Coding tree unit"
+    ],
+    "references": [
+        "1508702887",
+        "2046848394",
+        "2109839336",
+        "2111082359",
+        "2159351027",
+        "2169057991"
+    ]
+}

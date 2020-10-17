@@ -1,0 +1,42 @@
+{
+    "id": "1485450825",
+    "title": "An Algebraic Model of Correctness for Superscalar Microprocessors",
+    "venue": "formal methods in computer aided design",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Anthony C. J. Fox",
+            "id": "2099595286",
+            "org": "University of Wales Swansea"
+        },
+        {
+            "name": "Neal A. Harman",
+            "id": "1990366623",
+            "org": "University of Wales Swansea"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Parallel computing",
+        "Cycles per instruction",
+        "Computer architecture",
+        "Computer science",
+        "Superscalar",
+        "Program counter",
+        "Pipeline burst cache",
+        "Abstraction",
+        "Correctness",
+        "Algebraic number"
+    ],
+    "references": [
+        "1499251185",
+        "1543469746",
+        "1552149167",
+        "1769977300",
+        "1860458868",
+        "2011889923",
+        "2048827942",
+        "2101591864",
+        "2503915927"
+    ]
+}

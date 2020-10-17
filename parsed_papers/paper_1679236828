@@ -1,0 +1,44 @@
+{
+    "id": "1679236828",
+    "title": "A simpler algorithm for the all pairs shortest path problem with o(n 2 log n) expected time",
+    "venue": "conference on combinatorial optimization and applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Tadao Takaoka",
+            "id": "2168777670",
+            "org": "Department of Computer Science, University of Canterbury, Christchurch, New Zealand#TAB#"
+        },
+        {
+            "name": "Mashitoh Hashim",
+            "id": "2114685501",
+            "org": "Department of Computer Science, University of Canterbury, Christchurch, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Yen's algorithm",
+        "Discrete mathematics",
+        "Floyd-Warshall algorithm",
+        "Combinatorics",
+        "Johnson's algorithm",
+        "K shortest path routing",
+        "Shortest Path Faster Algorithm",
+        "Constrained Shortest Path First",
+        "Suurballe's algorithm",
+        "Mathematical optimization",
+        "Euclidean shortest path"
+    ],
+    "references": [
+        "1559994276",
+        "1969573308",
+        "2027580688",
+        "2030917606",
+        "2054523876",
+        "2084224084",
+        "2084623271",
+        "2087219647",
+        "2152290683"
+    ]
+}

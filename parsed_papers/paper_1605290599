@@ -1,0 +1,57 @@
+{
+    "id": "1605290599",
+    "title": "A multi-path routing algorithm for IP networks based on flow optimisation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Henrik Abrahamsson",
+            "id": "1997568287",
+            "org": "Swedish Institute of Computer Science#TAB#"
+        },
+        {
+            "name": "Bengt Ahlgren",
+            "id": "2073497528",
+            "org": "Swedish Institute of Computer Science#TAB#"
+        },
+        {
+            "name": "Juan Alonso",
+            "id": "2779688462",
+            "org": "Swedish Institute of Computer Science#TAB#"
+        },
+        {
+            "name": "Anders Andersson",
+            "id": "2426998928",
+            "org": "Swedish Institute of Computer Science#TAB#"
+        },
+        {
+            "name": "Per Kreuger",
+            "id": "719654591",
+            "org": "Swedish Institute of Computer Science#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Static routing",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Computer network",
+        "Link-state routing protocol",
+        "Destination-Sequenced Distance Vector routing",
+        "Forwarding plane",
+        "Routing table",
+        "IP forwarding",
+        "Virtual routing and forwarding",
+        "Equal-cost multi-path routing"
+    ],
+    "references": [
+        "1575909217",
+        "1612056114",
+        "2047553334",
+        "2096655151",
+        "2118826796",
+        "2126590799",
+        "2160615184",
+        "2163907500"
+    ]
+}

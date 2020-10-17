@@ -1,0 +1,35 @@
+{
+    "id": "1495454977",
+    "title": "Nested Transactions with Multiple Commit Points: An Approach to the Structuring of Advanced Database Applications",
+    "venue": "very large data bases",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Bernd Walter",
+            "id": "2158649834",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Nested transaction",
+        "Commit",
+        "Structuring",
+        "Computer science",
+        "Distributed computing",
+        "Compensating transaction",
+        "Distributed transaction",
+        "Database",
+        "Nested set model",
+        "Database transaction"
+    ],
+    "references": [
+        "98530368",
+        "1498065375",
+        "1579294626",
+        "1991199257",
+        "2005235940",
+        "2009712165",
+        "2067686439",
+        "2091416827"
+    ]
+}

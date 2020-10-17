@@ -1,0 +1,39 @@
+{
+    "id": "1529433769",
+    "title": "An O( n 3/14 )-coloring algorithm for 3-colorable graphs",
+    "venue": "Information Processing Letters",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Avrim Blum",
+            "id": "2137000917",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
+        },
+        {
+            "name": "David R. Karger",
+            "id": "2305153757",
+            "org": "Laboratory for Computer Science, MIT, Cambridge, MA 02139, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Graph Node",
+        "Algorithm",
+        "Discrete mathematics",
+        "Karger's algorithm",
+        "Combinatorics",
+        "Approximation algorithm",
+        "Graph",
+        "Graph coloring",
+        "Analysis of algorithms"
+    ],
+    "references": [
+        "1982506822",
+        "1991006936",
+        "2036660814",
+        "2041605864",
+        "2069816168",
+        "2104254886"
+    ]
+}

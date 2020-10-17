@@ -1,0 +1,88 @@
+{
+    "id": "1794210664",
+    "title": "Blind and Anonymous Identity-Based Encryption and Authorised Private Searches on Public Key Encrypted Data",
+    "venue": "public key cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jan Camenisch",
+            "id": "2001749418",
+            "org": "Zurich Research Lab, IBM Research,#TAB#"
+        },
+        {
+            "name": "Markulf Kohlweiss",
+            "id": "1520953178",
+            "org": "ESAT-COSIC / IBBT, Katholieke Universiteit Leuven,#TAB#"
+        },
+        {
+            "name": "Alfredo Rial",
+            "id": "2124170035",
+            "org": "ESAT-COSIC / IBBT, Katholieke Universiteit Leuven,#TAB#"
+        },
+        {
+            "name": "Caroline Sheedy",
+            "id": "2580293768",
+            "org": "School of Computing, Dublin City University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Keyfile",
+        "Client-side encryption",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Probabilistic encryption",
+        "Multiple encryption",
+        "On-the-fly encryption",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "2026351",
+        "8287904",
+        "28930810",
+        "172970726",
+        "1494775996",
+        "1538706266",
+        "1545622906",
+        "1546774120",
+        "1576428636",
+        "1592092778",
+        "1592741821",
+        "1596208550",
+        "1754500122",
+        "1839386101",
+        "1851031742",
+        "1877240378",
+        "1885156594",
+        "1888254701",
+        "2026892462",
+        "2070122514",
+        "2073346043",
+        "2080666024",
+        "2086042811",
+        "2090761460",
+        "2095708839",
+        "2100460660",
+        "2102632861",
+        "2110740499",
+        "2117685508",
+        "2120154759",
+        "2120976781",
+        "2132172731",
+        "2146828512",
+        "2149389044",
+        "2150307013",
+        "2151471396",
+        "2152688060",
+        "2152924492",
+        "2153193245",
+        "2161214567",
+        "2165210192",
+        "2201681885",
+        "2293748145",
+        "2296008393",
+        "2563302303",
+        "2793618823"
+    ]
+}

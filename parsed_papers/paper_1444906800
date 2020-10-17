@@ -1,0 +1,88 @@
+{
+    "id": "1444906800",
+    "title": "Trustworthy whole-system provenance for the Linux kernel",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Adam M. Bates",
+            "id": "2104257816",
+            "org": "University of Florida#TAB#"
+        },
+        {
+            "name": "Dave Tian",
+            "id": "2104927037",
+            "org": "University of Florida#TAB#"
+        },
+        {
+            "name": "Kevin R. B. Butler",
+            "id": "2113955458",
+            "org": "University of Florida#TAB#"
+        },
+        {
+            "name": "Thomas Moyer",
+            "id": "2750243280",
+            "org": "MIT Lincoln Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linux kernel",
+        "Computer science",
+        "Data loss",
+        "Computer security",
+        "File transfer",
+        "Metadata",
+        "Software deployment",
+        "Trustworthiness",
+        "Authentication",
+        "Real-time computing",
+        "Provenance"
+    ],
+    "references": [
+        "168132470",
+        "169514714",
+        "192765680",
+        "1486776102",
+        "1504669610",
+        "1559528097",
+        "1560881416",
+        "1575826986",
+        "1582703556",
+        "1585868236",
+        "1610688607",
+        "1653866131",
+        "1813893391",
+        "1858703999",
+        "1920357401",
+        "1973501242",
+        "1975197166",
+        "1986079362",
+        "1997493523",
+        "2009232481",
+        "2010507480",
+        "2033984447",
+        "2081276694",
+        "2106216804",
+        "2106334604",
+        "2106454705",
+        "2107571548",
+        "2111879155",
+        "2112582917",
+        "2119028650",
+        "2121239173",
+        "2122122437",
+        "2131300413",
+        "2140911579",
+        "2141736438",
+        "2152505375",
+        "2152841927",
+        "2156479376",
+        "2161337603",
+        "2162546229",
+        "2170646878",
+        "2182354159",
+        "2234087692",
+        "2400243382",
+        "2403314695"
+    ]
+}

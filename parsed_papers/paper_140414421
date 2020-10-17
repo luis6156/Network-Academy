@@ -1,0 +1,38 @@
+{
+    "id": "140414421",
+    "title": "On the performance of TCP splicing for URL-aware redirection",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ariel Cohen",
+            "id": "2429357386",
+            "org": "Bell Laboratories, Lucent Technologies, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Sampath Rangarajan",
+            "id": "2171138797",
+            "org": "Bell Laboratories, Lucent Technologies, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "J. Hamilton Slye",
+            "id": "2493713412",
+            "org": "Bell Laboratories, Lucent Technologies, Murray Hill, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Linux kernel",
+        "RNA splicing",
+        "Computer science",
+        "TCP tuning",
+        "Computer network",
+        "splice",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1792764119",
+        "2101964937"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1544099942",
+    "title": "Verifying a self-stabilizing mutual exclusion algorithm",
+    "venue": "ifip international conference on programming concepts and methods",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Shaz Qadeer",
+            "id": "1985363956",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "Natarajan Shankar",
+            "id": "2656325195",
+            "org": "Computer Science Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Suzuki-Kasami algorithm",
+        "Mutual exclusion",
+        "Maekawa's algorithm",
+        "Dijkstra's algorithm",
+        "Self-stabilization",
+        "Ricart-Agrawala algorithm",
+        "Distributed algorithm",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "1488858096",
+        "1534850143",
+        "1561383728",
+        "1857327297",
+        "2055164757",
+        "2080593426",
+        "2095425626",
+        "2111132249",
+        "2294012738"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1514626487",
+    "title": "Bounds-consistent local search",
+    "venue": "principles and practice of constraint programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stefania Verachi",
+            "id": "2274994020",
+            "org": "Cork Constraint Computation Centre, Department of Computer Science, University College, Cork, Ireland#TAB#"
+        },
+        {
+            "name": "Steven David Prestwich",
+            "id": "2163337453",
+            "org": "Cork Constraint Computation Centre, Department of Computer Science, University College, Cork, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Interpolation search",
+        "Search algorithm",
+        "Difference-map algorithm",
+        "Constraint satisfaction problem",
+        "Min-conflicts algorithm",
+        "Local search (optimization)",
+        "Local consistency",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "72011665",
+        "1518673335",
+        "1680219918",
+        "1740162652",
+        "2026355757",
+        "2030701413",
+        "2121766240"
+    ]
+}

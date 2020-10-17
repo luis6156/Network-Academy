@@ -1,0 +1,31 @@
+{
+    "id": "1595293129",
+    "title": "DNS meets DHT: treating massive ID resolution using DNS over DHT",
+    "venue": "symposium on applications and the internet",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yusuke Doi",
+            "id": "1968888549",
+            "org": "Comm. Platform Lab., Toshiba Corp., Kawasaki, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Root name server",
+        "Computer science",
+        "Distributed computing",
+        "Zone file",
+        "DNS zone transfer",
+        "nsupdate",
+        "Name server",
+        "Round-robin DNS",
+        "Computer network",
+        "DNS hijacking",
+        "DNS zone"
+    ],
+    "references": [
+        "1494946454",
+        "2106288941",
+        "2158049821"
+    ]
+}

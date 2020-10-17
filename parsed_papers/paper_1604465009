@@ -1,0 +1,67 @@
+{
+    "id": "1604465009",
+    "title": "Multicore scheduling of parallel real-time tasks with multiple parallelization options",
+    "venue": "real time technology and applications symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jihye Kwon",
+            "id": "2568316415",
+            "org": "Seoul National University, Seoul, Korea"
+        },
+        {
+            "name": "Kang-Wook Kim",
+            "id": "2608329989",
+            "org": "Seoul National University, Seoul, Korea"
+        },
+        {
+            "name": "Sangyoun Paik",
+            "id": "2222368319",
+            "org": "Seoul National University, Seoul, Korea"
+        },
+        {
+            "name": "Jihwa Lee",
+            "id": "2524502664",
+            "org": "Seoul National University, Seoul, Korea"
+        },
+        {
+            "name": "Chang-Gun Lee",
+            "id": "2687677406",
+            "org": "Seoul National University, Seoul, Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Gang scheduling",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1489025528",
+        "1980996541",
+        "1982587869",
+        "1991592471",
+        "2012059473",
+        "2012173880",
+        "2015293407",
+        "2016946898",
+        "2054998117",
+        "2080305826",
+        "2090822559",
+        "2090902997",
+        "2091641853",
+        "2095126271",
+        "2116581888",
+        "2132215926",
+        "2167731739",
+        "2255900832"
+    ]
+}

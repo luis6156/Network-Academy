@@ -1,0 +1,47 @@
+{
+    "id": "1572780580",
+    "title": "Extending FORK-256 attack to the full hash function",
+    "venue": "international conference on information and communication security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Scott Contini",
+            "id": "1978721060",
+            "org": "Centre for Advanced Computing, Algorithms and Cryptography, Department of Computing, Macquarie University#TAB#"
+        },
+        {
+            "name": "Krystian Matusiewicz",
+            "id": "1980694267",
+            "org": "Centre for Advanced Computing, Algorithms and Cryptography, Department of Computing, Macquarie University#TAB#"
+        },
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "Centre for Advanced Computing, Algorithms and Cryptography, Department of Computing, Macquarie University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Primary clustering",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Hash buster",
+        "Hash chain",
+        "Data mining",
+        "Collision attack",
+        "Hash filter",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1517923646",
+        "1540973840",
+        "1590624619",
+        "1591620981",
+        "1610003881",
+        "1669611298",
+        "2156501427",
+        "2396849988"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "1521505907",
+    "title": "Distributed quota enforcement for spam control",
+    "venue": "networked systems design and implementation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Walfish",
+            "id": "2048602404",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "J.D. Zamfirescu",
+            "id": "369625667",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "Hari Balakrishnan",
+            "id": "1998464616",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "David R. Karger",
+            "id": "2305153757",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "Scott Shenker",
+            "id": "719828399",
+            "org": "University of California, Berkeley, and ICSI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Replica",
+        "Reuse",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Control system",
+        "Enforcement",
+        "Email privacy",
+        "Systems design"
+    ],
+    "references": [
+        "19438344",
+        "95244180",
+        "135750602",
+        "1494215701",
+        "1564976454",
+        "1569390896",
+        "1576397915",
+        "1601379374",
+        "1656678770",
+        "1656731780",
+        "1805165030",
+        "1835459221",
+        "1989799035",
+        "1992254553",
+        "1998350371",
+        "2020765652",
+        "2041315700",
+        "2072410439",
+        "2077304190",
+        "2080557752",
+        "2086802227",
+        "2099323800",
+        "2104692292",
+        "2107863397",
+        "2108183412",
+        "2114349788",
+        "2114579022",
+        "2118428193",
+        "2126022651",
+        "2131489433",
+        "2139702785",
+        "2148275477",
+        "2152465173",
+        "2166748118",
+        "2171957559",
+        "2394489512"
+    ]
+}

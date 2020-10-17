@@ -1,0 +1,44 @@
+{
+    "id": "1583052623",
+    "title": "Concurrent dynamic backtracking for distributed CSPs",
+    "venue": "principles and practice of constraint programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Roie Zivan",
+            "id": "9632790",
+            "org": "Department of Computer Science, Ben-Gurion University of the Negev, Beer-Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Amnon Meisels",
+            "id": "1345247691",
+            "org": "Department of Computer Science, Ben-Gurion University of the Negev, Beer-Sheva, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Incremental heuristic search",
+        "Depth-first search",
+        "Computer science",
+        "Distributed computing",
+        "Iterative deepening depth-first search",
+        "Beam stack search",
+        "Best-first search",
+        "Fringe search",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1505686002",
+        "1564104211",
+        "1569739021",
+        "1973501242",
+        "2064540888",
+        "2071639741",
+        "2132050231",
+        "2155404885",
+        "2158896662",
+        "2160458341",
+        "2611515161"
+    ]
+}

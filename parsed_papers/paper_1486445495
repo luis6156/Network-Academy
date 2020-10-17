@@ -1,0 +1,47 @@
+{
+    "id": "1486445495",
+    "title": "A New Attack on the LEX Stream Cipher",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Ecole Normale Superieure, Departement d'Informatique, CNRS, INRIA, Paris, France 75230#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel 91904#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "eSTREAM",
+        "Affine cipher",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Algorithm",
+        "Computer science",
+        "Two-square cipher",
+        "Key whitening",
+        "Stream cipher attack",
+        "CBC-MAC"
+    ],
+    "references": [
+        "131640530",
+        "1518051266",
+        "1532078157",
+        "1554090281",
+        "1556212265",
+        "1587120902",
+        "1979802565",
+        "1994591449",
+        "2027528470",
+        "2130943734",
+        "2138109426",
+        "2164284862",
+        "2170489924"
+    ]
+}

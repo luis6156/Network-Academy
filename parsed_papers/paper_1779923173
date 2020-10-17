@@ -1,0 +1,45 @@
+{
+    "id": "1779923173",
+    "title": "A generalized method of differential fault attack against AES cryptosystem",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Amir Moradi",
+            "id": "2277297863",
+            "org": "Department of Computer Engineering, Sharif University of Technology, Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Mohammad Taghi Manzuri Shalmani",
+            "id": "1996548771",
+            "org": "Department of Computer Engineering, Sharif University of Technology, Tehran, Iran#TAB#"
+        },
+        {
+            "name": "Mahmoud Salmasizadeh",
+            "id": "2125292568",
+            "org": "Electronic Research Center, Sharif University of Technology, Tehran, Iran#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Algorithm",
+        "Cryptanalysis",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Cryptosystem",
+        "Differential fault analysis",
+        "Fault model"
+    ],
+    "references": [
+        "1537875328",
+        "2066425771",
+        "2110162979",
+        "2110941647",
+        "2112284176",
+        "2170489924"
+    ]
+}

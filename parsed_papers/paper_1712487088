@@ -1,0 +1,39 @@
+{
+    "id": "1712487088",
+    "title": "Reliable Unicast Streaming with Multiple Peers in IP Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Florian Unterkircher",
+            "id": "2408766035",
+            "org": "University of Innsbruck"
+        },
+        {
+            "name": "Michael Welzl",
+            "id": "2296395394",
+            "org": "University of Innsbruck"
+        }
+    ],
+    "fields_of_study": [
+        "Internet Protocol",
+        "Unicast",
+        "Computer science",
+        "Distributed computing",
+        "Anycast",
+        "Client-server model",
+        "Network address translation",
+        "Single point of failure",
+        "Computer network",
+        "Architecture"
+    ],
+    "references": [
+        "1501455604",
+        "1520132034",
+        "2126880366",
+        "2148647281",
+        "2162111441",
+        "2163059190",
+        "2169517512"
+    ]
+}

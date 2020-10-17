@@ -1,0 +1,38 @@
+{
+    "id": "1482918955",
+    "title": "System Description: CRIL Platform for SAT",
+    "venue": "conference on automated deduction",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Bertrand Mazure",
+            "id": "711703943",
+            "org": "CRIL - Universite d'Artois"
+        },
+        {
+            "name": "Lakhdar Sais",
+            "id": "2152639631",
+            "org": "CRIL - Universite d'Artois"
+        },
+        {
+            "name": "Eric Gregoire",
+            "id": "2099230921",
+            "org": "CRIL - Universite d'Artois"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Satisfiability",
+        "Computer science",
+        "Local search (optimization)",
+        "Propositional calculus",
+        "Tabu search",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "127040706",
+        "1667614912",
+        "2062897452",
+        "2106440199"
+    ]
+}

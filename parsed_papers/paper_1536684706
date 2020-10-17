@@ -1,0 +1,54 @@
+{
+    "id": "1536684706",
+    "title": "Polynomial Hash Functions Are Reliable (Extended Abstract)",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Martin Dietzfelbinger",
+            "id": "2174199062",
+            "org": "Universitat-GH-Paderborn Fachbereich Mathematik/Informatik and Heinz-Nixdorf-lnstitute D-W-4790 Paderborn Fed. Rep. Germany D-W-4790 Paderborn Fed. Rep. Germany"
+        },
+        {
+            "name": "Joseph Gil",
+            "id": "2135830137",
+            "org": "The University of British Columbia Department of Computer Science V6T 1Z2 Vancouver B.C. Canada V6T 1Z2 Vancouver B.C. Canada"
+        },
+        {
+            "name": "Yossi Matias",
+            "id": "1874579918",
+            "org": "University of Maryland|Tel Aviv University"
+        },
+        {
+            "name": "Nicholas Pippenger",
+            "id": "2094387482",
+            "org": "The University of British Columbia Department of Computer Science V6T 1Z2 Vancouver B.C. Canada V6T 1Z2 Vancouver B.C. Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Rolling hash",
+        "Computer science",
+        "Hash chain",
+        "Quadratic probing",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1964089073",
+        "1977041160",
+        "2019038806",
+        "2052207834",
+        "2055618684",
+        "2065438663",
+        "2077229436",
+        "2095717436",
+        "2107371087",
+        "2139822261",
+        "2152993997",
+        "2165621523"
+    ]
+}

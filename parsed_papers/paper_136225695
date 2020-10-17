@@ -1,0 +1,56 @@
+{
+    "id": "136225695",
+    "title": "Uncertain Subgraph Query Processing over Uncertain Graphs",
+    "venue": "asia-pacific web conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Wenjing Ruan",
+            "id": "2497185852",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Chaokun Wang",
+            "id": "2106340623",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Lu Han",
+            "id": "2558986960",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Zhuo Peng",
+            "id": "2127928280",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Yiyuan Bai",
+            "id": "2711044640",
+            "org": "Tsinghua University"
+        }
+    ],
+    "fields_of_study": [
+        "Graph database",
+        "Computer science",
+        "Data mining",
+        "Graph",
+        "Database",
+        "Correctness",
+        "Subgraph isomorphism problem",
+        "Data structure",
+        "Induced subgraph isomorphism problem"
+    ],
+    "references": [
+        "1510148020",
+        "2049446489",
+        "2057272970",
+        "2071333487",
+        "2100080493",
+        "2110034858",
+        "2123017611",
+        "2137442080",
+        "2158501189",
+        "2173213060"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1492670167",
+    "title": "Affiliation-hiding key exchange with untrusted group authorities",
+    "venue": "applied cryptography and network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mark Manulis",
+            "id": "1588396689",
+            "org": "TU Darmstadt & CASED, Germany#TAB#"
+        },
+        {
+            "name": "Bertram Poettering",
+            "id": "148584932",
+            "org": "TU Darmstadt & CASED, Germany#TAB#"
+        },
+        {
+            "name": "Gene Tsudik",
+            "id": "465425324",
+            "org": "Computer Science Department, UC Irvine#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Key exchange",
+        "Authentication",
+        "Computer science",
+        "Forward secrecy",
+        "Computer security",
+        "Computer network",
+        "Mobile ad hoc network",
+        "Social network",
+        "Random oracle",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "34846380",
+        "47635216",
+        "70641021",
+        "285691425",
+        "1511771844",
+        "1513478504",
+        "1517333100",
+        "1532961226",
+        "1589034595",
+        "1601001795",
+        "1601035209",
+        "1809942741",
+        "1885156594",
+        "2039268893",
+        "2052267638",
+        "2054458282",
+        "2054701830",
+        "2102091280",
+        "2135654420",
+        "2136757778",
+        "2148865534",
+        "2153281696",
+        "2165265664"
+    ]
+}

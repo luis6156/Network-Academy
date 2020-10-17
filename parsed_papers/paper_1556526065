@@ -1,0 +1,43 @@
+{
+    "id": "1556526065",
+    "title": "Proofs of Security for the Unix Password Hashing Algorithm",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California"
+        },
+        {
+            "name": "Ian Goldberg",
+            "id": "2113410603",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Password cracking",
+        "Cryptographic primitive",
+        "Salt (cryptography)",
+        "Theoretical computer science",
+        "Password strength",
+        "Computer science",
+        "Distributed computing",
+        "Password",
+        "One-time password",
+        "Unix",
+        "Message authentication code"
+    ],
+    "references": [
+        "12010980",
+        "1548067747",
+        "1550490546",
+        "2005386370",
+        "2015880590",
+        "2053030258",
+        "2110824700",
+        "2125591151",
+        "2131300413",
+        "2149929743"
+    ]
+}

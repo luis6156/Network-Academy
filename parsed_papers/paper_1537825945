@@ -1,0 +1,40 @@
+{
+    "id": "1537825945",
+    "title": "On the Key-Uncertainty of Quantum Ciphers and the Computational Security of One-Way Quantum Transmission",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "University of Arhus"
+        },
+        {
+            "name": "Thomas Brochmann Pedersen",
+            "id": "2302736561",
+            "org": "University of Arhus"
+        },
+        {
+            "name": "Louis Salvail",
+            "id": "2081042056",
+            "org": "University of Arhus"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Mathematics",
+        "Theoretical computer science",
+        "No-teleportation theorem",
+        "Discrete mathematics",
+        "Key clustering",
+        "Quantum cryptography",
+        "Ciphertext",
+        "One-time pad",
+        "Semantic security",
+        "Quantum capacity"
+    ],
+    "references": [
+        "1999184463",
+        "2098611377"
+    ]
+}

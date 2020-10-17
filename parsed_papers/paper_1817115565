@@ -1,0 +1,64 @@
+{
+    "id": "1817115565",
+    "title": "Self-stabilizing Byzantine asynchronous unison",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Swan Dubois",
+            "id": "2125905918",
+            "org": "LIP6, UMR, Universite Pierre et Marie Curie - Paris 6 & INRIA, France#TAB#"
+        },
+        {
+            "name": "Maria Potop-Butucaru",
+            "id": "2083925789",
+            "org": "LIP6, UMR, Universite Pierre et Marie Curie - Paris 6 & INRIA, France#TAB#"
+        },
+        {
+            "name": "Mikhail Nesterenko",
+            "id": "2575507071",
+            "org": "Kent State University#TAB#"
+        },
+        {
+            "name": "Sebastien Tixeuil",
+            "id": "2781472777",
+            "org": "LIP6, UMR, Universite Pierre et Marie Curie - Paris 6 & INRIA, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Clock synchronization",
+        "Shared memory",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Unison",
+        "Ring network",
+        "Quantum Byzantine agreement",
+        "Real-time computing",
+        "Computer cluster"
+    ],
+    "references": [
+        "117836817",
+        "1520594164",
+        "1523466325",
+        "1530145911",
+        "1535782201",
+        "1536438190",
+        "1543193821",
+        "1546022395",
+        "1817294132",
+        "1970745521",
+        "1975533944",
+        "1980247170",
+        "1997521442",
+        "2056209062",
+        "2092534058",
+        "2111132249",
+        "2120510885",
+        "2131053137",
+        "2161387104",
+        "2179127340",
+        "2340995113"
+    ]
+}

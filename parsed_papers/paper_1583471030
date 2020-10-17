@@ -1,0 +1,60 @@
+{
+    "id": "1583471030",
+    "title": "VSH, an efficient and provable collision-resistant hash function",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Scott Contini",
+            "id": "1978721060",
+            "org": "Department of Computing, Macquarie University, Australia#TAB#"
+        },
+        {
+            "name": "Arjen K. Lenstra",
+            "id": "2436602830",
+            "org": "EPFL IC LACAL, INJ 330, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Ron Steinfeld",
+            "id": "2146879686",
+            "org": "Department of Computing, Macquarie University, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Very smooth hash",
+        "Collision resistance",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Distributed computing",
+        "SWIFFT",
+        "General number field sieve",
+        "Hash function",
+        "Multiplicative group of integers modulo n",
+        "Integer factorization",
+        "Provable security"
+    ],
+    "references": [
+        "1493969756",
+        "1495266644",
+        "1495653136",
+        "1496417058",
+        "1498896551",
+        "1500682127",
+        "1549228503",
+        "1550745077",
+        "1595153681",
+        "1597998262",
+        "1600432225",
+        "1603837126",
+        "1653866131",
+        "1824639289",
+        "1974232544",
+        "2019806661",
+        "2113005412",
+        "2126609334",
+        "2144048023",
+        "2151413173",
+        "2155690458"
+    ]
+}

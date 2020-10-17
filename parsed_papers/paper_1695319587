@@ -1,0 +1,53 @@
+{
+    "id": "1695319587",
+    "title": "Rewriting general conjunctive queries using views",
+    "venue": "australasian database conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Junhu Wang",
+            "id": "2115281420",
+            "org": "Griffith University, Brisbane, Australia and Monash University, Churchill, Australia#TAB#"
+        },
+        {
+            "name": "Michael J. Maher",
+            "id": "2308495877",
+            "org": "Griffith University, Brisbane, Australia and Loyola University, Chicago#TAB#"
+        },
+        {
+            "name": "Rodney W. Topor",
+            "id": "488584163",
+            "org": "Griffith University, Brisbane, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data independence",
+        "Computer science",
+        "Data mining",
+        "Conjunctive query",
+        "Datalog",
+        "Boolean conjunctive query",
+        "Data integrity",
+        "Data integration",
+        "Database",
+        "Query optimization",
+        "Rewriting"
+    ],
+    "references": [
+        "1501976648",
+        "1602519158",
+        "1604794355",
+        "1879587332",
+        "1993996301",
+        "2027763082",
+        "2093480367",
+        "2094394144",
+        "2102048772",
+        "2111742782",
+        "2126004201",
+        "2160967997",
+        "2160983447",
+        "2295944566",
+        "2612212776"
+    ]
+}

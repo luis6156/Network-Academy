@@ -1,0 +1,81 @@
+{
+    "id": "103935667",
+    "title": "Constructing services with interposable virtual hardware",
+    "venue": "networked systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Andrew Whitaker",
+            "id": "2133661312",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Richard S. Cox",
+            "id": "2149827716",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Marianne Shaw",
+            "id": "2678023172",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Steven D. Grible",
+            "id": "2476152477",
+            "org": "University of Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer hardware",
+        "Hypervisor",
+        "Full virtualization",
+        "Kernel virtual address space",
+        "Distributed computing",
+        "Sandbox (computer security)",
+        "Computer science",
+        "Embedded system",
+        "Intrusion detection system",
+        "Virtual machine",
+        "Temporal isolation among virtual machines",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "11812818",
+        "19830081",
+        "186132619",
+        "1604135736",
+        "1641762327",
+        "1644882639",
+        "1844590493",
+        "2006816934",
+        "2006989942",
+        "2066660519",
+        "2083469471",
+        "2088837715",
+        "2089661946",
+        "2094224023",
+        "2095687239",
+        "2106035061",
+        "2108959037",
+        "2109192777",
+        "2113350481",
+        "2122960384",
+        "2124009922",
+        "2124288146",
+        "2131726714",
+        "2133239972",
+        "2140508184",
+        "2141253292",
+        "2142892618",
+        "2144984544",
+        "2154067205",
+        "2154612074",
+        "2154766204",
+        "2159477904",
+        "2160275438",
+        "2165848246",
+        "2166004296",
+        "2295705535"
+    ]
+}

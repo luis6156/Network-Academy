@@ -1,0 +1,54 @@
+{
+    "id": "1719766253",
+    "title": "Efficient Implementation of Rijndael Encryption in Reconfigurable Hardware: Improvements and Design Tradeoffs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Gael Rouvroy",
+            "id": "296332964",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Jean-Didier Legat",
+            "id": "2077657242",
+            "org": "Universite Catholique de Louvain"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Heuristics",
+        "Place and route",
+        "Advanced Encryption Standard",
+        "Engineering design process",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Algorithmics",
+        "AES implementations",
+        "Reconfigurable computing",
+        "Real-time computing"
+    ],
+    "references": [
+        "62567376",
+        "170872169",
+        "1487268209",
+        "1964872674",
+        "2099179520",
+        "2112244944",
+        "2117013296",
+        "2127752881",
+        "2130407297",
+        "2145881907"
+    ]
+}

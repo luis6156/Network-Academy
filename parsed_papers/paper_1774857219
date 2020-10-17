@@ -1,0 +1,35 @@
+{
+    "id": "1774857219",
+    "title": "Analysis of tree edit distance algorithms",
+    "venue": "combinatorial pattern matching",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Serge Dulucq",
+            "id": "2168109097",
+            "org": "LaBRI, Universite Bordeaux I, Talence cedex, France#TAB#"
+        },
+        {
+            "name": "Helene Touzet",
+            "id": "134747314",
+            "org": "LIFL, Universite Lille 1, Villeneuve d'Ascq cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interval tree",
+        "Algorithm",
+        "Damerau-Levenshtein distance",
+        "Computer science",
+        "Combinatorics",
+        "Wagner-Fischer algorithm",
+        "Cover tree",
+        "Edit distance",
+        "Dynamic programming"
+    ],
+    "references": [
+        "1605903931",
+        "1976373002",
+        "2088528526",
+        "2108584692"
+    ]
+}

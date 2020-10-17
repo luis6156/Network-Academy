@@ -1,0 +1,61 @@
+{
+    "id": "1539350143",
+    "title": "Evaluating block-level optimization through the IO path",
+    "venue": "usenix annual technical conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Alma Riska",
+            "id": "2303426871",
+            "org": "Seagate Research, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "James Larkby-Lahet",
+            "id": "2088824777",
+            "org": "Computer Science Dept., University of Pittsburgh, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Erik Riedel",
+            "id": "2115815168",
+            "org": "Seagate Research, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "I/O scheduling",
+        "Computer science",
+        "Merge (version control)",
+        "Scheduling (computing)",
+        "Queue",
+        "Disk controller",
+        "Software deployment",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "135447215",
+        "1604676572",
+        "1677118421",
+        "1860107648",
+        "1967092753",
+        "1996218716",
+        "1998927861",
+        "2000965156",
+        "2001500256",
+        "2017563980",
+        "2026723064",
+        "2029903384",
+        "2032008583",
+        "2071007836",
+        "2124213351",
+        "2124349089",
+        "2128946566",
+        "2135652458",
+        "2140817905",
+        "2149273293",
+        "2149864698",
+        "2166706887",
+        "2167819041"
+    ]
+}

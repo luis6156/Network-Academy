@@ -1,0 +1,34 @@
+{
+    "id": "1727936048",
+    "title": "Performance Profiling for OpenMP Tasks",
+    "venue": "international workshop on openmp",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Karl Furlinger",
+            "id": "2894228847",
+            "org": "Computer Science Division, EECS Department, University of California at Berkeley, Berkeley, U.S.A. CA 94720#TAB#"
+        },
+        {
+            "name": "David Skinner",
+            "id": "2169225132",
+            "org": "Lawrence Berkeley National Laboratory, Berkeley, U.S.A. CA 94720#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Profiling (computer programming)",
+        "Parallel computing",
+        "Computer architecture",
+        "Multi-core processor",
+        "Computer science",
+        "Instrumentation"
+    ],
+    "references": [
+        "1555873941",
+        "1595661905",
+        "1965351873",
+        "2033848632",
+        "2112966019",
+        "2136434791"
+    ]
+}

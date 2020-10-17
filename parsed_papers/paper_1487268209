@@ -1,0 +1,36 @@
+{
+    "id": "1487268209",
+    "title": "High Performance Single-Chip FPGA Rijndael Algorithm Implementations",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Maire McLoone",
+            "id": "2053354340",
+            "org": "The Queen's University of Belfast"
+        },
+        {
+            "name": "John V. McCanny",
+            "id": "2242512104",
+            "org": "The Queen's University of Belfast"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Throughput",
+        "Parallel computing",
+        "Computer architecture",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "Virtex",
+        "AES implementations",
+        "Application-specific integrated circuit"
+    ],
+    "references": [
+        "170872169",
+        "1660562555",
+        "2885816077"
+    ]
+}

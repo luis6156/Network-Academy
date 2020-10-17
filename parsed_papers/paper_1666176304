@@ -1,0 +1,52 @@
+{
+    "id": "1666176304",
+    "title": "BDD-based Bounded Model Checking for Temporal Properties of 1-Safe Petri Nets",
+    "venue": "Fundamenta Informaticae",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Artur Meski",
+            "id": "2081162704",
+            "org": "(Correspd.) Institute of Computer Science, Polish Academy of Sciences, Ordona 21, 01-237 Warsaw, Poland. {meski,penczek}@ipipan.waw.pl#TAB#"
+        },
+        {
+            "name": "Wojciech Penczek",
+            "id": "2030422577",
+            "org": "(Also affiliated with: Institute of Informatics, University of Natural Sciences and Humanities, 3 Maja 54, 08-110 Siedlce, Poland) Institute of Computer Science, Polish Academy of Sciences, Ordona ...#TAB#"
+        },
+        {
+            "name": "Agata Polrola",
+            "id": "333792388",
+            "org": "University of Lodz, FMCS, Banacha 22, 90-238 Lodz, Poland. polrola@wmi.uni.lodz.pl#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Symbolic method",
+        "Algorithm",
+        "Discrete mathematics",
+        "CTL*",
+        "Binary decision diagram",
+        "Bounded function",
+        "Stochastic Petri net",
+        "Petri net",
+        "Model checking"
+    ],
+    "references": [
+        "1490969264",
+        "1491214620",
+        "1494481937",
+        "1511470875",
+        "1550626198",
+        "1573354578",
+        "1645018187",
+        "1679534293",
+        "1749917042",
+        "1751719170",
+        "1787074469",
+        "2003143503",
+        "2080267935",
+        "2100404896",
+        "2114725357"
+    ]
+}

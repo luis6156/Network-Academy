@@ -1,0 +1,45 @@
+{
+    "id": "1588297800",
+    "title": "On the cryptographic applications of random functions",
+    "venue": "international cryptology conference",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Oded Goldreich",
+            "id": "65538393",
+            "org": "M.I.T. Laboratory for Computer Science Cambridge MA 02139 USA"
+        },
+        {
+            "name": "Shafi Goldwasser",
+            "id": "1728759264",
+            "org": "M.I.T. Laboratory for Computer Science Cambridge MA 02139 USA"
+        },
+        {
+            "name": "Silvio Micali",
+            "id": "699581604",
+            "org": "M.I.T. Laboratory for Computer Science Cambridge MA 02139 USA"
+        }
+    ],
+    "fields_of_study": [
+        "K-independent hashing",
+        "Hash table",
+        "Theoretical computer science",
+        "2-choice hashing",
+        "Universal hashing",
+        "Computer science",
+        "Hash function",
+        "Consistent hashing",
+        "Random function",
+        "Dynamic perfect hashing"
+    ],
+    "references": [
+        "1523854767",
+        "1569930334",
+        "1996360405",
+        "2052207834",
+        "2087115651",
+        "2118755837",
+        "2164284862",
+        "2169660454"
+    ]
+}

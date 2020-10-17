@@ -1,0 +1,54 @@
+{
+    "id": "1561595833",
+    "title": "Second preimages for SMASH",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mario Lamberger",
+            "id": "223978397",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Mathematics",
+        "MDC-2",
+        "Algorithm",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Hash chain",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "1491431082",
+        "1517500721",
+        "1547537489",
+        "1560301528",
+        "1587648112",
+        "1656731780",
+        "1660562555",
+        "1811456777",
+        "1863270349",
+        "2121021336",
+        "2155690458"
+    ]
+}

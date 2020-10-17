@@ -1,0 +1,56 @@
+{
+    "id": "1531361652",
+    "title": "Online/offline signature schemes for devices with limited computing capabilities",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ping Yu",
+            "id": "2407507506",
+            "org": "Department of Computer Science and Engineering, University of North Texas, Denton, TX#TAB#"
+        },
+        {
+            "name": "Stephen R. Tate",
+            "id": "2166695995",
+            "org": "Department of Computer Science, University of North Carolina at Greensboro, Greensboro, NC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Online and offline",
+        "Computer science",
+        "Distributed computing",
+        "Precomputation",
+        "Strong RSA assumption",
+        "Digital signature",
+        "Hash function",
+        "Schnorr signature",
+        "Random oracle",
+        "Real-time computing"
+    ],
+    "references": [
+        "167577406",
+        "1493969756",
+        "1495266644",
+        "1506914504",
+        "1589034595",
+        "1589205472",
+        "1591954407",
+        "1628832232",
+        "1653866131",
+        "1850675439",
+        "1851031742",
+        "1974232544",
+        "2002930326",
+        "2010507480",
+        "2052267638",
+        "2091827019",
+        "2108834246",
+        "2145301648",
+        "2151413173",
+        "2152521692",
+        "2156186849",
+        "2162653919",
+        "2563302303"
+    ]
+}

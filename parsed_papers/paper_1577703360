@@ -1,0 +1,39 @@
+{
+    "id": "1577703360",
+    "title": "CASCADE: a tool kernel supporting a comprehensive design method for asynchronous controllers",
+    "venue": "applications and theory of petri nets",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jochen Beister",
+            "id": "2078257805",
+            "org": "Department of Electrical Engineering, University of Kaiserslautern, Kaiserslautern, Germany#TAB#"
+        },
+        {
+            "name": "Gernot Eckstein",
+            "id": "2145882227",
+            "org": "Infineon Technologies, Munich, Germany#TAB#"
+        },
+        {
+            "name": "Ralf Wollowski",
+            "id": "2892768728",
+            "org": "Department of Electrical Engineering, University of Kaiserslautern, Kaiserslautern, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous circuit",
+        "Circuit design",
+        "Formal specification",
+        "Asynchronous communication",
+        "Computer science",
+        "Concurrency",
+        "Cascade",
+        "Petri net",
+        "Real-time computing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1902783639",
+        "2144243734"
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "1510508184",
+    "title": "Detecting targeted attacks using shadow honeypots",
+    "venue": "usenix security symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kostas G. Anagnostakis",
+            "id": "143871111",
+            "org": "CIS Department, Univ. of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Stelios Sidiroglou",
+            "id": "2075452274",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        },
+        {
+            "name": "Periklis Akritidis",
+            "id": "2779728267",
+            "org": "Institute of Computer Science - FORTH#TAB#"
+        },
+        {
+            "name": "Konstantinos Xinidis",
+            "id": "227590561",
+            "org": "Institute of Computer Science - FORTH#TAB#"
+        },
+        {
+            "name": "Evangelos P. Markatos",
+            "id": "1973983982",
+            "org": "Institute of Computer Science - FORTH#TAB#"
+        },
+        {
+            "name": "Angelos D. Keromytis",
+            "id": "299775663",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "End user",
+        "Software",
+        "Computer science",
+        "Computer security",
+        "Web server",
+        "Anomaly detection",
+        "Shadow",
+        "Systems design",
+        "Internet privacy",
+        "Architecture",
+        "Honeypot"
+    ],
+    "references": [
+        "28108053",
+        "71235019",
+        "88694106",
+        "139772808",
+        "182375779",
+        "206265171",
+        "1493322311",
+        "1498585374",
+        "1514368868",
+        "1525958661",
+        "1527422375",
+        "1529945719",
+        "1532313454",
+        "1540548505",
+        "1546137167",
+        "1561880491",
+        "1563242287",
+        "1581408521",
+        "1587340728",
+        "1594413569",
+        "1597305440",
+        "1601184934",
+        "1605124321",
+        "1671661096",
+        "1674877186",
+        "1744212210",
+        "1781758015",
+        "1876033015",
+        "1989060313",
+        "1994340575",
+        "2015181775",
+        "2034362794",
+        "2081357650",
+        "2092043296",
+        "2100666033",
+        "2100970777",
+        "2101893654",
+        "2102970979",
+        "2103378897",
+        "2107763323",
+        "2115888533",
+        "2116065364",
+        "2119779442",
+        "2126059122",
+        "2128948886",
+        "2134006599",
+        "2134514889",
+        "2137559158",
+        "2137786570",
+        "2138845856",
+        "2143840553",
+        "2158909123",
+        "2163762767",
+        "2166564602",
+        "2168264487",
+        "2170313477",
+        "2176994592",
+        "2178663527"
+    ]
+}

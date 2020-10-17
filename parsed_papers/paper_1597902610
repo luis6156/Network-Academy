@@ -1,0 +1,45 @@
+{
+    "id": "1597902610",
+    "title": "Brief announcement: chasing the weakest system model for implementing O and consensus",
+    "venue": "international conference on stabilization safety and security of distributed systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Martin Hutle",
+            "id": "2518111941",
+            "org": "Ecole Polytechnique Federale de Lausanne and Vienna University of Technology, Embedded Computing Systems Group#TAB#"
+        },
+        {
+            "name": "Dahlia Malkhi",
+            "id": "2703842649",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Ulrich Schmid",
+            "id": "2159209983",
+            "org": "Vienna University of Technology, Embedded Computing Systems Group#TAB#"
+        },
+        {
+            "name": "Lidong Zhou",
+            "id": "2698168491",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Oracle",
+        "Chase",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "System model",
+        "Asynchronous system",
+        "Impossibility",
+        "Distributed algorithm",
+        "Leader election"
+    ],
+    "references": [
+        "1968135156",
+        "2060265887",
+        "2102226439"
+    ]
+}

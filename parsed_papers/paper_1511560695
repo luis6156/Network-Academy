@@ -1,0 +1,58 @@
+{
+    "id": "1511560695",
+    "title": "Automatically Hardening Web Applications Using Precise Tainting",
+    "venue": "information security conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Anh Nguyen-Tuong",
+            "id": "81472127",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "Salvatore Guarnieri",
+            "id": "2303500368",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "Doug Greene",
+            "id": "2443265687",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "Jeff Shirley",
+            "id": "2124940493",
+            "org": "University of Virginia"
+        },
+        {
+            "name": "David Evans",
+            "id": "2612706959",
+            "org": "University of Virginia"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Web application security",
+        "Computer security",
+        "Database",
+        "Web application",
+        "Internet security",
+        "The Internet",
+        "Scripting language",
+        "Hardening (computing)",
+        "Cross-site scripting",
+        "SQL injection"
+    ],
+    "references": [
+        "1565113942",
+        "1584652999",
+        "1648477960",
+        "1983142587",
+        "2003115932",
+        "2101699859",
+        "2102970979",
+        "2122049982",
+        "2125000816",
+        "2146455667"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1545885783",
+    "title": "High-Bandwidth remote parallel i/o with the distributed memory filesystem MEMFS",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jan Seidel",
+            "id": "2162720993",
+            "org": "Department of Computer Science, University of Applied Sciences Bonn-Rhein-Sieg, St. Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Rudolf Berrendorf",
+            "id": "184675139",
+            "org": "Department of Computer Science, University of Applied Sciences Bonn-Rhein-Sieg, St. Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Marcel Birkner",
+            "id": "2109783136",
+            "org": "Department of Computer Science, University of Applied Sciences Bonn-Rhein-Sieg, St. Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Marc-Andre Hermanns",
+            "id": "2088627524",
+            "org": "Central Institute for Applied Mathematics, Research Centre Julich, Julich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel I/O",
+        "Supercomputer",
+        "Computer science",
+        "Distributed computing",
+        "Client-server model",
+        "Server",
+        "Distributed memory",
+        "Message passing",
+        "Virtual machine",
+        "Bottleneck"
+    ],
+    "references": [
+        "1582154066",
+        "1584082591",
+        "2081612620",
+        "2119565742",
+        "2145882792"
+    ]
+}

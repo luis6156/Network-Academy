@@ -1,0 +1,53 @@
+{
+    "id": "1795679902",
+    "title": "Software techniques for avoiding hardware virtualization exits",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ole Agesen",
+            "id": "2685641996",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Jim Mattson",
+            "id": "2279666306",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Radu Rugina",
+            "id": "2281121493",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Jeffrey W. Sheldon",
+            "id": "2159138951",
+            "org": "VMware#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Paging",
+        "Control flow",
+        "Parallel computing",
+        "Virtualization",
+        "Software",
+        "Binary translation",
+        "Computer science",
+        "Hardware virtualization",
+        "Operating system",
+        "Virtual machine",
+        "Real-time computing"
+    ],
+    "references": [
+        "1604135736",
+        "1893312510",
+        "2032086014",
+        "2110764613",
+        "2117648703",
+        "2120715680",
+        "2124365587",
+        "2131726714",
+        "2133119226"
+    ]
+}

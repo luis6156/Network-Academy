@@ -1,0 +1,82 @@
+{
+    "id": "1513155443",
+    "title": "The FTMPS-Project: Design and Implementation of Fault-Tolerance Techniques for Massively Parallel Systems",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Johan Vounckx",
+            "id": "238751153",
+            "org": "Katholieke Universiteit Leuven, ESAT"
+        },
+        {
+            "name": "Geert Deconinck",
+            "id": "2114527781",
+            "org": "Katholieke Universiteit Leuven, ESAT"
+        },
+        {
+            "name": "Rudy Lauwereins",
+            "id": "2427667568",
+            "org": "Katholieke Universiteit Leuven, ESAT"
+        },
+        {
+            "name": "G. Viehover",
+            "id": "1443828970",
+            "org": "Parsytec GmbH (D)"
+        },
+        {
+            "name": "R. Wagner",
+            "id": "2426384467",
+            "org": "Parsytec GmbH (D)"
+        },
+        {
+            "name": "Henrique Madeira",
+            "id": "2096385511",
+            "org": "Universidade de Coimbra (P)"
+        },
+        {
+            "name": "Joao Gabriel Silva",
+            "id": "2136798047",
+            "org": "Universidade de Coimbra (P)"
+        },
+        {
+            "name": "Frank Balbach",
+            "id": "2183588612",
+            "org": "F.A. Universitat Erlangen-Nurnberg (D)"
+        },
+        {
+            "name": "Jorn Altmann",
+            "id": "2308319712",
+            "org": "F.A. Universitat Erlangen-Nurnberg (D)"
+        },
+        {
+            "name": "Bernd Bieker",
+            "id": "2025542440",
+            "org": "Universitat-GH Paderborn (D)"
+        },
+        {
+            "name": "Harald Willeke",
+            "id": "2688670604",
+            "org": "Universitat-GH Paderborn (D)"
+        }
+    ],
+    "fields_of_study": [
+        "Massively parallel",
+        "Parallel computing",
+        "Computer architecture",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Visualization",
+        "Rollback",
+        "Control reconfiguration",
+        "Error detection and correction",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1587378023",
+        "1981514768",
+        "2093707842",
+        "2164484259"
+    ]
+}

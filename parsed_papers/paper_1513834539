@@ -1,0 +1,42 @@
+{
+    "id": "1513834539",
+    "title": "Key-exchange protocol using pre-agreed Session-ID",
+    "venue": "workshop on information security applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kenji Imamoto",
+            "id": "1823135037",
+            "org": "Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Kyushu University, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Key exchange",
+        "Computer science",
+        "Computer security",
+        "Eavesdropping",
+        "Session ID",
+        "Diffie-Hellman key exchange",
+        "The Internet",
+        "Information and Communications Technology"
+    ],
+    "references": [
+        "140743382",
+        "203500824",
+        "1488945699",
+        "1506423323",
+        "1772901473",
+        "1949661937",
+        "1967949770",
+        "2145385897",
+        "2153281696",
+        "2156186849",
+        "2164936884"
+    ]
+}

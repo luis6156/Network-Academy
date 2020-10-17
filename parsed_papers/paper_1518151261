@@ -1,0 +1,68 @@
+{
+    "id": "1518151261",
+    "title": "DyGen: automatic generation of high-coverage tests via mining gigabytes of dynamic traces",
+    "venue": "tests and proofs",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Suresh Thummalapenta",
+            "id": "242324359",
+            "org": "Department of Computer Science, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Jonathan de Halleux",
+            "id": "2049250606",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Nikolai Tillmann",
+            "id": "2119211746",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Scott Wadsworth",
+            "id": "2123756048",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Software",
+        "Computer science",
+        "Symbolic execution",
+        "Parameterized complexity",
+        "Unit testing",
+        "Real-time computing",
+        "Dynamic program analysis",
+        "Regression testing",
+        "Code coverage",
+        "Dynamic testing"
+    ],
+    "references": [
+        "157156687",
+        "1480909796",
+        "1720848645",
+        "1981875534",
+        "2009489720",
+        "2025677988",
+        "2053109026",
+        "2082274331",
+        "2096449544",
+        "2097347654",
+        "2097816970",
+        "2101512909",
+        "2107709519",
+        "2107751709",
+        "2109276114",
+        "2110311336",
+        "2115136809",
+        "2120552859",
+        "2122598528",
+        "2122987706",
+        "2133900335",
+        "2134825350",
+        "2160140538",
+        "2171718649",
+        "2172260321"
+    ]
+}

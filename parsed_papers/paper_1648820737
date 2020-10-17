@@ -1,0 +1,61 @@
+{
+    "id": "1648820737",
+    "title": "FAS: a freshness-sensitive coordination middleware for a cluster of OLAP components",
+    "venue": "very large data bases",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Uwe Rohm",
+            "id": "2140136442",
+            "org": "Swiss Federal Institute of Technology, ETH Zentrum, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Klemens Bohm",
+            "id": "2576069146",
+            "org": "Swiss Federal Institute of Technology, ETH Zentrum, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "Swiss Federal Institute of Technology, ETH Zentrum, Zurich, SwitzerlandSwiss Federal Institute of Technology, ETH Zentrum, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Heiko Schuldt",
+            "id": "2029357687",
+            "org": "Swiss Federal Institute of Technology, ETH Zentrum, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Online analytical processing",
+        "Data access",
+        "Computer science",
+        "Data mining",
+        "Scheduling (computing)",
+        "Database",
+        "Middleware",
+        "Data warehouse",
+        "Architecture",
+        "Database transaction"
+    ],
+    "references": [
+        "35152802",
+        "1545155892",
+        "1550128192",
+        "1580734344",
+        "1595234309",
+        "1602423797",
+        "1648759563",
+        "1987272746",
+        "2035300188",
+        "2075451706",
+        "2080653282",
+        "2103184997",
+        "2110557355",
+        "2111586962",
+        "2126356880",
+        "2128931995",
+        "2132410967",
+        "2138368466"
+    ]
+}

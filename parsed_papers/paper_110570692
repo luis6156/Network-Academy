@@ -1,0 +1,56 @@
+{
+    "id": "110570692",
+    "title": "Estimating ego-motion in panoramic image sequences with inertial measurements",
+    "venue": "international symposium on robotics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Felix Schill",
+            "id": "2323023527",
+            "org": "Australian National University"
+        },
+        {
+            "name": "Robert E. Mahony",
+            "id": "1034661245",
+            "org": "Australian National University"
+        },
+        {
+            "name": "Peter Corke",
+            "id": "302717507",
+            "org": "CSIRO ICT Centre"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Inertial frame of reference",
+        "RANSAC",
+        "k-means clustering",
+        "Optical flow",
+        "Computer vision",
+        "Computer science",
+        "Inertial measurement unit",
+        "Least squares",
+        "Bundle adjustment",
+        "Obstacle avoidance",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "94645952",
+        "1522172521",
+        "1804110266",
+        "2048837369",
+        "2062843605",
+        "2070814988",
+        "2085261163",
+        "2098009605",
+        "2109635530",
+        "2124313187",
+        "2140160557",
+        "2142262446",
+        "2149773317",
+        "2151315742",
+        "2154152083",
+        "2161160262",
+        "2163624503"
+    ]
+}

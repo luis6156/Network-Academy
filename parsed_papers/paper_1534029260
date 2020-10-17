@@ -1,0 +1,35 @@
+{
+    "id": "1534029260",
+    "title": "The Value of Merge-Join and Hash-Join in SQL Server",
+    "venue": "very large data bases",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Goetz Graefe",
+            "id": "2284116839",
+            "org": "Microsoft"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Business Intelligence Markup Language",
+        "Computer science",
+        "Data mining",
+        "Data Transformation Services",
+        "Hash join",
+        "Autocommit",
+        "Log shipping",
+        "Database",
+        "Sort-merge join",
+        "Nested set model"
+    ],
+    "references": [
+        "1986353419",
+        "2007030756",
+        "2033283439",
+        "2043934800",
+        "2153329411",
+        "2167276970",
+        "2169486917"
+    ]
+}

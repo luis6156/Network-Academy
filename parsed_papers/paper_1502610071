@@ -1,0 +1,69 @@
+{
+    "id": "1502610071",
+    "title": "Verifying cryptographic code in c: some experience and the csec challenge",
+    "venue": "formal aspects in security and trust",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mihhail Aizatulin",
+            "id": "80220654",
+            "org": "The Open University, UK#TAB#"
+        },
+        {
+            "name": "Francois Dupressoir",
+            "id": "1217134563",
+            "org": "The Open University, UK#TAB#"
+        },
+        {
+            "name": "Andrew D. Gordon",
+            "id": "2101841271",
+            "org": "Microsoft Research and University of Edinburgh, UK#TAB#"
+        },
+        {
+            "name": "Jan Jurjens",
+            "id": "1897045236",
+            "org": "TU Dortmund and Fraunhofer ISST, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "Software",
+        "Cryptographic protocol",
+        "Computer science",
+        "Key management",
+        "Controlled Cryptographic Item",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "157156687",
+        "1483411077",
+        "1496433309",
+        "1545681762",
+        "1556566737",
+        "1588201901",
+        "1594381772",
+        "1710734607",
+        "1905205493",
+        "1973054120",
+        "1991936533",
+        "2066183757",
+        "2081888787",
+        "2096449544",
+        "2099537756",
+        "2101512909",
+        "2104470100",
+        "2105506683",
+        "2107089133",
+        "2112018008",
+        "2114189125",
+        "2152845220",
+        "2161011930",
+        "2162926711",
+        "2168151327",
+        "2169923303",
+        "2170630946"
+    ]
+}

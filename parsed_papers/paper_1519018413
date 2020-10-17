@@ -1,0 +1,64 @@
+{
+    "id": "1519018413",
+    "title": "A new TCP/AQM system analysis",
+    "venue": "Journal of Network and Computer Applications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Qin Xu",
+            "id": "2427619057",
+            "org": "School of Network and Communications Engineering, Jinling Institute of Technology, Nanjing, Jiangsu Province, PRC#TAB#"
+        },
+        {
+            "name": "Fan Li",
+            "id": "2571705677",
+            "org": "Department of Electronic Engineering, City University of Hong Kong, Hong Kong, PRC#TAB#"
+        },
+        {
+            "name": "Jinsheng Sun",
+            "id": "2658649968",
+            "org": "Department of Automation, Nanjing University of Science and Technology, Nanjing, Jiangsu Province, PRC#TAB#"
+        },
+        {
+            "name": "Moshe Zukerman",
+            "id": "1802194711",
+            "org": "Department of Electronic Engineering, City University of Hong Kong, Hong Kong, PRC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Computer science",
+        "CUBIC TCP",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "Active queue management",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1804414343",
+        "1970131865",
+        "1981063968",
+        "1990920914",
+        "1991131212",
+        "1994717387",
+        "2013100532",
+        "2025953419",
+        "2039913599",
+        "2073728116",
+        "2078668777",
+        "2085194379",
+        "2126956578",
+        "2132210216",
+        "2136168676",
+        "2145722876",
+        "2145942024",
+        "2155393670",
+        "2155981613",
+        "2158733823",
+        "2257924330"
+    ]
+}

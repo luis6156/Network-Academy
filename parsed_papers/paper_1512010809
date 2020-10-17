@@ -1,0 +1,66 @@
+{
+    "id": "1512010809",
+    "title": "A formal analysis for capturing replay attacks in cryptographic protocols",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Han Gao",
+            "id": "2304010070",
+            "org": "Informatics and Mathematical Modelling, Technical University of Denmark, Lyngby, Denmark#TAB#"
+        },
+        {
+            "name": "Chiara Bodei",
+            "id": "2039277195",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Pisa, Italy#TAB#"
+        },
+        {
+            "name": "Pierpaolo Degano",
+            "id": "2352208385",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Pisa, Italy#TAB#"
+        },
+        {
+            "name": "Hanne Riis Nielson",
+            "id": "2345078223",
+            "org": "Informatics and Mathematical Modelling, Technical University of Denmark, Lyngby, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Semantics",
+        "Theoretical computer science",
+        "Static analysis",
+        "Cryptographic protocol",
+        "Cryptographic nonce",
+        "Distributed computing",
+        "Computer science",
+        "Control flow analysis",
+        "Otway-Rees protocol",
+        "Replay attack"
+    ],
+    "references": [
+        "1540692320",
+        "1596447773",
+        "1603799276",
+        "1606860353",
+        "1770463336",
+        "1967744155",
+        "1994676271",
+        "1995469872",
+        "1995955735",
+        "1996736473",
+        "2001788001",
+        "2029693536",
+        "2057657013",
+        "2058129511",
+        "2098830096",
+        "2099361263",
+        "2108228210",
+        "2111477637",
+        "2114189125",
+        "2117094531",
+        "2129158436",
+        "2141624400",
+        "2146973388"
+    ]
+}

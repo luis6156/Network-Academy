@@ -1,0 +1,37 @@
+{
+    "id": "1550888262",
+    "title": "An efficient implementation of a high-speed protocol without data copying",
+    "venue": "local computer networks",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Xi Zhang",
+            "id": "2105027195",
+            "org": "Sch. of Electr. Eng., Univ. of Technol., Sydney, NSW, Australia"
+        },
+        {
+            "name": "Aruna Seneviratne",
+            "id": "1976858675",
+            "org": "Sch. of Electr. Eng., Univ. of Technol., Sydney, NSW, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Internet Protocol",
+        "Link Control Protocol",
+        "Resource Reservation Protocol",
+        "Internet layer",
+        "Computer science",
+        "Distributed computing",
+        "OSI model",
+        "Computer network",
+        "Internet protocol suite",
+        "Real-time computing",
+        "Internet Protocol Control Protocol"
+    ],
+    "references": [
+        "2103887028",
+        "2126173042",
+        "2130500426"
+    ]
+}

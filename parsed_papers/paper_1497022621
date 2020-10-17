@@ -1,0 +1,72 @@
+{
+    "id": "1497022621",
+    "title": "Static Analysis for Secrecy and Non-interference in Networks of Processes",
+    "venue": "parallel computing technologies",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Chiara Bodei",
+            "id": "2039277195",
+            "org": "Universita di Pisa Dipartimento di Informatica Corso Italia 40 I-56125 Pisa Italy"
+        },
+        {
+            "name": "Pierpaolo Degano",
+            "id": "2894319899",
+            "org": "Universita di Pisa Dipartimento di Informatica Corso Italia 40 I-56125 Pisa Italy"
+        },
+        {
+            "name": "Flemming Nielson",
+            "id": "2057873166",
+            "org": "The Technical University of Denmark Informatics & Mathematical Modelling Richard Petersens Plads bld 321 DK-2800 Kongens Lyngby Denmark"
+        },
+        {
+            "name": "Hanne Riis Nielson",
+            "id": "2345078223",
+            "org": "The Technical University of Denmark Informatics & Mathematical Modelling Richard Petersens Plads bld 321 DK-2800 Kongens Lyngby Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Cryptography",
+        "Mathematics",
+        "Cryptographic protocol",
+        "Discrete mathematics",
+        "Static analysis",
+        "Correctness",
+        "Secrecy",
+        "Control flow analysis",
+        "Operational semantics"
+    ],
+    "references": [
+        "1487472891",
+        "1521217725",
+        "1549856788",
+        "1552110479",
+        "1557834454",
+        "1586966546",
+        "1973054120",
+        "1974152790",
+        "1977764760",
+        "1988856107",
+        "1989635597",
+        "1994676271",
+        "2006138892",
+        "2006520458",
+        "2016017569",
+        "2019545801",
+        "2029693536",
+        "2048984644",
+        "2057503672",
+        "2075283981",
+        "2093305078",
+        "2094873755",
+        "2105237010",
+        "2105750191",
+        "2129278597",
+        "2150174204",
+        "2157144873",
+        "2180221446",
+        "2650694610",
+        "2671458242"
+    ]
+}

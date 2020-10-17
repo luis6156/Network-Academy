@@ -1,0 +1,44 @@
+{
+    "id": "1598591924",
+    "title": "Generating BDDs for Symbolic Model Checking in CCS",
+    "venue": "computer aided verification",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Reinhard Enders",
+            "id": "1965273787",
+            "org": "Siemens AG, Corporate Research and Development (ZFE IS INF2)"
+        },
+        {
+            "name": "Thomas Filkorn",
+            "id": "2077551120",
+            "org": "Siemens AG, Corporate Research and Development (ZFE IS INF2)"
+        },
+        {
+            "name": "Dirk Taubner",
+            "id": "2664562731",
+            "org": "Siemens AG, Corporate Research and Development (ZFE IS INF2)"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Process calculus",
+        "Computer science",
+        "Binary decision diagram",
+        "Transition system",
+        "Characteristic function (probability theory)",
+        "Model checking"
+    ],
+    "references": [
+        "1492683468",
+        "1503973138",
+        "1577673148",
+        "1765032207",
+        "1844821597",
+        "1973642705",
+        "1992582873",
+        "2080267935",
+        "2143792700"
+    ]
+}

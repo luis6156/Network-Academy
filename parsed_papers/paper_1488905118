@@ -1,0 +1,57 @@
+{
+    "id": "1488905118",
+    "title": "Whitted ray-tracing for dynamic scenes using a ray-space hierarchy on the GPU",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Roger",
+            "id": "2138199993",
+            "org": "ARTIS/INRIA, Grenoble University#TAB#"
+        },
+        {
+            "name": "Ulf Assarsson",
+            "id": "282641971",
+            "org": "Chalmers University of Technology#TAB#"
+        },
+        {
+            "name": "Nicolas Holzschuch",
+            "id": "2093513829",
+            "org": "ARTIS/INRIA, Grenoble University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer graphics (images)",
+        "Computer vision",
+        "Rendering (computer graphics)",
+        "Specular reflection",
+        "Computer science",
+        "Shader",
+        "Ray tracing (graphics)",
+        "Image resolution",
+        "Hierarchy",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "104287041",
+        "176513580",
+        "1871077276",
+        "1965748115",
+        "1969931074",
+        "1982661771",
+        "1992446696",
+        "1993572304",
+        "2001100395",
+        "2001251394",
+        "2011119863",
+        "2060830712",
+        "2062604373",
+        "2079966308",
+        "2083126079",
+        "2103185791",
+        "2117236520",
+        "2136444500",
+        "2148309695",
+        "2165761862"
+    ]
+}

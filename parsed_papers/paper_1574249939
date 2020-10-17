@@ -1,0 +1,50 @@
+{
+    "id": "1574249939",
+    "title": "A Dynamic Tracing Mechanism for Performance Analysis of OpenMP Applications",
+    "venue": "international workshop on openmp",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jordi Caubet",
+            "id": "2796780989",
+            "org": "Department of Computer Architecture Technical University of Catalonia European Center for Parallelism of Barcelona Barcelona Spain"
+        },
+        {
+            "name": "Judit Gimenez",
+            "id": "2137437763",
+            "org": "Department of Computer Architecture Technical University of Catalonia European Center for Parallelism of Barcelona Barcelona Spain"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Department of Computer Architecture Technical University of Catalonia European Center for Parallelism of Barcelona Barcelona Spain"
+        },
+        {
+            "name": "Luiz De Rose",
+            "id": "2102716162",
+            "org": "IBM T. J. Watson Research Center Advanced Computing Technology Center Yorktown Heights NY USA"
+        },
+        {
+            "name": "Jeffrey S. Vetter",
+            "id": "2165234532",
+            "org": "Lawrence Livermore National Laboratory Center for Applied Scientific Computing Livermore CA USA"
+        }
+    ],
+    "fields_of_study": [
+        "Critical section",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Computer science",
+        "IBM",
+        "Tracing",
+        "Visualization",
+        "Instrumentation",
+        "Data collection"
+    ],
+    "references": [
+        "2098984303",
+        "2100006263",
+        "2160468841"
+    ]
+}

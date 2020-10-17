@@ -1,0 +1,43 @@
+{
+    "id": "1578871704",
+    "title": "Analysis of double block length hash functions",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Mitsuhiro Hattori",
+            "id": "2126256644",
+            "org": "Kyoto University"
+        },
+        {
+            "name": "Shoichi Hirose",
+            "id": "2140040504",
+            "org": "Kyoto University"
+        },
+        {
+            "name": "Susumu Yoshida",
+            "id": "1976995282",
+            "org": "Kyoto University"
+        }
+    ],
+    "fields_of_study": [
+        "Perfect hash function",
+        "K-independent hashing",
+        "Mathematics",
+        "Cryptographic hash function",
+        "Rolling hash",
+        "Discrete mathematics",
+        "Hash chain",
+        "Merkle-Damgard construction",
+        "Hash function",
+        "MDC-2"
+    ],
+    "references": [
+        "1549228503",
+        "1600432225",
+        "1660562555",
+        "1863270349",
+        "1872065828",
+        "2020726579"
+    ]
+}

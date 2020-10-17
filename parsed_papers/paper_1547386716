@@ -1,0 +1,81 @@
+{
+    "id": "1547386716",
+    "title": "Efficient GF(p m ) arithmetic architectures for cryptographic applications",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Guido Bertoni",
+            "id": "2106307877",
+            "org": "Politecnico di Milano, Milano, Italy#TAB#"
+        },
+        {
+            "name": "Jorge Guajardo",
+            "id": "2892747121",
+            "org": "Ruhr-Universitat Bochum, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Sandeep S. Kumar",
+            "id": "2252138241",
+            "org": "Ruhr-Universitat Bochum, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Gerardo Orlando",
+            "id": "2092598752",
+            "org": "General Dynamics Communication Systems, Needham, MA#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Ruhr-Universitat Bochum, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Thomas J. Wollinger",
+            "id": "249014504",
+            "org": "Ruhr-Universitat Bochum, Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Quadratic equation",
+        "Irreducible polynomial",
+        "System of linear equations",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Finite field",
+        "Linear independence",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1480030470",
+        "1489132985",
+        "1495266644",
+        "1518871948",
+        "1532836984",
+        "1534148356",
+        "1569499052",
+        "1573095851",
+        "1582298460",
+        "1583871653",
+        "1586812950",
+        "1589682573",
+        "1610688607",
+        "1637905077",
+        "1821087317",
+        "1869939343",
+        "1928474026",
+        "1966024510",
+        "1971726509",
+        "1979740015",
+        "1998368731",
+        "2003736153",
+        "2003769335",
+        "2086042811",
+        "2091987928",
+        "2112876561",
+        "2117919933",
+        "2118549466",
+        "2152924492"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1574038160",
+    "title": "FPGA time-bounded unclonable authentication",
+    "venue": "information hiding",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mehrdad Majzoobi",
+            "id": "2130845978",
+            "org": "Rice University, Electrical and Computer Engineering, Houston, TX#TAB#"
+        },
+        {
+            "name": "Ahmed Elnably",
+            "id": "361678607",
+            "org": "Rice University, Electrical and Computer Engineering, Houston, TX#TAB#"
+        },
+        {
+            "name": "Farinaz Koushanfar",
+            "id": "270906047",
+            "org": "Rice University, Electrical and Computer Engineering, Houston, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Theoretical computer science",
+        "Authentication protocol",
+        "Reverse engineering",
+        "Computer science",
+        "Virtex",
+        "Proof of concept",
+        "Bitstream",
+        "Logic block",
+        "Authentication",
+        "Real-time computing"
+    ],
+    "references": [
+        "1490907850",
+        "2000171858",
+        "2021705882",
+        "2022202043",
+        "2070196900",
+        "2113322447",
+        "2116374153",
+        "2130351941",
+        "2137153141",
+        "2156964356",
+        "2171762889",
+        "2172255798",
+        "2399877787",
+        "2400851979",
+        "2570008916"
+    ]
+}

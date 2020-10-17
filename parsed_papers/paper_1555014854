@@ -1,0 +1,48 @@
+{
+    "id": "1555014854",
+    "title": "Risks with Raw-Key Masking - The Security Evaluation of 2-Key XCBC",
+    "venue": "international conference on information and communication security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Soichi Furuya",
+            "id": "1967221437",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Masking (art)",
+        "Block cipher",
+        "Block cipher mode of operation",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Message authentication code",
+        "Provable security"
+    ],
+    "references": [
+        "1489027369",
+        "1562280314",
+        "1569469989",
+        "1597235115",
+        "1604454960",
+        "1801417685",
+        "1891091891",
+        "2064939672",
+        "2077300005",
+        "2117362057",
+        "2122984309",
+        "2139172211",
+        "2146009225",
+        "2147436504",
+        "2163466490",
+        "2168631744",
+        "2613962897"
+    ]
+}

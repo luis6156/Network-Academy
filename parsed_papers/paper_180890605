@@ -1,0 +1,63 @@
+{
+    "id": "180890605",
+    "title": "Exploiting past and future: pruning by inconsistent partial state dominance",
+    "venue": "principles and practice of constraint programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Christophe Lecoutre",
+            "id": "1645606797",
+            "org": "CRIL, CNRS, FRE, Lens cedex, France#TAB#"
+        },
+        {
+            "name": "Lakhdar Sais",
+            "id": "2152639631",
+            "org": "CRIL, CNRS, FRE, Lens cedex, France#TAB#"
+        },
+        {
+            "name": "Sebastien Tabary",
+            "id": "1991982871",
+            "org": "CRIL, CNRS, FRE, Lens cedex, France#TAB#"
+        },
+        {
+            "name": "Vincent Vidal",
+            "id": "2485587054",
+            "org": "CRIL, CNRS, FRE, Lens cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Search algorithm",
+        "Tree (data structure)",
+        "Constraint satisfaction problem",
+        "Transposition table",
+        "Constraint learning",
+        "Backtracking",
+        "Mathematical optimization",
+        "Search tree",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "16149696",
+        "126510619",
+        "128647713",
+        "137179583",
+        "1518705996",
+        "1595523023",
+        "1763513967",
+        "1819966380",
+        "1868221333",
+        "1986098046",
+        "2021700650",
+        "2043829066",
+        "2096307462",
+        "2113654469",
+        "2119815134",
+        "2125336041",
+        "2133930197",
+        "2142785340",
+        "2264413202"
+    ]
+}

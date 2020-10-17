@@ -1,0 +1,52 @@
+{
+    "id": "1533423240",
+    "title": "Detecting memory access errors with flow-sensitive conditional range analysis",
+    "venue": "international conference on embedded software and systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yimin Xia",
+            "id": "2467495800",
+            "org": "School of Computer Science, National University of Defense Technology, Changsha, P.R. China#TAB#"
+        },
+        {
+            "name": "Jun Luo",
+            "id": "2714635613",
+            "org": "School of Computer Science, National University of Defense Technology, Changsha, P.R. China#TAB#"
+        },
+        {
+            "name": "Minxuan Zhang",
+            "id": "2643350688",
+            "org": "School of Computer Science, National University of Defense Technology, Changsha, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Redundant array of independent memory",
+        "Nondeterministic algorithm",
+        "Algorithm",
+        "Static analysis",
+        "Computer science",
+        "Memory address",
+        "Uniform memory access",
+        "Computing with Memory",
+        "Flat memory model"
+    ],
+    "references": [
+        "1499992849",
+        "1513884898",
+        "1573175443",
+        "1579850852",
+        "1998285060",
+        "2009288822",
+        "2043100293",
+        "2095115578",
+        "2108149083",
+        "2119029078",
+        "2122751766",
+        "2131135493",
+        "2138538192",
+        "2146455667",
+        "2153185479"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1525623009",
+    "title": "Model Checking Using Adaptive State and Data Abstraction",
+    "venue": "computer aided verification",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Dennis Dams",
+            "id": "2065067749",
+            "org": "Dept. of Math. and Computing Science, Eindhoven University of Technology, Eindhoven, The Netherlands"
+        },
+        {
+            "name": "Rob Gerth",
+            "id": "2068905476",
+            "org": "Dept. of Math. and Computing Science, Eindhoven University of Technology, Eindhoven, The Netherlands"
+        },
+        {
+            "name": "Gert Dohmen",
+            "id": "2167396414",
+            "org": "OFFIS, Oldenburg, Germany"
+        },
+        {
+            "name": "Ronald Herrmann",
+            "id": "2120618451",
+            "org": "OFFIS, Oldenburg, Germany"
+        },
+        {
+            "name": "Peter Kelb",
+            "id": "16142356",
+            "org": "OFFIS, Oldenburg, Germany"
+        },
+        {
+            "name": "Hergen Pargmann",
+            "id": "100979553",
+            "org": "University of Oldenburg, Oldenburg, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "VHDL",
+        "Computer science",
+        "Binary decision diagram",
+        "Abstract interpretation",
+        "Symbolic trajectory evaluation",
+        "Abstraction",
+        "Model checking",
+        "If and only if",
+        "Abstraction model checking"
+    ],
+    "references": [
+        "1528441743",
+        "1550110278",
+        "1579440316",
+        "1934074768",
+        "2016079448",
+        "2030224590",
+        "2043100293",
+        "2080267935",
+        "2082373315",
+        "2099529102",
+        "2129335898",
+        "2143792700"
+    ]
+}

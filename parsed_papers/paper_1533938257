@@ -1,0 +1,49 @@
+{
+    "id": "1533938257",
+    "title": "DSSZ-MC --- A Tool for Symbolic Analysis of Extended Petri Nets",
+    "venue": "applications and theory of petri nets",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Monika Heiner",
+            "id": "1981762573",
+            "org": "Computing Science Institute, Brandenburg University of Technology, Email:dsszmc@informatik.tu-cottbus.de, Cottbus, Germany 03013#TAB#"
+        },
+        {
+            "name": "Martin Schwarick",
+            "id": "857500453",
+            "org": "Computing Science Institute, Brandenburg University of Technology, Email:dsszmc@informatik.tu-cottbus.de, Cottbus, Germany 03013#TAB#"
+        },
+        {
+            "name": "Alexej Tovchigrechko",
+            "id": "2103830192",
+            "org": "Computing Science Institute, Brandenburg University of Technology, Email:dsszmc@informatik.tu-cottbus.de, Cottbus, Germany 03013#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Symbolic data analysis",
+        "Discrete mathematics",
+        "Computer science",
+        "State space",
+        "CTL*",
+        "Binary decision diagram",
+        "Liveness",
+        "Petri net",
+        "Model checking",
+        "Influence diagram"
+    ],
+    "references": [
+        "62928302",
+        "1497489765",
+        "1511470875",
+        "1521615649",
+        "1544529442",
+        "1786236181",
+        "1975335740",
+        "2080267935",
+        "2102263388",
+        "2148895036",
+        "2340735175"
+    ]
+}

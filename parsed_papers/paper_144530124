@@ -1,0 +1,73 @@
+{
+    "id": "144530124",
+    "title": "Secure Key Exchange and Sessions without Credentials",
+    "venue": "international conference on security and cryptography",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Ran Canetti",
+            "id": "687553606",
+            "org": "Boston University"
+        },
+        {
+            "name": "Vladimir Kolesnikov",
+            "id": "2469209240",
+            "org": "Bell Labs"
+        },
+        {
+            "name": "Charles Rackoff",
+            "id": "2015702761",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Yevgeniy Vahlis",
+            "id": "273228002",
+            "org": "Bionym Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Credential",
+        "Key exchange",
+        "Public key infrastructure",
+        "Computer science",
+        "Computer security",
+        "Secure communication",
+        "Password",
+        "Random oracle",
+        "Commitment scheme"
+    ],
+    "references": [
+        "126491009",
+        "140743382",
+        "146411806",
+        "193356274",
+        "1495266644",
+        "1499934958",
+        "1504856445",
+        "1516161674",
+        "1537652141",
+        "1561441787",
+        "1588049796",
+        "1601218083",
+        "1604454960",
+        "1759759811",
+        "1867273832",
+        "1885156594",
+        "2049954999",
+        "2055668544",
+        "2077140897",
+        "2098121410",
+        "2106847401",
+        "2110804296",
+        "2117966590",
+        "2126484007",
+        "2130513648",
+        "2134475940",
+        "2153281696",
+        "2156186849",
+        "2157604883",
+        "2163172859",
+        "2572799557"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "1408671314",
+    "title": "I know what your packet did last hop: using packet histories to troubleshoot networks",
+    "venue": "networked systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Nikhil Handigol",
+            "id": "2276354311",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Brandon Heller",
+            "id": "2169347810",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Vimalkumar Jeyakumar",
+            "id": "2056491872",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "David Mazieres",
+            "id": "292459508",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Nick McKeown",
+            "id": "218283174",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Packet analyzer",
+        "Processing delay",
+        "Server",
+        "Network packet",
+        "Debugger",
+        "Hop (networking)",
+        "Computer network",
+        "Real-time computing",
+        "Packet generator",
+        "Link state packet"
+    ],
+    "references": [
+        "29015912",
+        "158224344",
+        "1537198022",
+        "1560486077",
+        "1675033504",
+        "1697123834",
+        "1882012874",
+        "1967361896",
+        "1967949770",
+        "2022758041",
+        "2071737726",
+        "2096575919",
+        "2105099212",
+        "2108183412",
+        "2115526539",
+        "2119030343",
+        "2122695394",
+        "2136451165",
+        "2138381338",
+        "2144261930",
+        "2168169496",
+        "2168595508",
+        "2180601376",
+        "2255206882",
+        "2408119291"
+    ]
+}

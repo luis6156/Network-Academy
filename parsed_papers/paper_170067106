@@ -1,0 +1,60 @@
+{
+    "id": "170067106",
+    "title": "Kernel Support for Faster Web Proxies.",
+    "venue": "usenix annual technical conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Marcel-Catalin Rosu",
+            "id": "2226543455",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Daniela Rosu",
+            "id": "2192551863",
+            "org": "IBM"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "epoll",
+        "Cache",
+        "STREAMS",
+        "Context switch",
+        "Parallel computing",
+        "Computer science",
+        "Pipeline (computing)",
+        "Web application",
+        "splice",
+        "Real-time computing"
+    ],
+    "references": [
+        "56843469",
+        "140414421",
+        "1590303417",
+        "1661326830",
+        "1733713784",
+        "1851082386",
+        "1862553259",
+        "1969537051",
+        "1976442970",
+        "2004921682",
+        "2010440587",
+        "2045185505",
+        "2058102980",
+        "2059175872",
+        "2101214690",
+        "2101964937",
+        "2104651826",
+        "2111673261",
+        "2119705782",
+        "2125636680",
+        "2126022651",
+        "2127768834",
+        "2138415632",
+        "2140727382",
+        "2148620466",
+        "2152112690",
+        "2152723376"
+    ]
+}

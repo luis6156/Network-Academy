@@ -1,0 +1,56 @@
+{
+    "id": "108719100",
+    "title": "Resistance against Adaptive Plaintext-Ciphertext Iterated Distinguishers",
+    "venue": "international conference on cryptology in india",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Asli Bay",
+            "id": "2655847246",
+            "org": "EPFL"
+        },
+        {
+            "name": "Atefeh Mashatan",
+            "id": "113235389",
+            "org": "Canadian Imperial Bank of Commerce (CIBC)"
+        },
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "EPFL"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Cipher",
+        "Transposition cipher",
+        "Malleability",
+        "Discrete mathematics",
+        "Stream cipher",
+        "Key clustering",
+        "Ciphertext"
+    ],
+    "references": [
+        "52191336",
+        "137991468",
+        "1485064528",
+        "1498892963",
+        "1545249138",
+        "1598307445",
+        "1678111027",
+        "1822778316",
+        "1865777748",
+        "1985623009",
+        "2024729203",
+        "2027701442",
+        "2042585615",
+        "2052207834",
+        "2128514748",
+        "2152187672",
+        "2156540767",
+        "2704846172"
+    ]
+}

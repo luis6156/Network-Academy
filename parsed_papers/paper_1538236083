@@ -1,0 +1,51 @@
+{
+    "id": "1538236083",
+    "title": "Reducing memory sharing overheads in distributed JVMs",
+    "venue": "high performance computing and communications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marcelo Lobosco",
+            "id": "2305861882",
+            "org": "Laboratorio de Computacao Paralela, PESC, COPPE, UFRJ, Rio de Janeiro, Brazil#TAB#"
+        },
+        {
+            "name": "Orlando Loques",
+            "id": "2068033190",
+            "org": "Instituto de Computacao, Universidade Federal Fluminense, Boa Viagem, Niteroi, Brazil#TAB#"
+        },
+        {
+            "name": "Claudio Luis de Amorim",
+            "id": "2111249529",
+            "org": "Laboratorio de Computacao Paralela, PESC, COPPE, UFRJ, Rio de Janeiro, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Java",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Memory coherence",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Operating system",
+        "Real-time computing",
+        "Computer cluster",
+        "Virtual machine"
+    ],
+    "references": [
+        "1533109738",
+        "1542985837",
+        "1599175355",
+        "2000834745",
+        "2044902313",
+        "2061207497",
+        "2097113145",
+        "2117126200",
+        "2133022700",
+        "2145021036",
+        "2152390090",
+        "2171648195"
+    ]
+}

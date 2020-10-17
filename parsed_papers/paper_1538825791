@@ -1,0 +1,44 @@
+{
+    "id": "1538825791",
+    "title": "Byte slicing Grostl Optimized Intel AES-NI and 8-bit implementations of the SHA-3 finalist Grostl",
+    "venue": "international conference on security and cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Kazumaro Aoki",
+            "id": "2437729937",
+            "org": "NTT Corp., Tokyo, Japan"
+        },
+        {
+            "name": "Gunther Roland",
+            "id": "2166193252",
+            "org": "IAIK, Graz Univ. of Technol., Graz, Austria"
+        },
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Corp., Tokyo, Japan"
+        },
+        {
+            "name": "Martin Schlaffer",
+            "id": "2159898291",
+            "org": "IAIK, Graz Univ. of Technol., Graz, Austria"
+        }
+    ],
+    "fields_of_study": [
+        "Program slicing",
+        "Grostl",
+        "Byte",
+        "Parallel computing",
+        "Slicing",
+        "Hash function",
+        "Computer science",
+        "8-bit",
+        "SHA-3",
+        "AES instruction set"
+    ],
+    "references": [
+        "1480815770",
+        "1558076723"
+    ]
+}

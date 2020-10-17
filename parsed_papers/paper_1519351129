@@ -1,0 +1,72 @@
+{
+    "id": "1519351129",
+    "title": "Efficient Padding Oracle Attacks on Cryptographic Hardware",
+    "venue": "international cryptology conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Romain Bardou",
+            "id": "2894497945",
+            "org": "INRIA Project ProSecCo, Paris, France#TAB#"
+        },
+        {
+            "name": "Riccardo Focardi",
+            "id": "344358645",
+            "org": "DAIS, Universiti Ca' Foscari, Venezia, Italy#TAB#"
+        },
+        {
+            "name": "Yusuke Kawamoto",
+            "id": "2568565589",
+            "org": "School of Computer Science, University of Birmingham, Birmingham, UK#TAB#"
+        },
+        {
+            "name": "Lorenzo Simionato",
+            "id": "2687874689",
+            "org": "DAIS, Universiti Ca' Foscari, Venezia, Italy#TAB#"
+        },
+        {
+            "name": "Graham Steel",
+            "id": "2462626393",
+            "org": "INRIA Project ProSecCo, Paris, France#TAB#"
+        },
+        {
+            "name": "Joe-Kai Tsay",
+            "id": "2600941585",
+            "org": "Department of Telematics, NTNU, Trondheim, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal asymmetric encryption padding",
+        "Pre-play attack",
+        "Side channel attack",
+        "Padding oracle attack",
+        "Computer science",
+        "Distributed computing",
+        "Padding",
+        "Attack model",
+        "Public-key cryptography",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "185864230",
+        "1495266644",
+        "1511943692",
+        "1514302123",
+        "1515849662",
+        "1518301672",
+        "1591554527",
+        "1604454960",
+        "1721673008",
+        "1809974132",
+        "1863793285",
+        "2038266826",
+        "2077836579",
+        "2091797419",
+        "2113911758",
+        "2125030112",
+        "2154209904",
+        "2159840470",
+        "2166093784",
+        "2270964349"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1550792582",
+    "title": "NetKuang: a multi-host configuration vulnerability checker",
+    "venue": "usenix security symposium",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Dan Zerkle",
+            "id": "2022188237",
+            "org": "Department of Computer Science, University of California at Davis#TAB#"
+        },
+        {
+            "name": "Karl N. Levitt",
+            "id": "2110449791",
+            "org": "Department of Computer Science, University of California at Davis#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Vulnerability",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Unix",
+        "System configuration",
+        "Operating system"
+    ],
+    "references": [
+        "1483652549",
+        "2149299273"
+    ]
+}

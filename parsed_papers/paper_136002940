@@ -1,0 +1,68 @@
+{
+    "id": "136002940",
+    "title": "Constructing Call Graphs of Scala Programs",
+    "venue": "european conference on object oriented programming",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Karim Ali",
+            "id": "2588461540",
+            "org": "University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Marianna Rapoport",
+            "id": "2156581738",
+            "org": "University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Ondrej Lhotak",
+            "id": "2083806378",
+            "org": "University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Julian Dolby",
+            "id": "2089081252",
+            "org": "IBM T.J. Watson Research Center, USA#TAB#"
+        },
+        {
+            "name": "Frank Tip",
+            "id": "2778292168",
+            "org": "University of Waterloo, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Compiler",
+        "Bytecode",
+        "Graph",
+        "Scala",
+        "Abstract type",
+        "Call graph",
+        "Programming language"
+    ],
+    "references": [
+        "148369031",
+        "206636664",
+        "1536098516",
+        "1536265389",
+        "1557543533",
+        "1591274473",
+        "1959797194",
+        "1966831167",
+        "2000194923",
+        "2023274008",
+        "2051600169",
+        "2066070747",
+        "2069476565",
+        "2102389857",
+        "2115460680",
+        "2117426803",
+        "2142019528",
+        "2142547405",
+        "2151562310",
+        "2162762034",
+        "2163627399",
+        "2171240827"
+    ]
+}

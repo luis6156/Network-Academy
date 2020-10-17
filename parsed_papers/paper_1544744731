@@ -1,0 +1,45 @@
+{
+    "id": "1544744731",
+    "title": "Visualizing the Memory Access Behavior of Shared Memory Applications on NUMA Architectures",
+    "venue": "international conference on computational science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Martin Schulz",
+            "id": "2122506644",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Memory management",
+        "Computing with Memory",
+        "Distributed shared memory",
+        "Data diffusion machine",
+        "Memory map",
+        "Flat memory model"
+    ],
+    "references": [
+        "1484766661",
+        "1494383050",
+        "1523525818",
+        "1560620049",
+        "1591115750",
+        "1904701476",
+        "2138180780",
+        "2146236522"
+    ]
+}

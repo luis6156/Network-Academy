@@ -1,0 +1,36 @@
+{
+    "id": "1524351898",
+    "title": "A Compacting Garbage Collector for Unidirectional Heaps",
+    "venue": "implementation and application of functional languages",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kent Boortz",
+            "id": "1120128562",
+            "org": "Ericsson Software Technology"
+        },
+        {
+            "name": "Dan Sahlin",
+            "id": "2502201408",
+            "org": "Ericsson Telecom"
+        }
+    ],
+    "fields_of_study": [
+        "Pointer (computer programming)",
+        "Computer science",
+        "Erlang (programming language)",
+        "Garbage collection",
+        "Memory management",
+        "Heap (data structure)",
+        "Functional programming",
+        "Programming language"
+    ],
+    "references": [
+        "1585046460",
+        "1905484215",
+        "2016022395",
+        "2028080565",
+        "2037473049",
+        "2040704129"
+    ]
+}

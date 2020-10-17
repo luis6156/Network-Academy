@@ -1,0 +1,80 @@
+{
+    "id": "1652793671",
+    "title": "Solving the straggler problem with bounded staleness",
+    "venue": "hot topics in operating systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "James Cipar",
+            "id": "2130378856",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Qirong Ho",
+            "id": "2171689288",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Jin Kyu Kim",
+            "id": "2308163177",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Seunghak Lee",
+            "id": "2115333817",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Gregory R. Ganger",
+            "id": "2791808",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Garth A. Gibson",
+            "id": "2235094860",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Kimberly Keeton",
+            "id": "1894617025",
+            "org": "HP Labs#TAB#"
+        },
+        {
+            "name": "Eric P. Xing",
+            "id": "351197510",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Bulk synchronous parallel",
+        "Computer science",
+        "Distributed computing",
+        "Bounded function",
+        "Implementation",
+        "Slowdown",
+        "Model of computation"
+    ],
+    "references": [
+        "511601",
+        "21111227",
+        "156208468",
+        "200298483",
+        "1861377444",
+        "1880262756",
+        "1973459706",
+        "1983472973",
+        "2053354515",
+        "2067263736",
+        "2068975988",
+        "2108219067",
+        "2110104287",
+        "2114643899",
+        "2115806861",
+        "2138996412",
+        "2153029569",
+        "2161730338",
+        "2170902912"
+    ]
+}

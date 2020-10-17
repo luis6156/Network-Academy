@@ -1,0 +1,73 @@
+{
+    "id": "1515962957",
+    "title": "The complexity of satisfiability problems: refining Schaefer's theorem",
+    "venue": "mathematical foundations of computer science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eric Allender",
+            "id": "2091164281",
+            "org": "Department of Computer Science, Rutgers University, Piscataway, NJ#TAB#"
+        },
+        {
+            "name": "Michael Bauland",
+            "id": "1227510360",
+            "org": "Theoretische Informatik, Universitat Hannover, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Neil Immerman",
+            "id": "2036035498",
+            "org": "Department of Computer and Information Science, University of Massachusetts, Amherst, MA#TAB#"
+        },
+        {
+            "name": "Henning Schnoor",
+            "id": "2003681373",
+            "org": "Theoretische Informatik, Universitat Hannover, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Heribert Vollmer",
+            "id": "2093379894",
+            "org": "Theoretische Informatik, Universitat Hannover, Hannover, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Isomorphism",
+        "Constraint satisfaction problem",
+        "Schaefer's dichotomy theorem",
+        "Discrete mathematics",
+        "Constraint satisfaction",
+        "Combinatorics",
+        "Isomorphism extension theorem",
+        "Complexity of constraint satisfaction",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "319186231",
+        "1484932907",
+        "1488709943",
+        "1562734116",
+        "1590283810",
+        "1657692463",
+        "1696059587",
+        "1883324231",
+        "1975241280",
+        "1976876676",
+        "1987205876",
+        "2010526744",
+        "2035877205",
+        "2043360684",
+        "2043438634",
+        "2071035573",
+        "2072639390",
+        "2114841580",
+        "2116407296",
+        "2129023820",
+        "2129230332",
+        "2150339067",
+        "2158800868",
+        "2166162093",
+        "2166566648"
+    ]
+}

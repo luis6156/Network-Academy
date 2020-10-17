@@ -1,0 +1,50 @@
+{
+    "id": "1547113406",
+    "title": "PartJoin: An Efficient Storage and Query Execution for Data Warehouses",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ladjel Bellatreche",
+            "id": "158375695",
+            "org": "IMERIR"
+        },
+        {
+            "name": "Michel Schneider",
+            "id": "2623469963",
+            "org": "Blaise Pascal University"
+        },
+        {
+            "name": "Mukesh K. Mohania",
+            "id": "254200932",
+            "org": "I.I.T., Delhi"
+        },
+        {
+            "name": "Bharat K. Bhargava",
+            "id": "2121378700",
+            "org": "Purdue University"
+        }
+    ],
+    "fields_of_study": [
+        "Online analytical processing",
+        "Warehouse",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Data processing",
+        "Search engine indexing",
+        "Database",
+        "A* search algorithm",
+        "Materialized view",
+        "Data warehouse"
+    ],
+    "references": [
+        "1542786062",
+        "1565760524",
+        "1851390469",
+        "2111967617",
+        "2153803014",
+        "2167445883",
+        "2285725925"
+    ]
+}

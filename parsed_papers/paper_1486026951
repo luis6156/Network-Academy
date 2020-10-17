@@ -1,0 +1,57 @@
+{
+    "id": "1486026951",
+    "title": "Automatic detection and segmentation of ground glass opacity nodules",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jinghao Zhou",
+            "id": "2346915516",
+            "org": "CBIM, Rutgers, The State University of New Jersey, NJ#TAB#"
+        },
+        {
+            "name": "Sukmoon Chang",
+            "id": "2147004701",
+            "org": "CBIM, Rutgers, The State University of New Jersey, NJ#TAB#"
+        },
+        {
+            "name": "Dimitris N. Metaxas",
+            "id": "1991743105",
+            "org": "CBIM, Rutgers, The State University of New Jersey, NJ#TAB#"
+        },
+        {
+            "name": "Binsheng Zhao",
+            "id": "2601487908",
+            "org": "Department of Radiology, Memorial Sloan-Kettering Cancer Center, NY#TAB#"
+        },
+        {
+            "name": "Lawrence H. Schwartz",
+            "id": "2123286087",
+            "org": "Department of Radiology, Memorial Sloan-Kettering Cancer Center, NY#TAB#"
+        },
+        {
+            "name": "Michelle S. Ginsberg",
+            "id": "2071995114",
+            "org": "Department of Radiology, Memorial Sloan-Kettering Cancer Center, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Opacity",
+        "Computer vision",
+        "Pattern recognition",
+        "Ground-glass opacity",
+        "Attenuation",
+        "Boosting (machine learning)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1545151060",
+        "1555173571",
+        "1731194882",
+        "1958408903",
+        "2006686554",
+        "2080592970",
+        "2112076978"
+    ]
+}

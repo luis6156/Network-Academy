@@ -1,0 +1,51 @@
+{
+    "id": "125480971",
+    "title": "Delta compressed and deduplicated storage using stream-informed locality",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Philip Shilane",
+            "id": "2079148098",
+            "org": "EMC Corporation#TAB#"
+        },
+        {
+            "name": "Grant Wallace",
+            "id": "2286689323",
+            "org": "EMC Corporation#TAB#"
+        },
+        {
+            "name": "Mark Huang",
+            "id": "2155306588",
+            "org": "EMC Corporation#TAB#"
+        },
+        {
+            "name": "Windsor W. Hsu",
+            "id": "2104350463",
+            "org": "EMC Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "Throughput",
+        "Computer science",
+        "Delta encoding",
+        "Compression (physics)",
+        "Backup",
+        "Data deduplication",
+        "Data integrity",
+        "Real-time computing",
+        "Delta"
+    ],
+    "references": [
+        "182307532",
+        "200233886",
+        "1576397915",
+        "1609518033",
+        "1998817683",
+        "2029673812",
+        "2073370301",
+        "2132627996",
+        "2137092019"
+    ]
+}

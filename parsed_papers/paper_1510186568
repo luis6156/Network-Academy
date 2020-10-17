@@ -1,0 +1,70 @@
+{
+    "id": "1510186568",
+    "title": "MPI Runtime Error Detection with MUST: A Scalable and Crash-Safe Approach",
+    "venue": "international conference on parallel processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Joachim Protze",
+            "id": "2099945612",
+            "org": "RWTH Aachen Univ., Aachen, Germany"
+        },
+        {
+            "name": "Tobias Hilbrich",
+            "id": "2074480507",
+            "org": "Tech. Univ. Dresden, Dresden, Germany"
+        },
+        {
+            "name": "Martin Schulz",
+            "id": "2122506644",
+            "org": "Lawrence Livermore Nat. Lab., Livermore, CA, USA"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Lawrence Livermore Nat. Lab., Livermore, CA, USA"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Tech. Univ. Dresden, Dresden, Germany"
+        },
+        {
+            "name": "Matthias S. Mueller",
+            "id": "2569670984",
+            "org": "RWTH Aachen Univ., Aachen, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Crash",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Distributed memory",
+        "Real-time computing",
+        "Correctness",
+        "Error detection and correction",
+        "Debugging",
+        "Runtime error detection"
+    ],
+    "references": [
+        "46645073",
+        "77419049",
+        "170768260",
+        "1565978235",
+        "1978562726",
+        "1992135271",
+        "2009223344",
+        "2054129151",
+        "2066278930",
+        "2089405485",
+        "2090337990",
+        "2106913893",
+        "2132415006",
+        "2160097679",
+        "2168225224",
+        "2171371822"
+    ]
+}

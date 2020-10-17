@@ -1,0 +1,59 @@
+{
+    "id": "1554453014",
+    "title": "Supporting MPI-2 one sided communication on multi-rail infiniband clusters: design challenges and performance benefits",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Abhinav Vishnu",
+            "id": "1184334124",
+            "org": "Department of Computer Science and Engineering, The Ohio State University, Columbus, OH#TAB#"
+        },
+        {
+            "name": "Gopalakrishnan Santhanaraman",
+            "id": "1993030442",
+            "org": "Department of Computer Science and Engineering, The Ohio State University, Columbus, OH#TAB#"
+        },
+        {
+            "name": "Wei Huang",
+            "id": "2603086190",
+            "org": "Department of Computer Science and Engineering, The Ohio State University, Columbus, OH#TAB#"
+        },
+        {
+            "name": "Hyun-Wook Jin",
+            "id": "2231510597",
+            "org": "Department of Computer Science and Engineering, The Ohio State University, Columbus, OH#TAB#"
+        },
+        {
+            "name": "Dhabaleswar K. Panda",
+            "id": "2126583185",
+            "org": "Department of Computer Science and Engineering, The Ohio State University, Columbus, OH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Throughput",
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "InfiniBand",
+        "Latency (engineering)",
+        "Message Passing Interface",
+        "Computer cluster"
+    ],
+    "references": [
+        "1552841156",
+        "1590267976",
+        "1861151562",
+        "1939228150",
+        "1977458987",
+        "1986234180",
+        "2081612620",
+        "2102650110",
+        "2104381683",
+        "2144282903",
+        "2163665413"
+    ]
+}

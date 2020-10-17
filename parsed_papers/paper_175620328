@@ -1,0 +1,52 @@
+{
+    "id": "175620328",
+    "title": "Behavioral singletons to consistently handle global states of security patterns",
+    "venue": "distributed applications and interoperable systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Linda Ariani Gunawan",
+            "id": "2097242898",
+            "org": "Department of Telematics, Norwegian University of Science and Technology (NTNU), Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Frank Alexander Kraemer",
+            "id": "2019784529",
+            "org": "Department of Telematics, Norwegian University of Science and Technology (NTNU), Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Peter Herrmann",
+            "id": "2152053724",
+            "org": "Department of Telematics, Norwegian University of Science and Technology (NTNU), Trondheim, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System requirements specification",
+        "Stateful firewall",
+        "Behavioral modeling",
+        "Transport Layer Security",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Authorization",
+        "Authentication",
+        "Real-time computing",
+        "Finite-state machine"
+    ],
+    "references": [
+        "84960321",
+        "1512457201",
+        "1513291134",
+        "1589071908",
+        "1971320885",
+        "1982313944",
+        "2035429327",
+        "2043496916",
+        "2043723411",
+        "2124489275",
+        "2132107743",
+        "2154849547",
+        "2155450436",
+        "2258757581"
+    ]
+}

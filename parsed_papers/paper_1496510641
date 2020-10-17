@@ -1,0 +1,55 @@
+{
+    "id": "1496510641",
+    "title": "Improving the Effectiveness of Web Caching",
+    "venue": "Advances in Computers",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jean-Marc Menaud",
+            "id": "240179464",
+            "org": "INRIA IRISA"
+        },
+        {
+            "name": "Valerie Issarny",
+            "id": "727259636",
+            "org": "INRIA IRISA"
+        },
+        {
+            "name": "Michel Banatre",
+            "id": "1978844945",
+            "org": "INRIA IRISA"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Smart Cache",
+        "Computer science",
+        "Cache stampede",
+        "Bus sniffing",
+        "False sharing",
+        "Distributed computing",
+        "Cache pollution",
+        "Cache invalidation"
+    ],
+    "references": [
+        "1514223801",
+        "1527961683",
+        "1575304539",
+        "1579489005",
+        "1660562555",
+        "1832220559",
+        "2011831586",
+        "2022013117",
+        "2037842078",
+        "2040402865",
+        "2049482525",
+        "2049666548",
+        "2085845213",
+        "2097718645",
+        "2104701686",
+        "2123845384",
+        "2149527305",
+        "2157740020"
+    ]
+}

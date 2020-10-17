@@ -1,0 +1,95 @@
+{
+    "id": "1471655812",
+    "title": "Mercury: hybrid centralized and distributed scheduling in large shared clusters",
+    "venue": "usenix annual technical conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Konstantinos Karanasos",
+            "id": "1014424442",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Sriram Rao",
+            "id": "2160086781",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Carlo Curino",
+            "id": "2045003753",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Chris Douglas",
+            "id": "2167862625",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Kishore R. Chaliparambil",
+            "id": "1036813078",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Giovanni Matteo Fumarola",
+            "id": "2283870714",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Solom Heddaya",
+            "id": "277355881",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Raghu Ramakrishnan",
+            "id": "2574082543",
+            "org": "Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Sarvesh Sakalanaga",
+            "id": "2776538093",
+            "org": "Microsoft Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Throughput",
+        "Parallel computing",
+        "Resource management",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (production processes)",
+        "Scheduling (computing)",
+        "Analytics",
+        "Dynamic priority scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1464363888",
+        "1523319063",
+        "1596936080",
+        "1890643295",
+        "1982063824",
+        "1994752578",
+        "2020369684",
+        "2022678927",
+        "2038157364",
+        "2064956312",
+        "2072637364",
+        "2083647394",
+        "2086689563",
+        "2096125134",
+        "2102849319",
+        "2105947650",
+        "2120422789",
+        "2131975293",
+        "2133569115",
+        "2137726616",
+        "2141992894",
+        "2151251992",
+        "2160121678",
+        "2163961697",
+        "2189465200",
+        "2394680079"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "132710837",
+    "title": "To catch a predator: a natural language approach for eliciting malicious payloads",
+    "venue": "usenix security symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sam Small",
+            "id": "2120111586",
+            "org": "Johns Hopkins University#TAB#"
+        },
+        {
+            "name": "Joshua Mason",
+            "id": "2144144832",
+            "org": "Johns Hopkins University#TAB#"
+        },
+        {
+            "name": "Fabian Monrose",
+            "id": "126037460",
+            "org": "Johns Hopkins University#TAB#"
+        },
+        {
+            "name": "Niels Provos",
+            "id": "2274458662",
+            "org": "Google Inc.#TAB#"
+        },
+        {
+            "name": "Adam Stubblefield",
+            "id": "1989862221",
+            "org": "Johns Hopkins University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Computer security",
+        "Web application",
+        "Exploit",
+        "Natural language",
+        "Botnet",
+        "Modular design",
+        "Payload",
+        "Honeypot"
+    ],
+    "references": [
+        "191098608",
+        "202500387",
+        "1489157620",
+        "1491237615",
+        "1498592591",
+        "1514368868",
+        "1538375546",
+        "1590936031",
+        "1630225947",
+        "1921075642",
+        "2033811087",
+        "2102671922",
+        "2102970979",
+        "2111998194",
+        "2113641473",
+        "2126059122",
+        "2137786570",
+        "2142892618",
+        "2158060559",
+        "2164253698",
+        "2178663527",
+        "2296437506",
+        "2464902793"
+    ]
+}

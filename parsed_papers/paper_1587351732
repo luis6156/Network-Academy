@@ -1,0 +1,52 @@
+{
+    "id": "1587351732",
+    "title": "Cryptanalytic Flaws in Oh et al.'s ID-Based Authenticated Key Agreement Protocol",
+    "venue": "international conference on computational science and its applications",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Meng-Hui Lim",
+            "id": "2153850143",
+            "org": "Department of Ubiquitous IT, Graduate School of Design & IT, Dongseo University, Busan, Korea 617-716#TAB#"
+        },
+        {
+            "name": "Sanggon Lee",
+            "id": "2117770055",
+            "org": "Department of Information and Communication, Dongseo University, Busan, Korea 617-716#TAB#"
+        },
+        {
+            "name": "Hoon Jae Lee",
+            "id": "2127091691",
+            "org": "Department of Information and Communication, Dongseo University, Busan, Korea 617-716#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Computer science",
+        "Elliptic curve Diffie-Hellman",
+        "Distributed computing",
+        "Forward secrecy",
+        "Shared secret",
+        "Data integrity",
+        "Key-agreement protocol",
+        "Key (lock)",
+        "SPEKE"
+    ],
+    "references": [
+        "1495266644",
+        "1502577962",
+        "1527077352",
+        "1532836984",
+        "1543874923",
+        "1549244102",
+        "1593401740",
+        "1990448153",
+        "1998368731",
+        "2086042811",
+        "2098996144",
+        "2152924492",
+        "2155672489",
+        "2395655462",
+        "2807244342"
+    ]
+}

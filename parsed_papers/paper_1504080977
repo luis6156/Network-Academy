@@ -1,0 +1,60 @@
+{
+    "id": "1504080977",
+    "title": "An efficient data race detector backend for DIOTA",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michiel Ronsse",
+            "id": "2001268419",
+            "org": "ELIS Department, Ghent University, Belgium"
+        },
+        {
+            "name": "Bastiaan Stougie",
+            "id": "2400762473",
+            "org": "Parallel and Distributed Systems, Delft University of Technology, The Netherlands"
+        },
+        {
+            "name": "Jonas Maebe",
+            "id": "2028317637",
+            "org": "ELIS Department, Ghent University, Belgium"
+        },
+        {
+            "name": "Frank Cornelis",
+            "id": "2893925144",
+            "org": "ELIS Department, Ghent University, Belgium"
+        },
+        {
+            "name": "Koenraad De Bosschere",
+            "id": "2170705665",
+            "org": "ELIS Department, Ghent University, Belgium"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Merge (version control)",
+        "Bitmap",
+        "Real-time computing",
+        "Instrumentation",
+        "Instrumentation (computer programming)",
+        "Matrix clock",
+        "Detector"
+    ],
+    "references": [
+        "17332244",
+        "32942804",
+        "48631345",
+        "1910349989",
+        "1972544179",
+        "1973501242",
+        "2011544478",
+        "2040851906",
+        "2087668037",
+        "2108706758",
+        "2125011947",
+        "2144629321",
+        "2147506153",
+        "2170200862"
+    ]
+}

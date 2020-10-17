@@ -1,0 +1,52 @@
+{
+    "id": "1494836645",
+    "title": "Preimage Attack on Hash Function RIPEMD",
+    "venue": "information security practice and experience",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Gaoli Wang",
+            "id": "2613597499",
+            "org": "School of Computer Science and Technology, Donghua University, Shanghai, China 201620#TAB#"
+        },
+        {
+            "name": "Shaohui Wang",
+            "id": "2239630418",
+            "org": "Nanjing University of Posts and Telecommunications, Nanjing, China 210046#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "MD2",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Computer security",
+        "RIPEMD",
+        "Collision attack",
+        "Chosen-ciphertext attack",
+        "Preimage attack"
+    ],
+    "references": [
+        "172560767",
+        "1499593564",
+        "1512498994",
+        "1531810027",
+        "1533979572",
+        "1560301528",
+        "1568906052",
+        "1587648112",
+        "1590269592",
+        "1656731780",
+        "2007585625",
+        "2098801947",
+        "2103239853",
+        "2110407451",
+        "2130238828",
+        "2131212920",
+        "2144849953",
+        "2521026666",
+        "2611506938"
+    ]
+}

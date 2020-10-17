@@ -1,0 +1,42 @@
+{
+    "id": "1589067485",
+    "title": "An approach to 2D/3D registration of a vertebra in 2D X-ray fluoroscopies with 3D CT images",
+    "venue": "CVRMed-MRCAS '97 Proceedings of the First Joint Conference on Computer Vision, Virtual Reality and Robotics in Medicine and Medial Robotics and Computer-Assisted Surgery",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jurgen Weese",
+            "id": "2095821299",
+            "org": "Technical Systems Hamburg"
+        },
+        {
+            "name": "Thorsten M. Buzug",
+            "id": "33235168",
+            "org": "Technical Systems Hamburg"
+        },
+        {
+            "name": "Cristian Lorenz",
+            "id": "2104394241",
+            "org": "Technical Systems Hamburg"
+        },
+        {
+            "name": "Carola Fassnacht",
+            "id": "2039192039",
+            "org": "Technical Systems Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Vertebra",
+        "Computer vision",
+        "Computer science",
+        "Rigid transformation",
+        "Radiology",
+        "Coordinate system",
+        "Voxel",
+        "Similarity measure",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2136244984"
+    ]
+}

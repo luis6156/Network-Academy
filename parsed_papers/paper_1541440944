@@ -1,0 +1,42 @@
+{
+    "id": "1541440944",
+    "title": "Concurrent Turing Machines",
+    "venue": "Fundamenta Informaticae",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Berndt Farwer",
+            "id": "123659286",
+            "org": "Durham University, Department of Computer Science South Road, Durham DH1 3LE, UK. E-mail: berndt.farwer@durham.ac.uk#TAB#"
+        },
+        {
+            "name": "Manfred Kudlek",
+            "id": "71226787",
+            "org": "University of Hamburg, Department of Informatics Vogt-Kolln-Str.30, 22527 Hamburg, Germany. E-mail: {kudlek,roelke}@informatik.uni-hamburg.de#TAB#"
+        },
+        {
+            "name": "Heiko Rolke",
+            "id": "2054789157",
+            "org": "University of Hamburg, Department of Informatics Vogt-Kolln-Str.30, 22527 Hamburg, Germany. E-mail: {kudlek,roelke}@informatik.uni-hamburg.de#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Turing machine examples",
+        "NSPACE",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Description number",
+        "Turing machine",
+        "Register machine",
+        "Time hierarchy theorem",
+        "Universal Turing machine",
+        "Super-recursive algorithm"
+    ],
+    "references": [
+        "1488034598",
+        "1575260069",
+        "2064373842",
+        "2134287022"
+    ]
+}

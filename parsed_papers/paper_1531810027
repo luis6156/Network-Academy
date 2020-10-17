@@ -1,0 +1,37 @@
+{
+    "id": "1531810027",
+    "title": "On the need for multipermutations: Cryptanalysis of MD4 and SAFER",
+    "venue": "fast software encryption",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "Ecole Normale Superieure - DMI"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Cryptographic primitive",
+        "Theoretical computer science",
+        "MDS matrix",
+        "Cryptanalysis",
+        "Computer science",
+        "Brute-force search",
+        "Computer security",
+        "SAFER",
+        "Hash function"
+    ],
+    "references": [
+        "1537206908",
+        "1542500920",
+        "1549228503",
+        "1552810527",
+        "1597936869",
+        "1600432225",
+        "1964723977",
+        "1999184463",
+        "2098801947",
+        "2133371372"
+    ]
+}

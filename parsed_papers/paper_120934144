@@ -1,0 +1,53 @@
+{
+    "id": "120934144",
+    "title": "Small Public Keys and Fast Verification for \\(\\mathcal{M}\\)ultivariate \\(\\mathcal{Q}\\)uadratic Public Key Systems",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Albrecht Petzoldt",
+            "id": "2637063092",
+            "org": "Technische Universitat Darmstadt and, Center for Advanced Security Research Darmstadt (CASED), Germany"
+        },
+        {
+            "name": "Enrico Thomae",
+            "id": "1349923557",
+            "org": "Horst Gortz Institute for IT-security, Faculty of Mathematics, Ruhr-University of Bochum, Bochum, Germany"
+        },
+        {
+            "name": "Stanislav Bulygin",
+            "id": "1992962191",
+            "org": "Technische Universitat Darmstadt and, Center for Advanced Security Research Darmstadt (CASED), Germany"
+        },
+        {
+            "name": "Christopher Wolf",
+            "id": "2136384110",
+            "org": "Horst Gortz Institute for IT-security, Faculty of Mathematics, Ruhr-University of Bochum, Bochum, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Post-quantum cryptography",
+        "Discrete mathematics",
+        "Key (lock)",
+        "Public-key cryptography",
+        "Unbalanced Oil and Vinegar",
+        "Polynomial"
+    ],
+    "references": [
+        "137478731",
+        "140331756",
+        "1481415336",
+        "1523986989",
+        "1551206651",
+        "1565977209",
+        "1573563287",
+        "1576359684",
+        "1618496890",
+        "1628272610",
+        "2006504364",
+        "2129993508",
+        "2137147061"
+    ]
+}

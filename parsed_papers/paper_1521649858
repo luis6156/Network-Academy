@@ -1,0 +1,49 @@
+{
+    "id": "1521649858",
+    "title": "Efficient Elliptic Curve Cryptosystems from a Scalar Multiplication Algorithm with Recovery of the y-Coordinate on a Montgomery-Form Elliptic Curve",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Katsuyuki Okeya",
+            "id": "1780672632",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Montgomery curve",
+        "Mathematics",
+        "Algorithm",
+        "Curve25519",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Algebra",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1490476950",
+        "1496801598",
+        "1501115028",
+        "1522228241",
+        "1539482743",
+        "1561414281",
+        "1575893707",
+        "1591209990",
+        "1613874182",
+        "1664808737",
+        "1869939343",
+        "2003736153",
+        "2108834246",
+        "2121110380",
+        "2139192386"
+    ]
+}

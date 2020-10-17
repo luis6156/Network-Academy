@@ -1,0 +1,45 @@
+{
+    "id": "1573172013",
+    "title": "An Implementation of Eden on Top of Concurrent Haskell",
+    "venue": "implementation and application of functional languages",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Silvia Breitinger",
+            "id": "120308518",
+            "org": "Philipps-Universitat Marburg"
+        },
+        {
+            "name": "Ulrike Klusik",
+            "id": "249251696",
+            "org": "Philipps-Universitat Marburg"
+        },
+        {
+            "name": "Rita Loogen",
+            "id": "67920613",
+            "org": "Philipps-Universitat Marburg"
+        }
+    ],
+    "fields_of_study": [
+        "Computer architecture",
+        "Abstract syntax tree",
+        "Computer science",
+        "Haskell",
+        "Concurrent Haskell",
+        "Distributed memory",
+        "Functional programming",
+        "Programming language implementation",
+        "Programming language"
+    ],
+    "references": [
+        "1571962375",
+        "1586362748",
+        "1981994545",
+        "1983587116",
+        "2030463561",
+        "2122250035",
+        "2132084888",
+        "2146241924",
+        "2296715995"
+    ]
+}

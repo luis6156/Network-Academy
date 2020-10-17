@@ -1,0 +1,50 @@
+{
+    "id": "1518301672",
+    "title": "Side-Channel Attacks on Symmetric Encryption Schemes: The Case for Authenticated Encryption",
+    "venue": "usenix security symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "John Black",
+            "id": "2126678344",
+            "org": "University of Nevada, Reno"
+        },
+        {
+            "name": "Hector Urtubia",
+            "id": "2680639096",
+            "org": "University of Nevada, Reno"
+        }
+    ],
+    "fields_of_study": [
+        "40-bit encryption",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Multiple encryption",
+        "On-the-fly encryption"
+    ],
+    "references": [
+        "1511943692",
+        "1516512945",
+        "1536045256",
+        "1551910192",
+        "1578627459",
+        "1596153847",
+        "1660562555",
+        "1809974132",
+        "1993257560",
+        "2026041383",
+        "2114566185",
+        "2131300413",
+        "2133065964",
+        "2145227448",
+        "2152723805",
+        "2159840470",
+        "2165214731",
+        "2294212934"
+    ]
+}

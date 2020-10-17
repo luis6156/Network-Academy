@@ -1,0 +1,50 @@
+{
+    "id": "1528287381",
+    "title": "A comparison of BDDs, BMC, and sequential SAT for model checking",
+    "venue": "high level design validation and test",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ganapathy Parthasarathy",
+            "id": "2576686354",
+            "org": "California Univ., Santa Barbara, CA, USA"
+        },
+        {
+            "name": "Madhu K. Iyer",
+            "id": "2305390609",
+            "org": "California Univ., Santa Barbara, CA, USA"
+        },
+        {
+            "name": "Kwang-Ting Cheng",
+            "id": "2240476537",
+            "org": "California Univ., Santa Barbara, CA, USA"
+        },
+        {
+            "name": "Li-C. Wang",
+            "id": "2107212883",
+            "org": "California Univ., Santa Barbara, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "High-level synthesis",
+        "Formal verification",
+        "Formal equivalence checking",
+        "Theoretical computer science",
+        "Computer science",
+        "Robustness (computer science)",
+        "Model checking",
+        "Finite-state machine",
+        "Abstraction model checking",
+        "Sequential logic"
+    ],
+    "references": [
+        "1490969264",
+        "1540180960",
+        "1822320350",
+        "2024148935",
+        "2080267935",
+        "2110728526",
+        "2142785340",
+        "2611863566"
+    ]
+}

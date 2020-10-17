@@ -1,0 +1,47 @@
+{
+    "id": "1551650199",
+    "title": "QoS-Oriented Multi-query Scheduling over Data Streams",
+    "venue": "database systems for advanced applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ji Wu",
+            "id": "2280920807",
+            "org": "School of Computing, National University of Singapore,#TAB#"
+        },
+        {
+            "name": "Kian-Lee Tan",
+            "id": "2142476784",
+            "org": "School of Computing, National University of Singapore,#TAB#"
+        },
+        {
+            "name": "Yongluan Zhou",
+            "id": "2097638082",
+            "org": "Dept. of Mathematics & Computer Science, University of Southern Denmark,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "21469624",
+        "1553736982",
+        "1975442866",
+        "2023977759",
+        "2067913114",
+        "2124298185",
+        "2149036827",
+        "2162553498",
+        "2165837485"
+    ]
+}

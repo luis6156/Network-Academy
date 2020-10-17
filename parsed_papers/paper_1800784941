@@ -1,0 +1,89 @@
+{
+    "id": "1800784941",
+    "title": "Strategies for using additional resources in parallel hash-based join algorithms",
+    "venue": "high performance distributed computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Xi Zhang",
+            "id": "2302808005",
+            "org": "Dept. of Biomed. Informatics, Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Tahsin M. Kurc",
+            "id": "2310949129",
+            "org": "Dept. of Biomed. Informatics, Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Tony Pan",
+            "id": "2304152019",
+            "org": "Dept. of Biomed. Informatics, Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Umit V. Catalyurek",
+            "id": "244960322",
+            "org": "Dept. of Biomed. Informatics, Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Sivaramakrishnan Narayanan",
+            "id": "2136079255",
+            "org": "Dept. of Biomed. Informatics, Ohio State Univ., Columbus, OH, USA"
+        },
+        {
+            "name": "Pete Wyckoff",
+            "id": "2059209832",
+            "org": "Ohio Supercomputer Center, Columbus, OH#TAB#"
+        },
+        {
+            "name": "Joel H. Saltz",
+            "id": "2111158966",
+            "org": "The Ohio State University, Columbus, OH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Chord (peer-to-peer)",
+        "Parallel computing",
+        "Algorithm",
+        "Primary clustering",
+        "Rolling hash",
+        "Computer science",
+        "Distributed computing",
+        "Hash chain",
+        "HAT-trie",
+        "Hash buster",
+        "Hash function",
+        "Double hashing"
+    ],
+    "references": [
+        "92816786",
+        "1486940078",
+        "1487093789",
+        "1547983773",
+        "1560363402",
+        "1570320352",
+        "1597532222",
+        "1598185176",
+        "1748095660",
+        "1916858705",
+        "2015372451",
+        "2019485818",
+        "2051244613",
+        "2058903936",
+        "2059481223",
+        "2076162755",
+        "2078528123",
+        "2108922557",
+        "2112101330",
+        "2118428193",
+        "2130429998",
+        "2134498478",
+        "2142418251",
+        "2150503034",
+        "2151197771",
+        "2158049821",
+        "2158237121",
+        "2163059190",
+        "2165222121",
+        "2167898414"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1518469625",
+    "title": "On highly nonlinear s-boxes and their inability to thwart DPA attacks",
+    "venue": "international conference on cryptology in india",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Claude Carlet",
+            "id": "230094222",
+            "org": "INRIA, Projet CODES, University of Paris 8 (MAATICAH), Le Chesnay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Nonlinear system",
+        "Transparency (graphic)",
+        "Cryptosystem",
+        "Linear cryptanalysis",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1528065150",
+        "1548656471",
+        "1554932142",
+        "1557204831",
+        "1560093457",
+        "1587687098",
+        "1595334710",
+        "1629301835",
+        "1657240689",
+        "1664808737",
+        "1776788878",
+        "1964723977",
+        "2024729203",
+        "2048462185",
+        "2082143349",
+        "2087896741",
+        "2089606264",
+        "2106876320",
+        "2112002249",
+        "2117877038",
+        "2131820257",
+        "2138238405",
+        "2145829971",
+        "2148862943",
+        "2155938490",
+        "2612208439"
+    ]
+}

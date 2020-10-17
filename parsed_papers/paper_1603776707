@@ -1,0 +1,63 @@
+{
+    "id": "1603776707",
+    "title": "An implementation of a universally verifiable electronic voting scheme based on shuffling",
+    "venue": "financial cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jun Furukawa",
+            "id": "2413741161",
+            "org": "Internet Systems Research Laboratories, NEC Corporation, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Hiroshi Miyauchi",
+            "id": "2134797027",
+            "org": "Internet Systems Research Laboratories, NEC Corporation, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Kengo Mori",
+            "id": "2120747072",
+            "org": "Internet Systems Research Laboratories, NEC Corporation, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Satoshi Obana",
+            "id": "2115143635",
+            "org": "Internet Systems Research Laboratories, NEC Corporation, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Kazue Sako",
+            "id": "2151356658",
+            "org": "Internet Systems Research Laboratories, NEC Corporation, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic voting",
+        "Theoretical computer science",
+        "Computer science",
+        "Zero-knowledge proof",
+        "Computer security",
+        "Mathematical proof",
+        "Voting",
+        "Verifiable secret sharing",
+        "Correctness",
+        "Internet privacy",
+        "Shuffling"
+    ],
+    "references": [
+        "1479744988",
+        "1495266644",
+        "1589034595",
+        "1593702530",
+        "1660562555",
+        "1663438288",
+        "1839300275",
+        "1850322980",
+        "1878594160",
+        "2095708839",
+        "2101770573",
+        "2103647628",
+        "2108834246",
+        "2138784757",
+        "2401242379"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1518940261",
+    "title": "JML2B: checking JML specifications with b machines",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Fabrice Bouquet",
+            "id": "2177240793",
+            "org": "Laboratoire d'Informatique (LIFC), Universite de Franche-Comte, CNRS - INRIA Cassis Project, Besancon cedex, France#TAB#"
+        },
+        {
+            "name": "Frederic Dadeau",
+            "id": "2781387693",
+            "org": "Laboratoire d'Informatique (LIFC), Universite de Franche-Comte, CNRS - INRIA Cassis Project, Besancon cedex, France#TAB#"
+        },
+        {
+            "name": "Julien Groslambert",
+            "id": "2171757917",
+            "org": "Laboratoire d'Informatique (LIFC), Universite de Franche-Comte, CNRS - INRIA Cassis Project, Besancon cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Software development",
+        "Formal specification",
+        "Computer science",
+        "Abstract machine",
+        "Abstract interpretation",
+        "Notation",
+        "Correctness",
+        "Programming language"
+    ],
+    "references": [
+        "1491366424",
+        "1509562505",
+        "1582375314",
+        "1583826417",
+        "1964830323",
+        "2166985644"
+    ]
+}

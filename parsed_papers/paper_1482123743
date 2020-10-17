@@ -1,0 +1,41 @@
+{
+    "id": "1482123743",
+    "title": "Design and analysis of password-based key derivation functions",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "F. Frances Yao",
+            "id": "2437173065",
+            "org": "Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong#TAB#"
+        },
+        {
+            "name": "Yiqun Lisa Yin",
+            "id": "2755741766",
+            "org": "Princeton Architecture Laboratory for Multimedia and Security, Princeton University, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Key derivation function",
+        "Password strength",
+        "Cognitive password",
+        "Computer science",
+        "Distributed computing",
+        "One-time password"
+    ],
+    "references": [
+        "1498060530",
+        "1512388984",
+        "1556526065",
+        "1733713784",
+        "1801417685",
+        "2052267638",
+        "2131300413",
+        "2157604883",
+        "2226303357"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "134103711",
+    "title": "mHLogGP: A Parallel Computation Model for CPU/GPU Heterogeneous Computing Cluster",
+    "venue": "network and parallel computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Gangfeng Liu",
+            "id": "2137689153",
+            "org": "Northwestern Polytechnical University"
+        },
+        {
+            "name": "Yunlan Wang",
+            "id": "2098753568",
+            "org": "Northwestern Polytechnical University"
+        },
+        {
+            "name": "Tianhai Zhao",
+            "id": "2536938257",
+            "org": "Northwestern Polytechnical University"
+        },
+        {
+            "name": "Jianhua Gu",
+            "id": "2163194173",
+            "org": "Northwestern Polytechnical University"
+        },
+        {
+            "name": "Dongyang Li",
+            "id": "2223101638",
+            "org": "Northwestern Polytechnical University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "CPU shielding",
+        "Symmetric multiprocessor system",
+        "Central processing unit",
+        "Computer cluster"
+    ],
+    "references": [
+        "1560684572",
+        "1568736435",
+        "2004618348",
+        "2042120213",
+        "2045271686",
+        "2102061396",
+        "2146343777",
+        "2167334577",
+        "2170971693"
+    ]
+}

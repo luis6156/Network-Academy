@@ -1,0 +1,57 @@
+{
+    "id": "1531099689",
+    "title": "Symbolic Fault Injection",
+    "venue": "conference on automated deduction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Daniel Larsson",
+            "id": "2234633191",
+            "org": "Chalmers University of Technology"
+        },
+        {
+            "name": "Reiner Hahnle",
+            "id": "2627263793",
+            "org": "Chalmers University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Stuck-at fault",
+        "Computer science",
+        "Symbolic execution",
+        "Software fault tolerance",
+        "Fault coverage",
+        "General protection fault",
+        "Real-time computing",
+        "Fault injection",
+        "Fault tolerance",
+        "Fault model"
+    ],
+    "references": [
+        "40815754",
+        "1548839064",
+        "1573154295",
+        "1578304575",
+        "1590017862",
+        "1605695064",
+        "1661119603",
+        "1993836075",
+        "2040060046",
+        "2098513789",
+        "2100142058",
+        "2114957237",
+        "2120860555",
+        "2123596219",
+        "2124375485",
+        "2127894564",
+        "2135254996",
+        "2148602057",
+        "2150248778",
+        "2151365953",
+        "2153815842",
+        "2157158593",
+        "2166752259",
+        "2168441850",
+        "2583512742"
+    ]
+}

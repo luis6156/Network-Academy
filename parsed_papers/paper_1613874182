@@ -1,0 +1,31 @@
+{
+    "id": "1613874182",
+    "title": "Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Paul C. Kocher",
+            "id": "1984824673",
+            "org": "Cryptography Consultant"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Pre-play attack",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Diffie-Hellman key exchange",
+        "Cryptosystem",
+        "Ciphertext",
+        "Public-key cryptography",
+        "Timing attack"
+    ],
+    "references": [
+        "1500356409",
+        "1926480282",
+        "1996360405",
+        "2156186849"
+    ]
+}

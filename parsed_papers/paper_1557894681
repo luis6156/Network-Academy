@@ -1,0 +1,39 @@
+{
+    "id": "1557894681",
+    "title": "Improve OpenMP Performance by Extending BARRIER and REDUCTION Constructs",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Huang Chun",
+            "id": "2119782178",
+            "org": "National Laboratory for Parallel and Distributed Processing"
+        },
+        {
+            "name": "Yang Xue-jun",
+            "id": "1762416516",
+            "org": "National Laboratory for Parallel and Distributed Processing"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Benchmark (computing)",
+        "Synchronization"
+    ],
+    "references": [
+        "1578711114",
+        "1603868614",
+        "1850405760",
+        "1975025054",
+        "1999752372",
+        "2013058172",
+        "2092816328",
+        "2100720297",
+        "2138180780",
+        "2141607576"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1736607886",
+    "title": "Shredding your garbage: reducing data lifetime through secure deallocation",
+    "venue": "usenix security symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jim Chow",
+            "id": "2160109330",
+            "org": "Stanford University Department of Computer Science#TAB#"
+        },
+        {
+            "name": "Ben Pfaff",
+            "id": "2122690630",
+            "org": "Stanford University Department of Computer Science#TAB#"
+        },
+        {
+            "name": "Tal Garfinkel",
+            "id": "1590983864",
+            "org": "Stanford University Department of Computer Science#TAB#"
+        },
+        {
+            "name": "Mendel Rosenblum",
+            "id": "2102969555",
+            "org": "Stanford University Department of Computer Science#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Computer science",
+        "Allocator",
+        "Computer security",
+        "Password",
+        "Heap (data structure)",
+        "Garbage"
+    ],
+    "references": [
+        "1514171102",
+        "1526833248",
+        "1578184507",
+        "1599281790",
+        "1986317988",
+        "2121542813",
+        "2159339961",
+        "2163365446"
+    ]
+}

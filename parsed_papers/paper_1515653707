@@ -1,0 +1,82 @@
+{
+    "id": "1515653707",
+    "title": "DROP: Detecting Return-Oriented Programming Malicious Code",
+    "venue": "international conference on information systems security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ping Chen",
+            "id": "2687077804",
+            "org": "State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, Nanjing 210093#TAB#"
+        },
+        {
+            "name": "Hai Xiao",
+            "id": "2423660000",
+            "org": "State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, Nanjing 210093#TAB#"
+        },
+        {
+            "name": "Xiaobin Shen",
+            "id": "2220809589",
+            "org": "College of Information Engineering, Yangzhou University, Yangzhou Jiangsu, China 225009#TAB#"
+        },
+        {
+            "name": "Xinchun Yin",
+            "id": "2131657965",
+            "org": "College of Information Engineering, Yangzhou University, Yangzhou Jiangsu, China 225009#TAB#"
+        },
+        {
+            "name": "Bing Mao",
+            "id": "2124249619",
+            "org": "State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, Nanjing 210093#TAB#"
+        },
+        {
+            "name": "Li Xie",
+            "id": "2719203937",
+            "org": "State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, Nanjing 210093#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Address space layout randomization",
+        "x86",
+        "Control flow",
+        "Executable",
+        "Return-oriented programming",
+        "Computer science",
+        "Computer security",
+        "Unreachable code",
+        "Subroutine",
+        "Gadget"
+    ],
+    "references": [
+        "173413620",
+        "1498464392",
+        "1516506771",
+        "1535713556",
+        "1546149892",
+        "1582331515",
+        "1591237315",
+        "1597305440",
+        "1655226010",
+        "1674877186",
+        "2010440413",
+        "2033811087",
+        "2035247360",
+        "2054425625",
+        "2089448621",
+        "2090181646",
+        "2099382052",
+        "2100198871",
+        "2102970979",
+        "2109077605",
+        "2109219878",
+        "2134633067",
+        "2137786570",
+        "2145211381",
+        "2150277819",
+        "2156858199",
+        "2157153057",
+        "2162800072",
+        "2165952552",
+        "2178663527"
+    ]
+}

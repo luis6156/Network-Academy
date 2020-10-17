@@ -1,0 +1,52 @@
+{
+    "id": "1488885050",
+    "title": "Security of Iterated Hash Functions Based on Block Ciphers",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Walter Hohl",
+            "id": "2551459420",
+            "org": "Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Xuejia Lai",
+            "id": "2636853841",
+            "org": "Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas Meier",
+            "id": "1984529505",
+            "org": "Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Christian Waldvogel",
+            "id": "2557095435",
+            "org": "Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Primary clustering",
+        "Security of cryptographic hash functions",
+        "Hash function",
+        "Double hashing",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "1493566387",
+        "1541421768",
+        "1549228503",
+        "1600432225",
+        "1972792640",
+        "2007585625",
+        "2065354390",
+        "2168631744",
+        "2266102598"
+    ]
+}

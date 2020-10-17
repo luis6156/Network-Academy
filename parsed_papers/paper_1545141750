@@ -1,0 +1,31 @@
+{
+    "id": "1545141750",
+    "title": "Cryptanalysis of Stream Cipher Alpha1",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hongjun Wu",
+            "id": "2098939585",
+            "org": "Laboratories for Information Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Rail fence cipher",
+        "Transposition cipher",
+        "Computer science",
+        "Distributed computing",
+        "Two-square cipher",
+        "Stream cipher",
+        "Related-key attack",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Key clustering"
+    ],
+    "references": [
+        "1479956206",
+        "1544956979",
+        "1554090281"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1513791477",
+    "title": "Exploiting precedence relations in the schedulability analysis of distributed real-time systems",
+    "venue": "real time systems symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jose Carlos Palencia",
+            "id": "2624126714",
+            "org": "Dept. de Electron. y Comput., Cantabria Univ., Santander, Spain"
+        },
+        {
+            "name": "Michael Gonzalez Harbour",
+            "id": "2088262011",
+            "org": "Departamento de Electronica y Computadores|Universidad de Cantabria"
+        }
+    ],
+    "fields_of_study": [
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Computer science",
+        "Multiprocessing",
+        "Deadline-monotonic scheduling",
+        "Exploit",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing"
+    ],
+    "references": [
+        "1702973254",
+        "2096986864",
+        "2109149844",
+        "2145132630",
+        "2160293203",
+        "2165172064"
+    ]
+}

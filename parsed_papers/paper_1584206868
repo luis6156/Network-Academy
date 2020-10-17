@@ -1,0 +1,70 @@
+{
+    "id": "1584206868",
+    "title": "On side-channel resistant block cipher usage",
+    "venue": "international conference on information security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jorge Guajardo",
+            "id": "2169825490",
+            "org": "Philips Research Europe, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Bart Mennink",
+            "id": "2091114463",
+            "org": "ESAT, COSIC and IBBT, Katholieke Universiteit Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Block cipher mode of operation",
+        "Transposition cipher",
+        "Two-square cipher",
+        "Residual block termination",
+        "Triple DES",
+        "CBC-MAC",
+        "MDC-2"
+    ],
+    "references": [
+        "130371449",
+        "236432643",
+        "840400403",
+        "1501277346",
+        "1506890909",
+        "1511519716",
+        "1512062395",
+        "1519539754",
+        "1573157032",
+        "1584807987",
+        "1589284985",
+        "1613874182",
+        "1655844021",
+        "1664808737",
+        "1752847028",
+        "1753795543",
+        "1790072549",
+        "1794592934",
+        "1795786057",
+        "1806070087",
+        "1998540796",
+        "2020981190",
+        "2027701442",
+        "2112244944",
+        "2112452754",
+        "2126290606",
+        "2126734644",
+        "2133701468",
+        "2139172211",
+        "2144630005",
+        "2144765857",
+        "2149847764",
+        "2150302545",
+        "2154909745",
+        "2164584813",
+        "2177288330",
+        "2400929772",
+        "2407959219"
+    ]
+}

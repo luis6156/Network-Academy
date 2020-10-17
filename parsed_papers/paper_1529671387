@@ -1,0 +1,45 @@
+{
+    "id": "1529671387",
+    "title": "Correctness checking of MPI one-sided communication using marmot",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Bettina Krammer",
+            "id": "1894765184",
+            "org": "High Performance Computing Center Stuttgart, Stuttgart, Germany#TAB#"
+        },
+        {
+            "name": "Michael M. Resch",
+            "id": "2141771150",
+            "org": "High Performance Computing Center Stuttgart, Stuttgart, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote memory",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Correctness",
+        "Operating system",
+        "Virtual machine"
+    ],
+    "references": [
+        "1485024849",
+        "1510443042",
+        "1528620870",
+        "1549791546",
+        "1578364281",
+        "1825216778",
+        "1969215126",
+        "1990512864",
+        "2112966019",
+        "2119982682",
+        "2129691304",
+        "2161957670",
+        "2162989857",
+        "2303756261",
+        "2611322616",
+        "2611525529"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "1526070463",
+    "title": "Password-Based authenticated key exchange in the three-party setting",
+    "venue": "public key cryptography",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michel Abdalla",
+            "id": "2143328931",
+            "org": "Departement d'Informatique, Ecole normale superieure, Paris Cedex 05, France#TAB#"
+        },
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Departement d'Informatique, Ecole normale superieure, Paris Cedex 05, France#TAB#"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "Departement d'Informatique, Ecole normale superieure, Paris Cedex 05, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Password policy",
+        "Password strength",
+        "Computer science",
+        "Computer security",
+        "Encrypted key exchange",
+        "Password",
+        "One-time password",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "140743382",
+        "203500824",
+        "1486852732",
+        "1503670812",
+        "1506423323",
+        "1516161674",
+        "1535125298",
+        "1542059364",
+        "1601218083",
+        "1837822405",
+        "1895302964",
+        "1981689534",
+        "1991621171",
+        "1992506132",
+        "2011793105",
+        "2047241038",
+        "2052267638",
+        "2074861055",
+        "2083744087",
+        "2110804296",
+        "2124371582",
+        "2124926080",
+        "2125591151",
+        "2131300413",
+        "2134475940",
+        "2139172211",
+        "2146749986",
+        "2146973388",
+        "2149093588",
+        "2156186849",
+        "2157604883",
+        "2170220035",
+        "2610545452"
+    ]
+}

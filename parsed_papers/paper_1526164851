@@ -1,0 +1,29 @@
+{
+    "id": "1526164851",
+    "title": "A chosen messages attack on the ISO/IEC 9796-1 signature scheme",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Francois Grieu",
+            "id": "2635590458",
+            "org": "Innovatron, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Computer science",
+        "Distributed computing",
+        "EdDSA",
+        "Digital signature",
+        "Schnorr signature",
+        "Adversary",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1660562555",
+        "2474169756"
+    ]
+}

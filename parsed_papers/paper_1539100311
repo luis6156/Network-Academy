@@ -1,0 +1,44 @@
+{
+    "id": "1539100311",
+    "title": "Neural network-based head pose estimation and multi-view fusion",
+    "venue": "CLEaR",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Voit",
+            "id": "2132136416",
+            "org": "Interactive Systems Lab, Universitat Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Kai Nickel",
+            "id": "2146998523",
+            "org": "Interactive Systems Lab, Universitat Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Rainer Stiefelhagen",
+            "id": "332721774",
+            "org": "Interactive Systems Lab, Universitat Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pose",
+        "Fusion",
+        "Artificial neural network",
+        "Computer vision",
+        "Recursive Bayesian estimation",
+        "Computer science",
+        "Monocular",
+        "Speech recognition",
+        "Vertical orientation",
+        "Mean squared error",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1607753512",
+        "2099400988",
+        "2102126962",
+        "2130763609",
+        "2156477172",
+        "2164997042"
+    ]
+}

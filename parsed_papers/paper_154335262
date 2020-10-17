@@ -1,0 +1,37 @@
+{
+    "id": "154335262",
+    "title": "TCP offload is a dumb idea whose time has come",
+    "venue": "hot topics in operating systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jeffrey C. Mogul",
+            "id": "2018433396",
+            "org": "Hewlett-Packard Laboratories, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Large segment offload",
+        "Zeta-TCP",
+        "TCP offload engine",
+        "Large receive offload",
+        "Computer science",
+        "TCP tuning",
+        "TCP hole punching",
+        "TCP global synchronization",
+        "Computer network",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "166852527",
+        "1540641082",
+        "1573118894",
+        "1710433637",
+        "1851082386",
+        "2045808511",
+        "2078074976",
+        "2108580089",
+        "2133892780"
+    ]
+}

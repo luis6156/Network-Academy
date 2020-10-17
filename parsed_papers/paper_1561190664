@@ -1,0 +1,69 @@
+{
+    "id": "1561190664",
+    "title": "The Design of XPRS",
+    "venue": "very large data bases",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Michael Stonebraker",
+            "id": "1998938290",
+            "org": "University of California , Berkeley"
+        },
+        {
+            "name": "Randy H. Katz",
+            "id": "2246122413",
+            "org": "University of California , Berkeley"
+        },
+        {
+            "name": "David A. Patterson",
+            "id": "2098984663",
+            "org": "University of California , Berkeley"
+        },
+        {
+            "name": "John K. Ousterhout",
+            "id": "270493864",
+            "org": "University of California , Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Computer architecture",
+        "Transaction processing system",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Transaction processing",
+        "Optimistic concurrency control",
+        "Concurrency control",
+        "Database",
+        "Distributed memory",
+        "Real-time computing",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "1544491955",
+        "1573833643",
+        "1694233656",
+        "1964093362",
+        "1984219405",
+        "1989002177",
+        "2012426216",
+        "2033368934",
+        "2041414515",
+        "2051244613",
+        "2054819113",
+        "2072627547",
+        "2108305506",
+        "2116436709",
+        "2123843342",
+        "2138262306",
+        "2140876280",
+        "2147504831",
+        "2153329411",
+        "2158141386",
+        "2170357877",
+        "2172126130",
+        "2200275386",
+        "2295596515",
+        "2296226841"
+    ]
+}

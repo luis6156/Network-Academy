@@ -1,0 +1,55 @@
+{
+    "id": "1691812142",
+    "title": "Web-Beagle: a web server for the alignment of RNA secondary structures",
+    "venue": "Nucleic Acids Research",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Eugenio Mattei",
+            "id": "1973934037",
+            "org": "1Centre for Molecular Bioinformatics, Department of Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica snc, 00133 Rome, Italy"
+        },
+        {
+            "name": "Marco Pietrosanto",
+            "id": "969811993",
+            "org": "1Centre for Molecular Bioinformatics, Department of Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica snc, 00133 Rome, Italy"
+        },
+        {
+            "name": "Fabrizio Ferre",
+            "id": "2691959870",
+            "org": "2Department of Pharmacy and Biotechnology (FaBiT), University of Bologna Alma Mater, Via Belmeloro 6, 40126 Bologna, Italy"
+        },
+        {
+            "name": "Manuela Helmer-Citterich",
+            "id": "2052737145",
+            "org": "1Centre for Molecular Bioinformatics, Department of Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica snc, 00133 Rome, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Structural alignment",
+        "Biology",
+        "Nucleic acid secondary structure",
+        "Sequence alignment",
+        "Substitution matrix",
+        "Annotation",
+        "Smith-Waterman algorithm",
+        "Web server",
+        "RNA",
+        "Bioinformatics"
+    ],
+    "references": [
+        "1554383491",
+        "2085115334",
+        "2086561953",
+        "2104702173",
+        "2121918723",
+        "2122437248",
+        "2134861301",
+        "2138007734",
+        "2143407915",
+        "2149379826",
+        "2162224067",
+        "2166706771",
+        "2170157200"
+    ]
+}

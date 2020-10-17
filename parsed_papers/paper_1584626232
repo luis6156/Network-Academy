@@ -1,0 +1,48 @@
+{
+    "id": "1584626232",
+    "title": "Scheduling Parallel Communication: The h-relation Problem",
+    "venue": "mathematical foundations of computer science",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Micah Adler",
+            "id": "2198272343",
+            "org": "UC Berkeley"
+        },
+        {
+            "name": "John W. Byers",
+            "id": "2101152111",
+            "org": "UC Berkeley"
+        },
+        {
+            "name": "Richard M. Karp",
+            "id": "1964658237",
+            "org": "UC Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Multiprocessor scheduling",
+        "Deadline-monotonic scheduling",
+        "Stride scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Least slack time scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1975934607",
+        "1978583881",
+        "1979297611",
+        "2018346931",
+        "2045271686",
+        "2060298990",
+        "2063123129",
+        "2099115346",
+        "2102061396",
+        "2142822378",
+        "2163349795"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1578458414",
+    "title": "Optimization Strategies Using Hybrid MPI+OpenMP Parallelization for Large-Scale Data Visualization on Earth Simulator",
+    "venue": "international workshop on openmp",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Li Chen",
+            "id": "2502237383",
+            "org": "Institute of Computer Graphics and Computer Aided Design, School of Software, Tsinghua University, Beijing, P.R. China 100084#TAB#"
+        },
+        {
+            "name": "Issei Fujishiro",
+            "id": "2780830840",
+            "org": "Institute of Fluid Science, Tohoku University, Sendai, Japan 980-8577#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Simulation",
+        "Parallel computing",
+        "Volume rendering",
+        "Computer architecture",
+        "Speedup",
+        "Computer science",
+        "Parallel programming model",
+        "Message Passing Interface",
+        "Message passing",
+        "Automatic parallelization",
+        "Architecture"
+    ],
+    "references": [
+        "1541937702",
+        "1568678830",
+        "2073470731",
+        "2077014479",
+        "2109859355",
+        "2158810451"
+    ]
+}

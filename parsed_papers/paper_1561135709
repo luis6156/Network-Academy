@@ -1,0 +1,52 @@
+{
+    "id": "1561135709",
+    "title": "Verifying a local generic solver in coq",
+    "venue": "static analysis symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Martin Hofmann",
+            "id": "2241022127",
+            "org": "Institut fur Informatik, Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Aleksandr Karbyshev",
+            "id": "2020120463",
+            "org": "Fakultat fur Informatik, Technische Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Helmut Seidl",
+            "id": "2043679408",
+            "org": "Fakultat fur Informatik, Technische Universitat Munchen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Specification language",
+        "Theoretical computer science",
+        "Algorithm",
+        "Proof assistant",
+        "Lattice (order)",
+        "Program analysis",
+        "Computer science",
+        "Fixed point",
+        "Compiler",
+        "Correctness",
+        "Solver"
+    ],
+    "references": [
+        "1482328693",
+        "1513355761",
+        "1538046926",
+        "1546270920",
+        "1579441434",
+        "1599366842",
+        "1692349883",
+        "1878516092",
+        "2009375997",
+        "2086558155",
+        "2121025472",
+        "2168418017",
+        "2194223632",
+        "2675276594"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1482363675",
+    "title": "SemanticCT: A Semantically-Enabled System for Clinical Trials",
+    "venue": "knowledge representation for health care",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Zhisheng Huang",
+            "id": "2141621278",
+            "org": "Department of Computer Science, VU University Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Annette ten Teije",
+            "id": "2297608794",
+            "org": "Department of Computer Science, VU University Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Frank van Harmelen",
+            "id": "333553561",
+            "org": "Department of Computer Science, VU University Amsterdam, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantic search",
+        "Semantic integration",
+        "Computer science",
+        "Data mining",
+        "Patient recruitment",
+        "Interoperability",
+        "SPARQL",
+        "Decision support system",
+        "Information retrieval",
+        "Clinical trial",
+        "Semantic data model"
+    ],
+    "references": [
+        "1507369241",
+        "1529454645",
+        "1734497321",
+        "1871915720",
+        "2109449671",
+        "2138522630",
+        "2161607637"
+    ]
+}

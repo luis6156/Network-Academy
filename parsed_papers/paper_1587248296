@@ -1,0 +1,55 @@
+{
+    "id": "1587248296",
+    "title": "Sub-operation parallelism optimization in SIMD processor synthesis and its experimental evaluations",
+    "venue": "international symposium on circuits and systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Nozomu Togawa",
+            "id": "2127835322",
+            "org": "Dept. of Comput. Sci., Waseda Univ., Tokyo, Japan"
+        },
+        {
+            "name": "Hideki Kawazu",
+            "id": "2052884747",
+            "org": "Dept. of Comput. Sci., Waseda Univ., Tokyo, Japan"
+        },
+        {
+            "name": "Jumpei Uchida",
+            "id": "2186727251",
+            "org": "Dept. of Comput. Sci., Waseda Univ., Tokyo, Japan"
+        },
+        {
+            "name": "Yuichiro Miyaoka",
+            "id": "1997588822",
+            "org": "Dept. of Comput. Sci., Waseda Univ., Tokyo, Japan"
+        },
+        {
+            "name": "Masao Yanagisawa",
+            "id": "2778512381",
+            "org": "Dept. of Comput. Sci., Waseda Univ., Tokyo, Japan"
+        },
+        {
+            "name": "Tatsuo Ohtsuki",
+            "id": "1850265323",
+            "org": "Dept. of Comput. Sci., Waseda Univ., Tokyo, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Instruction-level parallelism",
+        "SIMD",
+        "Parallel computing",
+        "Computer architecture",
+        "Multi-core processor",
+        "Assembly language",
+        "Computer science",
+        "Data parallelism",
+        "Constrained optimization",
+        "Task parallelism",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1525058640",
+        "2091227718"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "1754509072",
+    "title": "Weighted joint-based human behavior recognition algorithm using only depth information for low-cost intelligent video-surveillance system",
+    "venue": "Expert Systems With Applications",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Hanguen Kim",
+            "id": "2128703228",
+            "org": "Urban Robotics Laboratory (URL), Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro (373-1 Guseong-dong), Yuseong-gu, Daejeon 305-701, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Sangwon Lee",
+            "id": "2293262133",
+            "org": "Urban Robotics Laboratory (URL), Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro (373-1 Guseong-dong), Yuseong-gu, Daejeon 305-701, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Youngjae Kim",
+            "id": "2810197244",
+            "org": "Urban Robotics Laboratory (URL), Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro (373-1 Guseong-dong), Yuseong-gu, Daejeon 305-701, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Serin Lee",
+            "id": "2175598133",
+            "org": "Institute for Infocomm Research, 1 Fusionopolis Way, #21-01 Connexis (South Tower), Singapore#TAB#"
+        },
+        {
+            "name": "Dongsung Lee",
+            "id": "2492395546",
+            "org": "Image & Video Research Group, Samsung S1 Cooperation, 168 S1 Building, Soonhwa-dong, Joong-gu, Seoul 100-773, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Jinsun Ju",
+            "id": "2131619179",
+            "org": "Image & Video Research Group, Samsung S1 Cooperation, 168 S1 Building, Soonhwa-dong, Joong-gu, Seoul 100-773, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Hyun Myung",
+            "id": "2162473188",
+            "org": "Director of Urban Robotics Lab. and a professor in the robotics program and Deptartment of Civil and Environmental Engineering, Korea Advanced Institute of Science and Technology (KAIST), 291 Daeh ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Template matching",
+        "Algorithm",
+        "Geodesic",
+        "Computation",
+        "Invariant (mathematics)",
+        "Computer science",
+        "Estimator",
+        "Sliding window protocol",
+        "Graph",
+        "Support vector machine",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "60423602",
+        "102499664",
+        "121459416",
+        "1490928390",
+        "1541813421",
+        "1550277507",
+        "1588788171",
+        "1969595749",
+        "1976066645",
+        "1985391452",
+        "1985469025",
+        "2024307315",
+        "2025121779",
+        "2032481801",
+        "2036310903",
+        "2041406732",
+        "2043800286",
+        "2056339039",
+        "2056898157",
+        "2057030458",
+        "2060280062",
+        "2064772413",
+        "2066562487",
+        "2072028093",
+        "2078937684",
+        "2085336069",
+        "2086660806",
+        "2089412209",
+        "2089513492",
+        "2106996050",
+        "2110299479",
+        "2113325037",
+        "2119300483",
+        "2119350939",
+        "2119821739",
+        "2121969814",
+        "2139212933",
+        "2143267104",
+        "2151047074",
+        "2161056508",
+        "2166815260",
+        "2168392347",
+        "2169551590",
+        "2172000360"
+    ]
+}

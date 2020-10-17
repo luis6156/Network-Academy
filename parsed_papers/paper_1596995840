@@ -1,0 +1,45 @@
+{
+    "id": "1596995840",
+    "title": "VOC: A translation validator for optimizing compilers",
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Lenore D. Zuck",
+            "id": "2048787978",
+            "org": "Department of Computer Science, New York University Contact"
+        },
+        {
+            "name": "Amir Pnueli",
+            "id": "2171343426",
+            "org": "Weizmann Institute of Science"
+        },
+        {
+            "name": "Yi Fang",
+            "id": "2558400805",
+            "org": "New York University"
+        },
+        {
+            "name": "Benjamin Goldberg",
+            "id": "2123694577",
+            "org": "Department of Computer Science, New York University Contact"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Computer science",
+        "Functional compiler",
+        "Compiler",
+        "Compiler construction",
+        "Compiler correctness",
+        "Correctness",
+        "Optimizing compiler",
+        "Object code"
+    ],
+    "references": [
+        "1572729891",
+        "1575176197",
+        "2051632385"
+    ]
+}

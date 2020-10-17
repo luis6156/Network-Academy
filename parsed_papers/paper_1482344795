@@ -1,0 +1,70 @@
+{
+    "id": "1482344795",
+    "title": "FFPF: fairly fast packet filters",
+    "venue": "operating systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Herbert Bos",
+            "id": "2269201832",
+            "org": "Vrije Universiteit Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Willem de Bruijn",
+            "id": "2257571858",
+            "org": "Vrije Universiteit Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Mihai-Lucian Cristea",
+            "id": "2558565652",
+            "org": "Universiteit Leiden, The Netherlands#TAB#"
+        },
+        {
+            "name": "Trung Nguyen",
+            "id": "2470742380",
+            "org": "Universiteit Leiden, The Netherlands#TAB#"
+        },
+        {
+            "name": "Georgios Portokalidis",
+            "id": "255162683",
+            "org": "Universiteit Leiden, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Context switch",
+        "Fast packet switching",
+        "Computer science",
+        "Distributed computing",
+        "Packet analyzer",
+        "Processing delay",
+        "Backward compatibility",
+        "Network packet",
+        "Network interface controller",
+        "Real-time computing"
+    ],
+    "references": [
+        "1498757933",
+        "1509698059",
+        "1537051455",
+        "1544817683",
+        "1628216882",
+        "1674877186",
+        "1717406413",
+        "1825457006",
+        "1958859150",
+        "2010365467",
+        "2018219720",
+        "2019590278",
+        "2022371412",
+        "2077621159",
+        "2100792372",
+        "2127687018",
+        "2129196265",
+        "2138381338",
+        "2139702785",
+        "2144261930",
+        "2156874421",
+        "2159141832"
+    ]
+}

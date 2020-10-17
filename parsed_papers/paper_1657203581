@@ -1,0 +1,48 @@
+{
+    "id": "1657203581",
+    "title": "SVR4UNIX Scheduler Unacceptable for Multimedia Applications",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Jason Nieh",
+            "id": "2241681790",
+            "org": "Stanford University"
+        },
+        {
+            "name": "James G. Hanko",
+            "id": "1999265291",
+            "org": "Sun Microsystems Laboratories, Inc"
+        },
+        {
+            "name": "J. Duane Northcutt",
+            "id": "1784852229",
+            "org": "Sun Microsystems Laboratories, Inc"
+        },
+        {
+            "name": "Gerard A. Wall",
+            "id": "2165410385",
+            "org": "Sun Microsystems Laboratories, Inc"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-priority pre-emptive scheduling",
+        "Unix",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Workstation",
+        "Rate-monotonic scheduling",
+        "Multimedia",
+        "Real-time computing",
+        "Digital audio"
+    ],
+    "references": [
+        "19674749",
+        "1558762955",
+        "1563184827",
+        "1679685803",
+        "2053978297"
+    ]
+}

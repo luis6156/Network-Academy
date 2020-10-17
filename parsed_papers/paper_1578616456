@@ -1,0 +1,55 @@
+{
+    "id": "1578616456",
+    "title": "An improved recursive graph bipartitioning algorithm for well balanced domain decomposition",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Astrid Casadei",
+            "id": "2162436036",
+            "org": "University of Bordeaux Inria, CNRS (LaBRI UMR 5800), Bordeaux, France"
+        },
+        {
+            "name": "Pierre Ramet",
+            "id": "169387109",
+            "org": "University of Bordeaux Inria, CNRS (LaBRI UMR 5800), Bordeaux, France"
+        },
+        {
+            "name": "Jean Roman",
+            "id": "2170757408",
+            "org": "Inria, Bordeaux Institute of Technology (IPB), CNRS (LaBRI UMR 5800), Bordeaux, France"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Parallel computing",
+        "Recursion",
+        "Algorithm",
+        "Nested dissection",
+        "Computer science",
+        "Distributed computing",
+        "Finite element method",
+        "Graph partition",
+        "Domain decomposition methods",
+        "Mathematical optimization",
+        "Schur complement",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1526797232",
+        "1538076361",
+        "1986076296",
+        "2009702759",
+        "2013424510",
+        "2041869086",
+        "2053266474",
+        "2065309575",
+        "2068166782",
+        "2068683191",
+        "2070232376",
+        "2092988335",
+        "2118953734",
+        "2152377721",
+        "2170802276"
+    ]
+}

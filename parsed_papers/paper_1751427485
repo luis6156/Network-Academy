@@ -1,0 +1,52 @@
+{
+    "id": "1751427485",
+    "title": "Fast reconfiguration of data placement in parallel disks",
+    "venue": "algorithm engineering and experimentation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Srinivas R. Kashyap",
+            "id": "2108833852",
+            "org": "University of Maryland, College Park, MD#TAB#"
+        },
+        {
+            "name": "Samir Khuller",
+            "id": "2159856632",
+            "org": "University of Maryland, College Park, MD and UMIACS#TAB#"
+        },
+        {
+            "name": "Yung-Chun Justin Wan",
+            "id": "2141557443",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Leana Golubchik",
+            "id": "260572119",
+            "org": "IMSC University of Southern California, Los Angeles, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Storage area network",
+        "Information management",
+        "Enterprise storage",
+        "Computer science",
+        "Distributed computing",
+        "Database",
+        "Control reconfiguration",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1576873985",
+        "1584086379",
+        "1879959709",
+        "1975611596",
+        "1977545325",
+        "1981405487",
+        "1985382559",
+        "2009394515",
+        "2096095739",
+        "2108111372",
+        "2114711248",
+        "2166185745"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1535933010",
+    "title": "NAS Integer Sort on Multi-threaded Shared Memory Machines",
+    "venue": "european conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Thomas Grun",
+            "id": "2671132529",
+            "org": "University of the Saarland"
+        },
+        {
+            "name": "Mark A. Hillebrand",
+            "id": "2052599737",
+            "org": "University of the Saarland"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory module",
+        "Instruction cycle",
+        "Shared memory",
+        "Interleaved memory",
+        "Computer science",
+        "Uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Operating system",
+        "Flat memory model"
+    ],
+    "references": [
+        "1517315193",
+        "1596317502",
+        "1767223598",
+        "1978709910",
+        "1999859272",
+        "2081040934",
+        "2142820603",
+        "2153752008",
+        "2156275124"
+    ]
+}

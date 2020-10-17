@@ -1,0 +1,63 @@
+{
+    "id": "1578777043",
+    "title": "In-Network Caching for Chip Multiprocessors",
+    "venue": "high performance embedded architectures and compilers",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Aditya Yanamandra",
+            "id": "2059156216",
+            "org": "Department of Computer Science and Engineering, The Pennsylvania State University,#TAB#"
+        },
+        {
+            "name": "Mary Jane Irwin",
+            "id": "2123342649",
+            "org": "Department of Computer Science and Engineering, The Pennsylvania State University,#TAB#"
+        },
+        {
+            "name": "Vijaykrishnan Narayanan",
+            "id": "2228173237",
+            "org": "Department of Computer Science and Engineering, The Pennsylvania State University,#TAB#"
+        },
+        {
+            "name": "Mahmut T. Kandemir",
+            "id": "2191818565",
+            "org": "Department of Computer Science and Engineering, The Pennsylvania State University,#TAB#"
+        },
+        {
+            "name": "Sri Hari Krishna Narayanan",
+            "id": "2472049960",
+            "org": "Department of Computer Science and Engineering, The Pennsylvania State University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Chip",
+        "Computer science",
+        "Uniform memory access",
+        "Cache coherence",
+        "Latency (engineering)",
+        "Router",
+        "Network packet",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "1664707389",
+        "2088661064",
+        "2089155985",
+        "2096193215",
+        "2097560795",
+        "2099399959",
+        "2102060420",
+        "2120635877",
+        "2122337686",
+        "2123184444",
+        "2124152379",
+        "2127003812",
+        "2170653240",
+        "2171110892",
+        "2172097538"
+    ]
+}

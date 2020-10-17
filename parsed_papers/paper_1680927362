@@ -1,0 +1,72 @@
+{
+    "id": "1680927362",
+    "title": "The Correctness-Security Gap in Compiler Optimization",
+    "venue": "ieee symposium on security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Vijay D'Silva",
+            "id": "2608913131",
+            "org": "Google Inc., San Francisco, CA, USA"
+        },
+        {
+            "name": "Mathias Payer",
+            "id": "2305760116",
+            "org": "Purdue Univ., West Lafayette, IN, USA"
+        },
+        {
+            "name": "Dawn Song",
+            "id": "2131252044",
+            "org": "Univ. of California, Berkeley, Berkeley, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Interprocedural optimization",
+        "Theoretical computer science",
+        "Computer science",
+        "Functional compiler",
+        "Loop-invariant code motion",
+        "Inline expansion",
+        "Compiler correctness",
+        "Optimizing compiler",
+        "Superoptimization",
+        "Dead code elimination"
+    ],
+    "references": [
+        "190884830",
+        "1488058190",
+        "1531820677",
+        "1969064066",
+        "1978364288",
+        "1992291252",
+        "2008609084",
+        "2010778676",
+        "2029601347",
+        "2045867114",
+        "2050469558",
+        "2057503672",
+        "2071952624",
+        "2083896385",
+        "2087136780",
+        "2096698236",
+        "2107691219",
+        "2114067856",
+        "2116322260",
+        "2122915593",
+        "2125346056",
+        "2127919458",
+        "2129695855",
+        "2144540543",
+        "2149996206",
+        "2154909745",
+        "2154942048",
+        "2155877593",
+        "2160963348",
+        "2162604396",
+        "2162844904",
+        "2168096831",
+        "2170267084",
+        "2172060328",
+        "2530218835"
+    ]
+}

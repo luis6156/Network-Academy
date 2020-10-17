@@ -1,0 +1,44 @@
+{
+    "id": "1596289985",
+    "title": "Impact of Loop Unrolling on Area, Throughput and Clock Frequency in ROCCC: C to VHDL Compiler for FPGAs",
+    "venue": "applied reconfigurable computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Betul Buyukkurt",
+            "id": "722192716",
+            "org": "University of California - Riverside"
+        },
+        {
+            "name": "Zhi Guo",
+            "id": "2097287499",
+            "org": "University of California - Riverside"
+        },
+        {
+            "name": "Walid A. Najjar",
+            "id": "452601419",
+            "org": "University of California - Riverside"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Loop unrolling",
+        "Field-programmable gate array",
+        "Throughput",
+        "Parallel computing",
+        "Cycles per instruction",
+        "VHDL",
+        "Compiler",
+        "Computer science",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "1533393723",
+        "1974169079",
+        "2051498260",
+        "2101778660",
+        "2112432448",
+        "2161761794"
+    ]
+}

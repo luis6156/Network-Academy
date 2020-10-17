@@ -1,0 +1,54 @@
+{
+    "id": "1595544871",
+    "title": "Variance and generalized constraints for C # generics",
+    "venue": "european conference on object-oriented programming",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Burak Emir",
+            "id": "1972279435",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Andrew Kennedy",
+            "id": "2031804104",
+            "org": "Microsoft Research, Cambridge, U.K.#TAB#"
+        },
+        {
+            "name": "Claudio V. Russo",
+            "id": "2158354314",
+            "org": "Microsoft Research, Cambridge, U.K.#TAB#"
+        },
+        {
+            "name": "Dachuan Yu",
+            "id": "2647030691",
+            "org": "DoCoMo Communications Laboratories, San Jose, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Type safety",
+        "Mathematics",
+        "Discrete mathematics",
+        "Algebraic data type",
+        "Data type",
+        "Correctness",
+        "Declaration",
+        "Subtyping",
+        "Covariance and contravariance of vectors",
+        "Covariant transformation"
+    ],
+    "references": [
+        "1507723317",
+        "1546972708",
+        "1993140586",
+        "2033348393",
+        "2035709547",
+        "2036656026",
+        "2064819162",
+        "2103525263",
+        "2121169478",
+        "2150101804",
+        "2161973496",
+        "2337269565"
+    ]
+}

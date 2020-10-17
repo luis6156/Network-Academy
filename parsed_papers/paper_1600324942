@@ -1,0 +1,50 @@
+{
+    "id": "1600324942",
+    "title": "Using Dynamic Signal-Tracing to Debug Compiler-Optimized HLS Circuits on FPGAs",
+    "venue": "field-programmable custom computing machines",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jeffrey B. Goeders",
+            "id": "1971203899",
+            "org": "Dept. of Comput. & Electr. Eng., Univ. of British Columbia, Vancouver, BC, Canada"
+        },
+        {
+            "name": "Steven J. E. Wilton",
+            "id": "1999562812",
+            "org": "Dept. of Comput. & Electr. Eng., Univ. of British Columbia, Vancouver, BC, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "High-level synthesis",
+        "Parallel computing",
+        "Computer architecture",
+        "Background debug mode interface",
+        "Source code",
+        "Computer science",
+        "Compiler",
+        "Tracing",
+        "x86 debug register",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "124174006",
+        "1569546679",
+        "1970032753",
+        "2004250488",
+        "2009541799",
+        "2024441281",
+        "2044605272",
+        "2057807751",
+        "2072073269",
+        "2072367650",
+        "2089535877",
+        "2095761111",
+        "2121851099",
+        "2141261568",
+        "2153185479",
+        "2162925013"
+    ]
+}

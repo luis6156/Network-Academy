@@ -1,0 +1,51 @@
+{
+    "id": "1602709336",
+    "title": "High diffusion cipher: encryption and error correction in a single cryptographic primitive",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Chetan Nanjunda Mathur",
+            "id": "2110249648",
+            "org": "Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ#TAB#"
+        },
+        {
+            "name": "Karthik Narayan",
+            "id": "2422625372",
+            "org": "Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ#TAB#"
+        },
+        {
+            "name": "K. P. Subbalakshmi",
+            "id": "2038071179",
+            "org": "Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Theoretical computer science",
+        "Cipher",
+        "Running key cipher",
+        "Transposition cipher",
+        "Computer science",
+        "Two-square cipher",
+        "Stream cipher",
+        "Triple DES",
+        "CBC-MAC"
+    ],
+    "references": [
+        "45309531",
+        "85295516",
+        "841303474",
+        "1507705751",
+        "1527545029",
+        "1562042956",
+        "1580459019",
+        "1876796228",
+        "1964723977",
+        "2099734814",
+        "2109265351",
+        "2117420234",
+        "2147163807",
+        "2574617891"
+    ]
+}

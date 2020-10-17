@@ -1,0 +1,57 @@
+{
+    "id": "1576382366",
+    "title": "Modelling a Distributed Cached Store for Garbage Collection: The Algorithm and Its Correctness Proof",
+    "venue": "european conference on object oriented programming",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Paulo Ferreira",
+            "id": "2778235130",
+            "org": "INESC/IST"
+        },
+        {
+            "name": "Marc Shapiro",
+            "id": "2274888956",
+            "org": "INRIA Rocquencourt"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Scalability",
+        "Parallel computing",
+        "Algorithm",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Garbage collection",
+        "Persistence (computer science)",
+        "Computer science",
+        "Distributed shared memory",
+        "Correctness",
+        "Distributed algorithm",
+        "Programming language"
+    ],
+    "references": [
+        "1482095069",
+        "1493148263",
+        "1500062583",
+        "1509600745",
+        "1512539161",
+        "1539397303",
+        "1542985837",
+        "1556050182",
+        "1561765912",
+        "1582105055",
+        "1654761628",
+        "1807678719",
+        "1978661247",
+        "1985349143",
+        "2008172181",
+        "2044902313",
+        "2045255985",
+        "2051555484",
+        "2108466550",
+        "2131053137",
+        "2161318861",
+        "2168368830"
+    ]
+}

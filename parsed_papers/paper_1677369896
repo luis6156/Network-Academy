@@ -1,0 +1,96 @@
+{
+    "id": "1677369896",
+    "title": "A certificate infrastructure for machine-checked proofs of conditional information flow",
+    "venue": "principles of security and trust",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Torben Amtoft",
+            "id": "69801872",
+            "org": "CIS Department, Kansas State University, Manhattan, KS#TAB#"
+        },
+        {
+            "name": "Josiah Dodds",
+            "id": "2160397491",
+            "org": "Dept. of Comp. Sci., Princeton University, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Zhi Zhang",
+            "id": "2480262325",
+            "org": "CIS Department, Kansas State University, Manhattan, KS#TAB#"
+        },
+        {
+            "name": "Andrew W. Appel",
+            "id": "2120329599",
+            "org": "Dept. of Comp. Sci., Princeton University, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Lennart Beringer",
+            "id": "2115573779",
+            "org": "Dept. of Comp. Sci., Princeton University, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "John Hatcliff",
+            "id": "1981077923",
+            "org": "CIS Department, Kansas State University, Manhattan, KS#TAB#"
+        },
+        {
+            "name": "Xinming Ou",
+            "id": "2081037127",
+            "org": "CIS Department, Kansas State University, Manhattan, KS#TAB#"
+        },
+        {
+            "name": "Andrew Cousino",
+            "id": "2262189318",
+            "org": "CIS Department, Kansas State University, Manhattan, KS#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Proof assistant",
+        "Source code",
+        "Computer science",
+        "Mathematical proof",
+        "Database",
+        "Hoare logic",
+        "Correctness",
+        "Information flow (information theory)",
+        "Design by contract",
+        "Certificate"
+    ],
+    "references": [
+        "81349459",
+        "1518533182",
+        "1536059726",
+        "1549300373",
+        "1564069522",
+        "1567473288",
+        "1586448612",
+        "1606555018",
+        "1746052841",
+        "1748842448",
+        "1800123991",
+        "1867052887",
+        "1870297738",
+        "1980767016",
+        "2016209832",
+        "2034711041",
+        "2070093650",
+        "2095840868",
+        "2102917576",
+        "2104334667",
+        "2109225219",
+        "2114925693",
+        "2118341398",
+        "2129695855",
+        "2139799388",
+        "2141890389",
+        "2142191991",
+        "2149996206",
+        "2151894250",
+        "2166870727",
+        "2194223632",
+        "2213989452",
+        "2505656361"
+    ]
+}

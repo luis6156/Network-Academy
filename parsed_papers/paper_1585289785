@@ -1,0 +1,34 @@
+{
+    "id": "1585289785",
+    "title": "Security Analysis of DRBG Using HMAC in NIST SP 800-90",
+    "venue": "workshop on information security applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shoichi Hirose",
+            "id": "2140040504",
+            "org": "Graduate School of Engineering, University of Fukui,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom number generator",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "NIST",
+        "Computer science",
+        "Pseudorandom function family",
+        "Security analysis",
+        "NIST SP 800-90A"
+    ],
+    "references": [
+        "1512388984",
+        "1564219727",
+        "1604454960",
+        "1857130924",
+        "2043711803",
+        "2131300413",
+        "2134615993",
+        "2394715755",
+        "2401197856"
+    ]
+}

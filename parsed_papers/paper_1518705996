@@ -1,0 +1,40 @@
+{
+    "id": "1518705996",
+    "title": "An Extensible SAT-solver",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Niklas Een",
+            "id": "2693959031",
+            "org": "Chalmers University of Technology"
+        },
+        {
+            "name": "Niklas Sorensson",
+            "id": "85437666",
+            "org": "Chalmers University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Conflict-Driven Clause Learning",
+        "Unit propagation",
+        "Computer science",
+        "Distributed computing",
+        "Constraint satisfaction",
+        "Implication graph",
+        "Unsatisfiable core",
+        "#SAT",
+        "Solver",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "2024148935",
+        "2046239089",
+        "2048051309",
+        "2057361103",
+        "2096307462",
+        "2110123236",
+        "2142785340",
+        "2160444875"
+    ]
+}

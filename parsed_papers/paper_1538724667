@@ -1,0 +1,35 @@
+{
+    "id": "1538724667",
+    "title": "Multipole-based force approximation revisited: a simple but fast implementation using a dynamized enclosing-circle-enhanced k-d-tree",
+    "venue": "graph drawing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ulrich Lauther",
+            "id": "688242386",
+            "org": "Siemens AG, Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Directed graph",
+        "Graph drawing",
+        "Discrete mathematics",
+        "Multipole expansion",
+        "k-d tree",
+        "Particle number",
+        "Combinatorics",
+        "Data structure",
+        "Tree (data structure)"
+    ],
+    "references": [
+        "1504716054",
+        "1517753551",
+        "1883466813",
+        "1916372377",
+        "2021053884",
+        "2075220720",
+        "2165558283",
+        "2167482691"
+    ]
+}

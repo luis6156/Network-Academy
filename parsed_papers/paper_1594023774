@@ -1,0 +1,54 @@
+{
+    "id": "1594023774",
+    "title": "Formal verification of a lazy concurrent list-based set algorithm",
+    "venue": "computer aided verification",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Robert Colvin",
+            "id": "2095671485",
+            "org": "ARC Centre for Complex Systems, School of Information Technology and, Electrical Engineering, University of Queensland, Australia#TAB#"
+        },
+        {
+            "name": "Lindsay Groves",
+            "id": "2132579616",
+            "org": "School of Mathematics, Statistics and Computer Science, Victoria University of Wellington, New Zealand#TAB#"
+        },
+        {
+            "name": "Victor Luchangco",
+            "id": "2685443099",
+            "org": "Sun Microsystems Laboratories, Burlington, MA#TAB#"
+        },
+        {
+            "name": "Mark Moir",
+            "id": "2648964153",
+            "org": "Sun Microsystems Laboratories, Burlington, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Traverse",
+        "Program counter",
+        "Concurrency"
+    ],
+    "references": [
+        "80370608",
+        "1495128589",
+        "1540997098",
+        "1972316716",
+        "2063798543",
+        "2101939036",
+        "2115309705",
+        "2115781455",
+        "2120926795",
+        "2138927523",
+        "2328819335",
+        "2611515161"
+    ]
+}

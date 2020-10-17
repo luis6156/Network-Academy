@@ -1,0 +1,48 @@
+{
+    "id": "1588022677",
+    "title": "Generalized security analysis of the random key bits leakage attack",
+    "venue": "workshop on information security applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jun Kogure",
+            "id": "2083587486",
+            "org": "Fujitsu Laboratories Ltd., Nakahara-ku, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Noboru Kunihiro",
+            "id": "2015470084",
+            "org": "The University of Tokyo, Kashiwa-shi, Chiba, Japan#TAB#"
+        },
+        {
+            "name": "Hirosuke Yamamoto",
+            "id": "2153781720",
+            "org": "The University of Tokyo, Kashiwa-shi, Chiba, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD2",
+        "Theoretical computer science",
+        "System of linear equations",
+        "Degrees of freedom (statistics)",
+        "Computer science",
+        "Computer security",
+        "Paillier cryptosystem",
+        "Expected value",
+        "Cold boot attack",
+        "Timing attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1503520699",
+        "1544369918",
+        "1578739431",
+        "1584522027",
+        "1602865989",
+        "2101040389",
+        "2132172731",
+        "2143316545",
+        "2170961388",
+        "2175377689"
+    ]
+}

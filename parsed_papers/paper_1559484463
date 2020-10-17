@@ -1,0 +1,44 @@
+{
+    "id": "1559484463",
+    "title": "Projective Coordinates Leak",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Gemplus Card International, Applied Research & Security Centre"
+        },
+        {
+            "name": "Nigel P. Smart",
+            "id": "2110748698",
+            "org": "University of Bristol"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "Ecole Normale Superieure, Departement d'Informatique"
+        }
+    ],
+    "fields_of_study": [
+        "Projective representation",
+        "Mathematics",
+        "Discrete logarithm",
+        "Discrete mathematics",
+        "Homogeneous coordinates",
+        "Elliptic curve",
+        "Multiplication",
+        "Adversary"
+    ],
+    "references": [
+        "1493159015",
+        "1520399166",
+        "1634503271",
+        "1981326822",
+        "2025322090",
+        "2058546698",
+        "2095708839",
+        "2137848579",
+        "2169194339"
+    ]
+}

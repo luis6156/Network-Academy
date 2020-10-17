@@ -1,0 +1,62 @@
+{
+    "id": "1521772188",
+    "title": "Evaluating the DSMIO Cache-Coherence Algorithm in Cluster-Based Parallel ODBMS",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Carla Osthoff",
+            "id": "2644954807",
+            "org": "LNCC"
+        },
+        {
+            "name": "Cristiana Bentes",
+            "id": "2030911775",
+            "org": "UERJ"
+        },
+        {
+            "name": "Daniel Ariosto",
+            "id": "2067235468",
+            "org": "COPPE/UFRJ"
+        },
+        {
+            "name": "Marta Mattoso",
+            "id": "2242263115",
+            "org": "COPPE/UFRJ"
+        },
+        {
+            "name": "Claudio Luis de Amorim",
+            "id": "2111249529",
+            "org": "COPPE/UFRJ"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Object-oriented programming",
+        "Parallel computing",
+        "Algorithm",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "False sharing",
+        "Cache coherence",
+        "Server",
+        "Node (networking)",
+        "Consistency model"
+    ],
+    "references": [
+        "50183942",
+        "1542985837",
+        "1549404527",
+        "1971279826",
+        "2029601347",
+        "2080653282",
+        "2097113145",
+        "2098358966",
+        "2100012073",
+        "2121946292",
+        "2123975697",
+        "2137957400",
+        "2141318181"
+    ]
+}

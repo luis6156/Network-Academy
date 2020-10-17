@@ -1,0 +1,76 @@
+{
+    "id": "1528118027",
+    "title": "Combined implementation attack resistant exponentiation",
+    "venue": "international conference on progress in cryptology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jorn-Marc Schmidt",
+            "id": "2171611322",
+            "org": "Graz University of Technology, Institute for Applied Information Processing and Communications, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Michael Tunstall",
+            "id": "2686577516",
+            "org": "Department of Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        },
+        {
+            "name": "Roberto Maria Avanzi",
+            "id": "1973199924",
+            "org": "Ruhr-University Bochum, Horst Gortz Institute for IT Security, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Ilya Kizhvatov",
+            "id": "114831267",
+            "org": "University of Luxembourg, Computer Science and Communications Research Unit, Luxembourg#TAB#"
+        },
+        {
+            "name": "Timo Kasper",
+            "id": "2160594996",
+            "org": "Ruhr-University Bochum, Horst Gortz Institute for IT Security, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "David Oswald",
+            "id": "1964382806",
+            "org": "Ruhr-University Bochum, Horst Gortz Institute for IT Security, Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Exponentiation",
+        "Countermeasure",
+        "Computer science",
+        "Distributed computing",
+        "Cryptosystem",
+        "Elliptic curve",
+        "Adversary"
+    ],
+    "references": [
+        "1481078266",
+        "1481330728",
+        "1496363505",
+        "1499791368",
+        "1501265301",
+        "1511843316",
+        "1520407944",
+        "1554128539",
+        "1570388754",
+        "1664808737",
+        "1730333074",
+        "1915929860",
+        "1935672779",
+        "1969260620",
+        "2006512828",
+        "2096133993",
+        "2099629555",
+        "2104841597",
+        "2111725598",
+        "2125637679",
+        "2127262877",
+        "2128771831",
+        "2146070389",
+        "2151279347",
+        "2154909745",
+        "2155441237"
+    ]
+}

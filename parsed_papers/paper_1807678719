@@ -1,0 +1,51 @@
+{
+    "id": "1807678719",
+    "title": "Larchant-RDOSS: a Distributed Shared Persistent Memory and its Garbage Collector",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Marc Shapiro",
+            "id": "2274888956",
+            "org": "INRIA Rocquencourt"
+        },
+        {
+            "name": "Paulo Ferreira",
+            "id": "2778235130",
+            "org": "INRIA Rocquencourt"
+        }
+    ],
+    "fields_of_study": [
+        "Region-based memory management",
+        "Computer science",
+        "Distributed computing",
+        "Memory management",
+        "Distributed shared memory",
+        "Data diffusion machine",
+        "Garbage",
+        "Manual memory management",
+        "Unreachable memory",
+        "Registered memory",
+        "Real-time computing"
+    ],
+    "references": [
+        "1500062583",
+        "1552730607",
+        "1556231184",
+        "1561765912",
+        "1985349143",
+        "2001868970",
+        "2005907808",
+        "2008172181",
+        "2050083119",
+        "2051555484",
+        "2074506810",
+        "2108183412",
+        "2108466550",
+        "2161318861",
+        "2162871137",
+        "2165739771",
+        "2168368830",
+        "2295484512"
+    ]
+}

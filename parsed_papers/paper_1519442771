@@ -1,0 +1,37 @@
+{
+    "id": "1519442771",
+    "title": "An Implementation of Scoped Memory for Real-Time Java",
+    "venue": "embedded software",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "William S. Beebee",
+            "id": "2171035489",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Martin C. Rinard",
+            "id": "343541395",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Java Modeling Language",
+        "Java",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Java concurrency",
+        "Memory model",
+        "strictfp",
+        "Real-time computing"
+    ],
+    "references": [
+        "2087466192",
+        "2087875803",
+        "2115597529",
+        "2127163775",
+        "2163365446"
+    ]
+}

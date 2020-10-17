@@ -1,0 +1,42 @@
+{
+    "id": "106431406",
+    "title": "Improving MPI applications performance on multicore clusters with rank reordering",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Guillaume Mercier",
+            "id": "2776359565",
+            "org": "Universite de Bordeaux, INRIA, LaBRI, Talence, France#TAB#"
+        },
+        {
+            "name": "Emmanuel Jeannot",
+            "id": "2779198757",
+            "org": "Universite de Bordeaux, INRIA, LaBRI, Talence, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory hierarchy",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Graph",
+        "Message passing",
+        "Cluster (physics)"
+    ],
+    "references": [
+        "1531896033",
+        "1575424854",
+        "1756027381",
+        "1969215126",
+        "1969923711",
+        "2029674034",
+        "2094605327",
+        "2099030945",
+        "2120585109",
+        "2131239319",
+        "2139578661",
+        "2166957790"
+    ]
+}

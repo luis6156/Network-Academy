@@ -1,0 +1,52 @@
+{
+    "id": "1595316703",
+    "title": "Interpreting invariant composition in the b method using the spec# ownership relation: a way to explain and relax b restrictions",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sylvain Boulme",
+            "id": "342867361",
+            "org": "LSR-IMAG, Grenoble, France#TAB#"
+        },
+        {
+            "name": "Marie-Laure Potet",
+            "id": "2050494686",
+            "org": "LSR-IMAG, Grenoble, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Invariant (mathematics)",
+        "Formal specification",
+        "Soundness",
+        "Spec#",
+        "Initialization",
+        "Metamodeling",
+        "Architecture",
+        "B-Method"
+    ],
+    "references": [
+        "1489778371",
+        "1491103651",
+        "1509562505",
+        "1528062399",
+        "1554863622",
+        "1573044584",
+        "1582439588",
+        "1583811508",
+        "1583826417",
+        "1592957105",
+        "1699340362",
+        "1982262311",
+        "2030124942",
+        "2080441874",
+        "2094160561",
+        "2103591546",
+        "2103953153",
+        "2110050316",
+        "2151131364",
+        "2592015105"
+    ]
+}

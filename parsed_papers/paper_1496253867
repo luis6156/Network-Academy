@@ -1,0 +1,61 @@
+{
+    "id": "1496253867",
+    "title": "Side-channel analysis of the K2 stream cipher",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Matthew Henricksen",
+            "id": "2066623285",
+            "org": "Institute for Infocomm Research, A*STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Wun-She Yap",
+            "id": "2130965023",
+            "org": "Institute for Infocomm Research, A*STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Chee Hoo Yian",
+            "id": "1983526236",
+            "org": "Institute for Infocomm Research, A*STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Shinsaku Kiyomoto",
+            "id": "1174863452",
+            "org": "KDDI R&D Laboratories Inc., Fujimino-shi, Saitama, Japan#TAB#"
+        },
+        {
+            "name": "Toshiaki Tanaka",
+            "id": "2104322484",
+            "org": "KDDI R&D Laboratories Inc., Fujimino-shi, Saitama, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Power analysis",
+        "Differential fault analysis",
+        "Timing attack",
+        "Correlation attack"
+    ],
+    "references": [
+        "95027592",
+        "1531269151",
+        "1542020576",
+        "1564532940",
+        "1588952639",
+        "1850432139",
+        "1911657985",
+        "1964723977",
+        "2154909745",
+        "2155441237",
+        "2168767876",
+        "2170489924",
+        "2172632525",
+        "2395982082"
+    ]
+}

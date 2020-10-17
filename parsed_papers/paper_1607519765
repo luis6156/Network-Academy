@@ -1,0 +1,50 @@
+{
+    "id": "1607519765",
+    "title": "Comparing Reference Counting and Global Mark-and-Sweep on Parallel Computers",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Hirotaka Yamamoto",
+            "id": "2476133433",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Kenjiro Taura",
+            "id": "670466773",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Akinori Yonezawa",
+            "id": "660900409",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented programming",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Garbage collection",
+        "Dynamic random-access memory",
+        "Heap (data structure)",
+        "Concurrency",
+        "Reference counting",
+        "Data structure"
+    ],
+    "references": [
+        "1514731042",
+        "1516778075",
+        "1579270891",
+        "1582105055",
+        "1583464938",
+        "1876014853",
+        "2028080565",
+        "2052221182",
+        "2094631165",
+        "2112686013",
+        "2114728910",
+        "2118098427",
+        "2159281018"
+    ]
+}

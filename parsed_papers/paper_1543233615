@@ -1,0 +1,51 @@
+{
+    "id": "1543233615",
+    "title": "Inside the Hypercube",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Eric Brier",
+            "id": "2026843684",
+            "org": "Ingenico, France#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "INRIA project-team SECRET, France#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2892527121",
+            "org": "Ingenico, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Round function",
+        "Theoretical computer science",
+        "Fixed point",
+        "Discrete mathematics",
+        "Collision",
+        "CubeHash",
+        "Hypercube",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "81015123",
+        "1544498556",
+        "1596207166"
+    ]
+}

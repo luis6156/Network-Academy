@@ -1,0 +1,75 @@
+{
+    "id": "1736339626",
+    "title": "A collaborative framework for 3D alignment and classification of heterogeneous subvolumes in cryo-electron tomography",
+    "venue": "Journal of Structural Biology",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Oleg Kuybeda",
+            "id": "1204304089",
+            "org": "Office of High Performance Computing and Communications, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA"
+        },
+        {
+            "name": "Gabriel A. Frank",
+            "id": "2137510672",
+            "org": "Laboratory of Cell Biology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA"
+        },
+        {
+            "name": "Alberto Bartesaghi",
+            "id": "2336748056",
+            "org": "Laboratory of Cell Biology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA"
+        },
+        {
+            "name": "Mario J. Borgnia",
+            "id": "38185589",
+            "org": "Laboratory of Cell Biology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA"
+        },
+        {
+            "name": "Sriram Subramaniam",
+            "id": "2098083791",
+            "org": "Laboratory of Cell Biology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, USA"
+        },
+        {
+            "name": "Guillermo Sapiro",
+            "id": "2114921128",
+            "org": "Electrical and Computer Engineering, Duke University, Durham, NC, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Biology",
+        "Electron Microscope Tomography",
+        "Cryo-electron tomography",
+        "3D reconstruction",
+        "Biological specimen",
+        "Crystallography",
+        "Curse of dimensionality",
+        "Matrix completion",
+        "Similarity measure",
+        "Robust principal component analysis"
+    ],
+    "references": [
+        "1573605934",
+        "1639316992",
+        "1672197616",
+        "1974042113",
+        "1976709621",
+        "1996287810",
+        "2001266526",
+        "2003753589",
+        "2005082281",
+        "2009006054",
+        "2009702064",
+        "2093666130",
+        "2100556411",
+        "2103972604",
+        "2121789508",
+        "2124608575",
+        "2131628350",
+        "2138835141",
+        "2145962650",
+        "2151211319",
+        "2165644552",
+        "2167113322",
+        "2611328865"
+    ]
+}

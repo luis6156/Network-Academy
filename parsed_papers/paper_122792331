@@ -1,0 +1,38 @@
+{
+    "id": "122792331",
+    "title": "Formal analysis of key integrity in PKCS#11",
+    "venue": "workshop on information technologies and systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andrea Falcone",
+            "id": "1978738220",
+            "org": "Universita Ca' Foscari di Venezia, Italy#TAB#"
+        },
+        {
+            "name": "Riccardo Focardi",
+            "id": "344358645",
+            "org": "Universita Ca' Foscari di Venezia, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Cryptography",
+        "Key (lock)",
+        "PKCS #11",
+        "Computer science",
+        "PKCS",
+        "Computer security",
+        "Related-key attack",
+        "Hardware security module",
+        "Key management"
+    ],
+    "references": [
+        "1489391022",
+        "1514302123",
+        "2029693536",
+        "2109266092",
+        "2154209904",
+        "2166327763"
+    ]
+}

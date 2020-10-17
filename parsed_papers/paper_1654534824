@@ -1,0 +1,45 @@
+{
+    "id": "1654534824",
+    "title": "JMangler - a framework for load-time transformation of Java class files",
+    "venue": "source code analysis and manipulation",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Gunter Kniesel",
+            "id": "729669163",
+            "org": "Inst. of Comput. Sci. III, Bonn Univ., Germany"
+        },
+        {
+            "name": "Pascal Costanza",
+            "id": "2600270267",
+            "org": "University of Bonn"
+        },
+        {
+            "name": "Michael Austermann",
+            "id": "2318508104",
+            "org": "University of Bonn|Institute of Computer Science III"
+        }
+    ],
+    "fields_of_study": [
+        "Hooking",
+        "Java",
+        "Interface (Java)",
+        "Computer science",
+        "Java annotation",
+        "Abstract data type",
+        "Architecture",
+        "Loader",
+        "Programming language",
+        "Real-time computing",
+        "Class hierarchy"
+    ],
+    "references": [
+        "1509514020",
+        "1596847037",
+        "1644882639",
+        "2117922858",
+        "2139897701",
+        "2154611120",
+        "2167500728"
+    ]
+}

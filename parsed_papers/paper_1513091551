@@ -1,0 +1,57 @@
+{
+    "id": "1513091551",
+    "title": "Towards context-aware transaction services",
+    "venue": "distributed applications and interoperable systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Romain Rouvoy",
+            "id": "182829486",
+            "org": "INRIA Futurs - Jacquard Project, LIFL - University of Lille 1, Villeneuve d'Ascq, France#TAB#"
+        },
+        {
+            "name": "Patricia Serrano-Alvarado",
+            "id": "294560251",
+            "org": "ATLAS-GDD Team, LINA - University of Nantes, Nantes Cedex 03, France#TAB#"
+        },
+        {
+            "name": "Philippe Merle",
+            "id": "2279817329",
+            "org": "INRIA Futurs - Jacquard Project, LIFL - University of Lille 1, Villeneuve d'Ascq, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Two-phase commit protocol",
+        "Commit",
+        "Computer science",
+        "Distributed computing",
+        "Transaction processing",
+        "X/Open XA",
+        "Distributed transaction",
+        "Real-time computing",
+        "Context awareness",
+        "Database transaction"
+    ],
+    "references": [
+        "1489177896",
+        "1499043038",
+        "1504834688",
+        "1511120439",
+        "1545245328",
+        "1605933465",
+        "1979316981",
+        "1985424925",
+        "1986718190",
+        "2030689196",
+        "2037999521",
+        "2042795992",
+        "2096955849",
+        "2106887953",
+        "2124070832",
+        "2167500728",
+        "2169379483",
+        "2613643282",
+        "2614877623"
+    ]
+}

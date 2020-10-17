@@ -1,0 +1,64 @@
+{
+    "id": "1581819742",
+    "title": "Hash function combiners in TLS and SSL",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Marc Fischlin",
+            "id": "132146421",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Anja Lehmann",
+            "id": "1986518007",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Daniel Wagner",
+            "id": "2476523480",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Secure Hash Standard",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Hash chain",
+        "Secure Hash Algorithm",
+        "Collision attack",
+        "Hash function",
+        "MDC-2"
+    ],
+    "references": [
+        "1479727008",
+        "1512498994",
+        "1531296821",
+        "1549228503",
+        "1571303828",
+        "1598517024",
+        "1600432225",
+        "1608187605",
+        "1656731780",
+        "1733713784",
+        "1741219559",
+        "1778824762",
+        "1870778496",
+        "1973936128",
+        "2043711803",
+        "2103239853",
+        "2131300413",
+        "2134615993",
+        "2134751726",
+        "2140331728",
+        "2143126652",
+        "2143765083",
+        "2146923862",
+        "2147436724",
+        "2148555789",
+        "2159860765",
+        "2160838772"
+    ]
+}

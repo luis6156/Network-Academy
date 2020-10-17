@@ -1,0 +1,50 @@
+{
+    "id": "1533432294",
+    "title": "Simple Load Balancing for Distributed Hash Tables",
+    "venue": "international workshop on peer-to-peer systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "John W. Byers",
+            "id": "2101152111",
+            "org": "Boston University"
+        },
+        {
+            "name": "Jeffrey Considine",
+            "id": "2132851987",
+            "org": "Boston University"
+        },
+        {
+            "name": "Michael Mitzenmacher",
+            "id": "1988080645",
+            "org": "Harvard University"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "2-choice hashing",
+        "Dynamic perfect hashing",
+        "Computer science",
+        "Universal hashing",
+        "Distributed computing",
+        "Distributed hash table",
+        "SUHA",
+        "Hash function",
+        "Real-time computing",
+        "Open addressing"
+    ],
+    "references": [
+        "2020765652",
+        "2056386972",
+        "2061468734",
+        "2117697005",
+        "2118428193",
+        "2120454288",
+        "2126391667",
+        "2131566399",
+        "2150676586",
+        "2158049821",
+        "2163059190",
+        "2167898414"
+    ]
+}

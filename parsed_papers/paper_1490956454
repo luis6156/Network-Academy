@@ -1,0 +1,40 @@
+{
+    "id": "1490956454",
+    "title": "V locking protocol for materialized aggregate join views on B-tree indices",
+    "venue": "web-age information management",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Gang Luo",
+            "id": "2104365585",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Serializability",
+        "Computer science",
+        "Data mining",
+        "B-tree",
+        "Database",
+        "Transactional leadership",
+        "Correctness",
+        "Concurrency",
+        "Hash function",
+        "Materialized view",
+        "Deadlock"
+    ],
+    "references": [
+        "105450126",
+        "1515932031",
+        "1545155892",
+        "1557189078",
+        "1569583874",
+        "1608305252",
+        "1974021718",
+        "2071009745",
+        "2081189989",
+        "2091416827",
+        "2103201239",
+        "2125691260"
+    ]
+}

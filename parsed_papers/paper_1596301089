@@ -1,0 +1,39 @@
+{
+    "id": "1596301089",
+    "title": "Collisions and near-collisions for reduced-round tiger",
+    "venue": "fast software encryption",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "NIST#TAB#"
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2810229488",
+            "org": "University of Mannheim, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Computer science",
+        "Distributed computing",
+        "Tiger",
+        "Computer security",
+        "Collision attack",
+        "Hash function",
+        "Collision"
+    ],
+    "references": [
+        "1590269592",
+        "1590624619",
+        "1591620981",
+        "1656731780",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2611506938"
+    ]
+}

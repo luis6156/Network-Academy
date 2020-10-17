@@ -1,0 +1,38 @@
+{
+    "id": "1526950753",
+    "title": "Preimages for Reduced-Round Tiger",
+    "venue": "Research in Cryptology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sebastiaan Indesteege",
+            "id": "79803544",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium B-3001#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium B-3001#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Fowler-Noll-Vo hash function",
+        "Tiger",
+        "Collision attack",
+        "SWIFFT",
+        "MDC-2",
+        "Double hashing",
+        "Preimage attack",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1587648112",
+        "1590624619",
+        "1596301089",
+        "2103658386",
+        "2141288318",
+        "2154759077"
+    ]
+}

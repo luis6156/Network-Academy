@@ -1,0 +1,64 @@
+{
+    "id": "1525058640",
+    "title": "Vectorization of multigrid codes using SIMD ISA extensions",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Carlos Garcia",
+            "id": "2136839857",
+            "org": "Dept. de Arquitectura de Computadores y Automatica, Univ. Complutense de Madrid, Spain"
+        },
+        {
+            "name": "Roberto Lario",
+            "id": "2139336039",
+            "org": "Dept. de Arquitectura de Computadores y Automatica, Univ. Complutense de Madrid, Spain"
+        },
+        {
+            "name": "Manuel Prieto",
+            "id": "2113779126",
+            "org": "Dept. de Arquitectura de Computadores y Automatica, Univ. Complutense de Madrid, Spain"
+        },
+        {
+            "name": "Luis Pinuel",
+            "id": "1992116403",
+            "org": "Dept. de Arquitectura de Computadores y Automatica, Univ. Complutense de Madrid, Spain"
+        },
+        {
+            "name": "Francisco Tirado",
+            "id": "2156904411",
+            "org": "Dept. de Arquitectura de Computadores y Automatica, Univ. Complutense de Madrid, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SIMD",
+        "Speedup",
+        "Theoretical computer science",
+        "Memory hierarchy",
+        "Computer science",
+        "Vectorization (mathematics)",
+        "Instruction set",
+        "Multiprocessing",
+        "Robustness (computer science)",
+        "Multigrid method"
+    ],
+    "references": [
+        "1549556853",
+        "1965997623",
+        "1983096721",
+        "1984972320",
+        "1986895037",
+        "2005128309",
+        "2005343162",
+        "2018761720",
+        "2044324015",
+        "2074554610",
+        "2100799646",
+        "2124757095",
+        "2156413870",
+        "2160401437",
+        "2165964351",
+        "2253977778"
+    ]
+}

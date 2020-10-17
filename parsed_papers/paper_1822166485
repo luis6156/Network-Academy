@@ -1,0 +1,51 @@
+{
+    "id": "1822166485",
+    "title": "Rotational cryptanalysis of ARX",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dmitry Khovratovich",
+            "id": "717857179",
+            "org": "University of Luxembourg#TAB#"
+        },
+        {
+            "name": "Ivica Nikolic",
+            "id": "2157574998",
+            "org": "University of Luxembourg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Threefish",
+        "Rotational cryptanalysis",
+        "Block cipher",
+        "Mathematics",
+        "Theoretical computer science",
+        "Skein",
+        "Piling-up lemma",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "124034723",
+        "1492016609",
+        "1501487725",
+        "1503389453",
+        "1511842436",
+        "1516699468",
+        "1543233615",
+        "1568817903",
+        "1597699498",
+        "1599137217",
+        "1685770595",
+        "1789460706",
+        "1991897749",
+        "2095675261",
+        "2103239853",
+        "2107699585",
+        "2247832471",
+        "2408744439",
+        "2593463031"
+    ]
+}

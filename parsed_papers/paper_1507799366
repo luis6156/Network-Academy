@@ -1,0 +1,56 @@
+{
+    "id": "1507799366",
+    "title": "Impossible differential cryptanalysis on feistel ciphers with SP and SPS round functions",
+    "venue": "applied cryptography and network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yuechuan Wei",
+            "id": "2159038450",
+            "org": "School of Computer Science, National University of Defense Technology, Changsha, China#TAB#"
+        },
+        {
+            "name": "Ping Li",
+            "id": "2630815385",
+            "org": "Science College of National University of Defense Technology, Changsha, China#TAB#"
+        },
+        {
+            "name": "Bing Sun",
+            "id": "2692627454",
+            "org": "Science College of National University of Defense Technology, Changsha, China#TAB#"
+        },
+        {
+            "name": "Chao Li",
+            "id": "2640909072",
+            "org": "School of Computer Science, National Univ. of Defense Technology, Changsha, China and Science College of National Univ. of Defense Techn., Changsha, China and State Key Lab. of Inf. Security, Chin ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Cipher",
+        "Key schedule",
+        "Discrete mathematics",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Feistel cipher",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1489575954",
+        "1501856114",
+        "1539178658",
+        "1541703086",
+        "1541853791",
+        "1545756401",
+        "1564766222",
+        "1584463697",
+        "1622456230",
+        "1868228027",
+        "1882297107",
+        "2067040124",
+        "2107699024",
+        "2466913488"
+    ]
+}

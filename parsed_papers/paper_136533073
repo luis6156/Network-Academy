@@ -1,0 +1,60 @@
+{
+    "id": "136533073",
+    "title": "Concurrent library correctness on the TSO memory model",
+    "venue": "european symposium on programming",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sebastian Burckhardt",
+            "id": "2303331168",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Alexey Gotsman",
+            "id": "216695568",
+            "org": "IMDEA Software Institute, Spain#TAB#"
+        },
+        {
+            "name": "Madanlal Musuvathi",
+            "id": "2306824899",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Hongseok Yang",
+            "id": "2125768396",
+            "org": "University of Oxford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "x86",
+        "Theoretical computer science",
+        "Linearizability",
+        "Software",
+        "Computer science",
+        "Generalization",
+        "Correctness",
+        "Memory model",
+        "Programming language"
+    ],
+    "references": [
+        "1509000726",
+        "1525350307",
+        "1547285994",
+        "1561412378",
+        "1594381772",
+        "1867941603",
+        "1887412317",
+        "2091085450",
+        "2101939036",
+        "2105980774",
+        "2110879934",
+        "2111858071",
+        "2138074470",
+        "2139533136",
+        "2149074552",
+        "2151448199",
+        "2183354935",
+        "2194223632",
+        "2508779702"
+    ]
+}

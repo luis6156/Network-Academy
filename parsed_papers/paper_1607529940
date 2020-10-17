@@ -1,0 +1,66 @@
+{
+    "id": "1607529940",
+    "title": "The PACAP Prototype: A Tool for Detecting Java Card Illegal Flow",
+    "venue": "JavaCard '00 Revised Papers from the First International Workshop on Java on Smart Cards: Programming and Security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Pierre Bieber",
+            "id": "2162047452",
+            "org": "ONERA-CERT/DTIM BP 4025 2 avenue E. Belin F-31055 Toulouse Cedex 4 France"
+        },
+        {
+            "name": "Jacques Cazin",
+            "id": "1887168994",
+            "org": "ONERA-CERT/DTIM BP 4025 2 avenue E. Belin F-31055 Toulouse Cedex 4 France"
+        },
+        {
+            "name": "A. El Marouani",
+            "id": "2286222776",
+            "org": "ONERA-CERT/DTIM BP 4025 2 avenue E. Belin F-31055 Toulouse Cedex 4 France"
+        },
+        {
+            "name": "Pierre Girard",
+            "id": "2714899152",
+            "org": "ONERA-CERT/DTIM BP 4025 2 avenue E. Belin F-31055 Toulouse Cedex 4 France"
+        },
+        {
+            "name": "Jean Louis Lanet",
+            "id": "1978487427",
+            "org": "GEMPLUS avenue du pic de Bertagne 13881 Gemenos cedex France"
+        },
+        {
+            "name": "Virginie Wiels",
+            "id": "342554022",
+            "org": "GEMPLUS avenue du pic de Bertagne 13881 Gemenos cedex France"
+        },
+        {
+            "name": "Guy Zanon",
+            "id": "2135494134",
+            "org": "GEMPLUS avenue du pic de Bertagne 13881 Gemenos cedex France"
+        }
+    ],
+    "fields_of_study": [
+        "Open Smart Card Development Platform",
+        "Java Card",
+        "Java applet",
+        "Computer science",
+        "Smart card application protocol data unit",
+        "Computer security",
+        "Security policy",
+        "Model checking",
+        "Smart card",
+        "OpenPGP card"
+    ],
+    "references": [
+        "1488790435",
+        "1547030198",
+        "1554358172",
+        "1692349883",
+        "2035069210",
+        "2057503672",
+        "2102654013",
+        "2105360973",
+        "2136296832"
+    ]
+}

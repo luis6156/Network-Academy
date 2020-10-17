@@ -1,0 +1,86 @@
+{
+    "id": "1500258551",
+    "title": "Tolerating latency in replicated state machines through client speculation",
+    "venue": "networked systems design and implementation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Benjamin Wester",
+            "id": "2027615108",
+            "org": "University of Michigan#TAB#"
+        },
+        {
+            "name": "James A. Cowling",
+            "id": "2118446708",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Edmund B. Nightingale",
+            "id": "1273945011",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Peter M. Chen",
+            "id": "2101505567",
+            "org": "University of Michigan#TAB#"
+        },
+        {
+            "name": "Jason Flinn",
+            "id": "1992040104",
+            "org": "University of Michigan#TAB#"
+        },
+        {
+            "name": "Barbara Liskov",
+            "id": "2084056563",
+            "org": "MIT CSAIL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speculative execution",
+        "Throughput",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "State machine replication",
+        "Byzantine fault tolerance",
+        "Real-time computing",
+        "Finite-state machine",
+        "Fault tolerance"
+    ],
+    "references": [
+        "48317398",
+        "84765653",
+        "1973501242",
+        "2003214215",
+        "2053903896",
+        "2063229843",
+        "2073126252",
+        "2075854425",
+        "2077409330",
+        "2080288192",
+        "2100970777",
+        "2104942083",
+        "2106018697",
+        "2110137598",
+        "2121178808",
+        "2122142939",
+        "2125936380",
+        "2126087831",
+        "2126789306",
+        "2128023681",
+        "2129360963",
+        "2129467152",
+        "2131867938",
+        "2136798749",
+        "2139359217",
+        "2146822278",
+        "2147524598",
+        "2148524997",
+        "2152465173",
+        "2161995137",
+        "2166509141",
+        "2242837385",
+        "2294472646"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1597890874",
+    "title": "Some Bounds and a Construction for Secure Broadcast Encryption",
+    "venue": "international cryptology conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Takuya Yoshida",
+            "id": "2444208575",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "University of Wisconsin - Milwaukee"
+        },
+        {
+            "name": "Mike Burmester",
+            "id": "2339635653",
+            "org": "Royal Holloway - University of London Egham"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Cryptography",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Information theory",
+        "Cryptosystem",
+        "ElGamal encryption",
+        "Goldwasser-Micali cryptosystem",
+        "Upper and lower bounds",
+        "Broadcast encryption"
+    ],
+    "references": [
+        "1514361308",
+        "1544592562",
+        "1571147132",
+        "1822822445",
+        "1974152067",
+        "1994704618",
+        "2105514582",
+        "2158273335"
+    ]
+}

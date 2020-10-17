@@ -1,0 +1,43 @@
+{
+    "id": "1546458856",
+    "title": "Parallel Merge Sort on Concurrent-Read Owner-Write PRAM",
+    "venue": "european conference on parallel processing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "David C. Lin",
+            "id": "2426522680",
+            "org": "York University"
+        },
+        {
+            "name": "Patrick W. Dymond",
+            "id": "405514873",
+            "org": "York University"
+        },
+        {
+            "name": "Xiaotie Deng",
+            "id": "2681636185",
+            "org": "York University"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Parallel random-access machine",
+        "Random-access machine",
+        "Parallel computing",
+        "Merge sort",
+        "Computer science",
+        "Distributed computing",
+        "Binary logarithm",
+        "sort",
+        "Parallel algorithm",
+        "Linked list"
+    ],
+    "references": [
+        "1540833278",
+        "1587590810",
+        "1978583881",
+        "2004618348",
+        "2092423448"
+    ]
+}

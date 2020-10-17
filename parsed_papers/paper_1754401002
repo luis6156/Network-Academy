@@ -1,0 +1,47 @@
+{
+    "id": "1754401002",
+    "title": "An approach to compile-time task scheduling in heterogeneous computing systems",
+    "venue": "international conference on parallel processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tarek Hagras",
+            "id": "1228732125",
+            "org": "Czech Technical University in Prague"
+        },
+        {
+            "name": "Jan Janecek",
+            "id": "2097373665",
+            "org": "Czech Technical University in Prague#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Flow shop scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1493093628",
+        "1599248213",
+        "1913953800",
+        "2023753260",
+        "2043331236",
+        "2097911714",
+        "2098464112",
+        "2107351313",
+        "2149294210",
+        "2151038512",
+        "2161865329",
+        "2164631467",
+        "2541367100"
+    ]
+}

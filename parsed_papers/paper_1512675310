@@ -1,0 +1,53 @@
+{
+    "id": "1512675310",
+    "title": "Memory-limited execution of windowed stream joins",
+    "venue": "very large data bases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Utkarsh Srivastava",
+            "id": "2274204266",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Jennifer Widom",
+            "id": "671527850",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Data stream mining",
+        "Data stream",
+        "Computer science",
+        "Memory management",
+        "Sliding window protocol",
+        "Database",
+        "Sampling (statistics)",
+        "Joins",
+        "Tuple",
+        "Real-time computing"
+    ],
+    "references": [
+        "54721856",
+        "87905120",
+        "150801922",
+        "1510252230",
+        "1964857063",
+        "2001474264",
+        "2004110412",
+        "2013092187",
+        "2040063291",
+        "2047424291",
+        "2082553115",
+        "2106990403",
+        "2118924829",
+        "2128869116",
+        "2132851185",
+        "2140894225",
+        "2144982736",
+        "2148706674",
+        "2162228985",
+        "2398660820"
+    ]
+}

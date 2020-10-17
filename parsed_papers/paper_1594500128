@@ -1,0 +1,57 @@
+{
+    "id": "1594500128",
+    "title": "Automatic foreground propagation in image sequences for 3D reconstruction",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Mario Sormann",
+            "id": "1206068976",
+            "org": "VRVis Research Center, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Christopher Zach",
+            "id": "2156938214",
+            "org": "VRVis Research Center, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Joachim Bauer",
+            "id": "2164593905",
+            "org": "VRVis Research Center, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Konrad F. Karner",
+            "id": "2146390391",
+            "org": "VRVis Research Center, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Horst Bischof",
+            "id": "2048481453",
+            "org": "Institute for Computer Graphics and Vision, Graz University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mean-shift",
+        "Computer vision",
+        "3D reconstruction",
+        "Computer science",
+        "Image segmentation",
+        "Scale-space segmentation",
+        "Image processing",
+        "Initialization",
+        "Iterative reconstruction",
+        "Segmentation-based object categorization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1852815127",
+        "1964443764",
+        "1987983010",
+        "2067191022",
+        "2083277843",
+        "2109635530",
+        "2124351162",
+        "2164500538",
+        "2169551590"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "1495447492",
+    "title": "Fault Attacks on RSA with CRT: Concrete Results and Practical Countermeasures",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Christian Aumuller",
+            "id": "2076330810",
+            "org": "Infineon Technologies Security & ChipCard ICs"
+        },
+        {
+            "name": "Peter Bier",
+            "id": "2277784477",
+            "org": "Infineon Technologies Security & ChipCard ICs"
+        },
+        {
+            "name": "Wieland Fischer",
+            "id": "2135426620",
+            "org": "Infineon Technologies Security & ChipCard ICs"
+        },
+        {
+            "name": "Peter Hofreiter",
+            "id": "1306237192",
+            "org": "Infineon Technologies Security & ChipCard ICs"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2727304887",
+            "org": "Infineon Technologies Security & ChipCard ICs"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Software",
+        "Countermeasure",
+        "Computer science",
+        "Computer security",
+        "Coprocessor",
+        "Software quality",
+        "Hardware security module",
+        "Public-key cryptography",
+        "Real-time computing",
+        "Smart card",
+        "Fault model"
+    ],
+    "references": [
+        "1484814447",
+        "1500693694",
+        "1511843316",
+        "1560284469",
+        "1571786080",
+        "1578960746",
+        "1583816927",
+        "1644344319",
+        "1660562555",
+        "1664808737",
+        "1724890242",
+        "1768621358",
+        "1935672779",
+        "1994959057",
+        "1996360405",
+        "2035759188",
+        "2066425771",
+        "2144952508",
+        "2154909745",
+        "2162653919",
+        "2170489924"
+    ]
+}

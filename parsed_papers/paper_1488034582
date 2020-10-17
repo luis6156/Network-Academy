@@ -1,0 +1,31 @@
+{
+    "id": "1488034582",
+    "title": "Cryptanalysis of the niederreiter public key scheme based on GRS subcodes",
+    "venue": "PQCrypto'10 Proceedings of the Third international conference on Post-Quantum Cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Christian Wieschebrink",
+            "id": "262328919",
+            "org": "Federal Office for Information Security (BSI), Bonn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Reed-Solomon error correction",
+        "McEliece cryptosystem",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Error detection and correction"
+    ],
+    "references": [
+        "1508253193",
+        "1574075570",
+        "2026461145",
+        "2032431003",
+        "2126474167"
+    ]
+}

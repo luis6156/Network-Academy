@@ -1,0 +1,41 @@
+{
+    "id": "1497838713",
+    "title": "Fine-tuning loop-level parallelism for increasing performance of DSP applications on FPGAs",
+    "venue": "field-programmable custom computing machines",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Emre Ozer",
+            "id": "2131925648",
+            "org": "Dept. of Comput. Sci., Trinity Coll., Dublin, Ireland"
+        },
+        {
+            "name": "Andy Nisbet",
+            "id": "2777027024",
+            "org": "Dept. of Comput. Sci., Trinity Coll., Dublin, Ireland"
+        },
+        {
+            "name": "David Gregg",
+            "id": "2112276106",
+            "org": "Dept. of Comput. Sci., Trinity Coll., Dublin, Ireland"
+        }
+    ],
+    "fields_of_study": [
+        "Instruction-level parallelism",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Chip",
+        "Computer science",
+        "Fine-tuning",
+        "Digital signal processing",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "1590625845",
+        "1704830506",
+        "2030934436",
+        "2138744372",
+        "2161711423"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1627544262",
+    "title": "Monkey see, monkey do: a tool for TCP tracing and replaying",
+    "venue": "usenix annual technical conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yu-Chung Cheng",
+            "id": "2631929901",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Urs Holzle",
+            "id": "2698149432",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Neal Cardwell",
+            "id": "2126418785",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Stefan Savage",
+            "id": "2171030022",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Geoffrey M. Voelker",
+            "id": "241629895",
+            "org": "University of California, San Diego#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Network delay",
+        "Computer science",
+        "Web service",
+        "TCP tuning",
+        "Tracing",
+        "Workload",
+        "TCP hole punching",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "1504771965",
+        "1570160575",
+        "1789564405",
+        "1883979883",
+        "2010440587",
+        "2052917281",
+        "2066660519",
+        "2105047865",
+        "2120368429",
+        "2133985894"
+    ]
+}

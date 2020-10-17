@@ -1,0 +1,47 @@
+{
+    "id": "1569332921",
+    "title": "Hamming Weight Attacks on Cryptographic Hardware - Breaking Masking Defense",
+    "venue": "european symposium on research in computer security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Marcin Gomulkiewicz",
+            "id": "2093954229",
+            "org": "Poznan University"
+        },
+        {
+            "name": "Miroslaw Kutylowski",
+            "id": "181516391",
+            "org": "Poznan University Cryptology Centre Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Hamming distance",
+        "Side channel attack",
+        "Key schedule",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Computer security",
+        "Power analysis",
+        "Hamming weight",
+        "Plaintext"
+    ],
+    "references": [
+        "1511843316",
+        "1548656471",
+        "1565173996",
+        "1569151289",
+        "1573725807",
+        "1613874182",
+        "1664808737",
+        "1890449996",
+        "1897761346",
+        "2109265351",
+        "2132250906",
+        "2154909745",
+        "2155938490",
+        "2612208439"
+    ]
+}

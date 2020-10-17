@@ -1,0 +1,36 @@
+{
+    "id": "1584759454",
+    "title": "A Combined Timing and Power Attack",
+    "venue": "public key cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Werner Schindler",
+            "id": "2141506873",
+            "org": "Bundesamt fur Sicherheit in der Informationstechnik (BSI)"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Modular exponentiation",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Algorithm",
+        "Computer science",
+        "Cryptosystem",
+        "Power gain",
+        "Exploit",
+        "Multiplication algorithm",
+        "Real-time computing",
+        "Timing attack"
+    ],
+    "references": [
+        "1511843316",
+        "1536508214",
+        "1587481360",
+        "1613874182",
+        "1660562555",
+        "1664808737",
+        "2154909745"
+    ]
+}

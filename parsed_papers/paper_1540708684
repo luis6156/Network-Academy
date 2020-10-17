@@ -1,0 +1,41 @@
+{
+    "id": "1540708684",
+    "title": "Comparative Semantics for Linear Arrays of Communicating Processes: A Study of the UNIX Fork and Pipe Commands",
+    "venue": "mathematical foundations of computer science",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "J. W. de Bakker",
+            "id": "2172040901",
+            "org": "1|Department of Software Technology"
+        },
+        {
+            "name": "Franck van Breugel",
+            "id": "2168760155",
+            "org": "CWI Department of Software Technology P.O. Box 4079 1009 AB Amsterdam P.O. Box 4079 1009 AB Amsterdam"
+        },
+        {
+            "name": "Arie de Bruin",
+            "id": "2127494540",
+            "org": "Erasmus Universiteit Faculty of Economics P.O. Box 1738 3000 DR Rotterdam P.O. Box 1738 3000 DR Rotterdam"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Theoretical computer science",
+        "Fixed point",
+        "Computer science",
+        "Unix",
+        "Fork (system call)",
+        "Programming language",
+        "Semantic data model"
+    ],
+    "references": [
+        "96983663",
+        "1729002319",
+        "2016933775",
+        "2037016404",
+        "2101875919",
+        "2118229393"
+    ]
+}

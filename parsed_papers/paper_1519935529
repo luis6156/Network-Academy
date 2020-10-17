@@ -1,0 +1,40 @@
+{
+    "id": "1519935529",
+    "title": "A new security proof for damgard's elgamal",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kristian Gjosteen",
+            "id": "305939286",
+            "org": "Department of Telematics, Norwegian University of Science and Technology, Trondheim, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Cryptanalysis",
+        "Cramer-Shoup cryptosystem",
+        "Diffie-Hellman problem",
+        "Cryptosystem",
+        "ElGamal encryption",
+        "Chosen-ciphertext attack",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1504029287",
+        "1525737403",
+        "1532961226",
+        "1550137840",
+        "1589586740",
+        "2117852003",
+        "2132172731",
+        "2134679597",
+        "2149093588",
+        "2156186849",
+        "2157679418",
+        "2165111290"
+    ]
+}

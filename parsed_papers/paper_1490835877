@@ -1,0 +1,50 @@
+{
+    "id": "1490835877",
+    "title": "Verification of FM9801: An Out-of-Order Microprocessor Model with Speculative Execution, Exceptions, and Program-Modifying Capability",
+    "venue": "formal methods",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jun Sawada",
+            "id": "2665536067",
+            "org": "IBM Austin Research Laboratory, 11400 Burnet Road, Austin, TX 78758, USA#TAB#"
+        },
+        {
+            "name": "Warren A. Hunt",
+            "id": "2095896588",
+            "org": "IBM Austin Research Laboratory, 11400 Burnet Road, Austin, TX 78758, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speculative execution",
+        "Commutative diagram",
+        "Tomasulo algorithm",
+        "Parallel computing",
+        "Formal verification",
+        "Computer science",
+        "ACL2",
+        "Out-of-order execution",
+        "Correctness",
+        "Real-time computing",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "1487864094",
+        "1488659932",
+        "1489215519",
+        "1499323045",
+        "1500286044",
+        "1515542122",
+        "1555915743",
+        "1588758388",
+        "1680001562",
+        "1686347472",
+        "1741528175",
+        "1751589996",
+        "1764850050",
+        "2006120207",
+        "2011889923",
+        "2107503612",
+        "2132107743"
+    ]
+}

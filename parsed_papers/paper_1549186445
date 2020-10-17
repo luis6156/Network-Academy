@@ -1,0 +1,40 @@
+{
+    "id": "1549186445",
+    "title": "Performance Evaluation of Flash File Systems",
+    "venue": "arXiv: Operating Systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pierre Olivier",
+            "id": "2194904544",
+            "org": "Lab-STICC"
+        },
+        {
+            "name": "Jalil Boukhobza",
+            "id": "2307024320",
+            "org": "Lab-STICC"
+        },
+        {
+            "name": "Eric Senn",
+            "id": "2048104311",
+            "org": "Lab-STICC"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Parallel computing",
+        "Flash memory",
+        "Computer science",
+        "Granularity",
+        "Flash memory emulator",
+        "Embedded operating system",
+        "Flash file system",
+        "JFFS2",
+        "NAND gate",
+        "Real-time computing"
+    ],
+    "references": [
+        "1528667768",
+        "2099753358"
+    ]
+}

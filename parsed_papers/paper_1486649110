@@ -1,0 +1,49 @@
+{
+    "id": "1486649110",
+    "title": "A Heuristic for Dijkstra's Algorithm With Many Targets and its Use in Weighted Matching Algorithms",
+    "venue": "Algorithmica",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Holger Bast",
+            "id": "2049563512",
+            "org": "Algorithms and Complexity, MPI for Informatics, Max Planck Society"
+        },
+        {
+            "name": "Kurt Mehlhorn",
+            "id": "512556102",
+            "org": "Algorithms and Complexity, MPI for Informatics, Max Planck Society"
+        },
+        {
+            "name": "Guido Schafer",
+            "id": "2157472905",
+            "org": "Algorithms and Complexity, MPI for Informatics, Max Planck Society"
+        },
+        {
+            "name": "Hisao Tamaki",
+            "id": "2665843561",
+            "org": "Algorithms and Complexity, MPI for Informatics, Max Planck Society"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Shortest path problem",
+        "Algorithm",
+        "Yen's algorithm",
+        "3-dimensional matching",
+        "Discrete mathematics",
+        "Pathfinding",
+        "Matching (graph theory)",
+        "Combinatorics",
+        "Shortest Path Faster Algorithm",
+        "Assignment problem",
+        "Suurballe's algorithm",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1485262373",
+        "2068871408",
+        "2080090262",
+        "2174858151"
+    ]
+}

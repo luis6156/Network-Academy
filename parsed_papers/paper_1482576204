@@ -1,0 +1,53 @@
+{
+    "id": "1482576204",
+    "title": "The rainbow attack on stream ciphers based on maiorana-mcfarland functions",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Khoongming Khoo",
+            "id": "2155732702",
+            "org": "DSO National Laboratories, Singapore#TAB#"
+        },
+        {
+            "name": "Guang Gong",
+            "id": "2091176276",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Hian-Kiat Lee",
+            "id": "2162911177",
+            "org": "DSO National Laboratories, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation attack",
+        "Block size",
+        "Algorithm",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Computer security",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Chosen-ciphertext attack",
+        "Correlation attack"
+    ],
+    "references": [
+        "254188420",
+        "1487359577",
+        "1488367145",
+        "1549671385",
+        "1573481115",
+        "1582363331",
+        "1589266564",
+        "1783446041",
+        "1964723977",
+        "1993188486",
+        "2012646342",
+        "2020306457",
+        "2130943734",
+        "2161517294",
+        "2501739025"
+    ]
+}

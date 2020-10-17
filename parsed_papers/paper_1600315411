@@ -1,0 +1,45 @@
+{
+    "id": "1600315411",
+    "title": "On the Power of Multidoubling in Speeding Up Elliptic Scalar Multiplication",
+    "venue": "selected areas in cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Yasuyuki Sakai",
+            "id": "2134686839",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Montgomery curve",
+        "Mathematics",
+        "Edwards curve",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1521787982",
+        "1522228241",
+        "1529807895",
+        "1539482743",
+        "1563272506",
+        "1584579923",
+        "2003736153",
+        "2043926312",
+        "2099317248",
+        "2108558890",
+        "2115840814",
+        "2121110380",
+        "2139192386"
+    ]
+}

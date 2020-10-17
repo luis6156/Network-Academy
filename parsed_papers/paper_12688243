@@ -1,0 +1,85 @@
+{
+    "id": "12688243",
+    "title": "Stronger semantics for low-latency geo-replicated storage",
+    "venue": "networked systems design and implementation",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Wyatt Lloyd",
+            "id": "2114199729",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Michael J. Freedman",
+            "id": "2144033718",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Michael Kaminsky",
+            "id": "2151237659",
+            "org": "Intel Labs#TAB#"
+        },
+        {
+            "name": "David G. Andersen",
+            "id": "2130397481",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Geo-replication",
+        "Throughput",
+        "Computer data storage",
+        "Computer science",
+        "Distributed computing",
+        "Causal consistency",
+        "Latency (engineering)",
+        "Server",
+        "Computer network",
+        "Real-time computing",
+        "Data model"
+    ],
+    "references": [
+        "1524103123",
+        "1561336685",
+        "1745268285",
+        "1916848204",
+        "1969925795",
+        "1970705443",
+        "1973501242",
+        "1981420413",
+        "1993505169",
+        "1999610418",
+        "2001803004",
+        "2013409485",
+        "2020765652",
+        "2026697016",
+        "2029467255",
+        "2039573521",
+        "2060440895",
+        "2074306365",
+        "2075854425",
+        "2087946700",
+        "2094162326",
+        "2096167494",
+        "2101939036",
+        "2102163972",
+        "2108026089",
+        "2110765100",
+        "2112564224",
+        "2114925953",
+        "2119251905",
+        "2119565742",
+        "2125901106",
+        "2127872526",
+        "2130923111",
+        "2133394135",
+        "2149623556",
+        "2150013559",
+        "2156027558",
+        "2161730338",
+        "2169187571",
+        "2249200448",
+        "2624304035"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1504695911",
+    "title": "Security analysis of SHA-256 and sisters",
+    "venue": "selected areas in cryptography",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "France Telecom R&D, FTRD/DTL/SSR"
+        },
+        {
+            "name": "Helena Handschuh",
+            "id": "1756865753",
+            "org": "GEMPLUS, Security Technologies Department"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Primary clustering",
+        "Hash chain",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1491388917",
+        "1517650281",
+        "1524407627",
+        "1531810027",
+        "1537185870",
+        "1549228503",
+        "1863270349",
+        "2008272678",
+        "2075819430",
+        "2086659222",
+        "2090135172",
+        "2095675261",
+        "2098801947",
+        "2104633167",
+        "2170677368"
+    ]
+}

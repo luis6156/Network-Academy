@@ -1,0 +1,56 @@
+{
+    "id": "1522774220",
+    "title": "Fuzzy Multiscale Region Growing for Segmentation of MR Images of the Human Brain",
+    "venue": "Bildverarbeitung f&uuml;r die Medizin",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Karin Engel",
+            "id": "2122948772",
+            "org": "Otto von Guericke University"
+        },
+        {
+            "name": "Frederik Maucksch",
+            "id": "2511917459",
+            "org": "Otto von Guericke University"
+        },
+        {
+            "name": "Anja Perlich",
+            "id": "1613986901",
+            "org": "Otto von Guericke University"
+        },
+        {
+            "name": "Matthias Wolff",
+            "id": "2515625929",
+            "org": "Otto von Guericke University"
+        },
+        {
+            "name": "Klaus D. Toennies",
+            "id": "1988143745",
+            "org": "Otto von Guericke University"
+        },
+        {
+            "name": "Andre Brechmann",
+            "id": "326541811",
+            "org": "Leibniz Institute for Neurobiology"
+        }
+    ],
+    "fields_of_study": [
+        "Frontal lobe",
+        "Segmentation",
+        "Computer vision",
+        "Cerebral cortex",
+        "Human brain",
+        "White matter",
+        "Active contour model",
+        "Region growing",
+        "Computer science",
+        "Neuroimaging",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1711469356",
+        "2105868963",
+        "2107165478"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "1140897522",
+    "title": "Slide attack on standard stream cipher Enocoro-80 in the related-key chosen IV setting",
+    "venue": "Pervasive and Mobile Computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Lin Ding",
+            "id": "2149717365",
+            "org": "Zhengzhou Information Science and Technology Institute, 450000 Zhengzhou, China#TAB#"
+        },
+        {
+            "name": "Chenhui Jin",
+            "id": "2613484745",
+            "org": "Zhengzhou Information Science and Technology Institute, 450000 Zhengzhou, China#TAB#"
+        },
+        {
+            "name": "Jie Guan",
+            "id": "2484975044",
+            "org": "Zhengzhou Information Science and Technology Institute, 450000 Zhengzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Rail fence cipher",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Two-square cipher",
+        "Slide attack",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "35428663",
+        "45372631",
+        "147018390",
+        "153516704",
+        "160172364",
+        "814893481",
+        "1500553477",
+        "1512497838",
+        "1522919234",
+        "1573222895",
+        "1575062508",
+        "1599175145",
+        "1601321736",
+        "1607874478",
+        "1711791155",
+        "1712746312",
+        "1757627485",
+        "1827311732",
+        "1853704432",
+        "1894646615",
+        "1897454360",
+        "1903742260",
+        "1942692615",
+        "2014500840",
+        "2018345087",
+        "2048185717",
+        "2058559153",
+        "2131662918",
+        "2141124495",
+        "2147227205",
+        "2163466490",
+        "2170960580",
+        "2181149903",
+        "2786169301",
+        "2802808712"
+    ]
+}

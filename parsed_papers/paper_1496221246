@@ -1,0 +1,53 @@
+{
+    "id": "1496221246",
+    "title": "Adaptive containment of time-bounded byzantine faults",
+    "venue": "international conference on stabilization safety and security of distributed systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yukiko Yamauchi",
+            "id": "2104197905",
+            "org": "Nara Institute of Science and Technology, Japan#TAB#"
+        },
+        {
+            "name": "Toshimitsu Masuzawa",
+            "id": "2075504009",
+            "org": "Osaka University, Japan#TAB#"
+        },
+        {
+            "name": "Doina Bein",
+            "id": "2281576247",
+            "org": "The Pennsylvania State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Distributed computing",
+        "Bounded function",
+        "Self-stabilization",
+        "Byzantine fault tolerance",
+        "Byzantine architecture",
+        "Quantum Byzantine agreement",
+        "Real-time computing",
+        "Upper and lower bounds",
+        "Fault tolerance",
+        "Leader election"
+    ],
+    "references": [
+        "1483786081",
+        "1506482163",
+        "1543193821",
+        "1605487428",
+        "1975092363",
+        "1980247170",
+        "2029057723",
+        "2031556125",
+        "2036850022",
+        "2040579981",
+        "2111132249",
+        "2135434238",
+        "2179127340",
+        "2294012738",
+        "2340995113"
+    ]
+}

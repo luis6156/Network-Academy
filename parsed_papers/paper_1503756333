@@ -1,0 +1,66 @@
+{
+    "id": "1503756333",
+    "title": "A policy iteration algorithm for computing fixed points in static analysis of programs",
+    "venue": "computer aided verification",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Alexandru Costan",
+            "id": "2699717523",
+            "org": "Polytehnica Bucarest#TAB#"
+        },
+        {
+            "name": "Stephane Gaubert",
+            "id": "2198955772",
+            "org": "INRIA Rocquencourt#TAB#"
+        },
+        {
+            "name": "Eric Goubault",
+            "id": "2088963076",
+            "org": "CEA Saclay#TAB#"
+        },
+        {
+            "name": "Matthieu Martel",
+            "id": "2145271959",
+            "org": "CEA Saclay#TAB#"
+        },
+        {
+            "name": "Sylvie Putot",
+            "id": "840361129",
+            "org": "CEA Saclay#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Complete lattice",
+        "Algorithm",
+        "Fixed point",
+        "Discrete mathematics",
+        "Static analysis",
+        "Abstract interpretation",
+        "Kleene algebra",
+        "Monotone polygon",
+        "Power iteration",
+        "Fixed-point iteration"
+    ],
+    "references": [
+        "75689942",
+        "134626815",
+        "1531068736",
+        "1568478782",
+        "1569914622",
+        "1572006999",
+        "1572979171",
+        "1580584885",
+        "1599366842",
+        "1726736548",
+        "1984342415",
+        "1991840188",
+        "2043100293",
+        "2062113352",
+        "2069445541",
+        "2132815291",
+        "2144123204",
+        "2293206574"
+    ]
+}

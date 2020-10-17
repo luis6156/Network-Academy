@@ -1,0 +1,57 @@
+{
+    "id": "170945785",
+    "title": "UNAF: a special set of additive differences with application to the differential analysis of ARX",
+    "venue": "fast software encryption",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Vesselin Velichkov",
+            "id": "2080878042",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium,Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        },
+        {
+            "name": "Nicky Mouha",
+            "id": "154253014",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium,Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        },
+        {
+            "name": "Christophe De Canniere",
+            "id": "2038466276",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium,Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium,Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Mathematics",
+        "Theoretical computer science",
+        "Software",
+        "Discrete mathematics",
+        "Salsa20",
+        "Stream cipher",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Modulo"
+    ],
+    "references": [
+        "199966775",
+        "1504341594",
+        "1508038907",
+        "1518716055",
+        "1523702841",
+        "1535006789",
+        "1553753418",
+        "1556212265",
+        "1574565813",
+        "1577801461",
+        "1629301835",
+        "1969483458",
+        "2022789141",
+        "2296300514",
+        "2400479413"
+    ]
+}

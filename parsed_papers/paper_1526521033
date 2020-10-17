@@ -1,0 +1,52 @@
+{
+    "id": "1526521033",
+    "title": "CNF and DNF Considered Harmful for Computing Prime Implicants/Implicates",
+    "venue": "Journal of Automated Reasoning",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Anavai Ramesh",
+            "id": "2120351771",
+            "org": "Intel Corporation, MS CH6-418, 5000 W. Chandler Blvd., Chandler, AZ 85226 U.S.A. e-mail:agramesh@sedona.intel.com#TAB#"
+        },
+        {
+            "name": "George Becker",
+            "id": "2312397647",
+            "org": "Institute for Programming amp; Logics, Department of Computer Science, University at Albany - SUNY, Albany, NY 12222 U.S.A. e-mail:{becker,nvm}@cs.albany.edu#TAB#"
+        },
+        {
+            "name": "Neil V. Murray",
+            "id": "2096490972",
+            "org": "Institute for Programming amp; Logics, Department of Computer Science, University at Albany - SUNY, Albany, NY 12222 U.S.A. e-mail:{becker,nvm}@cs.albany.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Implicant",
+        "Pi",
+        "Algorithm",
+        "Discrete mathematics",
+        "Canonical normal form",
+        "Prime (order theory)",
+        "Disjunctive normal form",
+        "Negation normal form",
+        "Correctness",
+        "Conjunctive normal form"
+    ],
+    "references": [
+        "145128706",
+        "200968911",
+        "1498304098",
+        "1602903215",
+        "1969413672",
+        "1999997889",
+        "2003015654",
+        "2004352874",
+        "2004541361",
+        "2016492815",
+        "2031784867",
+        "2092544922",
+        "2095365729",
+        "2144078201"
+    ]
+}

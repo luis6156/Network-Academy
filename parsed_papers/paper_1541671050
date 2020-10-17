@@ -1,0 +1,45 @@
+{
+    "id": "1541671050",
+    "title": "Deadlock Analysis for a Fault-Tolerant System",
+    "venue": "algebraic methodology and software technology",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Bettina Buth",
+            "id": "2223782920",
+            "org": "BISS, Bremer Institute for Safe Systems"
+        },
+        {
+            "name": "Michel Kouvaras",
+            "id": "1985586662",
+            "org": "Daimler-Benz Aerospace"
+        },
+        {
+            "name": "Jan Peleska",
+            "id": "6818022",
+            "org": "JP Software-Consulting"
+        },
+        {
+            "name": "Hui Shi",
+            "id": "2124081924",
+            "org": "University of Bremen"
+        }
+    ],
+    "fields_of_study": [
+        "Specification language",
+        "Theoretical computer science",
+        "Software development",
+        "Computer science",
+        "Modular programming",
+        "Abstraction",
+        "Formal methods",
+        "Model checking",
+        "Deadlock",
+        "Fault tolerance"
+    ],
+    "references": [
+        "2110425399",
+        "2120510885",
+        "2133996557"
+    ]
+}

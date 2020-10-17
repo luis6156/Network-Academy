@@ -1,0 +1,59 @@
+{
+    "id": "1542956335",
+    "title": "Interactions of intelligent route control with TCP congestion control",
+    "venue": "next generation internet",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ruomei Gao",
+            "id": "2482202412",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Dana Blair",
+            "id": "2122054811",
+            "org": "Cisco Systems Inc.#TAB#"
+        },
+        {
+            "name": "Constantine Dovrolis",
+            "id": "1945437555",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Monique Morrow",
+            "id": "2301255323",
+            "org": "Cisco Systems Inc.#TAB#"
+        },
+        {
+            "name": "Ellen W. Zegura",
+            "id": "2068860363",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "Distributed computing",
+        "CUBIC TCP",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1582569117",
+        "1976099036",
+        "2069291311",
+        "2078318318",
+        "2097371774",
+        "2103440894",
+        "2103655097",
+        "2109015671",
+        "2153486199",
+        "2158385899"
+    ]
+}

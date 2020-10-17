@@ -1,0 +1,69 @@
+{
+    "id": "1616123395",
+    "title": "A Consistency Framework for Iteration Operations in Concurrent Data Structures",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yiannis Nikolakopoulos",
+            "id": "244319339",
+            "org": "Chalmers Univ. of Technol., Gothenburg, Sweden"
+        },
+        {
+            "name": "Anders Gidenstam",
+            "id": "298031203",
+            "org": "Univ. of Boras, Boras, Sweden"
+        },
+        {
+            "name": "Marina Papatriantafilou",
+            "id": "269123960",
+            "org": "Chalmers Univ. of Technol., Gothenburg, Sweden"
+        },
+        {
+            "name": "Philippas Tsigas",
+            "id": "2274820914",
+            "org": "Chalmers Univ. of Technol., Gothenburg, Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Sequential consistency",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Queue",
+        "Weak consistency",
+        "Concurrency",
+        "Non-blocking algorithm",
+        "Concurrent data structure",
+        "Data structure",
+        "Consistency model"
+    ],
+    "references": [
+        "172375476",
+        "1540179969",
+        "1981393723",
+        "1983572666",
+        "1993805917",
+        "1996931099",
+        "2025062383",
+        "2030902717",
+        "2043801088",
+        "2060771324",
+        "2073407658",
+        "2085407655",
+        "2092048723",
+        "2101939036",
+        "2104959526",
+        "2108253266",
+        "2119909997",
+        "2146814846",
+        "2147604521",
+        "2156317754",
+        "2165761560",
+        "2166263713",
+        "2167282885",
+        "2169582366",
+        "2204731804"
+    ]
+}

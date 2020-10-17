@@ -1,0 +1,42 @@
+{
+    "id": "1506160167",
+    "title": "Using the fast marching method to extract curves with given global properties",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xiaodong Tao",
+            "id": "2672184803",
+            "org": "Visualization and Computer Vision Lab, GE Global Research Center, Niskayuna, NY#TAB#"
+        },
+        {
+            "name": "Christos Davatzikos",
+            "id": "2058210145",
+            "org": "SBIA, Department of Radiology, University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Jerry L. Prince",
+            "id": "2152659900",
+            "org": "IACL, Department of Electrical and Computer Engineering, Johns Hopkins University, Baltimore, MD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Geometric design",
+        "Geodesic",
+        "Weight function",
+        "Family of curves",
+        "Fast marching method",
+        "Mathematical optimization",
+        "Curvature"
+    ],
+    "references": [
+        "1515070147",
+        "1522258365",
+        "1978513331",
+        "1991029432",
+        "2000732749",
+        "2156531304",
+        "2162540389"
+    ]
+}

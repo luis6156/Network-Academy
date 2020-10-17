@@ -1,0 +1,45 @@
+{
+    "id": "1629693692",
+    "title": "Multi-core LTSmin: marrying modularity and scalability",
+    "venue": "nasa formal methods",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Alfons Laarman",
+            "id": "2055335673",
+            "org": "Formal Methods and Tools, University of Twente, The Netherlands#TAB#"
+        },
+        {
+            "name": "Jan Cornelis van de Pol",
+            "id": "2737247176",
+            "org": "Formal Methods and Tools, University of Twente, The Netherlands#TAB#"
+        },
+        {
+            "name": "M. Weber",
+            "id": "2618926769",
+            "org": "Formal Methods and Tools, University of Twente, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Hash table",
+        "Theoretical computer science",
+        "Multi-core processor",
+        "Computer science",
+        "State space",
+        "Distributed computing",
+        "Model checking",
+        "Hash function",
+        "Modularity",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "125115239",
+        "1499445820",
+        "1850929791",
+        "2021433144",
+        "2147895351",
+        "2153822668",
+        "2160675239"
+    ]
+}

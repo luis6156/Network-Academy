@@ -1,0 +1,49 @@
+{
+    "id": "1586862628",
+    "title": "Self-Adjusting Scheduling of Master-Worker Applications on Distributed Clusters",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Elisa Heymann",
+            "id": "2136455458",
+            "org": "Universitat Autonoma de Barcelona"
+        },
+        {
+            "name": "Miquel A. Senar",
+            "id": "2161352230",
+            "org": "Universitat Autonoma de Barcelona"
+        },
+        {
+            "name": "Emilio Luque",
+            "id": "2126325555",
+            "org": "Universitat Autonoma de Barcelona"
+        },
+        {
+            "name": "Miron Livny",
+            "id": "228437624",
+            "org": "University of Wisconsin"
+        }
+    ],
+    "fields_of_study": [
+        "Resource efficiency",
+        "Speedup",
+        "Resource management",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Efficiency factor",
+        "Real-time computing",
+        "Computer cluster"
+    ],
+    "references": [
+        "69137203",
+        "1482593380",
+        "1583364605",
+        "1842876248",
+        "1991547973",
+        "2004593585",
+        "2161292693",
+        "2162232794"
+    ]
+}

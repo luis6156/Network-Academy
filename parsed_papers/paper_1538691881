@@ -1,0 +1,78 @@
+{
+    "id": "1538691881",
+    "title": "An inference-rule-based decision procedure for verification of heap-manipulating programs with mutable data and cyclic data structures",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Zvonimir Rakamaric",
+            "id": "326559460",
+            "org": "Department of Computer Science, University of British Columbia, Canada#TAB#"
+        },
+        {
+            "name": "Jesse D. Bingham",
+            "id": "2063764338",
+            "org": "Intel Corporation, Hillsboro, Oregon#TAB#"
+        },
+        {
+            "name": "Alan J. Hu",
+            "id": "2001625928",
+            "org": "Department of Computer Science, University of British Columbia, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Pointer (computer programming)",
+        "Separation logic",
+        "Computer science",
+        "Linked data",
+        "Mathematical proof",
+        "Rule of inference",
+        "Heap (data structure)",
+        "Data structure",
+        "Generalization"
+    ],
+    "references": [
+        "153567890",
+        "1485718948",
+        "1490638967",
+        "1497571013",
+        "1508811155",
+        "1533299090",
+        "1551360145",
+        "1552505815",
+        "1556566737",
+        "1557880268",
+        "1562865234",
+        "1575079504",
+        "1578097867",
+        "1595182411",
+        "1602537816",
+        "1731421159",
+        "1800123991",
+        "1851346840",
+        "1972085995",
+        "1974265510",
+        "1987469449",
+        "1988441831",
+        "2030101147",
+        "2043100293",
+        "2105588192",
+        "2108611287",
+        "2111706174",
+        "2117189826",
+        "2121025472",
+        "2123828382",
+        "2132638915",
+        "2136767512",
+        "2147121279",
+        "2152221608",
+        "2154173307",
+        "2159279400",
+        "2160563691",
+        "2162284942",
+        "2172166433",
+        "2194223632",
+        "2295903414"
+    ]
+}

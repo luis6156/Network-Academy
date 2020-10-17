@@ -1,0 +1,33 @@
+{
+    "id": "1531371507",
+    "title": "A block Lanczos algorithm for finding dependencies over GF(2)",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Peter L. Montgomery",
+            "id": "2776222233",
+            "org": "San Rafael, USA"
+        }
+    ],
+    "fields_of_study": [
+        "GF(2)",
+        "Block Lanczos algorithm",
+        "Mathematics",
+        "Discrete mathematics",
+        "Factor base",
+        "Combinatorics",
+        "General number field sieve",
+        "Special number field sieve",
+        "Lanczos algorithm",
+        "Quadratic sieve",
+        "Trial division"
+    ],
+    "references": [
+        "1490994218",
+        "1502078890",
+        "1512680026",
+        "2071483197",
+        "2203317094"
+    ]
+}

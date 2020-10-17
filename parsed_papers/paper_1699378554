@@ -1,0 +1,60 @@
+{
+    "id": "1699378554",
+    "title": "Securing the PlanetLab Distributed Testbed: How to Manage Security in an Environment with No Firewalls, with All Users Having Root, and No Direct Physical Control of Any System",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Paul Brett",
+            "id": "2184649869",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Mic Bowman",
+            "id": "2190584119",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Jeff Sedayao",
+            "id": "2055562330",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Robert Adams",
+            "id": "2150170461",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Rob Knauerhause",
+            "id": "2283009321",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Aaron Klingaman",
+            "id": "2276462947",
+            "org": "Intel Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Testbed",
+        "Confidentiality",
+        "Computer science",
+        "Encryption",
+        "Raw socket",
+        "PlanetLab",
+        "Computer security",
+        "Software deployment",
+        "Network packet",
+        "Physical access"
+    ],
+    "references": [
+        "116883374",
+        "1558573344",
+        "1674877186",
+        "2003309944",
+        "2098981715",
+        "2131726714",
+        "2143160644",
+        "2155444313"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "1563341929",
+    "title": "A practical-time related-key attack on the KASUMI cryptosystem used in GSM and 3G telephony",
+    "venue": "international cryptology conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Faculty of Mathematics and Computer Science, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Faculty of Mathematics and Computer Science, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Faculty of Mathematics and Computer Science, Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Boomerang attack",
+        "Computer security",
+        "Related-key attack",
+        "Slide attack",
+        "Stream cipher attack",
+        "KASUMI"
+    ],
+    "references": [
+        "52191336",
+        "1493204363",
+        "1498330251",
+        "1498892963",
+        "1515958737",
+        "1518406241",
+        "1538476572",
+        "1540066842",
+        "1540875416",
+        "1544956979",
+        "1546907539",
+        "1554090281",
+        "1571721593",
+        "1575149347",
+        "1596744447",
+        "1597699498",
+        "1622456230",
+        "1806447353",
+        "1871986277",
+        "1991897749",
+        "2097140439",
+        "2100510009",
+        "2145038746",
+        "2156536571",
+        "2162272584",
+        "2402760406",
+        "2514781489",
+        "2592352276"
+    ]
+}

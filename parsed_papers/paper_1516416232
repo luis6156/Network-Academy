@@ -1,0 +1,52 @@
+{
+    "id": "1516416232",
+    "title": "An interface to support the identification of dynamic MPI 2 processes for scalable parallel debugging",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Christopher Gottbrath",
+            "id": "2682655579",
+            "org": "Etnus, LLC, Natick, MA#TAB#"
+        },
+        {
+            "name": "Brian Barrett",
+            "id": "2619323566",
+            "org": "Computer Science Department, Bloomington, IN#TAB#"
+        },
+        {
+            "name": "Bill Gropp",
+            "id": "2630385133",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Ewing \"Rusty\" Lusk",
+            "id": "2780540829",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Jeff Squyres",
+            "id": "2810358519",
+            "org": "Cisco Systems, Inc., San Jose, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "System identification",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Message passing",
+        "Distributed memory",
+        "Debugger",
+        "Virtual machine",
+        "Debugging"
+    ],
+    "references": [
+        "1641327695",
+        "1780860177",
+        "1825216778",
+        "1969215126"
+    ]
+}

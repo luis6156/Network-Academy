@@ -1,0 +1,41 @@
+{
+    "id": "1518208863",
+    "title": "Provable security of ID-Based proxy signature schemes",
+    "venue": "international conference on networking",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Chunxiang Gu",
+            "id": "2654745048",
+            "org": "Network Engineering Department, Information Engineering University, Zhengzhou, P.R. China#TAB#"
+        },
+        {
+            "name": "Yuefei Zhu",
+            "id": "2715259264",
+            "org": "Network Engineering Department, Information Engineering University, Zhengzhou, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Cryptography",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Digital signature",
+        "Schnorr signature",
+        "Random oracle",
+        "Merkle signature scheme",
+        "Ring signature",
+        "Provable security"
+    ],
+    "references": [
+        "70239856",
+        "1569083856",
+        "1643928249",
+        "1976385711",
+        "2112914778",
+        "2167179301",
+        "2169194339",
+        "2396523018"
+    ]
+}

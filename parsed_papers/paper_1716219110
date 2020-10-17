@@ -1,0 +1,70 @@
+{
+    "id": "1716219110",
+    "title": "Scheduler-based defenses against cross-VM side-channels",
+    "venue": "usenix security symposium",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Venkatanathan Varadarajan",
+            "id": "1988491809",
+            "org": "University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Thomas Ristenpart",
+            "id": "197246800",
+            "org": "University of Wisconsin#TAB#"
+        },
+        {
+            "name": "Michael M. Swift",
+            "id": "2304722209",
+            "org": "University of Wisconsin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cryptography",
+        "Computer science",
+        "Mount",
+        "Scheduling (computing)",
+        "Communication channel",
+        "Computer security",
+        "Economies of scale",
+        "Virtual machine",
+        "Real-time computing"
+    ],
+    "references": [
+        "58308990",
+        "98341770",
+        "130371449",
+        "1253017325",
+        "1427174644",
+        "1488058190",
+        "1511843316",
+        "1584476834",
+        "1664808737",
+        "1724890242",
+        "1992291252",
+        "2034195502",
+        "2036853599",
+        "2048384964",
+        "2056778557",
+        "2097778649",
+        "2103981209",
+        "2106728965",
+        "2107691219",
+        "2107776555",
+        "2119028650",
+        "2135744598",
+        "2141181087",
+        "2144729799",
+        "2146573211",
+        "2147150814",
+        "2150139096",
+        "2154909745",
+        "2166293920",
+        "2167088175",
+        "2169965429",
+        "2171863291",
+        "2172060328"
+    ]
+}

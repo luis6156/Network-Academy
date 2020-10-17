@@ -1,0 +1,49 @@
+{
+    "id": "1684452600",
+    "title": "M2D2: a formal data model for IDS alert correlation",
+    "venue": "recent advances in intrusion detection",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Benjamin Morin",
+            "id": "2893243026",
+            "org": "France Telecom R&D, Caen, France#TAB#"
+        },
+        {
+            "name": "Ludovic Me",
+            "id": "2101098733",
+            "org": "Supelec, Rennes, France#TAB#"
+        },
+        {
+            "name": "Herve Debar",
+            "id": "2328058354",
+            "org": "France Telecom R&D, Caen, France#TAB#"
+        },
+        {
+            "name": "Mireille Ducasse",
+            "id": "1984896957",
+            "org": "IRISA/INSA, Rennes, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Alert correlation",
+        "Vulnerability",
+        "Computer science",
+        "Data mining",
+        "Computer security",
+        "Information system",
+        "Intrusion detection system",
+        "Data model"
+    ],
+    "references": [
+        "1481915258",
+        "1495304983",
+        "1497296356",
+        "1582506709",
+        "1602380388",
+        "1654253310",
+        "2067361528",
+        "2126345423",
+        "2163277533"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "154693229",
+    "title": "Runtime Support for Multigrain and Multiparadigm Parallelism",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Panagiotis E. Hadjidoukas",
+            "id": "2221444126",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Eleftherios D. Polychronopoulos",
+            "id": "56925266",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Theodore S. Papatheodorou",
+            "id": "615415263",
+            "org": "University of Patras"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "Implicit parallelism",
+        "Message passing",
+        "Task parallelism",
+        "Runtime system"
+    ],
+    "references": [
+        "1578711114",
+        "1900747454",
+        "2072201530",
+        "2088915003",
+        "2128826630",
+        "2159145958"
+    ]
+}

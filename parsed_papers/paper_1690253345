@@ -1,0 +1,47 @@
+{
+    "id": "1690253345",
+    "title": "BinHunt: Automatically Finding Semantic Differences in Binary Programs",
+    "venue": "international conference on information and communication security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Debin Gao",
+            "id": "2108338047",
+            "org": "Singapore Management University,#TAB#"
+        },
+        {
+            "name": "Michael K. Reiter",
+            "id": "2260712038",
+            "org": "University of North Carolina at Chapel Hill,#TAB#"
+        },
+        {
+            "name": "Dawn Song",
+            "id": "2131252044",
+            "org": "University of California, Berkeley,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Syntax",
+        "Control flow",
+        "Executable",
+        "Basic block",
+        "Computer science",
+        "Symbolic execution",
+        "Semantic computing",
+        "Register allocation",
+        "Graph isomorphism",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1568194905",
+        "1604459715",
+        "2056477044",
+        "2101512909",
+        "2103626206",
+        "2126359798",
+        "2129487583",
+        "2165597437",
+        "2166462894"
+    ]
+}

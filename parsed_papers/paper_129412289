@@ -1,0 +1,50 @@
+{
+    "id": "129412289",
+    "title": "Learning graphical game models",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Quang Duong",
+            "id": "2054791984",
+            "org": "Computer Science & Engineering, University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "Yevgeniy Vorobeychik",
+            "id": "2305697090",
+            "org": "Computer & Information Science, University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Satinder P. Singh",
+            "id": "2102570927",
+            "org": "Computer Science & Engineering, University of Michigan, Ann Arbor, MI#TAB#"
+        },
+        {
+            "name": "Michael P. Wellman",
+            "id": "2102222802",
+            "org": "Computer Science & Engineering, University of Michigan, Ann Arbor, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Greedy algorithm",
+        "Upper and lower bounds",
+        "Branch and bound",
+        "Local search (optimization)",
+        "Performance metric",
+        "Stochastic game",
+        "Mathematical optimization",
+        "Search tree",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "30708391",
+        "113002869",
+        "2130056990",
+        "2149086825",
+        "2156523042",
+        "2160135758",
+        "2170112109"
+    ]
+}

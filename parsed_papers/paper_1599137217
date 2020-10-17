@@ -1,0 +1,70 @@
+{
+    "id": "1599137217",
+    "title": "Linearization Framework for Collision Attacks: Application to CubeHash and MD6",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Eric Brier",
+            "id": "2026843684",
+            "org": "Ingenico, France#TAB#"
+        },
+        {
+            "name": "Shahram Khazaei",
+            "id": "2081320160",
+            "org": "EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2892527121",
+            "org": "Ingenico, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Perfect hash function",
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Discrete mathematics",
+        "CubeHash",
+        "MD6",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "128319768",
+        "139533467",
+        "143650379",
+        "1504341594",
+        "1509875874",
+        "1521015940",
+        "1533979572",
+        "1543233615",
+        "1550150171",
+        "1577801461",
+        "1596207166",
+        "1758946714",
+        "1902962512",
+        "1987091409",
+        "2020926437",
+        "2075961898",
+        "2088097115",
+        "2093243364",
+        "2095675261",
+        "2099250555",
+        "2103239853",
+        "2113446256",
+        "2135759164",
+        "2145706556",
+        "2394910287",
+        "2396332221",
+        "2591363523"
+    ]
+}

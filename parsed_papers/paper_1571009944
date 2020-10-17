@@ -1,0 +1,66 @@
+{
+    "id": "1571009944",
+    "title": "Performance Prediction for Parallel Iterative Solvers",
+    "venue": "international conference on computational science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Vicente Blanco Perez",
+            "id": "2745569045",
+            "org": "Dept . of Statistics and Computer Science|Laguna University"
+        },
+        {
+            "name": "Patricia Gonzalez",
+            "id": "2143873371",
+            "org": "Dept. of Electronics and Systems Dept. of Electronics and Systems A Coruna University A Coruna Spain"
+        },
+        {
+            "name": "Jose Carlos Cabaleiro",
+            "id": "1985824980",
+            "org": "Santiago de Compostela University Dept. of Electronics and Computer Science 15706 Santiago Spain"
+        },
+        {
+            "name": "Dora Blanco Heras",
+            "id": "2107531893",
+            "org": "Santiago de Compostela University Dept. of Electronics and Computer Science 15706 Santiago Spain"
+        },
+        {
+            "name": "Tomas F. Pena",
+            "id": "2167005063",
+            "org": "Santiago de Compostela University Dept. of Electronics and Computer Science 15706 Santiago Spain"
+        },
+        {
+            "name": "Juan J. Pombo",
+            "id": "2421361097",
+            "org": "Santiago de Compostela University Dept. of Electronics and Computer Science 15706 Santiago Spain"
+        },
+        {
+            "name": "Francisco F. Rivera",
+            "id": "2157879346",
+            "org": "Santiago de Compostela University Dept. of Electronics and Computer Science 15706 Santiago Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Conjugate gradient method",
+        "Theoretical computer science",
+        "Shared memory",
+        "Computer science",
+        "Distributed memory",
+        "Performance prediction",
+        "Parallel algorithm",
+        "Iterative method",
+        "Fortran"
+    ],
+    "references": [
+        "1506342804",
+        "1508567954",
+        "1526848679",
+        "1574995439",
+        "1974688537",
+        "2072982258",
+        "2129722342",
+        "2137406137",
+        "2139131733"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1485451675",
+    "title": "Reliable orchestration of resources using WS-Agreement",
+    "venue": "high performance computing and communications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Heiko Ludwig",
+            "id": "2149030097",
+            "org": "IBM TJ Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Toshiyuki Nakata",
+            "id": "2171197691",
+            "org": "NEC, Central Research Laboratory, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Oliver Waldrich",
+            "id": "84700319",
+            "org": "Department of Bioinformatics, Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Philipp Wieder",
+            "id": "2121074600",
+            "org": "Research Centre Julich, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Ziegler",
+            "id": "2292028617",
+            "org": "Department of Bioinformatics, Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Service level",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Grid",
+        "Service level objective",
+        "Orchestration (computing)",
+        "Resource Provider",
+        "Service-level agreement"
+    ],
+    "references": [
+        "191511410",
+        "1516942492",
+        "1976044259"
+    ]
+}

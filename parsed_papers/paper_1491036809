@@ -1,0 +1,50 @@
+{
+    "id": "1491036809",
+    "title": "Efficient Algorithms for Model Checking Pushdown Systems",
+    "venue": "computer aided verification",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Javier Esparza",
+            "id": "2123449190",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "David Hansel",
+            "id": "2282549491",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Peter Rossmanith",
+            "id": "2702482253",
+            "org": "Technische Universitat Munchen"
+        },
+        {
+            "name": "Stefan Schwoon",
+            "id": "2093354067",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Formal verification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Negation",
+        "Program analysis",
+        "Buchi automaton",
+        "Computer science",
+        "Model checking"
+    ],
+    "references": [
+        "22002794",
+        "1529785310",
+        "1560595963",
+        "1589224558",
+        "1590891429",
+        "1827592073",
+        "1905205673",
+        "2147248565",
+        "2268014521"
+    ]
+}

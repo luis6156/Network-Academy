@@ -1,0 +1,71 @@
+{
+    "id": "1547386017",
+    "title": "Receive side coalescing for accelerating TCP/IP processing",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Srihari Makineni",
+            "id": "1973588045",
+            "org": "Intel Corporation, Hillsboro#TAB#"
+        },
+        {
+            "name": "Ravishankar R. Iyer",
+            "id": "2529015065",
+            "org": "Intel Corporation, Hillsboro#TAB#"
+        },
+        {
+            "name": "Partha Sarangam",
+            "id": "2272053156",
+            "org": "Intel Corporation, Hillsboro#TAB#"
+        },
+        {
+            "name": "Donald Newell",
+            "id": "2252761092",
+            "org": "Intel Corporation, Hillsboro#TAB#"
+        },
+        {
+            "name": "Li Zhao",
+            "id": "2747917646",
+            "org": "Intel Corporation, Hillsboro#TAB#"
+        },
+        {
+            "name": "Ramesh Illikkal",
+            "id": "1999339154",
+            "org": "Intel Corporation, Hillsboro#TAB#"
+        },
+        {
+            "name": "Jaideep Moses",
+            "id": "2263314893",
+            "org": "Intel Corporation, Hillsboro#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Parallel computing",
+        "Zeta-TCP",
+        "TCP offload engine",
+        "Computer science",
+        "Packet processing",
+        "Network packet",
+        "Network interface controller",
+        "TCP global synchronization",
+        "Computer network",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "154335262",
+        "1524148754",
+        "1540641082",
+        "2016530318",
+        "2022019790",
+        "2120436909",
+        "2124189331",
+        "2137755180",
+        "2151263383",
+        "2153964544",
+        "2160094191",
+        "2542816570"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1510358061",
+    "title": "LeakBot: An Automated and Lightweight Tool for Diagnosing Memory Leaks in Large Java Applications",
+    "venue": "european conference on object-oriented programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nick Mitchell",
+            "id": "2297400079",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Gary Sevitsky",
+            "id": "677086083",
+            "org": "IBM T.J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Java",
+        "Crash",
+        "User assistance",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Server",
+        "Data structure",
+        "Memory leak"
+    ],
+    "references": [
+        "54833955",
+        "1510845095",
+        "1582415544",
+        "1644965812",
+        "2001799599",
+        "2053986424",
+        "2054253211",
+        "2064551402",
+        "2087198640",
+        "2100885195",
+        "2114067856",
+        "2116409384",
+        "2119510843",
+        "2151109649",
+        "2156419312",
+        "2156428492"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1555640165",
+    "title": "Performance evaluation of the striped checkpointing algorithm on the distributed RAID for cluster computer",
+    "venue": "international conference on computational science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yun Seok Chang",
+            "id": "2166792081",
+            "org": "Department of Computer Engineering, Daejin University, Pocheon, Korea#TAB#"
+        },
+        {
+            "name": "Sun Young Cho",
+            "id": "2659832509",
+            "org": "Basic Science Research Institute, Chungbuk University, Chungju, Korea#TAB#"
+        },
+        {
+            "name": "Bo Yeon Kim",
+            "id": "2618681518",
+            "org": "Department of Electrical and Computer Engineering, Kangwon National University,Chuncheon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel I/O",
+        "Parallel computing",
+        "Data striping",
+        "Speedup",
+        "Algorithm",
+        "Computer program",
+        "Computer science",
+        "Distributed computing",
+        "RAID",
+        "Rollback",
+        "Control reconfiguration",
+        "Computer cluster"
+    ],
+    "references": [
+        "1537929875",
+        "2019680442",
+        "2118146766",
+        "2152705922",
+        "2152844070",
+        "2153986526",
+        "2157960977",
+        "2296772319"
+    ]
+}

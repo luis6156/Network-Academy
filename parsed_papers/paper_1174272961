@@ -1,0 +1,64 @@
+{
+    "id": "1174272961",
+    "title": "Improved preimage attacks on hash modes of 8-round AES-256",
+    "venue": "Multimedia Tools and Applications",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Deukjo Hong",
+            "id": "2506787373",
+            "org": "Attached Institute of ETRI, Daejeon, Republic of Korea 305-600#TAB#"
+        },
+        {
+            "name": "Dong-Chan Kim",
+            "id": "2258805721",
+            "org": "Attached Institute of ETRI, Daejeon, Republic of Korea 305-600#TAB#"
+        },
+        {
+            "name": "Daesung Kwon",
+            "id": "2015447218",
+            "org": "Attached Institute of ETRI, Daejeon, Republic of Korea 305-600#TAB#"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Department of Mathematics & Department of Financial Information Security (BK21 Plus Future Financial Information Security Specialist Education Group), Kookmin University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "MD2",
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "SHA-2",
+        "Computer science",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "41296744",
+        "1499593564",
+        "1515595447",
+        "1522447864",
+        "1524358972",
+        "1525110300",
+        "1530387410",
+        "1533007301",
+        "1547189451",
+        "1547537489",
+        "1550036077",
+        "1596861772",
+        "1660562555",
+        "1814882979",
+        "1863270349",
+        "1997025789",
+        "2005903962",
+        "2007585625",
+        "2016195518",
+        "2065803216",
+        "2109265351",
+        "2177399963"
+    ]
+}

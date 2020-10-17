@@ -1,0 +1,70 @@
+{
+    "id": "1507495123",
+    "title": "Reliable and Precise WCET Determination for a Real-Life Processor",
+    "venue": "embedded software",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Christian Ferdinand",
+            "id": "2135737970",
+            "org": "AbsInt Angewandte Informatik GmbH"
+        },
+        {
+            "name": "Reinhold Heckmann",
+            "id": "1971317241",
+            "org": "AbsInt Angewandte Informatik GmbH"
+        },
+        {
+            "name": "Marc Langenbach",
+            "id": "1964514775",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Florian Martin",
+            "id": "2135218977",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Michael Schmidt",
+            "id": "2177516595",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Henrik Theiling",
+            "id": "82482040",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Stephan Thesing",
+            "id": "2335709611",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Reinhard Wilhelm",
+            "id": "2127844901",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Software development",
+        "Computer science",
+        "Abstract interpretation",
+        "Real-time operating system",
+        "Modular design",
+        "Real-time computing",
+        "Predictability",
+        "Processor design"
+    ],
+    "references": [
+        "144980680",
+        "1491178396",
+        "1554539787",
+        "1993953231",
+        "2043100293",
+        "2052271830",
+        "2062066235",
+        "2069437435",
+        "2122403474",
+        "2504509476"
+    ]
+}

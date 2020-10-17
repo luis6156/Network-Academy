@@ -1,0 +1,74 @@
+{
+    "id": "1755257908",
+    "title": "Design and implementation of a special-purpose static program analyzer for safety-critical real-time embedded software",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Bruno Blanchet",
+            "id": "2311319369",
+            "org": "CNRS & Ecole normale superieure, 75005 Paris, France#TAB#"
+        },
+        {
+            "name": "Patrick Cousot",
+            "id": "2148533322",
+            "org": "CNRS & Ecole normale superieure, 75005 Paris, France#TAB#"
+        },
+        {
+            "name": "Radhia Cousot",
+            "id": "1995565190",
+            "org": "CNRS & Ecole polytechnique, 91128 Palaiseau cedex, France#TAB#"
+        },
+        {
+            "name": "Jerome Feret",
+            "id": "2055060970",
+            "org": "CNRS & Ecole normale superieure, 75005 Paris, France#TAB#"
+        },
+        {
+            "name": "Laurent Mauborgne",
+            "id": "283318887",
+            "org": "CNRS & Ecole normale superieure, 75005 Paris, France#TAB#"
+        },
+        {
+            "name": "Antoine Mine",
+            "id": "2113378078",
+            "org": "CNRS & Ecole normale superieure, 75005 Paris, France#TAB#"
+        },
+        {
+            "name": "David Monniaux",
+            "id": "49816230",
+            "org": "CNRS & Ecole normale superieure, 75005 Paris, France#TAB#"
+        },
+        {
+            "name": "Xavier Rival",
+            "id": "309290432",
+            "org": "CNRS & Ecole normale superieure, 75005 Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop unrolling",
+        "Source lines of code",
+        "Spectrum analyzer",
+        "Software",
+        "Program analysis",
+        "Static analysis",
+        "Computer science",
+        "Abstract interpretation",
+        "Embedded software",
+        "Real-time computing"
+    ],
+    "references": [
+        "1491716768",
+        "1554808127",
+        "1556604985",
+        "1557311886",
+        "1584436405",
+        "1596431623",
+        "2014764321",
+        "2043100293",
+        "2111422217",
+        "2157812571",
+        "2169004268",
+        "2611598995"
+    ]
+}

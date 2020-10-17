@@ -1,0 +1,57 @@
+{
+    "id": "1555570710",
+    "title": "Impossible Differential Cryptanalysis of CLEFIA",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yukiyasu Tsunoo",
+            "id": "182915274",
+            "org": "NEC Corporation, Kawasaki, Japan 211-8666#TAB#"
+        },
+        {
+            "name": "Etsuko Tsujihara",
+            "id": "1158432001",
+            "org": "Y.D.K.Co., Ltd., Tokyo, Japan 206-0811#TAB#"
+        },
+        {
+            "name": "Maki Shigeri",
+            "id": "1883830011",
+            "org": "NEC Software Hokuriku, Ltd., Ishikawa, Japan 920-2141#TAB#"
+        },
+        {
+            "name": "Teruo Saito",
+            "id": "2505992870",
+            "org": "NEC Software Hokuriku, Ltd., Ishikawa, Japan 920-2141#TAB#"
+        },
+        {
+            "name": "Tomoyasu Suzaki",
+            "id": "1984676361",
+            "org": "NEC Corporation, Kawasaki, Japan 211-8666#TAB#"
+        },
+        {
+            "name": "Hiroyasu Kubo",
+            "id": "2131456734",
+            "org": "NEC Software Hokuriku, Ltd., Ishikawa, Japan 920-2141#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Block cipher",
+        "Algorithm",
+        "Discrete mathematics",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "CLEFIA"
+    ],
+    "references": [
+        "1541703086",
+        "1569252980",
+        "1606590042",
+        "1629301835",
+        "1964723977",
+        "2119660862"
+    ]
+}

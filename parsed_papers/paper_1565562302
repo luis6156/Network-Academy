@@ -1,0 +1,42 @@
+{
+    "id": "1565562302",
+    "title": "Performance evaluation of the hitachi SR8000 using SPEC OMP2001 benchmarks",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Daisuke Takahashi",
+            "id": "2156780583",
+            "org": "Institute of Information Sciences and Electronics, University of Tsukuba, 1-1-1 Tennodai, Tsukuba-shi, Ibaraki 305-8573, Japan#TAB#"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Institute of Information Sciences and Electronics, University of Tsukuba, 1-1-1 Tennodai, Tsukuba-shi, Ibaraki 305-8573, Japan#TAB#"
+        },
+        {
+            "name": "Taisuke Boku",
+            "id": "184900542",
+            "org": "Institute of Information Sciences and Electronics, University of Tsukuba, 1-1-1 Tennodai, Tsukuba-shi, Ibaraki 305-8573, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Computer science",
+        "Performance measurement",
+        "Spec#",
+        "Scalar processor"
+    ],
+    "references": [
+        "1492033360",
+        "1554874526",
+        "1664707389",
+        "1779971361",
+        "2072597538",
+        "2100831835",
+        "2126913665"
+    ]
+}

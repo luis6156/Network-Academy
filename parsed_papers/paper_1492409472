@@ -1,0 +1,69 @@
+{
+    "id": "1492409472",
+    "title": "Exploring the Interaction between Java's Implicitly Thrown Exceptions and Instruction Scheduling",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Matthew Arnold",
+            "id": "2620116303",
+            "org": "Department of Computer Science, Rutgers University, Piscataway, New Jersey 08855. {marnold,uli,ryder}@cs.rutgers.edu#TAB#"
+        },
+        {
+            "name": "Michael S. Hsiao",
+            "id": "2159047157",
+            "org": "Department of Electrical and Computer Engineering, Rutgers University, Piscataway, New Jersey 08855. mhsiao@ece.rutgers.edu#TAB#"
+        },
+        {
+            "name": "Ulrich Kremer",
+            "id": "2286609894",
+            "org": "Department of Computer Science, Rutgers University, Piscataway, New Jersey 08855. {marnold,uli,ryder}@cs.rutgers.edu#TAB#"
+        },
+        {
+            "name": "Barbara G. Ryder",
+            "id": "2139647612",
+            "org": "Department of Computer Science, Rutgers University, Piscataway, New Jersey 08855. {marnold,uli,ryder}@cs.rutgers.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Java",
+        "Parallel computing",
+        "Instruction scheduling",
+        "Satisfiability",
+        "Computer science",
+        "Scheduling (computing)",
+        "Exploit",
+        "Real-time computing",
+        "Java compiler"
+    ],
+    "references": [
+        "141709575",
+        "1533109738",
+        "1538889311",
+        "1553379359",
+        "1555634152",
+        "1555915743",
+        "1577894784",
+        "1644882639",
+        "1993934265",
+        "2007146206",
+        "2036162899",
+        "2038081023",
+        "2063255488",
+        "2063612156",
+        "2071857467",
+        "2075651377",
+        "2088019269",
+        "2102839400",
+        "2105090082",
+        "2109507655",
+        "2115710322",
+        "2123726582",
+        "2130711572",
+        "2143241834",
+        "2154596934",
+        "2157074753",
+        "2166895275"
+    ]
+}

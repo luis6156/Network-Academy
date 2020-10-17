@@ -1,0 +1,44 @@
+{
+    "id": "1557550158",
+    "title": "Integration of buffer management and query optimization in relational database environment",
+    "venue": "very large data bases",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Douglas W. Cornell",
+            "id": "1986608079",
+            "org": "IBM"
+        },
+        {
+            "name": "Philip S. Yu",
+            "id": "2125104194",
+            "org": "IBM Thomas J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Database tuning",
+        "Web search query",
+        "View",
+        "Computer science",
+        "Data mining",
+        "Query by Example",
+        "Alias",
+        "Database",
+        "Search-oriented architecture",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1509415190",
+        "1520815598",
+        "1977570286",
+        "2008633193",
+        "2042138964",
+        "2095562348",
+        "2116436709",
+        "2129711407",
+        "2142098074",
+        "2153329411",
+        "2159209233"
+    ]
+}

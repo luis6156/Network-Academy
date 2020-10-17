@@ -1,0 +1,42 @@
+{
+    "id": "1531068736",
+    "title": "Asserting the Precision of Floating-Point Computations: A Simple Abstract Interpreter",
+    "venue": "european symposium on programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Eric Goubault",
+            "id": "2088963076",
+            "org": "CEA - Recherche Technologique"
+        },
+        {
+            "name": "Matthieu Martel",
+            "id": "2145271959",
+            "org": "CEA - Recherche Technologique"
+        },
+        {
+            "name": "Sylvie Putot",
+            "id": "840361129",
+            "org": "CEA - Recherche Technologique"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Real number",
+        "Software",
+        "Static analysis",
+        "Computation",
+        "Round-off error",
+        "Computer science",
+        "Abstract interpretation",
+        "Rounding",
+        "Floating point"
+    ],
+    "references": [
+        "1526045365",
+        "1822341686",
+        "2004419599",
+        "2043100293",
+        "2169004268"
+    ]
+}

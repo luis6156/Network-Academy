@@ -1,0 +1,50 @@
+{
+    "id": "1565046859",
+    "title": "Use of varying constraints in optimal 3-D graph search for segmentation of macular optical coherence tomography images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mona Haeker",
+            "id": "100551253",
+            "org": "Departments of Electrical & Computer Engineering and Departments of Biomedical Engineering, The University of Iowa, Iowa City, IA#TAB#"
+        },
+        {
+            "name": "Michael D. Abramoff",
+            "id": "2047404899",
+            "org": "Departments of Electrical & Computer Engineering and Departments of Ophthalmology & Visual Sciences, The University of Iowa, Iowa City, IA#TAB#"
+        },
+        {
+            "name": "Xiaodong Wu",
+            "id": "2143517311",
+            "org": "Departments of Electrical & Computer Engineering, The University of Iowa, Iowa City, IA#TAB#"
+        },
+        {
+            "name": "Randy H. Kardon",
+            "id": "1501009998",
+            "org": "Departments of Ophthalmology & Visual Sciences, The University of Iowa, Iowa City, IA#TAB#"
+        },
+        {
+            "name": "Milan Sonka",
+            "id": "2081344856",
+            "org": "Departments of Electrical & Computer Engineering and Departments of Ophthalmology & Visual Sciences, The University of Iowa, Iowa City, IA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Segmentation",
+        "Optical coherence tomography",
+        "Computer vision",
+        "Smoothness",
+        "Graph",
+        "Mathematical optimization",
+        "Mean squared error",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1501827752",
+        "1549946184",
+        "1585450072",
+        "2164774194"
+    ]
+}

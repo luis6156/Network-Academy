@@ -1,0 +1,65 @@
+{
+    "id": "119039509",
+    "title": "A High-Level Semantics for Program Execution under Total Store Order Memory",
+    "venue": "international colloquium on theoretical aspects of computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Brijesh Dongol",
+            "id": "2103345461",
+            "org": "The University of Sheffield"
+        },
+        {
+            "name": "Oleg Travkin",
+            "id": "2025025158",
+            "org": "The University of Paderborn"
+        },
+        {
+            "name": "John Derrick",
+            "id": "2126147314",
+            "org": "The University of Sheffield"
+        },
+        {
+            "name": "Heike Wehrheim",
+            "id": "2062320239",
+            "org": "The University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Parallel computing",
+        "Sequential consistency",
+        "Multi-core processor",
+        "Shared memory",
+        "Transactional memory",
+        "Computer science",
+        "Memory model",
+        "Concurrency",
+        "Load/store architecture"
+    ],
+    "references": [
+        "95492539",
+        "99356858",
+        "158357973",
+        "204208046",
+        "207691213",
+        "1552647623",
+        "1612934218",
+        "1729991231",
+        "1861989620",
+        "1877513498",
+        "1968226057",
+        "1971332773",
+        "1971459700",
+        "2004321173",
+        "2024255419",
+        "2029601347",
+        "2054739713",
+        "2085773946",
+        "2090551028",
+        "2101939036",
+        "2113751407",
+        "2116454140",
+        "2160781056"
+    ]
+}

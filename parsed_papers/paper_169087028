@@ -1,0 +1,48 @@
+{
+    "id": "169087028",
+    "title": "Learning depth-first search: a unified approach to heuristic search in deterministic and non-deterministic settings, and its application to MDPs",
+    "venue": "international conference on automated planning and scheduling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Blai Bonet",
+            "id": "2111429960",
+            "org": "Departamento de Computacion, Universidad Simon Bolivar, Caracas, Venezuela#TAB#"
+        },
+        {
+            "name": "Hector Geffner",
+            "id": "2253785085",
+            "org": "Departamento de Tecnologia, ICREA & Universitat Pompeu Fabra, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Incremental heuristic search",
+        "Transposition table",
+        "Computer science",
+        "Breadth-first search",
+        "Game tree",
+        "Heuristic",
+        "Dynamic programming",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "9715524",
+        "84362026",
+        "108082272",
+        "2009533501",
+        "2021061679",
+        "2088182101",
+        "2089933214",
+        "2105757562",
+        "2116708838",
+        "2141200643",
+        "2147670284",
+        "2150470619",
+        "2152475379",
+        "2163727243"
+    ]
+}

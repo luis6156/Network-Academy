@@ -1,0 +1,64 @@
+{
+    "id": "110296006",
+    "title": "PolyE+CTR: a swiss-army-knife mode for block ciphers",
+    "venue": "provable security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Liting Zhang",
+            "id": "2103696780",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Peng Wang",
+            "id": "2797484882",
+            "org": "Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Rekeying",
+        "CCM mode",
+        "IAPM",
+        "Block cipher mode of operation",
+        "Cryptographic nonce",
+        "Distributed computing",
+        "Computer science",
+        "Encryption",
+        "Galois/Counter Mode"
+    ],
+    "references": [
+        "142023353",
+        "1504211573",
+        "1508480257",
+        "1514489116",
+        "1525090271",
+        "1525837128",
+        "1551279437",
+        "1567910635",
+        "1586481148",
+        "1597235115",
+        "1604454960",
+        "1655844021",
+        "1656028867",
+        "1673464365",
+        "1763079358",
+        "1862781269",
+        "1996182770",
+        "2043711803",
+        "2048740007",
+        "2109265351",
+        "2122984309",
+        "2126290606",
+        "2134615993",
+        "2146343727",
+        "2146702271",
+        "2155115217",
+        "2165214731"
+    ]
+}

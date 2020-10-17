@@ -1,0 +1,63 @@
+{
+    "id": "1605226475",
+    "title": "SingleTrack: A Dynamic Determinism Checker for Multithreaded Programs",
+    "venue": "european symposium on programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Caitlin Sadowski",
+            "id": "2165696351",
+            "org": "University of California at Santa Cruz, Santa Cruz,#TAB#"
+        },
+        {
+            "name": "Stephen N. Freund",
+            "id": "2332660967",
+            "org": "Williams College, Williamstown,#TAB#"
+        },
+        {
+            "name": "Cormac Flanagan",
+            "id": "2130341195",
+            "org": "University of California at Santa Cruz, Santa Cruz,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Software",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Semaphore",
+        "Determinism",
+        "Real-time computing",
+        "Atomicity",
+        "Fork (system call)",
+        "Software transactional memory",
+        "Programming language"
+    ],
+    "references": [
+        "1487375638",
+        "1972544179",
+        "1994305220",
+        "2002179840",
+        "2017722158",
+        "2034256728",
+        "2043003055",
+        "2066952803",
+        "2072062729",
+        "2072419942",
+        "2082766667",
+        "2104070839",
+        "2108204150",
+        "2109033563",
+        "2129990308",
+        "2134747058",
+        "2153174073",
+        "2154606502",
+        "2160489152",
+        "2161600851",
+        "2170200862",
+        "2171076136",
+        "2171537091",
+        "2194223632"
+    ]
+}

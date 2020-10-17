@@ -1,0 +1,60 @@
+{
+    "id": "1489183424",
+    "title": "Fault Attacks on RSA Signatures with Partially Unknown Messages",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "Universite du Luxembourg, Luxembourg, Luxembourg L-1359#TAB#"
+        },
+        {
+            "name": "Antoine Joux",
+            "id": "2755216431",
+            "org": "DGA and Universite de Versailles, Versailles CEDEX, France F-78035#TAB#"
+        },
+        {
+            "name": "Ilya Kizhvatov",
+            "id": "2670085730",
+            "org": "Universite du Luxembourg, Luxembourg, Luxembourg L-1359#TAB#"
+        },
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Departement d'informatique, Groupe de Cryptographie, Ecole normale superieure, Paris CEDEX 05, France F-75230#TAB#"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Gemalto, Cryptography & Innovation, Meudon sur Seine, France F-92447#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Encoding (memory)",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Computer science",
+        "Padding",
+        "Digital signature",
+        "Exploit",
+        "Randomness",
+        "Polynomial"
+    ],
+    "references": [
+        "1490771242",
+        "1495360227",
+        "1550863203",
+        "1604454960",
+        "1730333074",
+        "1961691336",
+        "1996360405",
+        "2000325148",
+        "2059699269",
+        "2066425771",
+        "2101040389",
+        "2144862055",
+        "2158276883",
+        "2162653919"
+    ]
+}

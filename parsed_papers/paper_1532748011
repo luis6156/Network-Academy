@@ -1,0 +1,54 @@
+{
+    "id": "1532748011",
+    "title": "A new proxy signature scheme providing self-delegation",
+    "venue": "international conference on information security and cryptology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Younho Lee",
+            "id": "2443031848",
+            "org": "Network and Security Laboratory, Division of Computer Science, Korea Advanced Institute of Science and Technology(KAIST)#TAB#"
+        },
+        {
+            "name": "Heeyoul Kim",
+            "id": "2126650939",
+            "org": "Network and Security Laboratory, Division of Computer Science, Korea Advanced Institute of Science and Technology(KAIST)#TAB#"
+        },
+        {
+            "name": "Yongsu Park",
+            "id": "2109894008",
+            "org": "College of Information and Communication, Hanyang University#TAB#"
+        },
+        {
+            "name": "Hyunsoo Yoon",
+            "id": "2095779783",
+            "org": "Network and Security Laboratory, Division of Computer Science, Korea Advanced Institute of Science and Technology(KAIST)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Delegation",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Strong RSA assumption",
+        "Digital signature",
+        "Random oracle",
+        "Public-key cryptography",
+        "Provable security"
+    ],
+    "references": [
+        "1481068248",
+        "1495266644",
+        "1517408157",
+        "1551969482",
+        "1578795731",
+        "1579435243",
+        "1604454960",
+        "1911825786",
+        "2052267638",
+        "2151413173",
+        "2585529823",
+        "2605928589"
+    ]
+}

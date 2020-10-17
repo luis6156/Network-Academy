@@ -1,0 +1,78 @@
+{
+    "id": "1436965661",
+    "title": "Jitk: a trustworthy in-kernel interpreter infrastructure",
+    "venue": "operating systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Xi Wang",
+            "id": "2893600216",
+            "org": "MIT CSAIL and University of Washington#TAB#"
+        },
+        {
+            "name": "David Lazar",
+            "id": "2102731440",
+            "org": "MIT CSAIL and University of Washington#TAB#"
+        },
+        {
+            "name": "Nickolai Zeldovich",
+            "id": "1150986126",
+            "org": "MIT CSAIL and University of Washington#TAB#"
+        },
+        {
+            "name": "Adam Chlipala",
+            "id": "46689790",
+            "org": "MIT CSAIL and University of Washington#TAB#"
+        },
+        {
+            "name": "Zachary Tatlock",
+            "id": "187474749",
+            "org": "MIT CSAIL and University of Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Source lines of code",
+        "Interpreter",
+        "Linux kernel",
+        "Computer science",
+        "Compiler",
+        "System call",
+        "Correctness",
+        "Machine code",
+        "Real-time computing"
+    ],
+    "references": [
+        "148956775",
+        "606696939",
+        "1540575800",
+        "1567790484",
+        "1710734607",
+        "1963833875",
+        "1975808766",
+        "1990802884",
+        "2001154106",
+        "2023035194",
+        "2032575550",
+        "2079029390",
+        "2083469471",
+        "2086795351",
+        "2098959411",
+        "2105349588",
+        "2106412703",
+        "2117590013",
+        "2122960384",
+        "2126823808",
+        "2132897303",
+        "2134309469",
+        "2134939854",
+        "2136310957",
+        "2138381338",
+        "2148662736",
+        "2148686658",
+        "2150769115",
+        "2159477904",
+        "2159890891",
+        "2167800525"
+    ]
+}

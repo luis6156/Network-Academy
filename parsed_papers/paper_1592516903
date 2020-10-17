@@ -1,0 +1,40 @@
+{
+    "id": "1592516903",
+    "title": "Side channel power analysis of an AES-256 bootloader",
+    "venue": "canadian conference on electrical and computer engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Colin O'Flynn",
+            "id": "2039841259",
+            "org": "Faculty of Electrical and Computer Engineering, Dalhousie University, Halifax, Canada"
+        },
+        {
+            "name": "Zhizhang David Chen",
+            "id": "2707705273",
+            "org": "Faculty of Electrical and Computer Engineering, Dalhousie University, Halifax, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic engineering",
+        "Cryptography",
+        "Booting",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Advanced Encryption Standard",
+        "Firmware",
+        "Computer science",
+        "Initialization vector",
+        "Encryption",
+        "Power analysis",
+        "Real-time computing"
+    ],
+    "references": [
+        "29626722",
+        "1562542037",
+        "1598124977",
+        "1664808737",
+        "2154909745",
+        "2403614456"
+    ]
+}

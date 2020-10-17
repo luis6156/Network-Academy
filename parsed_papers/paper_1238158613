@@ -1,0 +1,62 @@
+{
+    "id": "1238158613",
+    "title": "An experimentally verified attack on full grain-128 using dedicated reconfigurable hardware",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Itai Dinur",
+            "id": "2064145723",
+            "org": "Computer Science Department, The Weizmann Institute, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Tim Guneysu",
+            "id": "1977790142",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Computer Science Department, The Weizmann Institute, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Ralf Zimmermann",
+            "id": "2223709683",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University, Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cipher",
+        "Brute-force attack",
+        "Computer science",
+        "Brute-force search",
+        "Key space",
+        "Stream cipher",
+        "Correctness",
+        "Exploit",
+        "Reconfigurable computing"
+    ],
+    "references": [
+        "97949831",
+        "1537206908",
+        "1572847050",
+        "1601159549",
+        "1758759527",
+        "1838677899",
+        "1865395495",
+        "1903742260",
+        "2144007792",
+        "2147227205",
+        "2153971105",
+        "2160494425",
+        "2164455525",
+        "2403571297",
+        "2405515207"
+    ]
+}

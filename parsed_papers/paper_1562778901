@@ -1,0 +1,55 @@
+{
+    "id": "1562778901",
+    "title": "A comparative evaluation of parallel garbage collector implementations",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Clement Richard Attanasio",
+            "id": "2169246779",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "David F. Bacon",
+            "id": "2069733440",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Anthony Cocchi",
+            "id": "2004671113",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Stephen Edwin Smith",
+            "id": "2100802634",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Multiprocessing",
+        "Uniprocessor system",
+        "Garbage",
+        "Parallel algorithm",
+        "Virtual machine",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1702434361",
+        "1976113642",
+        "1983587324",
+        "2002250868",
+        "2005907808",
+        "2007920703",
+        "2095118994",
+        "2102839400",
+        "2110270048",
+        "2148499966",
+        "2160068354"
+    ]
+}

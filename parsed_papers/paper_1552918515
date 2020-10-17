@@ -1,0 +1,54 @@
+{
+    "id": "1552918515",
+    "title": "Optimizing double-base elliptic-curve single-scalar multiplication",
+    "venue": "international conference on progress in cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Daniel J. Bernstein",
+            "id": "2572778377",
+            "org": "Department of Mathematics, Statistics, and Computer Science, University of Illinois at Chicago, Chicago, IL#TAB#"
+        },
+        {
+            "name": "Peter Birkner",
+            "id": "2035480902",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Tanja Lange",
+            "id": "2159450135",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Cp Christiane Peters",
+            "id": "2232249201",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Edwards curve",
+        "Scalar multiplication",
+        "Hessian matrix",
+        "Precomputation",
+        "Mathematical analysis",
+        "Algebra",
+        "Coordinate system",
+        "Jacobian matrix and determinant",
+        "Elliptic curve",
+        "Multiplication"
+    ],
+    "references": [
+        "1481078266",
+        "1487297807",
+        "1552384529",
+        "1592482282",
+        "2124649347",
+        "2131587162",
+        "2154290215",
+        "2156186849",
+        "2402957761",
+        "2493686639",
+        "2593595080"
+    ]
+}

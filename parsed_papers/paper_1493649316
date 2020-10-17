@@ -1,0 +1,41 @@
+{
+    "id": "1493649316",
+    "title": "Access and Integrity Control in a Public-Access, High-Assurance Configuration Management System",
+    "venue": "usenix security symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jonathan S. Shapiro",
+            "id": "2308511989",
+            "org": "Systems Research Laboratory|Johns Hopkins University"
+        },
+        {
+            "name": "John Vanderburgh",
+            "id": "2008700519",
+            "org": "Systems Research Laboratory|Johns Hopkins University"
+        }
+    ],
+    "fields_of_study": [
+        "Traceability",
+        "Compromise",
+        "Configuration Management (ITSM)",
+        "Computer science",
+        "Computer security",
+        "Information architecture",
+        "Distributed System Security Architecture",
+        "Configuration management"
+    ],
+    "references": [
+        "12010980",
+        "1480557029",
+        "1531360494",
+        "1548067747",
+        "1583626669",
+        "1664998284",
+        "1733713784",
+        "2149929743",
+        "2152212283",
+        "2167800525",
+        "2774071578"
+    ]
+}

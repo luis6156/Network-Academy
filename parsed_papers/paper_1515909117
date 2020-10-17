@@ -1,0 +1,61 @@
+{
+    "id": "1515909117",
+    "title": "Provably secure s-box implementation based on fourier transform",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Emmanuel Prouff",
+            "id": "50202740",
+            "org": "Oberthur Card Systems, Nanterre, France#TAB#"
+        },
+        {
+            "name": "Christophe Giraud",
+            "id": "2154295012",
+            "org": "Oberthur Card Systems, Pessac, France#TAB#"
+        },
+        {
+            "name": "Sebastien Aumonier",
+            "id": "2282034046",
+            "org": "Oberthur Card Systems, Nanterre, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Side channel attack",
+        "Fourier transform",
+        "Theoretical computer science",
+        "S-box",
+        "Cryptanalysis",
+        "Computer science",
+        "Implementation",
+        "Power analysis",
+        "Provable security"
+    ],
+    "references": [
+        "130371449",
+        "180488756",
+        "1479755794",
+        "1481603678",
+        "1503689022",
+        "1506890909",
+        "1512062395",
+        "1522181683",
+        "1548656471",
+        "1562542037",
+        "1564536482",
+        "1569151289",
+        "1592811212",
+        "1664808737",
+        "1987282814",
+        "2112002249",
+        "2127752881",
+        "2131544010",
+        "2132250906",
+        "2145829971",
+        "2149019291",
+        "2154909745",
+        "2157150548",
+        "2612208439"
+    ]
+}

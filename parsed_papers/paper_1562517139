@@ -1,0 +1,32 @@
+{
+    "id": "1562517139",
+    "title": "The ESA ravenscar benchmark",
+    "venue": "international conference on reliable software technologies",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Romain Berrendonner",
+            "id": "2630400121",
+            "org": "AdaCore, Paris, France#TAB#"
+        },
+        {
+            "name": "Jerome Guitton",
+            "id": "2144736843",
+            "org": "AdaCore, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Test suite",
+        "Software development",
+        "Memory footprint",
+        "RTEMS",
+        "Computer science",
+        "Implementation",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1601453474",
+        "2105321788"
+    ]
+}

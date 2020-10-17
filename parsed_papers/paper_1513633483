@@ -1,0 +1,79 @@
+{
+    "id": "1513633483",
+    "title": "Temporal logic verification of lock-freedom",
+    "venue": "mathematics of program construction",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Bogdan Tofan",
+            "id": "2042578431",
+            "org": "Institute for Software and Systems Engineering, University of Augsburg, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Simon Baumler",
+            "id": "2013207243",
+            "org": "Institute for Software and Systems Engineering, University of Augsburg, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Gerhard Schellhorn",
+            "id": "123694094",
+            "org": "Institute for Software and Systems Engineering, University of Augsburg, Augsburg, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Reif",
+            "id": "2139633246",
+            "org": "Institute for Software and Systems Engineering, University of Augsburg, Augsburg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "High-level verification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Proof assistant",
+        "Discrete mathematics",
+        "Computer science",
+        "Symbolic execution",
+        "Liveness",
+        "Temporal logic",
+        "Mathematical proof",
+        "Runtime verification",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "80370608",
+        "97006766",
+        "1495368328",
+        "1497559908",
+        "1518911419",
+        "1540997098",
+        "1592246973",
+        "1601208182",
+        "1601315806",
+        "1964727056",
+        "1970628175",
+        "1973894849",
+        "1981393723",
+        "1986732422",
+        "1991837261",
+        "1996684662",
+        "2015706098",
+        "2037683502",
+        "2098780004",
+        "2099899133",
+        "2101939036",
+        "2103524479",
+        "2104046157",
+        "2109717427",
+        "2115781455",
+        "2123183457",
+        "2124945255",
+        "2132638915",
+        "2138927523",
+        "2141494148",
+        "2145878518",
+        "2159181605",
+        "2159392969",
+        "2296232480",
+        "2508779702"
+    ]
+}

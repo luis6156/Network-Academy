@@ -1,0 +1,45 @@
+{
+    "id": "1520380810",
+    "title": "TH-MPI: OS Kernel Integrated Fault Tolerant MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Yu Chen",
+            "id": "2677086046",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Qian Fang",
+            "id": "2284665855",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Zhihui Du",
+            "id": "2230265955",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Sanli Li",
+            "id": "2135298274",
+            "org": "Tsinghua University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Linux kernel",
+        "Computer science",
+        "Fault tolerance",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Parallel processing",
+        "Message passing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1537929875",
+        "2126071114",
+        "2140332639",
+        "2171453084"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "1580311733",
+    "title": "High-speed Curve25519 on 8-bit, 16-bit, and 32-bit microcontrollers",
+    "venue": "Designs, Codes and Cryptography",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michael Dull",
+            "id": "1976224331",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany 44801#TAB#"
+        },
+        {
+            "name": "Bjorn Haase",
+            "id": "2119848010",
+            "org": "Endress+Hauser Conducta GmbH+Co. KG, Gerlingen, Germany 70839#TAB#"
+        },
+        {
+            "name": "Gesine Hinterwalder",
+            "id": "176270453",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany 44801#TAB#"
+        },
+        {
+            "name": "Michael Hutter",
+            "id": "2132463570",
+            "org": "Cryptography Research, San Francisco, USA 94105#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany 44801#TAB#"
+        },
+        {
+            "name": "Ana Helena Sanchez",
+            "id": "2319274140",
+            "org": "Digital Security Group, Radboud University, Nijmegen, The Netherlands 6500 GL#TAB#"
+        },
+        {
+            "name": "Peter Schwabe",
+            "id": "2306640565",
+            "org": "Digital Security Group, Radboud University, Nijmegen, The Netherlands 6500 GL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Parallel computing",
+        "Algorithm",
+        "Microcontroller",
+        "Software",
+        "Discrete mathematics",
+        "Curve25519",
+        "Shared secret",
+        "16-bit",
+        "8-bit",
+        "32-bit",
+        "In-system programming"
+    ],
+    "references": [
+        "50929040",
+        "81165286",
+        "114853179",
+        "141690682",
+        "348661062",
+        "1511530643",
+        "1567573409",
+        "1600308461",
+        "1752434584",
+        "1786760088",
+        "1807538575",
+        "1871651397",
+        "1910751411",
+        "1911636251",
+        "1967471831",
+        "2003736153",
+        "2069736719",
+        "2101820660",
+        "2106283808",
+        "2106688507",
+        "2115148615",
+        "2127059139",
+        "2134585683",
+        "2138082886",
+        "2146363265",
+        "2150559183",
+        "2169555621",
+        "2181401201",
+        "2185913230"
+    ]
+}

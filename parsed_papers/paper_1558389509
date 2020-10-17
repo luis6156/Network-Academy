@@ -1,0 +1,40 @@
+{
+    "id": "1558389509",
+    "title": "A Simple Architectural Enhancement for Fast and Flexible Elliptic Curve Cryptography over Binary Finite Fields GF(2m)",
+    "venue": "annual computer security applications conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Stefan Tillich",
+            "id": "2122320320",
+            "org": "Graz University of Technology"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Graz University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Multi-core processor",
+        "Computer science",
+        "Binary number",
+        "Distributed computing",
+        "Computer security",
+        "Elliptic curve cryptography",
+        "Finite field",
+        "Elliptic curve",
+        "Public-key cryptography",
+        "Polynomial"
+    ],
+    "references": [
+        "1493210595",
+        "1522228241",
+        "1523317266",
+        "1560768562",
+        "1586130370",
+        "1860992226",
+        "2138625816"
+    ]
+}

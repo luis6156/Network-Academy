@@ -1,0 +1,62 @@
+{
+    "id": "158224344",
+    "title": "Real time network policy checking using header space analysis",
+    "venue": "networked systems design and implementation",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Peyman Kazemian",
+            "id": "2041848598",
+            "org": "Stanford University and Google#TAB#"
+        },
+        {
+            "name": "Michael Chang",
+            "id": "2702820469",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Hongyi Zeng",
+            "id": "2125484311",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "George Varghese",
+            "id": "2040462121",
+            "org": "UC San Diego & Microsoft Research#TAB#"
+        },
+        {
+            "name": "Nick McKeown",
+            "id": "218283174",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Scott Whyte",
+            "id": "2126460519",
+            "org": "Google Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Header",
+        "Network security policy",
+        "Computer science",
+        "Distributed computing",
+        "Correctness",
+        "Dependency graph",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "1675033504",
+        "1697123834",
+        "1882012874",
+        "2099501333",
+        "2105099212",
+        "2115526539",
+        "2122695394",
+        "2123548135",
+        "2147118406",
+        "2149236835",
+        "2180601376",
+        "2408119291"
+    ]
+}

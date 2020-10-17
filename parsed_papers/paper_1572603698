@@ -1,0 +1,58 @@
+{
+    "id": "1572603698",
+    "title": "A short proxy signature scheme: efficient authentication in the ubiquitous world",
+    "venue": "embedded and ubiquitous computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xinyi Huang",
+            "id": "2100338126",
+            "org": "College of Mathematics and Computer Science, Nanjing Normal University, P.R. China#TAB#"
+        },
+        {
+            "name": "Yi Mu",
+            "id": "2050318273",
+            "org": "Centre for Information Security Research, School of Information Technology and Computer Science, University of Wollongong, Australia#TAB#"
+        },
+        {
+            "name": "Willy Susilo",
+            "id": "2114127059",
+            "org": "Centre for Information Security Research, School of Information Technology and Computer Science, University of Wollongong, Australia#TAB#"
+        },
+        {
+            "name": "Fangguo Zhang",
+            "id": "2129307903",
+            "org": "Department of Electronics and Communication Engineering, Sun Yat-Sen University, Guangzhou, P.R. China#TAB#"
+        },
+        {
+            "name": "Xiaofeng Chen",
+            "id": "2099131168",
+            "org": "Department of Computer Science, Sun Yat-Sen University, Guangzhou, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Oracle",
+        "Bilinear interpolation",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Digital signature",
+        "Schnorr signature",
+        "Random oracle",
+        "Merkle signature scheme",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1492137673",
+        "1495266644",
+        "1507441866",
+        "1518817958",
+        "1572559454",
+        "1610688607",
+        "1852820576",
+        "1978740230",
+        "2086042811",
+        "2117797270",
+        "2152924492"
+    ]
+}

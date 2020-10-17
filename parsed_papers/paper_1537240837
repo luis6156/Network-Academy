@@ -1,0 +1,49 @@
+{
+    "id": "1537240837",
+    "title": "Impossible-differential attacks on large-block Rijndael",
+    "venue": "international conference on information security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jorge Nakahara",
+            "id": "2302722730",
+            "org": "UNISANTOS, Brazil#TAB#"
+        },
+        {
+            "name": "Ivan Carlos Pavao",
+            "id": "2509011503",
+            "org": "UNISANTOS, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XSL attack",
+        "Block size",
+        "Block cipher",
+        "Theoretical computer science",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Advanced Encryption Standard process"
+    ],
+    "references": [
+        "3926427",
+        "18798069",
+        "1493204363",
+        "1494217786",
+        "1500584382",
+        "1541703086",
+        "1541853791",
+        "1556212265",
+        "1593401740",
+        "1637140211",
+        "1654806544",
+        "1660562555",
+        "1794421227",
+        "1798672631",
+        "1964723977",
+        "1974355178",
+        "2514781489"
+    ]
+}

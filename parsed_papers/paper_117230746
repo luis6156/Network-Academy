@@ -1,0 +1,50 @@
+{
+    "id": "117230746",
+    "title": "Space efficient linear time construction of suffix arrays",
+    "venue": "combinatorial pattern matching",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Pang Ko",
+            "id": "2107706149",
+            "org": "Laurence H. Baker Center for Bioinformatics and Biological Statistics, Iowa State University, Ames, IA#TAB#"
+        },
+        {
+            "name": "Srinivas Aluru",
+            "id": "672311968",
+            "org": "Dept. of Electrical and Computer Engineering and Laurence H. Baker Center for Bioinformatics and Biological Statistics, Iowa State University, Ames, IA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Suffix",
+        "String searching algorithm",
+        "FM-index",
+        "Discrete mathematics",
+        "Computer science",
+        "LCP array",
+        "Combinatorics",
+        "Generalized suffix tree",
+        "Suffix array",
+        "Suffix tree",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "1489909987",
+        "1495956867",
+        "1497529086",
+        "1543263356",
+        "1573714593",
+        "1850450091",
+        "1863047657",
+        "1990061958",
+        "2000484009",
+        "2030962049",
+        "2059513841",
+        "2121252285",
+        "2130564474",
+        "2134283755",
+        "2152486057",
+        "2158874082",
+        "2533248932"
+    ]
+}

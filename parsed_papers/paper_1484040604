@@ -1,0 +1,65 @@
+{
+    "id": "1484040604",
+    "title": "Executing stream joins on the cell processor",
+    "venue": "very large data bases",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Bugra Gedik",
+            "id": "1994898084",
+            "org": "Thomas J. Watson Research Center, IBM Research, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Philip S. Yu",
+            "id": "2125104194",
+            "org": "Thomas J. Watson Research Center, IBM Research, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Rajesh Bordawekar",
+            "id": "397773802",
+            "org": "Thomas J. Watson Research Center, IBM Research, Hawthorne, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "SIMD",
+        "Parallel computing",
+        "Data stream",
+        "Multi-core processor",
+        "Computer science",
+        "Data parallelism",
+        "Data stream management system",
+        "Database",
+        "Pipeline (computing)",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "248761096",
+        "1500547548",
+        "1510252230",
+        "1512675310",
+        "1517058083",
+        "1791587242",
+        "1997332627",
+        "2052050139",
+        "2079726719",
+        "2096668111",
+        "2107343618",
+        "2113578335",
+        "2118924829",
+        "2127766448",
+        "2132244350",
+        "2139613964",
+        "2140894225",
+        "2144643978",
+        "2147544162",
+        "2152198818",
+        "2161569281",
+        "2163834250",
+        "2170207233",
+        "2172307690",
+        "2200275386",
+        "2398660820"
+    ]
+}

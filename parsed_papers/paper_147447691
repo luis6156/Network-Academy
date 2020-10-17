@@ -1,0 +1,81 @@
+{
+    "id": "147447691",
+    "title": "Practical lattice-based cryptography: a signature scheme for embedded systems",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Tim Guneysu",
+            "id": "1977790142",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Vadim Lyubashevsky",
+            "id": "627763154",
+            "org": "INRIA / ENS, Paris, France#TAB#"
+        },
+        {
+            "name": "Thomas Poppelmann",
+            "id": "763941875",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Post-quantum cryptography",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Lattice-based cryptography",
+        "Distributed computing",
+        "EdDSA",
+        "Embedded system",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Lattice problem"
+    ],
+    "references": [
+        "43382735",
+        "72153092",
+        "74973629",
+        "80562455",
+        "120934144",
+        "121367636",
+        "127770406",
+        "137478731",
+        "1489617931",
+        "1491861813",
+        "1506156414",
+        "1521253015",
+        "1525538795",
+        "1546634390",
+        "1675339804",
+        "1760474993",
+        "1761303171",
+        "1766548092",
+        "1882598960",
+        "1882851555",
+        "1886646278",
+        "1893972099",
+        "1961257075",
+        "1992226551",
+        "2038761522",
+        "2052435632",
+        "2053421308",
+        "2056748176",
+        "2071825329",
+        "2096218735",
+        "2098290658",
+        "2098750211",
+        "2101533612",
+        "2106121141",
+        "2122086332",
+        "2137928314",
+        "2146633075",
+        "2168676717",
+        "2169194339",
+        "2514326694",
+        "2755856747",
+        "2785629769"
+    ]
+}

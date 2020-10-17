@@ -1,0 +1,67 @@
+{
+    "id": "1599270978",
+    "title": "Lock-Free parallel algorithms: an experimental study",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Guojing Cong",
+            "id": "2164093174",
+            "org": "Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque, NM#TAB#"
+        },
+        {
+            "name": "David A. Bader",
+            "id": "2148365076",
+            "org": "Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque, NM#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Critical section",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Parallel programming model",
+        "Non-blocking algorithm",
+        "Parallel algorithm",
+        "Data structure",
+        "Deadlock",
+        "Embarrassingly parallel"
+    ],
+    "references": [
+        "78403084",
+        "1485262373",
+        "1569498258",
+        "1964729314",
+        "1966054908",
+        "1967960741",
+        "1993301893",
+        "1996931099",
+        "2001383125",
+        "2003214215",
+        "2004350101",
+        "2007470648",
+        "2015121269",
+        "2035362408",
+        "2036712892",
+        "2043295270",
+        "2044146725",
+        "2062297396",
+        "2062678317",
+        "2063790013",
+        "2065808229",
+        "2079344171",
+        "2084363500",
+        "2085407655",
+        "2086070079",
+        "2107474728",
+        "2113751407",
+        "2114717059",
+        "2121236443",
+        "2138628250",
+        "2139575664",
+        "2156153879",
+        "2187800381",
+        "2398460325"
+    ]
+}

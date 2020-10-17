@@ -1,0 +1,58 @@
+{
+    "id": "1545927878",
+    "title": "Address obfuscation: an efficient approach to combat a board range of memory error exploits",
+    "venue": "usenix security symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sandeep Bhatkar",
+            "id": "2776562224",
+            "org": "Department of Computer Science, Stony Brook University, Stony Brook, NY#TAB#"
+        },
+        {
+            "name": "Daniel C. DuVarney",
+            "id": "143278076",
+            "org": "Department of Computer Science, Stony Brook University, Stony Brook, NY#TAB#"
+        },
+        {
+            "name": "R. Sekar",
+            "id": "2132624284",
+            "org": "Department of Computer Science, Stony Brook University, Stony Brook, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Address space layout randomization",
+        "Obfuscation",
+        "Return-oriented programming",
+        "Shellcode",
+        "Code injection",
+        "Computer science",
+        "Computer security",
+        "Buffer overflow",
+        "Exploit",
+        "Internet privacy",
+        "Stack buffer overflow"
+    ],
+    "references": [
+        "1499992849",
+        "1546149892",
+        "1551571370",
+        "1579850852",
+        "1580417272",
+        "1655226010",
+        "1798077826",
+        "1825457006",
+        "1963569294",
+        "1973326708",
+        "2040384644",
+        "2090181646",
+        "2107742417",
+        "2108860402",
+        "2111817346",
+        "2120138937",
+        "2140611647",
+        "2147683775",
+        "2150277819",
+        "2162986442"
+    ]
+}

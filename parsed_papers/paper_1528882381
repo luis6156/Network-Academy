@@ -1,0 +1,57 @@
+{
+    "id": "1528882381",
+    "title": "Self-stabilizing atomicity refinement allowing neighborhood concurrency",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sebastien Cantarell",
+            "id": "44895492",
+            "org": "LRI, CNRS, Universite de Paris-Sud, France#TAB#"
+        },
+        {
+            "name": "Ajoy Kumar Datta",
+            "id": "2157274810",
+            "org": "School of Computer Science, University of Nevada Las Vegas#TAB#"
+        },
+        {
+            "name": "Franck Petit",
+            "id": "2569583854",
+            "org": "LaRIA, Universite de Picardie Jules Verne, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Daemon",
+        "Critical section",
+        "Resource allocation",
+        "Application layer",
+        "Computer science",
+        "Mutual exclusion",
+        "Distributed computing",
+        "Concurrency",
+        "Atomicity",
+        "Real-time computing",
+        "Shared resource"
+    ],
+    "references": [
+        "1504204426",
+        "1560378633",
+        "1598756183",
+        "1599359157",
+        "1900590961",
+        "1969320647",
+        "1973501242",
+        "1985091167",
+        "1995672104",
+        "1996295704",
+        "2049764332",
+        "2070908350",
+        "2111132249",
+        "2135985056",
+        "2140782053",
+        "2162095359",
+        "2170523074",
+        "2294004164",
+        "2296752404"
+    ]
+}

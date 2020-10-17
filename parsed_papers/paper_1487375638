@@ -1,0 +1,62 @@
+{
+    "id": "1487375638",
+    "title": "Efficient on-the-fly data race detection in multithreaded C++ programs",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Eli Pozniansky",
+            "id": "349414681",
+            "org": "Comput. Sci. Dept., Technion-Israel Inst. of Technol., Haifa, Israel"
+        },
+        {
+            "name": "Assaf Schuster",
+            "id": "2135728993",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Object detection",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Granularity",
+        "Weak consistency",
+        "Fine-tuning",
+        "Multithreading",
+        "Correctness",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "32942804",
+        "1542985837",
+        "1742609814",
+        "1972544179",
+        "1973501242",
+        "1976848527",
+        "1978076389",
+        "2002179840",
+        "2002946738",
+        "2005031208",
+        "2019611783",
+        "2034256728",
+        "2040851906",
+        "2048118924",
+        "2054739713",
+        "2061239425",
+        "2066952803",
+        "2088270410",
+        "2119417488",
+        "2144118030",
+        "2145021036",
+        "2147506153",
+        "2152390090",
+        "2155577947",
+        "2160189327",
+        "2162446957",
+        "2165365531",
+        "2170200862"
+    ]
+}

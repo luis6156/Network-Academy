@@ -1,0 +1,68 @@
+{
+    "id": "155292398",
+    "title": "Improved collision-correlation power analysis on first order protected AES",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Christophe Clavier",
+            "id": "2807236391",
+            "org": "XLIM-CNRS, Universite de Limoges, France#TAB#"
+        },
+        {
+            "name": "Benoit Feix",
+            "id": "2054482113",
+            "org": "XLIM-CNRS, Universite de Limoges, France and INSIDE Secure, Aix-en-Provence, France#TAB#"
+        },
+        {
+            "name": "Georges Gagnerot",
+            "id": "311528196",
+            "org": "XLIM-CNRS, Universite de Limoges, France and INSIDE Secure, Aix-en-Provence, France#TAB#"
+        },
+        {
+            "name": "Mylene Roussellet",
+            "id": "256674898",
+            "org": "INSIDE Secure, Aix-en-Provence, France#TAB#"
+        },
+        {
+            "name": "Vincent Verneuil",
+            "id": "1933769155",
+            "org": "INSIDE Secure, Aix-en-Provence, France and Institut de Mathematiques de Bordeaux, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parallel computing",
+        "Exponentiation",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Implementation",
+        "Correlation",
+        "Power analysis",
+        "AES implementations",
+        "Collision"
+    ],
+    "references": [
+        "54412699",
+        "1486711257",
+        "1498044825",
+        "1503689022",
+        "1506890909",
+        "1512062395",
+        "1532559214",
+        "1562542037",
+        "1569151289",
+        "1752847028",
+        "1838677899",
+        "1862426464",
+        "1945555650",
+        "2116051280",
+        "2145829971",
+        "2153476158",
+        "2153971105",
+        "2154909745",
+        "2161740631",
+        "2164584813",
+        "2525966718"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1720681537",
+    "title": "The security of elastic block ciphers against key-recovery attacks",
+    "venue": "international conference on information security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Debra L. Cook",
+            "id": "2153477080",
+            "org": "Department of Computer Science, Columbia University, New York, NY#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Department of Computer Science, Columbia University, New York, NY, USA#TAB#"
+        },
+        {
+            "name": "Angelos D. Keromytis",
+            "id": "299775663",
+            "org": "Department of Computer Science, Columbia University, New York, NY, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Rail fence cipher",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Computer science",
+        "Two-square cipher",
+        "Residual block termination",
+        "Triple DES",
+        "Stream cipher attack",
+        "CBC-MAC"
+    ],
+    "references": [
+        "52191336",
+        "1544859938",
+        "1595428342",
+        "1746024602",
+        "1964723977",
+        "1979802565",
+        "1991897749",
+        "2077300005",
+        "2146343727",
+        "2158747466",
+        "2234576048",
+        "2610935322"
+    ]
+}

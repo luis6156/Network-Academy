@@ -1,0 +1,55 @@
+{
+    "id": "1544574054",
+    "title": "Probing Attacks on Tamper-Resistant Devices",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Helena Handschuh",
+            "id": "1756865753",
+            "org": "Gemplus/ENST"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Gemplus/ENST"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Tamper resistance",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Cryptosystem",
+        "Linear cryptanalysis",
+        "Public-key cryptography",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1500356409",
+        "1522397945",
+        "1529024636",
+        "1553595359",
+        "1583816927",
+        "1584582385",
+        "1586278430",
+        "1646354800",
+        "1664808737",
+        "1801417685",
+        "1900827516",
+        "1964723977",
+        "1996360405",
+        "2105861506",
+        "2108834246",
+        "2170489924",
+        "2802560047"
+    ]
+}

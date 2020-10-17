@@ -1,0 +1,41 @@
+{
+    "id": "1482102510",
+    "title": "Eliminating receive livelock in an interrupt-driven kernel",
+    "venue": "usenix annual technical conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jeffrey C. Mogul",
+            "id": "2607981520",
+            "org": "Digital Equipment Corporation, Western Research Laboratory#TAB#"
+        },
+        {
+            "name": "K. K. Ramakrishnan",
+            "id": "2133259603",
+            "org": "AT&T Bell Laboratories#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interrupt",
+        "Offered load",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Real-time computing",
+        "Network packet",
+        "Schedule",
+        "Deadlock",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "67570794",
+        "142030573",
+        "1490493977",
+        "2019235753",
+        "2022371412",
+        "2147978773",
+        "2158733823",
+        "2158873084",
+        "2223263393"
+    ]
+}

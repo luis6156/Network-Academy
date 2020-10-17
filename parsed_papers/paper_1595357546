@@ -1,0 +1,91 @@
+{
+    "id": "1595357546",
+    "title": "Secure Multiparty Computation Goes Live",
+    "venue": "financial cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Peter Bogetoft",
+            "id": "2189474869",
+            "org": "Dept. of Economics, Copenhagen Business School,#TAB#"
+        },
+        {
+            "name": "Dan Lund Christensen",
+            "id": "2621280202",
+            "org": "The Alexandra Institute,#TAB#"
+        },
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "Department of Computer Science, University of Aarhus,#TAB#"
+        },
+        {
+            "name": "Martin Geisler",
+            "id": "2141250226",
+            "org": "Department of Computer Science, University of Aarhus,#TAB#"
+        },
+        {
+            "name": "Thomas Jakobsen",
+            "id": "2344298237",
+            "org": "The Alexandra Institute,#TAB#"
+        },
+        {
+            "name": "Mikkel Kroigaard",
+            "id": "2341085011",
+            "org": "Department of Computer Science, University of Aarhus,#TAB#"
+        },
+        {
+            "name": "Janus Dam Nielsen",
+            "id": "2154313007",
+            "org": "Department of Computer Science, University of Aarhus,#TAB#"
+        },
+        {
+            "name": "Jesper Buus Nielsen",
+            "id": "2120255844",
+            "org": "Department of Computer Science, University of Aarhus,#TAB#"
+        },
+        {
+            "name": "Kurt Nielsen",
+            "id": "2206661664",
+            "org": "Inst. of Food and Resource Economics, University of Copenhagen,#TAB#"
+        },
+        {
+            "name": "Jakob Pagter",
+            "id": "2764718517",
+            "org": "The Alexandra Institute,#TAB#"
+        },
+        {
+            "name": "Michael I. Schwartzbach",
+            "id": "2169111505",
+            "org": "Department of Computer Science, University of Aarhus,#TAB#"
+        },
+        {
+            "name": "Tomas Toft",
+            "id": "2150114789",
+            "org": "CWI Amsterdam and TU/e,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Secret sharing",
+        "Security policy",
+        "Commitment scheme",
+        "Double auction",
+        "Secure two-party computation",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "44936433",
+        "1528330226",
+        "1550422670",
+        "1556155774",
+        "2036133214",
+        "2101551271",
+        "2119420484",
+        "2130901615",
+        "2138784757"
+    ]
+}

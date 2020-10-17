@@ -1,0 +1,56 @@
+{
+    "id": "1803554314",
+    "title": "Hardware memory management for large knowledge bases",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Simon H. Lavington",
+            "id": "100025731",
+            "org": "University of Essex"
+        },
+        {
+            "name": "M. Standring",
+            "id": "2631175001",
+            "org": "University of Manchester"
+        },
+        {
+            "name": "Y. J. Jiang",
+            "id": "2641625450",
+            "org": "University of Essex"
+        },
+        {
+            "name": "C. J. Wang",
+            "id": "2516189058",
+            "org": "University of Manchester"
+        },
+        {
+            "name": "Martin Waite",
+            "id": "2170173388",
+            "org": "University of Essex"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Memory hierarchy",
+        "Memory architecture",
+        "Computer science",
+        "Uniform memory access",
+        "Memory management",
+        "Data diffusion machine",
+        "Cache-only memory architecture",
+        "Memory map",
+        "Flat memory model"
+    ],
+    "references": [
+        "35024350",
+        "139160417",
+        "1503162431",
+        "1526648238",
+        "1604663342",
+        "1836218368",
+        "1999139350",
+        "2076417297",
+        "2164155814"
+    ]
+}

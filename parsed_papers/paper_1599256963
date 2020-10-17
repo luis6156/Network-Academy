@@ -1,0 +1,30 @@
+{
+    "id": "1599256963",
+    "title": "A Comparison of WS-BusinessActivity and BPEL4WS Long-Running Transaction",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Patrick Sauter",
+            "id": "2798666553",
+            "org": "Universitat Ulm"
+        },
+        {
+            "name": "Ingo Melzer",
+            "id": "1984796422",
+            "org": "DaimlerChrysler AG Research and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "SOAP",
+        "Computer science",
+        "Distributed computing",
+        "Distributed transaction",
+        "Long-running transaction",
+        "Database transaction"
+    ],
+    "references": [
+        "1506229097",
+        "1515932031"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1537284897",
+    "title": "Attacking the BitLocker Boot Process",
+    "venue": "trust and trustworthy computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sven Turpe",
+            "id": "1944835405",
+            "org": "Fraunhofer Institute for Secure Information Technology (SIT), Darmstadt, Germany 64295#TAB#"
+        },
+        {
+            "name": "Andreas Poller",
+            "id": "1917263856",
+            "org": "Fraunhofer Institute for Secure Information Technology (SIT), Darmstadt, Germany 64295#TAB#"
+        },
+        {
+            "name": "Jan Steffan",
+            "id": "2896664880",
+            "org": "Fraunhofer Institute for Secure Information Technology (SIT), Darmstadt, Germany 64295#TAB#"
+        },
+        {
+            "name": "Jan-Peter Stotz",
+            "id": "2517074024",
+            "org": "Fraunhofer Institute for Secure Information Technology (SIT), Darmstadt, Germany 64295#TAB#"
+        },
+        {
+            "name": "Jan Trukenmuller",
+            "id": "2023607611",
+            "org": "Fraunhofer Institute for Secure Information Technology (SIT), Darmstadt, Germany 64295#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Microsoft Windows",
+        "Trusted Computing",
+        "Disk encryption",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Exploit",
+        "Internet privacy",
+        "BitLocker"
+    ],
+    "references": [
+        "1490052377",
+        "1774699283",
+        "2010350305",
+        "2068789742",
+        "2111015674",
+        "2164240796",
+        "2175377689"
+    ]
+}

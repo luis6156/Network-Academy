@@ -1,0 +1,78 @@
+{
+    "id": "1469449",
+    "title": "Levo - A Scalable Processor With High IPC.",
+    "venue": "Journal of Instruction-level Parallelism",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Augustus K. Uht",
+            "id": "170186220",
+            "org": "University of Rhode Island"
+        },
+        {
+            "name": "David Morano",
+            "id": "2168513913",
+            "org": "IEEE Computer Society"
+        },
+        {
+            "name": "Alireza Khalafi",
+            "id": "2092767352",
+            "org": "Northeastern University"
+        },
+        {
+            "name": "David R. Kaeli",
+            "id": "2283028827",
+            "org": "Northeastern University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Re-order buffer",
+        "Instruction window",
+        "Computer science",
+        "Floorplan",
+        "Out-of-order execution",
+        "Microarchitecture",
+        "Register file",
+        "Real-time computing"
+    ],
+    "references": [
+        "1525227808",
+        "1584529690",
+        "1636985109",
+        "1746575357",
+        "1985063830",
+        "2002374396",
+        "2032094184",
+        "2071568619",
+        "2080405601",
+        "2089363288",
+        "2091336951",
+        "2095872092",
+        "2100519017",
+        "2103982793",
+        "2105555051",
+        "2108039095",
+        "2108707873",
+        "2109449515",
+        "2110263160",
+        "2118864867",
+        "2120230074",
+        "2133877928",
+        "2135270610",
+        "2139341593",
+        "2141957376",
+        "2143375055",
+        "2143756982",
+        "2155470191",
+        "2157373341",
+        "2158561130",
+        "2160730704",
+        "2169823452",
+        "2172212694",
+        "2295079892",
+        "2296006986"
+    ]
+}

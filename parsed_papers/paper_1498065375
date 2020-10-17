@@ -1,0 +1,49 @@
+{
+    "id": "1498065375",
+    "title": "Architectural Issues of Transaction Management in Multi-Layered Systems",
+    "venue": "very large data bases",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Gerhard Weikum",
+            "id": "514836396",
+            "org": "Computer Science Department|Technical University Darmstadt"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "Computer Science Department|Technical University Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Transaction processing system",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Transaction processing",
+        "Optimistic concurrency control",
+        "Distributed transaction",
+        "Database",
+        "Data structure",
+        "Real-time computing",
+        "Data model"
+    ],
+    "references": [
+        "27469403",
+        "151387077",
+        "152077158",
+        "199257351",
+        "1538721919",
+        "1986584060",
+        "2030689196",
+        "2031032746",
+        "2060098605",
+        "2077614353",
+        "2091416827",
+        "2106887953",
+        "2116436709",
+        "2172126130",
+        "2172390267"
+    ]
+}

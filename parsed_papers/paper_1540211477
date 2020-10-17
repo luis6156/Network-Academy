@@ -1,0 +1,64 @@
+{
+    "id": "1540211477",
+    "title": "Related-key rectangle attack on the full SHACAL-1",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium and Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SHACAL",
+        "Mathematics",
+        "Brute-force attack",
+        "Algorithm",
+        "Fluhrer, Mantin and Shamir attack",
+        "Slide attack",
+        "Key whitening",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "MDC-2"
+    ],
+    "references": [
+        "52191336",
+        "798366527",
+        "1481366493",
+        "1491388917",
+        "1498330251",
+        "1515958737",
+        "1518406241",
+        "1524407627",
+        "1540066842",
+        "1541703086",
+        "1546907539",
+        "1587120902",
+        "1590269592",
+        "1596744447",
+        "1656731780",
+        "1870015754",
+        "1871986277",
+        "1979802565",
+        "1991897749",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2170677368",
+        "2592352276",
+        "2611506938"
+    ]
+}

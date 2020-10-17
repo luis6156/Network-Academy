@@ -1,0 +1,54 @@
+{
+    "id": "1578586288",
+    "title": "Untraceable blind signature schemes based on discrete logarithm problem",
+    "venue": "Fundamenta Informaticae",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Cheng-Chi Lee",
+            "id": "2132890223",
+            "org": "Department of Computer and Information Science, National Chiao-Tung University, 1001 Ta Hsueh Road, Hsinchu, Taiwan, R.O.C.#TAB#"
+        },
+        {
+            "name": "Wei-Pang Yang",
+            "id": "2145011396",
+            "org": "Department of Computer and Information Science, National Chiao-Tung University, 1001 Ta Hsueh Road, Hsinchu, Taiwan, R.O.C.#TAB#"
+        },
+        {
+            "name": "Min-Shiang Hwang",
+            "id": "2143281080",
+            "org": "Department of Management Information System, National Chung Hsing University, 250 Kuo Kuang Road, 402 Taichung, Taiwan, R.O.C.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Cryptography",
+        "Blind signature",
+        "Theoretical computer science",
+        "Discrete logarithm",
+        "Quadratic residue",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1479744988",
+        "1494543269",
+        "1495360227",
+        "1521562196",
+        "1601001795",
+        "1660562555",
+        "1866697669",
+        "1963578159",
+        "1967462175",
+        "1982758794",
+        "1983156960",
+        "1996360405",
+        "2023159613",
+        "2069447774",
+        "2084053344",
+        "2108834246",
+        "2150971257"
+    ]
+}

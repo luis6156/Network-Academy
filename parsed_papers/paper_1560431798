@@ -1,0 +1,52 @@
+{
+    "id": "1560431798",
+    "title": "One-Time verifier-based encrypted key exchange",
+    "venue": "public key cryptography",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michel Abdalla",
+            "id": "2143328931",
+            "org": "Dept d'informatique, Ecole normale superieure, Paris Cedex 05, France#TAB#"
+        },
+        {
+            "name": "Olivier Chevassut",
+            "id": "2141219601",
+            "org": "Lawrence Berkeley National Laboratory, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "Dept d'informatique, Ecole normale superieure, Paris Cedex 05, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key exchange",
+        "Transport Layer Security",
+        "Access control",
+        "Trusted Computing",
+        "Computer science",
+        "Distributed computing",
+        "Forward secrecy",
+        "Encrypted key exchange",
+        "Grid",
+        "Standardization"
+    ],
+    "references": [
+        "203500824",
+        "1485183201",
+        "1535125298",
+        "1589586740",
+        "1590949317",
+        "1984030306",
+        "1985874619",
+        "2041027981",
+        "2091020476",
+        "2095708839",
+        "2113446256",
+        "2124926080",
+        "2154010459",
+        "2157604883",
+        "2439240014"
+    ]
+}

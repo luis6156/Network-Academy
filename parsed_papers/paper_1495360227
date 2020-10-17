@@ -1,0 +1,55 @@
+{
+    "id": "1495360227",
+    "title": "On the Security of RSA Padding",
+    "venue": "international cryptology conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2130492708",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Julien P. Stern",
+            "id": "2212247778",
+            "org": "Batiment Maxwell"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Homomorphic encryption",
+        "Discrete logarithm",
+        "Redundancy (engineering)",
+        "Discrete mathematics",
+        "Computer science",
+        "PKCS",
+        "Padding",
+        "Random oracle",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1505920856",
+        "1510116442",
+        "1512680026",
+        "1540276440",
+        "1557560552",
+        "1580300316",
+        "1660562555",
+        "1679474142",
+        "1788164537",
+        "1996360405",
+        "2004917375",
+        "2050622926",
+        "2052267638",
+        "2073616076",
+        "2088091599",
+        "2162653919",
+        "2166457424",
+        "2474169756"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1523275077",
+    "title": "Formal pervasive verification of a paging mechanism",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Eyad Alkassar",
+            "id": "334789826",
+            "org": "Computer Science Department, Saarland University#TAB#"
+        },
+        {
+            "name": "Norbert Schirmer",
+            "id": "2084758425",
+            "org": "Computer Science Department, Saarland University#TAB#"
+        },
+        {
+            "name": "Artem Starostin",
+            "id": "1972326118",
+            "org": "Computer Science Department, Saarland University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Paging",
+        "Demand paging",
+        "Formal verification",
+        "Memory virtualization",
+        "Computer science",
+        "Inline assembler",
+        "Hoare logic",
+        "Virtual machine",
+        "Real-time computing",
+        "Page fault"
+    ],
+    "references": [
+        "14193191",
+        "122387815",
+        "1556316449",
+        "1594381772",
+        "1937179622",
+        "2014942166",
+        "2016714907",
+        "2058200237",
+        "2084715426",
+        "2121519027",
+        "2130970533",
+        "2134927133",
+        "2139151574",
+        "2149352546",
+        "2294026709"
+    ]
+}

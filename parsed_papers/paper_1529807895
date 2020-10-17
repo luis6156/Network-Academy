@@ -1,0 +1,40 @@
+{
+    "id": "1529807895",
+    "title": "Efficient Scalar Multiplications on Elliptic Curves without Repeated Doublings and Their Practical Performance",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Yasuyuki Sakai",
+            "id": "2134686839",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Supersingular elliptic curve",
+        "Mathematics",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Schoof's algorithm",
+        "Elliptic curve",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1507106163",
+        "1521787982",
+        "1539482743",
+        "1563272506",
+        "1584579923",
+        "2099317248",
+        "2108558890",
+        "2115840814"
+    ]
+}

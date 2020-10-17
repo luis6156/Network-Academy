@@ -1,0 +1,41 @@
+{
+    "id": "1606385043",
+    "title": "Highly Parallel Cryptographic Attacks",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Marcus Peinado",
+            "id": "2123463638",
+            "org": "German National Research Center for Information Technology (GMD)"
+        },
+        {
+            "name": "Ramarathnam Venkatesan",
+            "id": "2126319880",
+            "org": "One Microsoft Way"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Pseudorandom number generator",
+        "Parallel computing",
+        "Birthday attack",
+        "External sorting",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Exploit",
+        "Parallel algorithm",
+        "MD5"
+    ],
+    "references": [
+        "1482548307",
+        "1589034595",
+        "1639145229",
+        "1974299554",
+        "2096221624",
+        "2098801947",
+        "2105175890",
+        "2226303357"
+    ]
+}

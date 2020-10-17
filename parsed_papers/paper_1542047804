@@ -1,0 +1,56 @@
+{
+    "id": "1542047804",
+    "title": "Secret sharing in hierarchical groups",
+    "venue": "international conference on information and communication security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Chris Charnes",
+            "id": "2304227975",
+            "org": "University of Wollongong Department of Computer Science, Centre for Computer Security Research 2500 Wollongong Australia 2500 Wollongong Australia"
+        },
+        {
+            "name": "Keith M. Martin",
+            "id": "2101537662",
+            "org": "Katholieke Universiteit Leuven|Dept Elektrotechniek-ESAT Kardinaal Mercierlaan"
+        },
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "University of Wollongong Department of Computer Science, Centre for Computer Security Research 2500 Wollongong Australia 2500 Wollongong Australia"
+        },
+        {
+            "name": "Reihaneh Safavi-Naini",
+            "id": "1967715543",
+            "org": "University of Wollongong Department of Computer Science, Centre for Computer Security Research 2500 Wollongong Australia 2500 Wollongong Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Delegation",
+        "Cryptography",
+        "Theoretical computer science",
+        "Access structure",
+        "Computer science",
+        "Distributed computing",
+        "Homomorphic secret sharing",
+        "Verifiable secret sharing",
+        "Secret sharing",
+        "Public-key cryptography",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1559893755",
+        "1568004961",
+        "1573262134",
+        "1605656054",
+        "1654014682",
+        "1885156594",
+        "1980651618",
+        "1991079641",
+        "2088023978",
+        "2099000090",
+        "2141420453",
+        "2156186849",
+        "2229750252"
+    ]
+}

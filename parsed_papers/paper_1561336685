@@ -1,0 +1,70 @@
+{
+    "id": "1561336685",
+    "title": "Object storage on CRAQ: high-throughput chain replication for read-mostly workloads",
+    "venue": "usenix annual technical conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jeff Terrace",
+            "id": "2009353847",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Michael J. Freedman",
+            "id": "2144033718",
+            "org": "Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Multicast",
+        "Throughput",
+        "Parallel computing",
+        "Replicate",
+        "Computer science",
+        "Object storage",
+        "Distributed computing",
+        "Strong consistency",
+        "Real-time computing"
+    ],
+    "references": [
+        "151129402",
+        "160787565",
+        "1487134436",
+        "1497150730",
+        "1524103123",
+        "1786926183",
+        "1891640176",
+        "1999255105",
+        "2001803004",
+        "2012848290",
+        "2020765652",
+        "2044534358",
+        "2045362872",
+        "2054481902",
+        "2065538422",
+        "2075854425",
+        "2077304190",
+        "2088221489",
+        "2094162326",
+        "2095135670",
+        "2099105350",
+        "2104112849",
+        "2104210894",
+        "2108026089",
+        "2108824004",
+        "2118428193",
+        "2119565742",
+        "2120510885",
+        "2124074197",
+        "2126087831",
+        "2142849519",
+        "2144028495",
+        "2147524598",
+        "2150013559",
+        "2150676586",
+        "2153704625",
+        "2169187571",
+        "2169646216"
+    ]
+}

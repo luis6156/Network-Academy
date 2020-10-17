@@ -1,0 +1,45 @@
+{
+    "id": "1541515689",
+    "title": "ETSA: An Efficient Task Scheduling Algorithm in Wireless Sensor Networks",
+    "venue": "international conference on information computing and applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Liang Dai",
+            "id": "2309381441",
+            "org": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Yilin Chang",
+            "id": "2171324280",
+            "org": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi'an, China#TAB#"
+        },
+        {
+            "name": "Zhong Shen",
+            "id": "2121383779",
+            "org": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi'an, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Key distribution in wireless sensor networks",
+        "Distributed computing",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1501013319",
+        "1990209325",
+        "2098598318",
+        "2104846640",
+        "2143667229",
+        "2157642469",
+        "2166669414"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1586459350",
+    "title": "SXDGL: snapshot based concurrency control protocol for XML data",
+    "venue": "international xml database symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Peter Pleshachkov",
+            "id": "2804015620",
+            "org": "Institute for System Programming RAS, Russia#TAB#"
+        },
+        {
+            "name": "Sergei Kuznetcov",
+            "id": "2681786629",
+            "org": "Institute for System Programming RAS, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Concurrency control",
+        "Database",
+        "Distributed concurrency control",
+        "Timestamp-based concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "151387077",
+        "1503252760",
+        "1578009181",
+        "2025353924",
+        "2096766177",
+        "2098845641",
+        "2102340574",
+        "2104461200",
+        "2104954161",
+        "2134356404",
+        "2142498678",
+        "2148074650",
+        "2163820446",
+        "2169454548",
+        "2178831933",
+        "2626304854"
+    ]
+}

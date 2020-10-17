@@ -1,0 +1,50 @@
+{
+    "id": "1528500212",
+    "title": "The Glasgow Haskell Compiler: A Retrospective",
+    "venue": "glasgow workshop on functional programming",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Cordelia V. Hall",
+            "id": "2112998414",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Kevin Hammond",
+            "id": "2133455440",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Will Partain",
+            "id": "2062836453",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Simon L. Peyton Jones",
+            "id": "2142246817",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Philip Wadler",
+            "id": "2060729710",
+            "org": "Glasgow University"
+        }
+    ],
+    "fields_of_study": [
+        "Compiler",
+        "Haskell",
+        "Computer science",
+        "Abstract data type",
+        "Functional programming",
+        "Runtime system",
+        "Garbage",
+        "Programming language"
+    ],
+    "references": [
+        "1720408708",
+        "2037984920",
+        "2078944436",
+        "2095621310",
+        "2295914203"
+    ]
+}

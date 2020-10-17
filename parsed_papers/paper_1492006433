@@ -1,0 +1,49 @@
+{
+    "id": "1492006433",
+    "title": "On redundant data for faster recursive querying via ORM systems",
+    "venue": "federated conference on computer science and information systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Aleksandra Boniewicz",
+            "id": "176226495",
+            "org": "Fac. of Math. & Comput. Sci., Nicolaus Copernicus Univ., Torun, Poland"
+        },
+        {
+            "name": "Piotr Wisniewski",
+            "id": "2227180215",
+            "org": "Fac. of Math. & Comput. Sci., Nicolaus Copernicus Univ., Torun, Poland"
+        },
+        {
+            "name": "Krzysztof Stencel",
+            "id": "674901608",
+            "org": "Inst. of Inf., Univ. of Warsaw, Warsaw, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Theoretical computer science",
+        "Database model",
+        "Computer science",
+        "Data mining",
+        "Conjunctive query",
+        "Query by Example",
+        "Persistent data structure",
+        "Database",
+        "SQL",
+        "Data structure",
+        "In-Memory Processing"
+    ],
+    "references": [
+        "17301282",
+        "1488984669",
+        "1848555754",
+        "2002711156",
+        "2028740113",
+        "2077449561",
+        "2123824212",
+        "2184916394",
+        "2285754531",
+        "2399673489"
+    ]
+}

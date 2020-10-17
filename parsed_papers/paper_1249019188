@@ -1,0 +1,84 @@
+{
+    "id": "1249019188",
+    "title": "Efficient data-parallel tree-traversal for BlobTrees",
+    "venue": "Computer-aided Design",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Herbert Grasberger",
+            "id": "2061913760",
+            "org": "Department of Computer Science, University of Victoria, PO Box 1700, STN CSC, Victoria, BC, Canada V8W 2Y2#TAB#"
+        },
+        {
+            "name": "Jean-Luc Duprat",
+            "id": "2243833229",
+            "org": "Department of Computer Science, University of Victoria, PO Box 1700, STN CSC, Victoria, BC, Canada V8W 2Y2#TAB#"
+        },
+        {
+            "name": "Brian Wyvill",
+            "id": "1990602849",
+            "org": "Department of Computer Science, University of Victoria, PO Box 1700, STN CSC, Victoria, BC, Canada V8W 2Y2#TAB#"
+        },
+        {
+            "name": "Paul Lalonde",
+            "id": "2424146012",
+            "org": "Department of Computer Science, University of Victoria, PO Box 1700, STN CSC, Victoria, BC, Canada V8W 2Y2#TAB#"
+        },
+        {
+            "name": "Jarek Rossignac",
+            "id": "2038767835",
+            "org": "School of Interactive Computing, Georgia Institute of Technology, Atlanta, GA 30332, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Matrix multiplication",
+        "Rendering (computer graphics)",
+        "Boundary representation",
+        "Tree traversal",
+        "Grid",
+        "Voxel",
+        "Affine transformation",
+        "Mathematical optimization",
+        "Image warping"
+    ],
+    "references": [
+        "1558931212",
+        "1586564288",
+        "1753524162",
+        "1979744289",
+        "1981714789",
+        "2003511373",
+        "2006461528",
+        "2015448180",
+        "2028499920",
+        "2034804129",
+        "2043555409",
+        "2064446724",
+        "2064941560",
+        "2067089692",
+        "2071661704",
+        "2072768743",
+        "2076490736",
+        "2084662247",
+        "2092072871",
+        "2096044049",
+        "2097346931",
+        "2101389535",
+        "2104615170",
+        "2113473819",
+        "2115562630",
+        "2116533649",
+        "2116909605",
+        "2120323262",
+        "2129755131",
+        "2130026741",
+        "2132269409",
+        "2134699204",
+        "2136460226",
+        "2144200367",
+        "2147675189",
+        "2154310673",
+        "2169964384"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "168545695",
+    "title": "4-D generative model for PET/MRI reconstruction",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Stefano Pedemonte",
+            "id": "2014141825",
+            "org": "The Centre for Medial Image Computing, UCL, London, United Kingdom#TAB#"
+        },
+        {
+            "name": "Alexandre Bousse",
+            "id": "2048170214",
+            "org": "Institute of Nuclear Medicine, UCL Hospitals NHS Trust, London, United Kingdom#TAB#"
+        },
+        {
+            "name": "Brian F. Hutton",
+            "id": "2064281539",
+            "org": "Institute of Nuclear Medicine, UCL Hospitals NHS Trust, London, United Kingdom#TAB#"
+        },
+        {
+            "name": "Simon R. Arridge",
+            "id": "302542049",
+            "org": "The Centre for Medial Image Computing, UCL, London, United Kingdom#TAB#"
+        },
+        {
+            "name": "Sebastien Ourselin",
+            "id": "2045358941",
+            "org": "The Centre for Medial Image Computing, UCL, London, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Magnetic resonance imaging",
+        "Computer vision",
+        "Bayesian network",
+        "Pattern recognition",
+        "Computer science",
+        "Statistical model",
+        "Image processing",
+        "Generative model",
+        "Imaging phantom",
+        "Iterative method",
+        "Mixture model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1501672475",
+        "1597605992",
+        "2103707010",
+        "2158382146"
+    ]
+}

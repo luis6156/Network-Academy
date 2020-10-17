@@ -1,0 +1,82 @@
+{
+    "id": "161537417",
+    "title": "Automatic Termination Verification for Higher-Order Functional Programs",
+    "venue": "european symposium on programming",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Takuya Kuwahara",
+            "id": "2005175660",
+            "org": "University of Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Tachio Terauchi",
+            "id": "2070651751",
+            "org": "Nagoya University, Japan#TAB#"
+        },
+        {
+            "name": "Hiroshi Unno",
+            "id": "2129812058",
+            "org": "University of Tsukuba, Japan#TAB#"
+        },
+        {
+            "name": "Naoki Kobayashi",
+            "id": "2095379858",
+            "org": "University of Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Invariant (mathematics)",
+        "Completeness (statistics)",
+        "Soundness",
+        "Computer science",
+        "Reachability",
+        "Ranking",
+        "Inference",
+        "Program transformation",
+        "Call graph",
+        "Programming language"
+    ],
+    "references": [
+        "67718509",
+        "1480909796",
+        "1503537039",
+        "1521232193",
+        "1530375435",
+        "1546495165",
+        "1551651413",
+        "1556566737",
+        "1565898282",
+        "1589106570",
+        "1755589398",
+        "1923535011",
+        "1952969353",
+        "1972318755",
+        "1973094460",
+        "1993129359",
+        "2005192022",
+        "2024821946",
+        "2036753951",
+        "2043325669",
+        "2078578987",
+        "2081840025",
+        "2082000355",
+        "2099473324",
+        "2101085206",
+        "2105656272",
+        "2110875818",
+        "2124909257",
+        "2134918221",
+        "2138308600",
+        "2144538202",
+        "2149335820",
+        "2164290630",
+        "2168162624",
+        "2169417140",
+        "2194223632",
+        "2293708017",
+        "2295903414",
+        "2295923951"
+    ]
+}

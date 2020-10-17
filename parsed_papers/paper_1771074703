@@ -1,0 +1,78 @@
+{
+    "id": "1771074703",
+    "title": "Feature-based high-availability mechanism for quantile tasks in real-time data stream processing",
+    "venue": "Software - Practice and Experience",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Weilong Ding",
+            "id": "2304125096",
+            "org": "North China University of Technology Research Center for Cloud Computing Beijing China"
+        },
+        {
+            "name": "Yanbo Han",
+            "id": "2283620712",
+            "org": "Research Center for Cloud Computing, North China University of Technology, Beijing, China#TAB#"
+        },
+        {
+            "name": "Jing Wang",
+            "id": "2676566130",
+            "org": "Research Center for Cloud Computing, North China University of Technology, Beijing, China#TAB#"
+        },
+        {
+            "name": "Zhuofeng Zhao",
+            "id": "2225606085",
+            "org": "Research Center for Cloud Computing, North China University of Technology, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Data stream",
+        "Computer science",
+        "Latency (engineering)",
+        "Quantile",
+        "Sliding window protocol",
+        "Stream processing",
+        "Real-time computing",
+        "High availability",
+        "Cloud computing"
+    ],
+    "references": [
+        "70607902",
+        "105408422",
+        "158891750",
+        "192446467",
+        "1970150013",
+        "1992023276",
+        "1992614040",
+        "2004154913",
+        "2008333370",
+        "2026896584",
+        "2028470788",
+        "2028660080",
+        "2032029281",
+        "2042518617",
+        "2057058417",
+        "2064349969",
+        "2070032453",
+        "2079992488",
+        "2097065925",
+        "2102186495",
+        "2115503987",
+        "2116336583",
+        "2118229812",
+        "2119745055",
+        "2119885577",
+        "2124507579",
+        "2124988342",
+        "2128869116",
+        "2134504379",
+        "2135722928",
+        "2141742398",
+        "2150206209",
+        "2152637787",
+        "2153399951",
+        "2162747054",
+        "2167396179"
+    ]
+}

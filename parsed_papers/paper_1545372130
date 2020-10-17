@@ -1,0 +1,41 @@
+{
+    "id": "1545372130",
+    "title": "A Simulation of Seismic Wave Propagation at High Resolution in the Inner Core of the Earth on 2166 Processors of MareNostrum",
+    "venue": "high performance computing for computational science (vector and parallel processing)",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "D. Komatitsch",
+            "id": "2844735034",
+            "org": "Universite de Pau et des Pays de l'Adour, CNRS UMR 5212 & INRIA Sud-Ouest Magique-3D, Pau Cedex, France 64013 and Institut universitaire de France, Paris, France 75005#TAB#"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Barcelona Supercomputing Center, Technical University of Catalonia, Barcelona, Spain 08034#TAB#"
+        },
+        {
+            "name": "David Michea",
+            "id": "2053893345",
+            "org": "Universite de Pau et des Pays de l'Adour, CNRS UMR 5212 & INRIA Sud-Ouest Magique-3D, Pau Cedex, France 64013#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Supercomputer",
+        "Parallel computing",
+        "Seismic wave",
+        "PowerPC",
+        "Computer science",
+        "Distributed computing",
+        "Finite element method",
+        "Inner core",
+        "Grid",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1756128032",
+        "2168743256"
+    ]
+}

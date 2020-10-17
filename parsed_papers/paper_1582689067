@@ -1,0 +1,63 @@
+{
+    "id": "1582689067",
+    "title": "Revisiting the IDEA Philosophy",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Pascal Junod",
+            "id": "2780489161",
+            "org": "Nagracard SA, Cheseaux-sur-Lausanne, Switzerland CH-1033 and University of Applied Sciences Western Switzerland (HES-SO/HEIG-VD), Yverdon-les-Bains, Switzerland CH-1401#TAB#"
+        },
+        {
+            "name": "Marco Macchetti",
+            "id": "2705767262",
+            "org": "Nagracard SA, Cheseaux-sur-Lausanne, Switzerland CH-1033#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Block size",
+        "Ciphertext stealing",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Residual block termination",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "22889096",
+        "79095404",
+        "109887743",
+        "1488058190",
+        "1493773451",
+        "1515225084",
+        "1515958737",
+        "1523982624",
+        "1541853791",
+        "1548516269",
+        "1549620015",
+        "1550146135",
+        "1552810527",
+        "1576070627",
+        "1587158155",
+        "1588560622",
+        "1599054856",
+        "1599252161",
+        "1603169531",
+        "1605116544",
+        "1608613499",
+        "1629301835",
+        "1758363771",
+        "1890449996",
+        "1926480282",
+        "2109265351",
+        "2117422777",
+        "2155278040",
+        "2168387895",
+        "2614865870"
+    ]
+}

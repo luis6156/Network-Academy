@@ -1,0 +1,52 @@
+{
+    "id": "1532688806",
+    "title": "Point-based value iteration: an anytime algorithm for POMDPs",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Joelle Pineau",
+            "id": "2092672596",
+            "org": "Carnegie Mellon University, Robotics Institute, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Geoffrey J. Gordon",
+            "id": "2134462204",
+            "org": "Carnegie Mellon University, Robotics Institute, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Sebastian Thrun",
+            "id": "2075956027",
+            "org": "Carnegie Mellon University, Robotics Institute, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Markov decision process",
+        "Small set",
+        "Partially observable Markov decision process",
+        "Discrete mathematics",
+        "Power iteration",
+        "Anytime algorithm",
+        "Mathematical optimization",
+        "Fixed-point iteration",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1491973539",
+        "1524146404",
+        "1549519846",
+        "1555477527",
+        "1594871463",
+        "1601974704",
+        "2049543502",
+        "2096132608",
+        "2138089556",
+        "2149476049",
+        "2154727088",
+        "2161521419",
+        "2168359464",
+        "2169294731"
+    ]
+}

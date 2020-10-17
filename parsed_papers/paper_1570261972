@@ -1,0 +1,50 @@
+{
+    "id": "1570261972",
+    "title": "Benchmarking Memory Performance with the Data Cube Operator",
+    "venue": "ISCA PDCS",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Frumkin",
+            "id": "2017954838",
+            "org": "NASA Advanced Supercomputing | NASA Ames Research Center"
+        },
+        {
+            "name": "Leonid V. Shabanov",
+            "id": "2395610286",
+            "org": "NASA Advanced Supercomputing | NASA Ames Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Overlay",
+        "Computer science",
+        "Memory address",
+        "Uniform memory access",
+        "Benchmarking",
+        "Memory map",
+        "Data cube",
+        "Flat memory model",
+        "CUDA Pinned memory"
+    ],
+    "references": [
+        "144943406",
+        "150835568",
+        "1522055873",
+        "1565838812",
+        "1590183325",
+        "1958348340",
+        "1971764118",
+        "2010556554",
+        "2049859567",
+        "2080133348",
+        "2092103580",
+        "2103201239",
+        "2122935445",
+        "2135133299",
+        "2143401113",
+        "2146930501",
+        "2158237121"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1481132256",
+    "title": "A Method to Obtain Signatures from Honeypots Data",
+    "venue": "network and parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Chi-Hung Chi",
+            "id": "2713414168",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Ming Li",
+            "id": "2441469697",
+            "org": "East China Normal University"
+        },
+        {
+            "name": "Dongxi Liu",
+            "id": "2779175734",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Rule-based system",
+        "Automatic identification and data capture",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Digital signature",
+        "Network packet",
+        "Intrusion detection system",
+        "Critical system",
+        "Real-time computing",
+        "Payload",
+        "Honeypot"
+    ],
+    "references": [
+        "1674877186",
+        "2107409339",
+        "2145211381",
+        "2168470593"
+    ]
+}

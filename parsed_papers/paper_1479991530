@@ -1,0 +1,42 @@
+{
+    "id": "1479991530",
+    "title": "An RDF storage and query framework with flexible inference strategy",
+    "venue": "asia pacific web conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Wennan Shen",
+            "id": "2278269505",
+            "org": "Department of Computer Science and Engineering, Southeast University, Nanjing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yuzhong Qu",
+            "id": "2106974636",
+            "org": "Department of Computer Science and Engineering, Southeast University, Nanjing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Forward chaining",
+        "RDF/XML",
+        "RDF query language",
+        "Backward chaining",
+        "Database",
+        "RDF Schema",
+        "SPARQL",
+        "Cwm",
+        "Inference engine"
+    ],
+    "references": [
+        "29172951",
+        "167120483",
+        "1482031469",
+        "1498342057",
+        "1564275181",
+        "1565454015",
+        "1647734625",
+        "1812636409",
+        "2066580290"
+    ]
+}

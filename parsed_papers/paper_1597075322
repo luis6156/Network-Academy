@@ -1,0 +1,40 @@
+{
+    "id": "1597075322",
+    "title": "Exploiting circuit representations in QBF solving",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alexandra Goultiaeva",
+            "id": "304676882",
+            "org": "Department of Computer Science, University of Toronto#TAB#"
+        },
+        {
+            "name": "Fahiem Bacchus",
+            "id": "683375407",
+            "org": "Department of Computer Science, University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Solver",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Memorization",
+        "Propositional formula",
+        "Negation normal form",
+        "True quantified Boolean formula",
+        "Conjunctive normal form",
+        "Dual basis"
+    ],
+    "references": [
+        "129935311",
+        "1496518193",
+        "1513754266",
+        "1608123432",
+        "1608173173",
+        "1836852804",
+        "2036901448",
+        "2135523993"
+    ]
+}

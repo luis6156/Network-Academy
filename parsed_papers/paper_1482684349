@@ -1,0 +1,43 @@
+{
+    "id": "1482684349",
+    "title": "Efficient SVM Regression Training with SMO",
+    "venue": "Machine Learning",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Gary William Flake",
+            "id": "2634153154",
+            "org": "NEC Research Institute, 4 Independence Way, Princeton, NJ 08540, USA. flake@research.nj.nec.com#TAB#"
+        },
+        {
+            "name": "Steve Lawrence",
+            "id": "2114878113",
+            "org": "NEC Research Institute, 4 Independence Way, Princeton, NJ 08540, USA. lawrence@research.nj.nec.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Mathematics",
+        "Quadratic programming",
+        "Pattern recognition",
+        "Effective method",
+        "Sequential minimal optimization",
+        "Support vector machine",
+        "Solver",
+        "Kernel (statistics)",
+        "Rate of convergence",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1496612019",
+        "1663792126",
+        "1964357740",
+        "2100038678",
+        "2105038653",
+        "2122284941",
+        "2128548806",
+        "2139212933",
+        "2151040995"
+    ]
+}

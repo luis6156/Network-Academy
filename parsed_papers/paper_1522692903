@@ -1,0 +1,81 @@
+{
+    "id": "1522692903",
+    "title": "HAMPI: a string solver for testing, analysis and vulnerability detection",
+    "venue": "computer aided verification",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Vijay Ganesh",
+            "id": "2235683801",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Adam Kiezun",
+            "id": "1249941522",
+            "org": "Harvard Medical School#TAB#"
+        },
+        {
+            "name": "Shay Artzi",
+            "id": "1517157260",
+            "org": "IBM Research#TAB#"
+        },
+        {
+            "name": "Philip J. Guo",
+            "id": "2285416364",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Pieter Hooimeijer",
+            "id": "60101718",
+            "org": "University of Virginia#TAB#"
+        },
+        {
+            "name": "Michael D. Ernst",
+            "id": "2235702021",
+            "org": "University of Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concolic testing",
+        "Solver",
+        "Theoretical computer science",
+        "Algorithm",
+        "Program analysis",
+        "Computer science",
+        "Regular expression",
+        "Concatenation",
+        "Substring",
+        "SQL injection",
+        "String operations",
+        "Programming language"
+    ],
+    "references": [
+        "157156687",
+        "196342399",
+        "1480909796",
+        "1556566737",
+        "1583869287",
+        "1710734607",
+        "1994584977",
+        "2008158744",
+        "2009489720",
+        "2065948900",
+        "2075573771",
+        "2096449544",
+        "2098022036",
+        "2103201337",
+        "2103660000",
+        "2107604680",
+        "2110318050",
+        "2113531724",
+        "2117402063",
+        "2119342939",
+        "2129362719",
+        "2129487583",
+        "2132897303",
+        "2134646643",
+        "2142785340",
+        "2164392635",
+        "2166381878"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "1588132832",
+    "title": "End-to-end data integrity for file systems: a ZFS case study",
+    "venue": "file and storage technologies",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yupu Zhang",
+            "id": "2122817130",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Abhishek Rajimwale",
+            "id": "2000086078",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Andrea C. Arpaci-Dusseau",
+            "id": "1979388515",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Remzi H. Arpaci-Dusseau",
+            "id": "74145742",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data redundancy",
+        "Computer science",
+        "Data integrity",
+        "End-to-end principle",
+        "Memory corruption",
+        "File system",
+        "Real-time computing",
+        "Fault injection"
+    ],
+    "references": [
+        "59613816",
+        "319917506",
+        "1525871769",
+        "1568593498",
+        "1604676572",
+        "1860107648",
+        "1865515598",
+        "1995626000",
+        "1998285060",
+        "2013530849",
+        "2021548867",
+        "2023014860",
+        "2043719859",
+        "2079267582",
+        "2098809490",
+        "2106972913",
+        "2117289367",
+        "2117480517",
+        "2118030359",
+        "2120396387",
+        "2122249806",
+        "2127784167",
+        "2128028014",
+        "2128336546",
+        "2135254996",
+        "2136938453",
+        "2138458852",
+        "2138538192",
+        "2140958850",
+        "2146316582",
+        "2146878883",
+        "2147504831",
+        "2152652532",
+        "2153950928",
+        "2157762234",
+        "2166293939",
+        "2583233440"
+    ]
+}

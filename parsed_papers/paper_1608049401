@@ -1,0 +1,40 @@
+{
+    "id": "1608049401",
+    "title": "Montgomery multiplication and squaring algorithms in GF(2 k )",
+    "venue": "international conference on computational science and its applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nam-Yeun Kim",
+            "id": "2130443790",
+            "org": "Department of Computer Engineering, Kyungpook National University, Daegu, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Kee-Young Yoo",
+            "id": "2162354639",
+            "org": "Department of Computer Engineering, Kyungpook National University, Daegu, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GF(2)",
+        "Cryptography",
+        "Lookup table",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Exponentiation by squaring",
+        "Cryptosystem",
+        "Modular arithmetic",
+        "Finite field",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1517418331",
+        "1595724787",
+        "1882297107",
+        "2020808628",
+        "2066985459",
+        "2108834246",
+        "2115525729"
+    ]
+}

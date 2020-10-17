@@ -1,0 +1,41 @@
+{
+    "id": "1627315169",
+    "title": "Context Inference for Static Analysis of Java Card Object Sharing",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Denis Caromel",
+            "id": "2778027475",
+            "org": "CNRS - I3S - Univ. Nice Sophia Antipolis"
+        },
+        {
+            "name": "Ludovic Henrio",
+            "id": "2811130676",
+            "org": "CNRS - I3S - Univ. Nice Sophia Antipolis"
+        },
+        {
+            "name": "Bernard P. Serpette",
+            "id": "2518290691",
+            "org": "CNRS - I3S - Univ. Nice Sophia Antipolis"
+        }
+    ],
+    "fields_of_study": [
+        "Static analysis",
+        "Java Card",
+        "Computer science",
+        "Distributed computing",
+        "Type inference",
+        "Inference",
+        "Correctness"
+    ],
+    "references": [
+        "1554358172",
+        "1578560741",
+        "1608142476",
+        "2045326928",
+        "2102440514",
+        "2135697103",
+        "2170577595"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1776786831",
+    "title": "Algorithm selection and scheduling",
+    "venue": "principles and practice of constraint programming",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Serdar Kadioglu",
+            "id": "2042975143",
+            "org": "Brown University, Dept. of Computer Science, Providence, RI#TAB#"
+        },
+        {
+            "name": "Yuri Malitsky",
+            "id": "2095582769",
+            "org": "Brown University, Dept. of Computer Science, Providence, RI#TAB#"
+        },
+        {
+            "name": "Ashish Sabharwal",
+            "id": "2232198255",
+            "org": "IBM Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Horst Samulowitz",
+            "id": "1209940156",
+            "org": "IBM Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Meinolf Sellmann",
+            "id": "2638167215",
+            "org": "IBM Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Optimization problem",
+        "Column generation",
+        "Rate-monotonic scheduling",
+        "Solver",
+        "Genetic algorithm scheduling",
+        "Mathematical optimization",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "54298403",
+        "1490176645",
+        "1495775210",
+        "1519526968",
+        "1542386705",
+        "1544757461",
+        "1570754865",
+        "1579011093",
+        "1594948273",
+        "1871585472",
+        "2029229881",
+        "2089213632",
+        "2104490983",
+        "2113923833",
+        "2147148915",
+        "2150753219",
+        "2501112583"
+    ]
+}

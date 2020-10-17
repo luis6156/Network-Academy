@@ -1,0 +1,49 @@
+{
+    "id": "1590505641",
+    "title": "Improving the randomized initial point countermeasure against DPA",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kouichi Itoh",
+            "id": "2128256318",
+            "org": "FUJITSU LABORATORIES Ltd., Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Tetsuya Izu",
+            "id": "1990615295",
+            "org": "FUJITSU LABORATORIES Ltd., Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Masahiko Takenaka",
+            "id": "2114664078",
+            "org": "FUJITSU LABORATORIES Ltd., Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Scalar multiplication",
+        "Countermeasure",
+        "Computer security",
+        "Power analysis",
+        "Cryptosystem"
+    ],
+    "references": [
+        "1521664783",
+        "1527460828",
+        "1531102506",
+        "1539482743",
+        "1540529576",
+        "1565369953",
+        "1582598608",
+        "1591209990",
+        "1603321026",
+        "1664808737",
+        "1712428406",
+        "2104841597",
+        "2148862943",
+        "2154909745",
+        "2168356719"
+    ]
+}

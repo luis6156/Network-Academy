@@ -1,0 +1,81 @@
+{
+    "id": "1449038650",
+    "title": "Libra: divide and conquer to verify forwarding tables in huge networks",
+    "venue": "networked systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Hongyi Zeng",
+            "id": "2125484311",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Shidong Zhang",
+            "id": "2506625044",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Fei Ye",
+            "id": "2496518033",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Vimalkumar Jeyakumar",
+            "id": "2056491872",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Mickey Ju",
+            "id": "2502266913",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Junda Liu",
+            "id": "2126989112",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Nick McKeown",
+            "id": "218283174",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Amin Vahdat",
+            "id": "295064773",
+            "org": "Google and UCSD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Divide and conquer algorithms",
+        "Static analysis",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Network packet",
+        "Network switch",
+        "Exploit",
+        "Snapshot (computer storage)",
+        "Data center",
+        "Real-time computing"
+    ],
+    "references": [
+        "158224344",
+        "1527862274",
+        "1675033504",
+        "1697123834",
+        "1882012874",
+        "2101042113",
+        "2105099212",
+        "2112867573",
+        "2115526539",
+        "2122465391",
+        "2122695394",
+        "2131053137",
+        "2140069682",
+        "2148662748",
+        "2162360270",
+        "2170715240",
+        "2173213060",
+        "2180601376"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1819772690",
+    "title": "Nonrigid Registration of 3D Scalar, Vector and Tensor Medical Data",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Juan Ruiz-Alzola",
+            "id": "2052481232",
+            "org": "University of Las Palmas de Gran Canaria"
+        },
+        {
+            "name": "Carl-Fredrik Westin",
+            "id": "2056879232",
+            "org": "Harvard Medical School and Brigham & Women's Hospital"
+        },
+        {
+            "name": "Simon K. Warfield",
+            "id": "2141164367",
+            "org": "Harvard Medical School and Brigham & Women's Hospital"
+        },
+        {
+            "name": "Arya Nabavi",
+            "id": "1899453335",
+            "org": "Harvard Medical School and Brigham & Women's Hospital"
+        },
+        {
+            "name": "Ron Kikinis",
+            "id": "908076792",
+            "org": "Harvard Medical School and Brigham & Women's Hospital"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Interpolation",
+        "Mathematics",
+        "Template matching",
+        "Computer vision",
+        "Kriging",
+        "Pattern recognition",
+        "Vector field",
+        "Diffusion MRI",
+        "Scalar (physics)",
+        "Mathematical optimization",
+        "Polynomial",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1573048751",
+        "2035737465",
+        "2046269998"
+    ]
+}

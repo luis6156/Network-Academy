@@ -1,0 +1,35 @@
+{
+    "id": "1727416800",
+    "title": "BGR: blind geographic routing for sensor networks",
+    "venue": "workshop on intelligent solutions in embedded systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Matthias Witt",
+            "id": "2152918451",
+            "org": "Dept. of Telematics, Hamburg Univ. of Technol., Germany"
+        },
+        {
+            "name": "Volker Turau",
+            "id": "17064567",
+            "org": "Dept. of Telematics, Hamburg Univ. of Technol., Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Packet forwarding",
+        "Computer science",
+        "Key distribution in wireless sensor networks",
+        "Distributed computing",
+        "Triangular routing",
+        "Computer network",
+        "Geographic routing",
+        "Routing table",
+        "IP forwarding",
+        "Virtual routing and forwarding",
+        "Equal-cost multi-path routing"
+    ],
+    "references": [
+        "2079133215",
+        "2101963262"
+    ]
+}

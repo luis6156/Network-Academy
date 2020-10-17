@@ -1,0 +1,55 @@
+{
+    "id": "1567888865",
+    "title": "Herding hash functions and the nostradamus attack",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "National Institute of Standards and Technology#TAB#"
+        },
+        {
+            "name": "Tadayoshi Kohno",
+            "id": "2148790671",
+            "org": "CSE Department, UC San Diego#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Hash buster",
+        "Hash chain",
+        "Computer security",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "81015123",
+        "104228007",
+        "104980622",
+        "155049767",
+        "1493566387",
+        "1533007301",
+        "1533979572",
+        "1549228503",
+        "1590269592",
+        "1592109266",
+        "1600432225",
+        "1656731780",
+        "1939171670",
+        "2007585625",
+        "2008272678",
+        "2052267638",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2134518741",
+        "2135759164",
+        "2611506938"
+    ]
+}

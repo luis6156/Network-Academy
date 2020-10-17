@@ -1,0 +1,54 @@
+{
+    "id": "1586563142",
+    "title": "Key Agreement Using Statically Keyed Authenticators",
+    "venue": "applied cryptography and network security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Colin Boyd",
+            "id": "2142756370",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Wenbo Mao",
+            "id": "2111965902",
+            "org": "Stoke Gifford"
+        },
+        {
+            "name": "Kenneth G. Paterson",
+            "id": "2101835147",
+            "org": "Royal Holloway, University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Security parameter",
+        "Theoretical computer science",
+        "Authentication",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Shared secret",
+        "Computer security",
+        "Diffie-Hellman problem",
+        "Key-agreement protocol",
+        "Random oracle",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1502577962",
+        "1506423323",
+        "1518871948",
+        "1527077352",
+        "1542059364",
+        "1589586740",
+        "1637905077",
+        "1927099252",
+        "1974664062",
+        "2047241038",
+        "2052667569",
+        "2086042811",
+        "2153281696",
+        "2155852923",
+        "2397756951"
+    ]
+}

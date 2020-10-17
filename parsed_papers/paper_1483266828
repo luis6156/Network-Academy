@@ -1,0 +1,64 @@
+{
+    "id": "1483266828",
+    "title": "Public key encryption without random oracle made truly practical",
+    "venue": "international conference on information and communication security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Puwen Wei",
+            "id": "2135024915",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Yuliang Zheng",
+            "id": "2299933155",
+            "org": "Department of Software and Information Systems, University of North Carolina at Charlotte, Charlotte, NC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Random oracle"
+    ],
+    "references": [
+        "190291562",
+        "1489041988",
+        "1510154334",
+        "1551902067",
+        "1552695147",
+        "1561907855",
+        "1585389879",
+        "1589176872",
+        "1593454879",
+        "1607264302",
+        "1801447676",
+        "2002930326",
+        "2052207834",
+        "2052267638",
+        "2073210531",
+        "2101803085",
+        "2109365488",
+        "2114566024",
+        "2126878966",
+        "2146907493",
+        "2148959297",
+        "2149093588",
+        "2153971105",
+        "2165111290",
+        "2184811974",
+        "2403237970"
+    ]
+}

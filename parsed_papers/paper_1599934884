@@ -1,0 +1,43 @@
+{
+    "id": "1599934884",
+    "title": "Linear-Time Snapshot Using Multi-writer Multi-reader Registers",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michiko Inoue",
+            "id": "2697666887",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Wei Chen",
+            "id": "2638192063",
+            "org": "Nagoya Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Parallel computing",
+        "Linearizability",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Snapshot (computer storage)",
+        "Data structure"
+    ],
+    "references": [
+        "1544996722",
+        "1575692417",
+        "1993805917",
+        "1999787317",
+        "2037420952",
+        "2069172539",
+        "2079344171",
+        "2085407655",
+        "2101939036",
+        "2105336351",
+        "2107834524",
+        "2165761560",
+        "2294148481"
+    ]
+}

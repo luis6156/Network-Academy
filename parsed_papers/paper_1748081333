@@ -1,0 +1,37 @@
+{
+    "id": "1748081333",
+    "title": "Towards Efficient Second-Order Power Analysis",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jason Waddle",
+            "id": "2147145606",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Masking (art)",
+        "Cryptography",
+        "Generality",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Computer science",
+        "Computational complexity theory",
+        "Power analysis",
+        "Cryptosystem",
+        "Fast Fourier transform"
+    ],
+    "references": [
+        "1503689022",
+        "1569151289",
+        "2148862943",
+        "2154909745",
+        "2155938490"
+    ]
+}

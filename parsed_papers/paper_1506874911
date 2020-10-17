@@ -1,0 +1,39 @@
+{
+    "id": "1506874911",
+    "title": "Unconditionally Secure Digital Signatures",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "David Chaum",
+            "id": "2023685608",
+            "org": "Centre for Mathematics and Computer Science (CWI)"
+        },
+        {
+            "name": "Sandra Roijakkers",
+            "id": "2582366689",
+            "org": "Eindhoven University of Technology (TUE)"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Blind signature",
+        "Security parameter",
+        "Theoretical computer science",
+        "Computer science",
+        "Probability of error",
+        "Digital signature",
+        "Hash function",
+        "Schnorr signature",
+        "Ring signature"
+    ],
+    "references": [
+        "1496788055",
+        "1579966008",
+        "1589034595",
+        "1996360405",
+        "2087811006",
+        "2108834246",
+        "2156186849"
+    ]
+}

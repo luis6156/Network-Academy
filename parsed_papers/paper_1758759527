@@ -1,0 +1,44 @@
+{
+    "id": "1758759527",
+    "title": "A framework for chosen IV statistical analysis of stream ciphers",
+    "venue": "international conference on progress in cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Hakan Englund",
+            "id": "2072601230",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Sweden#TAB#"
+        },
+        {
+            "name": "Thomas Johansson",
+            "id": "2289389470",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Sweden#TAB#"
+        },
+        {
+            "name": "Meltem Sonmez Turan",
+            "id": "2659519157",
+            "org": "Institute of Applied Mathematics, METU, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Polynomial",
+        "Theoretical computer science",
+        "Algorithm",
+        "Keystream",
+        "Computer science",
+        "Truth table",
+        "Stream cipher",
+        "Initialization",
+        "Cube attack",
+        "Boolean function",
+        "Correlation attack"
+    ],
+    "references": [
+        "1528967698",
+        "1556597491",
+        "1777865687",
+        "1780696059",
+        "2151564283",
+        "2526305112"
+    ]
+}

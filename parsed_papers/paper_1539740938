@@ -1,0 +1,63 @@
+{
+    "id": "1539740938",
+    "title": "Twisted Edwards Curves Revisited",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Huseyin Hisil",
+            "id": "1174972607",
+            "org": "Information Security Institute, Queensland University of Technology, Australia QLD, 4000#TAB#"
+        },
+        {
+            "name": "Kenneth Koon-Ho Wong",
+            "id": "2115363323",
+            "org": "Information Security Institute, Queensland University of Technology, Australia QLD, 4000#TAB#"
+        },
+        {
+            "name": "Gary Carter",
+            "id": "2178822063",
+            "org": "Information Security Institute, Queensland University of Technology, Australia QLD, 4000#TAB#"
+        },
+        {
+            "name": "Ed Dawson",
+            "id": "2147948275",
+            "org": "Information Security Institute, Queensland University of Technology, Australia QLD, 4000#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Twisted Edwards curve",
+        "Edwards curve",
+        "Curve25519",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "25568184",
+        "144501919",
+        "1481078266",
+        "1483700347",
+        "1531102506",
+        "1537065876",
+        "1539482743",
+        "1548023999",
+        "1552918515",
+        "1561590459",
+        "1565589595",
+        "1592482282",
+        "1603321026",
+        "1838435525",
+        "2059326407",
+        "2096133993",
+        "2124649347",
+        "2134258244",
+        "2154290215",
+        "2401226964",
+        "2407881616"
+    ]
+}

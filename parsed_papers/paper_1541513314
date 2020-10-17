@@ -1,0 +1,86 @@
+{
+    "id": "1541513314",
+    "title": "Automatic Segmentation of Spinal Canals in CT Images via Iterative Topology Refinement",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Qian Wang",
+            "id": "2106287748",
+            "org": "Med-X Research Institute, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China"
+        },
+        {
+            "name": "Le Lu",
+            "id": "2119127965",
+            "org": "Radiology and Imaging Science, National Institutes of Health (NIH) Clinical Center, Bethesda, United States"
+        },
+        {
+            "name": "Dijia Wu",
+            "id": "2152029228",
+            "org": "Microsoft Corporation, Redmond, United States"
+        },
+        {
+            "name": "Noha Youssry El-Zehiry",
+            "id": "2136312138",
+            "org": "Siemens Corporate Research, Princeton, United States"
+        },
+        {
+            "name": "Yefeng Zheng",
+            "id": "2110607565",
+            "org": "Siemens Corporate Research, Princeton, United States"
+        },
+        {
+            "name": "Dinggang Shen",
+            "id": "2150708589",
+            "org": "Department of Radiology and BRIC, University of North Carolina at Chapel Hill, Chapel Hill, United States"
+        },
+        {
+            "name": "Kevin S. Zhou",
+            "id": "2131334490",
+            "org": "Siemens Corporate Research, Princeton, United States"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Segmentation",
+        "Computer vision",
+        "Image segmentation",
+        "Topology",
+        "Voxel",
+        "Scale-space segmentation",
+        "Solver",
+        "Boosting (machine learning)",
+        "Feature extraction",
+        "Segmentation-based object categorization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "104325171",
+        "132655277",
+        "1489079721",
+        "1500681480",
+        "1514207599",
+        "1591001867",
+        "1604154211",
+        "1979064019",
+        "2045782417",
+        "2046296065",
+        "2074395887",
+        "2082595705",
+        "2082849090",
+        "2087034030",
+        "2089128627",
+        "2103275591",
+        "2115763357",
+        "2121947440",
+        "2125637308",
+        "2129259959",
+        "2131602268",
+        "2133366724",
+        "2133537747",
+        "2143516773",
+        "2145803225",
+        "2146514558",
+        "2164598857"
+    ]
+}

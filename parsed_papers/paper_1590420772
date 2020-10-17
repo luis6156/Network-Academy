@@ -1,0 +1,53 @@
+{
+    "id": "1590420772",
+    "title": "Full-Round Differential Attack on the Original Version of the Hash Function Proposed at PKC'98",
+    "venue": "selected areas in cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2811407219",
+            "org": "Korea Information Security Agency(KISA)"
+        },
+        {
+            "name": "Soo Hak Sung",
+            "id": "2167045751",
+            "org": "Paichai University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Fowler-Noll-Vo hash function",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Quadratic probing",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1503725231",
+        "1542068190",
+        "1597600164",
+        "1767494015",
+        "1851023053",
+        "2095675261"
+    ]
+}

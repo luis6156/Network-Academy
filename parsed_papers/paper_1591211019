@@ -1,0 +1,114 @@
+{
+    "id": "1591211019",
+    "title": "Missing the Point(er): On the Effectiveness of Code Pointer Integrity",
+    "venue": "ieee symposium on security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Isaac Evans",
+            "id": "2105485507",
+            "org": "MIT CSAIL, Cambridge, MA, USA"
+        },
+        {
+            "name": "Sam Fingeret",
+            "id": "2231881487",
+            "org": "MIT Lincoln Lab., Lexington, MA, USA"
+        },
+        {
+            "name": "Julian Gonzalez",
+            "id": "2497065471",
+            "org": "MIT Lincoln Lab., Lexington, MA, USA"
+        },
+        {
+            "name": "Ulziibayar Otgonbaatar",
+            "id": "2231620975",
+            "org": "MIT Lincoln Lab., Lexington, MA, USA"
+        },
+        {
+            "name": "Tiffany Tang",
+            "id": "2100366950",
+            "org": "MIT Lincoln Lab., Lexington, MA, USA"
+        },
+        {
+            "name": "Howard E. Shrobe",
+            "id": "217108747",
+            "org": "MIT Lincoln Lab., Lexington, MA, USA"
+        },
+        {
+            "name": "Stelios Sidiroglou-Douskos",
+            "id": "129671300",
+            "org": "MIT Lincoln Lab., Lexington, MA, USA"
+        },
+        {
+            "name": "Martin C. Rinard",
+            "id": "343541395",
+            "org": "MIT Lincoln Lab., Lexington, MA, USA"
+        },
+        {
+            "name": "Hamed Okhravi",
+            "id": "2206599045",
+            "org": "MIT CSAIL, Cambridge, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Data Protection Act 1998",
+        "Pointer (computer programming)",
+        "Memory safety",
+        "Computer science",
+        "Implementation",
+        "Computer security",
+        "Exploit",
+        "Memory corruption",
+        "Real-time computing",
+        "Memory leak",
+        "Information hiding"
+    ],
+    "references": [
+        "1112477",
+        "93148174",
+        "164984320",
+        "1495630617",
+        "1605557845",
+        "1631846088",
+        "1688518862",
+        "1823377586",
+        "1825457006",
+        "1826158585",
+        "1878544538",
+        "1904738922",
+        "1963947298",
+        "1969501726",
+        "1982778414",
+        "1987898580",
+        "1996931407",
+        "2001162307",
+        "2003619630",
+        "2009801020",
+        "2020841721",
+        "2022292029",
+        "2034144210",
+        "2036853599",
+        "2042856445",
+        "2065870474",
+        "2098010707",
+        "2109219878",
+        "2111927651",
+        "2117798902",
+        "2121579803",
+        "2122757982",
+        "2123022206",
+        "2124360577",
+        "2132806808",
+        "2134633067",
+        "2138517425",
+        "2140611647",
+        "2154555738",
+        "2155810272",
+        "2156858199",
+        "2159216827",
+        "2162800072",
+        "2163718073",
+        "2168843528",
+        "2171264329"
+    ]
+}

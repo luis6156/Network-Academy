@@ -1,0 +1,64 @@
+{
+    "id": "1428255035",
+    "title": "Cryptanalysis of reduced-round KLEIN block cipher",
+    "venue": "international conference on information security and cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Xiaoli Yu",
+            "id": "2303611080",
+            "org": "State Key Laboratory of Information Security,Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China,Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security,Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yanjun Li",
+            "id": "2166923499",
+            "org": "State Key Laboratory of Information Security,Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2641770497",
+            "org": "State Key Laboratory of Information Security,Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Block cipher",
+        "Round function",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Advanced Encryption Standard",
+        "Combinatorics",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "45372631",
+        "1490106672",
+        "1500584382",
+        "1501856114",
+        "1511842436",
+        "1512497838",
+        "1522919234",
+        "1542121656",
+        "1556212265",
+        "1568817903",
+        "1575062508",
+        "1581134854",
+        "1587120902",
+        "1596841000",
+        "1607874478",
+        "1894646615",
+        "1897454360",
+        "2109265351",
+        "2161571881",
+        "2234576048",
+        "2247832471",
+        "2612507208"
+    ]
+}

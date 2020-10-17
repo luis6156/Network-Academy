@@ -1,0 +1,51 @@
+{
+    "id": "1556523051",
+    "title": "Adaptive Long-Lived O(k2)-Renaming with O(k2) Steps",
+    "venue": "international symposium on distributed computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Michiko Inoue",
+            "id": "2110109903",
+            "org": "Nara Institute of Science and Technology (NAIST)"
+        },
+        {
+            "name": "Shinya Umetani",
+            "id": "2106888110",
+            "org": "Nara Institute of Science and Technology (NAIST)"
+        },
+        {
+            "name": "Toshimitsu Masuzawa",
+            "id": "2075504009",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Hideo Fujiwara",
+            "id": "2097494134",
+            "org": "Nara Institute of Science and Technology (NAIST)"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Average-case complexity",
+        "Shared memory",
+        "Discrete mathematics",
+        "Bounded function",
+        "Rabin-Karp algorithm",
+        "Adaptive algorithm",
+        "Freivalds' algorithm",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1967980352",
+        "1996313988",
+        "2039113664",
+        "2044657757",
+        "2070832726",
+        "2077437089",
+        "2085407655",
+        "2114420741",
+        "2124525591"
+    ]
+}

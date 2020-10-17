@@ -1,0 +1,54 @@
+{
+    "id": "1564278416",
+    "title": "Co-training Using Prosodic and Lexical Information for Sentence Segmentation",
+    "venue": "conference of the international speech communication association",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Umit Guz",
+            "id": "1505940125",
+            "org": "University of California, Berkeley"
+        },
+        {
+            "name": "Sebastien Cuendet",
+            "id": "2692320211",
+            "org": "University of California, Berkeley"
+        },
+        {
+            "name": "Dilek Hakkani-Tur",
+            "id": "2090472531",
+            "org": "University of California, Berkeley"
+        },
+        {
+            "name": "Gokhan Tur",
+            "id": "2134234984",
+            "org": "SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Disjoint sets",
+        "Satisfiability",
+        "Pattern recognition",
+        "Computer science",
+        "Co-training",
+        "Sentence",
+        "Prosody",
+        "Speech recognition",
+        "Boosting (machine learning)",
+        "Labeled data",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1504308419",
+        "1505796919",
+        "2037603696",
+        "2048679005",
+        "2088907244",
+        "2139828426",
+        "2166240750",
+        "2426479676",
+        "2883783597"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1582279644",
+    "title": "Risk Assessment of Buffer \"Heartbleed\" Over-Read Vulnerabilities",
+    "venue": "dependable systems and networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jun Wang",
+            "id": "2663167648",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        },
+        {
+            "name": "Mingyi Zhao",
+            "id": "2104023260",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        },
+        {
+            "name": "Qiang Zeng",
+            "id": "2251003839",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        },
+        {
+            "name": "Dinghao Wu",
+            "id": "2106073932",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        },
+        {
+            "name": "Peng Liu",
+            "id": "2428201908",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Risk assessment",
+        "Risk management",
+        "Vulnerability",
+        "Reliability engineering",
+        "Computer science",
+        "Vulnerability management",
+        "Heartbleed",
+        "Buffer overflow",
+        "Information leakage",
+        "Bounds checking"
+    ],
+    "references": [
+        "1499992849",
+        "1504976174",
+        "1514794536",
+        "1579850852",
+        "1655226010",
+        "1736607886",
+        "1907867776",
+        "2010990718",
+        "2075569702",
+        "2097990218",
+        "2101171610",
+        "2108104925",
+        "2112736324",
+        "2132334337",
+        "2136938453",
+        "2140611647",
+        "2150115633",
+        "2171938395"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1528365302",
+    "title": "A centralized monitoring infrastructure for improving DNS security",
+    "venue": "recent advances in intrusion detection",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Manos Antonakakis",
+            "id": "321442596",
+            "org": "Georgia Institute of Technology, College of Computing, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "David Dagon",
+            "id": "2792999037",
+            "org": "Georgia Institute of Technology, College of Computing, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Xiapu Luo",
+            "id": "2139554617",
+            "org": "Georgia Institute of Technology, College of Computing, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Roberto Perdisci",
+            "id": "140829034",
+            "org": "Georgia Institute of Technology, College of Computing, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Wenke Lee",
+            "id": "2155626625",
+            "org": "Georgia Institute of Technology, College of Computing, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Justin Bellmor",
+            "id": "2280720273",
+            "org": "Georgia Institute of Technology, College of Computing, Atlanta, GA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Local area network",
+        "Computer science",
+        "Ground truth",
+        "Computer security",
+        "Server",
+        "Real-time computing",
+        "Upgrade",
+        "Round-robin DNS",
+        "DNS spoofing"
+    ],
+    "references": [
+        "155384935",
+        "1543512222",
+        "1581184532",
+        "1996497509",
+        "2097981871",
+        "2151077395",
+        "2161954933",
+        "2167370920",
+        "2341242298"
+    ]
+}

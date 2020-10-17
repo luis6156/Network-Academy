@@ -1,0 +1,63 @@
+{
+    "id": "1526682349",
+    "title": "Fast multiple organ detection and localization in whole-body MR Dixon sequences",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Olivier Pauly",
+            "id": "322460595",
+            "org": "Computer Aided Medical Procedures, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Ben Glocker",
+            "id": "1865420375",
+            "org": "Microsoft Research Ltd., Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Antonio Criminisi",
+            "id": "102275141",
+            "org": "Microsoft Research Ltd., Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Diana Mateus",
+            "id": "2120884876",
+            "org": "Computer Aided Medical Procedures, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Axel Martinez Moller",
+            "id": "2370954883",
+            "org": "Nuklearmedizin, Klinikum Rechts der Isar, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Stephan G. Nekolla",
+            "id": "2009184607",
+            "org": "Nuklearmedizin, Klinikum Rechts der Isar, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Nassir Navab",
+            "id": "572302453",
+            "org": "Computer Aided Medical Procedures, Technische Universitat Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Random forest",
+        "Correction for attenuation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Ground truth",
+        "Robustness (computer science)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1573412753",
+        "1590690596",
+        "1971616954",
+        "2039051707",
+        "2101689475",
+        "2107079101",
+        "2136000821",
+        "2137401668"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1600903505",
+    "title": "On fast verification of hash chains",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dae Hyun Yum",
+            "id": "2303292806",
+            "org": "Information Security Lab, POSTECH, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Jin Seok Kim",
+            "id": "2272771832",
+            "org": "High Performance Computing Lab, POSTECH, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Pil Joong Lee",
+            "id": "2139910894",
+            "org": "Information Security Lab, POSTECH, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Sung Je Hong",
+            "id": "2156544953",
+            "org": "High Performance Computing Lab, POSTECH, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Fowler-Noll-Vo hash function",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash chain",
+        "Quadratic probing",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Collision resistance"
+    ],
+    "references": [
+        "1516873380",
+        "1524596507",
+        "1543324900",
+        "1566105767",
+        "1603141861",
+        "1639145229",
+        "2052267638",
+        "2067514565",
+        "2099817583",
+        "2130459259",
+        "2131994112",
+        "2138644571",
+        "2157283388",
+        "2774071578"
+    ]
+}

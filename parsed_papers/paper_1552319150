@@ -1,0 +1,45 @@
+{
+    "id": "1552319150",
+    "title": "On bruteforce-like cryptanalysis: new meet-in-the-middle attacks in symmetric cryptanalysis",
+    "venue": "international conference on information security and cryptology",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Christian Rechberger",
+            "id": "2607524346",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Piling-up lemma",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "96390377",
+        "1510442823",
+        "1515595447",
+        "1530387410",
+        "1553792294",
+        "1566855226",
+        "1599175145",
+        "1603433154",
+        "1814882979",
+        "1838677899",
+        "1991374982",
+        "2096218735",
+        "2109766996",
+        "2130087229",
+        "2153971105",
+        "2177399963",
+        "2414878984"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1509414247",
+    "title": "Consecutive S-box lookups: a timing attack on SNOW 3G",
+    "venue": "international conference on information and communication security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Billy Bob Brumley",
+            "id": "2035028465",
+            "org": "Aalto University School of Science and Technology, Finland#TAB#"
+        },
+        {
+            "name": "Risto M. Hakala",
+            "id": "2582619629",
+            "org": "Aalto University School of Science and Technology, Finland#TAB#"
+        },
+        {
+            "name": "Kaisa Nyberg",
+            "id": "2152819472",
+            "org": "Aalto University School of Science and Technology, Finland and Nokia Research Center, Finland#TAB#"
+        },
+        {
+            "name": "Sampo Sovio",
+            "id": "706172856",
+            "org": "Nokia Research Center, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cipher",
+        "Running key cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Triple DES",
+        "Computer network"
+    ],
+    "references": [
+        "95027592",
+        "180488756",
+        "1488058190",
+        "1499906440",
+        "1523982624",
+        "1548516269",
+        "1564532940",
+        "1603169531",
+        "1821583647",
+        "1850432139",
+        "1883830449",
+        "1998955763",
+        "2172632525"
+    ]
+}

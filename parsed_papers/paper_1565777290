@@ -1,0 +1,44 @@
+{
+    "id": "1565777290",
+    "title": "Description of a naming architecture managing cryptographic identifiers",
+    "venue": "ip operations and management",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Daniel Migault",
+            "id": "2306397516",
+            "org": "France Telecom R&D#TAB#"
+        },
+        {
+            "name": "Marcus Brunner",
+            "id": "2804370836",
+            "org": "NEC Europe Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Static routing",
+        "Locator/Identifier Separation Protocol",
+        "Computer science",
+        "Distributed computing",
+        "Host Identity Protocol",
+        "Computer network",
+        "Dynamic Source Routing",
+        "Enhanced Interior Gateway Routing Protocol",
+        "Policy-based routing",
+        "Routing table",
+        "IPv6 address"
+    ],
+    "references": [
+        "1494946454",
+        "1497412888",
+        "1595293129",
+        "1671218426",
+        "1828150029",
+        "2083158002",
+        "2111427271",
+        "2118428193",
+        "2156236893",
+        "2158049821",
+        "2775693717"
+    ]
+}

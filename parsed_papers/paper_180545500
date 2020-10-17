@@ -1,0 +1,85 @@
+{
+    "id": "180545500",
+    "title": "Latent hough transform for object detection",
+    "venue": "european conference on computer vision",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Nima Razavi",
+            "id": "1970578024",
+            "org": "Computer Vision Laboratory, ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Juergen Gall",
+            "id": "2275887715",
+            "org": "Preceiving Systems Department, MPI for Intelligent Systems, Germany#TAB#"
+        },
+        {
+            "name": "Pushmeet Kohli",
+            "id": "2141745054",
+            "org": "Microsoft Research Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Luc Van Gool",
+            "id": "2103920730",
+            "org": "Computer Vision Laboratory, ETH Zurich, Switzerland,IBBT/ESAT-PSI, K.U. Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linearity",
+        "Mathematics",
+        "Latent variable",
+        "Feature (computer vision)",
+        "Training set",
+        "Computer vision",
+        "Object detection",
+        "Pattern recognition",
+        "Scale-invariant feature transform",
+        "Hough transform",
+        "Latent variable model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1576725826",
+        "1597421340",
+        "1601268288",
+        "1777102342",
+        "1965865731",
+        "1977470347",
+        "1989684337",
+        "1994529670",
+        "1995444699",
+        "1999055853",
+        "2031489346",
+        "2037511607",
+        "2056033227",
+        "2065583480",
+        "2086618980",
+        "2098838628",
+        "2106255337",
+        "2111617188",
+        "2115313253",
+        "2122146039",
+        "2125337786",
+        "2128942651",
+        "2131225894",
+        "2134731454",
+        "2135132101",
+        "2138888327",
+        "2139132221",
+        "2141357020",
+        "2144409879",
+        "2144459347",
+        "2153185908",
+        "2154422044",
+        "2161567010",
+        "2161969291",
+        "2163352848",
+        "2165181841",
+        "2168356304",
+        "2171188998",
+        "2536349189",
+        "2538008885"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1555244589",
+    "title": "Fault-tolerant message routing for multiprocessors",
+    "venue": "international parallel processing symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Lev Zakrevski",
+            "id": "35039363",
+            "org": "Boston University, Department of Computer Engineering"
+        },
+        {
+            "name": "Mark G. Karpovsky",
+            "id": "241114161",
+            "org": "Boston University, Department of Computer Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "Multipath routing",
+        "Static routing",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic Source Routing",
+        "Link-state routing protocol",
+        "Destination-Sequenced Distance Vector routing",
+        "Geographic routing",
+        "Wireless Routing Protocol",
+        "Routing table"
+    ],
+    "references": [
+        "108845129",
+        "1893842268",
+        "2109594420",
+        "2119677481",
+        "2119922166",
+        "2123512296",
+        "2130183852",
+        "2148323349",
+        "2154323564"
+    ]
+}

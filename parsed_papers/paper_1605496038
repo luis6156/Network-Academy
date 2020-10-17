@@ -1,0 +1,73 @@
+{
+    "id": "1605496038",
+    "title": "Secretly monopolizing the CPU without superuser privileges",
+    "venue": "usenix security symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Dan Tsafrir",
+            "id": "332355769",
+            "org": "School of Computer Science and Engineering, The Hebrew University, Jerusalem, Israel and IBM T. J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Yoav Etsion",
+            "id": "340749550",
+            "org": "School of Computer Science and Engineering, The Hebrew University, Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Dror G. Feitelson",
+            "id": "2137277626",
+            "org": "School of Computer Science and Engineering, The Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rootkit",
+        "Pre-play attack",
+        "Idle",
+        "Computer science",
+        "Computer security",
+        "Cheating",
+        "Central processing unit",
+        "Adversary",
+        "Superuser",
+        "CPU time"
+    ],
+    "references": [
+        "1491103366",
+        "1498585374",
+        "1572793278",
+        "1576501285",
+        "1598001232",
+        "1679685803",
+        "1905924673",
+        "1965083312",
+        "1968954610",
+        "1995743905",
+        "2012549717",
+        "2031006315",
+        "2047226031",
+        "2050091727",
+        "2050291630",
+        "2080832564",
+        "2100792372",
+        "2102298648",
+        "2102362134",
+        "2103363198",
+        "2105433320",
+        "2112168774",
+        "2112190615",
+        "2117882778",
+        "2121835426",
+        "2123768754",
+        "2127245553",
+        "2130583399",
+        "2134633067",
+        "2139250332",
+        "2150776253",
+        "2153848178",
+        "2158390457",
+        "2160524070",
+        "2165423885",
+        "2167196718"
+    ]
+}

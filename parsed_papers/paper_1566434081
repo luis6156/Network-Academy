@@ -1,0 +1,65 @@
+{
+    "id": "1566434081",
+    "title": "Replica Consistency in Lazy Master Replicated Databases",
+    "venue": "Distributed and Parallel Databases",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Esther Pacitti",
+            "id": "2620096291",
+            "org": "NCE-UFRJ Rio de Janeiro, Brazil#TAB#"
+        },
+        {
+            "name": "Pascale Minet",
+            "id": "1600059092",
+            "org": "INRIA Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Eric Simon",
+            "id": "2148925497",
+            "org": "INRIA Rocquencourt, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Data warehouse",
+        "Replica",
+        "Commit",
+        "Computer science",
+        "Distributed computing",
+        "Data mart",
+        "Database",
+        "Correctness",
+        "Synchronization",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1488169398",
+        "1501265984",
+        "1509331070",
+        "1515932031",
+        "1520400297",
+        "1535895982",
+        "1574320195",
+        "1588270958",
+        "1595234309",
+        "1833823679",
+        "1934227118",
+        "2008394874",
+        "2012670464",
+        "2044594838",
+        "2072764742",
+        "2080653282",
+        "2097394356",
+        "2098534118",
+        "2111586962",
+        "2117260615",
+        "2126356880",
+        "2131165411",
+        "2132410967",
+        "2151775459",
+        "2159853829",
+        "2165172064"
+    ]
+}

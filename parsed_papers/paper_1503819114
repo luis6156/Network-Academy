@@ -1,0 +1,47 @@
+{
+    "id": "1503819114",
+    "title": "Optimistic Concurrency Control for Maintaining the Global Integrity Constraint in MDBSs",
+    "venue": "Proceedings of the IFIP TC11 Working Group 11.5, First Working Conference on Integrity and Internal Control in Information Systems: Increasing the confidence in Information Systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kyuwoong Lee",
+            "id": "2145146440",
+            "org": "Sogang Univ."
+        },
+        {
+            "name": "Seog Park",
+            "id": "2148457208",
+            "org": "Sogang Univ."
+        }
+    ],
+    "fields_of_study": [
+        "Commitment ordering",
+        "Schedule (computer science)",
+        "Serializability",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Business",
+        "Distributed transaction",
+        "Global serializability",
+        "Two-phase locking",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1501265984",
+        "1545155892",
+        "1559896221",
+        "1967608956",
+        "1987873680",
+        "2048101474",
+        "2130888794",
+        "2137825655",
+        "2138618491",
+        "2148199530",
+        "2151077968",
+        "2151335884",
+        "2164468195",
+        "2166565804"
+    ]
+}

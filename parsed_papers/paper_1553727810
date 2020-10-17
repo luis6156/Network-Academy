@@ -1,0 +1,45 @@
+{
+    "id": "1553727810",
+    "title": "The Design for a High-Performance MPI Implementation on the Myrinet Network",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Loic Prylli",
+            "id": "669904135",
+            "org": "ENS-Lyon"
+        },
+        {
+            "name": "Bernard Tourancheau",
+            "id": "228276202",
+            "org": "ISTIL UCB-Lyon"
+        },
+        {
+            "name": "Roland Westrelin",
+            "id": "120691778",
+            "org": "ISTIL UCB-Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Software",
+        "MPICH",
+        "Computer science",
+        "Myrinet",
+        "Latency (engineering)",
+        "Systems architecture",
+        "Workstation"
+    ],
+    "references": [
+        "1521734293",
+        "2065414935",
+        "2081612620",
+        "2091798192",
+        "2095793442",
+        "2099905360",
+        "2147602718",
+        "2154207621",
+        "2155066383"
+    ]
+}

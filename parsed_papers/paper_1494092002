@@ -1,0 +1,50 @@
+{
+    "id": "1494092002",
+    "title": "An implementation of a service class providing assured TCP rates within the AQUILA framework",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Christof Brandauer",
+            "id": "2019261827",
+            "org": "Salzburg Research, Salzburg, Austria#TAB#"
+        },
+        {
+            "name": "Peter Dorfinger",
+            "id": "239888040",
+            "org": "Salzburg Research, Salzburg, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Zeta-TCP",
+        "Computer science",
+        "Token bucket",
+        "Quality of service",
+        "Network architecture",
+        "Edge device",
+        "Real-time computing",
+        "Active queue management",
+        "Leaky bucket"
+    ],
+    "references": [
+        "1524701752",
+        "1549423009",
+        "1981903687",
+        "2022828587",
+        "2050489767",
+        "2096077397",
+        "2099851280",
+        "2101917791",
+        "2116622267",
+        "2121291720",
+        "2122185210",
+        "2124478678",
+        "2124920704",
+        "2127129793",
+        "2156639545",
+        "2158733823",
+        "2159380618",
+        "2286787740"
+    ]
+}

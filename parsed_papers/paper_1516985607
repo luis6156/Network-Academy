@@ -1,0 +1,38 @@
+{
+    "id": "1516985607",
+    "title": "Semantic Analyzer of Modula-Programs",
+    "venue": "static analysis symposium",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Pavel G. Emelianov",
+            "id": "2467199768",
+            "org": "Lab. of Mixed Computations, Institute of Informatics Systems, Novosibirsk, Russia"
+        },
+        {
+            "name": "Danil E. Baburin",
+            "id": "2571684012",
+            "org": "Dep. of Mathematics and Mechanics, Novosibirsk State University, Novosibirsk, Russia"
+        }
+    ],
+    "fields_of_study": [
+        "Modula",
+        "Control flow graph",
+        "Spectrum analyzer",
+        "Science education",
+        "Theoretical computer science",
+        "Computer science",
+        "Abstract interpretation",
+        "Context-free grammar",
+        "Programming language"
+    ],
+    "references": [
+        "1526619182",
+        "1559539950",
+        "1726736548",
+        "2043100293",
+        "2084875723",
+        "2102440514",
+        "2157660637"
+    ]
+}

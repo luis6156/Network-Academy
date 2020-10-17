@@ -1,0 +1,45 @@
+{
+    "id": "1494494131",
+    "title": "Local-Spin Group Mutual Exclusion Algorithms",
+    "venue": "international symposium on distributed computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Robert Danek",
+            "id": "1988475451",
+            "org": "IBM Toronto Lab"
+        },
+        {
+            "name": "Vassos Hadzilacos",
+            "id": "189416989",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Critical section",
+        "Algorithm",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Cache coherence",
+        "Multiprocessing",
+        "Distributed shared memory",
+        "Asymptotically optimal algorithm",
+        "Virtual memory"
+    ],
+    "references": [
+        "1510877565",
+        "1973537074",
+        "2001738739",
+        "2054278856",
+        "2054987727",
+        "2056266125",
+        "2056740525",
+        "2060115171",
+        "2087801709",
+        "2105637075",
+        "2141927253",
+        "2170523074"
+    ]
+}

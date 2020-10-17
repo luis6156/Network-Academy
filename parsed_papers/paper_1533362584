@@ -1,0 +1,39 @@
+{
+    "id": "1533362584",
+    "title": "Remark on the threshold RSA signature scheme",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Chuan-Ming Li",
+            "id": "2154084244",
+            "org": "National Cheng-Kung Univ., Tainan, Taiwan#TAB#"
+        },
+        {
+            "name": "Tzonelih Hwang",
+            "id": "2128783725",
+            "org": "National Cheng-Kung Univ., Tainan, Taiwan#TAB#"
+        },
+        {
+            "name": "Narn-Yih Lee",
+            "id": "2104891742",
+            "org": "National Cheng-Kung Univ., Tainan, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1607430658",
+        "2005571213",
+        "2012857639",
+        "2141420453"
+    ]
+}

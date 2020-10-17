@@ -1,0 +1,38 @@
+{
+    "id": "1519593595",
+    "title": "XP with acceptance-test driven development: a rewrite project for a resource optimization system",
+    "venue": "international conference on software engineering",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Johan Andersson",
+            "id": "2232988951",
+            "org": "Carmen Systems AB, Odinsgatan, Goteborg, Sweden#TAB#"
+        },
+        {
+            "name": "Geoff Bache",
+            "id": "2065849421",
+            "org": "Carmen Systems AB, Odinsgatan, Goteborg, Sweden#TAB#"
+        },
+        {
+            "name": "Peter Sutton",
+            "id": "1978103244",
+            "org": "Carmen Systems AB, Odinsgatan, Goteborg, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pair programming",
+        "Wish",
+        "Acceptance testing",
+        "Computer science",
+        "Teamwork",
+        "Unit testing",
+        "Systems engineering",
+        "Extreme programming",
+        "Test-driven development",
+        "Legacy system"
+    ],
+    "references": [
+        "16534291"
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": "1514625775",
+    "title": "Toward Better Simulation of MPI Applications on Ethernet/TCP Networks",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Paul Bedaride",
+            "id": "76655222",
+            "org": "Loria/INRIA/University of Nancy"
+        },
+        {
+            "name": "Augustin Degomme",
+            "id": "1052206933",
+            "org": "CNRS/INRIA/University of Grenoble"
+        },
+        {
+            "name": "Stephane Genaud",
+            "id": "2776045881",
+            "org": "University of Strasbourg"
+        },
+        {
+            "name": "Arnaud Legrand",
+            "id": "2099286509",
+            "org": "CNRS/INRIA/University of Grenoble"
+        },
+        {
+            "name": "George S. Markomanolis",
+            "id": "1990272237",
+            "org": "INRIA, LIP, ENS Lyon"
+        },
+        {
+            "name": "Martin Quinson",
+            "id": "2780748273",
+            "org": "Loria/INRIA/University of Nancy"
+        },
+        {
+            "name": "Mark Stillwell",
+            "id": "2109208125",
+            "org": "Cranfield University"
+        },
+        {
+            "name": "Frederic Suter",
+            "id": "2158063170",
+            "org": "IN2P3 Computing Center, CNRS"
+        },
+        {
+            "name": "Brice Videau",
+            "id": "2028010801",
+            "org": "CNRS/INRIA/University of Grenoble"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Profiling (computer programming)",
+        "Parallel computing",
+        "MPICH",
+        "Computer science",
+        "Distributed computing",
+        "TOP500",
+        "Network model",
+        "Shadow",
+        "Performance prediction",
+        "Ethernet"
+    ],
+    "references": [
+        "207051584",
+        "1568736435",
+        "1971184916",
+        "1991732708",
+        "1992835396",
+        "2006240087",
+        "2013769473",
+        "2016262285",
+        "2025228169",
+        "2029023406",
+        "2033587324",
+        "2042120213",
+        "2096385147",
+        "2102061396",
+        "2107749816",
+        "2111364199",
+        "2111693532",
+        "2116230556",
+        "2123892206",
+        "2127823979",
+        "2131613942",
+        "2135002184",
+        "2136434791",
+        "2136492259",
+        "2142535572",
+        "2150412589",
+        "2154298802",
+        "2154731982",
+        "2159583675",
+        "2163404313",
+        "2164575564",
+        "2165224527",
+        "2169631286"
+    ]
+}

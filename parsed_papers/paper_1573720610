@@ -1,0 +1,51 @@
+{
+    "id": "1573720610",
+    "title": "B model abstraction combining syntactic and semantic methods",
+    "venue": "abstract state machines alloy b and z",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jacques Julliand",
+            "id": "2043257109",
+            "org": "LIFC, Universite de Franche-Comte, Besancon Cedex#TAB#"
+        },
+        {
+            "name": "Nicolas Stouls",
+            "id": "1501866473",
+            "org": "Universite de Lyon, INRIA, INSA-Lyon, CITI, Villeurbanne, France#TAB#"
+        },
+        {
+            "name": "Pierre-Christophe Bue",
+            "id": "2050863389",
+            "org": "LIFC, Universite de Franche-Comte, Besancon Cedex#TAB#"
+        },
+        {
+            "name": "Pierre-Alain Masson",
+            "id": "1969700822",
+            "org": "LIFC, Universite de Franche-Comte, Besancon Cedex#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model-based testing",
+        "Theoretical computer science",
+        "State variable",
+        "Abstraction inversion",
+        "Computer science",
+        "State space",
+        "Transition system",
+        "Abstraction",
+        "Model checking",
+        "Abstraction model checking"
+    ],
+    "references": [
+        "1497571013",
+        "1590336223",
+        "1594722104",
+        "1599210792",
+        "1608087281",
+        "1695437353",
+        "1808580109",
+        "2031111226",
+        "2080593426"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "1268450243",
+    "title": "Energy-efficient task scheduling for multi-core platforms with per-core DVFS",
+    "venue": "Journal of Parallel and Distributed Computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ching-Chi Lin",
+            "id": "2648366218",
+            "org": "10617 1, Section 4, Roosevelt Road, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "You-Cheng Syu",
+            "id": "2244639670",
+            "org": "10617 1, Section 4, Roosevelt Road, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Chao-Jui Chang",
+            "id": "2530264168",
+            "org": "10617 1, Section 4, Roosevelt Road, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Jan-Jan Wu",
+            "id": "2125232947",
+            "org": "11529 128, Section 2, Academia Road, Nankang, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Pangfeng Liu",
+            "id": "2197082444",
+            "org": "10617 1, Section 4, Roosevelt Road, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Po-Wen Cheng",
+            "id": "2119877670",
+            "org": "31040 195, Section 4, Chung Hsing Road, Chutung, Hsinchu, Taiwan#TAB#"
+        },
+        {
+            "name": "Wei-Te Hsu",
+            "id": "2671541753",
+            "org": "31040 195, Section 4, Chung Hsing Road, Chutung, Hsinchu, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Multi-core processor",
+        "Batch processing",
+        "Computer science",
+        "Distributed computing",
+        "Frequency scaling",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Heuristic (computer science)",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1563048602",
+        "1747612368",
+        "1986800449",
+        "2022939529",
+        "2025397485",
+        "2028459234",
+        "2028945515",
+        "2036908209",
+        "2042556025",
+        "2048730512",
+        "2060978628",
+        "2099961254",
+        "2103490867",
+        "2108583424",
+        "2111963247",
+        "2132114163",
+        "2137676590",
+        "2138779116",
+        "2139893873",
+        "2140239028",
+        "2152696988",
+        "2153066698"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": "1480977056",
+    "title": "Balancing the load across virtual links from virtual machine requests in Distributed Clouds",
+    "venue": "integrated network management",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Glauco Estacio Goncalves",
+            "id": "2100809125",
+            "org": "Networking & Telecommun. Res. Group (GPRT), Fed. Univ. of Pernambuco (UFPE), Recife, Brazil"
+        },
+        {
+            "name": "Andre Vitor de Almeida Palhares",
+            "id": "2304827584",
+            "org": "Networking & Telecommun. Res. Group (GPRT), Fed. Univ. of Pernambuco (UFPE), Recife, Brazil"
+        },
+        {
+            "name": "Marcelo Anderson Santos",
+            "id": "2102401638",
+            "org": "Networking & Telecommun. Res. Group (GPRT), Fed. Univ. of Pernambuco (UFPE), Recife, Brazil"
+        },
+        {
+            "name": "Patricia Takako Endo",
+            "id": "2103516920",
+            "org": "Networking & Telecommun. Res. Group (GPRT), Fed. Univ. of Pernambuco (UFPE), Recife, Brazil"
+        },
+        {
+            "name": "Judith Kelner",
+            "id": "2061116030",
+            "org": "Networking & Telecommun. Res. Group (GPRT), Fed. Univ. of Pernambuco (UFPE), Recife, Brazil"
+        },
+        {
+            "name": "Djamel Sadok",
+            "id": "2013947891",
+            "org": "Networking & Telecommun. Res. Group (GPRT), Fed. Univ. of Pernambuco (UFPE), Recife, Brazil"
+        }
+    ],
+    "fields_of_study": [
+        "Virtual network",
+        "Virtual machine",
+        "Kernel virtual address space",
+        "Distributed computing",
+        "Virtual circuit",
+        "Computer science",
+        "Server",
+        "Computer network",
+        "Temporal isolation among virtual machines",
+        "Cloud computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "148964820",
+        "2013991076",
+        "2027588582",
+        "2101644841",
+        "2110636406",
+        "2142547489",
+        "2148103387",
+        "2161965229",
+        "2167776925"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1039217118",
+    "title": "GLES: A Practical GPGPU Optimizing Compiler Using Data Sharing and Thread Coarsening",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Zhen Lin",
+            "id": "2719460016",
+            "org": "Beihang University"
+        },
+        {
+            "name": "Xiaopeng Gao",
+            "id": "2672013396",
+            "org": "Beihang University"
+        },
+        {
+            "name": "Han Wan",
+            "id": "2773258199",
+            "org": "Beihang University"
+        },
+        {
+            "name": "Bo Jiang",
+            "id": "2684197051",
+            "org": "Beihang University"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "Exploit",
+        "Computer science",
+        "Compiler",
+        "Graphics processing unit",
+        "Granularity",
+        "Optimizing compiler",
+        "CUDA",
+        "General-purpose computing on graphics processing units"
+    ],
+    "references": [
+        "73145541",
+        "1537323515",
+        "1782174992",
+        "1987304299",
+        "1994316441",
+        "2013173369",
+        "2016888570",
+        "2017579069",
+        "2077143534",
+        "2080236984",
+        "2110195531",
+        "2116963870",
+        "2124021916",
+        "2126026097",
+        "2129232868",
+        "2170634604"
+    ]
+}

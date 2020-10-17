@@ -1,0 +1,47 @@
+{
+    "id": "1547678654",
+    "title": "JCOD: A Lightweight Modular Compilation Technology for Embedded Java",
+    "venue": "embedded software",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Bertrand Delsart",
+            "id": "2558814280",
+            "org": "Silicomp Research Institute"
+        },
+        {
+            "name": "Vania Joloboff",
+            "id": "2618889040",
+            "org": "Silicomp Research Institute"
+        },
+        {
+            "name": "Eric Paire",
+            "id": "2503279335",
+            "org": "Silicomp Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Compile time",
+        "Computer science",
+        "Compiler",
+        "Bytecode",
+        "Machine code",
+        "Distributed computing",
+        "Embedded Java",
+        "Real-time computing",
+        "Program optimization",
+        "Modular design"
+    ],
+    "references": [
+        "1506942559",
+        "1508742040",
+        "1532050892",
+        "1555634152",
+        "2030281933",
+        "2050289144",
+        "2076612761",
+        "2127890955",
+        "2155651624"
+    ]
+}

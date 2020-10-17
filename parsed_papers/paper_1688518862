@@ -1,0 +1,77 @@
+{
+    "id": "1688518862",
+    "title": "Efficient removal of random delays from embedded software implementations using hidden markov models",
+    "venue": "smart card research and advanced application conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Francois Durvaux",
+            "id": "2009736051",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Mathieu Renauld",
+            "id": "2091924704",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Loic van Oldeneel tot Oldenzeel",
+            "id": "2028284665",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Nicolas Veyrat-Charvillon",
+            "id": "315100061",
+            "org": "ICTEAM/ELEN/Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Microcontroller",
+        "Countermeasure",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Embedded software",
+        "Hidden Markov model",
+        "Viterbi decoder",
+        "Viterbi algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "108606907",
+        "1490557050",
+        "1499081748",
+        "1543721789",
+        "1548028743",
+        "1560093457",
+        "1562542037",
+        "1595155753",
+        "1599906532",
+        "1602765425",
+        "1728966047",
+        "1752847028",
+        "1811921100",
+        "1838677899",
+        "1897761346",
+        "1943109301",
+        "2099724084",
+        "2123855359",
+        "2125025555",
+        "2134620466",
+        "2144858417",
+        "2145380590",
+        "2150051818",
+        "2153971105",
+        "2172572742",
+        "2403881763",
+        "2525966718",
+        "2612208439"
+    ]
+}

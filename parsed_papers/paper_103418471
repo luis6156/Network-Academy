@@ -1,0 +1,62 @@
+{
+    "id": "103418471",
+    "title": "A heuristic-based real-time disk scheduling algorithm for mixed-media workload",
+    "venue": "internet multimedia systems and applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Taeseok Kim",
+            "id": "2100083713",
+            "org": "School of Computer Science and Engineering, Seoul National University, Shillim-Dong,, Kwanak-Ku, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jun-Seok Park",
+            "id": "2415952761",
+            "org": "School of Computer Science and Engineering, Seoul National University, Shillim-Dong,, Kwanak-Ku, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seongyong Ahn",
+            "id": "2564662552",
+            "org": "School of Computer Science and Engineering, Seoul National University, Shillim-Dong,, Kwanak-Ku, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Kern Koh",
+            "id": "2467924033",
+            "org": "School of Computer Science and Engineering, Seoul National University, Shillim-Dong,, Kwanak-Ku, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Youjip Won",
+            "id": "2148748949",
+            "org": "Division of Electrical and Computer Engineering, Hanyang University, Hangdang-Dong, Seongdong-Ku, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Hyokyung Bahn",
+            "id": "2058360075",
+            "org": "Department of Computer Science and Engineering, Ewha Womans University, Daehyun-Dong, Seodaemun-Ku, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Real-time computing",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Genetic algorithm scheduling",
+        "I/O scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1552359986",
+        "1998927861",
+        "2015521740",
+        "2022711632",
+        "2050436780",
+        "2058306885",
+        "2101304178",
+        "2127399089"
+    ]
+}

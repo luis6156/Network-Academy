@@ -1,0 +1,48 @@
+{
+    "id": "1790731608",
+    "title": "Implementation of Elliptic Curve Cryptographic Coprocessor over GF(2m) on an FPGA",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Souichi Okada",
+            "id": "2521402024",
+            "org": "Fujitsu Laboratories Ltd."
+        },
+        {
+            "name": "Naoya Torii",
+            "id": "1968250510",
+            "org": "Fujitsu Laboratories Ltd."
+        },
+        {
+            "name": "Kouichi Itoh",
+            "id": "2128256318",
+            "org": "Fujitsu Laboratories Ltd."
+        },
+        {
+            "name": "Masahiko Takenaka",
+            "id": "2114664078",
+            "org": "Fujitsu Laboratories Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Data conversion",
+        "Scalar multiplication",
+        "Computer science",
+        "Coprocessor",
+        "Elliptic curve",
+        "Application-specific integrated circuit",
+        "Multiplication",
+        "IEEE P1363"
+    ],
+    "references": [
+        "1587576127",
+        "2049990610",
+        "2115525729",
+        "2131471090",
+        "2139192386",
+        "2161531038"
+    ]
+}

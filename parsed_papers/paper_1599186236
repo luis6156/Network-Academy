@@ -1,0 +1,88 @@
+{
+    "id": "1599186236",
+    "title": "HydraFS: a high-throughput file system for the HYDRAstor content-addressable storage system",
+    "venue": "file and storage technologies",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Cristian Ungureanu",
+            "id": "2112933391",
+            "org": "NEC Laboratories America#TAB#"
+        },
+        {
+            "name": "Benjamin Atkin",
+            "id": "2763869894",
+            "org": "NEC Laboratories America#TAB#"
+        },
+        {
+            "name": "Akshat Aranya",
+            "id": "2265306232",
+            "org": "NEC Laboratories America#TAB#"
+        },
+        {
+            "name": "Salil Gokhale",
+            "id": "2581358154",
+            "org": "NEC Laboratories America#TAB#"
+        },
+        {
+            "name": "Stephen Rago",
+            "id": "2036358910",
+            "org": "NEC Laboratories America#TAB#"
+        },
+        {
+            "name": "Grzegorz Calkowski",
+            "id": "252547341",
+            "org": "NEC Laboratories America#TAB#"
+        },
+        {
+            "name": "Cezary Dubnicki",
+            "id": "2306585574",
+            "org": "NEC Laboratories America#TAB#"
+        },
+        {
+            "name": "Aniruddha Bohra",
+            "id": "2776308002",
+            "org": "NEC Laboratories America#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer data storage",
+        "Throughput",
+        "Parallel computing",
+        "Computer science",
+        "Block (data storage)",
+        "Content-addressable storage",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "24740120",
+        "200233886",
+        "1490390347",
+        "1576397915",
+        "1609518033",
+        "1929726975",
+        "1975868314",
+        "2005725110",
+        "2056980397",
+        "2071958655",
+        "2084445812",
+        "2097829252",
+        "2100100130",
+        "2104210894",
+        "2108183412",
+        "2115457697",
+        "2115600841",
+        "2118428193",
+        "2119565742",
+        "2123482462",
+        "2131645490",
+        "2132627996",
+        "2135652458",
+        "2143351500",
+        "2156719566"
+    ]
+}

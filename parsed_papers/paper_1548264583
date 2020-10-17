@@ -1,0 +1,48 @@
+{
+    "id": "1548264583",
+    "title": "Fault analysis of DPA-Resistant algorithms",
+    "venue": "workshop on fault diagnosis and tolerance in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Frederic Amiel",
+            "id": "1952303898",
+            "org": "Security Labs, Gemalto, La Ciotat, France#TAB#"
+        },
+        {
+            "name": "Christophe Clavier",
+            "id": "2516421471",
+            "org": "Security Labs, Gemalto, La Ciotat, France#TAB#"
+        },
+        {
+            "name": "Michael Tunstall",
+            "id": "2097787842",
+            "org": "Smart Card Centre, Information Security Group, Royal Holloway, University of London, Egham, Surrey, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Algorithm",
+        "Cryptanalysis",
+        "Redundancy (engineering)",
+        "Advanced Encryption Standard",
+        "Boolean algebra",
+        "Distributed computing",
+        "Computer science",
+        "Power analysis",
+        "Real-time computing",
+        "Fault injection",
+        "Fault tolerance"
+    ],
+    "references": [
+        "18028457",
+        "1512062395",
+        "1560093457",
+        "1660562555",
+        "2112284176",
+        "2117947592",
+        "2125815652",
+        "2154909745",
+        "2170489924"
+    ]
+}

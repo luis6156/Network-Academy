@@ -1,0 +1,59 @@
+{
+    "id": "1734181082",
+    "title": "Software Profiling for Deterministic Replay Debugging of User Code",
+    "venue": "new trends in software methodologies, tools and techniques",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Satish Narayanasamy",
+            "id": "2155554984",
+            "org": "Department of Computer Science and Engineering, University of California, San Diego, {satish, cpereira, calder}@cs.ucsd.edu#TAB#"
+        },
+        {
+            "name": "Cristiano Pereira",
+            "id": "2345342630",
+            "org": "Department of Computer Science and Engineering, University of California, San Diego, {satish, cpereira, calder}@cs.ucsd.edu#TAB#"
+        },
+        {
+            "name": "Brad Calder",
+            "id": "2161611694",
+            "org": "Department of Computer Science and Engineering, University of California, San Diego, {satish, cpereira, calder}@cs.ucsd.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Profiling (computer programming)",
+        "Root cause",
+        "Software",
+        "Slicing",
+        "Computer science",
+        "Debugger",
+        "Debugging",
+        "Real-time computing",
+        "Algorithmic program debugging"
+    ],
+    "references": [
+        "11234669",
+        "145355838",
+        "177206326",
+        "1555915743",
+        "1603567390",
+        "1877496576",
+        "1969550081",
+        "1971849938",
+        "1972544179",
+        "2004269492",
+        "2009394287",
+        "2082498963",
+        "2083796365",
+        "2095469619",
+        "2108806129",
+        "2129663982",
+        "2134633067",
+        "2134691366",
+        "2142892618",
+        "2145021036",
+        "2145377152",
+        "2151139698"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "1552695992",
+    "title": "Investigating fundamental security requirements on whirlpool: improved preimage and collision attacks",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Lei Wang",
+            "id": "2713716783",
+            "org": "The University of Electro-Communications, Japan, Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Shuang Wu",
+            "id": "2124794005",
+            "org": "Institute of Software, Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "Institute of Software, Chinese Academy of Sciences, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Rebound attack",
+        "MD2",
+        "Theoretical computer science",
+        "SHA-2",
+        "Computer science",
+        "Distributed computing",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "32003186",
+        "41296744",
+        "63621818",
+        "72943107",
+        "170950682",
+        "1490461874",
+        "1509358216",
+        "1515595447",
+        "1530387410",
+        "1533007301",
+        "1550036077",
+        "1554865288",
+        "1566855226",
+        "1568559070",
+        "1574947811",
+        "1592183051",
+        "1603433154",
+        "1656731780",
+        "1660562555",
+        "1814882979",
+        "1997025789",
+        "2058289418",
+        "2089916326",
+        "2103239853",
+        "2119153286",
+        "2136320902"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1541143060",
+    "title": "Transaction Control Mechanism for the Object Cache Interface of R2D2",
+    "venue": "Proceedings of the Third International Conference on Data and Knowledge Bases#R##N#Improving Usability and Responsiveness",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Martin Durr",
+            "id": "2075123441",
+            "org": "Universitat Karlsruhe, Fakultat fur Informatik, D-7500 Karlsruhe, West Germany"
+        },
+        {
+            "name": "Alfons Kemper",
+            "id": "2244150349",
+            "org": "Universitat Karlsruhe, Fakultat fur Informatik, D-7500 Karlsruhe, West Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Database tuning",
+        "Nested transaction",
+        "Computer science",
+        "Distributed computing",
+        "Autocommit",
+        "Rollback",
+        "Database",
+        "Distributed transaction",
+        "Database design",
+        "Index locking",
+        "Database transaction"
+    ],
+    "references": [
+        "2087733696",
+        "2106887953",
+        "2166897769"
+    ]
+}

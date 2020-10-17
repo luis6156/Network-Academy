@@ -1,0 +1,85 @@
+{
+    "id": "1526868886",
+    "title": "Model based training, detection and pose estimation of texture-less 3d objects in heavily cluttered scenes",
+    "venue": "asian conference on computer vision",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Stefan Hinterstoisser",
+            "id": "255859922",
+            "org": "CAMP, Technische Universitat Munchen (TUM), Germany#TAB#"
+        },
+        {
+            "name": "Vincent Lepetit",
+            "id": "206624101",
+            "org": "CV-Lab, Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland#TAB#"
+        },
+        {
+            "name": "Slobodan Ilic",
+            "id": "2122137880",
+            "org": "CAMP, Technische Universitat Munchen (TUM), Germany#TAB#"
+        },
+        {
+            "name": "Stefan Johannes Josef Holzer",
+            "id": "2559977699",
+            "org": "CAMP, Technische Universitat Munchen (TUM), Germany#TAB#"
+        },
+        {
+            "name": "Gary R. Bradski",
+            "id": "2719906327",
+            "org": "Industrial Perception, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Kurt Konolige",
+            "id": "2079032315",
+            "org": "Industrial Perception, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Nassir Navab",
+            "id": "572302453",
+            "org": "CAMP, Technische Universitat Munchen (TUM), Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Articulated body pose estimation",
+        "Pose",
+        "Object detection",
+        "Object-class detection",
+        "Computer vision",
+        "Viola-Jones object detection framework",
+        "3D pose estimation",
+        "Pattern recognition",
+        "Color gradient",
+        "Computer science",
+        "Robotics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "69354350",
+        "1576725826",
+        "1969868017",
+        "1970132064",
+        "1987648924",
+        "1997846515",
+        "2005489441",
+        "2016427216",
+        "2089181482",
+        "2099350109",
+        "2099606917",
+        "2101199297",
+        "2106766627",
+        "2107235635",
+        "2108134361",
+        "2118104180",
+        "2145169631",
+        "2147533695",
+        "2147629985",
+        "2155217696",
+        "2160643963",
+        "2160754664",
+        "2160821342",
+        "2161168419",
+        "2161969291",
+        "2165741220"
+    ]
+}

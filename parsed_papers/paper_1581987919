@@ -1,0 +1,41 @@
+{
+    "id": "1581987919",
+    "title": "A new dynamic programming algorithm for multiple sequence alignment",
+    "venue": "conference on combinatorial optimization and applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jean-Michel Richer",
+            "id": "2128112577",
+            "org": "LERIA - University of Angers, Angers Cedex 01, France#TAB#"
+        },
+        {
+            "name": "Vincent Derrien",
+            "id": "2514712194",
+            "org": "LERIA - University of Angers, Angers Cedex 01, France#TAB#"
+        },
+        {
+            "name": "Jin-Kao Hao",
+            "id": "2110538291",
+            "org": "LERIA - University of Angers, Angers Cedex 01, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Theoretical computer science",
+        "Computer science",
+        "Multiple sequence alignment",
+        "Needleman-Wunsch algorithm",
+        "Dynamic programming"
+    ],
+    "references": [
+        "1694876563",
+        "1834968294",
+        "2002638840",
+        "2114320077",
+        "2130625618",
+        "2141411672",
+        "2161299051",
+        "2163860567"
+    ]
+}

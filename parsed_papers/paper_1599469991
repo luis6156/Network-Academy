@@ -1,0 +1,51 @@
+{
+    "id": "1599469991",
+    "title": "Robust parallel speech recognition in multiple energy bands",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Andreas K. Maier",
+            "id": "2105692020",
+            "org": "Lehrstuhl fur Mustererkennung, Universitat Erlangen-Nurnberg, Germany#TAB#"
+        },
+        {
+            "name": "Christian Hacker",
+            "id": "1986099074",
+            "org": "Lehrstuhl fur Mustererkennung, Universitat Erlangen-Nurnberg, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Steidl",
+            "id": "2096417408",
+            "org": "Lehrstuhl fur Mustererkennung, Universitat Erlangen-Nurnberg, Germany#TAB#"
+        },
+        {
+            "name": "Elmar Noth",
+            "id": "2019675586",
+            "org": "Lehrstuhl fur Mustererkennung, Universitat Erlangen-Nurnberg, Germany#TAB#"
+        },
+        {
+            "name": "Heinrich Niemann",
+            "id": "2129074962",
+            "org": "Lehrstuhl fur Mustererkennung, Universitat Erlangen-Nurnberg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mel-frequency cepstrum",
+        "Cepstrum",
+        "Phone",
+        "Computer science",
+        "Signal-to-noise ratio",
+        "Linear discriminant analysis",
+        "Robustness (computer science)",
+        "Reverberation",
+        "Speech recognition",
+        "Noisy data"
+    ],
+    "references": [
+        "100428360",
+        "170935503",
+        "190289757",
+        "2129901640"
+    ]
+}

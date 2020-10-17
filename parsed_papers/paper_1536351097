@@ -1,0 +1,48 @@
+{
+    "id": "1536351097",
+    "title": "Secure transmission using an untrusted relay with scaled compute-and-forward",
+    "venue": "information theory workshop",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Zhijie Ren",
+            "id": "2102745363",
+            "org": "Dep. of Intelligent Systems, Delft University of Technology, The Netherlands"
+        },
+        {
+            "name": "Jasper Goseling",
+            "id": "1505591308",
+            "org": "Stochastic Operations Research, University of Twente, The Netherlands"
+        },
+        {
+            "name": "Jos H. Weber",
+            "id": "2151841860",
+            "org": "Dep. of Intelligent Systems, Delft University of Technology, The Netherlands"
+        },
+        {
+            "name": "Michael Gastpar",
+            "id": "2052894389",
+            "org": "Lab. for Information in Networked Systems, Ecole Polytechnique Federale de Lausanne, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Relay channel",
+        "Computer science",
+        "Communication channel",
+        "Computer network",
+        "Channel state information",
+        "Secrecy",
+        "Relay",
+        "Secure transmission",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1500026880",
+        "1512015702",
+        "1621647796",
+        "1731774588",
+        "2005196269",
+        "2168702691",
+        "2400872280"
+    ]
+}

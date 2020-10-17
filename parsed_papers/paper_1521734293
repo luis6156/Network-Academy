@@ -1,0 +1,42 @@
+{
+    "id": "1521734293",
+    "title": "BIP: A new protocol designed for high performance networking on myrinet",
+    "venue": "international parallel processing symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Loic Prylli",
+            "id": "669904135",
+            "org": "LIP, ENS-Lyon"
+        },
+        {
+            "name": "Bernard Tourancheau",
+            "id": "228276202",
+            "org": "LHPC & INRIA ReMaP - LIGIM bat710, UCB-Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Message Passing Interface",
+        "Message passing",
+        "Telecommunications network",
+        "Real-time computing",
+        "Bottleneck",
+        "Software evolution",
+        "Myrinet"
+    ],
+    "references": [
+        "1514430255",
+        "2065414935",
+        "2081612620",
+        "2095793442",
+        "2110368245",
+        "2114728910",
+        "2147602718",
+        "2154207621",
+        "2155066383"
+    ]
+}

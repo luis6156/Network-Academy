@@ -1,0 +1,63 @@
+{
+    "id": "1548706930",
+    "title": "Adaptive conflict unit size for distributed optimistic synchronization",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kim-Thomas Rehmann",
+            "id": "1984978818",
+            "org": "Heinrich-Heine-Universitat Dusseldorf, Dusseldorf, Germany#TAB#"
+        },
+        {
+            "name": "Marc-Florian Muller",
+            "id": "2146030144",
+            "org": "Heinrich-Heine-Universitat Dusseldorf, Dusseldorf, Germany#TAB#"
+        },
+        {
+            "name": "Michael Schottner",
+            "id": "2570421183",
+            "org": "Heinrich-Heine-Universitat Dusseldorf, Dusseldorf, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Data access",
+        "Transactional memory",
+        "Distributed computing",
+        "Computer science",
+        "Lock (computer science)",
+        "False sharing",
+        "Data synchronization",
+        "Distributed transaction",
+        "Synchronization",
+        "Real-time computing",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1557386039",
+        "1613889628",
+        "1980499862",
+        "2002694006",
+        "2003895614",
+        "2008258200",
+        "2023244694",
+        "2034248803",
+        "2035326338",
+        "2047135526",
+        "2048118924",
+        "2052040062",
+        "2092816328",
+        "2097113145",
+        "2097447543",
+        "2105055683",
+        "2107497336",
+        "2113751407",
+        "2123845384",
+        "2128317922",
+        "2133386065",
+        "2134023093",
+        "2155577947",
+        "2173213060"
+    ]
+}

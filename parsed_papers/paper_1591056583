@@ -1,0 +1,40 @@
+{
+    "id": "1591056583",
+    "title": "Randomized Consensus in Expected O(n2log n) Operations",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Gabriel Bracha",
+            "id": "2304537756",
+            "org": "Technion"
+        },
+        {
+            "name": "Ophir Rachman",
+            "id": "2035442386",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Parallel computing",
+        "Shared memory",
+        "Consensus",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Binary logarithm",
+        "Computer science",
+        "Coordination game"
+    ],
+    "references": [
+        "1964729314",
+        "1971406063",
+        "1999787317",
+        "2005317574",
+        "2043801088",
+        "2062297396",
+        "2069172539",
+        "2072203464",
+        "2079344171"
+    ]
+}

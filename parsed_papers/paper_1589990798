@@ -1,0 +1,65 @@
+{
+    "id": "1589990798",
+    "title": "Combining generative and discriminative models for semantic segmentation of CT scans via active learning",
+    "venue": "information processing in medical imaging",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Juan Eugenio Iglesias",
+            "id": "2305672373",
+            "org": "University of California, Los Angeles and Microsoft Research, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Ender Konukoglu",
+            "id": "176115050",
+            "org": "Microsoft Research, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Albert Montillo",
+            "id": "2128606118",
+            "org": "GE Global Research Center, Niskayuna, NY and Microsoft Research, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Zhuowen Tu",
+            "id": "2134014566",
+            "org": "University of California, Los Angeles#TAB#"
+        },
+        {
+            "name": "Antonio Criminisi",
+            "id": "102275141",
+            "org": "Microsoft Research, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Random forest",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Supervised learning",
+        "Statistical model",
+        "Markov random field",
+        "Probabilistic logic",
+        "Generative model",
+        "Discriminative model",
+        "Machine learning",
+        "Semi-supervised learning"
+    ],
+    "references": [
+        "1528361845",
+        "1568207135",
+        "1803207300",
+        "2012502602",
+        "2084755508",
+        "2085989833",
+        "2095098995",
+        "2095700415",
+        "2143516773",
+        "2143781397",
+        "2144182447",
+        "2153284654",
+        "2163096274",
+        "2171332245",
+        "2337319582"
+    ]
+}

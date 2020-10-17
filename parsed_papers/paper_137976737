@@ -1,0 +1,54 @@
+{
+    "id": "137976737",
+    "title": "LLVM2CSP: extracting csp models from concurrent programs",
+    "venue": "nasa formal methods",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Moritz Kleine",
+            "id": "2568183188",
+            "org": "Technische Universitat Berlin, Department of Software Engineering and Theoretical Computer Science, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Bjorn Bartels",
+            "id": "2555481990",
+            "org": "Technische Universitat Berlin, Department of Software Engineering and Theoretical Computer Science, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Gothel",
+            "id": "2892488917",
+            "org": "Technische Universitat Berlin, Department of Software Engineering and Theoretical Computer Science, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Steffen Helke",
+            "id": "1544769826",
+            "org": "Technische Universitat Berlin, Department of Software Engineering and Theoretical Computer Science, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Dirk Prenzel",
+            "id": "2476441323",
+            "org": "Technische Universitat Berlin, Department of Software Engineering and Theoretical Computer Science, Berlin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Intermediate language",
+        "Shared memory",
+        "Computer science",
+        "Compiler",
+        "Abstraction",
+        "Programming language"
+    ],
+    "references": [
+        "1498914187",
+        "1536242253",
+        "1556566737",
+        "1939061729",
+        "2014879830",
+        "2105237079",
+        "2111669205",
+        "2136877520",
+        "2138768776",
+        "2153185479",
+        "2159181605"
+    ]
+}

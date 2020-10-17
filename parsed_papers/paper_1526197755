@@ -1,0 +1,43 @@
+{
+    "id": "1526197755",
+    "title": "An Operational Model for Multiprocessors with Caches",
+    "venue": "ifip international conference on theoretical computer science",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Salil Joshi",
+            "id": "2434094577",
+            "org": "Indian Institute of Technology Delhi"
+        },
+        {
+            "name": "Sanjiva Prasad",
+            "id": "2427550642",
+            "org": "Indian Institute of Technology Delhi"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Sequential consistency",
+        "Computer science",
+        "Bus sniffing",
+        "Cache coherence",
+        "Real-time computing",
+        "Cache-only memory architecture",
+        "Atomicity",
+        "Cache invalidation",
+        "Consistency model"
+    ],
+    "references": [
+        "1499849351",
+        "1500469268",
+        "1525350307",
+        "1980939032",
+        "1995825057",
+        "2029601347",
+        "2054739713",
+        "2104245532",
+        "2152390090",
+        "2152407649"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "156355313",
+    "title": "Differential propagation analysis of keccak",
+    "venue": "fast software encryption",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Joan Daemen",
+            "id": "2022183134",
+            "org": "STMicroelectronics, Belgium#TAB#"
+        },
+        {
+            "name": "Gilles Van Assche",
+            "id": "1974686051",
+            "org": "STMicroelectronics, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Differential cryptanalysis",
+        "Upper and lower bounds",
+        "Permutation"
+    ],
+    "references": [
+        "5981243",
+        "1553650484",
+        "1556212265",
+        "1629301835",
+        "1754198554",
+        "1915866835"
+    ]
+}

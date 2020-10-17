@@ -1,0 +1,105 @@
+{
+    "id": "1455804204",
+    "title": "Simple testing can prevent most critical failures: an analysis of production failures in distributed data-intensive systems",
+    "venue": "operating systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Ding Yuan",
+            "id": "2245588690",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Yu Luo",
+            "id": "2305678467",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Xin Zhuang",
+            "id": "2423733568",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Guilherme Renna Rodrigues",
+            "id": "2274184237",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Xu Zhao",
+            "id": "2160929790",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Yongle Zhang",
+            "id": "2144756968",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Pranay U. Jain",
+            "id": "2605885179",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Michael Stumm",
+            "id": "2042755361",
+            "org": "University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software design",
+        "Large numbers",
+        "Aspirator",
+        "Computer science",
+        "Distributed computing",
+        "Data loss",
+        "Operating system",
+        "Real-time computing",
+        "Handling Code",
+        "Distributed File System"
+    ],
+    "references": [
+        "1545684573",
+        "1560664245",
+        "1563576199",
+        "1567790484",
+        "1591717411",
+        "1710734607",
+        "1834470623",
+        "1847696060",
+        "1867761151",
+        "1967656199",
+        "1973883609",
+        "1986453394",
+        "2029039689",
+        "2039157918",
+        "2039676055",
+        "2041783719",
+        "2066859698",
+        "2076793324",
+        "2091980304",
+        "2101161997",
+        "2102436656",
+        "2110699951",
+        "2114503684",
+        "2115855199",
+        "2116308906",
+        "2118676041",
+        "2123524055",
+        "2127321265",
+        "2134789917",
+        "2138509363",
+        "2138555106",
+        "2142812297",
+        "2142892618",
+        "2144984544",
+        "2146878883",
+        "2147891468",
+        "2150990339",
+        "2152795747",
+        "2155061608",
+        "2156205360",
+        "2164317885",
+        "2240363388",
+        "2281433966"
+    ]
+}

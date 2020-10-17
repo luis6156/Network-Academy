@@ -1,0 +1,29 @@
+{
+    "id": "1600255172",
+    "title": "A Digital Signature Based on a Conventional Encryption Function",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Ralph C. Merkle",
+            "id": "2478964198",
+            "org": "Elxsi"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer science",
+        "Encryption",
+        "EdDSA",
+        "56-bit encryption",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1996360405",
+        "2156186849"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "1498330251",
+    "title": "A related-key rectangle attack on the full KASUMI",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science Department, Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Theoretical computer science",
+        "Cipher",
+        "Brute-force attack",
+        "Computer science",
+        "Boomerang attack",
+        "Brute-force search",
+        "Encryption",
+        "KASUMI"
+    ],
+    "references": [
+        "18798069",
+        "52191336",
+        "122104886",
+        "1485064528",
+        "1503191913",
+        "1515958737",
+        "1516699468",
+        "1518051266",
+        "1518406241",
+        "1518987499",
+        "1538961815",
+        "1540066842",
+        "1540875416",
+        "1541703086",
+        "1541853791",
+        "1556212265",
+        "1570247517",
+        "1596744447",
+        "1605116544",
+        "1627707404",
+        "1806447353",
+        "1870015754",
+        "1871986277",
+        "1882652738",
+        "1964776377",
+        "1979282282",
+        "1979802565",
+        "1991897749",
+        "2081451319",
+        "2105617715",
+        "2168631744"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "1604499961",
+    "title": "Linear ciphers and random sequence generators with multiple clocks",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "James L. Massey",
+            "id": "1513199363",
+            "org": "Swiss Federal Institute of Technology"
+        },
+        {
+            "name": "Rainer A. Rueppel",
+            "id": "6394251",
+            "org": "Swiss Federal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Random sequence",
+        "Numerical digit",
+        "Mathematics",
+        "Pseudorandom number generator",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Linear feedback shift register",
+        "Clock rate",
+        "Plaintext"
+    ],
+    "references": [
+        "2150276672"
+    ]
+}

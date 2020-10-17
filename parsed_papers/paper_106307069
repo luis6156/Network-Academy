@@ -1,0 +1,39 @@
+{
+    "id": "106307069",
+    "title": "The Dimension-Join: A New Index for Data Warehouses.",
+    "venue": "brazilian symposium on databases",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Pedro Bizarro",
+            "id": "1993580219",
+            "org": "University of Coimbra"
+        },
+        {
+            "name": "Henrique Madeira",
+            "id": "2096385511",
+            "org": "University of Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Bitmap index",
+        "Database",
+        "Joins",
+        "Performance improvement",
+        "Fact table",
+        "Data warehouse",
+        "Materialized view"
+    ],
+    "references": [
+        "1484813121",
+        "1501284171",
+        "1982945449",
+        "2015372451",
+        "2064619860",
+        "2140646908",
+        "2295596515"
+    ]
+}

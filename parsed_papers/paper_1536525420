@@ -1,0 +1,75 @@
+{
+    "id": "1536525420",
+    "title": "Two birds with one stone: An efficient hierarchical framework for top-k and threshold-based string similarity search",
+    "venue": "international conference on data engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jin Wang",
+            "id": "2669831802",
+            "org": "Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China"
+        },
+        {
+            "name": "Guoliang Li",
+            "id": "2171804313",
+            "org": "Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China"
+        },
+        {
+            "name": "Dong Deng",
+            "id": "2135275180",
+            "org": "Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China"
+        },
+        {
+            "name": "Yong Zhang",
+            "id": "2591487283",
+            "org": "Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China"
+        },
+        {
+            "name": "Jianhua Feng",
+            "id": "1995232797",
+            "org": "Department of Computer Science and Technology, TNList, Tsinghua University, Beijing 100084, China"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Nearest neighbor search",
+        "Search algorithm",
+        "String metric",
+        "String searching algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "Data mining",
+        "Boyer-Moore string search algorithm",
+        "Ternary search tree",
+        "Search tree"
+    ],
+    "references": [
+        "1591155856",
+        "1973001156",
+        "1990413869",
+        "1991175610",
+        "2001700730",
+        "2073329022",
+        "2097184821",
+        "2097776316",
+        "2099370490",
+        "2100548092",
+        "2115214414",
+        "2115215982",
+        "2117703483",
+        "2119057313",
+        "2121269638",
+        "2121516976",
+        "2127675794",
+        "2129750215",
+        "2139660688",
+        "2148148676",
+        "2150916025",
+        "2157233202",
+        "2158779275",
+        "2162592052",
+        "2166400748",
+        "2167847032",
+        "2217456271"
+    ]
+}

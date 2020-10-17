@@ -1,0 +1,42 @@
+{
+    "id": "1601440354",
+    "title": "Amplified differential power cryptanalysis on Rijndael implementations with exponentially fewer power traces",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sung-Ming Yen",
+            "id": "2103270851",
+            "org": "Laboratory of Cryptography and Information Security, Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan R.O.C.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XSL attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Integral cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Differential fault analysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "89293479",
+        "1503689022",
+        "1512062395",
+        "1560093457",
+        "1569151289",
+        "1613874182",
+        "1657240689",
+        "1664808737",
+        "1994959057",
+        "2112284176",
+        "2144952508",
+        "2148862943",
+        "2154909745",
+        "2170489924"
+    ]
+}

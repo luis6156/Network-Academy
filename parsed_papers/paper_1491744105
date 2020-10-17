@@ -1,0 +1,52 @@
+{
+    "id": "1491744105",
+    "title": "Scheduling with release times and deadlines on a minimum number of machines",
+    "venue": "Technical report / ETH, Department of Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mark Cieliebak",
+            "id": "56993564",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Thomas Erlebach",
+            "id": "2087328515",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Fabian Hennecke",
+            "id": "2238082086",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Birgitta Weber",
+            "id": "2806402936",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Peter Widmayer",
+            "id": "70450096",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Bin packing problem",
+        "Integer",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Interval graph",
+        "Approximation algorithm"
+    ],
+    "references": [
+        "1492069605",
+        "1511157247",
+        "1593960078",
+        "1595494000",
+        "2003902046",
+        "2018804864",
+        "2069832779",
+        "2136149017"
+    ]
+}

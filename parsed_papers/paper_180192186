@@ -1,0 +1,50 @@
+{
+    "id": "180192186",
+    "title": "Impact of Kernel-assisted MPI communication over scientific applications: CPMD and FFTW",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Teng Ma",
+            "id": "2306467033",
+            "org": "Innovative Computing Laboratory, EECS, University of Tennessee#TAB#"
+        },
+        {
+            "name": "Aurelien Bouteiller",
+            "id": "2121807780",
+            "org": "Innovative Computing Laboratory, EECS, University of Tennessee#TAB#"
+        },
+        {
+            "name": "George Bosilca",
+            "id": "339462875",
+            "org": "Innovative Computing Laboratory, EECS, University of Tennessee#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "Innovative Computing Laboratory, EECS, University of Tennessee#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Car-Parrinello molecular dynamics",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing",
+        "Discrete Fourier transform",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1571956461",
+        "2011318182",
+        "2096499877",
+        "2102182691",
+        "2133352850",
+        "2138782497",
+        "2155779395",
+        "2677178705"
+    ]
+}

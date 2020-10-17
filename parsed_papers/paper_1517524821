@@ -1,0 +1,42 @@
+{
+    "id": "1517524821",
+    "title": "Using Multiple Levels of Abstractions in Embedded Software Design",
+    "venue": "embedded software",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jerry R. Burch",
+            "id": "2331980844",
+            "org": "Cadence Berkeley Laboratories"
+        },
+        {
+            "name": "Roberto Passerone",
+            "id": "194795537",
+            "org": "Cadence Berkeley Laboratories"
+        },
+        {
+            "name": "Alberto L. Sangiovanni-Vincentelli",
+            "id": "681596721",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Software development",
+        "Software construction",
+        "Software sizing",
+        "Computer science",
+        "Software design description",
+        "Distributed computing",
+        "Software framework",
+        "Avionics software",
+        "Backporting",
+        "Package development process"
+    ],
+    "references": [
+        "1501131047",
+        "1592788962",
+        "2095994109",
+        "2119355229",
+        "2150320481"
+    ]
+}

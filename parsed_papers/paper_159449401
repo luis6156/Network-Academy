@@ -1,0 +1,59 @@
+{
+    "id": "159449401",
+    "title": "Efficient implementation of a CCA2-Secure variant of mceliece using generalized srivastava codes",
+    "venue": "public key cryptography",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pierre-Louis Cayrel",
+            "id": "2778607376",
+            "org": "Universite Jean Monnet, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Gerhard Hoffmann",
+            "id": "2156671597",
+            "org": "Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Edoardo Persichetti",
+            "id": "2792193140",
+            "org": "University of Auckland, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive chosen-ciphertext attack",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Encryption",
+        "Implementation",
+        "McEliece cryptosystem",
+        "Linear code",
+        "Cryptosystem",
+        "Random oracle",
+        "Goppa code"
+    ],
+    "references": [
+        "68055459",
+        "195611444",
+        "1493476231",
+        "1506139516",
+        "1520077026",
+        "1535038214",
+        "1549397354",
+        "1550367722",
+        "1566154368",
+        "1579684562",
+        "1582043969",
+        "1607264302",
+        "1795435265",
+        "1882851555",
+        "1985709119",
+        "2017429418",
+        "2026461145",
+        "2035929826",
+        "2096778698",
+        "2149636648",
+        "2151237818"
+    ]
+}

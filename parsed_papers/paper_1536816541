@@ -1,0 +1,71 @@
+{
+    "id": "1536816541",
+    "title": "Foundations of Non-malleable Hash and One-Way Functions",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Alexandra Boldyreva",
+            "id": "2033462817",
+            "org": "Georgia Institute of Technology, USA#TAB#"
+        },
+        {
+            "name": "David Cash",
+            "id": "2806670307",
+            "org": "Georgia Institute of Technology, USA#TAB#"
+        },
+        {
+            "name": "Marc Fischlin",
+            "id": "132146421",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Bogdan Warinschi",
+            "id": "669060945",
+            "org": "University of Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "CityHash",
+        "Hash chain",
+        "Merkle-Damgard construction",
+        "Security of cryptographic hash functions",
+        "Hash function",
+        "SWIFFT",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "118842186",
+        "1493190649",
+        "1495266644",
+        "1510154334",
+        "1532874975",
+        "1548130906",
+        "1551902067",
+        "1558423924",
+        "1561907855",
+        "1562853489",
+        "1588049796",
+        "1594737309",
+        "1823595194",
+        "1964370100",
+        "2004881597",
+        "2039594335",
+        "2052267638",
+        "2055668544",
+        "2077140897",
+        "2098121410",
+        "2112409151",
+        "2131300413",
+        "2139033758",
+        "2147436724",
+        "2153657906",
+        "2158285139",
+        "2159339434",
+        "2163172859"
+    ]
+}

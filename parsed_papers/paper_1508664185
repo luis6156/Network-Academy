@@ -1,0 +1,57 @@
+{
+    "id": "1508664185",
+    "title": "Automated model-based rib cage segmentation and labeling in CT images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Tobias Klinder",
+            "id": "2094625634",
+            "org": "Institut fur Informationsverarbeitung, University of Hannover, Germany and Philips Research Europe-Hamburg, Sector Medical Imaging Systems, Germany#TAB#"
+        },
+        {
+            "name": "Cristian Lorenz",
+            "id": "2104394241",
+            "org": "Philips Research Europe-Hamburg, Sector Medical Imaging Systems, Germany#TAB#"
+        },
+        {
+            "name": "Jens von Berg",
+            "id": "2153913050",
+            "org": "Philips Research Europe-Hamburg, Sector Medical Imaging Systems, Germany#TAB#"
+        },
+        {
+            "name": "Sebastian Peter Michael Dries",
+            "id": "2167053397",
+            "org": "Philips Research Europe-Hamburg, Sector Medical Imaging Systems, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Bulow",
+            "id": "1987619464",
+            "org": "Philips Research Europe-Hamburg, Sector Medical Imaging Systems, Germany#TAB#"
+        },
+        {
+            "name": "Jorn Ostermann",
+            "id": "1979761585",
+            "org": "Institut fur Informationsverarbeitung, University of Hannover, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computed tomography",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Rib cage",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1482417937",
+        "1520012284",
+        "1978425155",
+        "2002647384",
+        "2049981393",
+        "2115699390",
+        "2140427427",
+        "2163819245"
+    ]
+}

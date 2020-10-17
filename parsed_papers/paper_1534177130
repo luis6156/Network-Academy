@@ -1,0 +1,52 @@
+{
+    "id": "1534177130",
+    "title": "Linear Cryptanalysis of Reduced-Round Versions of the SAFER Block Cipher Family",
+    "venue": "fast software encryption",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jorge Nakahara",
+            "id": "2266171807",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Weak key",
+        "Encryption",
+        "SAFER",
+        "Linear span",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "52191336",
+        "1500584382",
+        "1531810027",
+        "1542068190",
+        "1553753418",
+        "1564295073",
+        "1572215850",
+        "1583923853",
+        "1606884796",
+        "1964723977",
+        "1979802565",
+        "2012203292",
+        "2108808929",
+        "2137326899"
+    ]
+}

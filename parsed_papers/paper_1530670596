@@ -1,0 +1,65 @@
+{
+    "id": "1530670596",
+    "title": "Putting Polyhedral Loop Transformations to Work",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cedric Bastoul",
+            "id": "1902291549",
+            "org": "A3 group, INRIA"
+        },
+        {
+            "name": "Albert Cohen",
+            "id": "2187997294",
+            "org": "A3 group, INRIA"
+        },
+        {
+            "name": "Sylvain Girbal",
+            "id": "2780583385",
+            "org": "A3 group, INRIA"
+        },
+        {
+            "name": "Saurabh Sharma",
+            "id": "2779984217",
+            "org": "A3 group, INRIA"
+        },
+        {
+            "name": "Olivier Temam",
+            "id": "2779054481",
+            "org": "Paris South University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Compiler",
+        "Padding",
+        "Program transformation",
+        "Polyhedron",
+        "Frameworks supporting the polyhedral model",
+        "Code generation",
+        "Iterative method",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1533186609",
+        "1887913568",
+        "1970141743",
+        "1980999196",
+        "1995270665",
+        "2011771274",
+        "2068562880",
+        "2074559757",
+        "2099758780",
+        "2102041794",
+        "2140145555",
+        "2143549041",
+        "2148255965",
+        "2153637321",
+        "2155632873",
+        "2156455047",
+        "2163488221"
+    ]
+}

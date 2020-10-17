@@ -1,0 +1,42 @@
+{
+    "id": "1582897933",
+    "title": "Tutorial Summary: Paxos Explained from Scratch",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Hein Meling",
+            "id": "1970175568",
+            "org": "University of Stavanger, Norway#TAB#"
+        },
+        {
+            "name": "Leander Jehl",
+            "id": "2170727047",
+            "org": "University of Stavanger, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Consensus",
+        "Computer science",
+        "Distributed computing",
+        "Scratch",
+        "Network partition",
+        "Raft",
+        "Paxos",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "192446467",
+        "1814543774",
+        "1992479210",
+        "2016404663",
+        "2016651705",
+        "2035362408",
+        "2058322902",
+        "2075854425",
+        "2136259232",
+        "2143149536",
+        "2156580773"
+    ]
+}

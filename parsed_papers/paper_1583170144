@@ -1,0 +1,70 @@
+{
+    "id": "1583170144",
+    "title": "Concurrently-secure blind signatures without random oracles or setup assumptions",
+    "venue": "theory of cryptography conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Carmit Hazay",
+            "id": "2061601819",
+            "org": "Bar-Ilan University#TAB#"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "University of Maryland#TAB#"
+        },
+        {
+            "name": "Chiu-Yuen Koo",
+            "id": "2121358358",
+            "org": "University of Maryland#TAB#"
+        },
+        {
+            "name": "Yehuda Lindell",
+            "id": "30238620",
+            "org": "Bar-Ilan University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Blind signature",
+        "Theoretical computer science",
+        "Computer science",
+        "Computer security",
+        "Random oracle",
+        "Commitment scheme"
+    ],
+    "references": [
+        "198979078",
+        "1480940760",
+        "1502416796",
+        "1511590984",
+        "1536662568",
+        "1538831988",
+        "1563592604",
+        "1569125871",
+        "1586351688",
+        "1601001795",
+        "1603546715",
+        "1839386101",
+        "1988909447",
+        "2006464592",
+        "2052267638",
+        "2054482077",
+        "2067958822",
+        "2085140050",
+        "2089592270",
+        "2097475480",
+        "2103230338",
+        "2113085788",
+        "2114118999",
+        "2123783718",
+        "2132951912",
+        "2143716337",
+        "2151413173",
+        "2167882086",
+        "2169194339",
+        "2530869853",
+        "2611688767"
+    ]
+}

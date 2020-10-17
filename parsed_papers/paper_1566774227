@@ -1,0 +1,69 @@
+{
+    "id": "1566774227",
+    "title": "Efficient compilation strategy for object-oriented languages under the closed-world assumption",
+    "venue": "Software - Practice and Experience",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Benoit Sonntag",
+            "id": "2304926714",
+            "org": "LSIIT, Universite de Strasbourg, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Dominique Colnet",
+            "id": "2707782492",
+            "org": "LORIA, Universite de Lorraine, Vandoeuvre-les-Nancy, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented programming",
+        "Source code",
+        "Compile time",
+        "Dynamic dispatch",
+        "Compiler",
+        "Computer science",
+        "Closed-world assumption",
+        "Call graph",
+        "Real-time computing",
+        "Dead code elimination"
+    ],
+    "references": [
+        "1539924481",
+        "1565771727",
+        "1578840083",
+        "1579278367",
+        "1587806068",
+        "1597122400",
+        "1600715710",
+        "1770006921",
+        "1774577175",
+        "1948625797",
+        "1963816348",
+        "1964009475",
+        "1993318777",
+        "2001689526",
+        "2006433888",
+        "2007146206",
+        "2012442667",
+        "2045723688",
+        "2051600169",
+        "2052988121",
+        "2057065238",
+        "2057085278",
+        "2058958439",
+        "2060789440",
+        "2076063371",
+        "2088019269",
+        "2089729225",
+        "2096531599",
+        "2117426803",
+        "2127172188",
+        "2128328132",
+        "2138732532",
+        "2141293928",
+        "2160125534",
+        "2161054596",
+        "2169753096",
+        "2171240827"
+    ]
+}

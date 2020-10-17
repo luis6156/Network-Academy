@@ -1,0 +1,79 @@
+{
+    "id": "1586561992",
+    "title": "A Verification Framework for Agent Communication",
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Rogier M. van Eijk",
+            "id": "2146274959",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, P.O. Box 80.089, 3508 TB Utrecht, The Netherlands rogier@cs.uu.nl#TAB#"
+        },
+        {
+            "name": "Frank S. de Boer",
+            "id": "2182928395",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, P.O. Box 80.089, 3508 TB Utrecht, The Netherlands frankb@cs.uu.nl#TAB#"
+        },
+        {
+            "name": "Wiebe van der Hoek",
+            "id": "2106214946",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, P.O. Box 80.089, 3508 TB Utrecht, The Netherlands wiebe@cs.uu.nl#TAB#"
+        },
+        {
+            "name": "John-Jules Ch. Meyer",
+            "id": "2124845496",
+            "org": "Institute of Information and Computing Sciences, Utrecht University, P.O. Box 80.089, 3508 TB Utrecht, The Netherlands jj@cs.uu.nl#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-agent system",
+        "Semantics",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Soundness",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Correctness",
+        "Handshaking",
+        "Communicating sequential processes"
+    ],
+    "references": [
+        "1213380",
+        "1487752133",
+        "1498450245",
+        "1521505629",
+        "1526602190",
+        "1529406291",
+        "1532766933",
+        "1552797176",
+        "1556421367",
+        "1581500808",
+        "1593817084",
+        "1607757073",
+        "1964727056",
+        "1972478730",
+        "1975923086",
+        "1977107758",
+        "1984831616",
+        "2033431741",
+        "2038952689",
+        "2054497239",
+        "2070373441",
+        "2095587681",
+        "2096154177",
+        "2103953153",
+        "2106172458",
+        "2109805557",
+        "2110425399",
+        "2111706174",
+        "2119731875",
+        "2123796356",
+        "2142423074",
+        "2145899763",
+        "2151284191",
+        "2164994365",
+        "2167297314",
+        "2179843754"
+    ]
+}

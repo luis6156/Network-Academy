@@ -1,0 +1,63 @@
+{
+    "id": "1535080770",
+    "title": "Making Linux protection mechanisms egalitarian with UserFS",
+    "venue": "usenix security symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Taesoo Kim",
+            "id": "2135529837",
+            "org": "MIT, CSAIL#TAB#"
+        },
+        {
+            "name": "Nickolai Zeldovich",
+            "id": "1150986126",
+            "org": "MIT, CSAIL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "Source lines of code",
+        "File descriptor",
+        "Unix file types",
+        "Computer science",
+        "Code injection",
+        "Computer security",
+        "Unix",
+        "Operating system",
+        "File system",
+        "Real-time computing",
+        "fstab"
+    ],
+    "references": [
+        "1856593",
+        "6385438",
+        "60530214",
+        "186343359",
+        "1482769911",
+        "1535537103",
+        "1587010340",
+        "1604453322",
+        "1606518565",
+        "1608091202",
+        "1705596515",
+        "1788765617",
+        "1809664600",
+        "1969794418",
+        "1998009565",
+        "2040234252",
+        "2053741629",
+        "2060031515",
+        "2062340141",
+        "2086234010",
+        "2095881341",
+        "2132185316",
+        "2134633067",
+        "2148686658",
+        "2150652106",
+        "2156479376",
+        "2159079348",
+        "2162283517",
+        "2342083136"
+    ]
+}

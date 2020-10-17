@@ -1,0 +1,57 @@
+{
+    "id": "1479772908",
+    "title": "Middleware based executive for embedded reconfigurable platforms",
+    "venue": "conference on design and architectures for signal and image processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Amel Khiar",
+            "id": "2088238252",
+            "org": "ETIS Laboratory - UMR CNRS 8051, University of Cergy-Pontoise / ENSEA, 6, avenue du Ponceau, 95014 Cergy-Pontoise, France"
+        },
+        {
+            "name": "Nicolas Knecht",
+            "id": "2486489571",
+            "org": "ETIS Laboratory - UMR CNRS 8051, University of Cergy-Pontoise / ENSEA, 6, avenue du Ponceau, 95014 Cergy-Pontoise, France"
+        },
+        {
+            "name": "Laurent Gantel",
+            "id": "2535339550",
+            "org": "ETIS Laboratory - UMR CNRS 8051, University of Cergy-Pontoise / ENSEA, 6, avenue du Ponceau, 95014 Cergy-Pontoise, France"
+        },
+        {
+            "name": "Soufyane Lkad",
+            "id": "2395315823",
+            "org": "ETIS Laboratory - UMR CNRS 8051, University of Cergy-Pontoise / ENSEA, 6, avenue du Ponceau, 95014 Cergy-Pontoise, France"
+        },
+        {
+            "name": "Benoit Miramond",
+            "id": "351519825",
+            "org": "ETIS Laboratory - UMR CNRS 8051, University of Cergy-Pontoise / ENSEA, 6, avenue du Ponceau, 95014 Cergy-Pontoise, France"
+        }
+    ],
+    "fields_of_study": [
+        "Inter-process communication",
+        "Virtualization",
+        "Computer science",
+        "Middleware (distributed applications)",
+        "MPSoC",
+        "Embedded system",
+        "Operating system",
+        "Real-time operating system",
+        "Middleware",
+        "System on a chip",
+        "Reconfigurable computing",
+        "Real-time computing"
+    ],
+    "references": [
+        "51643850",
+        "157062131",
+        "1545553923",
+        "2104305031",
+        "2114487351",
+        "2127303041",
+        "2130281844",
+        "2135426721"
+    ]
+}

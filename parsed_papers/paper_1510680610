@@ -1,0 +1,41 @@
+{
+    "id": "1510680610",
+    "title": "Cryptanalysis of an improved client-to-client password-authenticated key exchange (C2C-PAKE) scheme",
+    "venue": "applied cryptography and network security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Raphael C.-W. Phan",
+            "id": "2306257003",
+            "org": "Information Security Research (iSECURES) Lab, Swinburne University of Technology (Sarawak Campus), Kuching, Malaysia#TAB#"
+        },
+        {
+            "name": "Bok-Min Goi",
+            "id": "2057853179",
+            "org": "Faculty of Engineering, Multimedia University, Cyberjaya, Malaysia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Access control",
+        "Key exchange",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Password",
+        "Key (lock)",
+        "Replay attack",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "1496418770",
+        "1503670812",
+        "1579646980",
+        "1837822405",
+        "1981689534",
+        "2111443676",
+        "2132648536",
+        "2170220035"
+    ]
+}

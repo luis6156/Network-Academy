@@ -1,0 +1,41 @@
+{
+    "id": "1575002400",
+    "title": "System for Automated Deduction (SAD): A Tool for Proof Verification",
+    "venue": "conference on automated deduction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Konstantin Verchinine",
+            "id": "1093665742",
+            "org": "Universite Paris 12, IUT Senart/Fontainebleau, 77300 Fontainebleau, France#TAB#"
+        },
+        {
+            "name": "Alexander V. Lyaletski",
+            "id": "2090438725",
+            "org": "Kyiv National Taras Shevchenko University, Faculty of Cybernetics, 03680 Kyiv, Ukraine#TAB#"
+        },
+        {
+            "name": "Andrey Paskevich",
+            "id": "2786102346",
+            "org": "Universite Paris 12, Laboratoire d'Algorithmique, Complexite et Logique, 94010 Creteil, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Complete lattice",
+        "Theoretical computer science",
+        "Algorithm",
+        "Proof assistant",
+        "Computer science",
+        "Correctness",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "84048956",
+        "108079860",
+        "1590233219",
+        "1768790486",
+        "1807555267",
+        "2015546518",
+        "2085089824"
+    ]
+}

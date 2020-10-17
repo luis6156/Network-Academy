@@ -1,0 +1,49 @@
+{
+    "id": "1543681538",
+    "title": "A stochastic non-CNF SAT solver",
+    "venue": "pacific rim international conference on artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rafiq Muhammad",
+            "id": "2275783880",
+            "org": "NICTA Victoria Laboratory, Department of Computer Science and Software Engineering, The University of Melbourne, Victoria, Australia#TAB#"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "NICTA Victoria Laboratory, Department of Computer Science and Software Engineering, The University of Melbourne, Victoria, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "DPLL algorithm",
+        "Satisfiability",
+        "Constraint satisfaction",
+        "Local search (optimization)",
+        "Conjunctive normal form",
+        "Stochastic programming",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1490762762",
+        "1513176853",
+        "1518705996",
+        "1585537805",
+        "1591532012",
+        "1667614912",
+        "1822257500",
+        "1967970073",
+        "2047580205",
+        "2057361103",
+        "2106440199",
+        "2154973411",
+        "2155218845",
+        "2165372647"
+    ]
+}

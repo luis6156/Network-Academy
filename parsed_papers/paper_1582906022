@@ -1,0 +1,44 @@
+{
+    "id": "1582906022",
+    "title": "Sandwich is indeed secure: how to authenticate a message with just one hashing",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kan Yasuda",
+            "id": "2721393562",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Yokosuka-shi, Kanagawa-ken, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HMAC-based One-time Password Algorithm",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Padding",
+        "Hash function",
+        "Message authentication code",
+        "Authentication"
+    ],
+    "references": [
+        "1512498994",
+        "1522773110",
+        "1551279437",
+        "1824628646",
+        "1866609797",
+        "2011095011",
+        "2043711803",
+        "2112006428",
+        "2127124188",
+        "2131300413",
+        "2134615993",
+        "2148555789",
+        "2167606175",
+        "2235122406",
+        "2399310879",
+        "2403890367"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "1560481892",
+    "title": "Hardware accelerator for similarity based data dedupe",
+    "venue": "networking architecture and storages",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Dongyang Li",
+            "id": "2230185678",
+            "org": "Dept, of Electrical, Computer, and Biomedical Engineering, Univ of Rhode Island, Kingston, 02881, USA"
+        },
+        {
+            "name": "Qingbo Wang",
+            "id": "2233466234",
+            "org": "Storage Architecture Research Group, HGST, a Western Digital Company, San Jose, CA, 95135, USA"
+        },
+        {
+            "name": "Cyril Guyot",
+            "id": "2302764996",
+            "org": "Storage Architecture Research Group, HGST, a Western Digital Company, San Jose, CA, 95135, USA"
+        },
+        {
+            "name": "Ashwin Narasimha",
+            "id": "2624399518",
+            "org": "Storage Architecture Research Group, HGST, a Western Digital Company, San Jose, CA, 95135, USA"
+        },
+        {
+            "name": "Dejan Vucinic",
+            "id": "2063288336",
+            "org": "Storage Architecture Research Group, HGST, a Western Digital Company, San Jose, CA, 95135, USA"
+        },
+        {
+            "name": "Zvonimir Z. Bandic",
+            "id": "1212275495",
+            "org": "Storage Architecture Research Group, HGST, a Western Digital Company, San Jose, CA, 95135, USA"
+        },
+        {
+            "name": "Qing Yang",
+            "id": "2609076044",
+            "org": "Dept, of Electrical, Computer, and Biomedical Engineering, Univ of Rhode Island, Kingston, 02881, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Wire speed",
+        "Computer science",
+        "Delta encoding",
+        "Backup",
+        "Data deduplication",
+        "Data reduction",
+        "Hardware acceleration",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "125480971",
+        "1487249727",
+        "1526227463",
+        "2050140640",
+        "2054570356",
+        "2073370301",
+        "2081193615",
+        "2107200720",
+        "2156369287",
+        "2158935814"
+    ]
+}

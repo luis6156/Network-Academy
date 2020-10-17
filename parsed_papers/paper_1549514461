@@ -1,0 +1,48 @@
+{
+    "id": "1549514461",
+    "title": "A path-based relational RDF database",
+    "venue": "australasian database conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Akiyoshi Matono",
+            "id": "2430266411",
+            "org": "Nara Institute of Science and Technology, Nara, Japan#TAB#"
+        },
+        {
+            "name": "Toshiyuki Amagasa",
+            "id": "2008176303",
+            "org": "Nara Institute of Science and Technology, Nara, Japan#TAB#"
+        },
+        {
+            "name": "Masatoshi Yoshikawa",
+            "id": "2790320300",
+            "org": "Nagoya University, Nagoya, Japan#TAB#"
+        },
+        {
+            "name": "Shunsuke Uemura",
+            "id": "2004509906",
+            "org": "Nara Institute of Science and Technology, Nara, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Entity-attribute-value model",
+        "RDF/XML",
+        "Linked data",
+        "RDF query language",
+        "Database",
+        "RDF Schema",
+        "SPARQL",
+        "Cwm",
+        "Blank node"
+    ],
+    "references": [
+        "129712061",
+        "1550571039",
+        "1812636409",
+        "2075351444",
+        "2110459974"
+    ]
+}

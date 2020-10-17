@@ -1,0 +1,50 @@
+{
+    "id": "1696101414",
+    "title": "Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions",
+    "venue": "empirical methods in natural language processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Florian Boudin",
+            "id": "2039475641",
+            "org": "University of Nantes"
+        },
+        {
+            "name": "Hugo Mougard",
+            "id": "2342671424",
+            "org": "University of Nantes"
+        },
+        {
+            "name": "Benoit Favre",
+            "id": "1869572900",
+            "org": "Centre d'immunologie de Marseille-Luminy"
+        }
+    ],
+    "fields_of_study": [
+        "Automatic summarization",
+        "Integer programming",
+        "Computer science",
+        "Approximation algorithm",
+        "Inference",
+        "Sentence",
+        "ROUGE",
+        "Solver",
+        "Maximum coverage problem",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1520857482",
+        "1959120443",
+        "1962684803",
+        "2036371118",
+        "2080379754",
+        "2122311631",
+        "2143230354",
+        "2152992673",
+        "2187257401",
+        "2251425698",
+        "2252115056"
+    ]
+}

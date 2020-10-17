@@ -1,0 +1,63 @@
+{
+    "id": "1509800602",
+    "title": "CCA proxy re-encryption without bilinear maps in the standard model",
+    "venue": "public key cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Toshihide Matsuda",
+            "id": "2320374887",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Ryo Nishimaki",
+            "id": "1894605581",
+            "org": "NTT Laboratories, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Keisuke Tanaka",
+            "id": "2165706190",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Proxy re-encryption",
+        "Discrete mathematics",
+        "Encryption",
+        "Trapdoor function",
+        "Random oracle",
+        "Bilinear map",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "126735607",
+        "1487521202",
+        "1517738348",
+        "1567827377",
+        "1589625251",
+        "1590654318",
+        "1590823599",
+        "1981398410",
+        "2036149657",
+        "2073210531",
+        "2089562307",
+        "2096778698",
+        "2102355710",
+        "2111980751",
+        "2114428623",
+        "2116361063",
+        "2133141035",
+        "2138669153",
+        "2139343945",
+        "2147436724",
+        "2147639642",
+        "2152783950",
+        "2163423973",
+        "2164101323",
+        "2403106602"
+    ]
+}

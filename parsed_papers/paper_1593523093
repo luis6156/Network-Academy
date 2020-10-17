@@ -1,0 +1,38 @@
+{
+    "id": "1593523093",
+    "title": "Accelerating radiosity calculations using reconfigurable platforms",
+    "venue": "field-programmable custom computing machines",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Henry Styles",
+            "id": "2298335865",
+            "org": "Dept. of Comput., Imperial Coll., London, UK"
+        },
+        {
+            "name": "Wayne Luk",
+            "id": "2123028573",
+            "org": "Dept. of Comput., Imperial Coll., London, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Speedup",
+        "Radiosity (computer graphics)",
+        "Place and route",
+        "Computer science",
+        "Coprocessor",
+        "Virtex",
+        "Embedded system",
+        "Reconfigurable computing",
+        "Hardware acceleration"
+    ],
+    "references": [
+        "1506248850",
+        "1973373220",
+        "2117877667",
+        "2161927969",
+        "2175031088"
+    ]
+}

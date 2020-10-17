@@ -1,0 +1,35 @@
+{
+    "id": "1482922493",
+    "title": "A Construction of a Cioher From a Single Pseudorandom Permutation",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Shimon Even",
+            "id": "581767464",
+            "org": "Technion, Israel Institute of Technology"
+        },
+        {
+            "name": "Yishay Mansour",
+            "id": "2078633956",
+            "org": "IBM T.J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Affine cipher",
+        "Running key cipher",
+        "Transposition cipher",
+        "Discrete mathematics",
+        "Random permutation",
+        "Stream cipher",
+        "Combinatorics",
+        "CBC-MAC",
+        "Substitution-permutation network",
+        "Pseudorandom permutation"
+    ],
+    "references": [
+        "2077300005",
+        "2147436504"
+    ]
+}

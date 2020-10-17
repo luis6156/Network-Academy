@@ -1,0 +1,90 @@
+{
+    "id": "178326370",
+    "title": "Ad hoc synchronization considered harmful",
+    "venue": "operating systems design and implementation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Weiwei Xiong",
+            "id": "2131661436",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Soyeon Park",
+            "id": "2118924995",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Jiaqi Zhang",
+            "id": "2402250197",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Yuanyuan Zhou",
+            "id": "2155186186",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Zhiqiang Ma",
+            "id": "2715653933",
+            "org": "Intel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "Maintainability",
+        "Ad hoc testing",
+        "Computer science",
+        "Distributed computing",
+        "Considered harmful",
+        "Deadlock",
+        "Implementation",
+        "Use case",
+        "Synchronization",
+        "Real-time computing"
+    ],
+    "references": [
+        "1482207865",
+        "1560055425",
+        "1577551920",
+        "1591458180",
+        "1874682220",
+        "1887412317",
+        "1973501242",
+        "1977338805",
+        "2022185456",
+        "2028806953",
+        "2029601347",
+        "2082766667",
+        "2091085450",
+        "2097576663",
+        "2098984303",
+        "2099865945",
+        "2101161997",
+        "2111378743",
+        "2113751407",
+        "2118201637",
+        "2125445874",
+        "2127825616",
+        "2129990308",
+        "2131791649",
+        "2137422315",
+        "2142840915",
+        "2146878883",
+        "2149984854",
+        "2152885346",
+        "2153185479",
+        "2153229512",
+        "2156601455",
+        "2156858199",
+        "2159610968",
+        "2159856414",
+        "2160489152",
+        "2165495454",
+        "2166509141",
+        "2168382229",
+        "2170651063",
+        "2293624369",
+        "2340595401"
+    ]
+}

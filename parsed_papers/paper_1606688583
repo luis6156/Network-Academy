@@ -1,0 +1,56 @@
+{
+    "id": "1606688583",
+    "title": "Implementation of the Voronoi-Delaunay Method for Analysis of Intermolecular Voids",
+    "venue": "international conference on computational science and its applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Alexey V. Anikeenko",
+            "id": "2623046573",
+            "org": "Institute of Chemical Kinetics and Combustion SB RAS"
+        },
+        {
+            "name": "Marina G. Alinchenko",
+            "id": "2309725261",
+            "org": "Institute of Chemical Kinetics and Combustion SB RAS"
+        },
+        {
+            "name": "Vladimir P. Voloshin",
+            "id": "2778756639",
+            "org": "Institute of Chemical Kinetics and Combustion SB RAS"
+        },
+        {
+            "name": "N. N. Medvedev",
+            "id": "2322079002",
+            "org": "Institute of Chemical Kinetics and Combustion SB RAS"
+        },
+        {
+            "name": "Marina L. Gavrilova",
+            "id": "665084768",
+            "org": "University of Calgary"
+        },
+        {
+            "name": "Pal Jedlovszky",
+            "id": "1523536495",
+            "org": "Eotvos Lorand University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Simplex",
+        "Bowyer-Watson algorithm",
+        "Delaunay triangulation",
+        "Voronoi deformation density",
+        "Combinatorics",
+        "Voronoi diagram",
+        "Intermolecular force",
+        "Tessellation",
+        "Centroidal Voronoi tessellation"
+    ],
+    "references": [
+        "1493863730",
+        "1967005434",
+        "2050905577",
+        "2119236577"
+    ]
+}

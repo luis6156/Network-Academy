@@ -1,0 +1,65 @@
+{
+    "id": "1507507680",
+    "title": "Algebraic attacks on clock-controlled stream ciphers",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sultan Al-Hinai",
+            "id": "2087030155",
+            "org": "Information Security Institute (ISI), Queensland University of Technology (QUT), Australia#TAB#"
+        },
+        {
+            "name": "Lynn Margaret Batten",
+            "id": "2052059466",
+            "org": "Deakin University, Australia#TAB#"
+        },
+        {
+            "name": "Bernard D. Colbert",
+            "id": "2114267959",
+            "org": "Deakin University, Australia#TAB#"
+        },
+        {
+            "name": "Kenneth Koon-Ho Wong",
+            "id": "2115363323",
+            "org": "Information Security Institute (ISI), Queensland University of Technology (QUT), Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computer science",
+        "Stream cipher",
+        "Self-shrinking generator",
+        "Alternating step generator",
+        "Shift register",
+        "Shrinking generator",
+        "Key size",
+        "Correlation attack"
+    ],
+    "references": [
+        "1699105",
+        "1483146663",
+        "1519201116",
+        "1520563459",
+        "1522746186",
+        "1542020576",
+        "1544736259",
+        "1560023496",
+        "1569721274",
+        "1572961947",
+        "1573095851",
+        "1577532098",
+        "1582711866",
+        "1588376487",
+        "1588952639",
+        "1605174360",
+        "1628219518",
+        "1850627962",
+        "2071483197",
+        "2091260227",
+        "2093871115",
+        "2107271959",
+        "2160809853"
+    ]
+}

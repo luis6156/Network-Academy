@@ -1,0 +1,86 @@
+{
+    "id": "1568683624",
+    "title": "Parallelizing a symbolic compositional model-checking algorithm",
+    "venue": "haifa verification conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ariel Cohen",
+            "id": "2763341801",
+            "org": "Bell Labs, Alcatel-Lucent, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Kedar S. Namjoshi",
+            "id": "2307609564",
+            "org": "Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Yaniv Sa'ar",
+            "id": "2049936739",
+            "org": "University of Illinois at Chicago, Chicago, IL#TAB#"
+        },
+        {
+            "name": "Lenore D. Zuck",
+            "id": "2048787978",
+            "org": "University of Illinois at Chicago, Chicago, IL#TAB#"
+        },
+        {
+            "name": "Katya I. Kisyova",
+            "id": "2480025251",
+            "org": "University of Illinois at Chicago, Chicago, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Fixed point",
+        "Invariant (mathematics)",
+        "Locality",
+        "Computation",
+        "Computer science",
+        "Mutual exclusion",
+        "Symbolic trajectory evaluation",
+        "Model checking",
+        "CPU cache"
+    ],
+    "references": [
+        "136095187",
+        "160690331",
+        "224698694",
+        "1486100501",
+        "1487643343",
+        "1511110335",
+        "1515080744",
+        "1517771483",
+        "1521216227",
+        "1529511237",
+        "1536946401",
+        "1556566737",
+        "1561112849",
+        "1562915062",
+        "1564947547",
+        "1566412221",
+        "1569519819",
+        "1573651116",
+        "1579329775",
+        "1963745982",
+        "1965662337",
+        "1973964525",
+        "1979520342",
+        "1983064190",
+        "2036267700",
+        "2078620789",
+        "2103780026",
+        "2118837621",
+        "2132334337",
+        "2133976022",
+        "2136877520",
+        "2137889577",
+        "2143337647",
+        "2153822668",
+        "2156555972",
+        "2160100638",
+        "2163401477",
+        "2610758834"
+    ]
+}

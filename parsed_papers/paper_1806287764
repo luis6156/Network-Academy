@@ -1,0 +1,45 @@
+{
+    "id": "1806287764",
+    "title": "Implementation methodology of embedded land vehicle positioning using an integrated GPS and multi sensor system",
+    "venue": "Computer-Aided Engineering",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Azizul Islam",
+            "id": "2296739918",
+            "org": "Departement de genie informatique et genie logiciel, Ecole Polytechnique de Montreal, Montreal, QC, Canada#TAB#"
+        },
+        {
+            "name": "Umar Iqbal",
+            "id": "2098581975",
+            "org": "Department of Electrical and Computer Engineering, Queen's University, Kingston, ON, Canada#TAB#"
+        },
+        {
+            "name": "J. M. Pierre Langlois",
+            "id": "1991490429",
+            "org": "(Correspd. Tel.: +1 (514) 340 4711 ext 7191; Fax: +1 (514) 340 4657; E-mail: pierre.langlois@polymtl.ca) Departement de genie informatique et genie logiciel, Ecole Polytechniqu ...#TAB#"
+        },
+        {
+            "name": "Aboelmagd Noureldin",
+            "id": "2776377891",
+            "org": "Departement de genie informatique et genie logiciel, Ecole Polytechnique de Montreal, Montreal, QC, Canada and Dept. of Elec. and Comp. Eng., Royal Military College o ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-core processor",
+        "Computer science",
+        "Global Positioning System",
+        "GPS/INS",
+        "Control theory",
+        "Horizontal plane",
+        "Embedded system",
+        "Kalman filter",
+        "Gyroscope",
+        "Trajectory",
+        "Assisted GPS"
+    ],
+    "references": [
+        "2086110849",
+        "2145174248"
+    ]
+}

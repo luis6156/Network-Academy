@@ -1,0 +1,53 @@
+{
+    "id": "1764905529",
+    "title": "A decomposition-based probabilistic framework for estimating the selectivity of XML twig queries",
+    "venue": "extending database technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Chao Wang",
+            "id": "2604785398",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Srinivasan Parthasarathy",
+            "id": "2106796124",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Ruoming Jin",
+            "id": "2119237514",
+            "org": "Department of Computer Science and Engineering, The Ohio State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XML",
+        "Computer science",
+        "Data mining",
+        "Selectivity",
+        "Database",
+        "Probabilistic logic",
+        "Twig",
+        "Query plan",
+        "Path expression"
+    ],
+    "references": [
+        "119813091",
+        "1480794755",
+        "1508914815",
+        "1520566981",
+        "1537369822",
+        "1588349761",
+        "1975887898",
+        "1984629602",
+        "2041851430",
+        "2048914925",
+        "2075833184",
+        "2099132625",
+        "2132560950",
+        "2148832586",
+        "2156210689",
+        "2156664231",
+        "2160923181"
+    ]
+}

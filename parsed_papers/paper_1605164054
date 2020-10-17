@@ -1,0 +1,66 @@
+{
+    "id": "1605164054",
+    "title": "NetIDE: Removing vendor lock-in in SDN",
+    "venue": "ieee conference on network softwarization",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Roberto Doriguzzi-Corin",
+            "id": "2010041578",
+            "org": "CREATE-NET, Italy"
+        },
+        {
+            "name": "Elio Salvadori",
+            "id": "2053704143",
+            "org": "CREATE-NET, Italy"
+        },
+        {
+            "name": "P. A. Aranda Gutierrez",
+            "id": "2231647966",
+            "org": "Telefonica I+D, Spain"
+        },
+        {
+            "name": "C. Stritzke",
+            "id": "2504045754",
+            "org": "Fraunhofer IPT, Germany"
+        },
+        {
+            "name": "A. Leckey",
+            "id": "2303366750",
+            "org": "Intel Labs Europe, Ireland"
+        },
+        {
+            "name": "Kevin Phemius",
+            "id": "2088368669",
+            "org": "Thales, France"
+        },
+        {
+            "name": "Elisa Rojas",
+            "id": "2105322325",
+            "org": "Telcaria Ideas S.L., Spain"
+        },
+        {
+            "name": "C. Guerrero",
+            "id": "2264337515",
+            "org": "IMDEA Networks, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Porting",
+        "Software-defined networking",
+        "Operator (computer programming)",
+        "Networking hardware",
+        "Computer science",
+        "Distributed computing",
+        "Control theory",
+        "Server",
+        "Vendor lock-in",
+        "Real-time computing"
+    ],
+    "references": [
+        "1792894036",
+        "1835640267",
+        "2081198029"
+    ]
+}

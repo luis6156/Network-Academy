@@ -1,0 +1,66 @@
+{
+    "id": "104111498",
+    "title": "MPI Runtime Error Detection with MUST: Advanced Error Reports",
+    "venue": "Parallel Tools Workshop",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Joachim Protze",
+            "id": "2099945612",
+            "org": "Technische Universitat Dresden"
+        },
+        {
+            "name": "Tobias Hilbrich",
+            "id": "2074480507",
+            "org": "Technische Universitat Dresden"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Martin Schulz",
+            "id": "2122506644",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Matthias S. Muller",
+            "id": "2403124791",
+            "org": "Technische Universitat Dresden"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Technische Universitat Dresden"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Source code",
+        "Wildcard",
+        "Computer science",
+        "Message Passing Interface",
+        "Distributed memory",
+        "Correctness",
+        "Usability",
+        "Deadlock",
+        "Runtime error detection"
+    ],
+    "references": [
+        "46645073",
+        "185450128",
+        "1555194772",
+        "1567848171",
+        "1780860177",
+        "1978562726",
+        "1990128020",
+        "2106913893",
+        "2149897682",
+        "2151515678",
+        "2160097679",
+        "2160611910",
+        "2161957670",
+        "2168225224"
+    ]
+}

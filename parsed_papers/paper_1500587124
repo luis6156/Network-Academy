@@ -1,0 +1,47 @@
+{
+    "id": "1500587124",
+    "title": "Unsupervised reduction of the dimensionality followed by supervised learning with a perceptron improves the classification of conditions in DNA microarray gene expression data",
+    "venue": "ieee workshop on neural networks for signal processing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Lucia Conde",
+            "id": "2701479539",
+            "org": "Bioinformatics Unit, Spanish Nat. Cancer Center, Madrid, Spain"
+        },
+        {
+            "name": "Alvaro Mateos",
+            "id": "2130952550",
+            "org": "Bioinformatics Unit, Spanish Nat. Cancer Center, Madrid, Spain"
+        },
+        {
+            "name": "Javier Herrero",
+            "id": "2137856133",
+            "org": "Bioinformatics Unit, Spanish Nat. Cancer Center, Madrid, Spain"
+        },
+        {
+            "name": "Joaquin Dopazo",
+            "id": "2148922160",
+            "org": "Bioinformatics Unit, Spanish Nat. Cancer Center, Madrid, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Self-organizing map",
+        "Supervised learning",
+        "Perceptron",
+        "Pattern recognition",
+        "Computer science",
+        "Curse of dimensionality",
+        "Cluster analysis",
+        "Gene cluster",
+        "Support vector machine",
+        "Artificial neural network",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2108728387",
+        "2125310307",
+        "2137540340"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "1002779697",
+    "title": "OpenJDK's Java.utils.Collection.sort() Is Broken: The Good, the Bad and the Worst Case",
+    "venue": "computer aided verification",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Stijn de Gouw",
+            "id": "1992163354",
+            "org": "CWI"
+        },
+        {
+            "name": "Jurriaan Rot",
+            "id": "2156512643",
+            "org": "CWI"
+        },
+        {
+            "name": "Frank S. de Boer",
+            "id": "2182928395",
+            "org": "CWI"
+        },
+        {
+            "name": "Richard Bubel",
+            "id": "2042340454",
+            "org": "Technische Universitat Darmstadt"
+        },
+        {
+            "name": "Reiner Hahnle",
+            "id": "2627263793",
+            "org": "Technische Universitat Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Timsort",
+        "Compromise",
+        "Java Modeling Language",
+        "Java",
+        "Algorithm",
+        "Crash",
+        "Functional verification",
+        "Computer science",
+        "Sorting algorithm",
+        "Correctness",
+        "Real-time computing"
+    ],
+    "references": [
+        "119990381",
+        "1548839064",
+        "1858610213",
+        "1998392058",
+        "2041055696",
+        "2047678780",
+        "2111236424",
+        "2116838115",
+        "2150174224",
+        "2152795079"
+    ]
+}

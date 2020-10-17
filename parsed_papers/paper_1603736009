@@ -1,0 +1,58 @@
+{
+    "id": "1603736009",
+    "title": "Run-time verification of optimistic concurrency",
+    "venue": "runtime verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ali Sezgin",
+            "id": "2810740252",
+            "org": "Koc University, Istanbul, Turkey#TAB#"
+        },
+        {
+            "name": "Serdar Tasiran",
+            "id": "80569443",
+            "org": "Koc University, Istanbul, Turkey#TAB#"
+        },
+        {
+            "name": "Kivanc Muslu",
+            "id": "697220558",
+            "org": "Koc University, Istanbul, Turkey#TAB#"
+        },
+        {
+            "name": "Shaz Qadeer",
+            "id": "1985363956",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Assertion",
+        "Computer science",
+        "Optimistic concurrency control",
+        "Implementation",
+        "Correctness",
+        "Linear temporal logic",
+        "Real-time computing",
+        "Formalism (philosophy)",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1558971024",
+        "1577407625",
+        "1616569837",
+        "1693597333",
+        "1825341937",
+        "1887412317",
+        "1970628175",
+        "1993805917",
+        "2023808162",
+        "2101161997",
+        "2101623441",
+        "2101939036",
+        "2126501440",
+        "2155487709",
+        "2340530615"
+    ]
+}

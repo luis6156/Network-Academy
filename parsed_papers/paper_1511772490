@@ -1,0 +1,48 @@
+{
+    "id": "1511772490",
+    "title": "Understanding the Demon's Algorithm: 3D Non-rigid Registration by Gradient Descent",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Xavier Pennec",
+            "id": "2261484064",
+            "org": "INRIA Sophia - Epidaure Project"
+        },
+        {
+            "name": "Pascal Cachier",
+            "id": "1713203048",
+            "org": "INRIA Sophia - Epidaure Project"
+        },
+        {
+            "name": "Nicholas Ayache",
+            "id": "2161288054",
+            "org": "INRIA Sophia - Epidaure Project"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Image registration",
+        "Computer vision",
+        "Algorithm",
+        "Pattern recognition",
+        "Hessian matrix",
+        "Gaussian",
+        "Demon",
+        "Gaussian blur",
+        "Explained sum of squares",
+        "Gradient descent",
+        "Mathematical optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1488415922",
+        "1870947790",
+        "2007153649",
+        "2064890045",
+        "2110543996",
+        "2157502851",
+        "2157633536",
+        "2158167845"
+    ]
+}

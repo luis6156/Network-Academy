@@ -1,0 +1,45 @@
+{
+    "id": "1563468814",
+    "title": "An Efficient Implementation of Graph Grammars Based on the RETE Matching Algorithm",
+    "venue": "international workshop on graph grammars and their application to computer science",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Horst Bunke",
+            "id": "1948338481",
+            "org": "University of Bern"
+        },
+        {
+            "name": "Thomas Glauser",
+            "id": "1979086411",
+            "org": "University of Bern"
+        },
+        {
+            "name": "T.-H. Tran",
+            "id": "2552764094",
+            "org": "University of Bern"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Blossom algorithm",
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "3-dimensional matching",
+        "Computer science",
+        "Forward chaining",
+        "Computational complexity theory",
+        "Clique-width",
+        "Moral graph",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "79047183",
+        "1596276476",
+        "1604345466",
+        "1608201119",
+        "1975844474",
+        "2116502002"
+    ]
+}

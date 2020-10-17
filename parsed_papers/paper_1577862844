@@ -1,0 +1,51 @@
+{
+    "id": "1577862844",
+    "title": "A Proof of Correctness of a Processor Implementing Tomasulo's Algorithm without a Reorder Buffer",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ravi Hosabettu",
+            "id": "301940963",
+            "org": "University of Utah"
+        },
+        {
+            "name": "Ganesh Gopalakrishnan",
+            "id": "2129100051",
+            "org": "University of Utah"
+        },
+        {
+            "name": "Mandayam K. Srivas",
+            "id": "2143082811",
+            "org": "SRII International"
+        }
+    ],
+    "fields_of_study": [
+        "Tomasulo algorithm",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Liveness",
+        "Distributed computing",
+        "Reservation station",
+        "Real-time computing",
+        "Correctness",
+        "Execution unit",
+        "Re-order buffer",
+        "Finite-state machine",
+        "Rewriting"
+    ],
+    "references": [
+        "1488659932",
+        "1500286044",
+        "1538310240",
+        "1555915743",
+        "1588758388",
+        "1680001562",
+        "1782705083",
+        "1929502661",
+        "2028574725",
+        "2110050316",
+        "2113486906"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1521322859",
+    "title": "A 155 Mbps Triple-DES Network Encryptor",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Herbert Leitold",
+            "id": "139875802",
+            "org": "Graz University of Technology"
+        },
+        {
+            "name": "Wolfgang Mayerwieser",
+            "id": "122001010",
+            "org": "Graz University of Technology"
+        },
+        {
+            "name": "Udo Payer",
+            "id": "1964839666",
+            "org": "Graz University of Technology"
+        },
+        {
+            "name": "Karl C. Posch",
+            "id": "2345943778",
+            "org": "Graz University of Technology"
+        },
+        {
+            "name": "Reinhard Posch",
+            "id": "2147297372",
+            "org": "Graz University of Technology"
+        },
+        {
+            "name": "Johannes Wolkerstorfer",
+            "id": "2017924375",
+            "org": "Graz University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "CMOS",
+        "Throughput",
+        "Parallel computing",
+        "Block cipher mode of operation",
+        "Chip",
+        "Asynchronous communication",
+        "Computer science",
+        "Encryption",
+        "Triple DES",
+        "Clock rate"
+    ],
+    "references": [
+        "1811643413",
+        "2058881700",
+        "2071387243",
+        "2134962436"
+    ]
+}

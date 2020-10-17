@@ -1,0 +1,74 @@
+{
+    "id": "16408702",
+    "title": "mClock: handling throughput variability for hypervisor IO scheduling",
+    "venue": "operating systems design and implementation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ajay Gulati",
+            "id": "2154241030",
+            "org": "VMware Inc., Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Arif Merchant",
+            "id": "2159367053",
+            "org": "HP Labs, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Peter J. Varman",
+            "id": "139212693",
+            "org": "Rice University, Houston, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Resource management",
+        "Resource allocation",
+        "Ranging",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Server",
+        "Virtual machine",
+        "Real-time computing",
+        "Storage hypervisor"
+    ],
+    "references": [
+        "137206813",
+        "174289249",
+        "1569184546",
+        "1594675213",
+        "1980824804",
+        "1991376651",
+        "1994331372",
+        "2012706015",
+        "2022711632",
+        "2024857953",
+        "2062322621",
+        "2073440460",
+        "2074294111",
+        "2081388597",
+        "2099440788",
+        "2100844052",
+        "2100892891",
+        "2101550192",
+        "2104276806",
+        "2107779152",
+        "2119809695",
+        "2121542813",
+        "2124827397",
+        "2125576935",
+        "2139995534",
+        "2144077857",
+        "2144916960",
+        "2146398836",
+        "2148577948",
+        "2150709314",
+        "2156599987",
+        "2160284242",
+        "2163931546",
+        "2167195657",
+        "2170580076",
+        "2176566884"
+    ]
+}

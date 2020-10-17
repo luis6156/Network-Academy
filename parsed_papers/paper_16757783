@@ -1,0 +1,50 @@
+{
+    "id": "16757783",
+    "title": "Composable Transactional Objects: A Position Paper",
+    "venue": "european symposium on programming",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Maurice Herlihy",
+            "id": "2068258939",
+            "org": "Brown University, Providence, USA#TAB#"
+        },
+        {
+            "name": "Eric Koskinen",
+            "id": "2008743803",
+            "org": "New York University, New York, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Commitment ordering",
+        "Double compare-and-swap",
+        "Java",
+        "Transactional memory",
+        "Computer science",
+        "Distributed computing",
+        "Database",
+        "Transactional leadership",
+        "Position paper",
+        "Software transactional memory",
+        "Programming language"
+    ],
+    "references": [
+        "1542975293",
+        "2032945467",
+        "2076149580",
+        "2094222793",
+        "2097279136",
+        "2113751407",
+        "2120785762",
+        "2125445874",
+        "2128585185",
+        "2129458440",
+        "2130392506",
+        "2135430119",
+        "2142947709",
+        "2158161421",
+        "2164529885",
+        "2168075869"
+    ]
+}

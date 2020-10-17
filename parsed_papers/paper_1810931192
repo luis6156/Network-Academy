@@ -1,0 +1,58 @@
+{
+    "id": "1810931192",
+    "title": "Computing point-to-point shortest paths from external memory",
+    "venue": "algorithm engineering and experimentation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Andrew V. Goldberg",
+            "id": "2129291095",
+            "org": "Microsoft Corporation (Redmond, WA, US)"
+        },
+        {
+            "name": "Renato F. Werneck",
+            "id": "2162596805",
+            "org": "Microsoft Corporation (Redmond, WA, US)"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Shortest path problem",
+        "Heuristics",
+        "Computer science",
+        "Local search (optimization)",
+        "K shortest path routing",
+        "Constrained Shortest Path First",
+        "Landmark",
+        "Mathematical optimization",
+        "Euclidean shortest path"
+    ],
+    "references": [
+        "30435042",
+        "1489554686",
+        "1498660721",
+        "1537256577",
+        "1550136763",
+        "1561240874",
+        "1969483458",
+        "1996805805",
+        "1999545213",
+        "2003457914",
+        "2014889099",
+        "2017218980",
+        "2056403031",
+        "2077383738",
+        "2084224084",
+        "2095595785",
+        "2096304547",
+        "2100586428",
+        "2132108235",
+        "2137033465",
+        "2140883685",
+        "2144050074",
+        "2153319198",
+        "2157927714",
+        "2169140571",
+        "2768149714"
+    ]
+}

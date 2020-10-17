@@ -1,0 +1,36 @@
+{
+    "id": "1563937974",
+    "title": "Design principles for tamper-resistant smartcard processors",
+    "venue": "WOST'99 Proceedings of the USENIX Workshop on Smartcard Technology on USENIX Workshop on Smartcard Technology",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Oliver Kommerling",
+            "id": "2489911350",
+            "org": "Advanced Digital Security Research, Riedelberg, Germany#TAB#"
+        },
+        {
+            "name": "Markus G. Kuhn",
+            "id": "2106108591",
+            "org": "University of Cambridge, Computer Laboratory, Cambridge, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Tamper resistance",
+        "Design elements and principles",
+        "Software",
+        "Glitch",
+        "Power analysis",
+        "Embedded system",
+        "Smart card",
+        "Laser cutting",
+        "Engineering"
+    ],
+    "references": [
+        "1571786080",
+        "1583816927",
+        "1584975026",
+        "1768621358"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1513439291",
+    "title": "Attacks on the DECT Authentication Mechanisms",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Stefan Lucks",
+            "id": "2250691467",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        },
+        {
+            "name": "Andreas Schuler",
+            "id": "2716770350",
+            "org": "Chaos Computer Club Trier, Germany#TAB#"
+        },
+        {
+            "name": "Erik Tews",
+            "id": "1485344885",
+            "org": "FB Informatik, TU Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Ralf-Philipp Weinmann",
+            "id": "2147515735",
+            "org": "FSTC, University of Luxembourg,#TAB#"
+        },
+        {
+            "name": "Matthias Wenzel",
+            "id": "2668571215",
+            "org": "Chaos Computer Club Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Cordless",
+        "Authentication",
+        "Mutual authentication",
+        "Computer science",
+        "Handset",
+        "Computer security",
+        "Digital Enhanced Cordless Telecommunications",
+        "Telecommunications network",
+        "Computer network"
+    ],
+    "references": [
+        "1571721593",
+        "1629301835"
+    ]
+}

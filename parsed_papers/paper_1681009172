@@ -1,0 +1,41 @@
+{
+    "id": "1681009172",
+    "title": "Implementation of Shor's algorithm on a linear nearest neighbour qubit array",
+    "venue": "Quantum Information & Computation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Austin G. Fowler",
+            "id": "2123297389",
+            "org": "Centre of Excellence for Quantum Computing Technology, School of Physics, University of Melbourne, Victoria, Australia#TAB#"
+        },
+        {
+            "name": "Simon J. Devitt",
+            "id": "2303622678",
+            "org": "Centre of Excellence for Quantum Computing Technology, School of Physics, University of Melbourne, Victoria, Australia#TAB#"
+        },
+        {
+            "name": "Lloyd C. L. Hollenberg",
+            "id": "39526484",
+            "org": "Centre of Excellence for Quantum Computing Technology, School of Physics, University of Melbourne, Victoria, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Qubit",
+        "Mathematics",
+        "Theoretical computer science",
+        "Quantum computer",
+        "Discrete mathematics",
+        "Quantum algorithm",
+        "Quantum error correction",
+        "Quantum algorithm for linear systems of equations",
+        "Quantum Fourier transform",
+        "Shor's algorithm",
+        "Quantum capacity"
+    ],
+    "references": [
+        "1508084091",
+        "1624887593",
+        "1996360405"
+    ]
+}

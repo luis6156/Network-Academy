@@ -1,0 +1,45 @@
+{
+    "id": "1502588543",
+    "title": "An ambient light illumination model",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Sergey Zhukov",
+            "id": "2488761331",
+            "org": "St.-Petersburg State Technical University"
+        },
+        {
+            "name": "Andrei Iones",
+            "id": "2302658909",
+            "org": "St.-Petersburg State Technical University"
+        },
+        {
+            "name": "Grigorij V. Kronin",
+            "id": "2320782648",
+            "org": "St.-Petersburg State University"
+        }
+    ],
+    "fields_of_study": [
+        "Phong reflection model",
+        "Critical illumination",
+        "Ambient occlusion",
+        "Diffuse illumination",
+        "Global illumination",
+        "Computer vision",
+        "Radiosity (computer graphics)",
+        "Computer science",
+        "Screen space ambient occlusion",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1506248850",
+        "1534150290",
+        "1644976598",
+        "1982661771",
+        "2059679377",
+        "2069957264",
+        "2086924745",
+        "2165608046"
+    ]
+}

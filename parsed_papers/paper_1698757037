@@ -1,0 +1,45 @@
+{
+    "id": "1698757037",
+    "title": "Mixed-integer programming methods for finding Nash equilibria",
+    "venue": "national conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tuomas Sandholm",
+            "id": "2070867630",
+            "org": "Carnegie Mellon University, Computer Science Department#TAB#"
+        },
+        {
+            "name": "Andrew Gilpin",
+            "id": "2128037451",
+            "org": "Carnegie Mellon University, Computer Science Department#TAB#"
+        },
+        {
+            "name": "Vincent Conitzer",
+            "id": "24490792",
+            "org": "Carnegie Mellon University, Computer Science Department#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nash equilibrium",
+        "Search algorithm",
+        "Normal-form game",
+        "Integer programming",
+        "Best response",
+        "Computer science",
+        "Epsilon-equilibrium",
+        "Anytime algorithm",
+        "Price of stability",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1807884544",
+        "1968143987",
+        "1980453626",
+        "2108113998",
+        "2125537511",
+        "2128206785",
+        "2131967794",
+        "2156523042"
+    ]
+}

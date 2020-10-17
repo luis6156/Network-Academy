@@ -1,0 +1,44 @@
+{
+    "id": "1758266623",
+    "title": "Protein secondary structure prediction for a single-sequence using hidden semi-Markov models",
+    "venue": "BMC Bioinformatics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Zafer Aydin",
+            "id": "2739040474",
+            "org": "School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA"
+        },
+        {
+            "name": "Yucel Altunbasak",
+            "id": "254430587",
+            "org": "School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, USA"
+        },
+        {
+            "name": "Mark Borodovsky",
+            "id": "2289823242",
+            "org": "School of Biology, the Wallace H. Coulter Department of Biomedical Engineering and the Center for Bioinformatics and Computational Biology, Georgia Institute of Technology, Atlanta, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Biology",
+        "Sequence alignment",
+        "Markov model",
+        "Hidden semi-Markov model",
+        "Protein superfamily",
+        "Markov chain",
+        "Cross-validation",
+        "Protein secondary structure",
+        "Bioinformatics",
+        "Peptide sequence"
+    ],
+    "references": [
+        "1488457684",
+        "1511730061",
+        "2002272439",
+        "2046192291",
+        "2093989924",
+        "2128801478",
+        "2134299061"
+    ]
+}

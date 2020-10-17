@@ -1,0 +1,76 @@
+{
+    "id": "1587158155",
+    "title": "A Unified Approach to Related-Key Attacks",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion, , Haifa, Israel 32000#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium B-3001#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel 91904#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Pre-play attack",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Related-key attack",
+        "Slide attack",
+        "Stream cipher attack",
+        "Meet-in-the-middle attack"
+    ],
+    "references": [
+        "18798069",
+        "52191336",
+        "79095404",
+        "1493773451",
+        "1499577822",
+        "1515958737",
+        "1516699468",
+        "1518051266",
+        "1521513823",
+        "1533754067",
+        "1538311080",
+        "1540066842",
+        "1541853791",
+        "1543271574",
+        "1546907539",
+        "1568817903",
+        "1576070627",
+        "1587120902",
+        "1588560622",
+        "1595934196",
+        "1596744447",
+        "1599054856",
+        "1605786664",
+        "1608613499",
+        "1765803531",
+        "1849484603",
+        "1871986277",
+        "1882652738",
+        "1964723977",
+        "1978695162",
+        "1979802565",
+        "1991897749",
+        "2072707905",
+        "2102157442",
+        "2105617715",
+        "2109265351",
+        "2163466490",
+        "2168387895",
+        "2169290761"
+    ]
+}

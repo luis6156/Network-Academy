@@ -1,0 +1,40 @@
+{
+    "id": "1484796814",
+    "title": "Combining Symbolic Execution and Path Enumeration in Worst-Case Execution Time Analysis",
+    "venue": "worst case execution time analysis",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Djemai Kebbal",
+            "id": "2711287755",
+            "org": "Institut de Recherche en Informatique de Toulouse"
+        },
+        {
+            "name": "Pascal Sainrat",
+            "id": "337349952",
+            "org": "Institut de Recherche en Informatique de Toulouse"
+        }
+    ],
+    "fields_of_study": [
+        "Worst-case execution time",
+        "Concolic testing",
+        "Parallel computing",
+        "Enumeration",
+        "Computer science",
+        "Symbolic execution",
+        "Scheduling (computing)",
+        "Real-time computing",
+        "Software verification"
+    ],
+    "references": [
+        "59298299",
+        "226800297",
+        "1762252016",
+        "1797762004",
+        "1979812412",
+        "2094926594",
+        "2119000119",
+        "2138952175",
+        "2504509476"
+    ]
+}

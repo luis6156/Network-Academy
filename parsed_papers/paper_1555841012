@@ -1,0 +1,52 @@
+{
+    "id": "1555841012",
+    "title": "An improved fast signature scheme without online multiplication",
+    "venue": "financial cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Takeshi Okamoto",
+            "id": "2806046768",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology#TAB#"
+        },
+        {
+            "name": "Mitsuru Tada",
+            "id": "2167287395",
+            "org": "Institute of Media and Information Technology, Chiba University#TAB#"
+        },
+        {
+            "name": "Atsuko Miyaji",
+            "id": "1454195615",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Digital signature",
+        "Modular arithmetic",
+        "Identification scheme",
+        "Schnorr signature",
+        "Multiplication",
+        "Modular exponentiation",
+        "Merkle signature scheme",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1489642236",
+        "1493969756",
+        "1498685334",
+        "1500077521",
+        "1569543440",
+        "1589034595",
+        "1603837126",
+        "1911825786",
+        "1979215153",
+        "1988643807",
+        "2052267638",
+        "2052667569",
+        "2095708839",
+        "2169194339"
+    ]
+}

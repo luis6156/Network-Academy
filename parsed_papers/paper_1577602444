@@ -1,0 +1,45 @@
+{
+    "id": "1577602444",
+    "title": "Improving generic non-contiguous file access for MPI-IO",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Joachim Worringen",
+            "id": "1618322169",
+            "org": "C&C Research Laboratories"
+        },
+        {
+            "name": "Jesper Larsson Traff",
+            "id": "718724760",
+            "org": "C&C Research Laboratories"
+        },
+        {
+            "name": "Hubert Ritzdorf",
+            "id": "2002776908",
+            "org": "C&C Research Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Unix file types",
+        "Computer science",
+        "Distributed computing",
+        "Versioning file system",
+        "Fork (file system)",
+        "Stub file",
+        "File system fragmentation",
+        "File Control Block",
+        "Self-certifying File System",
+        "Operating system",
+        "Memory-mapped file"
+    ],
+    "references": [
+        "1555194772",
+        "1969215126",
+        "2014836955",
+        "2019498440",
+        "2110298485",
+        "2136260874"
+    ]
+}

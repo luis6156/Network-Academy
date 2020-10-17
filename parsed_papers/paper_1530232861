@@ -1,0 +1,42 @@
+{
+    "id": "1530232861",
+    "title": "Multi-diffusion-tensor fitting via spherical deconvolution: a unifying framework",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Thomas Schultz",
+            "id": "2156474971",
+            "org": "Computer Science Department and Computation Institute, University of Chicago, Chicago, IL#TAB#"
+        },
+        {
+            "name": "Carl-Fredrik Westin",
+            "id": "2056879232",
+            "org": "Laboratory of Mathematics in Imaging, Brigham and Women's Hospital, Harvard Medical School, Boston, MA#TAB#"
+        },
+        {
+            "name": "Gordon L. Kindlmann",
+            "id": "275330042",
+            "org": "Computer Science Department and Computation Institute, University of Chicago, Chicago, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distribution function",
+        "Mathematics",
+        "Bayesian information criterion",
+        "Diffusion MRI",
+        "Spherical harmonics",
+        "Deconvolution",
+        "Probability distribution",
+        "Mathematical optimization",
+        "Partial volume",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1573880374",
+        "2108895118",
+        "2117307974",
+        "2165471068",
+        "2168389179"
+    ]
+}

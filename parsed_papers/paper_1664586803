@@ -1,0 +1,56 @@
+{
+    "id": "1664586803",
+    "title": "CLOB: communication support for efficient replicated database recovery",
+    "venue": "parallel, distributed and network-based processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Francisco Castro-Company",
+            "id": "1608102785",
+            "org": "Inst. Tecnologico de Informatica, Univ. Politecnica de Valencia, Spain"
+        },
+        {
+            "name": "J. Esparza-Peidro",
+            "id": "2805125685",
+            "org": "Inst. Tecnologico de Informatica, Univ. Politecnica de Valencia, Spain"
+        },
+        {
+            "name": "M.I. Ruiz-Fuertes",
+            "id": "2805920242",
+            "org": "Inst. Tecnologico de Informatica, Univ. Politecnica de Valencia, Spain"
+        },
+        {
+            "name": "Luis Irun-Briz",
+            "id": "1968476822",
+            "org": "Inst. Tecnologico de Informatica, Univ. Politecnica de Valencia, Spain"
+        },
+        {
+            "name": "H. Decker",
+            "id": "2807176114",
+            "org": "Inst. Tecnologico de Informatica, Univ. Politecnica de Valencia, Spain"
+        },
+        {
+            "name": "Francesc D. Munoz-Escoi",
+            "id": "2089263920",
+            "org": "Inst. Tecnologico de Informatica, Univ. Politecnica de Valencia, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Replica",
+        "Computer science",
+        "Distributed computing",
+        "Transaction processing",
+        "Broadcasting",
+        "Database",
+        "Real-time computing",
+        "Atomic broadcast"
+    ],
+    "references": [
+        "163910826",
+        "1541259691",
+        "1584817583",
+        "2112187863",
+        "2154909541",
+        "2155374901"
+    ]
+}

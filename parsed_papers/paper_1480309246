@@ -1,0 +1,53 @@
+{
+    "id": "1480309246",
+    "title": "Distributed file system for clusters and Grids",
+    "venue": "international conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Olivier Valentin",
+            "id": "2638209469",
+            "org": "Laboratoire Informatique et Distribution-IMAG"
+        },
+        {
+            "name": "Pierre Lombard",
+            "id": "2500606736",
+            "org": "Laboratoire Informatique et Distribution-IMAG"
+        },
+        {
+            "name": "Adrien Lebre",
+            "id": "2781435178",
+            "org": "Laboratoire Informatique et Distribution-IMAG"
+        },
+        {
+            "name": "Christian Guinet",
+            "id": "2521477687",
+            "org": "Laboratoire Informatique et Distribution-IMAG"
+        },
+        {
+            "name": "Yves Denneulin",
+            "id": "2522603311",
+            "org": "Laboratoire Informatique et Distribution-IMAG"
+        }
+    ],
+    "fields_of_study": [
+        "SSH File Transfer Protocol",
+        "Parallel computing",
+        "Unix file types",
+        "Computer science",
+        "Distributed computing",
+        "Versioning file system",
+        "File transfer",
+        "Fork (file system)",
+        "Self-certifying File System",
+        "Network File System",
+        "Distributed File System"
+    ],
+    "references": [
+        "80878036",
+        "1588902837",
+        "2131645490",
+        "2155463028",
+        "2170534839"
+    ]
+}

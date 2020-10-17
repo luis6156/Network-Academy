@@ -1,0 +1,43 @@
+{
+    "id": "1581309603",
+    "title": "FPGA implementation of the conjugate gradient method",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Oleg Maslennikow",
+            "id": "186406480",
+            "org": "Technical University of Koszalin, Koszalin, Poland#TAB#"
+        },
+        {
+            "name": "Volodymyr Lepekha",
+            "id": "2285420395",
+            "org": "National Technical University of Ukraine, Kiev, Ukraine#TAB#"
+        },
+        {
+            "name": "Anatoli Sergyienko",
+            "id": "2411229742",
+            "org": "National Technical University of Ukraine, Kiev, Ukraine#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Conjugate gradient method",
+        "Integer",
+        "Algorithm",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Algebraic fraction",
+        "Significand",
+        "Algebraic number",
+        "Multiplication",
+        "Fraction (mathematics)"
+    ],
+    "references": [
+        "1525683742",
+        "1553214226",
+        "1916660900",
+        "2061624656",
+        "2065697740",
+        "2097359713"
+    ]
+}

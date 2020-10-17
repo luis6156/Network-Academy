@@ -1,0 +1,48 @@
+{
+    "id": "1521787982",
+    "title": "Efficient elliptic curve exponentiation",
+    "venue": "international conference on information and communication security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Atsuko Miyaji",
+            "id": "1454195615",
+            "org": "Matsushita Electric Industrial Co., LTD"
+        },
+        {
+            "name": "Takatoshi Ono",
+            "id": "2134676542",
+            "org": "Matsushita Information Systems Research Laboratory Nagoya Co., Ltd."
+        },
+        {
+            "name": "Henri Cohen",
+            "id": "2628995597",
+            "org": "Universite de Bordeaux"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Curve25519",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1529013801",
+        "1560768562",
+        "1584722274",
+        "1646354800",
+        "1798342512",
+        "1981455414",
+        "1996360405",
+        "2003736153",
+        "2028358228",
+        "2108834246",
+        "2156186849"
+    ]
+}

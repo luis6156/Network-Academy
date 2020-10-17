@@ -1,0 +1,46 @@
+{
+    "id": "1506206839",
+    "title": "Real-time face detection in Full HD images exploiting both embedded CPU and GPU",
+    "venue": "international conference on multimedia and expo",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Chanyoung Oh",
+            "id": "2226162519",
+            "org": "School of Electrical and Computer Engineering, University of Seoul, Korea"
+        },
+        {
+            "name": "Saehanseul Yi",
+            "id": "2653915316",
+            "org": "School of Electrical and Computer Engineering, University of Seoul, Korea"
+        },
+        {
+            "name": "Youngmin Yi",
+            "id": "2128558060",
+            "org": "School of Electrical and Computer Engineering, University of Seoul, Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Multi-core processor",
+        "Computer science",
+        "Task parallelism",
+        "Face detection",
+        "CUDA",
+        "Exploit",
+        "Real-time computing"
+    ],
+    "references": [
+        "1545641654",
+        "1971784232",
+        "1975336500",
+        "2033656611",
+        "2098606213",
+        "2105827278",
+        "2108113956",
+        "2148064792",
+        "2163808566",
+        "2164598857"
+    ]
+}

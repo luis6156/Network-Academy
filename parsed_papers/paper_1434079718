@@ -1,0 +1,104 @@
+{
+    "id": "1434079718",
+    "title": "Ironclad apps: end-to-end security via automated full-system verification",
+    "venue": "operating systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Chris Hawblitzel",
+            "id": "2277508068",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Jon Howell",
+            "id": "2128381254",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Jacob R. Lorch",
+            "id": "2150137935",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Arjun Narayan",
+            "id": "2052316706",
+            "org": "University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Bryan Parno",
+            "id": "1595681779",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Danfeng Zhang",
+            "id": "2099242823",
+            "org": "Cornell University#TAB#"
+        },
+        {
+            "name": "Brian Zill",
+            "id": "2093257828",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Hash-based message authentication code",
+        "Software",
+        "Computer science",
+        "Communication channel",
+        "End-to-end principle",
+        "Parsing",
+        "Buffer overflow",
+        "Real-time computing",
+        "Software verification"
+    ],
+    "references": [
+        "44396093",
+        "70331077",
+        "192814132",
+        "1480909796",
+        "1485714328",
+        "1504504841",
+        "1519889149",
+        "1539009458",
+        "1545038039",
+        "1545681762",
+        "1583282080",
+        "1603141861",
+        "1959791580",
+        "1975091280",
+        "1977764760",
+        "1982529770",
+        "1988079752",
+        "1997911919",
+        "2012857639",
+        "2029349492",
+        "2036329595",
+        "2042946599",
+        "2050529434",
+        "2070775894",
+        "2096870293",
+        "2097061283",
+        "2098375905",
+        "2098456636",
+        "2100877271",
+        "2106192381",
+        "2108409407",
+        "2109863363",
+        "2111397260",
+        "2111706174",
+        "2122049982",
+        "2123991163",
+        "2125007280",
+        "2130427425",
+        "2136310957",
+        "2141729404",
+        "2147669587",
+        "2154086287",
+        "2155146646",
+        "2163347957",
+        "2170528665",
+        "2504100651",
+        "2517104773"
+    ]
+}

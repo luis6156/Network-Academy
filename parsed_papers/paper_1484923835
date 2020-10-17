@@ -1,0 +1,51 @@
+{
+    "id": "1484923835",
+    "title": "A Bi-objective Optimization Framework for Heterogeneous CPU/GPU Query Plans",
+    "venue": "Fundamenta Informaticae",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Piotr Przymus",
+            "id": "2052757278",
+            "org": "Faculty of Mathematics and Computer Science, Nicolaus Copernicus University, Chopina 12/18, Torun, Poland. [email protected]#TAB#"
+        },
+        {
+            "name": "Krzysztof Kaczmarski",
+            "id": "2026280049",
+            "org": "Faculty of Mathematics and Information Science, Warsaw University of Technology, Koszykowa 75, 00-662 Warszawa, Poland. k.kaczmarski@mini.pw.edu.pl#TAB#"
+        },
+        {
+            "name": "Krzysztof Stencel",
+            "id": "674901608",
+            "org": "Institute of Informatics, Warsaw University, Banacha 2, 02-097 Warszawa, Poland. stencel@mimuw.edu.pl#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Massively parallel",
+        "Theoretical computer science",
+        "Rendering (computer graphics)",
+        "Computation",
+        "Computer science",
+        "Graphics processing unit",
+        "CUDA",
+        "General-purpose computing on graphics processing units",
+        "Heuristic"
+    ],
+    "references": [
+        "34457099",
+        "78638310",
+        "981617888",
+        "1487025202",
+        "1607968443",
+        "1984385885",
+        "2027865026",
+        "2060164640",
+        "2126378271",
+        "2136083615",
+        "2145943173",
+        "2166519306",
+        "2233570167",
+        "2615240023"
+    ]
+}

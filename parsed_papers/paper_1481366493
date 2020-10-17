@@ -1,0 +1,56 @@
+{
+    "id": "1481366493",
+    "title": "Amplified Boomerang Attack against Reduced-Round SHACAL",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Korea University"
+        },
+        {
+            "name": "Dukjae Moon",
+            "id": "2131345726",
+            "org": "Korea University"
+        },
+        {
+            "name": "Wonil Lee",
+            "id": "2162950431",
+            "org": "Korea University"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Korea University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Seok Won Jung",
+            "id": "2310421662",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "SHACAL",
+        "Block cipher",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "NESSIE",
+        "Computer science",
+        "Boomerang attack",
+        "Differential cryptanalysis",
+        "Hash function"
+    ],
+    "references": [
+        "52191336",
+        "1540066842",
+        "1870015754",
+        "1979802565",
+        "2170677368"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "id": "175046419",
+    "title": "DC express: shortest latency protocol for reading phase change memory over PCI express",
+    "venue": "file and storage technologies",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Dejan Vucinic",
+            "id": "2063288336",
+            "org": "HGST San Jose Research Center#TAB#"
+        },
+        {
+            "name": "Qingbo Wang",
+            "id": "2233466234",
+            "org": "HGST San Jose Research Center#TAB#"
+        },
+        {
+            "name": "Cyril Guyot",
+            "id": "2302764996",
+            "org": "HGST San Jose Research Center#TAB#"
+        },
+        {
+            "name": "Robert Eugeniu Mateescu",
+            "id": "2603382655",
+            "org": "HGST San Jose Research Center#TAB#"
+        },
+        {
+            "name": "Filip Blagojevic",
+            "id": "2637612004",
+            "org": "HGST San Jose Research Center#TAB#"
+        },
+        {
+            "name": "Luiz Franca-Neto",
+            "id": "231882022",
+            "org": "HGST San Jose Research Center#TAB#"
+        },
+        {
+            "name": "Damien C. D. Le Moal",
+            "id": "2762703710",
+            "org": "HGST San Jose Research Center#TAB#"
+        },
+        {
+            "name": "Trevor Bunker",
+            "id": "2149215601",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Jian Xu",
+            "id": "2430795197",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Steven Swanson",
+            "id": "2193904605",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Zvonimir Z. Bandic",
+            "id": "1212275495",
+            "org": "HGST San Jose Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer hardware",
+        "Context switch",
+        "NVM Express",
+        "Computer science",
+        "Queue",
+        "Latency (engineering)",
+        "IOPS",
+        "Memory controller",
+        "Network packet",
+        "PCI Express",
+        "Real-time computing"
+    ],
+    "references": [
+        "31171581",
+        "2129700092",
+        "2160701576",
+        "2165832195"
+    ]
+}

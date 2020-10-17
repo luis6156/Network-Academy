@@ -1,0 +1,61 @@
+{
+    "id": "1153401038",
+    "title": "On Scheduling in Distributed Transactional Memory: Techniques and Tradeoffs",
+    "venue": "Handbook on Data Centers",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Junwhan Kim",
+            "id": "2114637671",
+            "org": "Virginia Tech"
+        },
+        {
+            "name": "Roberto Palmieri",
+            "id": "2152815918",
+            "org": "Virginia Tech"
+        },
+        {
+            "name": "Binoy Ravindran",
+            "id": "2048844354",
+            "org": "Virginia Tech"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Transactional memory",
+        "Distributed computing",
+        "Computer science",
+        "Lock (computer science)",
+        "Concurrency",
+        "Atomicity",
+        "Data structure",
+        "Deadlock",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "155519406",
+        "1511442367",
+        "1542975293",
+        "1857380652",
+        "1966697570",
+        "1980499862",
+        "2006156072",
+        "2008258200",
+        "2022179164",
+        "2066421655",
+        "2068529026",
+        "2070232376",
+        "2096572191",
+        "2097447543",
+        "2101622459",
+        "2103933790",
+        "2107497336",
+        "2108316107",
+        "2114559692",
+        "2120193195",
+        "2123635616",
+        "2163654949",
+        "2165791323",
+        "2435606122"
+    ]
+}

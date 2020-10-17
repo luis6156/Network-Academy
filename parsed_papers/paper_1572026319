@@ -1,0 +1,93 @@
+{
+    "id": "1572026319",
+    "title": "Garbled circuits for leakage-resilience: hardware implementation and evaluation of one-time programs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kimmo Jarvinen",
+            "id": "2152405023",
+            "org": "Dep. of Information and Comp. Science, Aalto University, Finland#TAB#"
+        },
+        {
+            "name": "Vladimir Kolesnikov",
+            "id": "2469209240",
+            "org": "Alcatel-Lucent Bell Laboratories, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Ahmad-Reza Sadeghi",
+            "id": "2120420677",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Schneider",
+            "id": "2138760267",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer hardware",
+        "Field-programmable gate array",
+        "Side channel attack",
+        "Computer science",
+        "Implementation",
+        "Hardware acceleration",
+        "Random oracle",
+        "Application-specific integrated circuit",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "30575285",
+        "1480225633",
+        "1488058190",
+        "1494138594",
+        "1496124759",
+        "1501386175",
+        "1503689022",
+        "1511843316",
+        "1512062395",
+        "1519539754",
+        "1521253015",
+        "1530384431",
+        "1534636449",
+        "1536448783",
+        "1541083511",
+        "1546317402",
+        "1557386445",
+        "1566273181",
+        "1572902997",
+        "1575598731",
+        "1581073174",
+        "1592625985",
+        "1592889082",
+        "1598491617",
+        "1601896745",
+        "1656731780",
+        "1724890242",
+        "1753795543",
+        "1772045830",
+        "1774054610",
+        "1774699283",
+        "1775507803",
+        "1819824216",
+        "1826277484",
+        "1889699207",
+        "1890449996",
+        "1982146060",
+        "2002616520",
+        "2031533839",
+        "2106217851",
+        "2133198962",
+        "2144630005",
+        "2147436724",
+        "2152688060",
+        "2153662381",
+        "2154909745",
+        "2162805750",
+        "2170961388",
+        "2175377689",
+        "2583913662"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "174578849",
+    "title": "ServerSwitch: a programmable and high performance platform for data center networks",
+    "venue": "networked systems design and implementation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Guohan Lu",
+            "id": "2099565375",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Chuanxiong Guo",
+            "id": "2279302698",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yulong Li",
+            "id": "2407389540",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Zhiqiang Zhou",
+            "id": "2718484649",
+            "org": "Tsinghua University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Tong Yuan",
+            "id": "2396858663",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Haitao Wu",
+            "id": "2105028595",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yongqiang Xiong",
+            "id": "2154795548",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Rui Gao",
+            "id": "2778651595",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yongguang Zhang",
+            "id": "2236138046",
+            "org": "Microsoft Research Asia, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Packet forwarding",
+        "Source routing",
+        "Computer science",
+        "Distributed computing",
+        "NetFPGA",
+        "Network switch",
+        "Forwarding plane",
+        "Computer network",
+        "Real-time computing",
+        "OpenFlow",
+        "Packet processing"
+    ],
+    "references": [
+        "1539914100",
+        "1698388015",
+        "2003838150",
+        "2010365467",
+        "2097882016",
+        "2099283075",
+        "2104910040",
+        "2111734949",
+        "2123016589",
+        "2126210439",
+        "2130182604",
+        "2130531694",
+        "2143065961",
+        "2151062909",
+        "2157614013",
+        "2162597606",
+        "2294246362"
+    ]
+}

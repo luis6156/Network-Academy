@@ -1,0 +1,42 @@
+{
+    "id": "1559387807",
+    "title": "Partial Dead Code Elimination for Parallel Programs",
+    "venue": "european conference on parallel processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jens Knoop",
+            "id": "2273773887",
+            "org": "University of Passau"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Semantics",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Interleaving",
+        "Unreachable code",
+        "Data flow diagram",
+        "Dead code elimination"
+    ],
+    "references": [
+        "187774245",
+        "1498548894",
+        "1506062870",
+        "1515448847",
+        "1563916470",
+        "1593165330",
+        "1980241249",
+        "2035330754",
+        "2043100293",
+        "2053152889",
+        "2054739713",
+        "2058360616",
+        "2065818693",
+        "2068219251",
+        "2154411735"
+    ]
+}

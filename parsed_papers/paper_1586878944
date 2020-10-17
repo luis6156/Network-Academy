@@ -1,0 +1,54 @@
+{
+    "id": "1586878944",
+    "title": "An Agent-Based Approach for Scheduling Multiple Machines",
+    "venue": "Applied Intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Rama Akkiraju",
+            "id": "2155466090",
+            "org": "IBM T.J. Watson Research Center, Route 134, Yorktown Heights, NY 10598, USA. akkiraju@watson.ibm.com#TAB#"
+        },
+        {
+            "name": "Pinar Keskinocak",
+            "id": "459049605",
+            "org": "Georsia Institute of Technology, School of Industrial and Systems Engineering, Atlanta GA, 30332. pinar@isye.gatech.edu#TAB#"
+        },
+        {
+            "name": "Sesh Murthy",
+            "id": "2139066084",
+            "org": "IBM T.J. Watson Research Center, Route 134, Yorktown Heights, NY 10598, USA. murthy@watson.ibm.com#TAB#"
+        },
+        {
+            "name": "Frederick Y. Wu",
+            "id": "2146838190",
+            "org": "IBM T.J. Watson Research Center, Route 134, Yorktown Heights, NY 10598, USA. fwu@watson.ibm.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-priority pre-emptive scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Flow shop scheduling",
+        "Lottery scheduling",
+        "Genetic algorithm scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1963826638",
+        "2010592135",
+        "2022817345",
+        "2030250600",
+        "2034801210",
+        "2051768896",
+        "2056466128",
+        "2093563804",
+        "2143462713",
+        "2160107283",
+        "2164483807"
+    ]
+}

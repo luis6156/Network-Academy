@@ -1,0 +1,37 @@
+{
+    "id": "178189088",
+    "title": "Implementing internet key exchange (IKE)",
+    "venue": "usenix annual technical conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Niklas Hallqvist",
+            "id": "2304375447",
+            "org": "Applitron Datasystem AB#TAB#"
+        },
+        {
+            "name": "Angelos D. Keromytis",
+            "id": "299775663",
+            "org": "Distributed Systems Lab, University of Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key exchange",
+        "Kerberized Internet Negotiation of Keys",
+        "Computer science",
+        "IPsec",
+        "Computer security",
+        "AuthIP",
+        "Internet Security Association and Key Management Protocol",
+        "Security policy",
+        "Security association",
+        "Internet Key Exchange"
+    ],
+    "references": [
+        "1533021744",
+        "1567188009",
+        "1686269893",
+        "2156186849",
+        "2170496240"
+    ]
+}

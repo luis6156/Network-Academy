@@ -1,0 +1,35 @@
+{
+    "id": "1573725807",
+    "title": "The Block Cipher Rijndael",
+    "venue": "smart card research and advanced application conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Joan Daemen",
+            "id": "2022183134",
+            "org": "Proton World Int'l"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Block cipher mode of operation",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Two-square cipher",
+        "Computer security",
+        "Triple DES",
+        "CBC-MAC",
+        "Substitution-permutation network",
+        "Advanced Encryption Standard process"
+    ],
+    "references": [
+        "1664808737",
+        "2109265351",
+        "2140330462"
+    ]
+}

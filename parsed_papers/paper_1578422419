@@ -1,0 +1,47 @@
+{
+    "id": "1578422419",
+    "title": "Expressing Parallelism in Java Applications Distributed on Clusters",
+    "venue": "IWCC '01 Proceedings of the NATO Advanced Research Workshop on Advanced Environments, Tools, and Applications for Cluster Computing-Revised Papers",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Violeta Felea",
+            "id": "2557700361",
+            "org": "University of Science and Technology of Lille"
+        },
+        {
+            "name": "Nathalie Devesa",
+            "id": "2137157566",
+            "org": "University of Science and Technology of Lille"
+        },
+        {
+            "name": "Bernard Toursel",
+            "id": "2557312172",
+            "org": "University of Science and Technology of Lille"
+        },
+        {
+            "name": "Pierre Lecouffe",
+            "id": "2306346367",
+            "org": "Institut Universitaire de Technologies A (IUTA)"
+        }
+    ],
+    "fields_of_study": [
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Data parallelism",
+        "Distributed computing",
+        "Java concurrency",
+        "Implicit parallelism",
+        "Task parallelism",
+        "strictfp"
+    ],
+    "references": [
+        "1609529814",
+        "1993922545",
+        "2044916503",
+        "2068458655"
+    ]
+}

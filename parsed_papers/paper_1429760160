@@ -1,0 +1,52 @@
+{
+    "id": "1429760160",
+    "title": "Attacks and Security Proofs of EAX-Prime [?]",
+    "venue": "fast software encryption",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Kazuhiko Minematsu",
+            "id": "2030478481",
+            "org": "NEC Corporation"
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2250691467",
+            "org": "Bauhaus-Universitat Weimar"
+        },
+        {
+            "name": "Hiraku Morita",
+            "id": "2126409601",
+            "org": "Nagoya University"
+        },
+        {
+            "name": "Tetsu Iwata",
+            "id": "2130303538",
+            "org": "Nagoya University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "EAX mode",
+        "Computer science",
+        "Encryption",
+        "Plaintext",
+        "Mathematical proof",
+        "Prime (order theory)",
+        "Pseudorandomness",
+        "Authenticated encryption",
+        "Provable security"
+    ],
+    "references": [
+        "122619279",
+        "1514489116",
+        "1537849967",
+        "1551279437",
+        "1586481148",
+        "1809974132",
+        "1855109561",
+        "2126290606",
+        "2146009225",
+        "2613962897"
+    ]
+}

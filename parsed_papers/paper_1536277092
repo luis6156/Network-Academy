@@ -1,0 +1,55 @@
+{
+    "id": "1536277092",
+    "title": "Efficient 3-Pass Password-Based Key Exchange Protocol with Low Computational Cost for Client",
+    "venue": "international conference on information security and cryptology",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Hyoungkyu Lee",
+            "id": "2630538229",
+            "org": "Information and Communications Security Laboratory, School of Electrical and Computer Engineering, Sungkyunkwan University, 300 Chunchun-dong Jangan-gu, Suwon, Kyunggi-do, Korea"
+        },
+        {
+            "name": "Dong-Ho Won",
+            "id": "2261957550",
+            "org": "Department of Coding Technology, Electronics and Telecommunications Research Institute, 161 Kajong-dong, Yusong-Gu, Taejon, Korea"
+        },
+        {
+            "name": "Kiwook Sohn",
+            "id": "2316313293",
+            "org": "Division of Computer Science, Electronics, and Industrial Engineering, Kangnam University, San 6-2, Kugal-ri, Gihung-up, Yongin, Kyunggi-do, Korea"
+        },
+        {
+            "name": "Hyoungkyu Yang",
+            "id": "2327428006",
+            "org": "Information and Communications Security Laboratory, School of Electrical and Computer Engineering, Sungkyunkwan University, 300 Chunchun-dong Jangan-gu, Suwon, Kyunggi-do, Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Dictionary attack",
+        "Key exchange",
+        "Computer science",
+        "Distributed computing",
+        "Forward secrecy",
+        "Password",
+        "Station-to-Station protocol",
+        "Diffie-Hellman key exchange",
+        "Computer network",
+        "Adversary"
+    ],
+    "references": [
+        "1495253569",
+        "1529024636",
+        "1576213068",
+        "1595293097",
+        "1660562555",
+        "1981455414",
+        "2001788001",
+        "2091020476",
+        "2124371582",
+        "2133432179",
+        "2157604883",
+        "2167006959"
+    ]
+}

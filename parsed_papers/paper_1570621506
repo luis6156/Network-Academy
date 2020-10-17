@@ -1,0 +1,53 @@
+{
+    "id": "1570621506",
+    "title": "Hybrid MPI and OpenMP parallel programming",
+    "venue": "EuroPVM/MPI'06 Proceedings of the 13th European PVM/MPI User's Group conference on Recent advances in parallel virtual machine and message passing interface",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rolf Rabenseifner",
+            "id": "113177573",
+            "org": "Department Parallel Computing, High Performance Computing Center Stuttgart (HLRS), Stuttgart, Germany#TAB#"
+        },
+        {
+            "name": "Georg Hager",
+            "id": "2050181759",
+            "org": "University of Erlangen-Nuremberg, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Gabriele Jost",
+            "id": "2512476177",
+            "org": "Sun Microsystems, Germany#TAB#"
+        },
+        {
+            "name": "Rainer Keller",
+            "id": "2585815237",
+            "org": "Department Parallel Computing, High Performance Computing Center Stuttgart (HLRS), Stuttgart, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SPMD",
+        "Shared memory",
+        "Computer science",
+        "Uniform memory access",
+        "Distributed shared memory",
+        "Data diffusion machine",
+        "Conventional memory",
+        "Flat memory model",
+        "Supercomputer architecture"
+    ],
+    "references": [
+        "1503126987",
+        "1522914210",
+        "1526992452",
+        "1541937702",
+        "1604148295",
+        "1963882433",
+        "2046920165",
+        "2049585661",
+        "2068753738",
+        "2098050542",
+        "2098482419"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "10072121",
+    "title": "Cryptanalysis of the light-weight cipher a2u2",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mohamed Ahmed Abdelraheem",
+            "id": "2057432335",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Julia Borghoff",
+            "id": "1250482674",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Erik Zenner",
+            "id": "2147784711",
+            "org": "University of Applied Sciences Offenburg, Germany#TAB#"
+        },
+        {
+            "name": "Mathieu David",
+            "id": "2522067296",
+            "org": "Aalborg University, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Related-key attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Slide attack",
+        "Stream cipher attack",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "22542791",
+        "83473285",
+        "98791876",
+        "1487353416",
+        "1514489116",
+        "1527450129",
+        "1578155860",
+        "1607874478",
+        "1853704432",
+        "1894646615",
+        "2102697299",
+        "2402579961"
+    ]
+}

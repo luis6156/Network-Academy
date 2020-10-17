@@ -1,0 +1,60 @@
+{
+    "id": "1559040208",
+    "title": "Static Analysis on x86 Executables for Preventing Automatic Mimicry Attacks",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Danilo Bruschi",
+            "id": "1964755389",
+            "org": "Dipartimento di Informatica e Comunicazione, Universita degli Studi di Milano, Milano, Italy, Via Comelico 39/41, I-20135, Milano MI, Italy#TAB#"
+        },
+        {
+            "name": "Lorenzo Cavallaro",
+            "id": "1967828555",
+            "org": "Dipartimento di Informatica e Comunicazione, Universita degli Studi di Milano, Milano, Italy, Via Comelico 39/41, I-20135, Milano MI, Italy#TAB#"
+        },
+        {
+            "name": "Andrea Lanzi",
+            "id": "2306773459",
+            "org": "Dipartimento di Informatica e Comunicazione, Universita degli Studi di Milano, Milano, Italy, Via Comelico 39/41, I-20135, Milano MI, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "x86",
+        "Pointer (computer programming)",
+        "Static analysis",
+        "Executable",
+        "Computer science",
+        "Binary number",
+        "Mimicry",
+        "System call",
+        "Real-time computing"
+    ],
+    "references": [
+        "1112477",
+        "34732858",
+        "1494199306",
+        "1545927878",
+        "1582456956",
+        "1590452455",
+        "1593678010",
+        "1655226010",
+        "1903577715",
+        "1941427975",
+        "1982205631",
+        "2098010707",
+        "2102039064",
+        "2106649514",
+        "2109219878",
+        "2117115928",
+        "2119055825",
+        "2123886726",
+        "2128217000",
+        "2133141510",
+        "2135143063",
+        "2136286495",
+        "2167332015"
+    ]
+}

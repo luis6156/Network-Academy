@@ -1,0 +1,64 @@
+{
+    "id": "1808398105",
+    "title": "Fences in weak memory models",
+    "venue": "computer aided verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jade Alglave",
+            "id": "76926217",
+            "org": "INRIA"
+        },
+        {
+            "name": "Luc Maranget",
+            "id": "78376069",
+            "org": "INRIA"
+        },
+        {
+            "name": "Susmit Sarkar",
+            "id": "2130034569",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Peter Sewell",
+            "id": "2083541332",
+            "org": "University of Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Extended memory",
+        "Theoretical computer science",
+        "Algorithm",
+        "Overlay",
+        "Computer science",
+        "Memory management",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Memory model",
+        "Memory map",
+        "Flat memory model"
+    ],
+    "references": [
+        "1502559739",
+        "1525350307",
+        "1545792627",
+        "1993990180",
+        "1995825057",
+        "2029601347",
+        "2039509099",
+        "2079605740",
+        "2085773946",
+        "2091085450",
+        "2105945277",
+        "2105980774",
+        "2107642570",
+        "2110879934",
+        "2116454140",
+        "2130553247",
+        "2143246735",
+        "2149911648",
+        "2152885346",
+        "2155006989",
+        "2169832991"
+    ]
+}

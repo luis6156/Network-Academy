@@ -1,0 +1,98 @@
+{
+    "id": "1531707100",
+    "title": "Flexible, wide-area storage for distributed systems with WheelFS",
+    "venue": "networked systems design and implementation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jeremy Stribling",
+            "id": "2134155271",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Yair Sovran",
+            "id": "230427096",
+            "org": "New York University#TAB#"
+        },
+        {
+            "name": "Irene Zhang",
+            "id": "2778134840",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Xavid Pretzer",
+            "id": "2067774607",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Jinyang Li",
+            "id": "2138256162",
+            "org": "New York University#TAB#"
+        },
+        {
+            "name": "M. Frans Kaashoek",
+            "id": "378983930",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Robert Tappan Morris",
+            "id": "2112752255",
+            "org": "MIT CSAIL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SSH File Transfer Protocol",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Distributed lock manager",
+        "File system fragmentation",
+        "Journaling file system",
+        "Self-certifying File System",
+        "Torrent file",
+        "Real-time computing",
+        "Distributed File System"
+    ],
+    "references": [
+        "41204052",
+        "125511816",
+        "151129402",
+        "1498571599",
+        "1556088231",
+        "1574249592",
+        "1600328410",
+        "1778962283",
+        "1970705443",
+        "1978855656",
+        "1984674591",
+        "1992479210",
+        "1999984505",
+        "2010365467",
+        "2010445731",
+        "2025413686",
+        "2032775246",
+        "2050731094",
+        "2054278783",
+        "2054584570",
+        "2071958655",
+        "2075854425",
+        "2101915391",
+        "2108026089",
+        "2111223826",
+        "2114349788",
+        "2115457697",
+        "2115806861",
+        "2116142433",
+        "2117260615",
+        "2118428193",
+        "2119565742",
+        "2121133177",
+        "2122789368",
+        "2132051999",
+        "2137026697",
+        "2146176543",
+        "2153704625",
+        "2167898414",
+        "2624304035"
+    ]
+}

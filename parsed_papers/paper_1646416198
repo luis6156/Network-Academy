@@ -1,0 +1,73 @@
+{
+    "id": "1646416198",
+    "title": "Implementation of a Gaussian process-based machine learning grasp predictor",
+    "venue": "Autonomous Robots",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Alex K. Goins",
+            "id": "1975246601",
+            "org": "School of Mechanical, Industrial, and Manufacturing Engineering, Oregon State University, Corvallis, USA 97331#TAB#"
+        },
+        {
+            "name": "Ryan Carpenter",
+            "id": "2295477589",
+            "org": "School of Mechanical, Industrial, and Manufacturing Engineering, Oregon State University, Corvallis, USA 97331#TAB#"
+        },
+        {
+            "name": "Weng-Keen Wong",
+            "id": "2102128069",
+            "org": "School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, USA 97331#TAB#"
+        },
+        {
+            "name": "Ravi Balasubramanian",
+            "id": "2185025647",
+            "org": "School of Mechanical, Industrial, and Manufacturing Engineering, Oregon State University, Corvallis, USA 97331#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Robotics",
+        "Local search (optimization)",
+        "Principal component analysis",
+        "Gaussian process",
+        "GRASP",
+        "Discriminative model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510186039",
+        "1746819321",
+        "1794703952",
+        "1968565040",
+        "1978580730",
+        "2006833873",
+        "2011301426",
+        "2036637075",
+        "2038245875",
+        "2041376653",
+        "2053940671",
+        "2058212397",
+        "2060467095",
+        "2066950481",
+        "2083955337",
+        "2088043683",
+        "2090855657",
+        "2106628124",
+        "2110208234",
+        "2112787507",
+        "2116817751",
+        "2120200810",
+        "2134634036",
+        "2134858017",
+        "2135085314",
+        "2136354320",
+        "2138983671",
+        "2150018021",
+        "2158533927",
+        "2167788274",
+        "2169241897",
+        "2544677708"
+    ]
+}

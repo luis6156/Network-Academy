@@ -1,0 +1,52 @@
+{
+    "id": "1549250309",
+    "title": "Cryptanalysis of t-function-based hash functions",
+    "venue": "international conference on information security and cryptology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Frederic Muller",
+            "id": "2165156849",
+            "org": "HSBC, Paris, France#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2893390095",
+            "org": "France Telecom R&D, Issy les Moulineaux, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Hash buster",
+        "Hash chain",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "81015123",
+        "240886871",
+        "1486719429",
+        "1516636971",
+        "1531932745",
+        "1533007301",
+        "1554858845",
+        "1555297234",
+        "1591147293",
+        "1593401740",
+        "1656731780",
+        "1660562555",
+        "1811456777",
+        "1939171670",
+        "2103239853",
+        "2112492615",
+        "2121021336",
+        "2171096220",
+        "2493686639",
+        "2591652112"
+    ]
+}

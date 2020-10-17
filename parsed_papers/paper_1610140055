@@ -1,0 +1,57 @@
+{
+    "id": "1610140055",
+    "title": "Online dynamic dependence analysis for speculative polyhedral parallelization",
+    "venue": "international conference on parallel processing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Alexandra Jimborean",
+            "id": "14454603",
+            "org": "UPMARC, University of Uppsala, Sweden#TAB#"
+        },
+        {
+            "name": "Philippe Clauss",
+            "id": "2049982228",
+            "org": "Team CAMUS, INRIA, ICube lab., University of Strasbourg, France#TAB#"
+        },
+        {
+            "name": "Juan Manuel Martinez",
+            "id": "2634999759",
+            "org": "Team CAMUS, INRIA, ICube lab., University of Strasbourg, France#TAB#"
+        },
+        {
+            "name": "Aravind Sukumaran-Rajam",
+            "id": "2433838232",
+            "org": "Team CAMUS, INRIA, ICube lab., University of Strasbourg, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Spectrum analyzer",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Memory address",
+        "Dependence analysis",
+        "Rollback",
+        "Loop dependence analysis",
+        "Runtime system",
+        "Speculative multithreading",
+        "Real-time computing"
+    ],
+    "references": [
+        "109355758",
+        "1510727076",
+        "1623282124",
+        "1965693583",
+        "1966670013",
+        "2040441122",
+        "2044132551",
+        "2077324087",
+        "2129245905",
+        "2146081545",
+        "2153510998",
+        "2159055648",
+        "2165880912"
+    ]
+}

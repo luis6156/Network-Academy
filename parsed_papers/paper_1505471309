@@ -1,0 +1,52 @@
+{
+    "id": "1505471309",
+    "title": "Performance Comparison of Pipelined Hash Joins on Workstation Clusters",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kenji Imasaki",
+            "id": "573935904",
+            "org": "School of Computer Science Carleton University"
+        },
+        {
+            "name": "Hong Nguyen",
+            "id": "2677298902",
+            "org": "School of Computer Science Carleton University"
+        },
+        {
+            "name": "Sivarama P. Dandamudi",
+            "id": "304658203",
+            "org": "School of Computer Science Carleton University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Primary clustering",
+        "Rolling hash",
+        "Distributed computing",
+        "Hash buster",
+        "Hash chain",
+        "Hash join",
+        "Computer science",
+        "Block nested loop",
+        "Hash function",
+        "Double hashing"
+    ],
+    "references": [
+        "197484",
+        "1479978568",
+        "1517428033",
+        "1601880505",
+        "1606113372",
+        "1997020216",
+        "2068088848",
+        "2078528123",
+        "2106040609",
+        "2123616104",
+        "2134498478",
+        "2152815268",
+        "2158298830",
+        "2201552871"
+    ]
+}

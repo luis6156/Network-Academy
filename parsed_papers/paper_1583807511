@@ -1,0 +1,43 @@
+{
+    "id": "1583807511",
+    "title": "Formal validation of Java/Swing user interfaces with the event B method",
+    "venue": "international conference on human computer interaction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Alexandre Cortier",
+            "id": "2757118444",
+            "org": "Centre d'Etudes et de Recherches de Toulouse, ONERA, Toulouse, France#TAB#"
+        },
+        {
+            "name": "Bruno d'Ausbourg",
+            "id": "2681486788",
+            "org": "Centre d'Etudes et de Recherches de Toulouse, ONERA, Toulouse, France#TAB#"
+        },
+        {
+            "name": "Yamine Ait-Ameur",
+            "id": "2607680131",
+            "org": "LISI/ENSMA, Toulouse, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Source code",
+        "Computer science",
+        "User interface",
+        "Execution model",
+        "Correctness",
+        "Usability",
+        "Formal methods",
+        "Real-time computing",
+        "B-Method"
+    ],
+    "references": [
+        "1480981189",
+        "1495874602",
+        "1501131646",
+        "1518397212",
+        "2032096737",
+        "2172081876"
+    ]
+}

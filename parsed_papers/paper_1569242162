@@ -1,0 +1,52 @@
+{
+    "id": "1569242162",
+    "title": "Measured Performance of Time Interval Concurrency Control Techniques",
+    "venue": "very large data bases",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Jerre D. Noe",
+            "id": "2346243401",
+            "org": "Computer Science Department|University of Washington"
+        },
+        {
+            "name": "David B. Wagner",
+            "id": "2134687521",
+            "org": "Computer Science Department|University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Timestamp-based concurrency control",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Computer science",
+        "Concurrency control",
+        "Distributed transaction",
+        "Database",
+        "Distributed concurrency control",
+        "Concurrency",
+        "Real-time computing"
+    ],
+    "references": [
+        "26148878",
+        "65972224",
+        "111751570",
+        "149446377",
+        "161365605",
+        "178586387",
+        "343837274",
+        "1492507832",
+        "1593187280",
+        "2004735493",
+        "2011839903",
+        "2074907750",
+        "2106887953",
+        "2108871081",
+        "2133386065",
+        "2137307738",
+        "2159536927",
+        "2168262674",
+        "2435606122"
+    ]
+}

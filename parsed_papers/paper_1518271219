@@ -1,0 +1,49 @@
+{
+    "id": "1518271219",
+    "title": "Finding Bugs in an Alpha Microprocessor Using Satisfiability Solvers",
+    "venue": "computer aided verification",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Per Bjesse",
+            "id": "2780286042",
+            "org": "Chalmers University of Technology"
+        },
+        {
+            "name": "Tim Leonard",
+            "id": "2631177305",
+            "org": "Compaq Computer Corporation"
+        },
+        {
+            "name": "Abdel Mokkedem",
+            "id": "1819203618",
+            "org": "Compaq Computer Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Register-transfer level",
+        "Satisfiability",
+        "Computer science",
+        "Binary decision diagram",
+        "Bounded function",
+        "Symbolic trajectory evaluation",
+        "Bebugging",
+        "Model checking",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "1494481937",
+        "1495266209",
+        "1498682591",
+        "1513300473",
+        "1516936561",
+        "1549820563",
+        "1582162693",
+        "1787074469",
+        "1814068099",
+        "1986558678",
+        "2340735175"
+    ]
+}

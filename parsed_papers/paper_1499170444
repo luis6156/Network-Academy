@@ -1,0 +1,64 @@
+{
+    "id": "1499170444",
+    "title": "Provable Security against Differential and Linear Cryptanalysis for the SPN Structure",
+    "venue": "fast software encryption",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Korea University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2810404144",
+            "org": "Korea University"
+        },
+        {
+            "name": "Dong Hyeon Cheon",
+            "id": "2078490814",
+            "org": "Korea University"
+        },
+        {
+            "name": "Inho Cho",
+            "id": "2395883118",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Substitution-permutation network",
+        "Linear cryptanalysis",
+        "Provable security"
+    ],
+    "references": [
+        "194237467",
+        "1537206908",
+        "1540875416",
+        "1575149347",
+        "1575922610",
+        "1580459019",
+        "1629301835",
+        "1862865750",
+        "1964723977",
+        "1978695162",
+        "2120464016",
+        "2137326899"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "1572782311",
+    "title": "A Volumetric Optical Flow Method for Measurement of Brain Deformation from Intraoperative Magnetic Resonance Images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Nobuhiko Hata",
+            "id": "2123713937",
+            "org": "Brigham and Women's Hospital and Harvard Medical School"
+        },
+        {
+            "name": "Arya Nabavi",
+            "id": "1899453335",
+            "org": "Brigham and Women's Hospital and Harvard Medical School"
+        },
+        {
+            "name": "Simon K. Warfield",
+            "id": "2141164367",
+            "org": "Brigham and Women's Hospital and Harvard Medical School"
+        },
+        {
+            "name": "William M. Wells",
+            "id": "2107357764",
+            "org": "Brigham and Women's Hospital and Harvard Medical School"
+        },
+        {
+            "name": "Ron Kikinis",
+            "id": "908076792",
+            "org": "Brigham and Women's Hospital and Harvard Medical School"
+        },
+        {
+            "name": "Ferenc A. Jolesz",
+            "id": "2090988392",
+            "org": "Brigham and Women's Hospital and Harvard Medical School"
+        }
+    ],
+    "fields_of_study": [
+        "Intraoperative MRI",
+        "Magnetic resonance imaging",
+        "Resection",
+        "Optical flow",
+        "Computer vision",
+        "Computer science",
+        "Physics of magnetic resonance imaging",
+        "Radiology",
+        "Deformation (mechanics)",
+        "Magnetic resonance microscopy",
+        "Midline shift",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1484665822",
+        "1542715991",
+        "1578285471",
+        "1874027545",
+        "2004537679",
+        "2041398617",
+        "2146203184",
+        "2153860196",
+        "2166584738"
+    ]
+}

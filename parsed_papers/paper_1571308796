@@ -1,0 +1,48 @@
+{
+    "id": "1571308796",
+    "title": "Adaptive play in Texas Hold'em Poker",
+    "venue": "european conference on artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Raphael Maitrepierre",
+            "id": "284114737",
+            "org": "INRIA LILLE NORD EUROPE, France, email: raphael.maitrepierre@inria.fr#TAB#"
+        },
+        {
+            "name": "Jeremie Mary",
+            "id": "2124208467",
+            "org": "INRIA LILLE NORD EUROPE, France, email: jeremie.mary@inria.fr#TAB#"
+        },
+        {
+            "name": "Remi Munos",
+            "id": "254054780",
+            "org": "INRIA LILLE NORD EUROPE, France, email: remi.munos@inria.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nash equilibrium",
+        "Texas hold 'em",
+        "Fictitious play",
+        "Computer science",
+        "Best response",
+        "Epsilon-equilibrium",
+        "Correlated equilibrium",
+        "Game tree",
+        "Competitor analysis",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "169877102",
+        "1664963465",
+        "2081459960",
+        "2091358801",
+        "2101861158",
+        "2103315867",
+        "2120032275",
+        "2168405694",
+        "2512124523",
+        "2785425160"
+    ]
+}

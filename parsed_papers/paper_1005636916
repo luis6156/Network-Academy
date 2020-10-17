@@ -1,0 +1,100 @@
+{
+    "id": "1005636916",
+    "title": "Automated compromised right lung segmentation method using a robust atlas-based active volume model with sparse shape composition prior in CT",
+    "venue": "Computerized Medical Imaging and Graphics",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "J Zhou",
+            "id": "2311145181",
+            "org": "University of Maryland-Baltimore"
+        },
+        {
+            "name": "Zhennan Yan",
+            "id": "2047528376",
+            "org": "Rutgers - The State University of New Jersey, New Brunswick"
+        },
+        {
+            "name": "G Lasio",
+            "id": "2590647746",
+            "org": "University of Maryland-Baltimore"
+        },
+        {
+            "name": "Junzhou Huang",
+            "id": "2106662015",
+            "org": "Department of Computer Science and Engineering, University of Texas at Arlington, Arlington, TX, USA"
+        },
+        {
+            "name": "Baoshe Zhang",
+            "id": "2135138021",
+            "org": "University of Maryland-Baltimore"
+        },
+        {
+            "name": "Navesh K. Sharma",
+            "id": "2471438349",
+            "org": "University of Maryland-Baltimore"
+        },
+        {
+            "name": "K Prado",
+            "id": "2571037569",
+            "org": "University of Maryland-Baltimore"
+        },
+        {
+            "name": "W D'Souza",
+            "id": "2150508681",
+            "org": "University of Maryland-Baltimore"
+        }
+    ],
+    "fields_of_study": [
+        "Medicine",
+        "Segmentation",
+        "Computed tomography",
+        "Computer vision",
+        "Pattern recognition",
+        "Image segmentation",
+        "Lung",
+        "Approximation error",
+        "Atlas (anatomy)",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "5296199",
+        "1556218437",
+        "1584300343",
+        "1970928383",
+        "2011710850",
+        "2029115635",
+        "2030729529",
+        "2035107885",
+        "2036390026",
+        "2049266121",
+        "2054553044",
+        "2064511228",
+        "2102336461",
+        "2107770500",
+        "2110872054",
+        "2116040950",
+        "2119300483",
+        "2119360734",
+        "2120621413",
+        "2122692815",
+        "2129417697",
+        "2134539221",
+        "2136145485",
+        "2140775860",
+        "2141453390",
+        "2145332994",
+        "2146587907",
+        "2147427282",
+        "2147484997",
+        "2159212388",
+        "2160962723",
+        "2161912327",
+        "2162837059",
+        "2164774194",
+        "2167100788",
+        "2169371923",
+        "2172250250"
+    ]
+}

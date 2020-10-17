@@ -1,0 +1,48 @@
+{
+    "id": "1530486870",
+    "title": "Token-based authentication for smartphones",
+    "venue": "international conference on data communication networking",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Manuel Koschuch",
+            "id": "2403897223",
+            "org": "Competence Centre for IT-Security, FH Campus Wien - University of Applied Science, Favoritenstrasse 226, 1100, Vienna, Austria"
+        },
+        {
+            "name": "Matthias Hudler",
+            "id": "2100703857",
+            "org": "Competence Centre for IT-Security, FH Campus Wien - University of Applied Science, Favoritenstrasse 226, 1100, Vienna, Austria"
+        },
+        {
+            "name": "Hubert Eigner",
+            "id": "2230617506",
+            "org": "FH Campus Wien - University of Applied Science, Favoritenstrasse 226, 1100, Vienna, Austria"
+        },
+        {
+            "name": "Zsolt Saffer",
+            "id": "2628259107",
+            "org": "Competence Centre for IT-Security, FH Campus Wien - University of Applied Science, Favoritenstrasse 226, 1100, Vienna, Austria"
+        }
+    ],
+    "fields_of_study": [
+        "Multi-factor authentication",
+        "Challenge-response authentication",
+        "Authentication protocol",
+        "Computer science",
+        "Security token",
+        "Generic Bootstrapping Architecture",
+        "Embedded system",
+        "Challenge-Handshake Authentication Protocol",
+        "Chip Authentication Program",
+        "Lightweight Extensible Authentication Protocol"
+    ],
+    "references": [
+        "1626992774",
+        "1660562555",
+        "1837124624",
+        "2062941523",
+        "2096333427",
+        "2156186849"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1543154777",
+    "title": "A fast calculus for the linearizing attack and its application to an attack on KASUMI",
+    "venue": "Applicable Algebra in Engineering, Communication and Computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Nobuyuki Sugio",
+            "id": "1898781750",
+            "org": "NTT DoCoMo, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Shunichi Nambu",
+            "id": "2531249948",
+            "org": "Tokyo University of Science, Chiba, Japan#TAB#"
+        },
+        {
+            "name": "Toshinobu Kaneko",
+            "id": "2312994470",
+            "org": "Tokyo University of Science, Chiba, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Cryptography",
+        "Gauss-Seidel method",
+        "Coefficient matrix",
+        "Encryption",
+        "Gaussian elimination",
+        "KASUMI",
+        "Calculus",
+        "Bent function"
+    ],
+    "references": [
+        "1506892872",
+        "1530365566",
+        "1537107967",
+        "1538961815",
+        "1540875416",
+        "1543039883",
+        "1548516269",
+        "1629301835",
+        "1654806544",
+        "1833400598",
+        "1964723977",
+        "2079197024",
+        "2126382296",
+        "2586045835"
+    ]
+}

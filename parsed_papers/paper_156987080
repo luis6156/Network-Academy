@@ -1,0 +1,50 @@
+{
+    "id": "156987080",
+    "title": "Cache-Access pattern attack on disaligned AES t-tables",
+    "venue": "international workshop constructive side-channel analysis and secure design",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Raphael Spreitzer",
+            "id": "2075805895",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Plos",
+            "id": "264275523",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Brute-force attack",
+        "Software",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Memory address",
+        "Implementation",
+        "Nexus (standard)",
+        "CPU cache"
+    ],
+    "references": [
+        "58308990",
+        "151864858",
+        "172118994",
+        "1496265857",
+        "1566273181",
+        "1592889082",
+        "1664808737",
+        "1890449996",
+        "1994390420",
+        "1998955763",
+        "2103289002",
+        "2110429202",
+        "2126132644",
+        "2126256517",
+        "2131202839",
+        "2172060328",
+        "2394798459",
+        "2400244522"
+    ]
+}

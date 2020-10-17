@@ -1,0 +1,58 @@
+{
+    "id": "157243396",
+    "title": "Recursive diffusion layers for block ciphers and hash functions",
+    "venue": "fast software encryption",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Mahdi Sajadieh",
+            "id": "2303084369",
+            "org": "Cryptography & System Security Research Laboratory, Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran#TAB#"
+        },
+        {
+            "name": "Mohammad Dakhilalian",
+            "id": "1235748282",
+            "org": "Cryptography & System Security Research Laboratory, Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran#TAB#"
+        },
+        {
+            "name": "Hamid Mala",
+            "id": "1982986007",
+            "org": "Department of Information Technology Engineering, University of Isfahan, Isfahan, Iran#TAB#"
+        },
+        {
+            "name": "Pouyan Sepehrdad",
+            "id": "44362941",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Block size",
+        "MDS matrix",
+        "Key schedule",
+        "Algorithm",
+        "Discrete mathematics",
+        "Diffusion layer",
+        "Avalanche effect",
+        "T-function",
+        "Hash function"
+    ],
+    "references": [
+        "35428663",
+        "1527450129",
+        "1531810027",
+        "1542662906",
+        "1552810527",
+        "1556212265",
+        "1578436553",
+        "1607372077",
+        "1629301835",
+        "1870757734",
+        "1964723977",
+        "2018475904",
+        "2027325533",
+        "2141124495",
+        "2166610027"
+    ]
+}

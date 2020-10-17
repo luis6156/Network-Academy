@@ -1,0 +1,53 @@
+{
+    "id": "1580189129",
+    "title": "Formal Verification of Cardholder Registration in SET",
+    "venue": "european symposium on research in computer security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Giampaolo Bella",
+            "id": "2618332681",
+            "org": "Univ. of Cambridge"
+        },
+        {
+            "name": "Fabio Massacci",
+            "id": "2144396565",
+            "org": "Univ. di Siena"
+        },
+        {
+            "name": "Lawrence C. Paulson",
+            "id": "2016735973",
+            "org": "Univ. of Cambridge"
+        },
+        {
+            "name": "Piero Tramontano",
+            "id": "2088873992",
+            "org": "Univ. di Roma \"La Sapienza\""
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Certification",
+        "Formal verification",
+        "Theoretical computer science",
+        "Certificate authority",
+        "Payment gateway",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Formal methods",
+        "HOL"
+    ],
+    "references": [
+        "1520544006",
+        "1670563787",
+        "1829701666",
+        "1905433723",
+        "1996736473",
+        "2052539228",
+        "2133126578",
+        "2134603997",
+        "2145415641",
+        "2146973388"
+    ]
+}

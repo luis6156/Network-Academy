@@ -1,0 +1,89 @@
+{
+    "id": "1528193315",
+    "title": "Implementing multi-stage languages using ASTs, Gensym, and reflection",
+    "venue": "generative programming and component engineering",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cristiano Calcagno",
+            "id": "2115355226",
+            "org": "Imperial College London, UK#TAB#"
+        },
+        {
+            "name": "Walid Taha",
+            "id": "2663121153",
+            "org": "Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Liwen Huang",
+            "id": "2687947992",
+            "org": "Yale University, New Haven, CT#TAB#"
+        },
+        {
+            "name": "Xavier Leroy",
+            "id": "2780386900",
+            "org": "INRIA, Roquencourt, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Abstract syntax tree",
+        "Computer science",
+        "Domain-specific language",
+        "Bytecode",
+        "Abstract syntax",
+        "Compiler",
+        "Functional programming",
+        "Correctness",
+        "Partial evaluation",
+        "Programming language"
+    ],
+    "references": [
+        "109697706",
+        "1516201426",
+        "1518729509",
+        "1519503583",
+        "1532750793",
+        "1537143151",
+        "1555697857",
+        "1556604985",
+        "1560680014",
+        "1563480347",
+        "1566968514",
+        "1570178357",
+        "1596463817",
+        "1643203223",
+        "1679133098",
+        "1783167788",
+        "1810396090",
+        "1963538417",
+        "1967235059",
+        "1983574485",
+        "1988177568",
+        "1990347915",
+        "2014906190",
+        "2021951417",
+        "2022475779",
+        "2029408547",
+        "2032277118",
+        "2037575886",
+        "2041042116",
+        "2059019165",
+        "2074487796",
+        "2078434561",
+        "2078944436",
+        "2094455839",
+        "2096314727",
+        "2103416728",
+        "2106445678",
+        "2111443557",
+        "2121025472",
+        "2134291411",
+        "2136033310",
+        "2157117208",
+        "2296536988",
+        "2399951213",
+        "2601109700",
+        "2784736083",
+        "2803658493"
+    ]
+}

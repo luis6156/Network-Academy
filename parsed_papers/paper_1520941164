@@ -1,0 +1,58 @@
+{
+    "id": "1520941164",
+    "title": "NOZZLE: a defense against heap-spraying code injection attacks",
+    "venue": "usenix security symposium",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Paruj Ratanaworabhan",
+            "id": "149693732",
+            "org": "Cornell University#TAB#"
+        },
+        {
+            "name": "V. Benjamin Livshits",
+            "id": "2057969817",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Benjamin G. Zorn",
+            "id": "2406631840",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Drive-by download",
+        "Address space",
+        "Web page",
+        "Code injection",
+        "Computer science",
+        "Computer security",
+        "Heap spraying",
+        "Heap (data structure)",
+        "Exploit",
+        "Memory corruption",
+        "Internet privacy"
+    ],
+    "references": [
+        "1491178396",
+        "1525958661",
+        "1545927878",
+        "1585348082",
+        "1591237315",
+        "1674877186",
+        "1989060313",
+        "2034346354",
+        "2081768685",
+        "2098010707",
+        "2102039064",
+        "2109219878",
+        "2111165162",
+        "2117115928",
+        "2121579803",
+        "2136938453",
+        "2137786570",
+        "2140409350",
+        "2163241155",
+        "2178663527"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1543468512",
+    "title": "A high performance agent based modelling framework on graphics card hardware with CUDA",
+    "venue": "adaptive agents and multi agents systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Paul Richmond",
+            "id": "2168766635",
+            "org": "University of Sheffield, UK#TAB#"
+        },
+        {
+            "name": "Simon Coakley",
+            "id": "2037664205",
+            "org": "University of Sheffield, UK#TAB#"
+        },
+        {
+            "name": "Daniela M. Romano",
+            "id": "2132895002",
+            "org": "University of Sheffield, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Computer architecture",
+        "Computer science",
+        "Graphics processing unit",
+        "CUDA",
+        "General-purpose computing on graphics processing units",
+        "Parallel algorithm",
+        "Data structure",
+        "Architecture",
+        "CUDA Pinned memory"
+    ],
+    "references": [
+        "2005453221"
+    ]
+}

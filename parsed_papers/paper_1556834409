@@ -1,0 +1,41 @@
+{
+    "id": "1556834409",
+    "title": "A Finite-Time Analysis of Multi-armed Bandits Problems with Kullback-Leibler Divergences",
+    "venue": "conference on learning theory",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Odalric-Ambrym Maillard",
+            "id": "1835833577",
+            "org": "INRIA Lille - Nord Europe"
+        },
+        {
+            "name": "Remi Munos",
+            "id": "254054780",
+            "org": "INRIA Lille - Nord Europe"
+        },
+        {
+            "name": "Gilles Stoltz",
+            "id": "2150131303",
+            "org": "DMA, GREGH, INRIA Paris - Rocquencourt"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Regret",
+        "Static timing analysis",
+        "Kullback-Leibler divergence",
+        "Multi-armed bandit",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1501823362",
+        "1699297496",
+        "1975779216",
+        "2123681024",
+        "2131958277",
+        "2142971854",
+        "2168405694"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1532324212",
+    "title": "Using Block-local Atomicity to Detect Stale-value Concurrency Errors",
+    "venue": "automated technology for verification and analysis",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Cyrille Artho",
+            "id": "1972961116",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Klaus Havelund",
+            "id": "690502127",
+            "org": "NASA Ames Research Center"
+        },
+        {
+            "name": "Armin Biere",
+            "id": "2242438494",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Java bytecode",
+        "Program analysis",
+        "Static analysis",
+        "Shared memory",
+        "Computer science",
+        "Data flow diagram",
+        "Concurrency",
+        "Atomicity",
+        "Data-flow analysis",
+        "Programming language"
+    ],
+    "references": [
+        "1533109738",
+        "1540432280",
+        "1546106366",
+        "1561114929",
+        "1965462925",
+        "1972544179",
+        "1993836075",
+        "1999637392",
+        "2002179840",
+        "2014530617",
+        "2036719919",
+        "2039350582",
+        "2072062729",
+        "2077850509",
+        "2082766667",
+        "2101946114",
+        "2122206368",
+        "2125533170",
+        "2168441850",
+        "2171480813",
+        "2172255864"
+    ]
+}

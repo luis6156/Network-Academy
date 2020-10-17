@@ -1,0 +1,72 @@
+{
+    "id": "1542156450",
+    "title": "Design and use of htalib: a library for hierarchically tiled arrays",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ganesh Bikshandi",
+            "id": "2007170314",
+            "org": "University of Illinois, Urbana-Champaign, IL#TAB#"
+        },
+        {
+            "name": "Jia Guo",
+            "id": "2148525229",
+            "org": "University of Illinois, Urbana-Champaign, IL#TAB#"
+        },
+        {
+            "name": "Christoph von Praun",
+            "id": "1562019009",
+            "org": "IBM T. J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Gabriel Tanase",
+            "id": "1988329735",
+            "org": "Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Basilio B. Fraguela",
+            "id": "2188106664",
+            "org": "Universidade da Coruna, Spain#TAB#"
+        },
+        {
+            "name": "Maria Jesus Garzaran",
+            "id": "2240166792",
+            "org": "University of Illinois, Urbana-Champaign, IL#TAB#"
+        },
+        {
+            "name": "David A. Padua",
+            "id": "2123005755",
+            "org": "University of Illinois, Urbana-Champaign, IL#TAB#"
+        },
+        {
+            "name": "Lawrence Rauchwerger",
+            "id": "84560969",
+            "org": "Texas A&M University, College Station, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Operator (computer programming)",
+        "Theoretical computer science",
+        "Adaptive mesh refinement",
+        "Parallel computing",
+        "Computation",
+        "Locality",
+        "Computer science",
+        "Stencil code",
+        "Data structure"
+    ],
+    "references": [
+        "1510543252",
+        "1561299197",
+        "1623282124",
+        "2085118703",
+        "2098815550",
+        "2119609467",
+        "2122465391",
+        "2137730221",
+        "2159560337",
+        "2164477684",
+        "2173213060"
+    ]
+}

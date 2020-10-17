@@ -1,0 +1,84 @@
+{
+    "id": "1778756532",
+    "title": "PCP: efficient endpoint congestion control",
+    "venue": "networked systems design and implementation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Thomas E. Anderson",
+            "id": "2148869393",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Andy Collins",
+            "id": "2324065997",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Arvind Krishnamurthy",
+            "id": "2088689873",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "John Zahorjan",
+            "id": "503932836",
+            "org": "University of Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "TCP Westwood plus",
+        "Compromise",
+        "FIFO (computing and electronics)",
+        "Computer science",
+        "Queue",
+        "H-TCP",
+        "Slow-start",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing"
+    ],
+    "references": [
+        "1511858651",
+        "1579768150",
+        "1714781699",
+        "1867902620",
+        "1912108019",
+        "1970131865",
+        "1972699782",
+        "1985454260",
+        "1993492456",
+        "1995173604",
+        "1999497459",
+        "2018501701",
+        "2067764765",
+        "2071314114",
+        "2073440460",
+        "2078318318",
+        "2098289156",
+        "2098506891",
+        "2100027342",
+        "2101182788",
+        "2101214690",
+        "2103701891",
+        "2103830109",
+        "2104820473",
+        "2119127927",
+        "2123547142",
+        "2126880366",
+        "2128958340",
+        "2129348840",
+        "2130760304",
+        "2133256691",
+        "2141405301",
+        "2141762756",
+        "2144553078",
+        "2155662830",
+        "2156758450",
+        "2158733823",
+        "2159028070",
+        "2161630099",
+        "2165376395",
+        "2753542457"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1569204576",
+    "title": "A Signcryption Scheme with Signature Directly Verifiable by Public Key",
+    "venue": "public key cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Feng Bao",
+            "id": "2790489527",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Robert H. Deng",
+            "id": "2062283694",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Signcryption",
+        "Cryptography",
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Computer science",
+        "Distributed computing",
+        "Zero-knowledge proof",
+        "Digital signature",
+        "Verifiable secret sharing",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1516634197",
+        "2108834246"
+    ]
+}

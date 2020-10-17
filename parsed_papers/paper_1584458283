@@ -1,0 +1,44 @@
+{
+    "id": "1584458283",
+    "title": "Improving the performance of signature-based network intrusion detection sensors by multi-threading",
+    "venue": "workshop on information security applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Bart Haagdorens",
+            "id": "214381041",
+            "org": "TELE Group, ETRO Department, Vrije Universiteit Brussel, Brussels, Belgium#TAB#"
+        },
+        {
+            "name": "Tim Vermeiren",
+            "id": "1452024479",
+            "org": "R&I, Alcatel Bell, Antwerp, Belgium#TAB#"
+        },
+        {
+            "name": "Marnix Goossens",
+            "id": "2212129115",
+            "org": "TELE Group, ETRO Department, Vrije Universiteit Brussel, Brussels, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Host-based intrusion detection system",
+        "Computer science",
+        "Computer security",
+        "Implementation",
+        "Multithreading",
+        "Network packet",
+        "Intrusion detection system",
+        "Anomaly-based intrusion detection system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1563242287",
+        "1674877186",
+        "1999427165",
+        "2103206157",
+        "2103753887",
+        "2137559158"
+    ]
+}

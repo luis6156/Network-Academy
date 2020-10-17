@@ -1,0 +1,38 @@
+{
+    "id": "1509415190",
+    "title": "A Mechanism for Managing the Buffer Pool in a Relational Database System Using the Hot Set Model",
+    "venue": "very large data bases",
+    "year": 1982,
+    "authors": [
+        {
+            "name": "Giovanni Maria Sacco",
+            "id": "2506782611",
+            "org": "IBM Research Laboratory"
+        },
+        {
+            "name": "Mario Schkolnick",
+            "id": "1720838652",
+            "org": "IBM Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Thrashing",
+        "Database schema",
+        "Object-relational impedance mismatch",
+        "Database model",
+        "Computer science",
+        "Data mining",
+        "Alias",
+        "Database",
+        "Database design",
+        "Relational database management system"
+    ],
+    "references": [
+        "2031032746",
+        "2050902871",
+        "2116436709",
+        "2142098074",
+        "2153329411"
+    ]
+}

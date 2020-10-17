@@ -1,0 +1,36 @@
+{
+    "id": "1491977389",
+    "title": "A method of one-pass seed generation for LFSR-based deterministic/pseudo-random testing of static faults",
+    "venue": "2015 16th Latin-American Test Symposium (LATS)",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Takanori Moriyasu",
+            "id": "2226523782",
+            "org": "Oita University, Oita 870-1192, Japan"
+        },
+        {
+            "name": "Satoshi Ohtake",
+            "id": "2059141600",
+            "org": "Oita University, Oita 870-1192, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom number generator",
+        "Logic gate",
+        "Computer science",
+        "Real-time computing",
+        "Built-in self-test",
+        "Fault coverage",
+        "Linear feedback shift register",
+        "Automatic test pattern generation"
+    ],
+    "references": [
+        "1548070247",
+        "1627397376",
+        "1978399782",
+        "2099226121",
+        "2104107023",
+        "2124618076"
+    ]
+}

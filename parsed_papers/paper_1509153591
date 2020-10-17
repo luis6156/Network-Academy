@@ -1,0 +1,46 @@
+{
+    "id": "1509153591",
+    "title": "Using data flow analysis to infer type information in Java bytecode",
+    "venue": "source code analysis and manipulation",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Paolo Maggi",
+            "id": "2008525740",
+            "org": "Dipt. di Autom. e Inf., Politecnico di Torino, Italy"
+        },
+        {
+            "name": "Riccardo Sisto",
+            "id": "2163144633",
+            "org": "Dipartimento di Automatica|Politecnico di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Java",
+        "Java bytecode",
+        "Computer science",
+        "Type theory",
+        "Graph theory",
+        "Dataflow",
+        "Data flow diagram",
+        "Data-flow analysis",
+        "Call graph",
+        "Programming language"
+    ],
+    "references": [
+        "1498914194",
+        "1605034451",
+        "1948625797",
+        "2002126610",
+        "2021085621",
+        "2025672027",
+        "2091909330",
+        "2106837287",
+        "2124153277",
+        "2127172188",
+        "2135274583",
+        "2168734799",
+        "2171240827"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1555114514",
+    "title": "Distributed versioning: consistent replication for scaling back-end databases of dynamic content web sites",
+    "venue": "acm ifip usenix international conference on middleware",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cristiana Amza",
+            "id": "2107834659",
+            "org": "Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Alan L. Cox",
+            "id": "2139024270",
+            "org": "Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Willy Zwaenepoel",
+            "id": "2290999210",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Application server",
+        "Replication (computing)",
+        "Dynamic web page",
+        "Computer science",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Web server",
+        "Database",
+        "Middleware",
+        "Concurrency control",
+        "Consistency model"
+    ],
+    "references": [
+        "198528920",
+        "1483586365",
+        "1545155892",
+        "1549404527",
+        "1586956242",
+        "1833823679",
+        "1918075888",
+        "1960259873",
+        "1988311692",
+        "2020299987",
+        "2055101374",
+        "2100324492",
+        "2111586962",
+        "2112053513",
+        "2117260615",
+        "2121047005",
+        "2133752438",
+        "2154909541",
+        "2211352702"
+    ]
+}

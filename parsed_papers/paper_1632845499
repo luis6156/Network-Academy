@@ -1,0 +1,45 @@
+{
+    "id": "1632845499",
+    "title": "Address-space layout randomization using code islands",
+    "venue": "Journal of Computer Security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Haizhi Xu",
+            "id": "2139623241",
+            "org": "Correspd. Center for Software Excellence, Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA#TAB#"
+        },
+        {
+            "name": "Steve J. Chapin",
+            "id": "2043804296",
+            "org": "Department of Electrical Engineering and Computer Science, Syracuse University, Syracuse, NY, USA. E-mails: {hxu02, chapin}@syr.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Address space layout randomization",
+        "Brute-force attack",
+        "Address space",
+        "Pointer (computer programming)",
+        "Computer science",
+        "Distributed computing",
+        "Code (cryptography)",
+        "Server",
+        "Randomization",
+        "Buffer overflow",
+        "Real-time computing"
+    ],
+    "references": [
+        "1545927878",
+        "1593678010",
+        "1601102718",
+        "2090181646",
+        "2098010707",
+        "2101699859",
+        "2102902405",
+        "2108860402",
+        "2135143063",
+        "2140073981",
+        "2151996777",
+        "2171264329"
+    ]
+}

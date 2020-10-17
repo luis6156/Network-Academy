@@ -1,0 +1,62 @@
+{
+    "id": "1508466043",
+    "title": "Delayed theory combination vs. nelson-oppen for satisfiability modulo theories: a comparative analysis",
+    "venue": "international conference on logic programming",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Roberto Bruttomesso",
+            "id": "1918427700",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Anders Franzen",
+            "id": "2164428911",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alberto Griggio",
+            "id": "2118432880",
+            "org": "DIT, Universita di Trento, Italy#TAB#"
+        },
+        {
+            "name": "Roberto Sebastiani",
+            "id": "2150132257",
+            "org": "DIT, Universita di Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean satisfiability problem",
+        "Algorithm",
+        "Satisfiability",
+        "Computer science",
+        "Boolean algebra",
+        "Constraint satisfaction",
+        "Propositional calculus",
+        "Solver",
+        "Satisfiability modulo theories",
+        "Modulo"
+    ],
+    "references": [
+        "1488686801",
+        "1489527380",
+        "1512564652",
+        "1515175581",
+        "1515930456",
+        "1582571943",
+        "1923495615",
+        "2030670832",
+        "2096307462",
+        "2114037873",
+        "2158995961",
+        "2164778826",
+        "2259817465",
+        "2276124093",
+        "2890068598"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1580769230",
+    "title": "Controlling Kernel Scheduling from User Space: An Approach to Enhancing Applications' Reactivity to I/O Events",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Vincent Danjean",
+            "id": "2558661965",
+            "org": "LaBRI, Universite de Bordeaux I"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "LaBRI, Universite de Bordeaux I"
+        }
+    ],
+    "fields_of_study": [
+        "epoll",
+        "Context switch",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Kernel virtual address space",
+        "Kernel preemption",
+        "Process management (computing)",
+        "Scheduler activations",
+        "System call",
+        "Real-time computing"
+    ],
+    "references": [
+        "22448193",
+        "1485164776",
+        "1521734293",
+        "1530253070",
+        "1553727810",
+        "2018495485",
+        "2098228070",
+        "2148560604"
+    ]
+}

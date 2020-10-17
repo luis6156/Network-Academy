@@ -1,0 +1,30 @@
+{
+    "id": "1579876520",
+    "title": "FFT-Hash-II is not yet Collision-free",
+    "venue": "international cryptology conference",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "LIENS"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fowler-Noll-Vo hash function",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Computer science",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "1569088779",
+        "1892979794"
+    ]
+}

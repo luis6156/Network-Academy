@@ -1,0 +1,53 @@
+{
+    "id": "1538851202",
+    "title": "Efficient KEMs with partial message recovery",
+    "venue": "Cryptography and Coding'07 Proceedings of the 11th IMA international conference on Cryptography and coding",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Tor E. Bjorstad",
+            "id": "2165818408",
+            "org": "The Selmer Center, Department of Informatics, University of Bergen, Bergen, Norway#TAB#"
+        },
+        {
+            "name": "Alexander W. Dent",
+            "id": "2164332690",
+            "org": "Royal Holloway, University of London, Egham, Surrey, United Kingdom#TAB#"
+        },
+        {
+            "name": "Nigel P. Smart",
+            "id": "2110748698",
+            "org": "Department Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Block cipher mode of operation",
+        "40-bit encryption",
+        "Computer science",
+        "Key (cryptography)",
+        "Distributed computing",
+        "Encryption",
+        "CBC-MAC",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Key size"
+    ],
+    "references": [
+        "15825508",
+        "1487958904",
+        "1552695147",
+        "1607264302",
+        "1610688607",
+        "1656028867",
+        "1956043843",
+        "1982227476",
+        "2052267638",
+        "2122987162",
+        "2139172211",
+        "2157679418",
+        "2162653919",
+        "2165214731",
+        "2405015683"
+    ]
+}

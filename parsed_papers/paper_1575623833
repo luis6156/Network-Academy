@@ -1,0 +1,46 @@
+{
+    "id": "1575623833",
+    "title": "Ant based solver for dynamic vehicle routing problem with time windows and multiple priorities",
+    "venue": "congress on evolutionary computation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Zhiwei Yang",
+            "id": "2151968732",
+            "org": "Leiden Institute of Advanced Computer Science (LIACS), Leiden University, The Netherlands 2333 CA"
+        },
+        {
+            "name": "Michael Emmerich",
+            "id": "66263382",
+            "org": "Leiden Institute of Advanced Computer Science (LIACS), Leiden University, The Netherlands 2333 CA"
+        },
+        {
+            "name": "Thomas Back",
+            "id": "2025148882",
+            "org": "Leiden Institute of Advanced Computer Science (LIACS), Leiden University, The Netherlands 2333 CA"
+        }
+    ],
+    "fields_of_study": [
+        "ANT",
+        "Static routing",
+        "Computer science",
+        "Benchmark (computing)",
+        "Vehicle routing problem",
+        "Quality of service",
+        "Ant colony optimization algorithms",
+        "Destination-Sequenced Distance Vector routing",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1583197694",
+        "1810046508",
+        "2006275224",
+        "2084977713",
+        "2096305430",
+        "2118573797",
+        "2154929945",
+        "2242928552",
+        "2272322821"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "1595784263",
+    "title": "Neural PCA and maximum likelihood hebbian learning on the GPU",
+    "venue": "international conference on artificial neural networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pavel Kromer",
+            "id": "2099256648",
+            "org": "Department of Computer Science, VSB-Technical University of Ostrava, Ostrava-Poruba, Czech Republic,IT4Innovations, Ostrava-Poruba, Czech Republic#TAB#"
+        },
+        {
+            "name": "Emilio Corchado",
+            "id": "155781915",
+            "org": "IT4Innovations, Ostrava-Poruba, Czech Republic,Departamento de Informatica y Automatica, Universidad de Salamanca, Spain#TAB#"
+        },
+        {
+            "name": "Vaclav Snasel",
+            "id": "139560512",
+            "org": "Department of Computer Science, VSB-Technical University of Ostrava, Ostrava-Poruba, Czech Republic,IT4Innovations, Ostrava-Poruba, Czech Republic#TAB#"
+        },
+        {
+            "name": "Jan Platos",
+            "id": "1203227207",
+            "org": "Department of Computer Science, VSB-Technical University of Ostrava, Ostrava-Poruba, Czech Republic,IT4Innovations, Ostrava-Poruba, Czech Republic#TAB#"
+        },
+        {
+            "name": "Laura Garcia-Hernandez",
+            "id": "2132189408",
+            "org": "Area of Project Engineering, University of Cordoba, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Maximum likelihood",
+        "Speedup",
+        "Hebbian theory",
+        "Pattern recognition",
+        "Computer science",
+        "Graphics",
+        "Principal component analysis",
+        "CUDA",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "45349167",
+        "164384110",
+        "1490353925",
+        "1510402688",
+        "1534489295",
+        "1574203583",
+        "1582813132",
+        "1969067576",
+        "1969110479",
+        "1970594742",
+        "1977228239",
+        "1987157168",
+        "2023963201",
+        "2038191011",
+        "2051522689",
+        "2070564056",
+        "2082612735",
+        "2085340984",
+        "2103902311",
+        "2120138324",
+        "2133250123",
+        "2154240080",
+        "2168976537"
+    ]
+}

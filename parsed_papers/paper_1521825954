@@ -1,0 +1,49 @@
+{
+    "id": "1521825954",
+    "title": "System design issues for internet middleware services: deductions from a large client trace",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Steven D. Gribble",
+            "id": "2781130318",
+            "org": "The University of California at Berkeley#TAB#"
+        },
+        {
+            "name": "Eric A. Brewer",
+            "id": "1975802069",
+            "org": "The University of California at Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Latency (engineering)",
+        "Burstiness",
+        "Middleware",
+        "Computer network",
+        "Systems design",
+        "The Internet",
+        "Locality of reference"
+    ],
+    "references": [
+        "1511250399",
+        "1527961683",
+        "1546842576",
+        "1568424533",
+        "1661326830",
+        "1968838480",
+        "1986602270",
+        "2011831586",
+        "2040402865",
+        "2043550167",
+        "2044534358",
+        "2105818147",
+        "2113487460",
+        "2115122866",
+        "2138202500",
+        "2150048640",
+        "2152536325",
+        "2164561363",
+        "2167808397"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1566005068",
+    "title": "Bigloo: A Portable and Optimizing Compiler for Strict Functional Languages",
+    "venue": "static analysis symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Manuel Serrano",
+            "id": "2763549454",
+            "org": "INRIA"
+        },
+        {
+            "name": "Pierre Weis",
+            "id": "2150529795",
+            "org": "INRIA, Le Chesnay Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Interprocedural optimization",
+        "Computer architecture",
+        "Computer science",
+        "Functional compiler",
+        "Compiler",
+        "Bootstrapping (compilers)",
+        "Inline expansion",
+        "Compiler construction",
+        "Compiler correctness",
+        "Optimizing compiler",
+        "Programming language"
+    ],
+    "references": [
+        "147407248",
+        "1580664042",
+        "1973162794",
+        "2004944457",
+        "2057085278",
+        "2094631165",
+        "2169761811"
+    ]
+}

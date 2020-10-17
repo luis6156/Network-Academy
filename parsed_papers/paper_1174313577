@@ -1,0 +1,57 @@
+{
+    "id": "1174313577",
+    "title": "P2P file-sharing in hell: exploiting BitTorrent vulnerabilities to launch distributed reflective DoS attacks",
+    "venue": "WOOT'15 Proceedings of the 9th USENIX Conference on Offensive Technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Florian Adamsky",
+            "id": "1997148643",
+            "org": "City University London#TAB#"
+        },
+        {
+            "name": "Syed Ali Khayam",
+            "id": "2181064381",
+            "org": "PLUMgrid Inc.#TAB#"
+        },
+        {
+            "name": "Rudolf Jager",
+            "id": "2133999042",
+            "org": "THM Friedberg#TAB#"
+        },
+        {
+            "name": "Muttukrishnan Rajarajan",
+            "id": "1949736327",
+            "org": "City University London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Computer science",
+        "File sharing",
+        "BitTorrent protocol encryption",
+        "Encryption",
+        "Distributed hash table",
+        "BitTorrent",
+        "BitTorrent tracker",
+        "Exploit",
+        "Computer network"
+    ],
+    "references": [
+        "1461804874",
+        "1541300462",
+        "1656271119",
+        "1867219652",
+        "1898275944",
+        "1977665418",
+        "1987261375",
+        "1989454965",
+        "2045145806",
+        "2079041580",
+        "2114398364",
+        "2116696275",
+        "2119809214",
+        "2132051999",
+        "2161617546"
+    ]
+}

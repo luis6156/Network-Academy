@@ -1,0 +1,55 @@
+{
+    "id": "1554413585",
+    "title": "High performance RDMA protocols in HPC",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Timothy S. Woodall",
+            "id": "2029622895",
+            "org": "Los Alamos National Laboratory, Advanced Computing Laboratory#TAB#"
+        },
+        {
+            "name": "Galen M. Shipman",
+            "id": "2074390756",
+            "org": "Los Alamos National Laboratory, Advanced Computing Laboratory#TAB#"
+        },
+        {
+            "name": "George Bosilca",
+            "id": "339462875",
+            "org": "Dept. of Computer Science, University of Tennessee#TAB#"
+        },
+        {
+            "name": "Richard L. Graham",
+            "id": "2239366155",
+            "org": "Los Alamos National Laboratory, Advanced Computing Laboratory#TAB#"
+        },
+        {
+            "name": "Arthur B. Maccabe",
+            "id": "2034490368",
+            "org": "Dept. of Computer Science, University of New Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Parallel computing",
+        "Computer science",
+        "InfiniBand",
+        "Message Passing Interface",
+        "Message passing",
+        "Distributed memory",
+        "Registered memory",
+        "Virtual machine",
+        "Myrinet"
+    ],
+    "references": [
+        "21025594",
+        "1579775238",
+        "1641327695",
+        "1825216778",
+        "1984788566",
+        "2013639878",
+        "2021384817",
+        "2157203968"
+    ]
+}

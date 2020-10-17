@@ -1,0 +1,43 @@
+{
+    "id": "1629301835",
+    "title": "Differential cryptanalysis of DES-like cryptosystems",
+    "venue": "international cryptology conference",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Department of Applied Mathematics and Computer Science, The Weizmann Institute of Science, Rehovot, Israel 76100#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Department of Applied Mathematics and Computer Science, The Weizmann Institute of Science, Rehovot, Israel 76100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "XSL attack",
+        "Interpolation attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Integral cryptanalysis",
+        "Computer science",
+        "Boomerang attack",
+        "Computer security",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Hybrid cryptosystem"
+    ],
+    "references": [
+        "1503267625",
+        "1518393264",
+        "1523702841",
+        "1535070980",
+        "1882297107",
+        "1991374982",
+        "2012646342",
+        "2033778422",
+        "2122096983",
+        "2128856149"
+    ]
+}

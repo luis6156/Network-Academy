@@ -1,0 +1,96 @@
+{
+    "id": "1254779325",
+    "title": "A learning-based CT prostate segmentation method via joint transductive feature selection and regression",
+    "venue": "Neurocomputing",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Yinghuan Shi",
+            "id": "2118805678",
+            "org": "Department of Radiology and BRIC, UNC Chapel Hill, USA#TAB#"
+        },
+        {
+            "name": "Yaozong Gao",
+            "id": "2130435799",
+            "org": "Department of Radiology and BRIC, UNC Chapel Hill, USA#TAB#"
+        },
+        {
+            "name": "Shu Liao",
+            "id": "2153681821",
+            "org": "Department of Radiology and BRIC, UNC Chapel Hill, USA#TAB#"
+        },
+        {
+            "name": "Daoqiang Zhang",
+            "id": "2132417921",
+            "org": "Department of Radiology and BRIC, UNC Chapel Hill, USA#TAB#"
+        },
+        {
+            "name": "Yang Gao",
+            "id": "2410080050",
+            "org": "State Key Laboratory for Novel Software Technology, Nanjing University, China#TAB#"
+        },
+        {
+            "name": "Dinggang Shen",
+            "id": "2150708589",
+            "org": "Department of Brain and Cognitive Engineering, Korea University, Seoul, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Regression",
+        "Transduction (machine learning)",
+        "Computer vision",
+        "Pattern recognition",
+        "Centroid",
+        "Computer science",
+        "CT Prostate",
+        "Feature selection",
+        "Voxel",
+        "Scale-space segmentation",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "151031485",
+        "1540155273",
+        "1567424305",
+        "1583700199",
+        "1586988526",
+        "1672781276",
+        "1947468747",
+        "1971892367",
+        "1978920452",
+        "1981437243",
+        "1988626696",
+        "1988790447",
+        "1991167985",
+        "1998396170",
+        "2011658829",
+        "2044267436",
+        "2052214166",
+        "2069201803",
+        "2087844787",
+        "2088776202",
+        "2093323596",
+        "2098242442",
+        "2101054201",
+        "2104290444",
+        "2108584285",
+        "2109292231",
+        "2113606819",
+        "2115021209",
+        "2129259959",
+        "2129812935",
+        "2132984323",
+        "2134491911",
+        "2144585946",
+        "2147345348",
+        "2148946811",
+        "2153635508",
+        "2154053567",
+        "2161969291",
+        "2163352848",
+        "2163595993",
+        "2401764675"
+    ]
+}

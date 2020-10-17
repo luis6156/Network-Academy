@@ -1,0 +1,41 @@
+{
+    "id": "1506183615",
+    "title": "3D segmentation of the cerebrospinal fluid from CT brain scans using local histogram similarity map",
+    "venue": "2015 IEEE 2nd International Conference on Cybernetics (CYBCONF)",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Anna Fabijanska",
+            "id": "148514775",
+            "org": "Institute of Applied Computer Science, Lodz University of Technology, 18/22 Stefanowskiegp Str., 90-924, Poland"
+        },
+        {
+            "name": "Jaroslaw Goclawski",
+            "id": "2434117997",
+            "org": "Institute of Applied Computer Science, Lodz University of Technology, 18/22 Stefanowskiegp Str., 90-924, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Computer science",
+        "Region growing",
+        "Image segmentation",
+        "Neuroimaging",
+        "Voxel",
+        "Histogram",
+        "Cerebrospinal fluid",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "164384110",
+        "1731194882",
+        "1933429209",
+        "1977480624",
+        "2028120315",
+        "2079300747",
+        "2157840858",
+        "2160104978"
+    ]
+}

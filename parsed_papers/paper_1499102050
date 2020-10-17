@@ -1,0 +1,60 @@
+{
+    "id": "1499102050",
+    "title": "Combination of SW countermeasure and CPU modification on FPGA against power analysis",
+    "venue": "workshop on information security applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daisuke Nakatsu",
+            "id": "2048239862",
+            "org": "The University of Electro-Communications, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Yang Li",
+            "id": "2479788587",
+            "org": "The University of Electro-Communications, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Sakiyama",
+            "id": "1905590919",
+            "org": "The University of Electro-Communications, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2778592134",
+            "org": "The University of Electro-Communications, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Design flow",
+        "Parallel computing",
+        "Side channel attack",
+        "Software",
+        "Countermeasure",
+        "Computer science",
+        "Implementation",
+        "Computer security",
+        "Power analysis"
+    ],
+    "references": [
+        "1503689022",
+        "1527460828",
+        "1560093457",
+        "1588877666",
+        "1594464909",
+        "1608098204",
+        "1613874182",
+        "1664808737",
+        "1989903442",
+        "2101393229",
+        "2120326927",
+        "2132250906",
+        "2142266976",
+        "2144630005",
+        "2154909745",
+        "2155938490",
+        "2785651985"
+    ]
+}

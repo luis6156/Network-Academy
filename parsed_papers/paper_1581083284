@@ -1,0 +1,60 @@
+{
+    "id": "1581083284",
+    "title": "Constructing Cryptographic Hash Functions from Fixed-Key Blockciphers",
+    "venue": "international cryptology conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Phillip Rogaway",
+            "id": "2106597688",
+            "org": "Department of Computer Science, University of California, Davis, USA#TAB#"
+        },
+        {
+            "name": "John P. Steinberger",
+            "id": "2123433928",
+            "org": "Department of Mathematics, University of British Columbia, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Collision resistance",
+        "Theoretical computer science",
+        "2-choice hashing",
+        "SHA-2",
+        "Discrete mathematics",
+        "CityHash",
+        "SWIFFT",
+        "MDC-2",
+        "Preimage attack",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "127489029",
+        "1480951587",
+        "1525090271",
+        "1531932745",
+        "1547189451",
+        "1547537489",
+        "1549228503",
+        "1553413085",
+        "1553650484",
+        "1578871704",
+        "1600432225",
+        "1660562555",
+        "1754628477",
+        "1863270349",
+        "1939171670",
+        "2020726579",
+        "2041404167",
+        "2097239580",
+        "2098246923",
+        "2120644709",
+        "2122775562",
+        "2140596630",
+        "2147436724",
+        "2156912159",
+        "2208910531",
+        "2493686639",
+        "2592359449"
+    ]
+}

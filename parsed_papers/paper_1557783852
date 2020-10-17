@@ -1,0 +1,36 @@
+{
+    "id": "1557783852",
+    "title": "Secret sharing homomorphisms: keeping shares of a secret secret",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Josh Benaloh",
+            "id": "2304239797",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Shared secret",
+        "Homomorphism",
+        "Homomorphic secret sharing",
+        "Verifiable secret sharing",
+        "Secret sharing",
+        "Shamir's Secret Sharing",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1590395676",
+        "1600655256",
+        "1980671680",
+        "2088091599",
+        "2133062571",
+        "2141420453",
+        "2203317094",
+        "2294404229"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1504164230",
+    "title": "An OpenMP implementation of parallel FFT and its performance on IA-64 processors",
+    "venue": "international workshop on openmp",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Daisuke Takahashi",
+            "id": "2156780583",
+            "org": "Institute of Information Sciences and Electronics, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Institute of Information Sciences and Electronics, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        },
+        {
+            "name": "Taisuke Boku",
+            "id": "184900542",
+            "org": "Institute of Information Sciences and Electronics, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Itanium",
+        "Shared memory",
+        "Computer science",
+        "Cooley-Tukey FFT algorithm",
+        "IA-64",
+        "Fast Fourier transform",
+        "Parallel algorithm",
+        "CPU cache",
+        "Workstation"
+    ],
+    "references": [
+        "1540992910",
+        "1589136629",
+        "2045836768",
+        "2070455226",
+        "2096070062",
+        "2116493917",
+        "2127391977"
+    ]
+}

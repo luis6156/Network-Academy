@@ -1,0 +1,47 @@
+{
+    "id": "1555194772",
+    "title": "Flattening on the Fly: Efficient Handling of MPI Derived Datatypes",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jesper Larsson Traff",
+            "id": "718724760",
+            "org": "NEC Europe Ltd."
+        },
+        {
+            "name": "Rolf Hempel",
+            "id": "2003334398",
+            "org": "NEC Europe Ltd."
+        },
+        {
+            "name": "Hubert Ritzdorf",
+            "id": "2002776908",
+            "org": "NEC Europe Ltd."
+        },
+        {
+            "name": "Falk Zimmermann",
+            "id": "2056547113",
+            "org": "NEC Europe Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Memory organisation",
+        "Supercomputer",
+        "Parallel computing",
+        "Computer science",
+        "On the fly",
+        "Distributed computing",
+        "Implementation",
+        "Message Passing Interface",
+        "Parsing",
+        "Systems architecture",
+        "Flattening",
+        "Real-time computing"
+    ],
+    "references": [
+        "1564376008",
+        "2014836955",
+        "2081612620"
+    ]
+}

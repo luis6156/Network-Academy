@@ -1,0 +1,95 @@
+{
+    "id": "1798868054",
+    "title": "A Novel Representation of Parts for Accurate 3D Object Detection and Tracking in Monocular Images",
+    "venue": "international conference on computer vision",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Alberto Crivellaro",
+            "id": "2048055735",
+            "org": "Comput. Vision Lab., Ecole Polytech. Fed. de Lausanne (EPFL), Lausanne, Switzerland"
+        },
+        {
+            "name": "Mahdi Rad",
+            "id": "2517120913",
+            "org": "Inst. for Comput. Graphics & Vision, Graz Univ. of Technol., Graz, Austria"
+        },
+        {
+            "name": "Yannick Verdie",
+            "id": "2716708582",
+            "org": "Comput. Vision Lab., Ecole Polytech. Fed. de Lausanne (EPFL), Lausanne, Switzerland"
+        },
+        {
+            "name": "Kwang Moo Yi",
+            "id": "2710536490",
+            "org": "Comput. Vision Lab., Ecole Polytech. Fed. de Lausanne (EPFL), Lausanne, Switzerland"
+        },
+        {
+            "name": "Pascal Fua",
+            "id": "2461306359",
+            "org": "Comput. Vision Lab., Ecole Polytech. Fed. de Lausanne (EPFL), Lausanne, Switzerland"
+        },
+        {
+            "name": "Vincent Lepetit",
+            "id": "206624101",
+            "org": "Inst. for Comput. Graphics & Vision, Graz Univ. of Technol., Graz, Austria"
+        }
+    ],
+    "fields_of_study": [
+        "Articulated body pose estimation",
+        "Pose",
+        "Object detection",
+        "Viola-Jones object detection framework",
+        "Computer vision",
+        "3D pose estimation",
+        "Computer science",
+        "Pattern recognition",
+        "Augmented reality",
+        "Convolutional neural network",
+        "Monocular",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "46376622",
+        "85088262",
+        "116751493",
+        "132147841",
+        "344254576",
+        "612478963",
+        "1022526533",
+        "1519402791",
+        "1752823667",
+        "1794667371",
+        "1909903157",
+        "1964201035",
+        "1974069346",
+        "1980931830",
+        "1992706277",
+        "1994349244",
+        "2003838372",
+        "2021851106",
+        "2050966058",
+        "2051264744",
+        "2051460003",
+        "2058960217",
+        "2083978480",
+        "2088711760",
+        "2092985495",
+        "2096600681",
+        "2097696373",
+        "2101199297",
+        "2108134361",
+        "2108940975",
+        "2111589119",
+        "2123537152",
+        "2128019145",
+        "2132079375",
+        "2151290401",
+        "2155217696",
+        "2161168419",
+        "2167447192",
+        "2168356304",
+        "2170873877",
+        "2213271652"
+    ]
+}

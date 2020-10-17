@@ -1,0 +1,54 @@
+{
+    "id": "1590222747",
+    "title": "An Inference Algorithm for Guaranteeing Safe Destruction",
+    "venue": "logic-based program synthesis and transformation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Manuel Montenegro",
+            "id": "2145391421",
+            "org": "Universidad Complutense de Madrid, Madrid, Spain 28040#TAB#"
+        },
+        {
+            "name": "Ricardo Pena",
+            "id": "2702397742",
+            "org": "Universidad Complutense de Madrid, Madrid, Spain 28040#TAB#"
+        },
+        {
+            "name": "Clara Segura",
+            "id": "2130208810",
+            "org": "Universidad Complutense de Madrid, Madrid, Spain 28040#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dangling pointer",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Type inference",
+        "Inference",
+        "Correctness",
+        "Pattern matching",
+        "Functional programming",
+        "Data structure",
+        "Programming language",
+        "Programmer"
+    ],
+    "references": [
+        "905794",
+        "1508514069",
+        "1519343834",
+        "1971634047",
+        "1980142751",
+        "1988661738",
+        "2028038730",
+        "2040070287",
+        "2047793578",
+        "2055814018",
+        "2062823821",
+        "2068055184",
+        "2074003683",
+        "2087875803",
+        "2166853865"
+    ]
+}

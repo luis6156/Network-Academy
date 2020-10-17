@@ -1,0 +1,99 @@
+{
+    "id": "1651456183",
+    "title": "Multi-armed bandit models for 2D grasp planning with uncertainty",
+    "venue": "conference on automation science and engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michael Laskey",
+            "id": "2228686212",
+            "org": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley; Berkeley, CA 94720, USA"
+        },
+        {
+            "name": "Jeffrey Mahler",
+            "id": "2136765025",
+            "org": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley; Berkeley, CA 94720, USA"
+        },
+        {
+            "name": "Zoe McCarthy",
+            "id": "2569103859",
+            "org": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley; Berkeley, CA 94720, USA"
+        },
+        {
+            "name": "Florian T. Pokorny",
+            "id": "2094396357",
+            "org": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley; Berkeley, CA 94720, USA"
+        },
+        {
+            "name": "Sachin Patil",
+            "id": "2460170020",
+            "org": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley; Berkeley, CA 94720, USA"
+        },
+        {
+            "name": "Jur P. van den Berg",
+            "id": "2681525453",
+            "org": "Google; Amphitheatre Parkway, Mountain View, CA 94043, USA"
+        },
+        {
+            "name": "Danica Kragic",
+            "id": "326313970",
+            "org": "Computer Vision and Active Perception Lab, Centre for Autonomous Systems, School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden"
+        },
+        {
+            "name": "Pieter Abbeel",
+            "id": "243981275",
+            "org": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley; Berkeley, CA 94720, USA"
+        },
+        {
+            "name": "Ken Goldberg",
+            "id": "2171412814",
+            "org": "Department of Industrial Engineering and Operations Research and Department of Electrical Engineering and Computer Sciences, University of California, Berkeley; Berkeley, CA 94720, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Order fulfillment",
+        "Gaussian process",
+        "Convergence (routing)",
+        "Gittins index",
+        "Engineering",
+        "Robustness (computer science)",
+        "Multi-armed bandit",
+        "GRASP",
+        "Mathematical optimization",
+        "Thompson sampling",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "189728362",
+        "260397725",
+        "1510186039",
+        "1549675037",
+        "1559022906",
+        "1580502621",
+        "1746819321",
+        "1794703952",
+        "1911551976",
+        "1974508427",
+        "2018823761",
+        "2034939775",
+        "2038245875",
+        "2083955337",
+        "2087759104",
+        "2088043683",
+        "2096204844",
+        "2106215490",
+        "2107153006",
+        "2108738385",
+        "2113263132",
+        "2116817751",
+        "2121863487",
+        "2150690761",
+        "2161674001",
+        "2165501312",
+        "2166426966",
+        "2166566250",
+        "2167458557",
+        "2169136412"
+    ]
+}

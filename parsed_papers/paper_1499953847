@@ -1,0 +1,42 @@
+{
+    "id": "1499953847",
+    "title": "Expanding Pseudorandom Functions; or: From Known-Plaintext Security to Chosen-Plaintext Security",
+    "venue": "international cryptology conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "Department of Computer Science, Science and Technology, Aarhus University"
+        },
+        {
+            "name": "Jesper Buus Nielsen",
+            "id": "2120255844",
+            "org": "Department of Computer Science, Science and Technology, Aarhus University"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Block cipher",
+        "Theoretical computer science",
+        "Block cipher mode of operation",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Encryption",
+        "Plaintext",
+        "CBC-MAC",
+        "Pseudorandom generator"
+    ],
+    "references": [
+        "2027528470",
+        "2031495811",
+        "2112460803",
+        "2117362057",
+        "2133065964",
+        "2139172211",
+        "2144560442",
+        "2152723805",
+        "2164284862"
+    ]
+}

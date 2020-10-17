@@ -1,0 +1,49 @@
+{
+    "id": "1517763629",
+    "title": "3D Object Positioning from Monocular Image Brightnesses",
+    "venue": "international conference on image analysis and processing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Tadayoshi Shioyama",
+            "id": "2032228284",
+            "org": "Kyoto Institute of Technology"
+        },
+        {
+            "name": "Haiyuan Wu",
+            "id": "2130516853",
+            "org": "Kyoto Institute of Technology"
+        },
+        {
+            "name": "Wen Biao Jiang",
+            "id": "2130076823",
+            "org": "Kyoto Institute of Technology"
+        },
+        {
+            "name": "Susumu Terauchi",
+            "id": "2286865022",
+            "org": "Kyoto Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Rotation matrix",
+        "Plane of rotation",
+        "Computer vision",
+        "Euler's rotation theorem",
+        "Computer science",
+        "Axis-angle representation",
+        "Improper rotation",
+        "Singular value decomposition",
+        "Image plane",
+        "Rodrigues' rotation formula",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "121511052",
+        "1970097244",
+        "2025934818",
+        "2128019145",
+        "2166914105",
+        "2167272966"
+    ]
+}

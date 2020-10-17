@@ -1,0 +1,36 @@
+{
+    "id": "166852527",
+    "title": "Improving DES coprocessor throughput for short operations",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Mark Lindemann",
+            "id": "2146301460",
+            "org": "IBM TJ Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Sean W. Smith",
+            "id": "2121197119",
+            "org": "Dept. of CS/Institute for Security and Technology Studies, Dartmouth College, Hanover, NH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Throughput",
+        "Byte",
+        "Software",
+        "Computer science",
+        "Computer security",
+        "Coprocessor",
+        "Megabyte"
+    ],
+    "references": [
+        "25108249",
+        "2054546630",
+        "2065207200",
+        "2086515721",
+        "2133065964",
+        "2152723805"
+    ]
+}

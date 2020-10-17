@@ -1,0 +1,54 @@
+{
+    "id": "1543729339",
+    "title": "Predicate-based authenticated key exchange resilient to ephemeral key leakage",
+    "venue": "workshop on information security applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Atsushi Fujioka",
+            "id": "2735592098",
+            "org": "NTT Information Sharing Platform Laboratories, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Koutarou Suzuki",
+            "id": "2526671548",
+            "org": "NTT Information Sharing Platform Laboratories, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuki Yoneyama",
+            "id": "2013076459",
+            "org": "NTT Information Sharing Platform Laboratories, Musashino-shi, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Predicate (grammar)",
+        "Ephemeral key",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Key (lock)",
+        "Attribute-based encryption",
+        "Leakage (electronics)",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "47635216",
+        "1498316612",
+        "1527077352",
+        "1542059364",
+        "1584434231",
+        "1593401740",
+        "1596208550",
+        "1787766190",
+        "1834967612",
+        "2037370045",
+        "2076965705",
+        "2098996144",
+        "2100788090",
+        "2135654420",
+        "2138001464",
+        "2153281696",
+        "2155672489"
+    ]
+}

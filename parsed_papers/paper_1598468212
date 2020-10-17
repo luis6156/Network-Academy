@@ -1,0 +1,43 @@
+{
+    "id": "1598468212",
+    "title": "Verifying Implementation Relations",
+    "venue": "formal methods",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jonathan Burton",
+            "id": "2666253075",
+            "org": "University of Newcastle"
+        },
+        {
+            "name": "Maciej Koutny",
+            "id": "2049275856",
+            "org": "University of Newcastle"
+        },
+        {
+            "name": "Giuseppe Pappalardo",
+            "id": "2486939537",
+            "org": "Universita degli Studi di Catania"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Software development",
+        "Computer science",
+        "Distributed computing",
+        "Graph theory",
+        "Reference implementation",
+        "Abstraction",
+        "Communicating sequential processes",
+        "Principle of compositionality"
+    ],
+    "references": [
+        "1503973138",
+        "1567359179",
+        "1709754610",
+        "2007107553",
+        "2102024400",
+        "2110425399",
+        "2136920408"
+    ]
+}

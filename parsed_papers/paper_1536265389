@@ -1,0 +1,66 @@
+{
+    "id": "1536265389",
+    "title": "Optimizing Java Bytecode Using the Soot Framework: Is It Feasible?",
+    "venue": "compiler construction",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Raja Vallee-Rai",
+            "id": "335412788",
+            "org": "McGill University"
+        },
+        {
+            "name": "Etienne M. Gagnon",
+            "id": "2151179799",
+            "org": "McGill University"
+        },
+        {
+            "name": "Laurie J. Hendren",
+            "id": "2057929015",
+            "org": "McGill University"
+        },
+        {
+            "name": "Patrick Lam",
+            "id": "2893772373",
+            "org": "McGill University"
+        },
+        {
+            "name": "Patrice Pominville",
+            "id": "2037488075",
+            "org": "McGill University"
+        },
+        {
+            "name": "Vijay Sundaresan",
+            "id": "2764249761",
+            "org": "McGill University"
+        }
+    ],
+    "fields_of_study": [
+        "Interpreter",
+        "Java",
+        "Java bytecode",
+        "Basic block",
+        "Compiler",
+        "Computer science",
+        "Bytecode",
+        "Virtual machine",
+        "Program optimization",
+        "Programming language"
+    ],
+    "references": [
+        "1491178396",
+        "1508742040",
+        "1511809518",
+        "1555634152",
+        "1596847037",
+        "1987809485",
+        "2007146206",
+        "2010540686",
+        "2062909992",
+        "2076090418",
+        "2088019269",
+        "2114067856",
+        "2154611120",
+        "2171240827"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1517923646",
+    "title": "A meet-in-the-middle collision attack against the new FORK-256",
+    "venue": "international conference on progress in cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Markku-Juhani O. Saarinen",
+            "id": "2082818636",
+            "org": "Royal Holloway, University of London, Egham, Surrey, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Birthday attack",
+        "SHA-2",
+        "Primary clustering",
+        "Computer science",
+        "Distributed computing",
+        "FORK-256",
+        "Slide attack",
+        "Collision attack",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "1540973840",
+        "1610003881",
+        "1669611298",
+        "2008272678",
+        "2156501427",
+        "2396849988"
+    ]
+}

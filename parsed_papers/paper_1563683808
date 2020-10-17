@@ -1,0 +1,49 @@
+{
+    "id": "1563683808",
+    "title": "RRPJ: result-rate based progressive relational join",
+    "venue": "database systems for advanced applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Wee Hyong Tok",
+            "id": "2668582148",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        },
+        {
+            "name": "Stephane Bressan",
+            "id": "2159446685",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        },
+        {
+            "name": "Mong Li Lee",
+            "id": "2159408573",
+            "org": "School of Computing, National University of Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Data stream mining",
+        "Recursive join",
+        "Computer science",
+        "Data mining",
+        "Hash join",
+        "Hierarchical database model",
+        "Database",
+        "Block nested loop",
+        "Sort-merge join",
+        "Tuple"
+    ],
+    "references": [
+        "1515038756",
+        "1594122454",
+        "1858414509",
+        "2020147322",
+        "2095891890",
+        "2103733531",
+        "2109149785",
+        "2132510297",
+        "2135499008",
+        "2151089824",
+        "2203361072"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1481726796",
+    "title": "Storage Size Reduction by In-place Mapping of Arrays",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Remko Troncon",
+            "id": "1963437978",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Maurice Bruynooghe",
+            "id": "1275083776",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Gerda Janssens",
+            "id": "1997037825",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Francky Catthoor",
+            "id": "2420147499",
+            "org": "IMEC/DESICS"
+        }
+    ],
+    "fields_of_study": [
+        "Energy consumption",
+        "Liveness",
+        "Distributed computing",
+        "Computer science",
+        "Minimum bounding box",
+        "Vector processor",
+        "Real-time computing"
+    ],
+    "references": [
+        "120752280",
+        "1502058785",
+        "1554034042",
+        "1587281066",
+        "1980962065",
+        "2010196134",
+        "2011078763",
+        "2032391783",
+        "2073855204"
+    ]
+}

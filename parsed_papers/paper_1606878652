@@ -1,0 +1,75 @@
+{
+    "id": "1606878652",
+    "title": "An Augmented Lagrangian Approach to Constrained MAP Inference",
+    "venue": "international conference on machine learning",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Pedro M. Q. Aguiar",
+            "id": "2171713006",
+            "org": "Instituto de Sistemas e Robotica, Instituto Superior Tecnico, Lisboa, Portugal"
+        },
+        {
+            "name": "Eric P. Xing",
+            "id": "351197510",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA"
+        },
+        {
+            "name": "M rio Figueiredo",
+            "id": "2586825905",
+            "org": "Instituto de Telecomunicacoes"
+        },
+        {
+            "name": "Noah A. Smith",
+            "id": "2250998000",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA"
+        },
+        {
+            "name": "Andr Martins",
+            "id": "2587102587",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Augmented Lagrangian method",
+        "Quadratic equation",
+        "Factor graph",
+        "Parallelizable manifold",
+        "Discrete mathematics",
+        "Decomposition method (constraint satisfaction)",
+        "sort",
+        "Inference",
+        "Subgradient method",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1511986666",
+        "1536930200",
+        "1548836709",
+        "1574662932",
+        "1576002161",
+        "1601035521",
+        "1903393809",
+        "1978259121",
+        "1986500605",
+        "1988615825",
+        "1989115577",
+        "2058532290",
+        "2100726809",
+        "2108619558",
+        "2114741181",
+        "2120340025",
+        "2135414191",
+        "2137813581",
+        "2138086725",
+        "2144414892",
+        "2149474573",
+        "2161246326",
+        "2164278908",
+        "2164918853",
+        "2171675680"
+    ]
+}

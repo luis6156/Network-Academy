@@ -1,0 +1,53 @@
+{
+    "id": "1517193549",
+    "title": "Formalizing TLM with Communicating State Machines",
+    "venue": "forum on specification and design languages",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Bernhard Niemann",
+            "id": "2189496552",
+            "org": "Fraunhofer Institute for Integrated Circuits"
+        },
+        {
+            "name": "Christian Haubelt",
+            "id": "2001360966",
+            "org": "University of Erlangen-Nuremberg"
+        },
+        {
+            "name": "Maite Uribe Oyanguren",
+            "id": "2092308321",
+            "org": "Fraunhofer Institute for Integrated Circuits"
+        },
+        {
+            "name": "Jurgen Teich",
+            "id": "2017911276",
+            "org": "University of Erlangen-Nuremberg"
+        }
+    ],
+    "fields_of_study": [
+        "Member variable",
+        "Computer architecture",
+        "Theoretical computer science",
+        "Register-transfer level",
+        "SystemC",
+        "Computer science",
+        "Reference model",
+        "Real-time computing",
+        "Finite-state machine",
+        "Database transaction"
+    ],
+    "references": [
+        "1489391022",
+        "1873191171",
+        "2023777102",
+        "2101931376",
+        "2107629078",
+        "2151174323",
+        "2152154822",
+        "2154206750",
+        "2169490784",
+        "2399260475",
+        "2399484968"
+    ]
+}

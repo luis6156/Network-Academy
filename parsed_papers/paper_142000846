@@ -1,0 +1,42 @@
+{
+    "id": "142000846",
+    "title": "First differential attack on full 32-round GOST",
+    "venue": "international conference on information and communication security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "342533692",
+            "org": "University College London, Gower Street, London, UK#TAB#"
+        },
+        {
+            "name": "Michal Misztal",
+            "id": "2163458966",
+            "org": "Military University of Technology, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Differential cryptanalysis",
+        "Triple DES"
+    ],
+    "references": [
+        "1498785007",
+        "1511533320",
+        "1527545029",
+        "1570084506",
+        "1573314286",
+        "1587525026",
+        "1595934196",
+        "1983617130",
+        "2059322341",
+        "2121433919",
+        "2206761661",
+        "2398836113",
+        "2401943416"
+    ]
+}

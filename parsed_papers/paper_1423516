@@ -1,0 +1,42 @@
+{
+    "id": "1423516",
+    "title": "Software implementation of modular exponentiation, using advanced vector instructions architectures",
+    "venue": "international conference on arithmetic of finite fields",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Shay Gueron",
+            "id": "2178289",
+            "org": "Department of Mathematics, University of Haifa, Israel, Intel Corporation, Israel Development Center, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Vlad Krasnov",
+            "id": "2000554416",
+            "org": "Intel Corporation, Israel Development Center, Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "x86",
+        "SIMD",
+        "Computer architecture",
+        "Parallel computing",
+        "Software",
+        "Speedup",
+        "Computer science",
+        "Implementation",
+        "Instruction set",
+        "Modular exponentiation",
+        "Architecture"
+    ],
+    "references": [
+        "1512628322",
+        "1581260209",
+        "1864311428",
+        "1910751411",
+        "2004975280",
+        "2042984424",
+        "2103006603",
+        "2116513590",
+        "2151163104"
+    ]
+}

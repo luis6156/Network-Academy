@@ -1,0 +1,57 @@
+{
+    "id": "1504931814",
+    "title": "Is cache-oblivious DGEMM viable?",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "John A. Gunnels",
+            "id": "2402633652",
+            "org": "IBM T. J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Fred G. Gustavson",
+            "id": "2077030820",
+            "org": "IBM T. J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Keshav Pingali",
+            "id": "651843436",
+            "org": "Dept. of Computer Science, Cornell University, Ithaca, NY#TAB#"
+        },
+        {
+            "name": "Kamen Yotov",
+            "id": "1937576091",
+            "org": "Dept. of Computer Science, Cornell University, Ithaca, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache-oblivious algorithm",
+        "Parallel computing",
+        "Recursion",
+        "Computer architecture",
+        "Memory hierarchy",
+        "Computer science",
+        "Hierarchy",
+        "Register allocation",
+        "Basic Linear Algebra Subprograms",
+        "Register file",
+        "Operand"
+    ],
+    "references": [
+        "1516000274",
+        "1546569454",
+        "1571254452",
+        "1585447259",
+        "1964031104",
+        "1972501001",
+        "1975244539",
+        "1994962371",
+        "2026237859",
+        "2064037464",
+        "2095875205",
+        "2109222446",
+        "2119130488",
+        "2166737459"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1553315960",
+    "title": "dl2asp: implementing default logic via answer set programming",
+    "venue": "european conference on logics in artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yin Chen",
+            "id": "2134120159",
+            "org": "Department of Computer Science, South China Normal University, Guangzhou, China#TAB#"
+        },
+        {
+            "name": "Hai Wan",
+            "id": "2137110162",
+            "org": "School of Software, Sun Yat-Sen University, Guangzhou, China#TAB#"
+        },
+        {
+            "name": "Yan Zhang",
+            "id": "2105096905",
+            "org": "School of Computing and Information Technology, University of Western Sydney, Penrith South DC, NSW, Australia#TAB#"
+        },
+        {
+            "name": "Yi Zhou",
+            "id": "2625640996",
+            "org": "School of Computing and Information Technology, University of Western Sydney, Penrith South DC, NSW, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Default argument",
+        "Answer set programming",
+        "Propositional formula",
+        "Horn clause",
+        "Default logic",
+        "Stable model semantics",
+        "Solver",
+        "Logic programming"
+    ],
+    "references": [
+        "91024833",
+        "155184613",
+        "1481719343",
+        "1500046621",
+        "1502733280",
+        "1518705996",
+        "1520957705",
+        "1599554600",
+        "1623618347",
+        "1672891595",
+        "1831160428",
+        "1969965298",
+        "1976055110",
+        "1997714358",
+        "2007993940",
+        "2009317964",
+        "2020169768",
+        "2023797662",
+        "2072686921",
+        "2076698873",
+        "2155322595",
+        "2164749099"
+    ]
+}

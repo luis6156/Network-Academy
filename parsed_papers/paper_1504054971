@@ -1,0 +1,84 @@
+{
+    "id": "1504054971",
+    "title": "Restructuring computations for temporal data cache locality",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Venkata K. Pingali",
+            "id": "37596312",
+            "org": "Information Sciences Institute, University of Southern California, Los Angeles, California#TAB#"
+        },
+        {
+            "name": "Sally A. McKee",
+            "id": "1945385691",
+            "org": "Electrical and Computer Engineering, Cornell University, Ithaca, New York#TAB#"
+        },
+        {
+            "name": "Wilson C. Hsieh",
+            "id": "2136379990",
+            "org": "School of Computing, 50S Central Campus Drive, Room 3190, University of Utah, Salt Lake City, Utah#TAB#"
+        },
+        {
+            "name": "John B. Carter",
+            "id": "2157253276",
+            "org": "School of Computing, 50S Central Campus Drive, Room 3190, University of Utah, Salt Lake City, Utah#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Translation lookaside buffer",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Speedup",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Non-uniform memory access",
+        "Distributed memory",
+        "Real-time computing",
+        "Locality of reference"
+    ],
+    "references": [
+        "234809692",
+        "1488421969",
+        "1496148647",
+        "1564883604",
+        "1600053460",
+        "1645807896",
+        "1968347730",
+        "1978780448",
+        "1993464114",
+        "2032732648",
+        "2037018253",
+        "2042629708",
+        "2052196304",
+        "2059696856",
+        "2061291998",
+        "2066155701",
+        "2080422774",
+        "2082856519",
+        "2095679548",
+        "2095875205",
+        "2096070062",
+        "2098130516",
+        "2098220211",
+        "2098815550",
+        "2111069040",
+        "2115667390",
+        "2116730320",
+        "2118269922",
+        "2118735733",
+        "2122234783",
+        "2124711255",
+        "2126601652",
+        "2127881761",
+        "2137077706",
+        "2153499233",
+        "2155917287",
+        "2160404300",
+        "2165971729",
+        "2244841219",
+        "2295099251"
+    ]
+}

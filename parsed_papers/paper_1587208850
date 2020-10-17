@@ -1,0 +1,57 @@
+{
+    "id": "1587208850",
+    "title": "Sybil-resistant DHT routing",
+    "venue": "european symposium on research in computer security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "George Danezis",
+            "id": "22890495",
+            "org": "Computer Laboratory, University of Cambridge, Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Chris Lesniewski-Laas",
+            "id": "2076327067",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "M. Frans Kaashoek",
+            "id": "378983930",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Ross J. Anderson",
+            "id": "2120643228",
+            "org": "Computer Laboratory, University of Cambridge, Cambridge, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Content addressable network",
+        "Computer science",
+        "Distributed computing",
+        "Key-based routing",
+        "Distributed hash table",
+        "Computer security",
+        "Kademlia",
+        "Graph",
+        "Sybil attack",
+        "Adversary"
+    ],
+    "references": [
+        "105601597",
+        "1505528031",
+        "1520914943",
+        "2079318510",
+        "2101902057",
+        "2103208011",
+        "2118428193",
+        "2128678576",
+        "2144631484",
+        "2158049821",
+        "2163059190",
+        "2167898414",
+        "2168274815",
+        "2171957559"
+    ]
+}

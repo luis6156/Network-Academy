@@ -1,0 +1,46 @@
+{
+    "id": "1544103676",
+    "title": "On Fuzzy vs. Metric Similarity Search in Complex Databases",
+    "venue": "flexible query answering systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Alan Eckhardt",
+            "id": "2128337857",
+            "org": "Department of Software Engineering, Charles University, and Institute of Computer Science, Czech Academy of Science, Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Tomas Skopal",
+            "id": "22082914",
+            "org": "Department of Software Engineering, Charles University,#TAB#"
+        },
+        {
+            "name": "Peter Vojtas",
+            "id": "387084222",
+            "org": "Department of Software Engineering, Charles University, and Institute of Computer Science, Czech Academy of Science, Prague, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Normalized compression distance",
+        "Similarity heuristic",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Metric tree",
+        "Semantic similarity",
+        "Fuzzy logic",
+        "Database",
+        "Similarity measure"
+    ],
+    "references": [
+        "1563951013",
+        "1880945766",
+        "2108053094",
+        "2121435689",
+        "2129430460",
+        "2163820446",
+        "2164312060",
+        "2626304854"
+    ]
+}

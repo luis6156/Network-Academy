@@ -1,0 +1,74 @@
+{
+    "id": "1595452620",
+    "title": "Verifying Sequential Consistency on Shared-Memory Multiprocessor Systems",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Thomas A. Henzinger",
+            "id": "2707196735",
+            "org": "University of California"
+        },
+        {
+            "name": "Shaz Qadeer",
+            "id": "1985363956",
+            "org": "University of California"
+        },
+        {
+            "name": "Sriram K. Rajamani",
+            "id": "2687091789",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Sequential consistency",
+        "Parallel computing",
+        "Release consistency",
+        "Computer science",
+        "Distributed computing",
+        "Snoopy cache",
+        "Shared memory",
+        "Cache coherence",
+        "Weak consistency",
+        "Real-time computing",
+        "Causal consistency",
+        "Consistency model"
+    ],
+    "references": [
+        "1488858096",
+        "1497571013",
+        "1501731334",
+        "1502765706",
+        "1546387297",
+        "1555915743",
+        "1593428110",
+        "1596365597",
+        "1797192225",
+        "1808035063",
+        "1881906100",
+        "1982900911",
+        "1985841559",
+        "1986463648",
+        "1990161286",
+        "2000210358",
+        "2015688007",
+        "2029601347",
+        "2048880957",
+        "2054739713",
+        "2106626405",
+        "2107859560",
+        "2109338287",
+        "2114658430",
+        "2121978431",
+        "2125047630",
+        "2149426263",
+        "2153904572",
+        "2170212320",
+        "2172097538",
+        "2295903464",
+        "2504057811",
+        "2672830324"
+    ]
+}

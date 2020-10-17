@@ -1,0 +1,45 @@
+{
+    "id": "1176925507",
+    "title": "State-Recovery Analysis of Spritz",
+    "venue": "international conference on progress in cryptology",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ralph Ankele",
+            "id": "2797808930",
+            "org": "Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Kolbl",
+            "id": "2559078386",
+            "org": "DTU Compute, Technical University of Denmark, Lyngby, Denmark#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "2607524346",
+            "org": "DTU Compute, Technical University of Denmark, Lyngby, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Keystream",
+        "Cryptanalysis",
+        "Computer science",
+        "Brute-force search",
+        "Stream cipher",
+        "Probabilistic logic",
+        "RC4",
+        "Probability distribution",
+        "Permutation"
+    ],
+    "references": [
+        "1513703559",
+        "1556597491",
+        "1592773427",
+        "2163005041",
+        "2188768858",
+        "2402892194",
+        "2406237491",
+        "2786219742"
+    ]
+}

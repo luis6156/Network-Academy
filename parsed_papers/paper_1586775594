@@ -1,0 +1,40 @@
+{
+    "id": "1586775594",
+    "title": "SimRobot - a general physical robot simulator and its application in robocup",
+    "venue": "robot soccer world cup",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Tim Laue",
+            "id": "2117303523",
+            "org": "Bremer Institut fur Sichere Systeme, Technologie-Zentrum Informatik, FB 3, Universitat Bremen, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Kai Spiess",
+            "id": "2143414218",
+            "org": "Bremer Institut fur Sichere Systeme, Technologie-Zentrum Informatik, FB 3, Universitat Bremen, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Rofer",
+            "id": "139009017",
+            "org": "Bremer Institut fur Sichere Systeme, Technologie-Zentrum Informatik, FB 3, Universitat Bremen, Bremen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Robot",
+        "Computer science",
+        "Robotics",
+        "Actuator",
+        "Visualization",
+        "Rigid body dynamics",
+        "Mobile robot",
+        "Scene graph",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1517523385",
+        "2108458455",
+        "2110764261"
+    ]
+}

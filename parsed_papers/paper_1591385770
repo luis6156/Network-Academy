@@ -1,0 +1,49 @@
+{
+    "id": "1591385770",
+    "title": "DISPAR-tournament: a parallel population reduction operator that behaves like a tournament",
+    "venue": "european conference on applications of evolutionary computation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ogier Maitre",
+            "id": "2169864358",
+            "org": "LSIIT, UMR, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Deepak Sharma",
+            "id": "2194200331",
+            "org": "LSIIT, UMR, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Nicolas Lachiche",
+            "id": "254277980",
+            "org": "LSIIT, UMR, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Pierre Collet",
+            "id": "2042503075",
+            "org": "LSIIT, UMR, Illkirch, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tournament",
+        "Mathematics",
+        "Operator (computer programming)",
+        "Evolution strategy",
+        "Tournament selection",
+        "Evolutionary algorithm",
+        "Disjoint sets",
+        "Population reduction",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1568834902",
+        "1745477558",
+        "2027945080",
+        "2054074945",
+        "2071806120",
+        "2122440220",
+        "2150871235",
+        "2171193747"
+    ]
+}

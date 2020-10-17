@@ -1,0 +1,40 @@
+{
+    "id": "1555690151",
+    "title": "An Application Case for Ravenscar Technology: Porting OBOSS to GNAT/ORK",
+    "venue": "international conference on reliable software technologies",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Tullio Vardanega",
+            "id": "82840676",
+            "org": "European Space Research and Technology Centre"
+        },
+        {
+            "name": "Rodrigo Pardo Garcia",
+            "id": "2156811351",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Juan Antonio de la Puente",
+            "id": "2181468809",
+            "org": "Universidad Politecnica de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "Software development",
+        "Computer science",
+        "Ravenscar profile",
+        "Database",
+        "Concurrency",
+        "Expressive power",
+        "Real-time operating system",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1595523311",
+        "1601453474",
+        "2031777647"
+    ]
+}

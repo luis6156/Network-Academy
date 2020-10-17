@@ -1,0 +1,51 @@
+{
+    "id": "1518029257",
+    "title": "Serpent: A New Block Cipher Proposal",
+    "venue": "fast software encryption",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion"
+        },
+        {
+            "name": "Ross J. Anderson",
+            "id": "2120643228",
+            "org": "Cambridge University"
+        },
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "University of Bergen"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Ciphertext stealing",
+        "Block cipher mode of operation",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Two-square cipher",
+        "Triple DES",
+        "Key whitening",
+        "CBC-MAC",
+        "MDC-2"
+    ],
+    "references": [
+        "1543271574",
+        "1546907539",
+        "1548516269",
+        "1583816927",
+        "1964723977",
+        "1979802565",
+        "1991897749",
+        "1997695931",
+        "2027588622",
+        "2054546630",
+        "2071381324",
+        "2170489924",
+        "2234576048"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1486307217",
+    "title": "On efficient models for model checking message-passing distributed protocols",
+    "venue": "formal methods for open object based distributed systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Peter Bokor",
+            "id": "2037902109",
+            "org": "Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Marco Serafini",
+            "id": "2894631794",
+            "org": "Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Neeraj Suri",
+            "id": "2237402376",
+            "org": "Technische Universitat Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "State machine replication",
+        "Message passing",
+        "Correctness",
+        "Paxos",
+        "Formal methods",
+        "Model checking",
+        "Distributed algorithm",
+        "Real-time computing",
+        "Finite-state machine"
+    ],
+    "references": [
+        "80787065",
+        "1773354560",
+        "1858035675",
+        "2030935018",
+        "2075854425",
+        "2116989825",
+        "2120510885",
+        "2143149536",
+        "2143221733",
+        "2155037890",
+        "2340735175"
+    ]
+}

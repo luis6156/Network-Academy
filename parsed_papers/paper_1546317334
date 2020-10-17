@@ -1,0 +1,62 @@
+{
+    "id": "1546317334",
+    "title": "Hypervisor support for identifying covertly executing binaries",
+    "venue": "usenix security symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Lionel Litty",
+            "id": "2135703568",
+            "org": "Dept. of Computer Science, University of Toronto#TAB#"
+        },
+        {
+            "name": "H. Andres Lagar-Cavilla",
+            "id": "2406569183",
+            "org": "Dept. of Computer Science, University of Toronto#TAB#"
+        },
+        {
+            "name": "David Lie",
+            "id": "2096695634",
+            "org": "Dept. of Elec. and Comp. Eng., University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Hypervisor",
+        "Rootkit",
+        "Executable",
+        "Source code",
+        "Computer science",
+        "Binary number",
+        "Computer security",
+        "Semantic gap",
+        "Operating system",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "73598622",
+        "94181602",
+        "161166442",
+        "1504669610",
+        "1556296739",
+        "1641762327",
+        "1742385376",
+        "1976146154",
+        "2017573886",
+        "2029224396",
+        "2112731379",
+        "2116433890",
+        "2117648703",
+        "2119982986",
+        "2126734536",
+        "2131726714",
+        "2137622193",
+        "2138594564",
+        "2146431583",
+        "2148865465",
+        "2154081981",
+        "2162800072",
+        "2164358678",
+        "2166004296"
+    ]
+}

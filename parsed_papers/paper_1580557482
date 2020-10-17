@@ -1,0 +1,44 @@
+{
+    "id": "1580557482",
+    "title": "Model-based online learning of POMDPs",
+    "venue": "european conference on machine learning",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Guy Shani",
+            "id": "2174228000",
+            "org": "Ben-Gurion University, Beer-Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Ronen I. Brafman",
+            "id": "690764203",
+            "org": "Ben-Gurion University, Beer-Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Solomon Eyal Shimony",
+            "id": "2333889049",
+            "org": "Ben-Gurion University, Beer-Sheva, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Markov decision process",
+        "Partially observable Markov decision process",
+        "Computer science",
+        "Reinforcement learning",
+        "Error-driven learning",
+        "Observable",
+        "Solver",
+        "Machine learning",
+        "Semi-supervised learning"
+    ],
+    "references": [
+        "1539216098",
+        "1640774615",
+        "1657674574",
+        "2099873296",
+        "2108519123",
+        "2158907787",
+        "2159498728"
+    ]
+}

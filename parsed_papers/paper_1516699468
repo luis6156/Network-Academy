@@ -1,0 +1,57 @@
+{
+    "id": "1516699468",
+    "title": "Related-key cryptanalysis of 3-WAY, Biham-DES, CAST, DES-X, NewDES, RC2, and TEA",
+    "venue": "international conference on information and communication security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "U. C. Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "DES-X",
+        "Block cipher",
+        "Cryptography",
+        "Cryptanalysis",
+        "Computer science",
+        "Computer security",
+        "XTEA",
+        "Differential cryptanalysis",
+        "NewDES",
+        "Correlation attack"
+    ],
+    "references": [
+        "1492619099",
+        "1505072712",
+        "1527545029",
+        "1527701244",
+        "1543271574",
+        "1546907539",
+        "1562280314",
+        "1590873771",
+        "1597936869",
+        "1801417685",
+        "1850505544",
+        "1978695162",
+        "1991897749",
+        "2000646727",
+        "2063407971",
+        "2067999695",
+        "2081451319",
+        "2147436504",
+        "2149110252",
+        "2610935322"
+    ]
+}

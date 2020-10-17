@@ -1,0 +1,50 @@
+{
+    "id": "1604316186",
+    "title": "A ROSE-Based OpenMP 3.0 research compiler supporting multiple runtime libraries",
+    "venue": "international workshop on openmp",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Chunhua Liao",
+            "id": "2120604268",
+            "org": "Center for Applied Scientific Computing, Lawrence Livermore National Laboratory, Livermore, CA#TAB#"
+        },
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2126332795",
+            "org": "Center for Applied Scientific Computing, Lawrence Livermore National Laboratory, Livermore, CA#TAB#"
+        },
+        {
+            "name": "Thomas Panas",
+            "id": "311749697",
+            "org": "Center for Applied Scientific Computing, Lawrence Livermore National Laboratory, Livermore, CA#TAB#"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Center for Applied Scientific Computing, Lawrence Livermore National Laboratory, Livermore, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Computer science",
+        "Compiler",
+        "Runtime system",
+        "Hardware architecture",
+        "Extensibility",
+        "Programming paradigm",
+        "Fortran"
+    ],
+    "references": [
+        "1525215176",
+        "1589839372",
+        "1888974726",
+        "1993881507",
+        "2068810256",
+        "2118880662",
+        "2159618460"
+    ]
+}

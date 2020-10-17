@@ -1,0 +1,38 @@
+{
+    "id": "1496265847",
+    "title": "Non-expanding, key-minimal, robustly-perfect, linear and bilinear ciphers",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "James L. Massey",
+            "id": "1513199363",
+            "org": "Institute for Signal and Information Processing, Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Ueli Maurer",
+            "id": "2068596995",
+            "org": "Institute for Signal and Information Processing, Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Muzhong Wang",
+            "id": "2151842166",
+            "org": "Institute for Signal and Information Processing, Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Block size",
+        "Key schedule",
+        "Transposition cipher",
+        "S-box",
+        "Discrete mathematics",
+        "Computer science",
+        "Two-square cipher",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1604499961"
+    ]
+}

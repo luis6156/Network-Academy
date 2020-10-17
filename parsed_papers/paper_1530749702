@@ -1,0 +1,47 @@
+{
+    "id": "1530749702",
+    "title": "PWIM: an architectural model for OR-parallelism on distributed memory systems",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Fabrizio Baiardi",
+            "id": "383934522",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "D. Di Bella",
+            "id": "2480962527",
+            "org": "Universita di Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Conventional memory",
+        "Flat memory model"
+    ],
+    "references": [
+        "25559139",
+        "59721016",
+        "83875380",
+        "110744676",
+        "191670929",
+        "1503740743",
+        "1505489395",
+        "1567936764",
+        "1570280013",
+        "1580727523",
+        "1995879535",
+        "2037878372",
+        "2047008023",
+        "2058355999",
+        "2130769520"
+    ]
+}

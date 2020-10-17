@@ -1,0 +1,116 @@
+{
+    "id": "1798702550",
+    "title": "Scalable Bayesian Optimization Using Deep Neural Networks",
+    "venue": "international conference on machine learning",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jasper Snoek",
+            "id": "2167134412",
+            "org": "Harvard University, School of Engineering and Applied Sciences"
+        },
+        {
+            "name": "Oren Rippel",
+            "id": "175540777",
+            "org": "Massachusetts Institute of Technology, Department of Mathematics"
+        },
+        {
+            "name": "Kevin Swersky",
+            "id": "35158847",
+            "org": "University of Toronto, Department of Computer Science"
+        },
+        {
+            "name": "Ryan Kiros",
+            "id": "1190321462",
+            "org": "University of Toronto, Department of Computer Science"
+        },
+        {
+            "name": "Nadathur Satish",
+            "id": "2079263147",
+            "org": "Intel Labs, Parallel Computing Lab"
+        },
+        {
+            "name": "Narayanan Sundaram",
+            "id": "2006867725",
+            "org": "Intel Labs, Parallel Computing Lab"
+        },
+        {
+            "name": "Md. Mostofa Ali Patwary",
+            "id": "2305409651",
+            "org": "Intel Labs, Parallel Computing Lab"
+        },
+        {
+            "name": "Prabhat",
+            "id": "2837158723",
+            "org": "NERSC, Lawrence Berkeley National Laboratory"
+        },
+        {
+            "name": "Ryan P. Adams",
+            "id": "2178816185",
+            "org": "Harvard University, School of Engineering and Applied Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Hyperparameter optimization",
+        "Global optimization",
+        "Surrogate model",
+        "Pattern recognition",
+        "Computer science",
+        "Test functions for optimization",
+        "Bayesian optimization",
+        "Gaussian process",
+        "Artificial neural network",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "4919037",
+        "60686164",
+        "76331760",
+        "84569508",
+        "137285897",
+        "1514535095",
+        "1533803232",
+        "1591801644",
+        "1663973292",
+        "1701825639",
+        "1777124189",
+        "1799366690",
+        "1844684489",
+        "1861492603",
+        "1870250857",
+        "1871676304",
+        "1904365287",
+        "1959608418",
+        "2047229728",
+        "2064675550",
+        "2073272667",
+        "2097998348",
+        "2099679938",
+        "2099768828",
+        "2106411961",
+        "2110582581",
+        "2111051539",
+        "2111241577",
+        "2113145584",
+        "2117561707",
+        "2122262818",
+        "2123045220",
+        "2131241448",
+        "2139929624",
+        "2151238122",
+        "2154087390",
+        "2156375221",
+        "2162724919",
+        "2166566250",
+        "2168894214",
+        "2169003314",
+        "2171361956",
+        "2200000192",
+        "2294059674",
+        "2607022887",
+        "2727300753"
+    ]
+}

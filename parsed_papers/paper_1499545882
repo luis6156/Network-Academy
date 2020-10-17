@@ -1,0 +1,48 @@
+{
+    "id": "1499545882",
+    "title": "A Distributed Implementation of Shared Virtual Memory with Strong and Weak Coherence",
+    "venue": "distributed memory computing conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Wolfgang K. Giloi",
+            "id": "2067491427",
+            "org": "GMD Research Center for Innovative Computer Systems and Technology at the Technical University of Berlin"
+        },
+        {
+            "name": "C. Hastedt",
+            "id": "2280323509",
+            "org": "GMD Research Center for Innovative Computer Systems and Technology at the Technical University of Berlin"
+        },
+        {
+            "name": "Friedrich Schon",
+            "id": "2698859345",
+            "org": "GMD Research Center for Innovative Computer Systems and Technology at the Technical University of Berlin"
+        },
+        {
+            "name": "Wolfgang Schroder-Preikschat",
+            "id": "2799183663",
+            "org": "GMD Research Center for Innovative Computer Systems and Technology at the Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Cache coherence",
+        "Memory coherence",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Shared disk architecture"
+    ],
+    "references": [
+        "84705427",
+        "1567936764",
+        "2027453421",
+        "2144884804",
+        "2150537769",
+        "2177772636"
+    ]
+}

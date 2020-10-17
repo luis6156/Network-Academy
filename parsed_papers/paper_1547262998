@@ -1,0 +1,77 @@
+{
+    "id": "1547262998",
+    "title": "On the instrumentation of OpenMP and ompss tasking constructs",
+    "venue": "international conference on parallel processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Harald Servat",
+            "id": "2122716431",
+            "org": "Barcelona Supercomputing Center, Spain, Universitat Politecnica de Catalunya, Spain#TAB#"
+        },
+        {
+            "name": "Xavier Teruel",
+            "id": "2302820529",
+            "org": "Barcelona Supercomputing Center, Spain#TAB#"
+        },
+        {
+            "name": "German Llort",
+            "id": "2065263914",
+            "org": "Barcelona Supercomputing Center, Spain, Universitat Politecnica de Catalunya, Spain#TAB#"
+        },
+        {
+            "name": "Alejandro Duran",
+            "id": "2601250523",
+            "org": "Barcelona Supercomputing Center, Spain, Intel Corporation, Barcelona, Catalunya, Spain#TAB#"
+        },
+        {
+            "name": "Judit Gimenez",
+            "id": "2137437763",
+            "org": "Barcelona Supercomputing Center, Spain, Universitat Politecnica de Catalunya, Spain#TAB#"
+        },
+        {
+            "name": "Xavier Martorell",
+            "id": "2155127561",
+            "org": "Barcelona Supercomputing Center, Spain, Universitat Politecnica de Catalunya, Spain#TAB#"
+        },
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "Barcelona Supercomputing Center, Spain, Universitat Politecnica de Catalunya, Spain#TAB#"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Barcelona Supercomputing Center, Spain, Universitat Politecnica de Catalunya, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Parallel computing",
+        "Computer architecture",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Parallel programming model",
+        "Instrumentation",
+        "Exploit"
+    ],
+    "references": [
+        "174372375",
+        "1483228115",
+        "1543313205",
+        "1560908187",
+        "1603868614",
+        "1604316186",
+        "1623282124",
+        "1727936048",
+        "1858951234",
+        "1950832899",
+        "2119010809",
+        "2136434791",
+        "2137702271",
+        "2160468841"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1563244833",
+    "title": "Parallel hash join algorithms for dynamic load balancing in a shared disks cluster",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Aekyung Moon",
+            "id": "2190552819",
+            "org": "Software Robot Research Team, ETRI, Taejon, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Haengrae Cho",
+            "id": "2121369448",
+            "org": "Department of Computer Engineering, Yeungnam University, Gyungsan, Gyungbuk, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Shared nothing architecture",
+        "Distributed database",
+        "Parallel computing",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Hash join",
+        "Dynamic load testing",
+        "Parallel algorithm",
+        "Computer cluster",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1505471309",
+        "1563700646",
+        "1593339277",
+        "2074474336",
+        "2078528123",
+        "2146368765",
+        "2170706210"
+    ]
+}

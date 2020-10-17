@@ -1,0 +1,151 @@
+{
+    "id": "1563542625",
+    "title": "Prospectus for the next LAPACK and ScaLAPACK libraries",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "James Demmel",
+            "id": "700277173",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee, Knoxville, TN and Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        },
+        {
+            "name": "Beresford N. Parlett",
+            "id": "2134696157",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "William Kahan",
+            "id": "2053339767",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Ming Gu",
+            "id": "2761869738",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "David Bindel",
+            "id": "1964853290",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Yozo Hida",
+            "id": "2165376081",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Xiaoye S. Li",
+            "id": "2127836801",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Osni Marques",
+            "id": "2263533172",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "E. Jason Riedy",
+            "id": "2789232499",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Christof Vomel",
+            "id": "195572619",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Julien Langou",
+            "id": "9947028",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Piotr Luszczek",
+            "id": "685899111",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Jakub Kurzak",
+            "id": "2058535820",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Alfredo Buttari",
+            "id": "2617090879",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Julie Langou",
+            "id": "2148807536",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Stanimire Tomov",
+            "id": "411324294",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical analysis",
+        "Prospectus",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Memory hierarchy",
+        "ScaLAPACK",
+        "Computer science",
+        "Usability",
+        "Numerical linear algebra",
+        "Performance tuning"
+    ],
+    "references": [
+        "1485346187",
+        "1496597037",
+        "1538073575",
+        "1548804750",
+        "1606187994",
+        "1964031104",
+        "1970606629",
+        "1973702207",
+        "1981745143",
+        "1983483574",
+        "1986334759",
+        "2006094795",
+        "2008427453",
+        "2015262702",
+        "2018933986",
+        "2020804487",
+        "2020828929",
+        "2026237859",
+        "2032069142",
+        "2047017077",
+        "2047656763",
+        "2048320827",
+        "2049790251",
+        "2052832983",
+        "2058884681",
+        "2063799188",
+        "2065413511",
+        "2079925720",
+        "2082465767",
+        "2083800297",
+        "2094758737",
+        "2099514750",
+        "2104281151",
+        "2108873282",
+        "2117419843",
+        "2119623923",
+        "2148590584",
+        "2158555667",
+        "2164326463",
+        "2166737459",
+        "2169631286",
+        "2169816952",
+        "2567731932",
+        "2897836668"
+    ]
+}

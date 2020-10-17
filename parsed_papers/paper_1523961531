@@ -1,0 +1,56 @@
+{
+    "id": "1523961531",
+    "title": "Performance Optimization of 3D Multigrid on Hierarchical Memory Architectures",
+    "venue": "parallel computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Markus Kowarschik",
+            "id": "2618361078",
+            "org": "Friedrich-Alexander-Universitat Erlangen-Nurnberg"
+        },
+        {
+            "name": "Ulrich Rude",
+            "id": "2033080097",
+            "org": "Friedrich-Alexander-Universitat Erlangen-Nurnberg"
+        },
+        {
+            "name": "Nils Thurey",
+            "id": "1978197113",
+            "org": "Friedrich-Alexander-Universitat Erlangen-Nurnberg"
+        },
+        {
+            "name": "Christian Weiss",
+            "id": "2136992075",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Uniform memory access",
+        "Cache-only memory architecture",
+        "Cache pollution",
+        "Cache-oblivious algorithm"
+    ],
+    "references": [
+        "182572987",
+        "1499849351",
+        "1554991828",
+        "1559624914",
+        "2074976694",
+        "2088949989",
+        "2096070062",
+        "2100799646",
+        "2119042753",
+        "2119609467",
+        "2135653967",
+        "2153131460",
+        "2548341626"
+    ]
+}

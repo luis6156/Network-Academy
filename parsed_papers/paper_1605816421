@@ -1,0 +1,53 @@
+{
+    "id": "1605816421",
+    "title": "Distributed Negative Cycle Detection Algorithms",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Lubos Brim",
+            "id": "1492989083",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic"
+        },
+        {
+            "name": "Ivana Cerna",
+            "id": "2120309671",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic"
+        },
+        {
+            "name": "Lukas Hejtmanek",
+            "id": "165815476",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parallel computing",
+        "Directed graph",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Message passing",
+        "Parallel algorithm",
+        "Distributed algorithm",
+        "Adjacency list",
+        "Tree (data structure)",
+        "Cycle detection"
+    ],
+    "references": [
+        "1483156373",
+        "1521472129",
+        "1595621389",
+        "1602042964",
+        "1604585469",
+        "1949482742",
+        "1964416868",
+        "2012329847",
+        "2012456804",
+        "2027428596",
+        "2062266989",
+        "2074792936",
+        "2102755248"
+    ]
+}

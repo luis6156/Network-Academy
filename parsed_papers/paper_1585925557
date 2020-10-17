@@ -1,0 +1,40 @@
+{
+    "id": "1585925557",
+    "title": "Static Type Analysis of Prolog Procedures for Ensuring Correctness",
+    "venue": "PLILP '90 Proceedings of the 2nd International Workshop on Programming Language Implementation and Logic Programming",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Pierre De Boeck",
+            "id": "2408579227",
+            "org": "Facultes Universitaires N.D.P. Namur"
+        },
+        {
+            "name": "Baudouin Le Charlier",
+            "id": "2158192849",
+            "org": "Facultes Universitaires N.D.P. Namur"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Formal specification",
+        "Computer science",
+        "Abstract interpretation",
+        "Correctness",
+        "Dynamic inconsistency",
+        "Prolog",
+        "Program optimization",
+        "Programming language"
+    ],
+    "references": [
+        "15157627",
+        "163005890",
+        "171682210",
+        "1501017496",
+        "1535051828",
+        "1581472906",
+        "2038037493",
+        "2098120938",
+        "2140502249"
+    ]
+}

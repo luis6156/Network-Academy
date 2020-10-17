@@ -1,0 +1,53 @@
+{
+    "id": "1585877844",
+    "title": "State Joining and Splitting for the Symbolic Execution of Binaries",
+    "venue": "runtime verification",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Trevor Hansen",
+            "id": "2345839432",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Australia 3010#TAB#"
+        },
+        {
+            "name": "Peter Schachte",
+            "id": "111707300",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Australia 3010#TAB#"
+        },
+        {
+            "name": "Harald Sondergaard",
+            "id": "2089400827",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Australia 3010#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concolic testing",
+        "Control flow",
+        "Theoretical computer science",
+        "Executable",
+        "Computer science",
+        "Symbolic execution",
+        "Abstract interpretation",
+        "Symbolic trajectory evaluation",
+        "System call",
+        "The Symbolic",
+        "Real-time computing"
+    ],
+    "references": [
+        "1497028280",
+        "1556566737",
+        "1565879960",
+        "1820253543",
+        "1972235549",
+        "1977902681",
+        "2006471246",
+        "2129487583",
+        "2132897303",
+        "2133612077",
+        "2140311411",
+        "2147499182",
+        "2156858199",
+        "2158798798",
+        "2168519934"
+    ]
+}

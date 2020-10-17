@@ -1,0 +1,42 @@
+{
+    "id": "103531544",
+    "title": "Implementing Neural Networks Efficiently",
+    "venue": "Neural Networks: Tricks of the Trade (2nd ed.)",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ronan Collobert",
+            "id": "130200899",
+            "org": "Idiap Research Institute"
+        },
+        {
+            "name": "Koray Kavukcuoglu",
+            "id": "2776980389",
+            "org": "NEC Laboratories America"
+        },
+        {
+            "name": "Clement Farabet",
+            "id": "318894673",
+            "org": "New York University"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Theoretical computer science",
+        "Software",
+        "Computer science",
+        "Implementation",
+        "Convolutional neural network",
+        "Computational learning theory",
+        "CUDA",
+        "Scripting language",
+        "Artificial neural network",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "196761320",
+        "2097428361",
+        "2102017903"
+    ]
+}

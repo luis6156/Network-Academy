@@ -1,0 +1,43 @@
+{
+    "id": "1633637678",
+    "title": "Rules of thumb in data engineering",
+    "venue": "international conference on data engineering",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jim Gray",
+            "id": "2131537204",
+            "org": "Microsoft Res., Massachusetts Univ., Amherst, MA, USA"
+        },
+        {
+            "name": "Prashant J. Shenoy",
+            "id": "2129693715",
+            "org": "University of Massachusetts Amherst"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Storage area network",
+        "Amdahl's law",
+        "Computer data storage",
+        "Information repository",
+        "Smart Cache",
+        "Converged storage",
+        "Computer science",
+        "Page cache",
+        "Database"
+    ],
+    "references": [
+        "1533813939",
+        "1555915743",
+        "1965893058",
+        "1983886413",
+        "2038057969",
+        "2059877472",
+        "2118881022",
+        "2127768834",
+        "2130503577",
+        "2133338501",
+        "2155651153"
+    ]
+}

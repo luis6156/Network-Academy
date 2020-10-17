@@ -1,0 +1,59 @@
+{
+    "id": "1568181892",
+    "title": "Extending the lifetime of flash-based storage through reducing write amplification from file systems",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Youyou Lu",
+            "id": "2146655352",
+            "org": "Department of Computer Science and Technology, Tsinghua University and Tsinghua National Laboratory for Information Science and Technology#TAB#"
+        },
+        {
+            "name": "Jiwu Shu",
+            "id": "2104906475",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Tsinghua National Laboratory for Information Science and Technology#TAB#"
+        },
+        {
+            "name": "Weimin Zheng",
+            "id": "2137330571",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Tsinghua National Laboratory for Information Science and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Wear leveling",
+        "Flash memory",
+        "Computer science",
+        "Persistence (computer science)",
+        "Flash file system",
+        "Data reduction",
+        "Journaling file system",
+        "Write amplification",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "19204414",
+        "126194223",
+        "142764049",
+        "204981196",
+        "1560722379",
+        "1964802076",
+        "1990946453",
+        "1995790197",
+        "2061367020",
+        "2068739275",
+        "2107200720",
+        "2109485293",
+        "2110231861",
+        "2111262474",
+        "2131314585",
+        "2138900633",
+        "2151843600",
+        "2154249029",
+        "2155370145",
+        "2158570242",
+        "2165068957"
+    ]
+}

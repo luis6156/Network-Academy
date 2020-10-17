@@ -1,0 +1,54 @@
+{
+    "id": "1518466123",
+    "title": "JACK:: A Java Constraint Kit",
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Slim Abdennadher",
+            "id": "2305324094",
+            "org": "Computer Science Department, University of Munich http://www.pms.informatik.uni-muenchen.de/software/jack"
+        },
+        {
+            "name": "Ekkerhard Kramer",
+            "id": "2483211768",
+            "org": "Computer Science Department, University of Munich http://www.pms.informatik.uni-muenchen.de/software/jack"
+        },
+        {
+            "name": "Matthias Saft",
+            "id": "2000838978",
+            "org": "Computer Science Department, University of Munich http://www.pms.informatik.uni-muenchen.de/software/jack"
+        },
+        {
+            "name": "Matthias Schmauss",
+            "id": "2694593269",
+            "org": "Computer Science Department, University of Munich http://www.pms.informatik.uni-muenchen.de/software/jack"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Theoretical computer science",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Constraint satisfaction",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "strictfp",
+        "Programming language"
+    ],
+    "references": [
+        "1486464946",
+        "1539957462",
+        "1543834912",
+        "1544161813",
+        "1579965570",
+        "1988103858",
+        "2063727779",
+        "2079333278",
+        "2164279585",
+        "2327696470",
+        "2585091780"
+    ]
+}

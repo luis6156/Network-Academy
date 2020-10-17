@@ -1,0 +1,35 @@
+{
+    "id": "1546290977",
+    "title": "Vulnerability of a non-membership proof scheme",
+    "venue": "international conference on security and cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kun Peng",
+            "id": "2687685576",
+            "org": "Institute for Infocomm Research, Connexis, Singapore"
+        },
+        {
+            "name": "Feng Bao",
+            "id": "2704692524",
+            "org": "Institute for Infocomm Research, Connexis, Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Integer",
+        "Finite set",
+        "Algorithm design",
+        "Zero-knowledge proof",
+        "Accumulator (structured product)",
+        "Computer science",
+        "Computer security",
+        "Proof complexity",
+        "Polynomial"
+    ],
+    "references": [
+        "1479826086",
+        "1562394980",
+        "1607188293"
+    ]
+}

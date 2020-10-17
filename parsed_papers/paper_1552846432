@@ -1,0 +1,46 @@
+{
+    "id": "1552846432",
+    "title": "A new MOEA for multi-objective TSP and Its convergence property analysis",
+    "venue": "international conference on evolutionary multi criterion optimization",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Zhenyu Yan",
+            "id": "2306343952",
+            "org": "State Key Laboratory of Software Engineering, Wuhan University, Wuhan, P. R. China#TAB#"
+        },
+        {
+            "name": "Linghai Zhang",
+            "id": "2706095917",
+            "org": "Department of Computer Science, York University, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Lishan Kang",
+            "id": "2154853841",
+            "org": "State Key Laboratory of Software Engineering, Wuhan University, Wuhan, P. R. China#TAB#"
+        },
+        {
+            "name": "Guangming Lin",
+            "id": "2705806692",
+            "org": "School of Computer Science, UC, UNSW Australian Defence Force Academy, Canberra, ACT, Australia and Capital Bridge Securities Co., Ltd, Shanghai, P. R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Crossover",
+        "Combinatorial optimization",
+        "Population",
+        "Markov chain",
+        "Multi-objective optimization",
+        "Evolutionary algorithm",
+        "Genetic algorithm",
+        "Travelling salesman problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1487975170",
+        "2116661285",
+        "2125502051",
+        "2162232298"
+    ]
+}

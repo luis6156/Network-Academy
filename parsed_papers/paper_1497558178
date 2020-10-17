@@ -1,0 +1,36 @@
+{
+    "id": "1497558178",
+    "title": "Fault cryptanalysis of elgamal signature scheme",
+    "venue": "computer aided systems theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Janusz Biernat",
+            "id": "1906785046",
+            "org": "Institute of Engineering Cybernetics, Wroclaw University of Technology, Wroclaw, Poland#TAB#"
+        },
+        {
+            "name": "Maciej Nikodem",
+            "id": "2112993956",
+            "org": "Institute of Engineering Cybernetics, Wroclaw University of Technology, Wroclaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete logarithm",
+        "Cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Digital signature",
+        "ElGamal encryption",
+        "Linear cryptanalysis",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1490121172",
+        "1584975026",
+        "1660562555",
+        "2117317147",
+        "2144952508"
+    ]
+}

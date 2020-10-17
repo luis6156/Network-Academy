@@ -1,0 +1,46 @@
+{
+    "id": "1582713334",
+    "title": "Incremental Cryptography: The Case of Hashing and Signing",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Mihir Bellare",
+            "id": "2052950829",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Oded Goldreich",
+            "id": "65538393",
+            "org": "Weizmann Institute of Science"
+        },
+        {
+            "name": "Shafi Goldwasser",
+            "id": "1728759264",
+            "org": "Weizmann Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Security parameter",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Hash function",
+        "Random oracle"
+    ],
+    "references": [
+        "1493969756",
+        "1570820619",
+        "1595153681",
+        "1646354800",
+        "1972792640",
+        "2010507480",
+        "2027528470",
+        "2052267638",
+        "2108834246",
+        "2122984309",
+        "2151413173"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1540575800",
+    "title": "Verifying the Microsoft Hyper-V Hypervisor with VCC",
+    "venue": "formal methods",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Dirk Leinenbach",
+            "id": "1239198714",
+            "org": "German Research Center for Artificial Intelligence (DFKI), Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Santen",
+            "id": "1261179062",
+            "org": "European Microsoft Innovation Center, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Formal verification",
+        "Software",
+        "Assembly language",
+        "Computer science",
+        "Operating system",
+        "Page table",
+        "Real-time computing",
+        "Virtual machine"
+    ],
+    "references": [
+        "1480909796",
+        "1545681762",
+        "1556566737",
+        "1606177908",
+        "1878117615",
+        "2066157470",
+        "2121707639",
+        "2138652462",
+        "2504100651"
+    ]
+}

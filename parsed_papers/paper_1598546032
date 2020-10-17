@@ -1,0 +1,49 @@
+{
+    "id": "1598546032",
+    "title": "Implementing Flexible Computation Rules with Subexpression-level Loop Transformation",
+    "venue": "european conference on parallel processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Dattatraya Kulkarni",
+            "id": "2148179263",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Michael Stumm",
+            "id": "2042755361",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Ronald C. Unrau",
+            "id": "2033266294",
+            "org": "Parallel Compiler Development"
+        }
+    ],
+    "fields_of_study": [
+        "Loop interchange",
+        "Loop counter",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Loop inversion",
+        "Computer science",
+        "Loop fusion",
+        "Loop splitting",
+        "Loop dependence analysis",
+        "Loop fission",
+        "Loop tiling"
+    ],
+    "references": [
+        "1595858234",
+        "1605700408",
+        "1977256916",
+        "1987188645",
+        "2018119051",
+        "2025168586",
+        "2032391783",
+        "2037789619",
+        "2068326054",
+        "2070922326",
+        "2079235644"
+    ]
+}

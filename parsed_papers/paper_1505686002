@@ -1,0 +1,40 @@
+{
+    "id": "1505686002",
+    "title": "Modeling and solving distributed constraint satisfaction problems (DCSPs)",
+    "venue": "principles and practice of constraint programming",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Gadi Solotorevsky",
+            "id": "1209098862",
+            "org": "Dept. of Mathematics and Computer Science, Ben-Gurion University of the Negev, Beer-Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Ehud Gudes",
+            "id": "195553551",
+            "org": "Dept. of Mathematics and Computer Science, Ben-Gurion University of the Negev, Beer-Sheva, Israel#TAB#"
+        },
+        {
+            "name": "Amnon Meisels",
+            "id": "1345247691",
+            "org": "Dept. of Mathematics and Computer Science, Ben-Gurion University of the Negev, Beer-Sheva, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Constraint satisfaction problem",
+        "Constraint graph",
+        "Computer science",
+        "Constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Local consistency",
+        "Message passing",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1524794046",
+        "2043829066",
+        "2061734130",
+        "2125183776"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "1255550",
+    "title": "DART: an efficient method for direction-aware bichromatic reverse k nearest neighbor queries",
+    "venue": "symposium on large spatial databases",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Kyoung-Won Lee",
+            "id": "2492179509",
+            "org": "Division of Web Science Technology, Korea Advanced Institute of Science & Technology, Korea#TAB#"
+        },
+        {
+            "name": "Dong-Wan Choi",
+            "id": "2158756799",
+            "org": "Department of Computer Science, Korea Advanced Institute of Science & Technology, Korea#TAB#"
+        },
+        {
+            "name": "Chin-Wan Chung",
+            "id": "2665062237",
+            "org": "Division of Web Science Technology, Korea Advanced Institute of Science & Technology, Korea and Department of Computer Science, Korea Advanced Institute of Science & Technology, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Fixed-radius near neighbors",
+        "Computer science",
+        "Data mining",
+        "k-nearest neighbors algorithm",
+        "Nearest neighbor graph",
+        "Best bin first",
+        "Nearest-neighbor chain algorithm",
+        "R-tree",
+        "Query optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "96373761",
+        "162964049",
+        "1503832576",
+        "1608524621",
+        "1977848225",
+        "1982768666",
+        "2028327419",
+        "2047926060",
+        "2055759658",
+        "2070580791",
+        "2076287166",
+        "2077695545",
+        "2080124030",
+        "2090852828",
+        "2092821323",
+        "2118207282",
+        "2118269922",
+        "2123011740",
+        "2139263797",
+        "2139621262",
+        "2142410337",
+        "2146881437",
+        "2148027061",
+        "2156192173",
+        "2163075788",
+        "2165573307",
+        "2166646151",
+        "2626304854"
+    ]
+}

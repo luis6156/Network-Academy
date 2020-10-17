@@ -1,0 +1,46 @@
+{
+    "id": "1558733052",
+    "title": "OMPC++ - A Portable High-Performance Implementation of DSM using OpenC++ Reflection",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yukihiko Sohda",
+            "id": "2129547761",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Hirotaka Ogawa",
+            "id": "2777753771",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Satoshi Matsuoka",
+            "id": "2164966972",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Metaprogramming",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Memory management",
+        "Message passing",
+        "Software portability",
+        "restrict",
+        "Programming paradigm",
+        "Real-time computing",
+        "Myrinet",
+        "Page fault"
+    ],
+    "references": [
+        "1978220811",
+        "2044902313",
+        "2126503506",
+        "2138180780",
+        "2141318181",
+        "2141376482",
+        "2145021036"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1708874704",
+    "title": "Monte-carlo style UCT search for boolean satisfiability",
+    "venue": "international conference on artificial intelligence",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Alessandro Previti",
+            "id": "2003680664",
+            "org": "Dipartimento di Informatica e Sistemistica Antonio Ruberti, Sapienza, Universita di Roma, Roma, Italy#TAB#"
+        },
+        {
+            "name": "Raghuram Ramanujan",
+            "id": "1996059486",
+            "org": "Department of Computer Science, Cornell University, Ithaca, New York#TAB#"
+        },
+        {
+            "name": "Marco Schaerf",
+            "id": "1678607590",
+            "org": "Dipartimento di Informatica e Sistemistica Antonio Ruberti, Sapienza, Universita di Roma, Roma, Italy#TAB#"
+        },
+        {
+            "name": "Bart Selman",
+            "id": "1966117383",
+            "org": "Department of Computer Science, Cornell University, Ithaca, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "cons",
+        "Heuristics",
+        "DPLL algorithm",
+        "Computer science",
+        "WalkSAT",
+        "Evaluation function",
+        "Boolean satisfiability problem",
+        "Monte Carlo method",
+        "Search tree",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "189123293",
+        "1487385582",
+        "1512826654",
+        "1515153299",
+        "1548578559",
+        "1571893670",
+        "1625390266",
+        "1862403209",
+        "1975779216",
+        "2020135152",
+        "2057361103",
+        "2062897452",
+        "2077902449",
+        "2147148915",
+        "2156361796",
+        "2161653775",
+        "2168405694",
+        "2605149087"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1609501763",
+    "title": "Solving multi-objective permutation flowshop scheduling problem using CUDA",
+    "venue": "international conference on methods and models in automation and robotics",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Dominik Zelazny",
+            "id": "2049446472",
+            "org": "Department of Control Systems and Mechatronics, Wroclaw University of Technology, Poland"
+        },
+        {
+            "name": "Jaroslaw Pempera",
+            "id": "1180864504",
+            "org": "Department of Control Systems and Mechatronics, Wroclaw University of Technology, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Approximation algorithm",
+        "Dynamic priority scheduling",
+        "Job shop scheduling",
+        "Flow shop scheduling",
+        "Tabu search",
+        "Rate-monotonic scheduling",
+        "Nurse scheduling problem",
+        "Mathematical optimization",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "3741881",
+        "1740528441",
+        "2106334424",
+        "2109865546"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1588153376",
+    "title": "Improved collision attack on reduced round camellia",
+    "venue": "cryptology and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Guan Jie",
+            "id": "2502358643",
+            "org": "The Information Engineer University Electronic Technology Institute, Zhengzhou, China#TAB#"
+        },
+        {
+            "name": "Zhang Zhongya",
+            "id": "2721817356",
+            "org": "The Information Engineer University Electronic Technology Institute, Zhengzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Block cipher",
+        "Cryptography",
+        "Theoretical computer science",
+        "NESSIE",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Collision attack",
+        "Collision"
+    ],
+    "references": [
+        "1489027369",
+        "1489575954",
+        "1494446935",
+        "1516671507",
+        "1527415121",
+        "1833400598",
+        "1841857093",
+        "2109112842",
+        "2586045835"
+    ]
+}

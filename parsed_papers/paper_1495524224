@@ -1,0 +1,67 @@
+{
+    "id": "1495524224",
+    "title": "Extracting powers and periods in a string from its runs structure",
+    "venue": "string processing and information retrieval",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Maxime Crochemore",
+            "id": "449159822",
+            "org": "King's College London, London, UK and Universite Paris-Est, France#TAB#"
+        },
+        {
+            "name": "Costas S. Iliopoulos",
+            "id": "669301571",
+            "org": "King's College London, London, UK and Digital Ecosystems & Business Intelligence Institute, Curtin University of Technology, Perth, WA, Australia#TAB#"
+        },
+        {
+            "name": "Marcin Kubica",
+            "id": "2076285649",
+            "org": "Dept. of Mathematics, Computer Science and Mechanics, University of Warsaw, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Jakub Radoszewski",
+            "id": "156253524",
+            "org": "Dept. of Mathematics, Computer Science and Mechanics, University of Warsaw, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Wojciech Rytter",
+            "id": "106771303",
+            "org": "Dept. of Mathematics, Computer Science and Mechanics, University of Warsaw, Warsaw, Poland and Dept. of Math. and Informatics, Copernicus University, Torun, Poland#TAB#"
+        },
+        {
+            "name": "Tomasz Walen",
+            "id": "1290578138",
+            "org": "Dept. of Mathematics, Computer Science and Mechanics, University of Warsaw, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "String metric",
+        "Mathematics",
+        "Lyndon word",
+        "String searching algorithm",
+        "Combinatorics",
+        "Boyer-Moore string search algorithm",
+        "Rabin-Karp algorithm",
+        "Empty string",
+        "String (computer science)",
+        "Commentz-Walter algorithm"
+    ],
+    "references": [
+        "1496038746",
+        "1504417041",
+        "1506856932",
+        "1593730394",
+        "1755266696",
+        "1967382114",
+        "1992151876",
+        "1992381397",
+        "2014318353",
+        "2023034313",
+        "2028503265",
+        "2030776771",
+        "2036042874",
+        "2085933841",
+        "2123234403"
+    ]
+}

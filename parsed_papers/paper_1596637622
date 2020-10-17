@@ -1,0 +1,49 @@
+{
+    "id": "1596637622",
+    "title": "Non-rigid atlas-to-image registration by minimization of class-conditional image entropy",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Emiliano D'Agostino",
+            "id": "2048159354",
+            "org": "Katholieke Universiteit Leuven, Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Herestraat 49, B-3000 Leuven, Belgium"
+        },
+        {
+            "name": "Frederik Maes",
+            "id": "2192370666",
+            "org": "Katholieke Universiteit Leuven, Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Herestraat 49, B-3000 Leuven, Belgium"
+        },
+        {
+            "name": "Dirk Vandermeulen",
+            "id": "2030948482",
+            "org": "Katholieke Universiteit Leuven, Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Herestraat 49, B-3000 Leuven, Belgium"
+        },
+        {
+            "name": "Paul Suetens",
+            "id": "2344226991",
+            "org": "Katholieke Universiteit Leuven, Faculties of Medicine and Engineering, Medical Image Computing (Radiology - ESAT/PSI), University Hospital Gasthuisberg, Herestraat 49, B-3000 Leuven, Belgium"
+        }
+    ],
+    "fields_of_study": [
+        "Mixture model",
+        "Mathematics",
+        "Image registration",
+        "Computer vision",
+        "Pattern recognition",
+        "Free-form deformation",
+        "Atlas (anatomy)",
+        "Similarity measure",
+        "Minification",
+        "Mutual information",
+        "Image warping",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1972099553",
+        "1977034661",
+        "2034432063",
+        "2130686832",
+        "2151443388"
+    ]
+}

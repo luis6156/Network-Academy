@@ -1,0 +1,93 @@
+{
+    "id": "1490056131",
+    "title": "Parallel shortest lattice vector enumeration on graphics cards",
+    "venue": "international conference on cryptology in africa",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jens Hermans",
+            "id": "2168755964",
+            "org": "ESAT/SCD-COSIC and IBBT, Katholieke Universiteit Leuven#TAB#"
+        },
+        {
+            "name": "Michael Schneider",
+            "id": "2806618048",
+            "org": "Technische Universitat Darmstadt#TAB#"
+        },
+        {
+            "name": "Johannes A. Buchmann",
+            "id": "1552168940",
+            "org": "Technische Universitat Darmstadt#TAB#"
+        },
+        {
+            "name": "Frederik Vercauteren",
+            "id": "2091944293",
+            "org": "ESAT/SCD-COSIC and IBBT, Katholieke Universiteit Leuven#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "ESAT/SCD-COSIC and IBBT, Katholieke Universiteit Leuven#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Enumeration",
+        "Theoretical computer science",
+        "Computer science",
+        "Brute-force search",
+        "Implementation",
+        "Software framework",
+        "Graphics",
+        "CUDA",
+        "General-purpose computing on graphics processing units",
+        "Lattice reduction"
+    ],
+    "references": [
+        "10068438",
+        "141781985",
+        "1482201224",
+        "1491861813",
+        "1492887728",
+        "1496417058",
+        "1506156414",
+        "1508816856",
+        "1517056336",
+        "1524434429",
+        "1525538795",
+        "1527643685",
+        "1532770887",
+        "1572157978",
+        "1576391039",
+        "1582150111",
+        "1675339804",
+        "1766548092",
+        "1868652320",
+        "1886646278",
+        "1921478076",
+        "1966034053",
+        "1979160832",
+        "2021907057",
+        "2023560340",
+        "2038761522",
+        "2040996999",
+        "2048904689",
+        "2050689197",
+        "2058785578",
+        "2077244027",
+        "2097678797",
+        "2099432260",
+        "2106121141",
+        "2126483728",
+        "2127620974",
+        "2138849660",
+        "2149789050",
+        "2150780437",
+        "2155178472",
+        "2155578564",
+        "2156251728",
+        "2160639384",
+        "2171599245",
+        "2397273652"
+    ]
+}

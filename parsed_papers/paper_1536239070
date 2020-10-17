@@ -1,0 +1,44 @@
+{
+    "id": "1536239070",
+    "title": "HPP: HTML macro-preprocessing to support dynamic document caching",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Fred Douglis",
+            "id": "202340837",
+            "org": "AT&T Labs-Research#TAB#"
+        },
+        {
+            "name": "Antonio Haro",
+            "id": "2165246979",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Michael Rabinovich",
+            "id": "2304185384",
+            "org": "AT&T Labs-Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Macro",
+        "Computer science",
+        "Search engine",
+        "Latency (engineering)",
+        "Database",
+        "Preprocessor",
+        "Scripting language",
+        "Real-time computing"
+    ],
+    "references": [
+        "1511250399",
+        "1546842576",
+        "1550814094",
+        "1642192185",
+        "2040402865",
+        "2075532054",
+        "2094423586",
+        "2137847645"
+    ]
+}

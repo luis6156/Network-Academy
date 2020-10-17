@@ -1,0 +1,44 @@
+{
+    "id": "1581806326",
+    "title": "Faster Double-Size Modular Multiplication from Euclidean Multipliers",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Benoit Chevallier-Mames",
+            "id": "15889060",
+            "org": "Gemplus, Card Security Group, La Vigie"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus, Card Security Group, La Vigie"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Gemplus, Cryptography Group"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Integer",
+        "Discrete mathematics",
+        "Remainder",
+        "Modular design",
+        "Multiplication algorithm",
+        "Quotient",
+        "Modular arithmetic",
+        "Multiplication",
+        "Euclidean division"
+    ],
+    "references": [
+        "1498685334",
+        "1509238864",
+        "1591099339",
+        "1601624599",
+        "1968875548",
+        "2109387501",
+        "2132249288"
+    ]
+}

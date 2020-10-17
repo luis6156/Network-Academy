@@ -1,0 +1,47 @@
+{
+    "id": "1583920484",
+    "title": "PaStiX: A Parallel Sparse Direct Solver Based on a Static Scheduling for Mixed 1D/2D Block Distributions",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Pascal Henon",
+            "id": "2052691784",
+            "org": "Universite Bordeaux I & ENSERB"
+        },
+        {
+            "name": "Pierre Ramet",
+            "id": "169387109",
+            "org": "Universite Bordeaux I & ENSERB"
+        },
+        {
+            "name": "Jean Roman",
+            "id": "2170757408",
+            "org": "Universite Bordeaux I & ENSERB"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Factorization",
+        "Parallel computing",
+        "Positive-definite matrix",
+        "Scheduling (computing)",
+        "Genetic algorithm",
+        "Parallel algorithm",
+        "Solver",
+        "Mathematical optimization",
+        "Matrix calculus",
+        "Computer simulation"
+    ],
+    "references": [
+        "1502529739",
+        "1540842995",
+        "1992935334",
+        "2014730252",
+        "2025695688",
+        "2026139385",
+        "2043616552",
+        "2065166766",
+        "2123291824"
+    ]
+}

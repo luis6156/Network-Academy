@@ -1,0 +1,56 @@
+{
+    "id": "1783637208",
+    "title": "On the performance of distributed lock-based synchronization",
+    "venue": "international conference of distributed computing and networking",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Yuval Lubowich",
+            "id": "2284477138",
+            "org": "The Interdisciplinary Center, Herzliya, Israel#TAB#"
+        },
+        {
+            "name": "Gadi Taubenfeld",
+            "id": "1215433120",
+            "org": "The Interdisciplinary Center, Herzliya, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Queue",
+        "Lock (computer science)",
+        "Double-checked locking",
+        "Distributed lock manager",
+        "Message passing",
+        "Synchronization",
+        "Data structure",
+        "Real-time computing",
+        "Linked list"
+    ],
+    "references": [
+        "115520631",
+        "1545757066",
+        "1573604614",
+        "1966520606",
+        "1973501242",
+        "1980152580",
+        "2007224414",
+        "2041324781",
+        "2072162203",
+        "2079216392",
+        "2083290060",
+        "2100198355",
+        "2101939036",
+        "2103639816",
+        "2108179552",
+        "2127663058",
+        "2134898865",
+        "2136255388",
+        "2140606557",
+        "2144884804",
+        "2152632697",
+        "2169115714",
+        "2170523074"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "1667615663",
+    "title": "Path-Sensitive dataflow analysis with iterative refinement",
+    "venue": "static analysis symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dinakar Dhurjati",
+            "id": "260031413",
+            "org": "University of Illinois at Urbana Champaign#TAB#"
+        },
+        {
+            "name": "Manuvir Das",
+            "id": "2170525916",
+            "org": "Center for Software Excellence, Microsoft Corporation#TAB#"
+        },
+        {
+            "name": "Yue Yang",
+            "id": "2628334166",
+            "org": "Center for Software Excellence, Microsoft Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Software verification and validation",
+        "Path analysis (statistics)",
+        "Theoretical computer science",
+        "Static analysis",
+        "Computer science",
+        "Dataflow",
+        "Data flow diagram",
+        "Iterative method",
+        "Iterative refinement"
+    ],
+    "references": [
+        "1499526127",
+        "1511405608",
+        "1515906028",
+        "1526056075",
+        "1553858749",
+        "1584436405",
+        "1586099086",
+        "1597009588",
+        "1966982815",
+        "2017842497",
+        "2036812689",
+        "2043100293",
+        "2044590882",
+        "2053519844",
+        "2067836954",
+        "2080573945",
+        "2082000355",
+        "2084974764",
+        "2089139117",
+        "2091909330",
+        "2095115578",
+        "2103714221",
+        "2107112536",
+        "2109394703",
+        "2117009500",
+        "2127574686",
+        "2140468016",
+        "2151463894",
+        "2158870716",
+        "2295903414"
+    ]
+}

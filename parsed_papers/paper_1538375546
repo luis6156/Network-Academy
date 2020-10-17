@@ -1,0 +1,42 @@
+{
+    "id": "1538375546",
+    "title": "Discoverer: automatic protocol reverse engineering from network traces",
+    "venue": "usenix security symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Weidong Cui",
+            "id": "2107517118",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Jayanthkumar Kannan",
+            "id": "2161725360",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Helen J. Wang",
+            "id": "2123394384",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Reverse engineering",
+        "Computer science",
+        "Computer security",
+        "Database",
+        "Deep packet inspection",
+        "Normalization (statistics)",
+        "Intrusion prevention system"
+    ],
+    "references": [
+        "1482382132",
+        "1508480967",
+        "1512626953",
+        "1921075642",
+        "2141950720",
+        "2148346742",
+        "2164253698",
+        "2168883902"
+    ]
+}

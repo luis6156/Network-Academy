@@ -1,0 +1,47 @@
+{
+    "id": "122364089",
+    "title": "Detection of Collective MPI Operation Patterns",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Andreas Knupfer",
+            "id": "2051308727",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Dieter Kranzlmuller",
+            "id": "2894120145",
+            "org": "Dresden University of Technology"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Dresden University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Point-to-point",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Message passing",
+        "Pattern matching",
+        "Virtual machine",
+        "Automatic parallelization",
+        "Performance tuning"
+    ],
+    "references": [
+        "166950989",
+        "1509484650",
+        "1568869856",
+        "1575330229",
+        "1590911189",
+        "2010923741",
+        "2030085202",
+        "2030097676",
+        "2064482487",
+        "2136866896",
+        "2161813558"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "1644420677",
+    "title": "A Unified Algorithm for Accelerating Edit-Distance Computation via Text-Compression",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Danny Hermelin",
+            "id": "2007990456",
+            "org": "CSAIL"
+        },
+        {
+            "name": "Gad M. Landau",
+            "id": "2136913910",
+            "org": "CSAIL"
+        },
+        {
+            "name": "Shir Landau",
+            "id": "2810951613",
+            "org": "Department of Computer Science|Bar-Ilan University"
+        },
+        {
+            "name": "Oren Weimann",
+            "id": "253684725",
+            "org": "CSAIL"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Byte pair encoding",
+        "Discrete mathematics",
+        "Computation",
+        "Jaro-Winkler distance",
+        "String-to-string correction problem",
+        "Combinatorics",
+        "Wagner-Fischer algorithm",
+        "Edit distance",
+        "Score",
+        "Approximate string matching"
+    ],
+    "references": [
+        "1480106357",
+        "1486245824",
+        "1502253143",
+        "1512616185",
+        "1531106060",
+        "1553326575",
+        "1571081892",
+        "1582811001",
+        "1591460230",
+        "1810603836",
+        "1825667403",
+        "1970026646",
+        "1973608346",
+        "1990061958",
+        "2008803097",
+        "2012010763",
+        "2026893402",
+        "2049231620",
+        "2055257826",
+        "2056208131",
+        "2060296641",
+        "2062657631",
+        "2077770566",
+        "2089092392",
+        "2096552453",
+        "2096827683",
+        "2107745473",
+        "2115990355",
+        "2116513710",
+        "2135905685",
+        "2137939491"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1507850654",
+    "title": "Collision resistant double-length hashing",
+    "venue": "provable security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ewan Fleischmann",
+            "id": "2040230289",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        },
+        {
+            "name": "Christian Forler",
+            "id": "1172614411",
+            "org": "Sirrix AG, Germany#TAB#"
+        },
+        {
+            "name": "Michael Gorski",
+            "id": "1995947717",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2250691467",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Distributed computing",
+        "Hash chain",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "1480951587",
+        "1482922493",
+        "1505322521",
+        "1547189451",
+        "1547537489",
+        "1549228503",
+        "1565415113",
+        "1590269592",
+        "1600432225",
+        "1656731780",
+        "1660562555",
+        "1801417685",
+        "1810651009",
+        "1822502977",
+        "1863270349",
+        "1987960290",
+        "2007585625",
+        "2064939672",
+        "2098801947",
+        "2168130511",
+        "2172433705",
+        "2611506938"
+    ]
+}

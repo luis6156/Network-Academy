@@ -1,0 +1,53 @@
+{
+    "id": "14074199",
+    "title": "Certification of safe polynomial memory bounds",
+    "venue": "formal methods",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Javier de Dios",
+            "id": "2143076145",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Ricardo Pena",
+            "id": "2702397742",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Recursion",
+        "Algorithm",
+        "Proof assistant",
+        "Computer science",
+        "Soundness",
+        "Decision problem",
+        "Heap (data structure)",
+        "Functional programming",
+        "Correctness",
+        "HOL"
+    ],
+    "references": [
+        "1230660382",
+        "1491368825",
+        "1508237628",
+        "1519343834",
+        "1523037784",
+        "1530375435",
+        "1536059726",
+        "1536974934",
+        "1556566737",
+        "1558198085",
+        "1578701395",
+        "1593745409",
+        "1606555018",
+        "1988455648",
+        "2034711041",
+        "2068055184",
+        "2106192381",
+        "2132638915",
+        "2159897916",
+        "2167789628",
+        "2194223632"
+    ]
+}

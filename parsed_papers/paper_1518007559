@@ -1,0 +1,44 @@
+{
+    "id": "1518007559",
+    "title": "Relative Monads Formalised",
+    "venue": "Journal of Formalized Reasoning",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Thorsten Altenkirch",
+            "id": "339969161",
+            "org": "University of Nottingham"
+        },
+        {
+            "name": "James Chapman",
+            "id": "2148160577",
+            "org": "Institute of Cybernetics, Tallinn"
+        },
+        {
+            "name": "Tarmo Uustalu",
+            "id": "278673910",
+            "org": "Institute of Cybernetics, Tallinn"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Proof assistant",
+        "Algorithm",
+        "Category theory",
+        "Discrete mathematics",
+        "Agda",
+        "Monad (functional programming)",
+        "Functor",
+        "Generalization",
+        "Distributive law between monads"
+    ],
+    "references": [
+        "91660649",
+        "385864112",
+        "1525943315",
+        "1536401622",
+        "2133629640",
+        "2161366561",
+        "2161616972"
+    ]
+}

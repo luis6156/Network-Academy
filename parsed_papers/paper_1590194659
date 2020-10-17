@@ -1,0 +1,49 @@
+{
+    "id": "1590194659",
+    "title": "Lock-free and practical doubly linked list-based deques using single-word compare-and-swap",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hakan Sundell",
+            "id": "2799053836",
+            "org": "Department of Computing Science, Chalmers University of Technology and Goteborg University, Goteborg, Sweden#TAB#"
+        },
+        {
+            "name": "Philippas Tsigas",
+            "id": "2274820914",
+            "org": "Department of Computing Science, Chalmers University of Technology and Goteborg University, Goteborg, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Pointer (computer programming)",
+        "Memory architecture",
+        "Computer science",
+        "Compare-and-swap",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Doubly linked list",
+        "Concurrency",
+        "Non-blocking algorithm",
+        "Parallel algorithm"
+    ],
+    "references": [
+        "97006766",
+        "1490590586",
+        "1518911419",
+        "1540179969",
+        "1971544679",
+        "2009098105",
+        "2044755673",
+        "2063893885",
+        "2065052953",
+        "2085407655",
+        "2098147619",
+        "2101939036",
+        "2106513960",
+        "2127976210",
+        "2166115541",
+        "2167282885"
+    ]
+}

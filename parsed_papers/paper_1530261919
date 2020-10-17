@@ -1,0 +1,65 @@
+{
+    "id": "1530261919",
+    "title": "Using Boolean Constraint Propagation for sub-clauses deduction",
+    "venue": "principles and practice of constraint programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sylvain Darras",
+            "id": "2888011947",
+            "org": "LaRIA CNRS, Univ. de Picardie, Amiens, France#TAB#"
+        },
+        {
+            "name": "Gilles Dequen",
+            "id": "143342460",
+            "org": "LaRIA CNRS, Univ. de Picardie, Amiens, France#TAB#"
+        },
+        {
+            "name": "Laure Devendeville",
+            "id": "2160871130",
+            "org": "LaRIA CNRS, Univ. de Picardie, Amiens, France#TAB#"
+        },
+        {
+            "name": "Bertrand Mazure",
+            "id": "711703943",
+            "org": "CRIL CNRS, Univ. d'Artois, Lens, France#TAB#"
+        },
+        {
+            "name": "Richard Ostrowski",
+            "id": "2128233723",
+            "org": "CRIL CNRS, Univ. d'Artois, Lens, France#TAB#"
+        },
+        {
+            "name": "Lahkdar Sais",
+            "id": "2623069261",
+            "org": "CRIL CNRS, Univ. d'Artois, Lens, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Unit propagation",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Constraint satisfaction",
+        "Implication graph",
+        "Propositional calculus",
+        "Local consistency",
+        "Boolean satisfiability problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "14839205",
+        "1513300473",
+        "1519828433",
+        "1555678362",
+        "1667362966",
+        "1709155369",
+        "1979093351",
+        "1999823208",
+        "2057361103",
+        "2096307462",
+        "2125024536",
+        "2408006898"
+    ]
+}

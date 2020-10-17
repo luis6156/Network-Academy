@@ -1,0 +1,75 @@
+{
+    "id": "149788053",
+    "title": "Model based 3d segmentation and OCT image undistortion of percutaneous implants",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Oliver Muller",
+            "id": "2236914558",
+            "org": "Institut fur Informationsverarbeitung, Leibniz Universitat Hannover, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Sabine Donner",
+            "id": "2181587723",
+            "org": "Laser Zentrum Hannover e.V. and CrossBIT, Center for Biocompatibility and Implant-Immunology, Hannover Medical School, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Tobias Klinder",
+            "id": "2094625634",
+            "org": "Philips Research North America, Briarcliff Manor, NY#TAB#"
+        },
+        {
+            "name": "Ralf Dragon",
+            "id": "2045200653",
+            "org": "Institut fur Informationsverarbeitung, Leibniz Universitat Hannover, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Ivonne Bartsch",
+            "id": "2107631260",
+            "org": "CrossBIT, Center for Biocompatibility and Implant-Immunology, Hannover Medical School, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Frank Witte",
+            "id": "2091405498",
+            "org": "CrossBIT, Center for Biocompatibility and Implant-Immunology, Hannover Medical School, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "A. Kruger",
+            "id": "2111246177",
+            "org": "Laser Zentrum Hannover e.V. and CrossBIT, Center for Biocompatibility and Implant-Immunology, Hannover Medical School, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Alexander Heisterkamp",
+            "id": "2288823285",
+            "org": "Laser Zentrum Hannover e.V. and CrossBIT, Center for Biocompatibility and Implant-Immunology, Hannover Medical School, Hannover, Germany#TAB#"
+        },
+        {
+            "name": "Bodo Rosenhahn",
+            "id": "253945372",
+            "org": "Institut fur Informationsverarbeitung, Leibniz Universitat Hannover, Hannover, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Refraction",
+        "Optical coherence tomography",
+        "Computer vision",
+        "Active contour model",
+        "Computer science",
+        "Hough transform",
+        "Percutaneous",
+        "Implant",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1493864766",
+        "1521761938",
+        "1991133427",
+        "1995376165",
+        "2081359922",
+        "2104095591",
+        "2138157582",
+        "2152896605",
+        "2153284654"
+    ]
+}

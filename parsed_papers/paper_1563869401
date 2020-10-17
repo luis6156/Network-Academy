@@ -1,0 +1,33 @@
+{
+    "id": "1563869401",
+    "title": "Secure Block Ciphers Are Not Sufficient for One-Way Hash Functions in the Preneel-Govaerts-Vandewalle Model",
+    "venue": "selected areas in cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Shoichi Hirose",
+            "id": "2140040504",
+            "org": "Kyoto University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block size",
+        "Secure Hash Standard",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Avalanche effect",
+        "Differential cryptanalysis",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1499074627",
+        "1547537489",
+        "1549228503",
+        "1660562555",
+        "2033778422",
+        "2504511403"
+    ]
+}

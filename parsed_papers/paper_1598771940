@@ -1,0 +1,101 @@
+{
+    "id": "1598771940",
+    "title": "Training a Parser for Machine Translation Reordering",
+    "venue": "empirical methods in natural language processing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jason Katz-Brown",
+            "id": "2092394694",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Slav Petrov",
+            "id": "2344539050",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Ryan T. McDonald",
+            "id": "2336868835",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Franz Josef Och",
+            "id": "2233053262",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "David Talbot",
+            "id": "2159203450",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Hiroshi Ichikawa",
+            "id": "2158171812",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Masakazu Seno",
+            "id": "2287019966",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Hideto Kazawa",
+            "id": "2793052821",
+            "org": "Google#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GLR parser",
+        "Artificial intelligence",
+        "Simple LR parser",
+        "Parser combinator",
+        "Computer science",
+        "LR parser",
+        "Machine translation",
+        "Parsing",
+        "Machine learning",
+        "Natural language processing"
+    ],
+    "references": [
+        "108437174",
+        "199541590",
+        "1508977358",
+        "1518819622",
+        "1535015163",
+        "1536616638",
+        "1551202288",
+        "1558925596",
+        "1559723967",
+        "1598566484",
+        "1632114991",
+        "1859633635",
+        "1986543644",
+        "2008961349",
+        "2070150502",
+        "2099224638",
+        "2101105183",
+        "2105847779",
+        "2108460050",
+        "2116316001",
+        "2116410915",
+        "2117729721",
+        "2121538771",
+        "2135843243",
+        "2136544838",
+        "2139621418",
+        "2139907445",
+        "2140526624",
+        "2143564602",
+        "2144900797",
+        "2146574666",
+        "2149811020",
+        "2153508793",
+        "2154368244",
+        "2158065314",
+        "2162245945",
+        "2163568299",
+        "2168596725",
+        "2242975712"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1567031889",
+    "title": "Reducing the class coupling of legacy code by a metrics-based relocation of class members",
+    "venue": "central and east european conference on software engineering techniques",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Marvin Ferber",
+            "id": "2157529645",
+            "org": "University of Bayreuth, Germany#TAB#"
+        },
+        {
+            "name": "Sascha Hunold",
+            "id": "308244512",
+            "org": "University of Bayreuth, Germany#TAB#"
+        },
+        {
+            "name": "Bjorn Krellner",
+            "id": "78240413",
+            "org": "Chemnitz University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Rauber",
+            "id": "1850417542",
+            "org": "University of Bayreuth, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Reichel",
+            "id": "2077738730",
+            "org": "Chemnitz University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Gudula Runger",
+            "id": "2023937925",
+            "org": "Chemnitz University of Technology, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Legacy code",
+        "Software construction",
+        "Computer architecture",
+        "Software system",
+        "Computer science",
+        "KPI-driven code analysis",
+        "Database",
+        "Code refactoring",
+        "Software modernization",
+        "Static program analysis",
+        "Legacy system"
+    ],
+    "references": [
+        "1533004102",
+        "1773448242",
+        "2046545454",
+        "2085922383",
+        "2123804192",
+        "2128861671",
+        "2130877788",
+        "2141506510",
+        "2148315229",
+        "2151191515",
+        "2153887189",
+        "2171383742"
+    ]
+}

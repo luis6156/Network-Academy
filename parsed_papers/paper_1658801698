@@ -1,0 +1,43 @@
+{
+    "id": "1658801698",
+    "title": "On scalable modeling of TCP congestion control mechanism for large-scale IP networks",
+    "venue": "symposium on applications and the internet",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hiroyuki Ohsaki",
+            "id": "2154467800",
+            "org": "Graduate Sch. of Inf. Sci. & Technol., Osaka Univ., Japan"
+        },
+        {
+            "name": "Jun'ya Ujiie",
+            "id": "2279800270",
+            "org": "Graduate Sch. of Inf. Sci. & Technol., Osaka Univ., Japan"
+        },
+        {
+            "name": "Makoto Imase",
+            "id": "2240688688",
+            "org": "Graduate Sch. of Inf. Sci. & Technol., Osaka Univ., Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Zeta-TCP",
+        "Computer science",
+        "Distributed computing",
+        "CUBIC TCP",
+        "TCP tuning",
+        "Network packet",
+        "Scalable TCP",
+        "Computer network",
+        "TCP global synchronization",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1585188069",
+        "1994717387",
+        "2096077397",
+        "2124478678",
+        "2158733823"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1492469939",
+    "title": "Evaluation of head pose estimation for studio data",
+    "venue": "CLEaR",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jilin Tu",
+            "id": "2123271702",
+            "org": "Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Yun Fu",
+            "id": "2123131494",
+            "org": "Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Yuxiao Hu",
+            "id": "2109136603",
+            "org": "Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Thomas S. Huang",
+            "id": "2149631809",
+            "org": "Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Pose",
+        "Computer vision",
+        "3D pose estimation",
+        "Studio",
+        "Computer science",
+        "Ground truth",
+        "Estimator",
+        "Speech recognition",
+        "Pixel",
+        "Training set",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2100779717",
+        "2153293376",
+        "2153746365",
+        "2160551639"
+    ]
+}

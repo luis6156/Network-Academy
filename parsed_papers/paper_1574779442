@@ -1,0 +1,49 @@
+{
+    "id": "1574779442",
+    "title": "Defending against low-rate TCP attacks: dynamic detection and protection",
+    "venue": "international conference on network protocols",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Haibin Sun",
+            "id": "2717275699",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, China"
+        },
+        {
+            "name": "John C. S. Lui",
+            "id": "2045404162",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, China"
+        },
+        {
+            "name": "David K. Y. Yau",
+            "id": "2250084187",
+            "org": "Purdue University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Computer science",
+        "Distributed computing",
+        "TCP sequence prediction attack",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Shrew attack",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1517010824",
+        "1967949770",
+        "2091921805",
+        "2097831241",
+        "2103701891",
+        "2105347639",
+        "2119030343",
+        "2119120810",
+        "2128599397",
+        "2133184712",
+        "2532683353"
+    ]
+}

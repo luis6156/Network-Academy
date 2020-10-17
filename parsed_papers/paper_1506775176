@@ -1,0 +1,62 @@
+{
+    "id": "1506775176",
+    "title": "Solving Max-SAT as weighted CSP",
+    "venue": "principles and practice of constraint programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Simon de Givry",
+            "id": "2069351345",
+            "org": "INRA, Toulouse, France#TAB#"
+        },
+        {
+            "name": "Javier Larrosa",
+            "id": "2160779484",
+            "org": "Dep. LSI, UPC, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Pedro Meseguer",
+            "id": "2068434845",
+            "org": "IIIA-CSIC, Campus UAB, Bellaterra, Spain#TAB#"
+        },
+        {
+            "name": "Thomas Schiex",
+            "id": "21858160",
+            "org": "INRA, Toulouse, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction problem",
+        "Computer science",
+        "Constraint satisfaction",
+        "Constrained optimization",
+        "Constraint programming",
+        "Local consistency",
+        "Concurrency",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "15803339",
+        "17690413",
+        "38226901",
+        "178927935",
+        "238538546",
+        "1498365528",
+        "1513769081",
+        "1516430219",
+        "1558184472",
+        "1592998112",
+        "1625396064",
+        "1865464712",
+        "1979622972",
+        "2067241820",
+        "2110123236",
+        "2126446661",
+        "2142785340",
+        "2146766934",
+        "2165372647",
+        "2254595632"
+    ]
+}

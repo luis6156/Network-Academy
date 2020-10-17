@@ -1,0 +1,33 @@
+{
+    "id": "1614790556",
+    "title": "Injecting External Solutions Into CMA-ES",
+    "venue": "arXiv: Learning",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Nikolaus Hansen",
+            "id": "2155535925",
+            "org": "INRIA Saclay - Ile de France, LRI, MSR - INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Oracle",
+        "CMA-ES",
+        "Newton's method in optimization",
+        "Surrogate model",
+        "Effective method",
+        "Convergence (routing)",
+        "Fold (higher-order function)",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1503296932",
+        "1605438009",
+        "1834188165",
+        "2112036188",
+        "2138537392",
+        "2168924884",
+        "2220858814"
+    ]
+}

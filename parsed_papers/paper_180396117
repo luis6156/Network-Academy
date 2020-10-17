@@ -1,0 +1,82 @@
+{
+    "id": "180396117",
+    "title": "Client-controlled cryptography-as-a-service in the cloud",
+    "venue": "applied cryptography and network security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Soren Bleikertz",
+            "id": "1255703803",
+            "org": "IBM Research - Zurich, Ruschlikon, Switzerland#TAB#"
+        },
+        {
+            "name": "Sven Bugiel",
+            "id": "1964698894",
+            "org": "TU Darmstadt / CASED, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Hugo Ideler",
+            "id": "2286261825",
+            "org": "TU Darmstadt / CASED, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Nurnberger",
+            "id": "2115849954",
+            "org": "TU Darmstadt / CASED, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Ahmad-Reza Sadeghi",
+            "id": "2120420677",
+            "org": "TU Darmstadt / CASED, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Hypervisor",
+        "Trusted Platform Module",
+        "Trusted Computing",
+        "Provisioning",
+        "Computer science",
+        "Cloud computing",
+        "Computer security",
+        "Cloud computing security",
+        "Computer network",
+        "Enterprise information security architecture"
+    ],
+    "references": [
+        "1485800369",
+        "1494319617",
+        "1496463952",
+        "1514236929",
+        "1516018459",
+        "1570043269",
+        "1682131187",
+        "1729172517",
+        "1922956467",
+        "1971394347",
+        "1984382557",
+        "1984680759",
+        "2029693536",
+        "2031533839",
+        "2043501224",
+        "2050529434",
+        "2055115521",
+        "2072633121",
+        "2083547349",
+        "2122122437",
+        "2128159601",
+        "2131726714",
+        "2133592286",
+        "2133718106",
+        "2144235923",
+        "2150334225",
+        "2150709728",
+        "2151241899",
+        "2153575752",
+        "2154464007",
+        "2165148376",
+        "2166004296",
+        "2167804035",
+        "2168084064"
+    ]
+}

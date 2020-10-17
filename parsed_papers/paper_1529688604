@@ -1,0 +1,56 @@
+{
+    "id": "1529688604",
+    "title": "A generic binary analysis method for malware",
+    "venue": "international workshop on security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Tomonori Izumida",
+            "id": "1970302802",
+            "org": "National Institute of Advanced Industrial Science and Technology, Tokyo, Japan and Japan Advanced Institute of Science and Technology, Nomi, Ishikawa, Japan#TAB#"
+        },
+        {
+            "name": "Kokichi Futatsugi",
+            "id": "675972888",
+            "org": "Japan Advanced Institute of Science and Technology, Nomi, Ishikawa, Japan#TAB#"
+        },
+        {
+            "name": "Akira Mori",
+            "id": "2251691583",
+            "org": "National Institute of Advanced Industrial Science and Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Theoretical computer science",
+        "Static single assignment form",
+        "Executable",
+        "Computer science",
+        "Binary number",
+        "Compiler",
+        "Obfuscation (software)",
+        "Computer security",
+        "Binary code",
+        "Real-time computing",
+        "Indirect branch"
+    ],
+    "references": [
+        "109909280",
+        "1515180657",
+        "1582456956",
+        "1982205631",
+        "1990087033",
+        "2023850308",
+        "2032854624",
+        "2034233301",
+        "2068094728",
+        "2081199716",
+        "2089294198",
+        "2116910575",
+        "2117030266",
+        "2119179558",
+        "2132874238",
+        "2140807364",
+        "2160637255"
+    ]
+}

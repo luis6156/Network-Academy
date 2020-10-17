@@ -1,0 +1,58 @@
+{
+    "id": "1576825745",
+    "title": "An FPGA-based accelerator for multiple biological sequence alignment with DIALIGN",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Azzedine Boukerche",
+            "id": "2306621260",
+            "org": "SITE-School of Information Technology and Engineering, University of Ottawa, Canada#TAB#"
+        },
+        {
+            "name": "Jan Mendonca Correa",
+            "id": "2132996208",
+            "org": "Department of Computer Science, University of Brasilia, Brazil#TAB#"
+        },
+        {
+            "name": "Alba Cristina Magalhaes Alves de Melo",
+            "id": "2113630558",
+            "org": "Department of Computer Science, University of Brasilia, Brazil#TAB#"
+        },
+        {
+            "name": "Ricardo P. Jacobi",
+            "id": "2125028350",
+            "org": "Department of Computer Science, University of Brasilia, Brazil#TAB#"
+        },
+        {
+            "name": "Adson Ferreira da Rocha",
+            "id": "2099186054",
+            "org": "Department of Electrical Engineering, University of Brasilia, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Systolic array",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Speedup",
+        "Theoretical computer science",
+        "Sequence alignment",
+        "Computer science",
+        "FPGA prototype",
+        "Multiple sequence alignment",
+        "Hardware acceleration",
+        "Iterative method"
+    ],
+    "references": [
+        "1589993665",
+        "1595838892",
+        "1990061958",
+        "2002638840",
+        "2021852335",
+        "2036295979",
+        "2122942724",
+        "2166760518",
+        "2168077168",
+        "2168652696"
+    ]
+}

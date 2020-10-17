@@ -1,0 +1,76 @@
+{
+    "id": "1592090825",
+    "title": "A New Nonparametric Pairwise Clustering Algorithm Based on Iterative Estimation of Distance Profiles",
+    "venue": "Machine Learning",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Shlomo Dubnov",
+            "id": "2463114407",
+            "org": "Department of Communication Systems Engineering, Ben-Gurion University of the Negev, Beer-Sheva 84105, Israel. dubnov@bgumail.bgu.ac.il#TAB#"
+        },
+        {
+            "name": "Ran El-Yaniv",
+            "id": "288626473",
+            "org": "Department of Computer Science, Technion--Israel Institute of Technology, Haifa 32000, Israel. rani@cs.technion.ac.il#TAB#"
+        },
+        {
+            "name": "Yoram Gdalyahu",
+            "id": "116872656",
+            "org": "School of Computer Science and Engineering and Center for Neural Computation, Hebrew University, Jerusalem 91904, Israel. yoram@cs.huji.ac.il#TAB#"
+        },
+        {
+            "name": "Elad Schneidman",
+            "id": "2046669202",
+            "org": "School of Computer Science and Engineering, Department of Neurobiology and Center for Neural Computation, Hebrew University, Jerusalem 91904, Israel. elads@cs.huji.ac.il#TAB#"
+        },
+        {
+            "name": "Naftali Tishby",
+            "id": "2171234738",
+            "org": "School of Computer Science and Engineering and Center for Neural Computation, Hebrew University, Jerusalem 91904, Israel. tishby@cs.huji.ac.il#TAB#"
+        },
+        {
+            "name": "Golan Yona",
+            "id": "2059658689",
+            "org": "Department of Computer Science, Cornell University, Ithaca, NY 14853-7501, USA. golan@cs.cornell.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Single-linkage clustering",
+        "Pattern recognition",
+        "Hierarchical clustering of networks",
+        "CURE data clustering algorithm",
+        "Determining the number of clusters in a data set",
+        "Nearest-neighbor chain algorithm",
+        "Canopy clustering algorithm",
+        "k-medians clustering",
+        "Correlation clustering",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "362434",
+        "1546877403",
+        "1640070940",
+        "1686946872",
+        "1971784203",
+        "1981202432",
+        "1992880122",
+        "2033387638",
+        "2037591014",
+        "2066721369",
+        "2074225934",
+        "2077990749",
+        "2110094288",
+        "2125687350",
+        "2127086485",
+        "2127314673",
+        "2132603077",
+        "2140000690",
+        "2143079199",
+        "2146950091",
+        "2148686234",
+        "2152527808"
+    ]
+}

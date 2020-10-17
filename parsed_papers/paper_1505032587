@@ -1,0 +1,41 @@
+{
+    "id": "1505032587",
+    "title": "Double-Scan: Introducing and Implementing a New Data-Parallel Skeleton",
+    "venue": "european conference on parallel processing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Holger Bischof",
+            "id": "2341578675",
+            "org": "Technical University of Berlin"
+        },
+        {
+            "name": "Sergei Gorlatch",
+            "id": "1984139201",
+            "org": "Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "System of linear equations",
+        "Tridiagonal matrix",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Algorithmic skeleton",
+        "Message passing",
+        "Performance prediction",
+        "Skeleton (computer programming)",
+        "Predictability"
+    ],
+    "references": [
+        "1545621744",
+        "1552339343",
+        "1579412726",
+        "1585327591",
+        "1776654319",
+        "2151574744",
+        "2166889930",
+        "2167500728"
+    ]
+}

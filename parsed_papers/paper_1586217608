@@ -1,0 +1,45 @@
+{
+    "id": "1586217608",
+    "title": "Deterministic length reduction: fast convolution in sparse data and applications",
+    "venue": "combinatorial pattern matching",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Amihood Amir",
+            "id": "2155775864",
+            "org": "Department of Computer Science, Bar-Ilan University, Ramat-Gan, Israel#TAB#"
+        },
+        {
+            "name": "Oren Kapah",
+            "id": "104151013",
+            "org": "Department of Computer Science, Bar-Ilan University, Ramat-Gan, Israel#TAB#"
+        },
+        {
+            "name": "Ely Porat",
+            "id": "1971992943",
+            "org": "Department of Computer Science, Bar-Ilan University, Ramat-Gan, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Prime number",
+        "Discrete mathematics",
+        "Computer science",
+        "Convolution",
+        "Deterministic algorithm",
+        "Overlap-add method",
+        "Sparse approximation",
+        "Kernel (image processing)",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1491938055",
+        "1572359141",
+        "1602797708",
+        "1963623641",
+        "1996113955",
+        "2080205931",
+        "2105443299",
+        "2113692647"
+    ]
+}

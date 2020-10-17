@@ -1,0 +1,40 @@
+{
+    "id": "1736097396",
+    "title": "Inferring channel buffer bounds via linear programming",
+    "venue": "european symposium on programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Tachio Terauchi",
+            "id": "2070651751",
+            "org": "Tohoku University#TAB#"
+        },
+        {
+            "name": "Adam Megacz",
+            "id": "341574724",
+            "org": "University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Static analysis",
+        "Computer science",
+        "Communication channel",
+        "Composition operator",
+        "Casting",
+        "Mathematical optimization",
+        "Linear programming",
+        "Polynomial"
+    ],
+    "references": [
+        "1519058488",
+        "1861989620",
+        "1916030352",
+        "2038677544",
+        "2053267751",
+        "2131135493",
+        "2148306578",
+        "2153687851",
+        "2610996743"
+    ]
+}

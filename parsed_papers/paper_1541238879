@@ -1,0 +1,74 @@
+{
+    "id": "1541238879",
+    "title": "Automated testing and debugging of SAT and QBF solvers",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Robert Brummayer",
+            "id": "1204937030",
+            "org": "Institute for Formal Models and Verification, Johannes Kepler University, Linz, Austria#TAB#"
+        },
+        {
+            "name": "Florian Lonsing",
+            "id": "706522458",
+            "org": "Institute for Formal Models and Verification, Johannes Kepler University, Linz, Austria#TAB#"
+        },
+        {
+            "name": "Armin Biere",
+            "id": "2242438494",
+            "org": "Institute for Formal Models and Verification, Johannes Kepler University, Linz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean circuit",
+        "Delta Debugging",
+        "Theoretical computer science",
+        "Algorithm",
+        "Fuzz testing",
+        "Computer science",
+        "Correctness",
+        "Directed acyclic graph",
+        "Robustness (computer science)",
+        "Solver",
+        "Debugging"
+    ],
+    "references": [
+        "1482661140",
+        "1495927311",
+        "1496518193",
+        "1507235470",
+        "1518705996",
+        "1537644650",
+        "1538224303",
+        "1553278548",
+        "1565429413",
+        "1567405466",
+        "1572445670",
+        "1574060188",
+        "1579221659",
+        "1586677474",
+        "1593151295",
+        "1608888815",
+        "1632662515",
+        "1721757222",
+        "1775468415",
+        "1800123991",
+        "1809040466",
+        "1862403209",
+        "1916519491",
+        "1976876676",
+        "2039027656",
+        "2057361103",
+        "2097957670",
+        "2098397367",
+        "2119717320",
+        "2121217767",
+        "2127982853",
+        "2129766896",
+        "2150661189",
+        "2159503942",
+        "2170224888",
+        "2501112583"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": "109039816",
+    "title": "An efficient countermeasure against correlation power-analysis attacks with randomized montgomery operations for DF-ECC processor",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jen-Wei Lee",
+            "id": "2136988967",
+            "org": "Department of Electronics Engineering and Institute of Electronics, National Chiao Tung University, Hsinchu, Taiwan#TAB#"
+        },
+        {
+            "name": "Szu-Chi Chung",
+            "id": "2126464429",
+            "org": "Department of Electronics Engineering and Institute of Electronics, National Chiao Tung University, Hsinchu, Taiwan#TAB#"
+        },
+        {
+            "name": "Hsie-Chia Chang",
+            "id": "2136734275",
+            "org": "Department of Electronics Engineering and Institute of Electronics, National Chiao Tung University, Hsinchu, Taiwan#TAB#"
+        },
+        {
+            "name": "Chen-Yi Lee",
+            "id": "2722432449",
+            "org": "Department of Electronics Engineering and Institute of Electronics, National Chiao Tung University, Hsinchu, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Scalar multiplication",
+        "Countermeasure",
+        "Computer science",
+        "Encryption",
+        "Power analysis",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1527460828",
+        "1530384431",
+        "1539482743",
+        "1562542037",
+        "1565369953",
+        "1599906532",
+        "1964698277",
+        "1979777930",
+        "2003736153",
+        "2017459325",
+        "2059866937",
+        "2068746412",
+        "2100734746",
+        "2132979456",
+        "2137567577",
+        "2154909745",
+        "2157672296",
+        "2160037268",
+        "2166362740"
+    ]
+}

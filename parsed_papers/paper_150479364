@@ -1,0 +1,43 @@
+{
+    "id": "150479364",
+    "title": "Mapping orphanet terminology to UMLS",
+    "venue": "artificial intelligence in medicine in europe",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Maja Milicic Brandt",
+            "id": "2617450965",
+            "org": "NGRL Manchester#TAB#"
+        },
+        {
+            "name": "Ana Rath",
+            "id": "2134201131",
+            "org": "Orphanet, INSERM SC11, Paris#TAB#"
+        },
+        {
+            "name": "Andrew Devereau",
+            "id": "2666438785",
+            "org": "NGRL Manchester#TAB#"
+        },
+        {
+            "name": "Segolene Ayme",
+            "id": "1104744068",
+            "org": "Orphanet, INSERM SC11, Paris#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unified Medical Language System",
+        "Computer science",
+        "Data mining",
+        "Terminology",
+        "Ranking",
+        "Medical terminology",
+        "MedDRA",
+        "Information retrieval",
+        "SNOMED CT"
+    ],
+    "references": [
+        "91108659",
+        "1550258693"
+    ]
+}

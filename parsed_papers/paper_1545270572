@@ -1,0 +1,60 @@
+{
+    "id": "1545270572",
+    "title": "Concurrency Control Theory for Deferred Materialized Views",
+    "venue": "international conference on database theory",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Akira Kawaguchi",
+            "id": "2099929122",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Daniel F. Lieuwen",
+            "id": "2209150110",
+            "org": "Bell Laboratories"
+        },
+        {
+            "name": "Inderpal Singh Mumick",
+            "id": "112579409",
+            "org": "AT&T Laboratories"
+        },
+        {
+            "name": "Dallan Quass",
+            "id": "2308003564",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Kenneth A. Ross",
+            "id": "2116418223",
+            "org": "Columbia University"
+        }
+    ],
+    "fields_of_study": [
+        "SWORD",
+        "Deferred maintenance",
+        "Serializability",
+        "Computer science",
+        "Database",
+        "Serialization",
+        "Materialized view",
+        "Two-phase locking",
+        "Concurrency control",
+        "Database transaction"
+    ],
+    "references": [
+        "1497388414",
+        "1545155892",
+        "1812691494",
+        "1973382888",
+        "2006426459",
+        "2008907861",
+        "2012670464",
+        "2116476518",
+        "2118260817",
+        "2131165411",
+        "2134600551",
+        "2163764339",
+        "2165456041"
+    ]
+}

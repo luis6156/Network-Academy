@@ -1,0 +1,75 @@
+{
+    "id": "1535431348",
+    "title": "Re-optimizing data-parallel computing",
+    "venue": "networked systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sameer Agarwal",
+            "id": "2644412219",
+            "org": "Microsoft Research and University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Srikanth Kandula",
+            "id": "2089120598",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Nicolas Bruno",
+            "id": "2133606375",
+            "org": "Microsoft Bing#TAB#"
+        },
+        {
+            "name": "Ming-Chuan Wu",
+            "id": "2893701365",
+            "org": "Microsoft Bing#TAB#"
+        },
+        {
+            "name": "Ion Stoica",
+            "id": "2161479384",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Jingren Zhou",
+            "id": "2702077502",
+            "org": "Microsoft Bing#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Piggybacking (Internet access)",
+        "Response time",
+        "Computer science",
+        "Distributed computing",
+        "Rope",
+        "Graph",
+        "Percentile",
+        "Real-time computing",
+        "Query optimization"
+    ],
+    "references": [
+        "65853127",
+        "69713013",
+        "1480850417",
+        "1487337216",
+        "1547205936",
+        "1569148339",
+        "1834532152",
+        "1975731516",
+        "1978924650",
+        "2022678927",
+        "2060091058",
+        "2069980026",
+        "2096125134",
+        "2098935637",
+        "2100830825",
+        "2110086534",
+        "2110104287",
+        "2110514750",
+        "2119400430",
+        "2143452574",
+        "2153160273",
+        "2163961697",
+        "2203361072",
+        "2296349066"
+    ]
+}

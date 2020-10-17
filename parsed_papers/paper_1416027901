@@ -1,0 +1,66 @@
+{
+    "id": "1416027901",
+    "title": "Scrutinizing WPA2 password generating algorithms in wireless routers",
+    "venue": "WOOT'15 Proceedings of the 9th USENIX Conference on Offensive Technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Eduardo Novella Lorente",
+            "id": "2516143969",
+            "org": "The Kerckhoffs Institute, Radboud University, The Netherlands#TAB#"
+        },
+        {
+            "name": "Carlo Meijer",
+            "id": "2101769059",
+            "org": "The Kerckhoffs Institute, Radboud University, The Netherlands#TAB#"
+        },
+        {
+            "name": "Roel Verdult",
+            "id": "2020999386",
+            "org": "Institute for Computing and Information Sciences, Radboud University, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Algorithm",
+        "Password strength",
+        "Cognitive password",
+        "Computer science",
+        "Computer security",
+        "Password",
+        "One-time password",
+        "Computer network"
+    ],
+    "references": [
+        "196942907",
+        "1476373506",
+        "1515716392",
+        "1526747343",
+        "1549055687",
+        "1556597491",
+        "1572840940",
+        "1741396218",
+        "1789460706",
+        "1802259427",
+        "1999987941",
+        "2005612610",
+        "2035164471",
+        "2047234323",
+        "2055072835",
+        "2072234079",
+        "2075288390",
+        "2077099041",
+        "2095156129",
+        "2109740421",
+        "2114566185",
+        "2133040343",
+        "2139985879",
+        "2149929743",
+        "2157284928",
+        "2164725724",
+        "2409784482"
+    ]
+}

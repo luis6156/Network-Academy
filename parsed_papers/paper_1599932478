@@ -1,0 +1,54 @@
+{
+    "id": "1599932478",
+    "title": "Tarjan's Algorithm Makes On-the-Fly LTL Verification More Efficient",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jaco Geldenhuys",
+            "id": "2894887655",
+            "org": "Tampere University of Technology"
+        },
+        {
+            "name": "Antti Valmari",
+            "id": "17123897",
+            "org": "Tampere University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Program analysis",
+        "Discrete mathematics",
+        "Buchi automaton",
+        "Computer science",
+        "Random graph",
+        "Tarjan's strongly connected components algorithm",
+        "Breadth-first search",
+        "Correctness",
+        "Model checking",
+        "Linear temporal logic"
+    ],
+    "references": [
+        "143291542",
+        "1507116188",
+        "1508152977",
+        "1516806823",
+        "1528291435",
+        "1528441743",
+        "1568729458",
+        "1606555018",
+        "1607782211",
+        "1655990431",
+        "1934074768",
+        "1965253335",
+        "1975112016",
+        "1977553951",
+        "1984936841",
+        "2006406722",
+        "2012935476",
+        "2023949272",
+        "2028782479",
+        "2084063516",
+        "2089003125"
+    ]
+}

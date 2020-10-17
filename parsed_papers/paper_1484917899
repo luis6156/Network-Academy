@@ -1,0 +1,67 @@
+{
+    "id": "1484917899",
+    "title": "Fair Traceable Multi-Group Signatures",
+    "venue": "financial cryptography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Vicente Benjumea",
+            "id": "2076883931",
+            "org": "Computer Science Dept., University of Malaga, Spain#TAB#"
+        },
+        {
+            "name": "Seung Geol Choi",
+            "id": "2105679988",
+            "org": "Computer Science Dept., Columbia University, USA#TAB#"
+        },
+        {
+            "name": "Javier Lopez",
+            "id": "2128402323",
+            "org": "Computer Science Dept., University of Malaga, Spain#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Google Inc. & Computer Science Dept., Columbia University, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Credential",
+        "Discrete logarithm",
+        "Computer science",
+        "Anonymity",
+        "Computer security",
+        "Accountability",
+        "Revocation",
+        "Key (lock)",
+        "Random oracle",
+        "Internet privacy",
+        "Group signature"
+    ],
+    "references": [
+        "8362916",
+        "174706587",
+        "1497351799",
+        "1518949160",
+        "1519583411",
+        "1531195150",
+        "1555729426",
+        "1558116972",
+        "1563221498",
+        "1572695506",
+        "1578795731",
+        "1585790764",
+        "1587945298",
+        "1589205472",
+        "1885156594",
+        "2091915899",
+        "2100460660",
+        "2105807578",
+        "2108834246",
+        "2113929724",
+        "2132172731",
+        "2135656098",
+        "2153235002",
+        "2165210192"
+    ]
+}

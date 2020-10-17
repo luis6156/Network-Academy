@@ -1,0 +1,50 @@
+{
+    "id": "100392937",
+    "title": "Pervasive parallelism for managed runtimes",
+    "venue": "usenix conference on hot topics in parallelism",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Albert Noll",
+            "id": "2132291093",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas R. Gross",
+            "id": "2112219004",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Java",
+        "Parallel computing",
+        "Compiler",
+        "Computer science",
+        "Granularity",
+        "Abstraction",
+        "Concurrency",
+        "Optimizing compiler",
+        "Dynamic compilation"
+    ],
+    "references": [
+        "1479768891",
+        "1490084794",
+        "1979887469",
+        "1981109753",
+        "1982335633",
+        "2004420781",
+        "2014672480",
+        "2028124543",
+        "2030281933",
+        "2055060936",
+        "2065818693",
+        "2072725684",
+        "2091085450",
+        "2098278566",
+        "2109065830",
+        "2114338612",
+        "2125623590",
+        "2139031153"
+    ]
+}

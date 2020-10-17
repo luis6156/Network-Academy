@@ -1,0 +1,53 @@
+{
+    "id": "1544859938",
+    "title": "On the Construction of Variable-Input-Length Ciphers",
+    "venue": "fast software encryption",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Mihir Bellare",
+            "id": "2052950829",
+            "org": "University of California at San Diego"
+        },
+        {
+            "name": "Phillip Rogaway",
+            "id": "2106597688",
+            "org": "University of California at Davis"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Ciphertext stealing",
+        "Rail fence cipher",
+        "Cipher",
+        "Transposition cipher",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Residual block termination",
+        "Two-square cipher",
+        "Stream cipher",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1484296207",
+        "1490586645",
+        "1504217304",
+        "1538319178",
+        "1540000918",
+        "1559931973",
+        "1575126375",
+        "1587679486",
+        "1672382702",
+        "1972464518",
+        "1985263989",
+        "2022521688",
+        "2047505738",
+        "2055993618",
+        "2077300005",
+        "2117362057",
+        "2122984309",
+        "2139172211",
+        "2799397395"
+    ]
+}

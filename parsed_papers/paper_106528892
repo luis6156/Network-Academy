@@ -1,0 +1,59 @@
+{
+    "id": "106528892",
+    "title": "BLAKE2: simpler, smaller, fast as MD5",
+    "venue": "applied cryptography and network security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "Kudelski Security, Switzerland#TAB#"
+        },
+        {
+            "name": "Samuel Neves",
+            "id": "2148793031",
+            "org": "University of Coimbra, Portugal#TAB#"
+        },
+        {
+            "name": "Zooko Wilcox-O'Hearn",
+            "id": "2894442221",
+            "org": "Least Authority Enterprises#TAB#"
+        },
+        {
+            "name": "Christian Winnerlein",
+            "id": "2400068600",
+            "org": "Ludwig Maximilian University of Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "SIMD",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Block (data storage)",
+        "Computer security",
+        "Intrusion detection system",
+        "Hash function",
+        "Message authentication code",
+        "Random oracle",
+        "MD5",
+        "Collision resistance"
+    ],
+    "references": [
+        "6911803",
+        "81015123",
+        "91031763",
+        "1512933114",
+        "1553650484",
+        "1608572227",
+        "1831862684",
+        "2008682098",
+        "2146923862",
+        "2154964832",
+        "2220859535",
+        "2399749264",
+        "2400117718",
+        "2403810600"
+    ]
+}

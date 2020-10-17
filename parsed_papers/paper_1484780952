@@ -1,0 +1,50 @@
+{
+    "id": "1484780952",
+    "title": "A flexible and efficient application programming interface (API) for a customizable proxy cache",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Vivek S. Pai",
+            "id": "2303316918",
+            "org": "iMimic Networking, Inc., Suite, Houston, TX#TAB#"
+        },
+        {
+            "name": "Alan L. Cox",
+            "id": "2139024270",
+            "org": "iMimic Networking, Inc., Suite, Houston, TX#TAB#"
+        },
+        {
+            "name": "Vijay S. Pai",
+            "id": "2780092457",
+            "org": "iMimic Networking, Inc., Suite, Houston, TX#TAB#"
+        },
+        {
+            "name": "Willy Zwaenepoel",
+            "id": "2290999210",
+            "org": "iMimic Networking, Inc., Suite, Houston, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Content adaptation",
+        "Cache",
+        "Throughput",
+        "Content management",
+        "Computer science",
+        "Server",
+        "Application programming interface",
+        "Exploit",
+        "Operating system",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "204263487",
+        "1527961683",
+        "1529372087",
+        "2044534358",
+        "2047452782",
+        "2133369126",
+        "2148620466"
+    ]
+}

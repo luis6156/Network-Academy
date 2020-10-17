@@ -1,0 +1,78 @@
+{
+    "id": "1574326402",
+    "title": "A ciphertext-policy attribute-based proxy re-encryption scheme for data sharing in public clouds",
+    "venue": "Concurrency and Computation: Practice and Experience",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Kaitai Liang",
+            "id": "2135833045",
+            "org": "Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong SAR#TAB#"
+        },
+        {
+            "name": "Liming Fang",
+            "id": "2163114726",
+            "org": "Nanjing University of Aeronautics and Astronautics, Nanjing, China#TAB#"
+        },
+        {
+            "name": "Duncan S. Wong",
+            "id": "2046505287",
+            "org": "Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong SAR#TAB#"
+        },
+        {
+            "name": "Willy Susilo",
+            "id": "2114127059",
+            "org": "School of Computer Science and Software Engineering, University of Wollongong, Wollongong, NSW, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Proxy re-encryption",
+        "Malleability",
+        "Computer science",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Ciphertext indistinguishability",
+        "Ciphertext",
+        "Attribute-based encryption",
+        "Semantic security",
+        "Plaintext"
+    ],
+    "references": [
+        "36535589",
+        "75310505",
+        "126735607",
+        "139147767",
+        "154883872",
+        "177444027",
+        "204567147",
+        "1498316612",
+        "1500253167",
+        "1510795740",
+        "1513098086",
+        "1537844681",
+        "1582239555",
+        "1590823599",
+        "1595748100",
+        "1607264302",
+        "1890078278",
+        "1965916170",
+        "1995261385",
+        "2034382123",
+        "2050109441",
+        "2067095453",
+        "2082420963",
+        "2082484567",
+        "2086642346",
+        "2089528989",
+        "2097638666",
+        "2101709669",
+        "2102355710",
+        "2108072891",
+        "2114428623",
+        "2138001464",
+        "2157679418",
+        "2160550639",
+        "2164101323",
+        "2238048589"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1587567879",
+    "title": "Provable Unlinkability Against Traffic Analysis Already After O(log(n)) Steps",
+    "venue": "international conference on information security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marcin Gomulkiewicz",
+            "id": "2093954229",
+            "org": "Wroclaw University of Technology"
+        },
+        {
+            "name": "Marek Klonowski",
+            "id": "1669435002",
+            "org": "Wroclaw University of Technology"
+        },
+        {
+            "name": "Miroslaw Kutylowski",
+            "id": "181516391",
+            "org": "Wroclaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Binary logarithm",
+        "Mix network",
+        "Traffic analysis",
+        "Message passing",
+        "Telecommunications network",
+        "Adversary"
+    ],
+    "references": [
+        "1530443525",
+        "1606058619",
+        "1979797552",
+        "1986135230",
+        "2087811006",
+        "2103647628",
+        "2140422174",
+        "2161620758"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "1632962055",
+    "title": "Exploring the feasibility of low cost fault injection attacks on sub-threshold devices through an example of a 65nm AES implementation",
+    "venue": "international conference on rfid",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Alessandro Barenghi",
+            "id": "1779711972",
+            "org": "DEI, Politecnico di Milano, Milano, Italy#TAB#"
+        },
+        {
+            "name": "Cedric Hocquet",
+            "id": "2088297561",
+            "org": "ICTEAM Institute, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "David Bol",
+            "id": "2117186479",
+            "org": "ICTEAM Institute, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "ICTEAM Institute, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Francesco Regazzoni",
+            "id": "88302247",
+            "org": "ICTEAM Institute, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Israel Koren",
+            "id": "2156909159",
+            "org": "University of Massachusetts, Amherst, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Subthreshold conduction",
+        "Side channel attack",
+        "Advanced Encryption Standard",
+        "Fault injection",
+        "Embedded system",
+        "Low voltage",
+        "AES implementations",
+        "Differential fault analysis",
+        "Engineering",
+        "Fault model"
+    ],
+    "references": [
+        "1495121609",
+        "1537875328",
+        "1556212265",
+        "1566273181",
+        "1576037675",
+        "1651633114",
+        "1779923173",
+        "1999528892",
+        "2004513455",
+        "2074545768",
+        "2095816496",
+        "2101368424",
+        "2103570562",
+        "2110162979",
+        "2110941647",
+        "2112244944",
+        "2162282468"
+    ]
+}

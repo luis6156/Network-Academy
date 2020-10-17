@@ -1,0 +1,50 @@
+{
+    "id": "1485909121",
+    "title": "NARROWER: a new algorithm for unification and its application to logic programming",
+    "venue": "rewriting techniques and applications",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Pierre Rety",
+            "id": "295317255",
+            "org": "Centre de Recherche en Informatique de Nancy, Nancy, France#TAB#"
+        },
+        {
+            "name": "Claude Kirchner",
+            "id": "2168512137",
+            "org": "Centre de Recherche en Informatique de Nancy, Nancy, France#TAB#"
+        },
+        {
+            "name": "Helene Kirchner",
+            "id": "2248292239",
+            "org": "Centre de Recherche en Informatique de Nancy, Nancy, France#TAB#"
+        },
+        {
+            "name": "Pierre Lescanne",
+            "id": "2809342218",
+            "org": "Centre de Recherche en Informatique de Nancy, Nancy, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Functional logic programming",
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Dynamic logic (modal logic)",
+        "Bunched logic",
+        "Computational logic",
+        "Prolog",
+        "Horn clause",
+        "Logic programming",
+        "Unification"
+    ],
+    "references": [
+        "127464574",
+        "1513315908",
+        "1559996602",
+        "1596011221",
+        "2019751493",
+        "2024390796",
+        "2148193906"
+    ]
+}

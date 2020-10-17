@@ -1,0 +1,49 @@
+{
+    "id": "1510241546",
+    "title": "CLPS-B - A Constraint Solver for B",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Fabrice Bouquet",
+            "id": "2177240793",
+            "org": "Universite de Franche-Comte"
+        },
+        {
+            "name": "Bruno Legeard",
+            "id": "406470922",
+            "org": "Universite de Franche-Comte"
+        },
+        {
+            "name": "Fabien Peureux",
+            "id": "171518098",
+            "org": "Universite de Franche-Comte"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Constraint graph",
+        "Discrete mathematics",
+        "Constraint satisfaction",
+        "Constraint learning",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Complexity of constraint satisfaction"
+    ],
+    "references": [
+        "1481140683",
+        "1966978306",
+        "2016962213",
+        "2022443117",
+        "2085716817",
+        "2096762856",
+        "2098985772",
+        "2133237582",
+        "2142545871",
+        "2144737265",
+        "2176226533"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1568498636",
+    "title": "YACO: a user conducted visualization tool for supporting cache optimization",
+    "venue": "high performance computing and communications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Boris Quaing",
+            "id": "2419095128",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Global Assembly Cache",
+        "Cache algorithms",
+        "Smart Cache",
+        "Cache coloring",
+        "Distributed computing",
+        "Computer science",
+        "Real-time computing",
+        "Cache pollution",
+        "Cache invalidation",
+        "CPU cache"
+    ],
+    "references": [
+        "1541398538",
+        "1818884725",
+        "2069738303",
+        "2076078958",
+        "2079737233",
+        "2104115699",
+        "2115667390",
+        "2142033140",
+        "2145021036",
+        "2169178484"
+    ]
+}

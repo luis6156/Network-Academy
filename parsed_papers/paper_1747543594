@@ -1,0 +1,59 @@
+{
+    "id": "1747543594",
+    "title": "Maintaining Temporal Consistency: Issues and Algorithms.",
+    "venue": "RTDB",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ming Xiong",
+            "id": "2144652528",
+            "org": "Department of Computer Science|University of Massachusetts Amherst"
+        },
+        {
+            "name": "John A. Stankovic",
+            "id": "2030977062",
+            "org": "Department of Computer Science|University of Massachusetts Amherst"
+        },
+        {
+            "name": "Krithi Ramamritham",
+            "id": "323797451",
+            "org": "Department of Computer Science|University of Massachusetts Amherst"
+        },
+        {
+            "name": "Donald F. Towsley",
+            "id": "2177075905",
+            "org": "Department of Computer Science|University of Massachusetts Amherst"
+        },
+        {
+            "name": "Rajendran M. Sivasankaran",
+            "id": "2054267733",
+            "org": "Department of Computer Science|University of Massachusetts Amherst"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Concurrency control",
+        "Distributed concurrency control",
+        "Active database",
+        "Timestamp-based concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "1522931342",
+        "1573217167",
+        "1875866204",
+        "1991036250",
+        "2016580249",
+        "2023671193",
+        "2053508739",
+        "2108313869",
+        "2115885843",
+        "2121941088",
+        "2156496641",
+        "2169450010"
+    ]
+}

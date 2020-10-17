@@ -1,0 +1,57 @@
+{
+    "id": "1580119864",
+    "title": "Genotype Sequence Segmentation: Handling Constraints and Noise",
+    "venue": "workshop on algorithms in bioinformatics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Qi Zhang",
+            "id": "2714967302",
+            "org": "UNC Chapel Hill,#TAB#"
+        },
+        {
+            "name": "Wei Wang",
+            "id": "2315689540",
+            "org": "UNC Chapel Hill,#TAB#"
+        },
+        {
+            "name": "Leonard McMillan",
+            "id": "2030210730",
+            "org": "UNC Chapel Hill,#TAB#"
+        },
+        {
+            "name": "Jan F. Prins",
+            "id": "2111985519",
+            "org": "UNC Chapel Hill,#TAB#"
+        },
+        {
+            "name": "Fernando Pardo-Manuel de Villena",
+            "id": "2222738371",
+            "org": "UNC Chapel Hill,#TAB#"
+        },
+        {
+            "name": "David W. Threadgill",
+            "id": "2079531567",
+            "org": "UNC Chapel Hill,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Segmentation",
+        "Biological constraints",
+        "Missing data",
+        "Genotyping",
+        "Small number",
+        "Computer science",
+        "Dynamic programming",
+        "Bioinformatics",
+        "Genetic variation"
+    ],
+    "references": [
+        "1523630858",
+        "2008323735",
+        "2089718377",
+        "2110570734",
+        "2146820632"
+    ]
+}

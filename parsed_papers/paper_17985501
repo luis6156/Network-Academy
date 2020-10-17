@@ -1,0 +1,40 @@
+{
+    "id": "17985501",
+    "title": "Data Warehousing, Multi-Dimensional Data Models and OLAP",
+    "venue": "Encyclopedia of Database Technologies and Applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Prasad M. Deshpande",
+            "id": "2304487933",
+            "org": "IBM Almaden Research Center, USA"
+        },
+        {
+            "name": "Karthikeyan Ramasamy",
+            "id": "2175047829",
+            "org": "Juniper Networks, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Online analytical processing",
+        "Computer science",
+        "Data modeling",
+        "ROLAP",
+        "Database",
+        "Star schema",
+        "MOLAP",
+        "Fact table",
+        "Data warehouse",
+        "Snowflake schema"
+    ],
+    "references": [
+        "1508412218",
+        "1529956645",
+        "1532919231",
+        "1936689714",
+        "1968189045",
+        "1995999642",
+        "2071058905",
+        "2093154290"
+    ]
+}

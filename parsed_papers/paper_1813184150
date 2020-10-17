@@ -1,0 +1,47 @@
+{
+    "id": "1813184150",
+    "title": "Heterogeneous computing on mixed unstructured grids with PyFR",
+    "venue": "Computers & Fluids",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Freddie D. Witherden",
+            "id": "2068673092",
+            "org": "Department of Aeronautics, Imperial College London, SW7 2AZ United Kingdom"
+        },
+        {
+            "name": "Brian C. Vermeire",
+            "id": "1980382060",
+            "org": "Department of Aeronautics, Imperial College London, SW7 2AZ United Kingdom"
+        },
+        {
+            "name": "Peter E. Vincent",
+            "id": "2139463109",
+            "org": "Department of Aeronautics, Imperial College London, SW7 2AZ United Kingdom"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Parallel computing",
+        "Computational fluid dynamics",
+        "Polygon mesh",
+        "Symmetric multiprocessor system",
+        "FLOPS",
+        "Software portability",
+        "Xeon",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1538076361",
+        "1973911354",
+        "1985462363",
+        "2008001739",
+        "2023198396",
+        "2070232376",
+        "2073061372",
+        "2120919211",
+        "2129927857",
+        "2148897203"
+    ]
+}

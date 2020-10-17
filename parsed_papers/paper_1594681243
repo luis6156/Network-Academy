@@ -1,0 +1,55 @@
+{
+    "id": "1594681243",
+    "title": "Compiler Scheduling for STA-Processors",
+    "venue": "parallel computing in electrical engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gordon Cichon",
+            "id": "1210594130",
+            "org": "Technische Universitat, Dresden"
+        },
+        {
+            "name": "Pablo Robelly",
+            "id": "415223275",
+            "org": "Technische Universitat, Dresden#TAB#"
+        },
+        {
+            "name": "Hendrik Seidel",
+            "id": "2025038374",
+            "org": "Technische Universitat, Dresden#TAB#"
+        },
+        {
+            "name": "Marcus Bronzel",
+            "id": "2055484325",
+            "org": "Technische Universitat, Dresden#TAB#"
+        },
+        {
+            "name": "Gerhard P. Fettweis",
+            "id": "2184435702",
+            "org": "Technische Universitat, Dresden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Instruction scheduling",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Dynamic priority scheduling",
+        "Compiler correctness",
+        "Optimizing compiler",
+        "Code generation",
+        "Dead code elimination",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1483352170",
+        "1555915743",
+        "1577420679",
+        "2037929850",
+        "2114067856",
+        "2132159669",
+        "2154172818"
+    ]
+}

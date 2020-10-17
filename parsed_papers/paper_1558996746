@@ -1,0 +1,76 @@
+{
+    "id": "1558996746",
+    "title": "SBSAT: a State-Based, BDD-Based Satisfiability Solver",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "John V. Franco",
+            "id": "2160254700",
+            "org": "The University of Cincinnati"
+        },
+        {
+            "name": "Michal Kouril",
+            "id": "2894046167",
+            "org": "The University of Cincinnati"
+        },
+        {
+            "name": "John S. Schlipf",
+            "id": "2004860627",
+            "org": "The University of Cincinnati"
+        },
+        {
+            "name": "Jeffrey Ward",
+            "id": "2798287930",
+            "org": "The University of Cincinnati"
+        },
+        {
+            "name": "Sean Weaver",
+            "id": "2321691706",
+            "org": "The University of Cincinnati"
+        },
+        {
+            "name": "Michael R. Dransfield",
+            "id": "1988895446",
+            "org": "Department of Defense"
+        },
+        {
+            "name": "W. Mark Vanfleet",
+            "id": "2330570717",
+            "org": "Department of Defense"
+        }
+    ],
+    "fields_of_study": [
+        "Finite-state machine",
+        "Theoretical computer science",
+        "Heuristics",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Computer science",
+        "Constraint satisfaction",
+        "Binary decision diagram",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Conjunctive normal form",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1535249208",
+        "1787074469",
+        "1822257500",
+        "1974010251",
+        "2009949769",
+        "2019049230",
+        "2056536496",
+        "2057361103",
+        "2080267935",
+        "2096307462",
+        "2100404896",
+        "2101481392",
+        "2107974651",
+        "2117285997",
+        "2120925552",
+        "2135453964"
+    ]
+}

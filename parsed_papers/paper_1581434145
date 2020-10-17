@@ -1,0 +1,40 @@
+{
+    "id": "1581434145",
+    "title": "Integrating Kernel Activations in a Multithreaded Runtime System on Top of LINUX",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Vincent Danjean",
+            "id": "2558661965",
+            "org": "Ecole normale superieure de Lyon"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "Ecole normale superieure de Lyon"
+        },
+        {
+            "name": "Robert D. Russell",
+            "id": "2169110334",
+            "org": "University of New Hampshire"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Linux kernel",
+        "Computer science",
+        "Distributed computing",
+        "Multithreading",
+        "Runtime system",
+        "Scheduler activations",
+        "System call",
+        "User space",
+        "Programmer"
+    ],
+    "references": [
+        "22448193",
+        "1966938284"
+    ]
+}

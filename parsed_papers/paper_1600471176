@@ -1,0 +1,61 @@
+{
+    "id": "1600471176",
+    "title": "Robot routing approaches for convoy merging maneuvers",
+    "venue": "conference towards autonomous robotic systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Fernando Valdes",
+            "id": "2117890640",
+            "org": "Electronics Department, University of Alcala, Alcala de Henares, Spain#TAB#"
+        },
+        {
+            "name": "Roberto Iglesias",
+            "id": "2471798508",
+            "org": "Department of Electronics and Computer Science, USC, Santiago de Compostela, Spain#TAB#"
+        },
+        {
+            "name": "Felipe Espinosa",
+            "id": "2253197414",
+            "org": "Electronics Department, University of Alcala, Alcala de Henares, Spain#TAB#"
+        },
+        {
+            "name": "Miguel A. Rodriguez",
+            "id": "2220567936",
+            "org": "Department of Electronics and Computer Science, USC, Santiago de Compostela, Spain#TAB#"
+        },
+        {
+            "name": "Pablo Quintia",
+            "id": "2315352122",
+            "org": "Department of Electronics and Computer Science, USC, Santiago de Compostela, Spain#TAB#"
+        },
+        {
+            "name": "Carlos Santos",
+            "id": "2255027541",
+            "org": "Electronics Department, University of Alcala, Alcala de Henares, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Robot",
+        "Operations research",
+        "Robotics",
+        "Merge (version control)",
+        "Computer science",
+        "Intelligent transportation system",
+        "Constant movement",
+        "Trajectory",
+        "Dynamic programming",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1622225657",
+        "1982809790",
+        "2021061679",
+        "2078971414",
+        "2106389684",
+        "2136382602",
+        "2160645305",
+        "2160835717",
+        "2294319407"
+    ]
+}

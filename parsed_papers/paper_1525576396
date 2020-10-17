@@ -1,0 +1,62 @@
+{
+    "id": "1525576396",
+    "title": "Certificateless public-key signature: security model and efficient construction",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Zhenfeng Zhang",
+            "id": "1990729064",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Duncan S. Wong",
+            "id": "2046505287",
+            "org": "Department of Computer Science, City University of Hong Kong, Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Jing Xu",
+            "id": "2716143154",
+            "org": "Graduate University of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2100868817",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Theoretical computer science",
+        "Public key infrastructure",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Cryptosystem",
+        "Key escrow",
+        "Certificateless cryptography",
+        "Random oracle",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "3037366",
+        "1239768206",
+        "1497626621",
+        "1540267373",
+        "1542057243",
+        "1552851303",
+        "1569083856",
+        "1574785216",
+        "1591524234",
+        "1603589935",
+        "1610688607",
+        "1637905077",
+        "1690330632",
+        "1805549252",
+        "2014239329",
+        "2050773464",
+        "2086042811",
+        "2141375261",
+        "2152924492"
+    ]
+}

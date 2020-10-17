@@ -1,0 +1,63 @@
+{
+    "id": "1509639927",
+    "title": "A texton-based approach for the classification of lung parenchyma in CT images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mehrdad J. Gangeh",
+            "id": "2525587584",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Lauge Sorensen",
+            "id": "2116807507",
+            "org": "Department of Computer Science, University of Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Saher B. Shaker",
+            "id": "2120817675",
+            "org": "Department of Respiratory Medicine, Gentofte University Hospital, Hellerup, Denmark#TAB#"
+        },
+        {
+            "name": "Mohamed S. Kamel",
+            "id": "2096364092",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Marleen de Bruijne",
+            "id": "1968921007",
+            "org": "Department of Computer Science, University of Copenhagen, Denmark and Biomedical Imaging Group Rotterdam, Erasmus MC, The Netherlands#TAB#"
+        },
+        {
+            "name": "Marco Loog",
+            "id": "2688319911",
+            "org": "Pattern Recognition Laboratory, Delft University of Technology, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Texton",
+        "Radial basis function",
+        "Local binary patterns",
+        "Histogram",
+        "Support vector machine",
+        "Radial basis function kernel",
+        "Pixel",
+        "Region of interest",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1484228140",
+        "2108082645",
+        "2115694019",
+        "2124868070",
+        "2152548630",
+        "2153364064",
+        "2155662634",
+        "2162571797",
+        "2163352848"
+    ]
+}

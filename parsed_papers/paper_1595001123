@@ -1,0 +1,60 @@
+{
+    "id": "1595001123",
+    "title": "Hardware support for OpenMP collective operations",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Soohong P. Kim",
+            "id": "2116151000",
+            "org": "School of ECE, Purdue University#TAB#"
+        },
+        {
+            "name": "Samuel P. Midkiff",
+            "id": "2129574738",
+            "org": "School of ECE, Purdue University#TAB#"
+        },
+        {
+            "name": "Henry G. Dietz",
+            "id": "2522779933",
+            "org": "Department of ECE, University of Kentucky#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Computer architecture",
+        "Memory hierarchy",
+        "Shared memory",
+        "Computer science",
+        "Uniform memory access",
+        "Cache coherence",
+        "Non-uniform memory access",
+        "Cache-only memory architecture",
+        "Cache pollution"
+    ],
+    "references": [
+        "1573851380",
+        "1582451000",
+        "1592397134",
+        "1597658359",
+        "1623282124",
+        "1664707389",
+        "1780344158",
+        "1999752372",
+        "2027929919",
+        "2061388644",
+        "2097876246",
+        "2098246574",
+        "2120635877",
+        "2126913665",
+        "2132159669",
+        "2145031621",
+        "2156275124",
+        "2157373341",
+        "2161724057",
+        "2164264749",
+        "2169150396",
+        "2171539112"
+    ]
+}

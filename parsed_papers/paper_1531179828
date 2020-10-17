@@ -1,0 +1,49 @@
+{
+    "id": "1531179828",
+    "title": "First-come-first-served packet dispersion and implications for TCP",
+    "venue": "global communications conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Bob Melander",
+            "id": "2790871585",
+            "org": "Dept. of Comput. Syst., Uppsala Univ., Sweden"
+        },
+        {
+            "name": "Mats Bjorkman",
+            "id": "2099332173",
+            "org": "Dept. of Comput. Syst., Uppsala Univ., Sweden"
+        },
+        {
+            "name": "Per Gunningberg",
+            "id": "2084557827",
+            "org": "Dept. of Comput. Syst., Uppsala Univ., Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Weighted fair queueing",
+        "Round-robin scheduling",
+        "Phenomenon",
+        "Computer science",
+        "Scheduling (computing)",
+        "Fair queuing",
+        "Router",
+        "Network packet",
+        "Computer network",
+        "Real-time computing",
+        "Bottleneck"
+    ],
+    "references": [
+        "1974965594",
+        "2021085547",
+        "2042171995",
+        "2069499077",
+        "2073440460",
+        "2098289156",
+        "2105347639",
+        "2139684699",
+        "2141762756",
+        "2164818319",
+        "2753542457"
+    ]
+}

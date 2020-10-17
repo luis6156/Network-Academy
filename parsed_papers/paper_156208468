@@ -1,0 +1,70 @@
+{
+    "id": "156208468",
+    "title": "Loose synchronization for large-scale networked systems",
+    "venue": "usenix annual technical conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jeannie R. Albrecht",
+            "id": "2406262242",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Christopher Tuttle",
+            "id": "2137934724",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Alex C. Snoeren",
+            "id": "2112598219",
+            "org": "University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Amin Vahdat",
+            "id": "295064773",
+            "org": "University of California, San Diego#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchrony",
+        "Liveness",
+        "Computer science",
+        "Distributed computing",
+        "PlanetLab",
+        "Synchronization",
+        "Real-time computing"
+    ],
+    "references": [
+        "1542985837",
+        "1586701723",
+        "1973459706",
+        "1973501242",
+        "1997369208",
+        "1999588960",
+        "2006774019",
+        "2020299987",
+        "2028382703",
+        "2045362872",
+        "2045450417",
+        "2057081379",
+        "2079212753",
+        "2088221489",
+        "2104861744",
+        "2105310795",
+        "2115806861",
+        "2115988177",
+        "2116820549",
+        "2117260615",
+        "2122465391",
+        "2126022651",
+        "2131929623",
+        "2134205263",
+        "2135044397",
+        "2142822378",
+        "2144499729",
+        "2155444313",
+        "2156275124",
+        "2167774625",
+        "2173213060"
+    ]
+}

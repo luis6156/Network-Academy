@@ -1,0 +1,64 @@
+{
+    "id": "1507320341",
+    "title": "Federated Transaction Management with Snapshot Isolation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ralf Schenkel",
+            "id": "2023575604",
+            "org": "Databases and Information Systems, MPI for Informatics, Max Planck Society"
+        },
+        {
+            "name": "Gerhard Weikum",
+            "id": "514836396",
+            "org": "Databases and Information Systems, MPI for Informatics, Max Planck Society"
+        },
+        {
+            "name": "Norbert Weissenberg",
+            "id": "2896949248",
+            "org": "Fraunhofer ISST"
+        },
+        {
+            "name": "Xuequn Wu",
+            "id": "2630106734",
+            "org": "Deutsche Telekom AG"
+        }
+    ],
+    "fields_of_study": [
+        "Commitment ordering",
+        "Snapshot isolation",
+        "Schedule (computer science)",
+        "Distributed computing",
+        "Computer science",
+        "Serializability",
+        "Distributed transaction",
+        "Database",
+        "Global serializability",
+        "Isolation (database systems)",
+        "Two-phase locking"
+    ],
+    "references": [
+        "31118102",
+        "1496148388",
+        "1527689538",
+        "1545155892",
+        "1600004449",
+        "1855065956",
+        "1991878751",
+        "2014257213",
+        "2016758618",
+        "2093258057",
+        "2098197226",
+        "2103184997",
+        "2103711687",
+        "2106768428",
+        "2107775130",
+        "2117917070",
+        "2141824507",
+        "2151077968",
+        "2160069339",
+        "2177132126",
+        "2613214602"
+    ]
+}

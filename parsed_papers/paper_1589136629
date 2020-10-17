@@ -1,0 +1,55 @@
+{
+    "id": "1589136629",
+    "title": "Performance Evaluation of OpenMP Applications with Nested Parallelism",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Yoshizumi Tanaka",
+            "id": "2553337750",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Kenjiro Taura",
+            "id": "670466773",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Akinori Yonezawa",
+            "id": "660900409",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "Implicit parallelism",
+        "Task parallelism",
+        "Optimizing compiler",
+        "POSIX Threads"
+    ],
+    "references": [
+        "1505725463",
+        "1601400062",
+        "1773176621",
+        "1976573773",
+        "1993881507",
+        "2068042411",
+        "2074072975",
+        "2086794688",
+        "2139031153",
+        "2149663533",
+        "2153752404"
+    ]
+}

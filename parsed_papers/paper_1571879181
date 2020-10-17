@@ -1,0 +1,50 @@
+{
+    "id": "1571879181",
+    "title": "A polyhedral investigation of the LCS problem and a repetition-free variant",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Cristina G. Fernandes",
+            "id": "2145168834",
+            "org": "Universidade de Sao Paulo, Brazil#TAB#"
+        },
+        {
+            "name": "Carlos Eduardo Ferreira",
+            "id": "2407997382",
+            "org": "Universidade de Sao Paulo, Brazil#TAB#"
+        },
+        {
+            "name": "Christian Tjandraatmadja",
+            "id": "280820417",
+            "org": "Universidade de Sao Paulo, Brazil#TAB#"
+        },
+        {
+            "name": "Yoshiko Wakabayashi",
+            "id": "2126484416",
+            "org": "Universidade de Sao Paulo, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Polytope",
+        "Perfect graph",
+        "Birkhoff polytope",
+        "Longest increasing subsequence",
+        "Mathematics",
+        "Longest common subsequence problem",
+        "Discrete mathematics",
+        "Vertex enumeration problem",
+        "Combinatorics",
+        "Branch and cut"
+    ],
+    "references": [
+        "1754948582",
+        "1997998268",
+        "2012329067",
+        "2053419093",
+        "2096466922",
+        "2112858958",
+        "2178643882"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1512808804",
+    "title": "Toward performance models of MPI implementations for understanding application scaling issues",
+    "venue": "EuroMPI'10 Proceedings of the 17th European MPI users' group meeting conference on Recent advances in the message passing interface",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Torsten Hoefler",
+            "id": "262156611",
+            "org": "University of Illinois at Urbana-Champaign, IL#TAB#"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "University of Illinois at Urbana-Champaign, IL#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Jesper Larsson Traff",
+            "id": "718724760",
+            "org": "Dept. of Scientific Computing, University of Vienna, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "P system",
+        "Theoretical computer science",
+        "Computer science",
+        "Scaling",
+        "Distributed computing",
+        "Implementation",
+        "Bisection bandwidth"
+    ],
+    "references": [
+        "1507058731",
+        "1538073575",
+        "1551272572",
+        "1599203171",
+        "1967295467",
+        "1969215126",
+        "1995333355",
+        "2030040620",
+        "2041351581",
+        "2062810083",
+        "2080714603",
+        "2126968922",
+        "2134591116",
+        "2136041296",
+        "2140117218",
+        "2140729080",
+        "2144594679",
+        "2145892116",
+        "2146331174",
+        "2154731982",
+        "2157949437",
+        "2164303766",
+        "2164352834",
+        "2170796499",
+        "2611126214"
+    ]
+}

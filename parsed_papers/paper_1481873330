@@ -1,0 +1,57 @@
+{
+    "id": "1481873330",
+    "title": "HMM-Based Acoustic Event Detection with AdaBoost Feature Selection.",
+    "venue": "CLEaR",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Xi Zhou",
+            "id": "2659704930",
+            "org": "University of Illinois at Urbana-Champaign (UIUC) Beckman Institute Department of Electrical & Computer Engineering Urbana IL 61801 USA"
+        },
+        {
+            "name": "Xiaodan Zhuang",
+            "id": "2102137111",
+            "org": "University of Illinois at Urbana-Champaign (UIUC) Beckman Institute Department of Electrical & Computer Engineering Urbana IL 61801 USA"
+        },
+        {
+            "name": "Ming Liu",
+            "id": "2602425023",
+            "org": "Department of Electrical & Computer Engineering|University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Hao Tang",
+            "id": "2098377681",
+            "org": "Department of Electrical & Computer Engineering|University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Mark Hasegawa-Johnson",
+            "id": "2234370517",
+            "org": "Department of Electrical & Computer Engineering|University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Thomas S. Huang",
+            "id": "2149631809",
+            "org": "Department of Electrical & Computer Engineering|University of Illinois at Urbana-Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "AdaBoost",
+        "Pattern recognition",
+        "Computer science",
+        "Hidden Markov model",
+        "Feature selection",
+        "Kullback-Leibler divergence",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "249088392",
+        "1540007258",
+        "2105995102",
+        "2115916404",
+        "2118230268",
+        "2124000984",
+        "2146570360"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1477563924",
+    "title": "Fine-Grained Control-Flow Integrity Through Binary Hardening",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Mathias Payer",
+            "id": "2305760116",
+            "org": "Purdue University, West Lafayette, USA#TAB#"
+        },
+        {
+            "name": "Antonio Barresi",
+            "id": "2104193114",
+            "org": "ETH Zurich, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas R. Gross",
+            "id": "2112219004",
+            "org": "ETH Zurich, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary translation",
+        "Memory safety",
+        "Computer science",
+        "Binary number",
+        "Sandbox (computer security)",
+        "Security analysis",
+        "Embedded system",
+        "Operating system",
+        "Loader",
+        "Memory corruption",
+        "Modular design"
+    ],
+    "references": [
+        "1112477",
+        "1538332098",
+        "1605557845",
+        "1631846088",
+        "1748464847",
+        "1816718056",
+        "1823377586",
+        "1825457006",
+        "1969501726",
+        "1989060313",
+        "1993736952",
+        "1996931407",
+        "2015083179",
+        "2022018347",
+        "2022292029",
+        "2059969702",
+        "2074943483",
+        "2080379526",
+        "2081105932",
+        "2087191048",
+        "2098806455",
+        "2105904466",
+        "2109219878",
+        "2117115928",
+        "2117479921",
+        "2117798902",
+        "2121579803",
+        "2122757982",
+        "2124360577",
+        "2131821445",
+        "2133592286",
+        "2134633067",
+        "2138517425",
+        "2148686658",
+        "2155810272",
+        "2155851497",
+        "2156858199",
+        "2159216827",
+        "2161992906",
+        "2162800072",
+        "2171929398",
+        "2397986719"
+    ]
+}

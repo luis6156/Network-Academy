@@ -1,0 +1,48 @@
+{
+    "id": "1556231184",
+    "title": "Garbage Collection of Persistent Objects in Distributed Shared Memory",
+    "venue": "international workshop on persistent object systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Paulo Ferreira",
+            "id": "2778235130",
+            "org": "INRIA -- Projet SOR"
+        },
+        {
+            "name": "Marc Shapiro",
+            "id": "2274888956",
+            "org": "INRIA -- Projet SOR"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Address space",
+        "Computer science",
+        "Distributed computing",
+        "Mark-compact algorithm",
+        "Garbage collection",
+        "Distributed shared memory",
+        "Garbage",
+        "Manual memory management",
+        "Memory leak",
+        "Virtual memory"
+    ],
+    "references": [
+        "1561765912",
+        "1978899144",
+        "2000387981",
+        "2017543352",
+        "2044902313",
+        "2050083119",
+        "2051555484",
+        "2076584579",
+        "2104055277",
+        "2118098427",
+        "2155323584",
+        "2158364508",
+        "2160429790",
+        "2162871137",
+        "2165971729"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1564376008",
+    "title": "Implementation of MPI on NEC's SX-4 Multi-Node Architecture",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Rolf Hempel",
+            "id": "2003334398",
+            "org": "NEC Europe Ltd."
+        },
+        {
+            "name": "Hubert Ritzdorf",
+            "id": "2002776908",
+            "org": "NEC Europe Ltd."
+        },
+        {
+            "name": "Falk Zimmermann",
+            "id": "2056547113",
+            "org": "NEC Europe Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "Computer architecture",
+        "MPICH",
+        "Shared memory",
+        "Computer science",
+        "Message Passing Interface",
+        "Message passing",
+        "Systems architecture",
+        "Architecture"
+    ],
+    "references": [
+        "2053585840",
+        "2081612620",
+        "2132536544"
+    ]
+}

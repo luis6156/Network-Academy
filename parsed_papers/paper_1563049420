@@ -1,0 +1,60 @@
+{
+    "id": "1563049420",
+    "title": "Introduction of metadata-request queue with immediate response for I/O path optimizations on iSCSI-based storage subsystem",
+    "venue": "networking architecture and storages",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Xuejiao Fang",
+            "id": "2226230751",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Jianxi Chen",
+            "id": "2150825062",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Feng Ye",
+            "id": "2436569738",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Dan Feng",
+            "id": "2112861373",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        },
+        {
+            "name": "Jieqiong Li",
+            "id": "2518833904",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, China"
+        }
+    ],
+    "fields_of_study": [
+        "Iometer",
+        "I/O scheduling",
+        "Multilevel queue",
+        "Computer science",
+        "Queue",
+        "Priority queue",
+        "FSCAN",
+        "Double-ended queue",
+        "Queue management system",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "31171581",
+        "1726660068",
+        "1972234887",
+        "1985393821",
+        "2023678166",
+        "2032801361",
+        "2037289266",
+        "2095626819",
+        "2105271931",
+        "2107200720",
+        "2165832195",
+        "2205845299"
+    ]
+}

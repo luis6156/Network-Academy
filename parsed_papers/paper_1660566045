@@ -1,0 +1,43 @@
+{
+    "id": "1660566045",
+    "title": "Efficient modular division implementation - ECC over GF(p) affine coordinates application",
+    "venue": "field-programmable logic and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Guerric Meurice de Dormale",
+            "id": "370390491",
+            "org": "University College London"
+        },
+        {
+            "name": "Philippe Bulens",
+            "id": "2081890085",
+            "org": "University College London"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "University College London"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Coordinate system",
+        "Modular arithmetic",
+        "Affine transformation",
+        "Elliptic curve",
+        "Reconfigurable computing",
+        "Modular design",
+        "Key size"
+    ],
+    "references": [
+        "1539482743",
+        "1572990863",
+        "2011356012",
+        "2156476575",
+        "2157672296"
+    ]
+}

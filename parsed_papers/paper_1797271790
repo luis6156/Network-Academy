@@ -1,0 +1,39 @@
+{
+    "id": "1797271790",
+    "title": "Scheduling sporadic tasks with shared resources in hard-real-time systems",
+    "venue": "real-time systems symposium",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Kevin Jeffay",
+            "id": "245701148",
+            "org": "Dept. of Comput. Sci., North Carolina Univ., Chapel Hill, NC, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Least slack time scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Flow shop scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "70733457",
+        "1485093219",
+        "1906900263",
+        "1983252028",
+        "1987173935",
+        "2001200190",
+        "2071241682",
+        "2097106574",
+        "2130181800",
+        "2131791649",
+        "2160293203"
+    ]
+}

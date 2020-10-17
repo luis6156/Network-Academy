@@ -1,0 +1,41 @@
+{
+    "id": "1581257764",
+    "title": "Optimizing I/O for Irregular Applications on Distributed-Memory Machines",
+    "venue": "parallel computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jesus Carretero",
+            "id": "2137089783",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Jaechun No",
+            "id": "2265645038",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Alok N. Choudhary",
+            "id": "2147783234",
+            "org": "Northwestern University"
+        }
+    ],
+    "fields_of_study": [
+        "Memory organisation",
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Distributed memory",
+        "Sorting",
+        "Runtime system",
+        "Data structure",
+        "Intel Paragon",
+        "I/O scheduling"
+    ],
+    "references": [
+        "1578060412",
+        "1788554450",
+        "2100173406"
+    ]
+}

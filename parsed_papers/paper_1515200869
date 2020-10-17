@@ -1,0 +1,56 @@
+{
+    "id": "1515200869",
+    "title": "Power analysis for secret recovering and reverse engineering of public key algorithms",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Frederic Amiel",
+            "id": "1952303898",
+            "org": "GEMALTO, Security Labs, La Ciotat Cedex, France#TAB#"
+        },
+        {
+            "name": "Benoit Feix",
+            "id": "2652518934",
+            "org": "INSIDE CONTACTLESS, Aix-en-Provence, France#TAB#"
+        },
+        {
+            "name": "Karine Villegas",
+            "id": "2294671700",
+            "org": "GEMALTO, Security Labs, La Ciotat Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Tamper resistance",
+        "Theoretical computer science",
+        "Algorithm",
+        "Reverse engineering",
+        "Trusted Platform Module",
+        "Computer science",
+        "Coprocessor",
+        "Power analysis",
+        "Public-key cryptography",
+        "Smart card"
+    ],
+    "references": [
+        "97507240",
+        "1519954912",
+        "1544522602",
+        "1562542037",
+        "1563765474",
+        "1565369953",
+        "1591503962",
+        "1592482282",
+        "1602765425",
+        "1613874182",
+        "1664808737",
+        "1996360405",
+        "2003736153",
+        "2148862943",
+        "2151163104",
+        "2154909745",
+        "2156186849",
+        "2395584252"
+    ]
+}

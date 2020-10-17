@@ -1,0 +1,67 @@
+{
+    "id": "1564883604",
+    "title": "Efficient Bulk Operations on Dynamic R-trees",
+    "venue": "algorithm engineering and experimentation",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Lars Arge",
+            "id": "2170557315",
+            "org": "Center for Geometric Computing, Department of Computer Science, Duke University, Durham, NC 27708, USA. \\{large,jsv\\}@duke.edu., US"
+        },
+        {
+            "name": "Klaus H. Hinrichs",
+            "id": "2149490020",
+            "org": "Institut fur Informatik, Westfalische Wilhelms-Universitat, 48149 Munster, Germany. \\{khh,jan\\}@math.uni-muenster.de., DE"
+        },
+        {
+            "name": "Jan Vahrenhold",
+            "id": "24742324",
+            "org": "Institut fur Informatik, Westfalische Wilhelms-Universitat, 48149 Munster, Germany. \\{khh,jan\\}@math.uni-muenster.de., DE"
+        },
+        {
+            "name": "Jeffrey Scott Vitter",
+            "id": "118037170",
+            "org": "Center for Geometric Computing, Department of Computer Science, Duke University, Durham, NC 27708, USA. \\{large,jsv\\}@duke.edu., US"
+        }
+    ],
+    "fields_of_study": [
+        "Indexation",
+        "Batch processing",
+        "Computer science",
+        "Search engine indexing",
+        "Data structure",
+        "Spatial analysis",
+        "Spatial database",
+        "R-tree",
+        "Geographic information system",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "144222265",
+        "1511750901",
+        "1536424880",
+        "1539221976",
+        "1541475832",
+        "1600053460",
+        "1633157623",
+        "1885286792",
+        "1991383761",
+        "2038142281",
+        "2055385473",
+        "2075136957",
+        "2103201239",
+        "2106642566",
+        "2117074936",
+        "2118269922",
+        "2125233616",
+        "2129978134",
+        "2131620262",
+        "2135961964",
+        "2144402047",
+        "2151135734",
+        "2161694911",
+        "2168395296",
+        "2179904348"
+    ]
+}

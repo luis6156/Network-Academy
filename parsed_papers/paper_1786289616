@@ -1,0 +1,56 @@
+{
+    "id": "1786289616",
+    "title": "Efficient Parallel Implementation of Evolutionary Algorithms on GPGPU Cards",
+    "venue": "european conference on parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ogier Maitre",
+            "id": "2169864358",
+            "org": "LSIIT University of Strasbourg, France#TAB#"
+        },
+        {
+            "name": "Nicolas Lachiche",
+            "id": "254277980",
+            "org": "LSIIT University of Strasbourg, France#TAB#"
+        },
+        {
+            "name": "Philippe Clauss",
+            "id": "2049982228",
+            "org": "LSIIT University of Strasbourg, France#TAB#"
+        },
+        {
+            "name": "Laurent A. Baumes",
+            "id": "25387670",
+            "org": "Insituto de Tecnologia Quimica UPV-CSIC, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Avelino Corma",
+            "id": "1527463484",
+            "org": "Insituto de Tecnologia Quimica UPV-CSIC, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Pierre Collet",
+            "id": "2042503075",
+            "org": "LSIIT University of Strasbourg, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computation",
+        "Computer science",
+        "Compiler",
+        "Implementation",
+        "Population",
+        "Evolutionary algorithm",
+        "General-purpose computing on graphics processing units"
+    ],
+    "references": [
+        "1554808127",
+        "1563077463",
+        "2011281319",
+        "2119396705",
+        "2159899916"
+    ]
+}

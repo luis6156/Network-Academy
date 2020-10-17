@@ -1,0 +1,41 @@
+{
+    "id": "1551485614",
+    "title": "Correctness debugging of message passing programs using model verification techniques",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Robert Lovas",
+            "id": "2421720549",
+            "org": "MTA SZTAKI, Laboratory of Parallel and Distributed Systems, Budapest, Hungary#TAB#"
+        },
+        {
+            "name": "Peter Kacsuk",
+            "id": "1988113753",
+            "org": "MTA SZTAKI, Laboratory of Parallel and Distributed Systems, Budapest, Hungary#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Software",
+        "Computer science",
+        "Algorithmic program debugging",
+        "Message passing",
+        "Correctness",
+        "Kripke structure",
+        "Formal methods",
+        "Debugging"
+    ],
+    "references": [
+        "72638447",
+        "1492842935",
+        "1500242544",
+        "1503367339",
+        "1575449779",
+        "1934074768",
+        "1999288406",
+        "2063215088",
+        "2075800370"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1509747316",
+    "title": "An Implementation of MPI-IO on Expand: A Parallel File System Based on NFS Servers",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alejandro Calderon",
+            "id": "2157866729",
+            "org": "Universidad Carlos III de Madrid"
+        },
+        {
+            "name": "Felix Garcia",
+            "id": "2490256314",
+            "org": "Universidad Carlos III de Madrid"
+        },
+        {
+            "name": "Jesus Carretero",
+            "id": "2137089783",
+            "org": "Universidad Carlos III de Madrid"
+        },
+        {
+            "name": "Jose Maria Perez",
+            "id": "2135139389",
+            "org": "Universidad Carlos III de Madrid"
+        },
+        {
+            "name": "Javier Fernandez",
+            "id": "2251916512",
+            "org": "Universidad Carlos III de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Message passing",
+        "File server",
+        "Operating system",
+        "File system",
+        "Computer cluster",
+        "Network File System"
+    ],
+    "references": [
+        "1544734742",
+        "1973326289",
+        "2046742124",
+        "2050559702",
+        "2094209264",
+        "2104486653",
+        "2110298485",
+        "2138860061",
+        "2150199386"
+    ]
+}

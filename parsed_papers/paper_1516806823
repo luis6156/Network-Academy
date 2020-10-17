@@ -1,0 +1,47 @@
+{
+    "id": "1516806823",
+    "title": "Improved Automata Generation for Linear Temporal Logic",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Marco Daniele",
+            "id": "2505904970",
+            "org": "Universita di Roma \"La Sapienza\""
+        },
+        {
+            "name": "Fausto Giunchiglia",
+            "id": "164943294",
+            "org": "Universita di Trento"
+        },
+        {
+            "name": "Moshe Y. Vardi",
+            "id": "1970575723",
+            "org": "Rice University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Timed automaton",
+        "Discrete mathematics",
+        "Buchi automaton",
+        "Deterministic automaton",
+        "GrowCut algorithm",
+        "o-automaton",
+        "Two-way deterministic finite automaton",
+        "Continuous spatial automaton",
+        "Continuous automaton"
+    ],
+    "references": [
+        "4983232",
+        "1527982431",
+        "1602995535",
+        "1605860778",
+        "1607782211",
+        "1990609140",
+        "2012935476",
+        "2115309705"
+    ]
+}

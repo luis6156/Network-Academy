@@ -1,0 +1,45 @@
+{
+    "id": "1528204148",
+    "title": "DMPL: an OpenMP DLL debugging interface",
+    "venue": "international workshop on openmp",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "James Cownie",
+            "id": "2517975832",
+            "org": "Etnus, LLC, Natick, Massachusetts#TAB#"
+        },
+        {
+            "name": "John DelSignore",
+            "id": "2286247104",
+            "org": "Etnus, LLC, Natick, Massachusetts#TAB#"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Lawrence Livermore National Laboratory, Livermore, California#TAB#"
+        },
+        {
+            "name": "Karen H. Warren",
+            "id": "2157231195",
+            "org": "Lawrence Livermore National Laboratory, Livermore, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Dynamic loading",
+        "Implementation",
+        "Callback",
+        "Debugger",
+        "Programming paradigm",
+        "Debugging"
+    ],
+    "references": [
+        "1780860177"
+    ]
+}

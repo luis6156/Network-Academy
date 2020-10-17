@@ -1,0 +1,111 @@
+{
+    "id": "1608999459",
+    "title": "The design and implementation of open vSwitch",
+    "venue": "networked systems design and implementation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ben Pfaff",
+            "id": "2122690630",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Justin Pettit",
+            "id": "2126736731",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Teemu Koponen",
+            "id": "2305287388",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Ethan J. Jackson",
+            "id": "2128927004",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Andy Zhou",
+            "id": "2115010416",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Jarno Rajahalme",
+            "id": "1987207360",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Jesse E. Gross",
+            "id": "2162934431",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Alex Wang",
+            "id": "2477382996",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Jonathan Stringer",
+            "id": "2498310692",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Pravin Shelar",
+            "id": "2282506560",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Keith E. Amidon",
+            "id": "1981163864",
+            "org": "Awake Networks#TAB#"
+        },
+        {
+            "name": "Martin Casado",
+            "id": "2153903143",
+            "org": "VMware#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Software deployment",
+        "Embedded system",
+        "Operating system"
+    ],
+    "references": [
+        "83339351",
+        "158224344",
+        "1435010830",
+        "1633306738",
+        "1882012874",
+        "1989728020",
+        "1992811742",
+        "2022106793",
+        "2063773589",
+        "2071552523",
+        "2077688755",
+        "2099498471",
+        "2115278163",
+        "2120416631",
+        "2120900812",
+        "2123845384",
+        "2131074176",
+        "2137838113",
+        "2141062513",
+        "2143377393",
+        "2144127235",
+        "2146657832",
+        "2147802358",
+        "2150942100",
+        "2159669151",
+        "2164905748",
+        "2168626603",
+        "2173847632",
+        "2243203026",
+        "2288643294",
+        "2395731689",
+        "2400395024"
+    ]
+}

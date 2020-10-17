@@ -1,0 +1,70 @@
+{
+    "id": "1553630057",
+    "title": "SLR: Path-Sensitive Analysis through Infeasible-Path Detection and Syntactic Language Refinement",
+    "venue": "static analysis symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Gogul Balakrishnan",
+            "id": "2107215626",
+            "org": "NEC Laboratories America, Princeton, USA#TAB#"
+        },
+        {
+            "name": "Sriram Sankaranarayanan",
+            "id": "2142544221",
+            "org": "NEC Laboratories America, Princeton, USA#TAB#"
+        },
+        {
+            "name": "Franjo Ivancic",
+            "id": "1733004998",
+            "org": "NEC Laboratories America, Princeton, USA#TAB#"
+        },
+        {
+            "name": "Ou Wei",
+            "id": "2707239023",
+            "org": "University of Toronto,#TAB#"
+        },
+        {
+            "name": "Aarti Gupta",
+            "id": "2129619966",
+            "org": "NEC Laboratories America, Princeton, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Syntax",
+        "Interpreter",
+        "Theoretical computer science",
+        "Static analysis",
+        "Computer science",
+        "Abstract interpretation"
+    ],
+    "references": [
+        "13186636",
+        "1481954153",
+        "1502028089",
+        "1505051593",
+        "1515906028",
+        "1556566737",
+        "1570919259",
+        "1584436405",
+        "1585404558",
+        "1597009588",
+        "1667615663",
+        "2020169768",
+        "2043100293",
+        "2067836954",
+        "2069783271",
+        "2088157410",
+        "2098698656",
+        "2103714221",
+        "2109337044",
+        "2109394703",
+        "2130078434",
+        "2142481893",
+        "2165069483",
+        "2194223632",
+        "2585866695",
+        "2585942065"
+    ]
+}

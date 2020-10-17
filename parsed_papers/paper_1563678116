@@ -1,0 +1,47 @@
+{
+    "id": "1563678116",
+    "title": "A Threshold Blind Digital Signature Scheme Using Elliptic Curve Dlog-Based Cryptosystem",
+    "venue": "vehicular technology conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Hisham Dahshan",
+            "id": "2059197885",
+            "org": "Dept. of Commun. Eng., Mil. Tech. Coll., Egypt"
+        },
+        {
+            "name": "Ahmed Kamal",
+            "id": "2535868053",
+            "org": "Dept. of Commun. Eng., Mil. Tech. Coll., Egypt"
+        },
+        {
+            "name": "Alaa Rohiem",
+            "id": "2304502980",
+            "org": "Dept. of Commun. Eng., Mil. Tech. Coll., Egypt"
+        }
+    ],
+    "fields_of_study": [
+        "Threshold cryptosystem",
+        "Blind signature",
+        "Theoretical computer science",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "EdDSA",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1479744988",
+        "1521562196",
+        "1545286522",
+        "1601001795",
+        "1754939103",
+        "1819196033",
+        "2003736153",
+        "2090911915",
+        "2093921460",
+        "2161531038"
+    ]
+}

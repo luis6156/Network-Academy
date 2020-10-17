@@ -1,0 +1,53 @@
+{
+    "id": "1598263934",
+    "title": "Parameterized Function Evaluation for FPGAs",
+    "venue": "field programmable logic and applications",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Oskar Mencer",
+            "id": "1998618398",
+            "org": "Computing Sciences Research Center, Lucent, Bell Labs"
+        },
+        {
+            "name": "Nicolas Boullis",
+            "id": "1957133170",
+            "org": "Ecole Normale Superieure de Lyon"
+        },
+        {
+            "name": "Wayne Luk",
+            "id": "2123028573",
+            "org": "Department of Computing, Imperial College"
+        },
+        {
+            "name": "Henry Styles",
+            "id": "2298335865",
+            "org": "Department of Computing, Imperial College"
+        }
+    ],
+    "fields_of_study": [
+        "Adder",
+        "Field-programmable gate array",
+        "Lookup table",
+        "CORDIC",
+        "Parallel computing",
+        "Round-off error",
+        "Computer science",
+        "Parameterized complexity",
+        "Evaluation function",
+        "Rounding"
+    ],
+    "references": [
+        "1711518791",
+        "1739051047",
+        "1820726733",
+        "1844620123",
+        "2044829853",
+        "2115452265",
+        "2122685238",
+        "2165035816",
+        "2167672866",
+        "2170879098",
+        "2171451363"
+    ]
+}

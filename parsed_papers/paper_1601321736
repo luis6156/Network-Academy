@@ -1,0 +1,83 @@
+{
+    "id": "1601321736",
+    "title": "QUARK: a lightweight hash",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "Nagravision SA, Cheseaux, Switzerland#TAB#"
+        },
+        {
+            "name": "Luca Henzen",
+            "id": "2142652916",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fowler-Noll-Vo hash function",
+        "Computer science",
+        "Distributed computing",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "35428663",
+        "91031763",
+        "97949831",
+        "107680689",
+        "194052690",
+        "1238158613",
+        "1487353416",
+        "1488367145",
+        "1489792672",
+        "1518716055",
+        "1531397006",
+        "1539249970",
+        "1543233615",
+        "1548506116",
+        "1553650484",
+        "1567888865",
+        "1569212589",
+        "1572847050",
+        "1591203762",
+        "1592644319",
+        "1607874478",
+        "1758759527",
+        "1845145297",
+        "1865395495",
+        "1886358402",
+        "1894646615",
+        "1903742260",
+        "1939171670",
+        "2076397729",
+        "2106698019",
+        "2139078445",
+        "2144687403",
+        "2147227205",
+        "2156912159",
+        "2160494425",
+        "2164455525",
+        "2396332221",
+        "2405515207",
+        "2414878984",
+        "2786169301"
+    ]
+}

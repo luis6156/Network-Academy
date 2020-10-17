@@ -1,0 +1,69 @@
+{
+    "id": "1489487975",
+    "title": "Refining Model Checking by Abstract Interpretation",
+    "venue": "automated software engineering",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Patrick Cousot",
+            "id": "2148533322",
+            "org": "Ecole Normale Superieure, DMI, 45, rue d'Ulm, 75230 Paris cedex 05, France CNRS & Ecole Polytechnique, LIX, 91440 Palaiseau cedex, France. cousot@dmi.ens.fr#TAB#"
+        },
+        {
+            "name": "Radhia Cousot",
+            "id": "1995565190",
+            "org": "Ecole Normale Superieure, DMI, 45, rue d'Ulm, 75230 Paris cedex 05, France CNRS & Ecole Polytechnique, LIX, 91440 Palaiseau cedex, France. rcousot@lix.polytechnique.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Fixed point",
+        "Static analysis",
+        "Computer science",
+        "State space",
+        "Abstract interpretation",
+        "Transition system",
+        "Abstraction",
+        "Formal methods",
+        "Model checking"
+    ],
+    "references": [
+        "1485969965",
+        "1487396988",
+        "1489150842",
+        "1501731334",
+        "1512675969",
+        "1514983780",
+        "1519861553",
+        "1560527899",
+        "1568478782",
+        "1578895382",
+        "1593428110",
+        "1637976039",
+        "1971055621",
+        "1987073197",
+        "1992006255",
+        "1994143452",
+        "2014764321",
+        "2016079448",
+        "2031373197",
+        "2043100293",
+        "2054796180",
+        "2061671076",
+        "2080267935",
+        "2081810835",
+        "2084638680",
+        "2084875723",
+        "2090106217",
+        "2098634102",
+        "2100139843",
+        "2114092850",
+        "2117189826",
+        "2132661148",
+        "2144362636",
+        "2153439859",
+        "2165069483",
+        "2167668895",
+        "2295244175"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1584807987",
+    "title": "Pinpointing the side-channel leakage of masked AES hardware implementations",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stefan Mangard",
+            "id": "339490103",
+            "org": "Institute for Applied Information Processing and Communciations (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Kai Schramm",
+            "id": "2070905232",
+            "org": "Horst Gortz Institute for IT Security (HGI), Ruhr University Bochum, Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer hardware",
+        "Parallel computing",
+        "Side channel attack",
+        "Logic gate",
+        "Computer science",
+        "XOR gate",
+        "Glitch",
+        "Implementation",
+        "Real-time computing",
+        "Electronic circuit",
+        "Leakage (electronics)"
+    ],
+    "references": [
+        "130371449",
+        "154749848",
+        "1481603678",
+        "1482353292",
+        "1491520029",
+        "1503689022",
+        "1506423869",
+        "1506890909",
+        "1512062395",
+        "1515827409",
+        "1562362230",
+        "1575446397",
+        "1594464909",
+        "1748081333",
+        "2112002249",
+        "2112244944",
+        "2145829971",
+        "2154909745",
+        "2164584813",
+        "2165637947",
+        "2170478686"
+    ]
+}

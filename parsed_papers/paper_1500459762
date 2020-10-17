@@ -1,0 +1,62 @@
+{
+    "id": "1500459762",
+    "title": "A Specification Language for Distributed Components Implemented in GCM/ProActive",
+    "venue": "The Common Component Modeling Example",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Antonio Cansado",
+            "id": "2763090179",
+            "org": "INRIA Sophia-Antipolis, Universite de Nice Sophia-Antipolis, CNRS, France#TAB#"
+        },
+        {
+            "name": "Denis Caromel",
+            "id": "2778027475",
+            "org": "INRIA Sophia-Antipolis, Universite de Nice Sophia-Antipolis, CNRS, France#TAB#"
+        },
+        {
+            "name": "Ludovic Henrio",
+            "id": "2309236745",
+            "org": "INRIA Sophia-Antipolis, Universite de Nice Sophia-Antipolis, CNRS, France#TAB#"
+        },
+        {
+            "name": "Eric Madelaine",
+            "id": "57001705",
+            "org": "INRIA Sophia-Antipolis, Universite de Nice Sophia-Antipolis, CNRS, France#TAB#"
+        },
+        {
+            "name": "Marcela Rivera",
+            "id": "2310713015",
+            "org": "INRIA Sophia-Antipolis, Universite de Nice Sophia-Antipolis, CNRS, France#TAB#"
+        },
+        {
+            "name": "Emil Salageanu",
+            "id": "2798449498",
+            "org": "INRIA Sophia-Antipolis, Universite de Nice Sophia-Antipolis, CNRS, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active object",
+        "Specification language",
+        "Java",
+        "Computer science",
+        "Grid",
+        "Reference implementation",
+        "Real-time computing",
+        "Middleware",
+        "Component diagram",
+        "Component-based software engineering"
+    ],
+    "references": [
+        "1504834688",
+        "1534937062",
+        "1874276579",
+        "2067152491",
+        "2070758390",
+        "2082312109",
+        "2136877520",
+        "2149512300",
+        "2150043646",
+        "2736583182"
+    ]
+}

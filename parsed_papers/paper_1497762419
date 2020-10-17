@@ -1,0 +1,46 @@
+{
+    "id": "1497762419",
+    "title": "A Comprehensive Approach to Array Bounds Check Elimination for Java",
+    "venue": "compiler construction",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Feng Qian",
+            "id": "2246194565",
+            "org": "McGill University"
+        },
+        {
+            "name": "Laurie J. Hendren",
+            "id": "2057929015",
+            "org": "McGill University"
+        },
+        {
+            "name": "Clark Verbrugge",
+            "id": "2078276142",
+            "org": "McGill University"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Array data structure",
+        "Parallel computing",
+        "Constraint graph",
+        "Indexation",
+        "Computer science",
+        "Bytecode",
+        "Array access analysis",
+        "Optimizing compiler",
+        "Bounds checking",
+        "Programming language"
+    ],
+    "references": [
+        "54833955",
+        "1654262235",
+        "2066156779",
+        "2079549821",
+        "2114067856",
+        "2130711572",
+        "2153096254",
+        "2158134106"
+    ]
+}

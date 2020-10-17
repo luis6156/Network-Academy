@@ -1,0 +1,53 @@
+{
+    "id": "1480478602",
+    "title": "Experiences with co-array fortran on hardware shared memory platforms",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yuri Dotsenko",
+            "id": "2009759252",
+            "org": "Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Cristian Coarfa",
+            "id": "2776108597",
+            "org": "Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "John M. Mellor-Crummey",
+            "id": "2249219846",
+            "org": "Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Daniel G. Chavarria-Miranda",
+            "id": "282892676",
+            "org": "Rice University, Houston, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "SPMD",
+        "Data access",
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "Shared memory",
+        "Code generation",
+        "Fortran",
+        "CPU cache",
+        "Architecture"
+    ],
+    "references": [
+        "121314057",
+        "1751637436",
+        "1861151562",
+        "2008654264",
+        "2058621196",
+        "2100720297",
+        "2145021036",
+        "2167594463",
+        "2199463396"
+    ]
+}

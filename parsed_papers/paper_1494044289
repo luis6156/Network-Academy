@@ -1,0 +1,52 @@
+{
+    "id": "1494044289",
+    "title": "Security analysis and enhancement of one-way hash based low-cost authentication protocol (OHLCAP)",
+    "venue": "international conference on emerging technologies",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "JeaCheol Ha",
+            "id": "2121365978",
+            "org": "Dept. of Information Security, Hoseo Univ., Korea#TAB#"
+        },
+        {
+            "name": "SangJae Moon",
+            "id": "2106509025",
+            "org": "School of Electrical Eng. and Computer Science, Kyungpook National Univ., Korea#TAB#"
+        },
+        {
+            "name": "Juan Manuel Gonzalez Nieto",
+            "id": "2095956890",
+            "org": "Information Security Institute, Queensland Univ. of Technology, Brisbane, QLD, Australia#TAB#"
+        },
+        {
+            "name": "Colin Boyd",
+            "id": "2142756370",
+            "org": "Information Security Institute, Queensland Univ. of Technology, Brisbane, QLD, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Challenge-response authentication",
+        "Authentication protocol",
+        "Protected Extensible Authentication Protocol",
+        "Computer science",
+        "Otway-Rees protocol",
+        "Computer security",
+        "Wide Mouth Frog protocol",
+        "Reflection attack",
+        "Challenge-Handshake Authentication Protocol",
+        "Computer network",
+        "Lightweight Extensible Authentication Protocol"
+    ],
+    "references": [
+        "1481962261",
+        "1511189048",
+        "1524252123",
+        "1549300373",
+        "1845145297",
+        "1862712733",
+        "2036534296",
+        "2112137829",
+        "2151783055"
+    ]
+}

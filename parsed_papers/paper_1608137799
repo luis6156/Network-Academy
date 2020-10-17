@@ -1,0 +1,52 @@
+{
+    "id": "1608137799",
+    "title": "The Aircraft Sequencing Problem",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Torsten Fahle",
+            "id": "235898495",
+            "org": "Department of Computer Science, University of Paderborn, Furstenallee 11, 33102 Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Rainer Feldmann",
+            "id": "2097292807",
+            "org": "Department of Computer Science, University of Paderborn, Furstenallee 11, 33102 Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Silvia Gotz",
+            "id": "2628553415",
+            "org": "Department of Computer Science, University of Paderborn, Furstenallee 11, 33102 Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Sven Grothklags",
+            "id": "2209783983",
+            "org": "Department of Computer Science, University of Paderborn, Furstenallee 11, 33102 Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Burkhard Monien",
+            "id": "2145586035",
+            "org": "Department of Computer Science, University of Paderborn, Furstenallee 11, 33102 Paderborn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Integer programming",
+        "Computer science",
+        "Scheduling (computing)",
+        "Constraint satisfaction",
+        "Constrained optimization",
+        "Constraint programming",
+        "Simulated annealing",
+        "Heuristic",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1513004633",
+        "1981197990",
+        "2042706779",
+        "2064539339",
+        "2090762670",
+        "2106614985"
+    ]
+}

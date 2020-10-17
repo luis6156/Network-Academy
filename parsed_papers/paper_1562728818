@@ -1,0 +1,50 @@
+{
+    "id": "1562728818",
+    "title": "Optimization of the Gaussian Mixture Model Evaluation on GPU",
+    "venue": "conference of the international speech communication association",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jan Vanek",
+            "id": "2556811592",
+            "org": "University of West Bohemia"
+        },
+        {
+            "name": "Jan Trmal",
+            "id": "1269793602",
+            "org": "University of West Bohemia"
+        },
+        {
+            "name": "Josef Psutka",
+            "id": "2084662381",
+            "org": "University of West Bohemia"
+        },
+        {
+            "name": "Josef Psutka",
+            "id": "2462426191",
+            "org": "University of West Bohemia"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Model selection",
+        "Computation",
+        "Acoustic model",
+        "Computer science",
+        "Gaussian",
+        "CUDA",
+        "General-purpose computing on graphics processing units",
+        "Mixture model",
+        "Architecture"
+    ],
+    "references": [
+        "167388389",
+        "194138933",
+        "1495857731",
+        "1963866266",
+        "2037102844",
+        "2063186542",
+        "2139545398",
+        "2172203831"
+    ]
+}

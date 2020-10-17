@@ -1,0 +1,44 @@
+{
+    "id": "1552620054",
+    "title": "Implementation of a parallel and distributed mapping kernel for PARIX",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Markus Rottger",
+            "id": "2024211724",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Ulf-Peter Schroeder",
+            "id": "2095666314",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Jens Simon",
+            "id": "2235814974",
+            "org": "Paderborn Center for Parallel Computing (PC2)"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Embedding",
+        "Parallel computing",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Grid",
+        "Architecture",
+        "MIMD",
+        "Kernel (linear algebra)",
+        "Graph embedding"
+    ],
+    "references": [
+        "1514951823",
+        "2036832672",
+        "2060208019",
+        "2074149784",
+        "2141389982",
+        "2150421728"
+    ]
+}

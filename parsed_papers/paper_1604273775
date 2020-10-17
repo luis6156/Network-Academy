@@ -1,0 +1,53 @@
+{
+    "id": "1604273775",
+    "title": "Collision Attacks on AES-Based MAC: Alpha-MAC",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxemburg, Luxemburg,#TAB#"
+        },
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "Chair for Communication Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Dmitry Khovratovich",
+            "id": "717857179",
+            "org": "University of Luxemburg, Luxemburg,#TAB#"
+        },
+        {
+            "name": "Timo Kasper",
+            "id": "2160594996",
+            "org": "Chair for Communication Security, Ruhr-University Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Side channel attack",
+        "Length extension attack",
+        "Computer science",
+        "Mount",
+        "Collision attack",
+        "Message authentication code",
+        "Computer network",
+        "Hash function",
+        "Collision"
+    ],
+    "references": [
+        "19899994",
+        "54412699",
+        "1488058190",
+        "1498044825",
+        "1506890909",
+        "1517500721",
+        "1556212265",
+        "1560592490",
+        "1595155753",
+        "1771708738",
+        "1876088775"
+    ]
+}

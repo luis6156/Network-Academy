@@ -1,0 +1,44 @@
+{
+    "id": "1524428109",
+    "title": "Partial data reuse for windowing computations: performance modeling for FPGA implementations",
+    "venue": "applied reconfigurable computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Joonseok Park",
+            "id": "2894180477",
+            "org": "In-ha University, Dept of Computer Science and Engineering, Inchon, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Pedro C. Diniz",
+            "id": "2140214412",
+            "org": "Department of Information Systems and Computer Engineering, Instituto Superior Tecnico, Technical University of Lisbon, Porto Salvo, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop unrolling",
+        "Loop interchange",
+        "Parallel computing",
+        "Loop inversion",
+        "Computer science",
+        "Loop fusion",
+        "Loop splitting",
+        "Loop fission",
+        "Loop nest optimization",
+        "Real-time computing",
+        "Loop tiling"
+    ],
+    "references": [
+        "1533393723",
+        "1554668868",
+        "1623282124",
+        "1966708457",
+        "2051498260",
+        "2067746155",
+        "2085054536",
+        "2119609467",
+        "2123892553",
+        "2138010201",
+        "2157828735"
+    ]
+}

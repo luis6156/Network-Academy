@@ -1,0 +1,58 @@
+{
+    "id": "103515806",
+    "title": "Bounded context-switching and reentrant locking",
+    "venue": "foundations of software science and computation structure",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Remi Bonnet",
+            "id": "2895030800",
+            "org": "LSV, ENS Cachan & CNRS, France#TAB#"
+        },
+        {
+            "name": "Rohit Chadha",
+            "id": "2194631612",
+            "org": "University of Missouri#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Context switch",
+        "Computer science",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Bounded function",
+        "Reachability problem",
+        "Reentrancy",
+        "restrict",
+        "Real-time computing",
+        "Decidability"
+    ],
+    "references": [
+        "2436624",
+        "147131300",
+        "1493367105",
+        "1518599394",
+        "1551108348",
+        "1556566737",
+        "1561977254",
+        "1563374799",
+        "1587449012",
+        "1667182944",
+        "1925933118",
+        "1985880160",
+        "1989788631",
+        "2011495892",
+        "2031575609",
+        "2078521778",
+        "2080573945",
+        "2087046173",
+        "2087749569",
+        "2087943116",
+        "2113391671",
+        "2119006541",
+        "2120105239",
+        "2164003033",
+        "2165546792"
+    ]
+}

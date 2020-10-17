@@ -1,0 +1,51 @@
+{
+    "id": "1579299304",
+    "title": "Distributed anemone: transparent low-latency access to remote memory",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael R. Hines",
+            "id": "2781437506",
+            "org": "Computer Science Department, Binghamton University#TAB#"
+        },
+        {
+            "name": "Jian Wang",
+            "id": "2622833609",
+            "org": "Computer Science Department, Binghamton University#TAB#"
+        },
+        {
+            "name": "Kartik Gopalan",
+            "id": "2093326021",
+            "org": "Computer Science Department, Binghamton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Demand paging",
+        "Parallel computing",
+        "Computer science",
+        "Interleaved memory",
+        "Memory management",
+        "Distributed shared memory",
+        "Embedded system",
+        "Distributed memory",
+        "Memory map",
+        "Registered memory",
+        "Flat memory model"
+    ],
+    "references": [
+        "1529012417",
+        "1573783702",
+        "1582154066",
+        "1585157973",
+        "1937803282",
+        "1976101744",
+        "2012643955",
+        "2135131646",
+        "2138180780",
+        "2148868967",
+        "2152450697",
+        "2158310845",
+        "2168863325"
+    ]
+}

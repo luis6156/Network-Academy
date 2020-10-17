@@ -1,0 +1,72 @@
+{
+    "id": "1503564746",
+    "title": "Security of encryption schemes in weakened random oracle models",
+    "venue": "public key cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Akinori Kawachi",
+            "id": "2078395684",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Akira Numayama",
+            "id": "131663091",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Keisuke Tanaka",
+            "id": "2165706190",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Keita Xagawa",
+            "id": "137238153",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal asymmetric encryption padding",
+        "Mathematics",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Discrete mathematics",
+        "Pseudorandom function family",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Multiple encryption",
+        "Random oracle"
+    ],
+    "references": [
+        "89812392",
+        "1487412055",
+        "1495026701",
+        "1499996761",
+        "1502433349",
+        "1524982592",
+        "1526778951",
+        "1540076154",
+        "1552695147",
+        "1560706682",
+        "1561907855",
+        "1566256504",
+        "1571303828",
+        "1601763581",
+        "1607264302",
+        "1656731780",
+        "1689385595",
+        "1814882979",
+        "1892798954",
+        "2027535557",
+        "2052267638",
+        "2103239853",
+        "2120154759",
+        "2148959297",
+        "2152688060",
+        "2161195863",
+        "2162653919",
+        "2166362740",
+        "2753555060"
+    ]
+}

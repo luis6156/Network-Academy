@@ -1,0 +1,53 @@
+{
+    "id": "1486787228",
+    "title": "Microfacet models for refraction through rough surfaces",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Bruce Walter",
+            "id": "2121852039",
+            "org": "Program of Computer Graphics, Cornell University#TAB#"
+        },
+        {
+            "name": "Stephen R. Marschner",
+            "id": "486741454",
+            "org": "Program of Computer Graphics, Cornell University#TAB#"
+        },
+        {
+            "name": "Hongsong Li",
+            "id": "2764114762",
+            "org": "Program of Computer Graphics, Cornell University and Beijing Institute of Technology#TAB#"
+        },
+        {
+            "name": "Kenneth E. Torrance",
+            "id": "65966214",
+            "org": "Program of Computer Graphics, Cornell University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Global illumination",
+        "Computer graphics (images)",
+        "Refraction",
+        "Mathematics",
+        "Computer vision",
+        "Rendering (computer graphics)",
+        "Importance sampling",
+        "Sampling (statistics)",
+        "Probability density function",
+        "Monte Carlo method",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1602543967",
+        "1964909831",
+        "2002699656",
+        "2040692352",
+        "2104587129",
+        "2118841697",
+        "2144736368",
+        "2149089336",
+        "2150925892",
+        "2164395935"
+    ]
+}

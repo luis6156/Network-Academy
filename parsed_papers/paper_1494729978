@@ -1,0 +1,36 @@
+{
+    "id": "1494729978",
+    "title": "Debugging concurrent systems based on object groups",
+    "venue": "european conference on object-oriented programming",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Yasuaki Honda",
+            "id": "2629649506",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Akinori Yonezawa",
+            "id": "660900409",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented programming",
+        "Theoretical computer science",
+        "Nested transaction",
+        "Method",
+        "Computer science",
+        "Message passing",
+        "Language construct",
+        "Programming language",
+        "Debugging"
+    ],
+    "references": [
+        "136765835",
+        "1563029891",
+        "2003716256",
+        "2093827646",
+        "2157025042"
+    ]
+}

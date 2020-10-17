@@ -1,0 +1,52 @@
+{
+    "id": "1597448772",
+    "title": "Parallel adaptive finite element package with dynamic load balancing for 3D thermo-mechanical problems",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Tomasz Olas",
+            "id": "1089930041",
+            "org": "Czestochowa University of Technology, Czestochowa, Poland#TAB#"
+        },
+        {
+            "name": "Robert Lesniak",
+            "id": "2680736998",
+            "org": "Czestochowa University of Technology, Czestochowa, Poland#TAB#"
+        },
+        {
+            "name": "Roman Wyrzykowski",
+            "id": "1941214365",
+            "org": "Czestochowa University of Technology, Czestochowa, Poland#TAB#"
+        },
+        {
+            "name": "Pawel Gepner",
+            "id": "2027895215",
+            "org": "Intel Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Preconditioner",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Finite element method",
+        "Dynamic load testing",
+        "Message passing",
+        "Distributed memory",
+        "Iterative method",
+        "Multigrid method",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "202016854",
+        "1490187495",
+        "1490519566",
+        "1506342804",
+        "1530303032",
+        "1538770509",
+        "1776802267",
+        "2120298265",
+        "2133687950"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1559467217",
+    "title": "Improving SHA-2 hardware implementations",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ricardo Chaves",
+            "id": "2121536560",
+            "org": "Instituto Superior Tecnico/INESC-ID, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Georgi Kuzmanov",
+            "id": "1987909105",
+            "org": "Computer Engineering Lab, TUDelft, Delft, The Netherlands#TAB#"
+        },
+        {
+            "name": "Leonel Sousa",
+            "id": "2117706459",
+            "org": "Instituto Superior Tecnico/INESC-ID, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Stamatis Vassiliadis",
+            "id": "1992265184",
+            "org": "Computer Engineering Lab, TUDelft, Delft, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Throughput",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer hardware",
+        "SHA-2",
+        "Computer science",
+        "Critical path method",
+        "Virtex",
+        "Real-time computing",
+        "Hash function",
+        "Gigabit"
+    ],
+    "references": [
+        "1572352527",
+        "1600401946",
+        "1606329366",
+        "1838691944",
+        "1848805871",
+        "2083774801",
+        "2121142504",
+        "2126252444",
+        "2132567738",
+        "2141569810",
+        "2146188244",
+        "2161842651"
+    ]
+}

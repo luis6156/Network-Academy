@@ -1,0 +1,51 @@
+{
+    "id": "112411653",
+    "title": "Regularized tensor factorization for multi-modality medical image classification",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Nematollah Batmanghelich",
+            "id": "2306704792",
+            "org": "Section for Biomedical Image Analysis, Philadelphia#TAB#"
+        },
+        {
+            "name": "Aoyan Dong",
+            "id": "2704469414",
+            "org": "Section for Biomedical Image Analysis, Philadelphia#TAB#"
+        },
+        {
+            "name": "Ben Taskar",
+            "id": "2192679303",
+            "org": "Section for Biomedical Image Analysis, Philadelphia#TAB#"
+        },
+        {
+            "name": "Christos Davatzikos",
+            "id": "2058210145",
+            "org": "Section for Biomedical Image Analysis, Philadelphia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Mathematics",
+        "Factorization",
+        "Dimensionality reduction",
+        "Pattern recognition",
+        "Medical imaging",
+        "Contextual image classification",
+        "Support vector machine",
+        "Discriminative model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526507613",
+        "1536675765",
+        "1557641067",
+        "2111340031",
+        "2123225824",
+        "2138127867",
+        "2146089088",
+        "2156087784"
+    ]
+}

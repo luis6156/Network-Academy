@@ -1,0 +1,40 @@
+{
+    "id": "1483046431",
+    "title": "Theoretical analysis of kh 2 attack on RC6",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Masahiko Takenaka",
+            "id": "2114664078",
+            "org": "Secure Computing Lab., Fujitsu Laboratories Ltd., Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Takeshi Shimoyama",
+            "id": "2105611034",
+            "org": "Secure Computing Lab., Fujitsu Laboratories Ltd., Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Takeshi Koshiba",
+            "id": "2777595920",
+            "org": "Secure Computing Lab., Fujitsu Laboratories Ltd., Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Stochastic matrix",
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Computer experiment",
+        "Knudsen number"
+    ],
+    "references": [
+        "1500356409",
+        "1529388387",
+        "1560537307",
+        "1888315134",
+        "2027588622",
+        "2158562395"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1582292377",
+    "title": "Scalable Algorithm for Montgomery Multiplication and Its Implementation on the Coarse-Grain Reconfigurable Chip",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Elena Trichina",
+            "id": "2307933830",
+            "org": "PACT Informationstechnologie"
+        },
+        {
+            "name": "Alexander Tiountchik",
+            "id": "2266043200",
+            "org": "National Academy of Sciences of Belarus"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Systolic array",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Cycles per instruction",
+        "Chip",
+        "Computer science",
+        "Modular arithmetic",
+        "Reconfigurable computing",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1504564894",
+        "1528624309",
+        "1550170577",
+        "1589034595",
+        "1996360405",
+        "2098235952",
+        "2108834246",
+        "2120608395",
+        "2127856956"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1587264316",
+    "title": "A Generic Software Safety Document Generator",
+    "venue": "algebraic methodology and software technology",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ewen Denney",
+            "id": "2136455237",
+            "org": "QSS Group, NASA Ames Research Center"
+        },
+        {
+            "name": "Ram Prasad Venkatesan",
+            "id": "2125940213",
+            "org": "University of Illinois at Urbana-Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "Certification",
+        "Theoretical computer science",
+        "Software development",
+        "Proof assistant",
+        "Computer science",
+        "Program synthesis",
+        "Tracing",
+        "Mathematical proof",
+        "Correctness",
+        "Software quality",
+        "Programming language"
+    ],
+    "references": [
+        "1489328406",
+        "1511774588",
+        "1537860183",
+        "1959875895",
+        "2078739175",
+        "2084788336",
+        "2156957651",
+        "2163271924"
+    ]
+}

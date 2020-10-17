@@ -1,0 +1,44 @@
+{
+    "id": "128655345",
+    "title": "Design of a clinical notification system.",
+    "venue": "american medical informatics association annual symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Michael M. Wagner",
+            "id": "2110012343",
+            "org": "Center for Biomedical Informatics|University of Pittsburgh|School of Medicine"
+        },
+        {
+            "name": "Fu-Chiang Tsui",
+            "id": "2105516350",
+            "org": "Center for Biomedical Informatics|University of Pittsburgh|School of Medicine"
+        },
+        {
+            "name": "Jeff Pike",
+            "id": "2679981232",
+            "org": "Center for Biomedical Informatics|University of Pittsburgh|School of Medicine"
+        },
+        {
+            "name": "Lori Pike",
+            "id": "2164439597",
+            "org": "Center for Biomedical Informatics|University of Pittsburgh|School of Medicine"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Functional requirement",
+        "Software",
+        "Computer science",
+        "Notification system",
+        "Communication channel",
+        "Common Object Request Broker Architecture",
+        "Database",
+        "Use case",
+        "Real-time computing"
+    ],
+    "references": [
+        "115998358",
+        "1591534679"
+    ]
+}

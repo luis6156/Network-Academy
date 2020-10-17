@@ -1,0 +1,48 @@
+{
+    "id": "103628257",
+    "title": "Lightweight Certificates - Towards a Practical Model for PKI",
+    "venue": "business information systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Lukasz Krzywiecki",
+            "id": "1569426100",
+            "org": "Wroclaw University of Technology"
+        },
+        {
+            "name": "Przemyslaw Kubiak",
+            "id": "2124560479",
+            "org": "Wroclaw University of Technology"
+        },
+        {
+            "name": "Miroslaw Kutylowski",
+            "id": "181516391",
+            "org": "Wroclaw University of Technology"
+        },
+        {
+            "name": "Michal Tabor",
+            "id": "2312463799",
+            "org": "Trusted Information Consulting"
+        },
+        {
+            "name": "Daniel Wachnik",
+            "id": "882437968",
+            "org": "Trusted Information Consulting"
+        }
+    ],
+    "fields_of_study": [
+        "Witness",
+        "Liability",
+        "Knowledge management",
+        "Certificate authority",
+        "Public key infrastructure",
+        "Computer science",
+        "Public key certificate",
+        "Schnorr signature",
+        "Authentication",
+        "Certificate"
+    ],
+    "references": [
+        "1580900067"
+    ]
+}

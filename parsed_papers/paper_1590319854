@@ -1,0 +1,52 @@
+{
+    "id": "1590319854",
+    "title": "Implementation and usage of the PERUSE-Interface in open MPI",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rainer Keller",
+            "id": "2810540816",
+            "org": "High-Performance Computing Center, University of Stuttgart#TAB#"
+        },
+        {
+            "name": "George Bosilca",
+            "id": "339462875",
+            "org": "Innovative Computing Laboratory, University of Tennessee#TAB#"
+        },
+        {
+            "name": "Graham E. Fagg",
+            "id": "2021370764",
+            "org": "Innovative Computing Laboratory, University of Tennessee#TAB#"
+        },
+        {
+            "name": "Michael M. Resch",
+            "id": "2141771150",
+            "org": "High-Performance Computing Center, University of Stuttgart#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "Innovative Computing Laboratory, University of Tennessee#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network performance",
+        "Computer science",
+        "Distributed computing",
+        "Tracing",
+        "Visualization",
+        "Message passing",
+        "Virtual machine",
+        "Bottleneck"
+    ],
+    "references": [
+        "1568869856",
+        "1577580543",
+        "1756128032",
+        "1825216778",
+        "1969215126",
+        "2021384817",
+        "2136434791"
+    ]
+}

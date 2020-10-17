@@ -1,0 +1,63 @@
+{
+    "id": "1537450689",
+    "title": "Contactless electromagnetic active attack on ring oscillator based true random number generator",
+    "venue": "international workshop constructive side-channel analysis and secure design",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pierre Bayon",
+            "id": "2159986693",
+            "org": "Hubert Curien Laboratory, CNRS 5516, University of Lyon, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Lilian Bossuet",
+            "id": "2486676455",
+            "org": "Hubert Curien Laboratory, CNRS 5516, University of Lyon, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Alain Aubert",
+            "id": "2182403164",
+            "org": "Hubert Curien Laboratory, CNRS 5516, University of Lyon, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Viktor Fischer",
+            "id": "2113817715",
+            "org": "Hubert Curien Laboratory, CNRS 5516, University of Lyon, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Francois Poucheret",
+            "id": "2531129107",
+            "org": "LIRMM Laboratory, CRNS 5506, University of Montpellier 2, Montpellier, France,CEA-LETI, SESAM Laboratory, Centre Microelectronique de Provence, Gardanne, France#TAB#"
+        },
+        {
+            "name": "Bruno Robisson",
+            "id": "2241350796",
+            "org": "CEA-LETI, SESAM Laboratory, Centre Microelectronique de Provence, Gardanne, France#TAB#"
+        },
+        {
+            "name": "Philippe Maurine",
+            "id": "2007661729",
+            "org": "LIRMM Laboratory, CRNS 5506, University of Montpellier 2, Montpellier, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Ring oscillator",
+        "Electronic engineering",
+        "Harmonic",
+        "Side channel attack",
+        "Data security",
+        "Random number generation",
+        "Electromagnetic field",
+        "Electronic circuit",
+        "Engineering"
+    ],
+    "references": [
+        "1565273324",
+        "2117205818",
+        "2129549095",
+        "2145267250",
+        "2167352984",
+        "2696718061"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "116672548",
+    "title": "Performance analysis techniques for task-based OpenMP applications",
+    "venue": "international workshop on openmp",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Dirk Schmidl",
+            "id": "2147731199",
+            "org": "RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Peter Philippen",
+            "id": "2095401593",
+            "org": "Julich Supercomputing Centre, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Daniel Lorenz",
+            "id": "2117850890",
+            "org": "Julich Supercomputing Centre, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Christian Rossel",
+            "id": "2136429838",
+            "org": "Julich Supercomputing Centre, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Markus Geimer",
+            "id": "2129830298",
+            "org": "Julich Supercomputing Centre, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Dieter an Mey",
+            "id": "2146642270",
+            "org": "RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "Julich Supercomputing Centre, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "RWTH Aachen University, Aachen, Germany,Julich Supercomputing Centre, Julich, Germany,German Research School for Simulation Sciences, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Task parallelism",
+        "Runtime system",
+        "Instrumentation"
+    ],
+    "references": [
+        "1483228115",
+        "1559603603",
+        "1570952358",
+        "1727936048",
+        "1858951234",
+        "1902894026",
+        "2101778912",
+        "2136434791",
+        "2137702271",
+        "2152419477",
+        "2401404692"
+    ]
+}

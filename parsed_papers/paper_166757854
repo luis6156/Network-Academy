@@ -1,0 +1,50 @@
+{
+    "id": "166757854",
+    "title": "Practical attack on 8 rounds of the lightweight block cipher KLEIN",
+    "venue": "international conference on cryptology in india",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "NAGRA, Switzerland#TAB#"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Markku-Juhani O. Saarinen",
+            "id": "2082818636",
+            "org": "Revere Security#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "Cryptanalysis",
+        "Software",
+        "Advanced Encryption Standard",
+        "Discrete mathematics",
+        "Exploit"
+    ],
+    "references": [
+        "35428663",
+        "147018390",
+        "153516704",
+        "197313453",
+        "1527450129",
+        "1601321736",
+        "1607874478",
+        "1853704432",
+        "1894646615",
+        "2135759164",
+        "2141124495",
+        "2157803851",
+        "2163481970",
+        "2786169301"
+    ]
+}

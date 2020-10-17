@@ -1,0 +1,46 @@
+{
+    "id": "1576450295",
+    "title": "Modeling Relaxed Memory Consistency Protocols",
+    "venue": "MMB '95 Proceedings of the 8th International Conference on Modelling Techniques and Tools for Computer Performance Evaluation: Quantitative Evaluation of Computing and Communication Systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Christoph Lindemann",
+            "id": "2654096852",
+            "org": "GMD Institute for Computer Architecture and Software Technology (GMD-FIRST) at the Technical University of Berlin"
+        },
+        {
+            "name": "Friedrich Schon",
+            "id": "2698859345",
+            "org": "GMD Institute for Computer Architecture and Software Technology (GMD-FIRST) at the Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive memory",
+        "Theoretical computer science",
+        "Sequential consistency",
+        "Release consistency",
+        "Computer science",
+        "Distributed computing",
+        "Cache coherence",
+        "Distributed shared memory",
+        "Stochastic Petri net",
+        "Causal consistency",
+        "Consistency model"
+    ],
+    "references": [
+        "1499545882",
+        "1537624148",
+        "1983707525",
+        "2022763969",
+        "2044902313",
+        "2096956970",
+        "2097113145",
+        "2131454290",
+        "2133373086",
+        "2152390090",
+        "2165365531",
+        "2176864362",
+        "2611796265"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1541860819",
+    "title": "MPI Derived Data Types Support in VIRTUS",
+    "venue": "parallel computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Rosario Cristaldi",
+            "id": "2303112790",
+            "org": "Universita di Napoli Federico II"
+        },
+        {
+            "name": "Giulio Ianello",
+            "id": "2666959744",
+            "org": "Universita di Napoli Federico II"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "MPICH",
+        "Computer science",
+        "Communication channel",
+        "Message Passing Interface",
+        "Message passing",
+        "Data type",
+        "Systems architecture",
+        "Operating system",
+        "Data structure"
+    ],
+    "references": [
+        "1530488840",
+        "1670104950",
+        "1939719177",
+        "2065414935",
+        "2081612620",
+        "2091798192",
+        "2114728910",
+        "2126430778",
+        "2154207621",
+        "2155066383"
+    ]
+}

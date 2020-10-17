@@ -1,0 +1,46 @@
+{
+    "id": "1519313281",
+    "title": "Application-Level Fault Tolerance as a Complement to System-Level Fault Tolerance",
+    "venue": "The Journal of Supercomputing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Joshua Haines",
+            "id": "2305147695",
+            "org": "Electrical and Computer Engineering Dept., University of Massachusetts, Amherst, MA 01003 jhaines@ecs.umass.edu#TAB#"
+        },
+        {
+            "name": "Vijay Lakamraju",
+            "id": "2078070528",
+            "org": "Electrical and Computer Engineering Dept., University of Massachusetts, Amherst, MA 01003 vlakamra@ecs.umass.edu#TAB#"
+        },
+        {
+            "name": "Israel Koren",
+            "id": "2156909159",
+            "org": "Electrical and Computer Engineering Dept., University of Massachusetts, Amherst, MA 01003 koren@ecs.umass.edu#TAB#"
+        },
+        {
+            "name": "C. Mani Krishna",
+            "id": "2144298900",
+            "org": "Electrical and Computer Engineering Dept., University of Massachusetts, Amherst, MA 01003 krishna@ecs.umass.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Stuck-at fault",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "Application software",
+        "Multiprocessing",
+        "Software fault tolerance",
+        "Fault coverage",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1750502717",
+        "2133201251"
+    ]
+}

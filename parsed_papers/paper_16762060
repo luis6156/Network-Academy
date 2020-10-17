@@ -1,0 +1,124 @@
+{
+    "id": "16762060",
+    "title": "Multi-input Functional Encryption",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Shafi Goldwasser",
+            "id": "1728759264",
+            "org": "MIT and Weizmann"
+        },
+        {
+            "name": "S. Dov Gordon",
+            "id": "2135408682",
+            "org": "Applied Communication Sciences"
+        },
+        {
+            "name": "Vipul Goyal",
+            "id": "2096006861",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Abhishek Jain",
+            "id": "2114441477",
+            "org": "Boston University and MIT"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "University of Maryland"
+        },
+        {
+            "name": "Feng-Hao Liu",
+            "id": "2100202523",
+            "org": "University of Maryland"
+        },
+        {
+            "name": "Amit Sahai",
+            "id": "2159933393",
+            "org": "UCLA"
+        },
+        {
+            "name": "Elaine Shi",
+            "id": "2152052458",
+            "org": "University of Maryland"
+        },
+        {
+            "name": "Hong-Sheng Zhou",
+            "id": "2315871956",
+            "org": "Virginia Commonwealth University"
+        }
+    ],
+    "fields_of_study": [
+        "Obfuscation",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Plaintext-aware encryption",
+        "Functional encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "Multiple encryption",
+        "Random oracle"
+    ],
+    "references": [
+        "24999078",
+        "65414435",
+        "103647506",
+        "142017860",
+        "167928972",
+        "177444027",
+        "185388186",
+        "1485683924",
+        "1495266644",
+        "1498316612",
+        "1516253199",
+        "1527450129",
+        "1554247779",
+        "1556683487",
+        "1564449568",
+        "1589843374",
+        "1590453572",
+        "1596208550",
+        "1724472458",
+        "1775738675",
+        "1895952394",
+        "1963071371",
+        "1984153141",
+        "1993060580",
+        "1995926987",
+        "2008701790",
+        "2031533839",
+        "2053723853",
+        "2054904172",
+        "2063145953",
+        "2073210531",
+        "2084641398",
+        "2085983185",
+        "2096218735",
+        "2108072891",
+        "2124612670",
+        "2138001464",
+        "2146673169",
+        "2148888468",
+        "2149327389",
+        "2151471396",
+        "2152144666",
+        "2153971105",
+        "2159339434",
+        "2161508639",
+        "2163992091",
+        "2166561215",
+        "2166670067",
+        "2169691038",
+        "2170297052",
+        "2184303230",
+        "2221582088",
+        "2398477294",
+        "2401772551",
+        "2517104773",
+        "2572799557",
+        "2610275508"
+    ]
+}

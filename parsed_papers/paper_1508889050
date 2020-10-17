@@ -1,0 +1,56 @@
+{
+    "id": "1508889050",
+    "title": "Improved EM-Based Tissue Segmentation and Partial Volume Effect Quantification in Multi-sequence Brain MRI",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Guillaume Dugas-Phocion",
+            "id": "2013883830",
+            "org": "Inria, Epidaure Project Team"
+        },
+        {
+            "name": "Miguel Angel Gonzalez Ballester",
+            "id": "2778380720",
+            "org": "Inria, Epidaure Project Team"
+        },
+        {
+            "name": "Gregoire Malandain",
+            "id": "2172723547",
+            "org": "Inria, Epidaure Project Team"
+        },
+        {
+            "name": "Christine Lebrun",
+            "id": "1984084495",
+            "org": "Pasteur Hospital"
+        },
+        {
+            "name": "Nicholas Ayache",
+            "id": "2161288054",
+            "org": "Inria, Epidaure Project Team"
+        }
+    ],
+    "fields_of_study": [
+        "Mixture model",
+        "Segmentation",
+        "Gaussian noise",
+        "Computer vision",
+        "Pattern recognition",
+        "Outlier",
+        "Computer science",
+        "Expectation-maximization algorithm",
+        "Brain atlas",
+        "Voxel",
+        "Partial volume",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "197098352",
+        "1605096437",
+        "2098982273",
+        "2099801199",
+        "2124915460",
+        "2131036905",
+        "2168399612"
+    ]
+}

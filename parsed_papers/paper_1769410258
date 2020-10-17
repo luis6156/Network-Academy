@@ -1,0 +1,43 @@
+{
+    "id": "1769410258",
+    "title": "Primality proving with elliptic curves",
+    "venue": "theorem proving in higher order logics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Laurent Thery",
+            "id": "8910532",
+            "org": "INRIA, France#TAB#"
+        },
+        {
+            "name": "Guillaume Hanrot",
+            "id": "23825715",
+            "org": "INRIA, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supersingular elliptic curve",
+        "Twists of curves",
+        "Algorithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Division polynomials",
+        "Miller-Rabin primality test",
+        "Primality test",
+        "Sato-Tate conjecture",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves"
+    ],
+    "references": [
+        "186686109",
+        "1497011154",
+        "1567380020",
+        "1592482282",
+        "1594381772",
+        "1607231186",
+        "1652609218",
+        "2004720904",
+        "2081882878",
+        "2167940678"
+    ]
+}

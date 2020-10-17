@@ -1,0 +1,65 @@
+{
+    "id": "1601078274",
+    "title": "Measuring the Performance Impact of SP-Restricted Programming in Shared-Memory Machines",
+    "venue": "high performance computing for computational science (vector and parallel processing)",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Arturo Gonzalez-Escribano",
+            "id": "93367889",
+            "org": "Universidad de Valladolid"
+        },
+        {
+            "name": "Arjan J. C. van Gemund",
+            "id": "318022926",
+            "org": "Delft University of Technology"
+        },
+        {
+            "name": "Valentin Cardenoso-Payo",
+            "id": "1991996080",
+            "org": "Universidad de Valladolid"
+        },
+        {
+            "name": "Judith Alonso-Lopez",
+            "id": "2291308445",
+            "org": "Universidad de Valladolid"
+        },
+        {
+            "name": "David Martin-Garcia",
+            "id": "2289032926",
+            "org": "Universidad de Valladolid"
+        },
+        {
+            "name": "Alberto Pedrosa-Calvo",
+            "id": "2289327464",
+            "org": "Universidad de Valladolid"
+        }
+    ],
+    "fields_of_study": [
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Data parallelism",
+        "Parallel programming model",
+        "Implicit parallelism",
+        "Task parallelism",
+        "restrict"
+    ],
+    "references": [
+        "1537993319",
+        "1967745369",
+        "2006733177",
+        "2016559894",
+        "2019614051",
+        "2045271686",
+        "2087240301",
+        "2089340573",
+        "2097036268",
+        "2098573393",
+        "2155882878",
+        "2165606466"
+    ]
+}

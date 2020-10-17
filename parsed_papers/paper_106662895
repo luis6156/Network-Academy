@@ -1,0 +1,58 @@
+{
+    "id": "106662895",
+    "title": "Using triggered operations to offload rendezvous messages",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Brian W. Barrett",
+            "id": "2895340988",
+            "org": "Sandia National Laboratries, Albuquerque, NM#TAB#"
+        },
+        {
+            "name": "Ron Brightwell",
+            "id": "2141506386",
+            "org": "Sandia National Laboratries, Albuquerque, NM#TAB#"
+        },
+        {
+            "name": "K. Scott Hemmert",
+            "id": "366627591",
+            "org": "Sandia National Laboratries, Albuquerque, NM#TAB#"
+        },
+        {
+            "name": "Kyle Wheeler",
+            "id": "2761498822",
+            "org": "Sandia National Laboratries, Albuquerque, NM#TAB#"
+        },
+        {
+            "name": "Keith D. Underwood",
+            "id": "2153328045",
+            "org": "Intel Corporation, Hillsboro, OR#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Rendezvous",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Message Passing Interface",
+        "Real-time computing"
+    ],
+    "references": [
+        "1511882357",
+        "1519844836",
+        "1572549641",
+        "1670104950",
+        "1969215126",
+        "2057218453",
+        "2081612620",
+        "2090209978",
+        "2094526959",
+        "2099020156",
+        "2104994660",
+        "2126509165",
+        "2151526088",
+        "2163189799"
+    ]
+}

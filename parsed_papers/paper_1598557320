@@ -1,0 +1,68 @@
+{
+    "id": "1598557320",
+    "title": "Fast and accurate connectivity analysis between functional regions based on DT-MRI",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dorit Merhof",
+            "id": "298381783",
+            "org": "Computer Graphics Group, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Mirco Richter",
+            "id": "2515780367",
+            "org": "Computer Graphics Group, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Frank Enders",
+            "id": "2140236638",
+            "org": "Computer Graphics Group, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Peter Hastreiter",
+            "id": "2085846229",
+            "org": "Computer Graphics Group, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Oliver Ganslandt",
+            "id": "2466490778",
+            "org": "Neurocenter, Dept. of Neurosurgery, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Michael Buchfelder",
+            "id": "66054278",
+            "org": "Neurocenter, Dept. of Neurosurgery, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Christopher Nimsky",
+            "id": "2489280677",
+            "org": "Neurocenter, Dept. of Neurosurgery, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Gunther Greiner",
+            "id": "2204539166",
+            "org": "Computer Graphics Group, University of Erlangen-Nuremberg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Pathfinding",
+        "Grid",
+        "Diffusion MRI",
+        "Fractional anisotropy",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1534962396",
+        "1965579557",
+        "1969483458",
+        "1989422517",
+        "2100388636",
+        "2134634502"
+    ]
+}

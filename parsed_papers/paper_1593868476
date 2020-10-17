@@ -1,0 +1,72 @@
+{
+    "id": "1593868476",
+    "title": "Managing large graphs on multi-cores with graph awareness",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Vijayan Prabhakaran",
+            "id": "2160828216",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Ming Wu",
+            "id": "2307017422",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Xuetian Weng",
+            "id": "2617499932",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Frank McSherry",
+            "id": "1967907825",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Lidong Zhou",
+            "id": "2158515488",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Maya Haridasan",
+            "id": "2595682059",
+            "org": "Google#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph (abstract data type)",
+        "Parallel computing",
+        "Graph bandwidth",
+        "Graph database",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Graph partition",
+        "Graph product",
+        "Clique-width",
+        "Vertex (geometry)"
+    ],
+    "references": [
+        "1493893823",
+        "1708755921",
+        "1972595474",
+        "1976232673",
+        "2021685712",
+        "2045271686",
+        "2055497547",
+        "2066636486",
+        "2070232376",
+        "2101117170",
+        "2104644701",
+        "2115022330",
+        "2116904467",
+        "2122465391",
+        "2124939717",
+        "2125032792",
+        "2165663045",
+        "2170616854",
+        "2173213060"
+    ]
+}

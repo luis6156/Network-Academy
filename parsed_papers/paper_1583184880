@@ -1,0 +1,59 @@
+{
+    "id": "1583184880",
+    "title": "Badger - a fast and provably secure MAC",
+    "venue": "applied cryptography and network security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Martin Boesgaard",
+            "id": "2017764870",
+            "org": "CRYPTICO A/S, Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Thomas Christensen",
+            "id": "2276402315",
+            "org": "CRYPTICO A/S, Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Erik Zenner",
+            "id": "2147784711",
+            "org": "CRYPTICO A/S, Copenhagen, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "K-independent hashing",
+        "Theoretical computer science",
+        "Cycles per byte",
+        "Universal hashing",
+        "Distributed computing",
+        "Computer science",
+        "Computer security",
+        "Hash function",
+        "Message authentication code",
+        "SWIFFT",
+        "Double hashing",
+        "Dynamic perfect hashing"
+    ],
+    "references": [
+        "31093886",
+        "148541367",
+        "1489155257",
+        "1511186238",
+        "1517284259",
+        "1541777936",
+        "1555623005",
+        "1567501709",
+        "1578627459",
+        "1656678770",
+        "1733713784",
+        "1763079358",
+        "1866349918",
+        "1887453827",
+        "1981670729",
+        "1985623009",
+        "2052207834",
+        "2151748484",
+        "2159176173",
+        "2172632525"
+    ]
+}

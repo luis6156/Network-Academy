@@ -1,0 +1,54 @@
+{
+    "id": "120798314",
+    "title": "Improving restore speed for backup systems that use inline chunk-based deduplication",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Mark David Lillibridge",
+            "id": "1718207820",
+            "org": "HP Labs#TAB#"
+        },
+        {
+            "name": "Kave Eshghi",
+            "id": "1206618033",
+            "org": "HP Labs#TAB#"
+        },
+        {
+            "name": "Deepavali Bhagwat",
+            "id": "1994938794",
+            "org": "HP Storage#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Computer science",
+        "Backup",
+        "Data deduplication",
+        "Fragmentation (computing)",
+        "Exploit",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "22807665",
+        "69510097",
+        "178328500",
+        "200233886",
+        "1506596325",
+        "1576397915",
+        "2027016098",
+        "2033062224",
+        "2041516144",
+        "2056980397",
+        "2074919500",
+        "2080232995",
+        "2100100130",
+        "2112671267",
+        "2114167330",
+        "2131314585",
+        "2150864656",
+        "2172174733"
+    ]
+}

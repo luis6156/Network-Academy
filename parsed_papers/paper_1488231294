@@ -1,0 +1,46 @@
+{
+    "id": "1488231294",
+    "title": "A Compile-Time Meta-Level Architecture Supporting Class Specific Optimization",
+    "venue": "conference on scientific computing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Toshiyuki Takahashi",
+            "id": "2132826332",
+            "org": "The University of Tokyo"
+        },
+        {
+            "name": "Yutaka Ishikawa",
+            "id": "2251886612",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Akinori Yonezawa",
+            "id": "660900409",
+            "org": "The University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Header",
+        "Parallel computing",
+        "Computer architecture",
+        "Compile time",
+        "Compiler",
+        "Computer science",
+        "Class implementation file",
+        "Architecture",
+        "Optimizing compiler",
+        "Program optimization",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1553159521",
+        "1581731379",
+        "2151410098"
+    ]
+}

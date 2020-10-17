@@ -1,0 +1,33 @@
+{
+    "id": "1531696205",
+    "title": "Flaws in Differential Cryptanalysis of Skipjack",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Louis Granboulan",
+            "id": "2279506413",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Integral cryptanalysis",
+        "Algorithm",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "1541703086",
+        "1629301835",
+        "1978695162",
+        "2161571881",
+        "2612507208"
+    ]
+}

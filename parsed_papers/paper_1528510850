@@ -1,0 +1,46 @@
+{
+    "id": "1528510850",
+    "title": "Detecting intrusion transactions in databases using data item dependencies and anomaly analysis",
+    "venue": "Expert Systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sattar Hashemi",
+            "id": "2097659959",
+            "org": "Clayton School of Information Technology, Room 224, Building 63, Monash University, Victoria 3800, Australia"
+        },
+        {
+            "name": "Ying Yang",
+            "id": "2140940508",
+            "org": "Clayton School of Information Technology, Room 224, Building 63, Monash University, Victoria 3800, Australia"
+        },
+        {
+            "name": "Davoud Zabihzadeh",
+            "id": "2637464972",
+            "org": "Department of Computer Engineering, Iran University of Science and Technology, Tehran, Iran"
+        },
+        {
+            "name": "Mohammad Reza Kangavari",
+            "id": "667846032",
+            "org": "Department of Computer Engineering, Iran University of Science and Technology, Tehran, Iran"
+        }
+    ],
+    "fields_of_study": [
+        "Permission",
+        "Computer science",
+        "Data mining",
+        "Database",
+        "Anomaly-based intrusion detection system",
+        "Anomaly detection",
+        "Intrusion detection system",
+        "Time series",
+        "False positive rate",
+        "Intrusion",
+        "Database transaction"
+    ],
+    "references": [
+        "161950755",
+        "1627728918",
+        "2059513841"
+    ]
+}

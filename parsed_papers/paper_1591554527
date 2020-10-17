@@ -1,0 +1,48 @@
+{
+    "id": "1591554527",
+    "title": "Immunising CBC Mode Against Padding Oracle Attacks: A Formal Security Treatment",
+    "venue": "security and cryptography for networks",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kenneth G. Paterson",
+            "id": "2101835147",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, U.K. TW20 0EX#TAB#"
+        },
+        {
+            "name": "Gaven J. Watson",
+            "id": "2109368334",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, U.K. TW20 0EX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Optimal asymmetric encryption padding",
+        "Oracle",
+        "Block cipher",
+        "Theoretical computer science",
+        "Padding oracle attack",
+        "Computer science",
+        "Distributed computing",
+        "Padding",
+        "Plaintext",
+        "Provable security"
+    ],
+    "references": [
+        "1495266644",
+        "1515849662",
+        "1518301672",
+        "1533182289",
+        "1551910192",
+        "1604454960",
+        "1985774143",
+        "2057703421",
+        "2108855216",
+        "2109256061",
+        "2113911758",
+        "2136755679",
+        "2139172211",
+        "2159840470",
+        "2402794349"
+    ]
+}

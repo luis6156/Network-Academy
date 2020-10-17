@@ -1,0 +1,51 @@
+{
+    "id": "1502981577",
+    "title": "Margin-Based ranking meets boosting in the middle",
+    "venue": "conference on learning theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Cynthia Rudin",
+            "id": "2141705163",
+            "org": "Howard Hughes Medical Institute, New York University, New York, NY#TAB#"
+        },
+        {
+            "name": "Corinna Cortes",
+            "id": "2134830209",
+            "org": "Google Research, New York, NY#TAB#"
+        },
+        {
+            "name": "Mehryar Mohri",
+            "id": "2150814284",
+            "org": "Courant Institute, New York University, New York, NY#TAB#"
+        },
+        {
+            "name": "Robert E. Schapire",
+            "id": "278177626",
+            "org": "Department of Computer Science, Princeton University, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Coordinate descent",
+        "AdaBoost",
+        "Pattern recognition",
+        "Ranking",
+        "Covering number",
+        "Ranking SVM",
+        "Boosting (machine learning)",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1546961578",
+        "1552767446",
+        "1554289397",
+        "1918179283",
+        "1975846642",
+        "2107890099",
+        "2111233787",
+        "2120100126"
+    ]
+}

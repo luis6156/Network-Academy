@@ -1,0 +1,38 @@
+{
+    "id": "163778977",
+    "title": "Hyper-threading aware process scheduling heuristics",
+    "venue": "usenix annual technical conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "James R. Bulpin",
+            "id": "1254437500",
+            "org": "University of Cambridge Computer Laboratory#TAB#"
+        },
+        {
+            "name": "Ian Pratt",
+            "id": "2155012014",
+            "org": "University of Cambridge Computer Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Heuristics",
+        "Computer science",
+        "Gang scheduling",
+        "Scheduling (computing)",
+        "Multithreading",
+        "Simultaneous multithreading",
+        "Temporal multithreading",
+        "Hyper-threading",
+        "Real-time computing"
+    ],
+    "references": [
+        "2060678419",
+        "2103397328",
+        "2116020886",
+        "2120230074",
+        "2138708064"
+    ]
+}

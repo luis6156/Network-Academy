@@ -1,0 +1,61 @@
+{
+    "id": "1531004236",
+    "title": "A MapReduce Task Scheduling Algorithm for Deadline-Constraint in Homogeneous Environment",
+    "venue": "international conference on advanced cloud and big data",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Yi Yang",
+            "id": "2585376547",
+            "org": "Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China"
+        },
+        {
+            "name": "Jiao Xu",
+            "id": "2171505219",
+            "org": "Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China"
+        },
+        {
+            "name": "Fei Wang",
+            "id": "2654793019",
+            "org": "Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China"
+        },
+        {
+            "name": "Zhaocai Ma",
+            "id": "2232550985",
+            "org": "Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China"
+        },
+        {
+            "name": "Jingshan Wang",
+            "id": "2544870056",
+            "org": "Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China"
+        },
+        {
+            "name": "Lian Li",
+            "id": "2114473732",
+            "org": "Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Least slack time scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1523319063",
+        "2057063820",
+        "2058047606",
+        "2095977162",
+        "2101178023",
+        "2111326262",
+        "2115397387",
+        "2121382795",
+        "2122465391"
+    ]
+}

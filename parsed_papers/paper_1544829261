@@ -1,0 +1,59 @@
+{
+    "id": "1544829261",
+    "title": "Aggregate predicate support in DBMS",
+    "venue": "australasian database conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Apostol Natsev",
+            "id": "1992897095",
+            "org": "IBM Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Gene Y. C. Fuh",
+            "id": "2055053860",
+            "org": "IBM DBTI/390, San Jose, CA#TAB#"
+        },
+        {
+            "name": "Weidong Chen",
+            "id": "2608402779",
+            "org": "LinkAir Communications, Inc., San Jose, CA#TAB#"
+        },
+        {
+            "name": "Chi-Huang Chiu",
+            "id": "2671018326",
+            "org": "National Chiao-Tung Univ., Hsin-Tsu, Taiwan#TAB#"
+        },
+        {
+            "name": "Jeffrey Scott Vitter",
+            "id": "118037170",
+            "org": "Duke University, Durham, NC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tuple",
+        "Database model",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Query language",
+        "Database",
+        "Online aggregation",
+        "Spatial database",
+        "Database engine",
+        "Query optimization"
+    ],
+    "references": [
+        "1488719427",
+        "1495105959",
+        "1506954951",
+        "2046144220",
+        "2046269252",
+        "2094320135",
+        "2133384222",
+        "2133900260",
+        "2148322068",
+        "2153329411",
+        "2155776210"
+    ]
+}

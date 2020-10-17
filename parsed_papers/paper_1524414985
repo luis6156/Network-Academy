@@ -1,0 +1,119 @@
+{
+    "id": "1524414985",
+    "title": "PerDiS: Design, Implementation, and Use of a PERsistent DIstributed Store",
+    "venue": "Advances in Computers",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Paulo Ferreira",
+            "id": "2778235130",
+            "org": "INESC Rua Alves Redol 9 1000 Lisboa Portugal"
+        },
+        {
+            "name": "Marc Shapiro",
+            "id": "2274888956",
+            "org": "INRIA Rocquencourt Domaine de Voluceau Rocquencourt BP 105 Le Chesnay Cedex 78153 France"
+        },
+        {
+            "name": "Xavier Blondel",
+            "id": "126804026",
+            "org": "INRIA Rocquencourt Domaine de Voluceau Rocquencourt BP 105 Le Chesnay Cedex 78153 France"
+        },
+        {
+            "name": "Olivier Fambon",
+            "id": "2667749332",
+            "org": "INRIA Rhone-Alpes ZIRST - 655 Avenue de l'Europe 38330 Montbonnot Saint-Martin France"
+        },
+        {
+            "name": "Joao Garcia",
+            "id": "2114972943",
+            "org": "INESC Rua Alves Redol 9 1000 Lisboa Portugal"
+        },
+        {
+            "name": "Sytse Kloosterman",
+            "id": "2669602618",
+            "org": "INRIA Rocquencourt Domaine de Voluceau Rocquencourt BP 105 Le Chesnay Cedex 78153 France"
+        },
+        {
+            "name": "Nicolas Richer",
+            "id": "1637393329",
+            "org": "INRIA Rocquencourt Domaine de Voluceau Rocquencourt BP 105 Le Chesnay Cedex 78153 France"
+        },
+        {
+            "name": "Marcus Roberts",
+            "id": "2342368404",
+            "org": "QMW Queen Mary and Westefield College Mile End Road London E1 4NS UK"
+        },
+        {
+            "name": "Fadi Sandakly",
+            "id": "2721529186",
+            "org": "CSTB BP 209 290 Route de Lucioles F-06904 Sophia Antipolis Cedex France"
+        },
+        {
+            "name": "George Coulouris",
+            "id": "2125860387",
+            "org": "QMW Queen Mary and Westefield College Mile End Road London E1 4NS UK"
+        },
+        {
+            "name": "Jean Dollimore",
+            "id": "2224971703",
+            "org": "QMW Queen Mary and Westefield College Mile End Road London E1 4NS UK"
+        },
+        {
+            "name": "Paulo Guedes",
+            "id": "2128734210",
+            "org": "INESC Rua Alves Redol 9 1000 Lisboa Portugal"
+        },
+        {
+            "name": "Daniel Hagimont",
+            "id": "58910092",
+            "org": "INRIA Rhone-Alpes ZIRST - 655 Avenue de l'Europe 38330 Montbonnot Saint-Martin France"
+        },
+        {
+            "name": "Sacha Krakowiak",
+            "id": "2619314576",
+            "org": "INRIA Rhone-Alpes ZIRST - 655 Avenue de l'Europe 38330 Montbonnot Saint-Martin France"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "Access control list",
+        "Collaborative engineering",
+        "Computer science",
+        "Garbage collection",
+        "Distributed computing",
+        "Persistence (computer science)",
+        "Database",
+        "Unix",
+        "Concurrency control",
+        "Page fault"
+    ],
+    "references": [
+        "92636380",
+        "1482095069",
+        "1500062583",
+        "1539095125",
+        "1543582855",
+        "1557179596",
+        "1576382366",
+        "1582836852",
+        "1597827298",
+        "1654761628",
+        "1775663022",
+        "1870455363",
+        "1967998883",
+        "1971279826",
+        "2001657718",
+        "2029344921",
+        "2051555484",
+        "2056012812",
+        "2070729254",
+        "2106035061",
+        "2107082099",
+        "2110631345",
+        "2139474266",
+        "2153710305",
+        "2168368830",
+        "2178213678"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1533883750",
+    "title": "Unsupervised and Adaptive Segmentation of Multispectral 3D Magnetic Resonance Images of Human Brain: A Generic Approach",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Chahin Pachai",
+            "id": "2608612494",
+            "org": "CREATIS"
+        },
+        {
+            "name": "Yuemin Zhu",
+            "id": "2123699459",
+            "org": "CREATIS"
+        },
+        {
+            "name": "Charles R. G. Guttmann",
+            "id": "879220929",
+            "org": "Brigham and Women's Hospital, Harvard Medical School"
+        },
+        {
+            "name": "Ron Kikinis",
+            "id": "908076792",
+            "org": "Brigham and Women's Hospital, Harvard Medical School"
+        },
+        {
+            "name": "Ferenc A. Jolesz",
+            "id": "2090988392",
+            "org": "Brigham and Women's Hospital, Harvard Medical School"
+        },
+        {
+            "name": "G. Gimenez",
+            "id": "2112941090",
+            "org": "CREATIS"
+        },
+        {
+            "name": "Jean-Claude Froment",
+            "id": "2149559272",
+            "org": "Hopital Neurologique et Neurochirurgical"
+        },
+        {
+            "name": "Christian Confavreux",
+            "id": "2779808041",
+            "org": "Hopital Neurologique et Neurochirurgical"
+        },
+        {
+            "name": "Simon K. Warfield",
+            "id": "2141164367",
+            "org": "Brigham and Women's Hospital, Harvard Medical School"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Human brain",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Statistical model",
+        "Multispectral image",
+        "Markov random field",
+        "Initialization",
+        "Hyperparameter",
+        "Random field",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1673033605",
+        "1989222601",
+        "2021640751",
+        "2030007476",
+        "2070202900",
+        "2088059995",
+        "2113332184",
+        "2131036905",
+        "2132819032",
+        "2158595748",
+        "2171493089"
+    ]
+}

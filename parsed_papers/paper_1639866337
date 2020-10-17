@@ -1,0 +1,89 @@
+{
+    "id": "1639866337",
+    "title": "A SAT-based Method for Solving the Two-dimensional Strip Packing Problem",
+    "venue": "Fundamenta Informaticae",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Takehide Soh",
+            "id": "2153184750",
+            "org": "(Correspd.) Department of Informatics, Graduate University for Advanced Studies, 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan. [email protected]#TAB#"
+        },
+        {
+            "name": "Katsumi Inoue",
+            "id": "2236397478",
+            "org": "(Also works: Dept. of Informatics, Grad. Univ. for Adv. Studies, 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo, 101-8430, Japan) Principles of Informatics Division, National Institute of Informatics, 2-1- ...#TAB#"
+        },
+        {
+            "name": "Naoyuki Tamura",
+            "id": "2004240429",
+            "org": "Information Science and Technology Center, Kobe University, 1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan. {tamura, banbara}@kobe-u.ac.jp#TAB#"
+        },
+        {
+            "name": "Mutsunori Banbara",
+            "id": "99608674",
+            "org": "Information Science and Technology Center, Kobe University, 1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan. {tamura, banbara}@kobe-u.ac.jp#TAB#"
+        },
+        {
+            "name": "Hidetomo Nabeshima",
+            "id": "1184246027",
+            "org": "Interdisciplinary Graduate School of Medicine and Engineering, University of Yamanashi, 4-3-11, Takeda, Kofu 400-8511, Japan. nabesima@yamanashi.ac.jp#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Constraint satisfaction problem",
+        "Satisfiability",
+        "Packing problems",
+        "Discrete mathematics",
+        "Constraint satisfaction",
+        "Combinatorics",
+        "Rectangle",
+        "#SAT",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "82625556",
+        "145815032",
+        "156772547",
+        "203746830",
+        "1518705996",
+        "1527430996",
+        "1538681263",
+        "1550483759",
+        "1576377586",
+        "1748017702",
+        "1966419424",
+        "1982886000",
+        "1983758948",
+        "1986964870",
+        "2011690685",
+        "2019318803",
+        "2032392871",
+        "2033274122",
+        "2044560939",
+        "2046239089",
+        "2057361103",
+        "2065453222",
+        "2071559752",
+        "2088674138",
+        "2100609826",
+        "2100961486",
+        "2105175235",
+        "2107470986",
+        "2107549815",
+        "2110123236",
+        "2116758077",
+        "2120223433",
+        "2136588799",
+        "2142785340",
+        "2144040805",
+        "2146148755",
+        "2161001022",
+        "2163144548",
+        "2165033395",
+        "2605289564"
+    ]
+}

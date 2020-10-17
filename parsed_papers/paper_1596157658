@@ -1,0 +1,36 @@
+{
+    "id": "1596157658",
+    "title": "Single Sided Communications in Multi-protocol MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Fernando Elson Mourao",
+            "id": "2292137118",
+            "org": "Edinburgh Parallel Computing Centre-Univ. of Edinburgh UK"
+        },
+        {
+            "name": "Stephen Booth",
+            "id": "2096119348",
+            "org": "Edinburgh Parallel Computing Centre-Univ. of Edinburgh UK"
+        }
+    ],
+    "fields_of_study": [
+        "Message broker",
+        "Parallel computing",
+        "Speedup",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Communications protocol",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing"
+    ],
+    "references": [
+        "1529327506",
+        "1641327695",
+        "2041593891",
+        "2097113145"
+    ]
+}

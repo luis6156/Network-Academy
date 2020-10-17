@@ -1,0 +1,39 @@
+{
+    "id": "1524703908",
+    "title": "On parallel hash functions based on block-cipher",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Toshihiko Matsuo",
+            "id": "2104585996",
+            "org": "Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Ibaraki University, Hitachi, Ibaraki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Secure Hash Standard",
+        "Parallel computing",
+        "Cryptographic hash function",
+        "Rolling hash",
+        "Distributed computing",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1547537489",
+        "1549228503",
+        "1801417685",
+        "1863270349",
+        "2085797166"
+    ]
+}

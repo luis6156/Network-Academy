@@ -1,0 +1,64 @@
+{
+    "id": "1591365527",
+    "title": "Microarchitecture-Aware Virtual Machine Placement under Information Leakage Constraints",
+    "venue": "international conference on cloud computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Arnaud Lefray",
+            "id": "1075986684",
+            "org": "LIP, Univ. of Lyon, Lyon, France"
+        },
+        {
+            "name": "Eddy Caron",
+            "id": "2082894184",
+            "org": "LIP, Univ. of Lyon, Lyon, France"
+        },
+        {
+            "name": "Jonathan Rouzaud-Cornabas",
+            "id": "1101297894",
+            "org": "LIRIS, INSA-Lyon, Lyon, France"
+        },
+        {
+            "name": "Christian Toinard",
+            "id": "2764219281",
+            "org": "LIFO, INSA Centre Val de Loire, Val de Loire, France"
+        }
+    ],
+    "fields_of_study": [
+        "Virtualization",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Data security",
+        "Cloud computing security",
+        "Virtual machine",
+        "Temporal isolation among virtual machines",
+        "Real-time computing",
+        "Cloud computing",
+        "Covert channel"
+    ],
+    "references": [
+        "1496637959",
+        "1533145153",
+        "1584476834",
+        "1878907771",
+        "1969923711",
+        "1984281471",
+        "2027960934",
+        "2032925129",
+        "2037322308",
+        "2104182023",
+        "2105321788",
+        "2107776555",
+        "2115200566",
+        "2119028650",
+        "2123541516",
+        "2123761655",
+        "2140684357",
+        "2144087043",
+        "2147150814",
+        "2167088175",
+        "2169461225"
+    ]
+}

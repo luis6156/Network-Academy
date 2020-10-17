@@ -1,0 +1,46 @@
+{
+    "id": "1586390107",
+    "title": "Performance evaluation of the TLS handshake in the context of embedded devices",
+    "venue": "international conference on data communication networking",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Manuel Koschuch",
+            "id": "2403897223",
+            "org": "Competence Centre for IT-Security, FH Campus Wien, University of Applied Science, Favoritenstrasse 226, 1100 Vienna, Austria"
+        },
+        {
+            "name": "Matthias Hudler",
+            "id": "2100703857",
+            "org": "Competence Centre for IT-Security, FH Campus Wien, University of Applied Science, Favoritenstrasse 226, 1100 Vienna, Austria"
+        },
+        {
+            "name": "Michael Kruger",
+            "id": "2775891592",
+            "org": "Competence Centre for IT-Security, FH Campus Wien, University of Applied Science, Favoritenstrasse 226, 1100 Vienna, Austria"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Authentication",
+        "Transport Layer Security",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Wireless sensor network",
+        "Elliptic curve cryptography",
+        "Embedded system",
+        "Computer network",
+        "Public-key cryptography",
+        "Strong authentication"
+    ],
+    "references": [
+        "1506716105",
+        "1510930713",
+        "1681507753",
+        "1978098791",
+        "2121268634",
+        "2152124765",
+        "2286477783"
+    ]
+}

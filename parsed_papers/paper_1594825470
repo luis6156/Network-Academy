@@ -1,0 +1,53 @@
+{
+    "id": "1594825470",
+    "title": "Sound and complete monitoring of sequential consistency for relaxed memory models",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jabob Burnim",
+            "id": "2462451698",
+            "org": "EECS Department, University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Koushik Sen",
+            "id": "2157836386",
+            "org": "EECS Department, University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Christos Stergiou",
+            "id": "1965806429",
+            "org": "EECS Department, University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Sequential consistency",
+        "Operational definition",
+        "Computer science",
+        "Memory model",
+        "Concurrent data structure",
+        "Synchronization",
+        "Real-time computing",
+        "Consistency model"
+    ],
+    "references": [
+        "1822674892",
+        "1823635467",
+        "1971332773",
+        "2024255419",
+        "2039509099",
+        "2054739713",
+        "2085773946",
+        "2096527448",
+        "2105980774",
+        "2115732097",
+        "2116454140",
+        "2122602877",
+        "2135948849",
+        "2137650676",
+        "2149911648",
+        "2160781056",
+        "2169870841"
+    ]
+}

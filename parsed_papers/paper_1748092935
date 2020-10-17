@@ -1,0 +1,69 @@
+{
+    "id": "1748092935",
+    "title": "Key-Dependent weakness of AES-Based ciphers under clockwise collision distinguisher",
+    "venue": "international conference on information security and cryptology",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Toshiki Nakasone",
+            "id": "2144794295",
+            "org": "Dept. of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Yang Li",
+            "id": "2479788587",
+            "org": "Dept. of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Secure Platform Laboratories, NTT Corporation, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Mitsugu Iwamoto",
+            "id": "2151891431",
+            "org": "Dept. of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "Dept. of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Sakiyama",
+            "id": "1905590919",
+            "org": "Dept. of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Clockwise",
+        "Byte",
+        "Side channel attack",
+        "Discrete mathematics",
+        "Computer science",
+        "Weak key",
+        "Collision"
+    ],
+    "references": [
+        "54412699",
+        "154633427",
+        "1498044825",
+        "1503689022",
+        "1511843316",
+        "1519539754",
+        "1531269151",
+        "1532559214",
+        "1544498556",
+        "1562542037",
+        "1664808737",
+        "1724890242",
+        "1945555650",
+        "2039661913",
+        "2096218735",
+        "2105114022",
+        "2134518757",
+        "2154909745",
+        "2163432699",
+        "2402753812"
+    ]
+}

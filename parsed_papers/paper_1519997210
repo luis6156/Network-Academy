@@ -1,0 +1,37 @@
+{
+    "id": "1519997210",
+    "title": "Exploration of a text collection and identification of topics by clustering",
+    "venue": "intelligent data engineering and automated learning",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Antoine Naud",
+            "id": "2802227675",
+            "org": "RIKEN Brain Science Institute, Wako City, Saitama, Japan and Department of Informatics, N. Copernicus University, Torun, Poland#TAB#"
+        },
+        {
+            "name": "Shiro Usui",
+            "id": "2067062983",
+            "org": "RIKEN Brain Science Institute, Wako City, Saitama, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "k-means clustering",
+        "Thematic map",
+        "Pattern recognition",
+        "Vector space model",
+        "Computer science",
+        "Data mining",
+        "Ranking",
+        "Non-negative matrix factorization",
+        "tf-idf",
+        "Cluster analysis",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1790954942",
+        "1981121223",
+        "2043834642",
+        "2098162425"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1582224092",
+    "title": "Adaptive real-time particle filters for robot localization",
+    "venue": "international conference on robotics and automation",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cody C. T. Kwok",
+            "id": "2147171859",
+            "org": "Dept. of Comput. Sci. & Eng., Washington Univ., Seattle, WA, USA"
+        },
+        {
+            "name": "Dieter Fox",
+            "id": "2231782831",
+            "org": "Dept. of Comput. Sci. & Eng., Washington Univ., Seattle, WA, USA"
+        },
+        {
+            "name": "Marina Meila",
+            "id": "157622691",
+            "org": "University of Washington"
+        }
+    ],
+    "fields_of_study": [
+        "Control engineering",
+        "Robot",
+        "Particle filter",
+        "Monte Carlo localization",
+        "Computer science",
+        "State space",
+        "On the fly",
+        "Control theory",
+        "Computational complexity theory",
+        "Mobile robot",
+        "Adaptive filter"
+    ],
+    "references": [
+        "2104524378",
+        "2118781513",
+        "2154593016",
+        "2162729570",
+        "2162830992"
+    ]
+}

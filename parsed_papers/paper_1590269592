@@ -1,0 +1,59 @@
+{
+    "id": "1590269592",
+    "title": "Cryptanalysis of the hash functions MD4 and RIPEMD",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Xuejia Lai",
+            "id": "2085963908",
+            "org": "Shanghai Jiaotong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2712322727",
+            "org": "Chinese Academy of Science China, Beijing, China#TAB#"
+        },
+        {
+            "name": "Hui Chen",
+            "id": "2658729479",
+            "org": "Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Xiuyuan Yu",
+            "id": "2311467142",
+            "org": "Huangzhou Teacher College, Hangzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Theoretical computer science",
+        "Algorithm",
+        "SHA-2",
+        "Computer science",
+        "RIPEMD",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "1542068190",
+        "1587648112",
+        "1851023053",
+        "1979802565",
+        "2086659222",
+        "2095675261",
+        "2098801947",
+        "2104633167",
+        "2109721530",
+        "2133252868",
+        "2172433705"
+    ]
+}

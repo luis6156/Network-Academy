@@ -1,0 +1,73 @@
+{
+    "id": "141189143",
+    "title": "Fast Set Intersection through Run-Time Bitmap Construction over PForDelta-Compressed Indexes",
+    "venue": "european conference on parallel processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Xiaocheng Zou",
+            "id": "2048584884",
+            "org": "North Carolina State University"
+        },
+        {
+            "name": "Sriram Lakshminarasimhan",
+            "id": "2618685372",
+            "org": "IBM India Research Lab"
+        },
+        {
+            "name": "David A. Boyuka",
+            "id": "241290387",
+            "org": "North Carolina State University"
+        },
+        {
+            "name": "Stephen Ranshous",
+            "id": "116957653",
+            "org": "North Carolina State University"
+        },
+        {
+            "name": "Houjun Tang",
+            "id": "2116589484",
+            "org": "North Carolina State University"
+        },
+        {
+            "name": "Scott Klasky",
+            "id": "2009084615",
+            "org": "Oak Ridge National Laboratory"
+        },
+        {
+            "name": "Nagiza F. Samatova",
+            "id": "1984246357",
+            "org": "North Carolina State University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Conjunctive query",
+        "Bitmap",
+        "Bitmap index",
+        "Search engine indexing",
+        "Bitwise operation",
+        "Inverted index",
+        "Bottleneck",
+        "Intersection (set theory)"
+    ],
+    "references": [
+        "1514105361",
+        "1527137792",
+        "1556741196",
+        "1561988317",
+        "1885526678",
+        "1928047241",
+        "1971065220",
+        "2004010764",
+        "2053550438",
+        "2076471773",
+        "2101566835",
+        "2125203709",
+        "2140453381",
+        "2152437528",
+        "2395370972",
+        "2626304854"
+    ]
+}

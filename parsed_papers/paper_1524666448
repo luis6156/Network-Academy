@@ -1,0 +1,41 @@
+{
+    "id": "1524666448",
+    "title": "Automatic Production of Globally Asynchronous Locally Synchronous Systems",
+    "venue": "embedded software",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alain Girault",
+            "id": "2121357885",
+            "org": "Inria Rhone-Alpes"
+        },
+        {
+            "name": "Clement Menier",
+            "id": "2306717839",
+            "org": "ENS Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Globally asynchronous locally synchronous",
+        "Synchronous circuit",
+        "Circuit design",
+        "Asynchronous communication",
+        "Computer science",
+        "Distributed computing",
+        "Correctness",
+        "Synchronizer",
+        "Distributed algorithm",
+        "Real-time computing",
+        "Sequential logic"
+    ],
+    "references": [
+        "1527796461",
+        "1586502670",
+        "1965748010",
+        "2060434193",
+        "2114781590",
+        "2117897741",
+        "2123784733",
+        "2157341056"
+    ]
+}

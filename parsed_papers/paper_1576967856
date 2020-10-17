@@ -1,0 +1,52 @@
+{
+    "id": "1576967856",
+    "title": "Sound and Decidable Type Inference for Functional Dependencies",
+    "venue": "european symposium on programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gregory J. Duck",
+            "id": "2077987469",
+            "org": "The University of Melbourne"
+        },
+        {
+            "name": "Simon Peyton-Jones",
+            "id": "2185166580",
+            "org": "Microsoft Research Ltd"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "The University of Melbourne"
+        },
+        {
+            "name": "Martin Sulzmann",
+            "id": "86224307",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Dependency theory (database theory)",
+        "Computer science",
+        "Haskell",
+        "Constraint Handling Rules",
+        "Type inference",
+        "Limiting",
+        "Functional dependency",
+        "Decidability",
+        "Programming language"
+    ],
+    "references": [
+        "1499633535",
+        "1594279870",
+        "2021447352",
+        "2039211229",
+        "2062090834",
+        "2067173395",
+        "2079333278",
+        "2080312918",
+        "2091033850",
+        "2106852828",
+        "2570710533"
+    ]
+}

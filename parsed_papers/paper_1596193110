@@ -1,0 +1,38 @@
+{
+    "id": "1596193110",
+    "title": "A New Lattice Construction for Partial Key Exposure Attack for RSA",
+    "venue": "public key cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Yoshinori Aono",
+            "id": "2343231378",
+            "org": "Dept. of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Lattice (order)",
+        "Discrete mathematics",
+        "NTRUEncrypt",
+        "Least significant bit",
+        "Lattice reduction"
+    ],
+    "references": [
+        "1497375467",
+        "1532770887",
+        "1550863203",
+        "1749471906",
+        "1871879997",
+        "1961022628",
+        "1996360405",
+        "2067935912",
+        "2101040389",
+        "2119569175",
+        "2147906334",
+        "2166780626"
+    ]
+}

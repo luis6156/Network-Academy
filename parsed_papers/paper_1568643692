@@ -1,0 +1,45 @@
+{
+    "id": "1568643692",
+    "title": "GPU accelerated likelihoods for stereo-based articulated tracking",
+    "venue": "european conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rune Mollegaard Friborg",
+            "id": "2142495777",
+            "org": "The eScience Centre, Dept. of Computer Science, University of Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Soren Hauberg",
+            "id": "1127615553",
+            "org": "The eScience Centre, Dept. of Computer Science, University of Copenhagen, Denmark#TAB#"
+        },
+        {
+            "name": "Kenny Erleben",
+            "id": "2304332160",
+            "org": "The eScience Centre, Dept. of Computer Science, University of Copenhagen, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Particle filter",
+        "Computer vision",
+        "Computation",
+        "Computer science",
+        "CUDA",
+        "General-purpose computing on graphics processing units",
+        "CAS latency",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1606074907",
+        "1643263348",
+        "2032481801",
+        "2055936398",
+        "2113459360",
+        "2117132237",
+        "2119547137",
+        "2121005842",
+        "2144124341",
+        "2163428664"
+    ]
+}

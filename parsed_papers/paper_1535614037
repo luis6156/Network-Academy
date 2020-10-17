@@ -1,0 +1,69 @@
+{
+    "id": "1535614037",
+    "title": "Log-Structured Global Array for Efficient Multi-Version Snapshots",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Hajime Fujita",
+            "id": "2157746531",
+            "org": "Argonne Nat. Lab., Univ. of Chicago, Chicago, IL, USA"
+        },
+        {
+            "name": "Nan Dun",
+            "id": "2423355631",
+            "org": "Argonne Nat. Lab., Univ. of Chicago, Chicago, IL, USA"
+        },
+        {
+            "name": "Zachary A. Rubenstein",
+            "id": "2042738391",
+            "org": "Argonne Nat. Lab., Univ. of Chicago, Chicago, IL, USA"
+        },
+        {
+            "name": "Andrew A. Chien",
+            "id": "2614356407",
+            "org": "Argonne Nat. Lab., Univ. of Chicago, Chicago, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Word error rate",
+        "Non-volatile random-access memory",
+        "Software versioning",
+        "Computer science",
+        "Global Arrays",
+        "Distributed computing",
+        "Data Corruption",
+        "Server",
+        "Bandwidth (signal processing)",
+        "Snapshot (computer storage)"
+    ],
+    "references": [
+        "1506342804",
+        "1558516248",
+        "1950262311",
+        "1965069357",
+        "1970495107",
+        "1984564341",
+        "1993660990",
+        "1997126580",
+        "2003597767",
+        "2013280342",
+        "2022916138",
+        "2036641664",
+        "2038509324",
+        "2047360090",
+        "2053352232",
+        "2055307611",
+        "2063924830",
+        "2077850713",
+        "2084402884",
+        "2095760405",
+        "2108183412",
+        "2120591095",
+        "2129554014",
+        "2133622824",
+        "2134633067",
+        "2159479644",
+        "2198659786"
+    ]
+}

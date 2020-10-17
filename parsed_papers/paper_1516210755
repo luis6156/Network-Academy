@@ -1,0 +1,40 @@
+{
+    "id": "1516210755",
+    "title": "Revealing the performance of MPI RMA implementations",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Point-to-point",
+        "Parallel computing",
+        "Computer science",
+        "Implementation",
+        "Message Passing Interface",
+        "Synchronization",
+        "Performance improvement",
+        "Programming paradigm",
+        "Computer cluster"
+    ],
+    "references": [
+        "1492255554",
+        "1551272572",
+        "1598820462",
+        "1969215126",
+        "1995396170",
+        "2005445029",
+        "2123596856",
+        "2144525351",
+        "2541014599"
+    ]
+}

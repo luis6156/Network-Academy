@@ -1,0 +1,76 @@
+{
+    "id": "1758810311",
+    "title": "Transactional mutex locks",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Luke Dalessandro",
+            "id": "2139756128",
+            "org": "University of Rochester#TAB#"
+        },
+        {
+            "name": "David Dice",
+            "id": "2307305831",
+            "org": "Sun Labs at Oracle#TAB#"
+        },
+        {
+            "name": "Michael L. Scott",
+            "id": "2122926523",
+            "org": "University of Rochester#TAB#"
+        },
+        {
+            "name": "Nir Shavit",
+            "id": "2071581749",
+            "org": "Sun Labs at Oracle and Tel-Aviv University#TAB#"
+        },
+        {
+            "name": "Michael F. Spear",
+            "id": "2084531348",
+            "org": "Lehigh University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Critical section",
+        "Computer science",
+        "Mutual exclusion",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Semaphore",
+        "Concurrency",
+        "Real-time computing",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1542975293",
+        "2014665656",
+        "2045506295",
+        "2079854797",
+        "2091085450",
+        "2094222793",
+        "2095825766",
+        "2103642785",
+        "2109049059",
+        "2115003448",
+        "2116145395",
+        "2116451681",
+        "2119653453",
+        "2124644142",
+        "2125445874",
+        "2126501440",
+        "2129990308",
+        "2132484060",
+        "2137797833",
+        "2141222493",
+        "2144248538",
+        "2149089882",
+        "2152491655",
+        "2155500238",
+        "2164264749",
+        "2167729440",
+        "2169842412",
+        "2340530615"
+    ]
+}

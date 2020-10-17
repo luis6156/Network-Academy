@@ -1,0 +1,42 @@
+{
+    "id": "1491762427",
+    "title": "Using static analysis to compile non-sequential functional logic programs",
+    "venue": "international conference on logic programming",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Julio Marino",
+            "id": "2112735115",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Juan Jose Moreno-Navarro",
+            "id": "2149397661",
+            "org": "Universidad Politecnica de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Functional logic programming",
+        "Syntax",
+        "Theoretical computer science",
+        "Algorithm",
+        "Compile time",
+        "Computer science",
+        "Compiler",
+        "Abstract interpretation",
+        "Strictness analysis",
+        "Data structure",
+        "Backtracking"
+    ],
+    "references": [
+        "1512114921",
+        "1512248102",
+        "1543641760",
+        "1578902885",
+        "1599996235",
+        "2008289497",
+        "2064305670",
+        "2087389137",
+        "2109326210"
+    ]
+}

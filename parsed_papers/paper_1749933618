@@ -1,0 +1,73 @@
+{
+    "id": "1749933618",
+    "title": "Exploiting speculative thread-level parallelism in data compression applications",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Shengyue Wang",
+            "id": "2167966818",
+            "org": "Department of Computer Science and Engineering, University of Minnesota, Minneapolis, MN#TAB#"
+        },
+        {
+            "name": "Antonia Zhai",
+            "id": "2164844525",
+            "org": "Department of Computer Science and Engineering, University of Minnesota, Minneapolis, MN#TAB#"
+        },
+        {
+            "name": "Pen Chung Yew",
+            "id": "2156592825",
+            "org": "Department of Computer Science and Engineering, University of Minnesota, Minneapolis, MN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Data compression",
+        "Parallel computing",
+        "Computer science",
+        "Compiler",
+        "Speculative multithreading",
+        "Task parallelism",
+        "Optimizing compiler",
+        "Performance improvement",
+        "Real-time computing",
+        "Loop optimization"
+    ],
+    "references": [
+        "121029738",
+        "1494930385",
+        "1513299783",
+        "1593436246",
+        "1869745331",
+        "1899405913",
+        "1971965803",
+        "1974831646",
+        "1980999196",
+        "1992122785",
+        "2002549773",
+        "2009264559",
+        "2010220656",
+        "2024547254",
+        "2052285774",
+        "2095703459",
+        "2100184706",
+        "2103224933",
+        "2106018697",
+        "2107745473",
+        "2109502721",
+        "2122545654",
+        "2125340270",
+        "2127642645",
+        "2134633067",
+        "2135470015",
+        "2136798749",
+        "2148390433",
+        "2148954445",
+        "2155410188",
+        "2164393230",
+        "2165856991",
+        "2170659171",
+        "2296006986",
+        "2537115708"
+    ]
+}

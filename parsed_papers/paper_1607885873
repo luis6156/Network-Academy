@@ -1,0 +1,70 @@
+{
+    "id": "1607885873",
+    "title": "A riemannian approach to diffusion tensor images segmentation",
+    "venue": "information processing in medical imaging",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Christophe Lenglet",
+            "id": "164402802",
+            "org": "I.N.R.I.A, Sophia-Antipolis, France#TAB#"
+        },
+        {
+            "name": "Mikael Rousson",
+            "id": "2662634885",
+            "org": "Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Rachid Deriche",
+            "id": "2257569313",
+            "org": "I.N.R.I.A, Sophia-Antipolis, France#TAB#"
+        },
+        {
+            "name": "Olivier D. Faugeras",
+            "id": "2424167939",
+            "org": "I.N.R.I.A, Sophia-Antipolis, France#TAB#"
+        },
+        {
+            "name": "Stephane Lehericy",
+            "id": "308587737",
+            "org": "CMRR, University of Minnesota, Minneapolis, MN#TAB#"
+        },
+        {
+            "name": "Kamil Ugurbil",
+            "id": "1996768038",
+            "org": "CMRR, University of Minnesota, Minneapolis, MN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Mathematics",
+        "Geodesic",
+        "Active contour model",
+        "White matter",
+        "Mathematical analysis",
+        "Diffusion MRI",
+        "Fisher information",
+        "Multivariate normal distribution",
+        "Level set",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1501540518",
+        "1505655219",
+        "1514073404",
+        "1558431342",
+        "1796159577",
+        "1947363732",
+        "1983496390",
+        "2032236594",
+        "2044348280",
+        "2086465792",
+        "2092122022",
+        "2098152234",
+        "2104095591",
+        "2107018568",
+        "2112473379",
+        "2116040950",
+        "2134820502"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "1518949160",
+    "title": "Secure applications of Pedersen's distributed key generation protocol",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "IBM T. J. Watson Research#TAB#"
+        },
+        {
+            "name": "Stanislaw Jarecki",
+            "id": "1760644356",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2025616804",
+            "org": "IBM T. J. Watson Research#TAB#"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "IBM T. J. Watson Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Concrete security",
+        "Computer science",
+        "Distributed computing",
+        "Distributed key generation",
+        "Server",
+        "Secrecy",
+        "Random oracle",
+        "Public-key cryptography",
+        "Smart card"
+    ],
+    "references": [
+        "74339396",
+        "117128915",
+        "174706587",
+        "1490122142",
+        "1493614564",
+        "1498063506",
+        "1499934958",
+        "1523616062",
+        "1523871498",
+        "1546996295",
+        "1558116972",
+        "1572695506",
+        "1589034595",
+        "1595522037",
+        "1599603597",
+        "1646354800",
+        "1730634423",
+        "1743634691",
+        "1885156594",
+        "1960990047",
+        "1983762057",
+        "1996360405",
+        "2011550196",
+        "2011793105",
+        "2019616576",
+        "2036133214",
+        "2052267638",
+        "2077315235",
+        "2095708839",
+        "2097517365",
+        "2112138431",
+        "2113929724",
+        "2123544182",
+        "2124926080",
+        "2136451687",
+        "2137848579",
+        "2138784757",
+        "2141420453",
+        "2149644620",
+        "2151413173",
+        "2153193245",
+        "2157604883",
+        "2162653919",
+        "2166462813",
+        "2168970529",
+        "2286477783",
+        "2605928589"
+    ]
+}

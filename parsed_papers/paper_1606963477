@@ -1,0 +1,45 @@
+{
+    "id": "1606963477",
+    "title": "Image decomposition application to SAR images",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jean-Francois Aujol",
+            "id": "1208862163",
+            "org": "Laboratoire J.A. Dieudonne, UMR, CNRS, Universite de Nice Sophia-Antipolis, Parc Valrose, Nice Cedex 2, France and ARIANA, projet commun INRIA, UNSA, CNRS, INRIA Sophia Antipolis, Sophia ...#TAB#"
+        },
+        {
+            "name": "Gilles Aubert",
+            "id": "2299711617",
+            "org": "Laboratoire J.A. Dieudonne, UMR, CNRS, Universite de Nice Sophia-Antipolis, Parc Valrose, Nice Cedex 2, France#TAB#"
+        },
+        {
+            "name": "Laure Blanc-Feraud",
+            "id": "2038704327",
+            "org": "ARIANA, projet commun INRIA, UNSA, CNRS, INRIA Sophia Antipolis, Sophia Antipolis, Cedex, France#TAB#"
+        },
+        {
+            "name": "Antonin Chambolle",
+            "id": "106971332",
+            "org": "CEREMADE, CNRS, UMR, Universite Paris IX - Dauphine, Paris Cedex 16, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical analysis",
+        "Mathematics",
+        "Bounded variation",
+        "Image restoration",
+        "Discrete mathematics",
+        "Convex function",
+        "Synthetic aperture radar",
+        "Dykstra's projection algorithm",
+        "Regular polygon"
+    ],
+    "references": [
+        "1488881187",
+        "1537519384",
+        "2066630786",
+        "2144275666"
+    ]
+}

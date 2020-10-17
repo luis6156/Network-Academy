@@ -1,0 +1,52 @@
+{
+    "id": "1546466630",
+    "title": "Exploiting temporal correlation in temporal data warehouses",
+    "venue": "database systems for advanced applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ying Feng",
+            "id": "2163608294",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Hua-Gang Li",
+            "id": "2142861648",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Divyakant Agrawal",
+            "id": "2169544959",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Amr El Abbadi",
+            "id": "2120785847",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Binary tree",
+        "Computer science",
+        "Data mining",
+        "Data cube",
+        "Temporal database",
+        "MOLAP",
+        "Data retrieval",
+        "Data warehouse",
+        "Biconnected component"
+    ],
+    "references": [
+        "144943406",
+        "1577196345",
+        "1631295847",
+        "1875849630",
+        "2025164275",
+        "2044240774",
+        "2050000254",
+        "2071425575",
+        "2100758984",
+        "2151135734"
+    ]
+}

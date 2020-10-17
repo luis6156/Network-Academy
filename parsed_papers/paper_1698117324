@@ -1,0 +1,90 @@
+{
+    "id": "1698117324",
+    "title": "Making Byzantine fault tolerant systems tolerate Byzantine faults",
+    "venue": "networked systems design and implementation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Allen Clement",
+            "id": "2121586883",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Edmund L. Wong",
+            "id": "2096509916",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Lorenzo Alvisi",
+            "id": "2292936287",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Michael Dahlin",
+            "id": "2051666199",
+            "org": "The University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Mirco Marchetti",
+            "id": "2142750636",
+            "org": "The University of Modena and Reggio Emilia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rendering (computer graphics)",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Zyzzyva",
+        "State machine replication",
+        "Byzantine fault tolerance",
+        "Quantum Byzantine agreement",
+        "Real-time computing",
+        "Finite-state machine",
+        "Fault tolerance"
+    ],
+    "references": [
+        "106940177",
+        "1508545791",
+        "1531271459",
+        "1965159636",
+        "1970705443",
+        "1973501242",
+        "2012882936",
+        "2035362408",
+        "2053903896",
+        "2062073399",
+        "2075854425",
+        "2081357650",
+        "2087314535",
+        "2097829252",
+        "2098142608",
+        "2098881120",
+        "2099323800",
+        "2100043398",
+        "2101939036",
+        "2102226439",
+        "2103397552",
+        "2104942083",
+        "2112161048",
+        "2114579022",
+        "2119045813",
+        "2120510885",
+        "2122142939",
+        "2125015355",
+        "2126087831",
+        "2126789306",
+        "2129467152",
+        "2137101062",
+        "2139359217",
+        "2145278925",
+        "2146497967",
+        "2147081775",
+        "2147524598",
+        "2152465173",
+        "2156136808",
+        "2157736543",
+        "2170809188",
+        "2295705535"
+    ]
+}

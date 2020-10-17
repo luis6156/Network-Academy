@@ -1,0 +1,35 @@
+{
+    "id": "1583217291",
+    "title": "Elliptic Curve Point Multiplication Using Halving.",
+    "venue": "Encyclopedia of Cryptography and Security (2nd Ed.)",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Darrel Hankerson",
+            "id": "2790435809",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Alfred Menezes",
+            "id": "2165548239",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperelliptic curve cryptography",
+        "Mathematics",
+        "Lenstra elliptic curve factorization",
+        "Twists of curves",
+        "Mathematical analysis",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Jacobian curve",
+        "Modular elliptic curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1808634574",
+        "2115190247",
+        "2121371977"
+    ]
+}

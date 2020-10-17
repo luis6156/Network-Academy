@@ -1,0 +1,63 @@
+{
+    "id": "1608494430",
+    "title": "WCET nested-loop minimization in terms of instruction-level-parallelism",
+    "venue": "international conference on high performance computing and simulation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yaroub Elloumi",
+            "id": "2797918431",
+            "org": "Universite Paris-Est, ESIEE Paris, Laboratoire d'Informatique Gaspard Monge, Equipe A3SI, 93162 Noisy-le-Grand, France"
+        },
+        {
+            "name": "Mohamed Akil",
+            "id": "2297945666",
+            "org": "Universite Paris-Est, ESIEE Paris, Laboratoire d'Informatique Gaspard Monge, Equipe A3SI, 93162 Noisy-le-Grand, France"
+        },
+        {
+            "name": "Mohamed Hedi Bedoui",
+            "id": "1989875377",
+            "org": "University of Monastir, Faculty of Medicine of Monastir, Laboratory of Medical Technology and Image Processing, 5019, Tunisia"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Retiming",
+        "Word error rate",
+        "Worst-case execution time",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Computer science",
+        "Implementation",
+        "Heuristic",
+        "Design space exploration",
+        "Real-time computing"
+    ],
+    "references": [
+        "45488564",
+        "188125679",
+        "334110731",
+        "1521766639",
+        "1598202309",
+        "1966135232",
+        "1980336221",
+        "1987142766",
+        "2019363561",
+        "2020003990",
+        "2035887433",
+        "2053138232",
+        "2057274638",
+        "2065922404",
+        "2080027614",
+        "2085309342",
+        "2086393106",
+        "2097940635",
+        "2102817181",
+        "2117708402",
+        "2128249697",
+        "2133860611",
+        "2148605268",
+        "2149504019",
+        "2164840573"
+    ]
+}

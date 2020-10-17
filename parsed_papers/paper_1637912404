@@ -1,0 +1,66 @@
+{
+    "id": "1637912404",
+    "title": "CRAXfuzz: Target-Aware Symbolic Fuzz Testing",
+    "venue": "computer software and applications conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Chao-Chun Yeh",
+            "id": "2646412450",
+            "org": "Comput. Intell. Technol. Center, Ind. Technol. Res. Inst., Hsinchu, Taiwan"
+        },
+        {
+            "name": "Hsiang Chung",
+            "id": "2229988997",
+            "org": "Dept. of Comput. Sci., Nat. Chiao Tung Univ., Hsinchu, Taiwan"
+        },
+        {
+            "name": "Shih-Kun Huang",
+            "id": "2167984761",
+            "org": "Inf. Technol. Service Center, Nat. Chiao Tung Univ., Hsinchu, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Software engineering",
+        "Concolic testing",
+        "Security bug",
+        "Regression testing",
+        "Memory safety",
+        "Fuzz testing",
+        "Computer science",
+        "Software security assurance",
+        "Software bug",
+        "Operating system",
+        "Secure coding",
+        "Real-time computing"
+    ],
+    "references": [
+        "127238549",
+        "157156687",
+        "174339829",
+        "1480909796",
+        "1496222301",
+        "1506510492",
+        "1522250664",
+        "1697123834",
+        "1710734607",
+        "1976878954",
+        "1979820341",
+        "2002934700",
+        "2004071059",
+        "2101512909",
+        "2102970979",
+        "2119251836",
+        "2128128820",
+        "2129487583",
+        "2137530017",
+        "2138788987",
+        "2150990339",
+        "2153185479",
+        "2158248180",
+        "2165015106",
+        "2169063148",
+        "2171469152",
+        "2296669295"
+    ]
+}

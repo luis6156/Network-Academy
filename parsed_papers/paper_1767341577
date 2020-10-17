@@ -1,0 +1,51 @@
+{
+    "id": "1767341577",
+    "title": "The application of extended geodesic distance in head poses estimation",
+    "venue": "international conference on biometrics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Bingpeng Ma",
+            "id": "2098120319",
+            "org": "Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Fei Yang",
+            "id": "2642953364",
+            "org": "Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wen Gao",
+            "id": "2121069363",
+            "org": "Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Baochang Zhang",
+            "id": "2131598680",
+            "org": "Department of Computer Science and Engineering, Harbin Institute of Technology, Harbin, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pose",
+        "Isomap",
+        "Mathematics",
+        "Computer vision",
+        "Geodesic",
+        "Pattern recognition",
+        "Monocular vision",
+        "k-nearest neighbors algorithm",
+        "Linear discriminant analysis",
+        "Support vector machine",
+        "const",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1628172068",
+        "2033419168",
+        "2119821739",
+        "2121647436",
+        "2153635508",
+        "2156718197"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1551340092",
+    "title": "G-Log: A declarative graphical query language",
+    "venue": "international conference on deductive and object-oriented databases",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jan Paredaens",
+            "id": "1999579305",
+            "org": "Universitaire Instelling Antwerpen"
+        },
+        {
+            "name": "Peter Peelman",
+            "id": "2036874845",
+            "org": "Universitaire Instelling Antwerpen"
+        },
+        {
+            "name": "Letizia Tanca",
+            "id": "719372124",
+            "org": "Dipartimento di Elettronica, Politecnico di Milano, Milano, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Fifth-generation programming language",
+        "Data control language",
+        "Computer science",
+        "Datalog",
+        "Query language",
+        "RDF query language",
+        "Query by Example",
+        "Sargable",
+        "Query optimization",
+        "Programming language"
+    ],
+    "references": [
+        "96165561",
+        "1997520998",
+        "2039697886",
+        "2052713897",
+        "2147110361"
+    ]
+}

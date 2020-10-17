@@ -1,0 +1,53 @@
+{
+    "id": "1492387927",
+    "title": "Comparison of program task scheduling algorithms for dynamic SMP clusters with communication on the fly",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Lukasz Masko",
+            "id": "1544393395",
+            "org": "Institute of Computer Science, Polish Academy of Sciences, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Marek Tudruj",
+            "id": "1994280593",
+            "org": "Institute of Computer Science, Polish Academy of Sciences, Warsaw, Poland and Polish-Japanese Institute of Information Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Gregory Mounie",
+            "id": "1965669184",
+            "org": "Laboratoire Informatique et Distribution, IMAG, Martin, France#TAB#"
+        },
+        {
+            "name": "Denis Trystram",
+            "id": "1997557714",
+            "org": "Laboratoire Informatique et Distribution, IMAG, Martin, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Cluster analysis",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1484793441",
+        "1501066815",
+        "1544841150",
+        "1550257385",
+        "1916275345",
+        "1975231449",
+        "2065689629",
+        "2109983057",
+        "2132413356",
+        "2160642395"
+    ]
+}

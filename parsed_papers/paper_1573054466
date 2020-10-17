@@ -1,0 +1,37 @@
+{
+    "id": "1573054466",
+    "title": "Some Security Aspects of the M IST Randomized Exponentiation Algorithm",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Colin D. Walter",
+            "id": "2170406325",
+            "org": "Comodo Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Blinding",
+        "Side channel attack",
+        "Operand",
+        "Exponentiation",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Power analysis",
+        "Public-key cryptography",
+        "Modular exponentiation",
+        "Addition chain"
+    ],
+    "references": [
+        "1511843316",
+        "1522337283",
+        "1591503962",
+        "1613874182",
+        "1664808737",
+        "1724890242",
+        "2105374413",
+        "2154909745",
+        "2566181608"
+    ]
+}

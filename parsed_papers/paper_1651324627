@@ -1,0 +1,66 @@
+{
+    "id": "1651324627",
+    "title": "Gdev: first-class GPU resource management in the operating system",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Shinpei Kato",
+            "id": "2892613396",
+            "org": "Department of Computer Science, UC Santa Cruz#TAB#"
+        },
+        {
+            "name": "Michael McThrow",
+            "id": "209142840",
+            "org": "Department of Computer Science, UC Santa Cruz#TAB#"
+        },
+        {
+            "name": "Carlos Maltzahn",
+            "id": "2065892297",
+            "org": "Department of Computer Science, UC Santa Cruz#TAB#"
+        },
+        {
+            "name": "Scott A. Brandt",
+            "id": "2581968944",
+            "org": "Department of Computer Science, UC Santa Cruz#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Resource management",
+        "Computer architecture",
+        "Computer science",
+        "Scheduling (computing)",
+        "Virtual memory",
+        "Dataflow",
+        "CUDA",
+        "Operating system",
+        "File system",
+        "User space"
+    ],
+    "references": [
+        "115476871",
+        "137206813",
+        "186989516",
+        "1594675213",
+        "1601194729",
+        "1713367009",
+        "2022036382",
+        "2032039029",
+        "2080592089",
+        "2103838950",
+        "2111338347",
+        "2111734949",
+        "2124365587",
+        "2128046183",
+        "2131726714",
+        "2133400870",
+        "2134562154",
+        "2134765105",
+        "2143303748",
+        "2150984360",
+        "2151224499",
+        "2153375074"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "1735165166",
+    "title": "vIOMMU: efficient IOMMU emulation",
+    "venue": "usenix annual technical conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Nadav Amit",
+            "id": "2103239820",
+            "org": "Technion & IBM Research#TAB#"
+        },
+        {
+            "name": "Muli Ben-Yehuda",
+            "id": "2015078445",
+            "org": "Technion & IBM Research#TAB#"
+        },
+        {
+            "name": "Dan Tsafrir",
+            "id": "332355769",
+            "org": "Technion#TAB#"
+        },
+        {
+            "name": "Assaf Schuster",
+            "id": "2135728993",
+            "org": "Technion#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Direct device",
+        "Computer science",
+        "Emulation",
+        "Embedded system",
+        "Operating system",
+        "Virtual machine",
+        "Memory overcommitment"
+    ],
+    "references": [
+        "41776504",
+        "47135029",
+        "1522250664",
+        "1638046175",
+        "1772960743",
+        "1829813581",
+        "1893312510",
+        "1971739358",
+        "1989821390",
+        "2012752667",
+        "2013592197",
+        "2029224396",
+        "2070787258",
+        "2079090355",
+        "2090076638",
+        "2096165352",
+        "2098656140",
+        "2112177563",
+        "2117648703",
+        "2117898742",
+        "2120753531",
+        "2121542813",
+        "2131195907",
+        "2131726714",
+        "2143642500",
+        "2146980908",
+        "2147743629",
+        "2152132676",
+        "2152921908",
+        "2153950928",
+        "2160895517",
+        "2163260628",
+        "2168075869",
+        "2170761533",
+        "2529830360"
+    ]
+}

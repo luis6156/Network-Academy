@@ -1,0 +1,59 @@
+{
+    "id": "1543144164",
+    "title": "An Optimistic Approach to Lock-Free FIFO Queues",
+    "venue": "international symposium on distributed computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Edya Ladan-Mozes",
+            "id": "247357790",
+            "org": "Tel-Aviv University"
+        },
+        {
+            "name": "Nir Shavit",
+            "id": "2071581749",
+            "org": "Sun Microsystems Laboratories and Tel-Aviv University"
+        }
+    ],
+    "fields_of_study": [
+        "FIFO and LIFO accounting",
+        "Parallel computing",
+        "FIFO (computing and electronics)",
+        "Computer science",
+        "Distributed computing",
+        "Queue",
+        "Double-ended queue",
+        "Concurrency",
+        "Non-blocking algorithm",
+        "Queue management system",
+        "Concurrent data structure",
+        "Real-time computing"
+    ],
+    "references": [
+        "301824129",
+        "1517974381",
+        "1537629903",
+        "1966054908",
+        "1980247023",
+        "1981393723",
+        "1993301893",
+        "1993805917",
+        "2001738739",
+        "2013021588",
+        "2047434043",
+        "2056366613",
+        "2062678317",
+        "2065052953",
+        "2085407655",
+        "2086070079",
+        "2088660775",
+        "2099661831",
+        "2100357382",
+        "2101939036",
+        "2107834524",
+        "2127976210",
+        "2138404963",
+        "2146287723",
+        "2167282885"
+    ]
+}

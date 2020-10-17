@@ -1,0 +1,53 @@
+{
+    "id": "1571368810",
+    "title": "Tackling cache-line stealing effects using run-time adaptation",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Stephane Zuckerman",
+            "id": "2140067437",
+            "org": "University of Versailles Saint-Quentin-en-Yvelines, France#TAB#"
+        },
+        {
+            "name": "William Jalby",
+            "id": "2064556522",
+            "org": "University of Versailles Saint-Quentin-en-Yvelines, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Multi-core processor",
+        "Ranging",
+        "Computer science",
+        "Distributed computing",
+        "False sharing",
+        "CPU cache"
+    ],
+    "references": [
+        "1571028795",
+        "1594609869",
+        "1598062406",
+        "1623282124",
+        "1664353409",
+        "1863936690",
+        "1907467551",
+        "1972104390",
+        "1983096721",
+        "1990832096",
+        "1992122785",
+        "2043613230",
+        "2049890071",
+        "2074228071",
+        "2092763781",
+        "2094439101",
+        "2109915751",
+        "2125212667",
+        "2128317922",
+        "2129305676",
+        "2155751237",
+        "2166360868",
+        "2173730676",
+        "2767643870"
+    ]
+}

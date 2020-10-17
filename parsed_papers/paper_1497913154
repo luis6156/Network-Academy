@@ -1,0 +1,35 @@
+{
+    "id": "1497913154",
+    "title": "Parallel Iterative Solvers for Unstructured Grids Using an OpenMP/MPI Hybrid Programming Model for the GeoFEM Platform on SMP Cluster Architectures",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kengo Nakajima",
+            "id": "2303078039",
+            "org": "Research Organization for Information Science and Technology (RIST), Tokyo, Japan 153-0061#TAB#"
+        },
+        {
+            "name": "Hiroshi Okuda",
+            "id": "2103940504",
+            "org": "Department of Quantum Engineering and System Sciences, The University of Tokyo, Tokyo, Japan 113-8656#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Vectorization (mathematics)",
+        "Computer science",
+        "Distributed computing",
+        "Parallel programming model",
+        "Unstructured grid",
+        "Message Passing Interface",
+        "Message passing",
+        "Domain decomposition methods",
+        "Programming paradigm",
+        "Iterative method"
+    ],
+    "references": [
+        "1506342804",
+        "1537753733"
+    ]
+}

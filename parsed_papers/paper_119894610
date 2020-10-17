@@ -1,0 +1,39 @@
+{
+    "id": "119894610",
+    "title": "WSF: An HTTP-Level Firewall for Hardening Web Servers.",
+    "venue": "parallel and distributed computing systems (isca)",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xin Zhao",
+            "id": "2557945013",
+            "org": "EECS Department|University of Michigan"
+        },
+        {
+            "name": "Atul Prakash",
+            "id": "2222476460",
+            "org": "EECS Department|University of Michigan"
+        }
+    ],
+    "fields_of_study": [
+        "Same-origin policy",
+        "Web page",
+        "Computer science",
+        "Distributed computing",
+        "Application firewall",
+        "Web application security",
+        "Web service",
+        "Web server",
+        "WS-Policy",
+        "Web API"
+    ],
+    "references": [
+        "1519687682",
+        "1674877186",
+        "2006591097",
+        "2040234252",
+        "2103378897",
+        "2117668559",
+        "2126107976"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1540614346",
+    "title": "Specification and properties of a cache coherence protocol model",
+    "venue": "applications and theory of petri nets",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Claude Girault",
+            "id": "2709774150",
+            "org": "Universite Paris VI - C.N.R.S. (M.A.S.I. and PRC - C3/Algorithmes repartis)"
+        },
+        {
+            "name": "C. Chatelain",
+            "id": "2668804805",
+            "org": "Universite Paris VI - C.N.R.S. (M.A.S.I. and PRC - C3/Algorithmes repartis)"
+        },
+        {
+            "name": "Serge Haddad",
+            "id": "2281859912",
+            "org": "Universite Paris VI - C.N.R.S. (M.A.S.I. and PRC - C3/Algorithmes repartis)"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Cache coloring",
+        "Distributed computing",
+        "Snoopy cache",
+        "Computer science",
+        "MESI protocol",
+        "MSI protocol",
+        "Bus sniffing",
+        "MESIF protocol",
+        "Write-once",
+        "Cache invalidation"
+    ],
+    "references": [
+        "1522789239",
+        "1553088758",
+        "1573192249",
+        "1769402780",
+        "1982326628",
+        "2005607093",
+        "2017179936",
+        "2021817036",
+        "2092495200",
+        "2106626405",
+        "2173730676",
+        "2175765553",
+        "2176296250",
+        "2294693415"
+    ]
+}

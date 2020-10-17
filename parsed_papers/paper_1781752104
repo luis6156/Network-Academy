@@ -1,0 +1,71 @@
+{
+    "id": "1781752104",
+    "title": "Comparing BDD and SAT Based Techniques for Model Checking Chaum's Dining Cryptographers Protocol",
+    "venue": "Fundamenta Informaticae",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Magdalena Kacprzak",
+            "id": "1973176880",
+            "org": "Bialystok University of Technology, PL. E-mail: mdkacprzak@wp.pl#TAB#"
+        },
+        {
+            "name": "Alessio Lomuscio",
+            "id": "235047922",
+            "org": "University College London, UK. E-mail: a.lomuscio@cs.ucl.ac.uk#TAB#"
+        },
+        {
+            "name": "Artur Niewiadomski",
+            "id": "2035357674",
+            "org": "Podlasie Academy, PL. E-mail: artur@iis.ap.siedlce.pl#TAB#"
+        },
+        {
+            "name": "Wojciech Penczek",
+            "id": "2030422577",
+            "org": "Institute of Computer Science, PAS, and Podlasie Academy, PL. E-mail: penczek@ipipan.waw.pl#TAB#"
+        },
+        {
+            "name": "Franco Raimondi",
+            "id": "2152352937",
+            "org": "University College London, UK. E-mail: a.lomuscio@cs.ucl.ac.uk#TAB#"
+        },
+        {
+            "name": "Maciej Szreter",
+            "id": "688920087",
+            "org": "Institute of Computer Science, PAS, PL. E-mail: mszreter@ipipan.waw.pl#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean satisfiability problem",
+        "Theoretical computer science",
+        "Algorithm",
+        "Cryptographic protocol",
+        "Computer science",
+        "Binary decision diagram",
+        "Bounded function",
+        "Dining cryptographers problem",
+        "Model checking",
+        "Influence diagram"
+    ],
+    "references": [
+        "1511042226",
+        "1513300473",
+        "1553268179",
+        "1568323880",
+        "1573791484",
+        "1679534293",
+        "1882581446",
+        "1984691540",
+        "2024664992",
+        "2048355938",
+        "2080267935",
+        "2087811006",
+        "2110930028",
+        "2131176046",
+        "2132364217",
+        "2140306434",
+        "2146819619",
+        "2171480813",
+        "2340735175"
+    ]
+}

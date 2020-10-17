@@ -1,0 +1,55 @@
+{
+    "id": "1547537489",
+    "title": "Hash Functions Based on Block Ciphers: A Synthetic Approach",
+    "venue": "international cryptology conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Rene Govaerts",
+            "id": "2037293133",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Computer science",
+        "Residual block termination",
+        "Differential cryptanalysis",
+        "CBC-MAC",
+        "Hash function",
+        "Arithmetic",
+        "MDC-2"
+    ],
+    "references": [
+        "1493566387",
+        "1493969756",
+        "1522255819",
+        "1541421768",
+        "1549228503",
+        "1581114570",
+        "1600432225",
+        "1629301835",
+        "1987960290",
+        "2007585625",
+        "2033778422",
+        "2098801947",
+        "2134518741",
+        "2166457424",
+        "2168631744",
+        "2208910531"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1602325706",
+    "title": "An efficient approach to assessing the risk of zero-day vulnerabilities",
+    "venue": "international conference on security and cryptography",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Massimiliano Albanese",
+            "id": "2127171854",
+            "org": "Center for Secure Information Systems, George Mason University, 4400 University Dr, Fairfax, VA 22030, U.S.A."
+        },
+        {
+            "name": "Sushil Jajodia",
+            "id": "2056441798",
+            "org": "Center for Secure Information Systems, George Mason University, 4400 University Dr, Fairfax, VA 22030, U.S.A."
+        },
+        {
+            "name": "Anoop Singhal",
+            "id": "2103588732",
+            "org": "Computer Security Division, NIST, 100 Bureau Dr, Gaithersburg, MD 20899, U.S.A."
+        },
+        {
+            "name": "Lingyu Wang",
+            "id": "2145243395",
+            "org": "Concordia Institute for Information Systems Engineering, Concordia University, 1515 Sainte-Catherine St W, Montreal, QC H3G 2W1, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Algorithm design",
+        "Computer science",
+        "Vulnerability assessment",
+        "Computer security",
+        "Graph",
+        "Zero-day attack",
+        "Attack patterns",
+        "Hardening (computing)",
+        "Polynomial"
+    ],
+    "references": [
+        "63046450",
+        "82848659",
+        "1489574895",
+        "1508191694",
+        "1965332127",
+        "1970818505",
+        "2009470162",
+        "2052645878",
+        "2054127354",
+        "2077937403",
+        "2083658929",
+        "2121805588",
+        "2159173139",
+        "2168234580",
+        "2496041542"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "1501004864",
+    "title": "Revocation for delegatable anonymous credentials",
+    "venue": "public key cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Tolga Acar",
+            "id": "2154224518",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Lan Nguyen",
+            "id": "2646817045",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Homomorphic encryption",
+        "Oblivious transfer",
+        "Theoretical computer science",
+        "Delegate",
+        "Computer science",
+        "Mathematical proof",
+        "Verifiable secret sharing",
+        "Revocation",
+        "Direct Anonymous Attestation",
+        "Provable security"
+    ],
+    "references": [
+        "17209717",
+        "1482442749",
+        "1487683390",
+        "1488970238",
+        "1502328873",
+        "1521253015",
+        "1522597308",
+        "1528195422",
+        "1549397354",
+        "1562394980",
+        "1581111219",
+        "1589205472",
+        "1594668186",
+        "1607188293",
+        "1802540854",
+        "1888254701",
+        "1931152882",
+        "1970187925",
+        "1978183200",
+        "2031533839",
+        "2033820870",
+        "2052267638",
+        "2100278608",
+        "2120265856",
+        "2120506990",
+        "2130093830",
+        "2141395382",
+        "2144370861",
+        "2145801920",
+        "2150399720",
+        "2158706160",
+        "2159589756",
+        "2161140461",
+        "2177105478",
+        "2201681885",
+        "2607627035",
+        "2793618823"
+    ]
+}

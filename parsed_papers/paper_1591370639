@@ -1,0 +1,78 @@
+{
+    "id": "1591370639",
+    "title": "ValueGuard: protection of native applications against data-only buffer overflows",
+    "venue": "international conference on information systems security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Steven Van Acker",
+            "id": "2038516990",
+            "org": "IBBT-Distrinet, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Nick Nikiforakis",
+            "id": "2223183145",
+            "org": "IBBT-Distrinet, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Pieter Philippaerts",
+            "id": "220035981",
+            "org": "IBBT-Distrinet, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Yves Younan",
+            "id": "707981970",
+            "org": "IBBT-Distrinet, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Frank Piessens",
+            "id": "233250515",
+            "org": "IBBT-Distrinet, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow",
+        "Countermeasure",
+        "Code injection",
+        "Distributed computing",
+        "Computer science",
+        "Computer security",
+        "Software deployment",
+        "Buffer overflow",
+        "Exploit",
+        "Data structure",
+        "Real-time computing",
+        "Boolean data type"
+    ],
+    "references": [
+        "1112477",
+        "1499992849",
+        "1545927878",
+        "1575709006",
+        "1591737503",
+        "1593678010",
+        "1596549943",
+        "1655226010",
+        "1825457006",
+        "1943511174",
+        "1973326708",
+        "1982778414",
+        "2031006315",
+        "2043647957",
+        "2083477206",
+        "2090181646",
+        "2101699859",
+        "2107089133",
+        "2108860402",
+        "2109219878",
+        "2112022457",
+        "2121579803",
+        "2128637495",
+        "2136651729",
+        "2138049695",
+        "2147683775",
+        "2162986442",
+        "2171264329",
+        "2171938395"
+    ]
+}

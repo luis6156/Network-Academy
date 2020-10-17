@@ -1,0 +1,41 @@
+{
+    "id": "1520339130",
+    "title": "User-Level Checkpointing for LinuxThreads Programs",
+    "venue": "usenix annual technical conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "William R. Dieter",
+            "id": "1682326898",
+            "org": "Department of Electrical and Computer Engineering|University of Kentucky"
+        },
+        {
+            "name": "James E. Lumpp",
+            "id": "2149886693",
+            "org": "Department of Electrical and Computer Engineering|University of Kentucky"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Address space",
+        "Computation",
+        "Computer science",
+        "Multiprocessing",
+        "LinuxThreads",
+        "POSIX",
+        "Real-time computing",
+        "File size"
+    ],
+    "references": [
+        "511601",
+        "1537929875",
+        "1911403303",
+        "2004885674",
+        "2039230357",
+        "2100418159",
+        "2100970777",
+        "2145021036",
+        "2293400840"
+    ]
+}

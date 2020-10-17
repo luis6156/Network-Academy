@@ -1,0 +1,78 @@
+{
+    "id": "1668474173",
+    "title": "Probabilistic nearest neighbor query processing on distributed uncertain data",
+    "venue": "Distributed and Parallel Databases",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Daichi Amagata",
+            "id": "2017914699",
+            "org": "Department of Multimedia Engineering Graduate School of Information Science and Technology Osaka University, Suita, Japan 565-0871#TAB#"
+        },
+        {
+            "name": "Yuya Sasaki",
+            "id": "2125157600",
+            "org": "Department of Systems and Social Informatics, Graduate School of Information Science Nagoya University, Nagoya, Japan 464-8601#TAB#"
+        },
+        {
+            "name": "Takahiro Hara",
+            "id": "2510005209",
+            "org": "Department of Multimedia Engineering Graduate School of Information Science and Technology Osaka University, Suita, Japan 565-0871#TAB#"
+        },
+        {
+            "name": "Shojiro Nishio",
+            "id": "2111068731",
+            "org": "Department of Multimedia Engineering Graduate School of Information Science and Technology Osaka University, Suita, Japan 565-0871#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Synthetic data",
+        "Computer science",
+        "Distributed computing",
+        "Uncertain data",
+        "k-nearest neighbors algorithm",
+        "Probabilistic database",
+        "Query language",
+        "Spatial query",
+        "Probabilistic logic"
+    ],
+    "references": [
+        "1491547607",
+        "1979149757",
+        "1980955479",
+        "1987738849",
+        "1993561597",
+        "1997919781",
+        "2013885128",
+        "2016587224",
+        "2017682168",
+        "2022501110",
+        "2024921361",
+        "2027675779",
+        "2041763948",
+        "2052251701",
+        "2054682736",
+        "2055458930",
+        "2060700520",
+        "2078686663",
+        "2093584660",
+        "2099739160",
+        "2103139113",
+        "2103895255",
+        "2114258210",
+        "2119493805",
+        "2120342618",
+        "2127947301",
+        "2129035130",
+        "2133246278",
+        "2138271690",
+        "2138414767",
+        "2140237757",
+        "2143485006",
+        "2153404040",
+        "2167956717",
+        "2168790351",
+        "2170188482"
+    ]
+}

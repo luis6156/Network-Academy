@@ -1,0 +1,51 @@
+{
+    "id": "1562612017",
+    "title": "Evaluating the Coordination Overhead of Replica Maintenance in a Cluster of Databases",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Klemens Bohm",
+            "id": "2245547659",
+            "org": "ETH Zentrum"
+        },
+        {
+            "name": "Torsten Grabs",
+            "id": "2570517193",
+            "org": "ETH Zentrum"
+        },
+        {
+            "name": "Uwe Rohm",
+            "id": "2140136442",
+            "org": "ETH Zentrum"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "ETH Zentrum"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Replica",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Database",
+        "Middleware",
+        "SQL",
+        "Embedded SQL",
+        "Database transaction"
+    ],
+    "references": [
+        "1515932031",
+        "1550128192",
+        "1595234309",
+        "1606352287",
+        "2080653282",
+        "2091148563",
+        "2111586962",
+        "2169227676"
+    ]
+}

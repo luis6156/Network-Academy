@@ -1,0 +1,61 @@
+{
+    "id": "1496766708",
+    "title": "Cache timing analysis of RC4",
+    "venue": "applied cryptography and network security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Thomas Chardin",
+            "id": "2723108825",
+            "org": "DGA Engineering and Integration, 7 rue des Mathurins, Bagneux Cedex#TAB#"
+        },
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Departement d'informatique, Ecole normale superieure, Paris Cedex#TAB#"
+        },
+        {
+            "name": "Delphine Leresteux",
+            "id": "104310668",
+            "org": "DGA Information Superiority, BP7, Rennes Armees#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Cache algorithms",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Computer security",
+        "Stream cipher attack",
+        "AES implementations",
+        "Timing attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1488058190",
+        "1510584840",
+        "1521253015",
+        "1554359822",
+        "1556597491",
+        "1556992967",
+        "1564532940",
+        "1592773427",
+        "1592889082",
+        "1605172243",
+        "1740185811",
+        "1835780626",
+        "1850432139",
+        "1871494460",
+        "1994390420",
+        "2103289002",
+        "2123460950",
+        "2131202839",
+        "2133701468",
+        "2141499077",
+        "2147436724",
+        "2168767876",
+        "2786219742"
+    ]
+}

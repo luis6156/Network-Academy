@@ -1,0 +1,51 @@
+{
+    "id": "1492016609",
+    "title": "Mod n Cryptanalysis, with Applications Against RC5P and M6",
+    "venue": "fast software encryption",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Interpolation attack",
+        "Integral cryptanalysis",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1500356409",
+        "1542500920",
+        "1544157371",
+        "1553595359",
+        "1564295073",
+        "1583224622",
+        "1584582385",
+        "1862865750",
+        "1964723977",
+        "1978695162",
+        "2027588622",
+        "2057524374",
+        "2802560047"
+    ]
+}

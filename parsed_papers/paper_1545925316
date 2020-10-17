@@ -1,0 +1,37 @@
+{
+    "id": "1545925316",
+    "title": "Fast Block Cipher Proposal",
+    "venue": "fast software encryption",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2169098383",
+            "org": "RSA Laboratories"
+        },
+        {
+            "name": "Matthew J. B. Robshaw",
+            "id": "2297649051",
+            "org": "RSA Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext stealing",
+        "Parallel computing",
+        "Rail fence cipher",
+        "Transposition cipher",
+        "Computer science",
+        "Residual block termination",
+        "Two-square cipher",
+        "Triple DES",
+        "CBC-MAC",
+        "Polyalphabetic cipher"
+    ],
+    "references": [
+        "1964723977",
+        "1979802565",
+        "2018864705",
+        "2098801947",
+        "2172433705"
+    ]
+}

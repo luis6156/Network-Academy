@@ -1,0 +1,58 @@
+{
+    "id": "1563951935",
+    "title": "Preimage Attacks on 3-Pass HAVAL and Step-Reduced MD5",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "IAIK, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD2",
+        "HAVAL",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computer science",
+        "Preimage attack",
+        "Collision attack",
+        "Hash function",
+        "MD5",
+        "Collision"
+    ],
+    "references": [
+        "112271350",
+        "172560767",
+        "1241053677",
+        "1499593564",
+        "1503774814",
+        "1565084705",
+        "1587648112",
+        "1590269592",
+        "1736627613",
+        "1814882979",
+        "1851023053",
+        "1955677211",
+        "2025203646",
+        "2103239853",
+        "2109721530",
+        "2110407451",
+        "2121895731",
+        "2172433705",
+        "2394910287",
+        "2408744439",
+        "2611506938"
+    ]
+}

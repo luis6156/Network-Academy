@@ -1,0 +1,59 @@
+{
+    "id": "1498075363",
+    "title": "A new one-way isolation file-access method at the granularity of a disk-block",
+    "venue": "autonomic and trusted computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Wenyuan Kuang",
+            "id": "2121843192",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yaoxue Zhang",
+            "id": "2806649160",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Li Wei",
+            "id": "2149973591",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Nan Xia",
+            "id": "2229840896",
+            "org": "Institute of Computer Network Systems, Hefei University of Technology, Hefei City, Anhui Province, China#TAB#"
+        },
+        {
+            "name": "Guangbin Xu",
+            "id": "2162152215",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yuezhi Zhou",
+            "id": "2276742605",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unix file types",
+        "Computer science",
+        "Versioning file system",
+        "Data file",
+        "Database",
+        "Stub file",
+        "File system fragmentation",
+        "File Control Block",
+        "Computer file",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "161866744",
+        "182375779",
+        "1483775819",
+        "1531890698",
+        "2098881120",
+        "2115837944"
+    ]
+}

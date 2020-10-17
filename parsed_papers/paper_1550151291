@@ -1,0 +1,66 @@
+{
+    "id": "1550151291",
+    "title": "TidyFS: a simple and small distributed file system",
+    "venue": "usenix annual technical conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Dennis Fetterly",
+            "id": "1992570377",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        },
+        {
+            "name": "Maya Haridasan",
+            "id": "2476174502",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        },
+        {
+            "name": "Michael Isard",
+            "id": "2004792601",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        },
+        {
+            "name": "Swaminathan Sundararaman",
+            "id": "2647128834",
+            "org": "University of Wisconsin, Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Unix file types",
+        "Computer science",
+        "Distributed computing",
+        "Versioning file system",
+        "Fork (file system)",
+        "File Control Block",
+        "File system fragmentation",
+        "Stub file",
+        "Self-certifying File System",
+        "Torrent file",
+        "Real-time computing"
+    ],
+    "references": [
+        "1480850417",
+        "1493893823",
+        "1504624836",
+        "2001276096",
+        "2022678927",
+        "2023502337",
+        "2030433619",
+        "2043719859",
+        "2075854425",
+        "2098935637",
+        "2100830825",
+        "2115457697",
+        "2119565742",
+        "2122465391",
+        "2125775320",
+        "2131314981",
+        "2131645490",
+        "2131894525",
+        "2133338501",
+        "2173213060",
+        "2277359368",
+        "2624304035"
+    ]
+}

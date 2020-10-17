@@ -1,0 +1,53 @@
+{
+    "id": "1579895739",
+    "title": "MB+Tree: A Dynamically Updatable Metric Index for Similarity Searches",
+    "venue": "web age information management",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Masahiro Ishikawa",
+            "id": "2126934154",
+            "org": "University of Tsukuba"
+        },
+        {
+            "name": "Hanxiong Chen",
+            "id": "2698102291",
+            "org": "Tsukuba International University"
+        },
+        {
+            "name": "Kazutaka Furuse",
+            "id": "1467882240",
+            "org": "University of Tsukuba"
+        },
+        {
+            "name": "Jeffrey Xu Yu",
+            "id": "2119358208",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Nobuo Ohbo",
+            "id": "253148662",
+            "org": "University of Tsukuba"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "K-ary tree",
+        "Vantage-point tree",
+        "Discrete mathematics",
+        "Metric tree",
+        "R+ tree",
+        "BK tree",
+        "Tree rotation",
+        "Cover tree",
+        "Fractal tree index"
+    ],
+    "references": [
+        "1554174647",
+        "1971784203",
+        "1971927246",
+        "2049644877",
+        "2084481683",
+        "2157092487"
+    ]
+}

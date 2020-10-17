@@ -1,0 +1,45 @@
+{
+    "id": "1494310942",
+    "title": "An Efficient Backoff Scheme for IEEE 802.11 DCF",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ho-Jin Shin",
+            "id": "2111028368",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Dong-Ryeol Shin",
+            "id": "2163154730",
+            "org": "Sungkyunkwan University"
+        },
+        {
+            "name": "Hee Yong Youn",
+            "id": "2145152158",
+            "org": "Sungkyunkwan University"
+        }
+    ],
+    "fields_of_study": [
+        "Numerical analysis",
+        "IEEE 802.11",
+        "Throughput",
+        "Exponential backoff",
+        "Algorithm",
+        "CA protocol",
+        "Computer science",
+        "Markov chain",
+        "Distributed coordination function",
+        "Collision"
+    ],
+    "references": [
+        "12689319",
+        "1525294822",
+        "1573825361",
+        "1673008520",
+        "1804330271",
+        "2067262719",
+        "2107360009",
+        "2162598825"
+    ]
+}

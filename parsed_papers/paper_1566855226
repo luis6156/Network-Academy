@@ -1,0 +1,91 @@
+{
+    "id": "1566855226",
+    "title": "Advanced meet-in-the-middle preimage attacks : first results on full Tiger, and improved results on MD4 and SHA-2",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jian Guo",
+            "id": "2151853455",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "San Ling",
+            "id": "2134794795",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "2607524346",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Huaxiong Wang",
+            "id": "2120427923",
+            "org": "Nanyang Technological University"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "MD4",
+        "MD2",
+        "Theoretical computer science",
+        "SHA-2",
+        "Computer science",
+        "Tiger",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "124034723",
+        "1483967074",
+        "1491431082",
+        "1499593564",
+        "1521253015",
+        "1522989667",
+        "1526950753",
+        "1530387410",
+        "1531810027",
+        "1533007301",
+        "1550036077",
+        "1560301528",
+        "1561595833",
+        "1567365729",
+        "1568906052",
+        "1587648112",
+        "1590269592",
+        "1590624619",
+        "1596861772",
+        "1598517024",
+        "1603214199",
+        "1607456165",
+        "1656731780",
+        "1660562555",
+        "1797949276",
+        "1814882979",
+        "1857473325",
+        "1863197993",
+        "1913860316",
+        "2007585625",
+        "2012646342",
+        "2049647076",
+        "2098792112",
+        "2102598455",
+        "2103239853",
+        "2103658386",
+        "2107286688",
+        "2110407451",
+        "2121895731",
+        "2128698001",
+        "2144849953",
+        "2146923862",
+        "2147436724",
+        "2154759077",
+        "2161294118",
+        "2166805176",
+        "2469921817",
+        "2593463031",
+        "2611506938"
+    ]
+}

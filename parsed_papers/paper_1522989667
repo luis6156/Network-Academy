@@ -1,0 +1,43 @@
+{
+    "id": "1522989667",
+    "title": "Preimage Attacks on Reduced Tiger and SHA-2",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Takanori Isobe",
+            "id": "2231071983",
+            "org": "Sony Corporation, Tokyo, Japan 108-0075#TAB#"
+        },
+        {
+            "name": "Kyoji Shibutani",
+            "id": "2107718852",
+            "org": "Sony Corporation, Tokyo, Japan 108-0075#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "MD2",
+        "Theoretical computer science",
+        "Key schedule",
+        "SHA-2",
+        "Computer science",
+        "Tiger",
+        "Collision attack",
+        "MD5",
+        "Preimage attack"
+    ],
+    "references": [
+        "1499593564",
+        "1526950753",
+        "1542068190",
+        "1590624619",
+        "1596301089",
+        "1656731780",
+        "1797949276",
+        "1814882979",
+        "2103239853",
+        "2103658386",
+        "2154759077"
+    ]
+}

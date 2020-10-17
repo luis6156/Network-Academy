@@ -1,0 +1,98 @@
+{
+    "id": "113187444",
+    "title": "Detecting spammers with SNARE: spatio-temporal network-level automatic reputation engine",
+    "venue": "usenix security symposium",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shuang Hao",
+            "id": "2514357051",
+            "org": "College of Computing, Georgia Tech#TAB#"
+        },
+        {
+            "name": "Nadeem Ahmed Syed",
+            "id": "2401578358",
+            "org": "College of Computing, Georgia Tech#TAB#"
+        },
+        {
+            "name": "Nick Feamster",
+            "id": "1373210103",
+            "org": "College of Computing, Georgia Tech#TAB#"
+        },
+        {
+            "name": "Alexander G. Gray",
+            "id": "2112810595",
+            "org": "College of Computing, Georgia Tech#TAB#"
+        },
+        {
+            "name": "Sven Krasser",
+            "id": "2528823773",
+            "org": "McAfee, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer security",
+        "Communication source",
+        "Network packet",
+        "False positive rate",
+        "Reputation",
+        "Internet privacy",
+        "Labeled data"
+    ],
+    "references": [
+        "53369608",
+        "99175757",
+        "165383391",
+        "174953902",
+        "1481202711",
+        "1500507701",
+        "1558317064",
+        "1562530803",
+        "1562858266",
+        "1577527831",
+        "1625214948",
+        "1655958391",
+        "1811828243",
+        "1996497509",
+        "2003590000",
+        "2018505857",
+        "2040717637",
+        "2085963983",
+        "2091692346",
+        "2096273775",
+        "2102671922",
+        "2108214308",
+        "2108465375",
+        "2108673686",
+        "2112063328",
+        "2112554371",
+        "2113344319",
+        "2113801833",
+        "2115303222",
+        "2115789261",
+        "2115974339",
+        "2122696741",
+        "2127295197",
+        "2127904496",
+        "2133396782",
+        "2134313999",
+        "2135434540",
+        "2138370688",
+        "2139212933",
+        "2145582227",
+        "2147575919",
+        "2149482504",
+        "2149706766",
+        "2151972741",
+        "2153987726",
+        "2156626857",
+        "2162260997",
+        "2162695692",
+        "2162877415",
+        "2163544880",
+        "2169239524",
+        "2169420861",
+        "2170888255"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1586972594",
+    "title": "Security of Signed ElGamal Encryption",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Claus-Peter Schnorr",
+            "id": "2033678142",
+            "org": "Universitat Frankfurt"
+        },
+        {
+            "name": "Markus Jakobsson",
+            "id": "2057643108",
+            "org": "Bell Laboratories Murray Hill"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive chosen-ciphertext attack",
+        "Theoretical computer science",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "ElGamal encryption",
+        "Ciphertext indistinguishability",
+        "Schnorr signature",
+        "Semantic security",
+        "Chosen-ciphertext attack",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "174706587",
+        "1489041988",
+        "1497795032",
+        "1511745870",
+        "1516512945",
+        "1552695147",
+        "1589034595",
+        "1589176872",
+        "1607264302",
+        "1612316802",
+        "1660562555",
+        "1979215153",
+        "2002930326",
+        "2052267638",
+        "2053259405",
+        "2080132708",
+        "2101803085",
+        "2106583429",
+        "2108834246",
+        "2112240651",
+        "2144562951",
+        "2152005134",
+        "2152688060",
+        "2156186849",
+        "2164988972"
+    ]
+}

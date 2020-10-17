@@ -1,0 +1,38 @@
+{
+    "id": "1576341769",
+    "title": "FT-MPI: Fault Tolerant MPI, Supporting Dynamic Applications in a Dynamic World",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Graham E. Fagg",
+            "id": "2021370764",
+            "org": "University of Tennessee"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Mean time between failures",
+        "Failure mode and effects analysis",
+        "Process modeling",
+        "Distributed computing",
+        "Computer science",
+        "Message passing",
+        "Message queue",
+        "Distributed algorithm",
+        "Real-time computing",
+        "Virtual machine",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1759783712",
+        "2039088133",
+        "2126071114",
+        "2171453084"
+    ]
+}

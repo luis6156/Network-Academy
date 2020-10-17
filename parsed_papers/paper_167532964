@@ -1,0 +1,41 @@
+{
+    "id": "167532964",
+    "title": "The Resolution Width Problem is EXPTIME-Complete.",
+    "venue": "Electronic Colloquium on Computational Complexity",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Alexander Hertel",
+            "id": "2019451459",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Alasdair Urquhart",
+            "id": "2131127782",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Unit propagation",
+        "EXPTIME",
+        "Conjecture",
+        "DPLL algorithm",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Mathematical proof",
+        "Boolean satisfiability problem",
+        "Automated theorem proving",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1598289908",
+        "2069767473",
+        "2070017679",
+        "2073227282",
+        "2084384424",
+        "2123581574",
+        "2129413084",
+        "2150339067"
+    ]
+}

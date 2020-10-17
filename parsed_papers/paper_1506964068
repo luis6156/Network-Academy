@@ -1,0 +1,74 @@
+{
+    "id": "1506964068",
+    "title": "Plaintext-Checkable encryption",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sebastien Canard",
+            "id": "99210842",
+            "org": "Orange Labs, Applied Crypto Group, Caen, France#TAB#"
+        },
+        {
+            "name": "Georg Fuchsbauer",
+            "id": "2081739493",
+            "org": "Dept. Computer Science, University of Bristol, UK#TAB#"
+        },
+        {
+            "name": "Aline Gouget",
+            "id": "1967231191",
+            "org": "Gemalto, Security Lab, Meudon, France#TAB#"
+        },
+        {
+            "name": "Fabien Laguillaumie",
+            "id": "5555332",
+            "org": "UCBN and CNRS/ENSL/INRIA/UCBL LIP, Lyon, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Theoretical computer science",
+        "Computer science",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Key clustering",
+        "Ciphertext indistinguishability",
+        "Deterministic encryption",
+        "Ciphertext",
+        "Computer network",
+        "Plaintext"
+    ],
+    "references": [
+        "1502927489",
+        "1524036546",
+        "1527414074",
+        "1529348530",
+        "1581001589",
+        "1587773402",
+        "1588782201",
+        "1597695477",
+        "1706195598",
+        "1854738139",
+        "2006921752",
+        "2006997822",
+        "2013689473",
+        "2027528470",
+        "2052267638",
+        "2090761460",
+        "2107324709",
+        "2108834246",
+        "2117797270",
+        "2129359810",
+        "2130056156",
+        "2135656098",
+        "2141395382",
+        "2147436724",
+        "2149389044",
+        "2153145614",
+        "2161214567",
+        "2164284862",
+        "2172174332",
+        "2184713187",
+        "2493686639"
+    ]
+}

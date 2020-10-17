@@ -1,0 +1,59 @@
+{
+    "id": "1534681609",
+    "title": "A Compressed Enhanced Suffix Array Supporting Fast String Matching",
+    "venue": "string processing and information retrieval",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Enno Ohlebusch",
+            "id": "315454154",
+            "org": "Institute of Theoretical Computer Science, University of Ulm, Ulm D-89069#TAB#"
+        },
+        {
+            "name": "Simon Gog",
+            "id": "2698038667",
+            "org": "Institute of Theoretical Computer Science, University of Ulm, Ulm D-89069#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "String searching algorithm",
+        "FM-index",
+        "Longest common substring problem",
+        "Combinatorics",
+        "Generalized suffix tree",
+        "Suffix array",
+        "Suffix tree",
+        "Range minimum query",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "117230746",
+        "1489909987",
+        "1495524224",
+        "1495956867",
+        "1503962612",
+        "1506856932",
+        "1556252176",
+        "1599991662",
+        "1976682045",
+        "1990061958",
+        "1993817276",
+        "2011999472",
+        "2046946959",
+        "2056707490",
+        "2061916218",
+        "2073921136",
+        "2088386938",
+        "2093788424",
+        "2130564474",
+        "2134283755",
+        "2146346985",
+        "2149243190",
+        "2158322625",
+        "2158874082",
+        "2170899819",
+        "2408221372",
+        "2533248932"
+    ]
+}

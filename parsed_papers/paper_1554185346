@@ -1,0 +1,31 @@
+{
+    "id": "1554185346",
+    "title": "Scheduling in time-triggered networks",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Sebastian Voss",
+            "id": "2641344850",
+            "org": "EADS Deutschland GmbH, EADS Innovation Works, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1488202922",
+        "2101965995",
+        "2118824103"
+    ]
+}

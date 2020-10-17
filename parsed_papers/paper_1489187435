@@ -1,0 +1,63 @@
+{
+    "id": "1489187435",
+    "title": "Can code polymorphism limit information leakage",
+    "venue": "international conference information security theory and practice",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Antoine Amarilli",
+            "id": "2174515501",
+            "org": "Ecole normale superieure, Departement d'informatique, Paris Cedex, France#TAB#"
+        },
+        {
+            "name": "Sascha Muller",
+            "id": "2128152967",
+            "org": "Technische Universitat Darmstadt, Security Engineering, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Ecole normale superieure, Departement d'informatique, Paris Cedex, France#TAB#"
+        },
+        {
+            "name": "Daniel Page",
+            "id": "1976550339",
+            "org": "University of Bristol, Bristol, UK#TAB#"
+        },
+        {
+            "name": "Pablo Rauzy",
+            "id": "2090270504",
+            "org": "Ecole normale superieure, Departement d'informatique, Paris Cedex, France#TAB#"
+        },
+        {
+            "name": "Michael Tunstall",
+            "id": "2686577516",
+            "org": "University of Bristol, Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Computer science",
+        "Polymorphic code",
+        "Functional programming",
+        "Polymorphism (computer science)",
+        "Machine code",
+        "Information leakage"
+    ],
+    "references": [
+        "1515370218",
+        "1558515754",
+        "1560093457",
+        "1562542037",
+        "1593219240",
+        "1595155753",
+        "2134982488",
+        "2144858417",
+        "2146567535",
+        "2154909745",
+        "2293693071",
+        "2401080409"
+    ]
+}

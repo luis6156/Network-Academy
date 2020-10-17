@@ -1,0 +1,46 @@
+{
+    "id": "148956775",
+    "title": "Dynamic instrumentation of production systems",
+    "venue": "usenix annual technical conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Bryan M. Cantrill",
+            "id": "1430208463",
+            "org": "Solaris Kernel Development, Sun Microsystems#TAB#"
+        },
+        {
+            "name": "Michael W. Shapiro",
+            "id": "2263068068",
+            "org": "Solaris Kernel Development, Sun Microsystems#TAB#"
+        },
+        {
+            "name": "Adam H. Leventhal",
+            "id": "1900087733",
+            "org": "Solaris Kernel Development, Sun Microsystems#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Software",
+        "Computer science",
+        "Tracing",
+        "Instrumentation",
+        "Associative array",
+        "Real-time computing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "45364333",
+        "1561439115",
+        "1642024516",
+        "2008697994",
+        "2047226031",
+        "2083469471",
+        "2098984303",
+        "2116729357",
+        "2118909915",
+        "2159477904",
+        "2172126802"
+    ]
+}

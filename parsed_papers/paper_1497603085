@@ -1,0 +1,101 @@
+{
+    "id": "1497603085",
+    "title": "Coreference analysis in clinical notes: a multi-pass sieve with alternate anaphora resolution modules.",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Siddhartha Jonnalagadda",
+            "id": "2132483286",
+            "org": "Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA"
+        },
+        {
+            "name": "Dingcheng Li",
+            "id": "2221424628",
+            "org": "Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA"
+        },
+        {
+            "name": "Sunghwan Sohn",
+            "id": "2108043541",
+            "org": "Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA"
+        },
+        {
+            "name": "Stephen T. Wu",
+            "id": "2574316923",
+            "org": "Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA"
+        },
+        {
+            "name": "Kavishwar B. Wagholikar",
+            "id": "2024912729",
+            "org": "Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA"
+        },
+        {
+            "name": "Manabu Torii",
+            "id": "2123112791",
+            "org": "Department of Computer and Information Sciences, University of Delaware, Newark, Delaware, USA"
+        },
+        {
+            "name": "Hongfang Liu",
+            "id": "2659824549",
+            "org": "Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Machine learning",
+        "Coreference",
+        "Source code",
+        "Computer science",
+        "Data mining",
+        "F1 score",
+        "Pronoun",
+        "Test set",
+        "Sieve",
+        "Deterministic system",
+        "Training set",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "153173462",
+        "186897643",
+        "280670494",
+        "1495981708",
+        "1527783480",
+        "1528056001",
+        "1547546052",
+        "1563275488",
+        "1573048037",
+        "1672757658",
+        "1971725016",
+        "1977830583",
+        "1990909788",
+        "1992722532",
+        "2006969979",
+        "2007367068",
+        "2038041099",
+        "2046844528",
+        "2067982155",
+        "2093157872",
+        "2096979259",
+        "2098345921",
+        "2099846738",
+        "2101268022",
+        "2101520552",
+        "2113310984",
+        "2118094100",
+        "2121028468",
+        "2124700572",
+        "2127071136",
+        "2129657639",
+        "2130031580",
+        "2138595422",
+        "2141660212",
+        "2147706904",
+        "2157944021",
+        "2161771536",
+        "2164455818",
+        "2164705687",
+        "2166512823",
+        "2245472176",
+        "2785349534"
+    ]
+}

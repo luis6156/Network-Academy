@@ -1,0 +1,49 @@
+{
+    "id": "1510450593",
+    "title": "Design and analysis of a dynamic scheduling strategy with resource estimation for large-scale grid systems",
+    "venue": "grid computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sivakumar Viswanathan",
+            "id": "2111798169",
+            "org": "Dept. of Electr. & Comput. Eng., Nat. Univ. of Singapore, Singapore"
+        },
+        {
+            "name": "Bharadwaj Veeravalli",
+            "id": "224802347",
+            "org": "Dept. of Electr. & Comput. Eng., Nat. Univ. of Singapore, Singapore"
+        },
+        {
+            "name": "Dantong Yu",
+            "id": "2569133835",
+            "org": "Brookhaven National Laboratory, Upton, NY#TAB#"
+        },
+        {
+            "name": "Thomas G. Robertazzi",
+            "id": "234184891",
+            "org": "Stony Brook University, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Resource allocation",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1501013319",
+        "1501375451",
+        "1563196730",
+        "2126308239",
+        "2141491381",
+        "2149483435"
+    ]
+}

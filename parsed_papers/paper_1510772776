@@ -1,0 +1,43 @@
+{
+    "id": "1510772776",
+    "title": "Exploiting Efficient Transpacking for One-Sided Communication and MPI-IO",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Faisal Ghias Mir",
+            "id": "2804994982",
+            "org": "NEC Laboratories Europe, NEC Europe Ltd., Sankt Augustin, Germany D-53757#TAB#"
+        },
+        {
+            "name": "Jesper Larsson Traff",
+            "id": "718724760",
+            "org": "NEC Laboratories Europe, NEC Europe Ltd., Sankt Augustin, Germany D-53757#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Input/output",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Copying",
+        "Performance improvement",
+        "Data model"
+    ],
+    "references": [
+        "1508800646",
+        "1514571304",
+        "1555194772",
+        "1559860755",
+        "1969215126",
+        "2019498440",
+        "2091824739",
+        "2122395763",
+        "2123596856",
+        "2137916385",
+        "2154082760",
+        "2162358192",
+        "2541014599"
+    ]
+}

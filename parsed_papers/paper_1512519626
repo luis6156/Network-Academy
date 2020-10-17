@@ -1,0 +1,47 @@
+{
+    "id": "1512519626",
+    "title": "On the accurate identification of network service dependencies in distributed systems",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Barry W. Peddycord",
+            "id": "2045080858",
+            "org": "Department of Computer Science, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Peng Ning",
+            "id": "1998006409",
+            "org": "Department of Computer Science, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Sushil Jajodia",
+            "id": "2056441798",
+            "org": "Center for secure Information Systems, George Mason University, Fairfax, VA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network service",
+        "Service discovery",
+        "Operator (computer programming)",
+        "Downtime",
+        "Computer science",
+        "Distributed computing",
+        "Backup",
+        "Inference",
+        "Network simulation",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "188026280",
+        "1524673069",
+        "1575097375",
+        "1581005283",
+        "1588651819",
+        "1985567116",
+        "2120665430",
+        "2127577941",
+        "2156165192"
+    ]
+}

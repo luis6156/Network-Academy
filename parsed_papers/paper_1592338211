@@ -1,0 +1,45 @@
+{
+    "id": "1592338211",
+    "title": "Using DPLL for efficient OBDD construction",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jinbo Huang",
+            "id": "2103003114",
+            "org": "Computer Science Department, University of California, Los Angeles#TAB#"
+        },
+        {
+            "name": "Adnan Darwiche",
+            "id": "457026902",
+            "org": "Computer Science Department, University of California, Los Angeles#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "DPLL algorithm",
+        "Discrete mathematics",
+        "Satisfiability",
+        "Brute-force search",
+        "Constraint satisfaction",
+        "Binary decision diagram",
+        "Search problem",
+        "Pathwidth",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "1483143799",
+        "1565010992",
+        "1686746446",
+        "2033405938",
+        "2052867211",
+        "2057361103",
+        "2080267935",
+        "2096121571",
+        "2096307462",
+        "2100342064",
+        "2100690375",
+        "2105197197",
+        "2111575167"
+    ]
+}

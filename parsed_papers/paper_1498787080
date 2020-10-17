@@ -1,0 +1,37 @@
+{
+    "id": "1498787080",
+    "title": "Side channel attacks against HMACs based on block-cipher based hash functions",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Katsuyuki Okeya",
+            "id": "1780672632",
+            "org": "Systems Development Laboratory, Hitachi, Ltd., Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Side channel attack",
+        "Hash-based message authentication code",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Power analysis",
+        "Hash function",
+        "MDC-2"
+    ],
+    "references": [
+        "1503689022",
+        "1510418153",
+        "1547537489",
+        "1550146135",
+        "1569151289",
+        "1600432225",
+        "1664808737",
+        "1863270349",
+        "2104633167",
+        "2131300413",
+        "2154909745"
+    ]
+}

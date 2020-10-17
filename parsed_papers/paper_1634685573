@@ -1,0 +1,58 @@
+{
+    "id": "1634685573",
+    "title": "A cached frame buffer system for object-space parallel processing systems",
+    "venue": "computer graphics international",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hiroaki Kobayashi",
+            "id": "2170664621",
+            "org": "Graduate Sch. of Inf. Sci., Tohoku Univ., Sendai, Japan"
+        },
+        {
+            "name": "Takayuki Maeda",
+            "id": "2692098695",
+            "org": "Graduate School of Information Sciences|Tohoku University"
+        },
+        {
+            "name": "Hitoshi Yamauchi",
+            "id": "2414920466",
+            "org": "Graduate School of Information Sciences|Tohoku University"
+        },
+        {
+            "name": "Tadao Nakamura",
+            "id": "2183492535",
+            "org": "Graduate School of Information Sciences|Tohoku University"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Scalability",
+        "Massively parallel",
+        "Parallel computing",
+        "Computer science",
+        "Stencil buffer",
+        "Latency (engineering)",
+        "Render Target",
+        "restrict",
+        "CPU cache"
+    ],
+    "references": [
+        "215727583",
+        "1644976598",
+        "1982661771",
+        "1995492469",
+        "2009583510",
+        "2023237845",
+        "2030734596",
+        "2045525968",
+        "2078302707",
+        "2079675315",
+        "2081188973",
+        "2087060222",
+        "2100781970",
+        "2104227581",
+        "2122239347",
+        "2138624212"
+    ]
+}

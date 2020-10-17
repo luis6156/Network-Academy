@@ -1,0 +1,51 @@
+{
+    "id": "1515003445",
+    "title": "Constant Propagation Versus Join Reordering in Datalog",
+    "venue": "RIDS '95 Proceedings of the Second International Workshop on Rules in Database Systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Mariano P. Consens",
+            "id": "2630668707",
+            "org": "Univ. of Waterloo"
+        },
+        {
+            "name": "Alberto O. Mendelzon",
+            "id": "1969282344",
+            "org": "Univ. of Toronto"
+        },
+        {
+            "name": "Dimitra Vista",
+            "id": "2730344974",
+            "org": "Univ. of Toronto"
+        },
+        {
+            "name": "Peter T. Wood",
+            "id": "2301950271",
+            "org": "Univ. of Cape Town"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Datalog",
+        "Notation",
+        "Constant folding"
+    ],
+    "references": [
+        "159470101",
+        "1485826403",
+        "1501535985",
+        "1555661095",
+        "1569301450",
+        "1863745163",
+        "1970195369",
+        "1997520998",
+        "2013021035",
+        "2070553391",
+        "2091843160",
+        "2116954141",
+        "2132063146",
+        "2155024699"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1797017151",
+    "title": "An O(m 2 )-depth quantum algorithm for the elliptic curve discrete logarithm problem over GF(2 m ) a",
+    "venue": "Quantum Information & Computation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Dmitri Maslov",
+            "id": "1709798017",
+            "org": "Department of Physics and Astronomy, University of Waterloo, Waterloo, Ontario, Canada and Directorate for Computer and Information Science & Engineering, National Science Foundation, Arlingto ...#TAB#"
+        },
+        {
+            "name": "Jimson Mathew",
+            "id": "2125698074",
+            "org": "Department of Computer Science, University of Bristol, Bristol, UK#TAB#"
+        },
+        {
+            "name": "Donny Cheung",
+            "id": "2166134608",
+            "org": "Department of Computer Science, University of Calgary, Calgary, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Dhiraj K. Pradhan",
+            "id": "2097985012",
+            "org": "Department of Computer Science, University of Bristol, Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Counting points on elliptic curves",
+        "Schoof-Elkies-Atkin algorithm",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Modular elliptic curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1554799384",
+        "1587576127",
+        "2137147061",
+        "2149204794",
+        "2153973094",
+        "2159862444"
+    ]
+}

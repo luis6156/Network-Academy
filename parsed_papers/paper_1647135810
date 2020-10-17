@@ -1,0 +1,55 @@
+{
+    "id": "1647135810",
+    "title": "Detecting malicious software by monitoring anomalous windows registry accesses",
+    "venue": "recent advances in intrusion detection",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Frank Apap",
+            "id": "338132977",
+            "org": "Department of Computer Science, Columbia University, New York, NY#TAB#"
+        },
+        {
+            "name": "Andrew Honig",
+            "id": "2143722315",
+            "org": "Department of Computer Science, Columbia University, New York, NY#TAB#"
+        },
+        {
+            "name": "Shlomo Hershkop",
+            "id": "1481904776",
+            "org": "Department of Computer Science, Columbia University, New York, NY#TAB#"
+        },
+        {
+            "name": "Eleazar Eskin",
+            "id": "642640030",
+            "org": "Department of Computer Science, Columbia University, New York, NY#TAB#"
+        },
+        {
+            "name": "Salvatore J. Stolfo",
+            "id": "2021877992",
+            "org": "Department of Computer Science, Columbia University, New York, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Host-based intrusion detection system",
+        "Microsoft Windows",
+        "Computer science",
+        "Windows Registry",
+        "Computer security",
+        "Intrusion detection system",
+        "Operating system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1543388142",
+        "1884606608",
+        "1941427975",
+        "2012568697",
+        "2113958614",
+        "2128217000",
+        "2129860818",
+        "2132870739",
+        "2150847526"
+    ]
+}

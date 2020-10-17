@@ -1,0 +1,45 @@
+{
+    "id": "1500325112",
+    "title": "A profiling tool for detecting cache-critical data structures",
+    "venue": "european conference on parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Department of Computer Science and Technology, Jilin University, P. R. China and Institut fur wissenschaftliches Rechnen, Forschungszentrum Karlsruhe GmbH, Germany#TAB#"
+        },
+        {
+            "name": "Tobias Gaugler",
+            "id": "2513717573",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe, TH, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe, TH, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Scalability",
+        "Profiling (computer programming)",
+        "Cache algorithms",
+        "Parallel computing",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "Virtual address space",
+        "Data structure",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "52311198",
+        "1568498636",
+        "2006097867",
+        "2076078958",
+        "2079737233",
+        "2110723369"
+    ]
+}

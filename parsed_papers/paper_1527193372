@@ -1,0 +1,55 @@
+{
+    "id": "1527193372",
+    "title": "Scaling NWChem with Efficient and Portable Asynchronous Communication in MPI RMA",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Min Si",
+            "id": "2110794844",
+            "org": "Univ. of Tokyo, Tokyo, Japan"
+        },
+        {
+            "name": "Antonio J. Pena",
+            "id": "2286757441",
+            "org": "Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Jeff R. Hammond",
+            "id": "2174198211",
+            "org": "Intel Labs., USA"
+        },
+        {
+            "name": "Pavan Balaji",
+            "id": "1990703395",
+            "org": "Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Yutaka Ishikawa",
+            "id": "2251886612",
+            "org": "RIKEN AICS, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Coupled cluster",
+        "Parallel computing",
+        "Multi-core processor",
+        "Computational science",
+        "Computation",
+        "Asynchronous communication",
+        "Global Arrays",
+        "Scaling",
+        "Instruction set",
+        "Computer science"
+    ],
+    "references": [
+        "1521427322",
+        "1897240848",
+        "2006401122",
+        "2025793956",
+        "2108369438",
+        "2113918640",
+        "2149970695",
+        "2155957132"
+    ]
+}

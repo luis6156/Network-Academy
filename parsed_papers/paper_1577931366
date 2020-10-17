@@ -1,0 +1,46 @@
+{
+    "id": "1577931366",
+    "title": "Adaptive System Sensitive Partitioning of AMR Applications on Heterogeneous Clusters",
+    "venue": "Cluster Computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Shweta Sinha",
+            "id": "2301256371",
+            "org": "The Applied Software Systems Laboratory, Department of Electrical and Computer Engineering, Rutgers, The State University of New Jersey, Piscataway, NJ 08855-8060, USA#TAB#"
+        },
+        {
+            "name": "Manish Parashar",
+            "id": "2157372337",
+            "org": "The Applied Software Systems Laboratory, Department of Electrical and Computer Engineering, Rutgers, The State University of New Jersey, Piscataway, NJ 08855-8060, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive mesh refinement",
+        "Parallel computing",
+        "Computer science",
+        "Heterogeneous cluster",
+        "Distributed computing",
+        "Dynamic loading",
+        "Granularity",
+        "Symmetric multiprocessor system",
+        "Dynamic load testing",
+        "Real-time computing",
+        "Adaptive system",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1901614691",
+        "1958965543",
+        "1965092049",
+        "2005106218",
+        "2083209848",
+        "2083360404",
+        "2087966340",
+        "2125133468",
+        "2127674389",
+        "2144624157",
+        "2151224599",
+        "2169757481"
+    ]
+}

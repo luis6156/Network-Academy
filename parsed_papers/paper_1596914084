@@ -1,0 +1,58 @@
+{
+    "id": "1596914084",
+    "title": "On the use of Petri nets for the computation of completion time distribution for short TCP transfers",
+    "venue": "applications and theory of petri nets",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Rossano Gaeta",
+            "id": "2120273696",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italia#TAB#"
+        },
+        {
+            "name": "Marco Gribaudo",
+            "id": "2124014502",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italia#TAB#"
+        },
+        {
+            "name": "Daniele Manini",
+            "id": "87528380",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italia#TAB#"
+        },
+        {
+            "name": "Matteo Sereno",
+            "id": "2191812598",
+            "org": "Dipartimento di Informatica, Universita di Torino, Torino, Italia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Round-trip delay time",
+        "Computer science",
+        "Distributed computing",
+        "TCP tuning",
+        "Deterministic system (philosophy)",
+        "Stochastic Petri net",
+        "Petri net",
+        "Finite-state machine",
+        "Packet loss"
+    ],
+    "references": [
+        "1253666328",
+        "1540641082",
+        "1655636840",
+        "1980640740",
+        "1988184739",
+        "2018724471",
+        "2037280272",
+        "2115459263",
+        "2139378549",
+        "2140490525",
+        "2141405301",
+        "2152112690",
+        "2152662290",
+        "2158733823",
+        "2257924330",
+        "2753542457"
+    ]
+}

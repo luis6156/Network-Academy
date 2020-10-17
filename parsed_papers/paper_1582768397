@@ -1,0 +1,83 @@
+{
+    "id": "1582768397",
+    "title": "PABIRS: A data access middleware for distributed file systems",
+    "venue": "international conference on data engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Sai Wu",
+            "id": "2117443739",
+            "org": "College of Computer Science and Technology, Zhejiang University, Hangzhou, China"
+        },
+        {
+            "name": "Gang Chen",
+            "id": "2125776506",
+            "org": "College of Computer Science and Technology, Zhejiang University, Hangzhou, China"
+        },
+        {
+            "name": "Xianke Zhou",
+            "id": "2097275455",
+            "org": "NetEase (Hangzhou) Network Co., Ltd., China"
+        },
+        {
+            "name": "Zhenjie Zhang",
+            "id": "2161417483",
+            "org": "Advanced Digital Sciences Center, Illinois at Singapore Pte. Ltd., Singapore"
+        },
+        {
+            "name": "Anthony K. H. Tung",
+            "id": "121171588",
+            "org": "School of Computing, National University of Singapore, Singapore"
+        },
+        {
+            "name": "Marianne Winslett",
+            "id": "2078136799",
+            "org": "Deparement of Computer Science, University of Illinois at Urbana-Champaign, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Log-structured merge-tree",
+        "Data access",
+        "Data mining",
+        "Computer science",
+        "Bitmap index",
+        "Search engine indexing",
+        "Database",
+        "Middleware",
+        "Big data",
+        "Distributed File System"
+    ],
+    "references": [
+        "78077100",
+        "1482713870",
+        "1493566099",
+        "1896160955",
+        "1964647853",
+        "1969925795",
+        "1969970763",
+        "1981420413",
+        "2003580796",
+        "2011777324",
+        "2035355147",
+        "2035543557",
+        "2044105912",
+        "2053562648",
+        "2068739275",
+        "2074935284",
+        "2076003312",
+        "2080224910",
+        "2087946700",
+        "2100830825",
+        "2103207352",
+        "2117156932",
+        "2119565742",
+        "2119738171",
+        "2122465391",
+        "2125775320",
+        "2126547925",
+        "2153889808",
+        "2160459668",
+        "2170616854"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": "1493300555",
+    "title": "Multi-core emptiness checking of timed Buchi automata using inclusion abstraction",
+    "venue": "computer aided verification",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Alfons Laarman",
+            "id": "2055335673",
+            "org": "Formal Methods and Tools, University of Twente, The Netherlands#TAB#"
+        },
+        {
+            "name": "Mads Chr. Olesen",
+            "id": "2148648974",
+            "org": "Department of Computer Science, Aalborg University, Denmark#TAB#"
+        },
+        {
+            "name": "Andreas Engelbredt Dalsgaard",
+            "id": "1993680322",
+            "org": "Department of Computer Science, Aalborg University, Denmark#TAB#"
+        },
+        {
+            "name": "Kim Guldstrand Larsen",
+            "id": "2146581609",
+            "org": "Department of Computer Science, Aalborg University, Denmark#TAB#"
+        },
+        {
+            "name": "Jaco van de Pol",
+            "id": "2098181019",
+            "org": "Formal Methods and Tools, University of Twente, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Theoretical computer science",
+        "Algorithm",
+        "Multi-core processor",
+        "Buchi automaton",
+        "Computer science",
+        "Liveness",
+        "Abstraction",
+        "Model checking",
+        "Linear temporal logic",
+        "Abstraction model checking"
+    ],
+    "references": [
+        "1482233117",
+        "1498432697",
+        "1508631477",
+        "1514827953",
+        "1521216227",
+        "1544607874",
+        "1556566737",
+        "1629693692",
+        "1659060819",
+        "1819818805",
+        "1850929791",
+        "1962072139",
+        "1964976168",
+        "1977553951",
+        "2000947342",
+        "2007490191",
+        "2012935476",
+        "2039834448",
+        "2059970075",
+        "2100271265",
+        "2101508170",
+        "2119646872",
+        "2133057837",
+        "2136877520",
+        "2139796094",
+        "2147895351",
+        "2162181585",
+        "2166801043",
+        "2287508180",
+        "2621553479"
+    ]
+}

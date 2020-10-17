@@ -1,0 +1,51 @@
+{
+    "id": "1551571370",
+    "title": "Cleanness Checking of String Manipulations in C Programs via Integer Analysis",
+    "venue": "static analysis symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Nurit Dor",
+            "id": "2303071586",
+            "org": "Tel-Aviv University School of Computer Science Israel"
+        },
+        {
+            "name": "Michael Rodeh",
+            "id": "8183976",
+            "org": "IBM Research Laboratory Haifa"
+        },
+        {
+            "name": "Shmuel Sagiv",
+            "id": "2132786051",
+            "org": "Tel-Aviv University School of Computer Science Israel"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Pointer (computer programming)",
+        "Program analysis",
+        "Unix",
+        "Computer science",
+        "False alarm",
+        "Static analysis",
+        "Distributed computing",
+        "Buffer overflow",
+        "Software bug",
+        "String (computer science)",
+        "Real-time computing"
+    ],
+    "references": [
+        "1502028089",
+        "1579850852",
+        "1685737956",
+        "1973326708",
+        "2032230066",
+        "2043100293",
+        "2054827240",
+        "2091141964",
+        "2120138937",
+        "2132661148",
+        "2611598995"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1595310945",
+    "title": "Nepal - Nested Data Parallelism in Haskell",
+    "venue": "european conference on parallel processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Manuel M. T. Chakravarty",
+            "id": "2144620468",
+            "org": "University of New South Wales"
+        },
+        {
+            "name": "Gabriele Keller",
+            "id": "2162636634",
+            "org": "University of Technology, Sydney,"
+        },
+        {
+            "name": "Roman Lechtchinsky",
+            "id": "274429832",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Wolf Pfannenstiel",
+            "id": "2292960110",
+            "org": "IT Service Omikron GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Haskell",
+        "Data parallelism",
+        "High Performance Fortran",
+        "Parallel array",
+        "NESL",
+        "Programming language"
+    ],
+    "references": [
+        "1502523938",
+        "1566721920",
+        "1583186836",
+        "1992425763",
+        "1996541179",
+        "2021790219",
+        "2031889887",
+        "2043990347",
+        "2083870087",
+        "2436525433"
+    ]
+}

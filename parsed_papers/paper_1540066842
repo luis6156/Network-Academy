@@ -1,0 +1,41 @@
+{
+    "id": "1540066842",
+    "title": "The Rectangle Attack - Rectangling the Serpent",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Mathematics",
+        "XSL attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Boomerang attack",
+        "Distributed computing",
+        "Slide attack",
+        "Attack model",
+        "Meet-in-the-middle attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "52191336",
+        "82606690",
+        "1979802565",
+        "2234576048"
+    ]
+}

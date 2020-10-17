@@ -1,0 +1,47 @@
+{
+    "id": "1589643726",
+    "title": "The java memory model: operationally, denotationally, axiomatically",
+    "venue": "european symposium on programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Pietro Cenciarelli",
+            "id": "2343533141",
+            "org": "Dipartimento di Informatica, Universita di Roma \"La Sapienza\"#TAB#"
+        },
+        {
+            "name": "Alexander Knapp",
+            "id": "2161420078",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Eleonora Sibilio",
+            "id": "2720926928",
+            "org": "Dipartimento di Informatica, Universita di Roma \"La Sapienza\"#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Java Modeling Language",
+        "Java",
+        "Theoretical computer science",
+        "Computer science",
+        "Mutual exclusion",
+        "Axiom",
+        "Memory model",
+        "Programming language specification",
+        "Denotational semantics of the Actor model",
+        "Programming language"
+    ],
+    "references": [
+        "1509607403",
+        "1578801263",
+        "1644882639",
+        "1984801861",
+        "1991052229",
+        "2030159266",
+        "2091085450",
+        "2132638915",
+        "2296604987"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1588448334",
+    "title": "PeerNet: Pushing Peer-to-Peer Down the Stack",
+    "venue": "international workshop on peer-to-peer systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jakob Eriksson",
+            "id": "2129658448",
+            "org": "University of California"
+        },
+        {
+            "name": "Michalis Faloutsos",
+            "id": "166771321",
+            "org": "University of California"
+        },
+        {
+            "name": "Srikanth V. Krishnamurthy",
+            "id": "2133578551",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Gateway address",
+        "Computer science",
+        "Distributed computing",
+        "Reverse Address Resolution Protocol",
+        "IP address management",
+        "Link-local address",
+        "Bogon filtering",
+        "Computer network",
+        "IPv4 address exhaustion",
+        "IPv6 address",
+        "Overlay network"
+    ],
+    "references": [
+        "1521538824",
+        "1993248613",
+        "2014411916",
+        "2107345572",
+        "2120626294",
+        "2126319539",
+        "2152226783"
+    ]
+}

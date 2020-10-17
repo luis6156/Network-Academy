@@ -1,0 +1,45 @@
+{
+    "id": "1563140222",
+    "title": "On randomness extraction in elliptic curves",
+    "venue": "international conference on progress in cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Abdoul Aziz Ciss",
+            "id": "1973434843",
+            "org": "Ecole doctorale de Mathematiques et d'Informatique, Universite Cheikh Anta Diop de Dakar, Senegal, Dakar, Fann#TAB#"
+        },
+        {
+            "name": "Djiby Sow",
+            "id": "1983634204",
+            "org": "Ecole doctorale de Mathematiques et d'Informatique, Universite Cheikh Anta Diop de Dakar, Senegal, Dakar, Fann#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Randomness extractor",
+        "Curve25519",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Modular elliptic curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "30133068",
+        "1511514754",
+        "1532961226",
+        "1550022252",
+        "1592482282",
+        "1797136128",
+        "2015880590",
+        "2110218640",
+        "2110577195",
+        "2127083680",
+        "2148988600",
+        "2153971105",
+        "2156186849"
+    ]
+}

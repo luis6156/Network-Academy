@@ -1,0 +1,37 @@
+{
+    "id": "125723180",
+    "title": "Recovering windows secrets and EFS certificates offline",
+    "venue": "WOOT'10 Proceedings of the 4th USENIX conference on Offensive technologies",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Elie Burzstein",
+            "id": "2338051300",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Jean Michel Picod",
+            "id": "2643936684",
+            "org": "EADS#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "Syskey",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Password",
+        "Backdoor",
+        "Windows Vista",
+        "File system",
+        "Real-time computing",
+        "Data Protection API"
+    ],
+    "references": [
+        "1548067747",
+        "1549671385",
+        "2030993695",
+        "2135359429"
+    ]
+}

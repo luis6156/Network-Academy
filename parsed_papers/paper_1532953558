@@ -1,0 +1,39 @@
+{
+    "id": "1532953558",
+    "title": "Provable Correctness of Prototype Interpreters in LDL",
+    "venue": "compiler construction",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Ralf Lammel",
+            "id": "1921302331",
+            "org": "Universitat Rostock"
+        },
+        {
+            "name": "Gunter Riedewald",
+            "id": "2798750392",
+            "org": "Universitat Rostock"
+        }
+    ],
+    "fields_of_study": [
+        "Interpreter",
+        "Computer science",
+        "Attribute grammar",
+        "Denotational semantics",
+        "Procedural programming",
+        "Correctness",
+        "Rule-based machine translation",
+        "Prolog",
+        "Programming language"
+    ],
+    "references": [
+        "1522820101",
+        "1562070189",
+        "1589656356",
+        "1598074860",
+        "1936017528",
+        "1984841973",
+        "1999350505",
+        "2003848320"
+    ]
+}

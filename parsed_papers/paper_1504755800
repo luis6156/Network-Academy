@@ -1,0 +1,94 @@
+{
+    "id": "1504755800",
+    "title": "Deep neural network-based bottleneck feature and denoising autoencoder-based dereverberation for distant-talking speaker identification",
+    "venue": "Eurasip Journal on Audio, Speech, and Music Processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Zhaofeng Zhang",
+            "id": "2106994519",
+            "org": "Nagaoka University of Technology, Niigata, Japan"
+        },
+        {
+            "name": "Longbiao Wang",
+            "id": "2143172114",
+            "org": "Nagaoka University of Technology, Niigata, Japan"
+        },
+        {
+            "name": "Atsuhiko Kai",
+            "id": "2103397193",
+            "org": "Shizuoka University, Shizuoka, Japan"
+        },
+        {
+            "name": "Takanori Yamada",
+            "id": "2128806134",
+            "org": "Shizuoka University, Shizuoka, Japan"
+        },
+        {
+            "name": "Weifeng Li",
+            "id": "2125476956",
+            "org": "Tsinghua University, Beijing, China"
+        },
+        {
+            "name": "Masahiro Iwahashi",
+            "id": "2062107790",
+            "org": "Nagaoka University of Technology, Niigata, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Least mean squares filter",
+        "Artificial neural network",
+        "Autoencoder",
+        "Cepstrum",
+        "Pattern recognition",
+        "Computer science",
+        "Noise reduction",
+        "Feature vector",
+        "Speech recognition",
+        "Speaker recognition",
+        "Bottleneck",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "49995986",
+        "67398352",
+        "1230632900",
+        "1973669708",
+        "1982846521",
+        "1989163463",
+        "1993882792",
+        "1998229164",
+        "2009106392",
+        "2041823554",
+        "2042071805",
+        "2047769394",
+        "2053150333",
+        "2069883713",
+        "2103564015",
+        "2107363208",
+        "2107992675",
+        "2110322414",
+        "2114782757",
+        "2123237149",
+        "2124248639",
+        "2130361043",
+        "2130640611",
+        "2132214945",
+        "2136922672",
+        "2144467445",
+        "2145094598",
+        "2148898720",
+        "2150126176",
+        "2151435578",
+        "2151500768",
+        "2152210587",
+        "2158541934",
+        "2160815625",
+        "2166772024",
+        "2171666635",
+        "2296581541",
+        "2397634864",
+        "2402919203",
+        "2405774341"
+    ]
+}

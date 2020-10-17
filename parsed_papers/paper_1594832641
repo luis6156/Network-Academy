@@ -1,0 +1,77 @@
+{
+    "id": "1594832641",
+    "title": "Server-Side Code Injection Attacks: A Historical Perspective",
+    "venue": "recent advances in intrusion detection",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Jakob Fritz",
+            "id": "2516930573",
+            "org": "Symantec Research Labs, Sophia Antipolis, France and EURECOM, France#TAB#"
+        },
+        {
+            "name": "Corrado Leita",
+            "id": "2118654851",
+            "org": "Symantec Research Labs, Sophia Antipolis, France#TAB#"
+        },
+        {
+            "name": "Michalis Polychronakis",
+            "id": "198647274",
+            "org": "Columbia University, New York, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Server-side",
+        "Malware",
+        "Download",
+        "Computer science",
+        "Code injection",
+        "Computer security",
+        "Premises",
+        "Software deployment",
+        "Intrusion detection system",
+        "Honeypot"
+    ],
+    "references": [
+        "74995240",
+        "102746433",
+        "198543417",
+        "1510508184",
+        "1516506771",
+        "1522996108",
+        "1525958661",
+        "1540548505",
+        "1552056088",
+        "1561880491",
+        "1591237315",
+        "1597305440",
+        "1674877186",
+        "1921075642",
+        "2033811087",
+        "2035247360",
+        "2060276266",
+        "2100583963",
+        "2100673955",
+        "2102361025",
+        "2116065364",
+        "2117887253",
+        "2120361464",
+        "2133217855",
+        "2137786570",
+        "2138845856",
+        "2145027384",
+        "2145211381",
+        "2146211060",
+        "2157153057",
+        "2158302406",
+        "2161784403",
+        "2162800072",
+        "2163762767",
+        "2164253698",
+        "2167146581",
+        "2178663527",
+        "2213391909",
+        "2295386615",
+        "2495773464"
+    ]
+}

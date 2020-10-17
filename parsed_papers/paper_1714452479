@@ -1,0 +1,50 @@
+{
+    "id": "1714452479",
+    "title": "Debugging distributed shared memory applications",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jeffrey V. Olivier",
+            "id": "2105976777",
+            "org": "Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Chih-Ping Chen",
+            "id": "2805228184",
+            "org": "Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Jay Hoeflinger",
+            "id": "312486069",
+            "org": "Intel Corporation, Santa Clara, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Distributed shared memory",
+        "Debugger",
+        "Parallel algorithm",
+        "Real-time computing",
+        "Virtual memory",
+        "Debugging"
+    ],
+    "references": [
+        "1541759494",
+        "1780860177",
+        "1877496576",
+        "1971849938",
+        "2036048726",
+        "2044902313",
+        "2054739713",
+        "2097113145",
+        "2112942538",
+        "2132773226",
+        "2162648685",
+        "2177772636"
+    ]
+}

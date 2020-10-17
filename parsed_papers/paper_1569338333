@@ -1,0 +1,84 @@
+{
+    "id": "1569338333",
+    "title": "WorkOut: I/O workload outsourcing for boosting RAID reconstruction performance",
+    "venue": "file and storage technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Suzhen Wu",
+            "id": "2096767498",
+            "org": "Key Laboratory of Data Storage Systems, Ministry of Education of China and School of Computer Science & Technology, Huazhong University of Science & Technology#TAB#"
+        },
+        {
+            "name": "Hong Jiang",
+            "id": "2567157596",
+            "org": "Department of Computer Science & Engineering, University of Nebraska-Lincoln#TAB#"
+        },
+        {
+            "name": "Dan Feng",
+            "id": "2112861373",
+            "org": "Key Laboratory of Data Storage Systems, Ministry of Education of China and School of Computer Science & Technology, Huazhong University of Science & Technology#TAB#"
+        },
+        {
+            "name": "Lei Tian",
+            "id": "2327041347",
+            "org": "Key Laboratory of Data Storage Systems, Ministry of Education of China and School of Computer Science & Technology, Huazhong University of Science & Technology and University of Nebraska-Lincoln#TAB#"
+        },
+        {
+            "name": "Bo Mao",
+            "id": "2162148795",
+            "org": "Key Laboratory of Data Storage Systems, Ministry of Education of China and School of Computer Science & Technology, Huazhong University of Science & Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Outsourcing",
+        "Data scrubbing",
+        "Parallel computing",
+        "Response time",
+        "Input/output",
+        "Computer science",
+        "RAID",
+        "Workload",
+        "Reconstruction algorithm",
+        "Real-time computing",
+        "Boosting (machine learning)"
+    ],
+    "references": [
+        "140616940",
+        "1503196930",
+        "1550594210",
+        "1555915743",
+        "1569184546",
+        "1572571795",
+        "1585096280",
+        "1607828542",
+        "1633637678",
+        "1814217792",
+        "1934974943",
+        "2022013117",
+        "2026723064",
+        "2043719859",
+        "2053015279",
+        "2070511633",
+        "2088774956",
+        "2100595504",
+        "2103856794",
+        "2107502666",
+        "2108183412",
+        "2120396387",
+        "2123438830",
+        "2125165932",
+        "2125646999",
+        "2130762136",
+        "2131894525",
+        "2136288252",
+        "2143346789",
+        "2147504831",
+        "2148930480",
+        "2161234420",
+        "2167118853",
+        "2201220957",
+        "2205436351",
+        "2584774212"
+    ]
+}

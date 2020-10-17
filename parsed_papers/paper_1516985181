@@ -1,0 +1,58 @@
+{
+    "id": "1516985181",
+    "title": "Using Decision Trees to Construct a Practical Parser",
+    "venue": "Machine Learning",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Masahiko Haruno",
+            "id": "1961730516",
+            "org": "ATR Human Information Processing Research Laboratories, 2-2 Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-02, Japan. mharuno@hip.atr.co.jp#TAB#"
+        },
+        {
+            "name": "Satoshi Shirai",
+            "id": "2054864632",
+            "org": "NTT Communication Science Laboratories, 2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-02, Japan. shirai@cslab.kecl.ntt.co.jp#TAB#"
+        },
+        {
+            "name": "Yoshifumi Ooyama",
+            "id": "1969512997",
+            "org": "NTT Communication Science Laboratories, 2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-02, Japan. ooyama@cslab.kecl.ntt.co.jp#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GLR parser",
+        "Parsing expression grammar",
+        "Simple LR parser",
+        "Pattern recognition",
+        "Parser combinator",
+        "Computer science",
+        "LALR parser",
+        "LR parser",
+        "Top-down parsing",
+        "Canonical LR parser",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1520252399",
+        "1553313034",
+        "1567570606",
+        "1632114991",
+        "1966320875",
+        "1975846642",
+        "1986543644",
+        "1988790447",
+        "1994851566",
+        "2042033668",
+        "2082967074",
+        "2084044465",
+        "2099579348",
+        "2104364170",
+        "2110882317",
+        "2112076978",
+        "2119821739",
+        "2125055259",
+        "2153439141"
+    ]
+}

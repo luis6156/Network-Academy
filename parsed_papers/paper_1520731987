@@ -1,0 +1,55 @@
+{
+    "id": "1520731987",
+    "title": "Implementation of a Provably Secure, Smartcard-Based Key Distribution Protocol",
+    "venue": "smart card research and advanced application conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Rob Jerdonek",
+            "id": "2338360332",
+            "org": "Arcot Systems"
+        },
+        {
+            "name": "Peter Honeyman",
+            "id": "2236861272",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "Kevin Coffman",
+            "id": "2146493808",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "Jim Rees",
+            "id": "2120712880",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "Kip Wheeler",
+            "id": "2624504197",
+            "org": "Personal Cipher Card Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Tamper resistance",
+        "Technical report",
+        "Key distribution",
+        "Computer science",
+        "Security token",
+        "Shared secret",
+        "Computer security",
+        "Middleware",
+        "Computer network",
+        "Smart card"
+    ],
+    "references": [
+        "1482673219",
+        "1580733778",
+        "1844157571",
+        "1995156790",
+        "2047241038",
+        "2146973388",
+        "2149929743"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "1604914670",
+    "title": "Fisheye Consistency: Keeping Data in Synch in a Georeplicated World",
+    "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Roy Friedman",
+            "id": "2158327636",
+            "org": "The Technion Haifa"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "Institut Universitaire de France"
+        },
+        {
+            "name": "Francois Taiani",
+            "id": "97482500",
+            "org": "Universite de Rennes 1"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential consistency",
+        "Release consistency",
+        "Computer science",
+        "Distributed computing",
+        "Weak consistency",
+        "Local consistency",
+        "Strong consistency",
+        "Eventual consistency",
+        "Causal consistency",
+        "Consistency model"
+    ],
+    "references": [
+        "1409372306",
+        "1502619425",
+        "1544746240",
+        "1969434100",
+        "1969925795",
+        "1970765029",
+        "1973501242",
+        "1973943007",
+        "1981851173",
+        "1983572666",
+        "1985349143",
+        "2026697016",
+        "2029601347",
+        "2037503159",
+        "2054739713",
+        "2066463092",
+        "2078432474",
+        "2082173519",
+        "2087946700",
+        "2097113145",
+        "2098618284",
+        "2101939036",
+        "2114925953",
+        "2117260615",
+        "2118242633",
+        "2130068507",
+        "2151541805",
+        "2153704625",
+        "2161730338",
+        "2176864362",
+        "2295541535",
+        "2611515161"
+    ]
+}

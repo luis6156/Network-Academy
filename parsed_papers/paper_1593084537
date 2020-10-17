@@ -1,0 +1,27 @@
+{
+    "id": "1593084537",
+    "title": "PSTL: a C++ persistent standard template library",
+    "venue": "usenix conference on object oriented technologies and systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Thomas Gschwind",
+            "id": "2892658017",
+            "org": "Institut fur Informationssysteme, Technische Universitat Wien, Wien, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Reuse",
+        "Computer science",
+        "Allocator",
+        "Standard Template Library",
+        "Parameterized complexity",
+        "Operating system",
+        "Programming paradigm"
+    ],
+    "references": [
+        "1551735131",
+        "1870455363",
+        "2161694911"
+    ]
+}

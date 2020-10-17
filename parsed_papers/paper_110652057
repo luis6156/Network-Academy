@@ -1,0 +1,41 @@
+{
+    "id": "110652057",
+    "title": "Distributed Shared Memory in a Grid Environment",
+    "venue": "parallel computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "John Ryan",
+            "id": "2128080075",
+            "org": "Architecture Group|Dept . of Computer Science|Trinity College Dublin"
+        },
+        {
+            "name": "Brian A. Coghlan",
+            "id": "1129292723",
+            "org": "Architecture Group|Dept . of Computer Science|Trinity College Dublin"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Distributed computing",
+        "Uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Shared disk architecture",
+        "Flat memory model"
+    ],
+    "references": [
+        "131966827",
+        "1542985837",
+        "1567225655",
+        "2077783617",
+        "2109950185",
+        "2149658259",
+        "2164839094",
+        "2176864362"
+    ]
+}

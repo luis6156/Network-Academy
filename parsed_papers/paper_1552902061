@@ -1,0 +1,66 @@
+{
+    "id": "1552902061",
+    "title": "Design and implementation of zero-copy data path for efficient file transmission",
+    "venue": "high performance computing and communications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dong-Jae Kang",
+            "id": "2154041306",
+            "org": "Dept. of Computer Science and Information Engineering, In-Ha University, Incheon, Korea#TAB#"
+        },
+        {
+            "name": "Young Ho Kim",
+            "id": "2264135091",
+            "org": "Digital Home Division, ETRI, Internet Server Group, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Gyu-Il Cha",
+            "id": "2053498243",
+            "org": "Digital Home Division, ETRI, Internet Server Group, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Sung-In Jung",
+            "id": "2154176056",
+            "org": "Digital Home Division, ETRI, Internet Server Group, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Myung-Joon Kim",
+            "id": "2246118280",
+            "org": "Digital Home Division, ETRI, Internet Server Group, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Hae-Young Bae",
+            "id": "2091791173",
+            "org": "Dept. of Computer Science and Information Engineering, In-Ha University, Incheon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Context switch",
+        "CPU shielding",
+        "Computer science",
+        "Zero-copy",
+        "BogoMips",
+        "System call",
+        "CPU modes",
+        "Real-time computing",
+        "User space",
+        "CPU time"
+    ],
+    "references": [
+        "1554074961",
+        "1622463472",
+        "1931947872",
+        "2041406071",
+        "2045808511",
+        "2104278605",
+        "2106464803",
+        "2106571535",
+        "2150385140",
+        "2155142940",
+        "2157822123",
+        "2158374087",
+        "2161773783",
+        "2540564222"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1487777477",
+    "title": "Effective Flow Analysis for Avoiding Run-Time Checks",
+    "venue": "static analysis symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Suresh Jagannathan",
+            "id": "2141982898",
+            "org": "NEC Research Institute"
+        },
+        {
+            "name": "Andrew K. Wright",
+            "id": "2159959243",
+            "org": "NEC Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow",
+        "Theoretical computer science",
+        "Program analysis",
+        "Computer science",
+        "Type inference",
+        "Loop-invariant code motion",
+        "Data flow diagram",
+        "Constant folding",
+        "Real-time computing"
+    ],
+    "references": [
+        "1583857822",
+        "1829244603",
+        "1963954367",
+        "1974939942",
+        "2002301065",
+        "2014387690",
+        "2068711880",
+        "2088126145",
+        "2088735483",
+        "2092749348",
+        "2102389857",
+        "2137946574",
+        "2161100976",
+        "2166822586"
+    ]
+}

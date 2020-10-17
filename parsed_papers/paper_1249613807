@@ -1,0 +1,75 @@
+{
+    "id": "1249613807",
+    "title": "Aggregation and degradation in JetStream: streaming analytics in the wide area",
+    "venue": "networked systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Ariel Rabkin",
+            "id": "1972840072",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Matvey Arye",
+            "id": "2081858256",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Siddhartha Sen",
+            "id": "2124023276",
+            "org": "Microsoft Research and Princeton University#TAB#"
+        },
+        {
+            "name": "Vivek S. Pai",
+            "id": "2303316918",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Michael J. Freedman",
+            "id": "2144033718",
+            "org": "Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online analytical processing",
+        "Computer science",
+        "Distributed computing",
+        "Data set",
+        "Analytics",
+        "Latency (engineering)",
+        "Data quality",
+        "Adaptive control",
+        "Aggregate data",
+        "Real-time computing",
+        "Data cube"
+    ],
+    "references": [
+        "192446467",
+        "1493893823",
+        "1604745130",
+        "1940857845",
+        "2010801412",
+        "2022857134",
+        "2071989194",
+        "2078842512",
+        "2098935637",
+        "2100830825",
+        "2103201239",
+        "2103701891",
+        "2111495242",
+        "2115503987",
+        "2116400826",
+        "2117734592",
+        "2122465391",
+        "2131166445",
+        "2134206624",
+        "2135216003",
+        "2151249000",
+        "2153972927",
+        "2161756014",
+        "2167396179",
+        "2169070268",
+        "2173213060",
+        "2295655272"
+    ]
+}

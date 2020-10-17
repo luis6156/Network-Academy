@@ -1,0 +1,46 @@
+{
+    "id": "119554023",
+    "title": "A backbone-search heuristic for efficient solving of hard 3-SAT formulae",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Olivier Dubois",
+            "id": "2648952942",
+            "org": "LIP6, C.N.R.S., Universite Paris 6, Paris cedex 05, France#TAB#"
+        },
+        {
+            "name": "Gilles Dequen",
+            "id": "143342460",
+            "org": "LaRIA, Universite de Picardie, Jules Verne, C.U.R.I., Amiens, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Incremental heuristic search",
+        "Truth value",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Computer science",
+        "Null-move heuristic",
+        "Performance improvement",
+        "Heuristic",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "30950413",
+        "164363845",
+        "1511155470",
+        "1561608403",
+        "1567405466",
+        "2006424894",
+        "2011039300",
+        "2015932695",
+        "2021144815",
+        "2040287193",
+        "2057361103",
+        "2108637261",
+        "2129766896",
+        "2408006898"
+    ]
+}

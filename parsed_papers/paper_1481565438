@@ -1,0 +1,41 @@
+{
+    "id": "1481565438",
+    "title": "Generating Conformance Test Sequences for Combined Control and Data Flow of Communication Protocols",
+    "venue": "Proceedings of the IFIP TC6/WG6.1 Twelth International Symposium on Protocol Specification, Testing and Verification XII",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Raymond E. Miller",
+            "id": "2102912784",
+            "org": "Department of Computer Science, University of Maryland College Park, MD 20742 and Center of Excellence in Space Data and Information Sciences, NASA / Goddard Space Flight Center, Greenbelt, MD 20771"
+        },
+        {
+            "name": "Sanjoy Paul",
+            "id": "2422762728",
+            "org": "Department of Electrical Engineering, University of Maryland, College Park, MD 20742"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Test data",
+        "Executable",
+        "Computer science",
+        "Conformance testing",
+        "Extended finite-state machine",
+        "Data flow diagram",
+        "Data-flow analysis",
+        "Real-time computing",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1965028135",
+        "1985551847",
+        "2049695835",
+        "2059261337",
+        "2087555024",
+        "2090003379",
+        "2103095043",
+        "2120552859",
+        "2157755550"
+    ]
+}

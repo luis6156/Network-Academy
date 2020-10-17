@@ -1,0 +1,52 @@
+{
+    "id": "1483785569",
+    "title": "Reducing simple grammars: exponential against highly-polynomial time in practice",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Cedric Bastien",
+            "id": "2023926035",
+            "org": "Dept d'informatique, Universite du Quebec en Outaouais, Gatineau, PQ, Canada#TAB#"
+        },
+        {
+            "name": "Jurek Czyzowicz",
+            "id": "2086376774",
+            "org": "Dept d'informatique, Universite du Quebec en Outaouais, Gatineau, PQ, Canada#TAB#"
+        },
+        {
+            "name": "Wojciech Fraczak",
+            "id": "169751845",
+            "org": "Dept d'informatique, Universite du Quebec en Outaouais, Gatineau, PQ, Canada#TAB#"
+        },
+        {
+            "name": "Wojciech Rytter",
+            "id": "106771303",
+            "org": "Inst. of Informatics, Warsaw University, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Concatenation",
+        "Network packet",
+        "Pushdown automaton",
+        "String (computer science)",
+        "Rule-based machine translation",
+        "Finite-state machine",
+        "Polynomial"
+    ],
+    "references": [
+        "1483448012",
+        "1491846504",
+        "1512065894",
+        "1569142300",
+        "1573169217",
+        "2049140374",
+        "2051521505",
+        "2496312210",
+        "2545845195"
+    ]
+}

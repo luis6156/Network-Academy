@@ -1,0 +1,84 @@
+{
+    "id": "1615817163",
+    "title": "Exploiting GPUs in solving (Distributed) constraint optimization problems with dynamic programming",
+    "venue": "principles and practice of constraint programming",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ferdinando Fioretto",
+            "id": "2094514015",
+            "org": "Department of Computer Science, New Mexico State University, Las Cruces, NM and Department of Mathematics and Computer Science, University of Udine, Udine, Italy#TAB#"
+        },
+        {
+            "name": "Tiep Le",
+            "id": "2109185992",
+            "org": "Department of Computer Science, New Mexico State University, Las Cruces, NM#TAB#"
+        },
+        {
+            "name": "Enrico Pontelli",
+            "id": "708809703",
+            "org": "Department of Computer Science, New Mexico State University, Las Cruces, NM#TAB#"
+        },
+        {
+            "name": "William Yeoh",
+            "id": "2144475260",
+            "org": "Department of Computer Science, New Mexico State University, Las Cruces, NM#TAB#"
+        },
+        {
+            "name": "Tran Cao Son",
+            "id": "2138334042",
+            "org": "Department of Computer Science, New Mexico State University, Las Cruces, NM#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Massively parallel",
+        "Distributed constraint optimization",
+        "Theoretical computer science",
+        "Constraint graph",
+        "Computer science",
+        "Distributed computing",
+        "Government",
+        "Constrained optimization",
+        "Exploit",
+        "Dynamic programming",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "47957325",
+        "86878369",
+        "144875664",
+        "164384110",
+        "164823558",
+        "268318943",
+        "1493367991",
+        "1513653686",
+        "1534329790",
+        "1534902470",
+        "1548662753",
+        "1548955532",
+        "1589121577",
+        "1594489547",
+        "1723186713",
+        "1733489975",
+        "1975757946",
+        "1987169484",
+        "1989580616",
+        "2016721869",
+        "2037097668",
+        "2061734130",
+        "2078151974",
+        "2086801272",
+        "2099682955",
+        "2110116921",
+        "2119456262",
+        "2127093012",
+        "2141256287",
+        "2164500294",
+        "2175714895",
+        "2201282128",
+        "2256442247",
+        "2337098149",
+        "2610909219"
+    ]
+}

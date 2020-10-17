@@ -1,0 +1,39 @@
+{
+    "id": "1607798391",
+    "title": "The Stream Cipher HC-128",
+    "venue": "New Stream Cipher Designs",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hongjun Wu",
+            "id": "2098939585",
+            "org": "ESAT/SCD-COSIC and IBBT, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium B-3001#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Keystream",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Weak key",
+        "Initialization vector",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Distinguishing attack"
+    ],
+    "references": [
+        "1699105",
+        "1510779733",
+        "1520563459",
+        "1554090281",
+        "1555755354",
+        "1563606623",
+        "1572961947",
+        "1629301835",
+        "1709117811",
+        "1919209911",
+        "1979198062",
+        "2130943734"
+    ]
+}

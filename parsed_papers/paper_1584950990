@@ -1,0 +1,55 @@
+{
+    "id": "1584950990",
+    "title": "High-resolution side-channel attack using phase-based waveform matching",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Naofumi Homma",
+            "id": "2120252268",
+            "org": "Graduate School of Information Sciences, Tohoku University, Sendai-shi, Japan#TAB#"
+        },
+        {
+            "name": "Sei Nagashima",
+            "id": "2008373027",
+            "org": "Graduate School of Information Sciences, Tohoku University, Sendai-shi, Japan#TAB#"
+        },
+        {
+            "name": "Yuichi Imai",
+            "id": "2476574035",
+            "org": "Graduate School of Information Sciences, Tohoku University, Sendai-shi, Japan#TAB#"
+        },
+        {
+            "name": "Takafumi Aoki",
+            "id": "2103882778",
+            "org": "Graduate School of Information Sciences, Tohoku University, Sendai-shi, Japan#TAB#"
+        },
+        {
+            "name": "Akashi Satoh",
+            "id": "2110212166",
+            "org": "Tokyo Research Laboratory, IBM Japan, Ltd., IBM Research, Kanagawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic engineering",
+        "Waveform",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Observational error",
+        "Computer science",
+        "Motion estimation",
+        "Telecommunications",
+        "Signal processing",
+        "Power analysis",
+        "Sampling (statistics)",
+        "Discrete Fourier transform"
+    ],
+    "references": [
+        "1511843316",
+        "1583090871",
+        "1748081333",
+        "2073129397",
+        "2149839062",
+        "2154909745"
+    ]
+}

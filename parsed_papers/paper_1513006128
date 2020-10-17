@@ -1,0 +1,54 @@
+{
+    "id": "1513006128",
+    "title": "Combining static partitioning with dynamic distribution of threads",
+    "venue": "DIPES '98 Proceedings of the IFIP WG10.3/WG10.5 international workshop on Distributed and parallel embedded systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ronald Charles Moore",
+            "id": "2187749922",
+            "org": "Technische Informatik Frankfurt"
+        },
+        {
+            "name": "Melanie Klang",
+            "id": "2122686048",
+            "org": "Technische Informatik Frankfurt"
+        },
+        {
+            "name": "Bernd Klauer",
+            "id": "70702630",
+            "org": "Technische Informatik Frankfurt"
+        },
+        {
+            "name": "Klaus Waldschmidt",
+            "id": "2085693582",
+            "org": "Technische Informatik Frankfurt"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Gang scheduling",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Reconfigurable computing",
+        "Real-time computing",
+        "Automatic parallelization",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "42572848",
+        "52991900",
+        "271040076",
+        "1485882448",
+        "1567936764",
+        "1587741026",
+        "1761795627",
+        "2056893810",
+        "2136168879",
+        "2152654963",
+        "2154259093"
+    ]
+}

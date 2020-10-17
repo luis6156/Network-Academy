@@ -1,0 +1,71 @@
+{
+    "id": "116515026",
+    "title": "Detecting malicious java code using virtual machine auditing",
+    "venue": "usenix security symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sunil Soman",
+            "id": "2304849787",
+            "org": "Computer Science Department, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Chandra Krintz",
+            "id": "2051741376",
+            "org": "Computer Science Department, University of California, Santa Barbara#TAB#"
+        },
+        {
+            "name": "Giovanni Vigna",
+            "id": "2192390985",
+            "org": "Computer Science Department, University of California, Santa Barbara#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Real time Java",
+        "Java",
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Java concurrency",
+        "Intrusion detection system",
+        "strictfp",
+        "Virtual machine",
+        "Real-time computing"
+    ],
+    "references": [
+        "1495815054",
+        "1504916267",
+        "1570687565",
+        "1570845098",
+        "1621186777",
+        "1644882639",
+        "1759463127",
+        "1964647125",
+        "1976394633",
+        "1979449702",
+        "1994212840",
+        "2017233431",
+        "2020136418",
+        "2034711041",
+        "2041673946",
+        "2059168559",
+        "2075115041",
+        "2079029390",
+        "2083803628",
+        "2095219028",
+        "2102839400",
+        "2104152314",
+        "2105090082",
+        "2107409339",
+        "2114829925",
+        "2120284965",
+        "2123886726",
+        "2129860818",
+        "2130523241",
+        "2150847526",
+        "2157021454",
+        "2157213285"
+    ]
+}

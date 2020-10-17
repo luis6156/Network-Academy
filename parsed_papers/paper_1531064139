@@ -1,0 +1,47 @@
+{
+    "id": "1531064139",
+    "title": "A new approach towards coercion-resistant remote e-voting in linear time",
+    "venue": "financial cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Oliver Spycher",
+            "id": "2426420264",
+            "org": "University of Fribourg, Fribourg, Switzerland#TAB#"
+        },
+        {
+            "name": "Reto E. Koenig",
+            "id": "2127604973",
+            "org": "University of Fribourg, Fribourg, Switzerland#TAB#"
+        },
+        {
+            "name": "Rolf Haenni",
+            "id": "336598811",
+            "org": "Bern University of Applied Sciences, Biel, Switzerland#TAB#"
+        },
+        {
+            "name": "Michael Schlapfer",
+            "id": "1952944528",
+            "org": "ETH Zurich, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Electronic voting",
+        "Cryptography",
+        "Computer science",
+        "Computer security",
+        "Voting",
+        "ElGamal encryption"
+    ],
+    "references": [
+        "14951761",
+        "84283807",
+        "1492124753",
+        "1500897992",
+        "1593702530",
+        "2007216019",
+        "2121109075",
+        "2148791173"
+    ]
+}

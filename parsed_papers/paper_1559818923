@@ -1,0 +1,67 @@
+{
+    "id": "1559818923",
+    "title": "Evaluation of PP-1 Cipher Resistance against Differential and Linear Cryptanalysis in Comparison to a DES-like Cipher",
+    "venue": "Fundamenta Informaticae",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Krzysztof",
+            "id": "2334949723",
+            "org": "Institute of Control and Information Engineering, Poznan University of Technology, pl. Marii Sklodowskiej Curie 5, 60-965 Poznan, Poland. {krzysztof.chmiel, anna.grocholewska-czurylo, janusz.stokl ...#TAB#"
+        },
+        {
+            "name": "Anna Grocholewska-Czurylo",
+            "id": "1844408166",
+            "org": "(Correspd.) Institute of Control and Information Engineering, Poznan University of Technology, pl. Marii Sklodowskiej Curie 5, 60-965 Poznan, Poland. {krzysztof.chmiel, anna.grocholewska-czurylo, ...#TAB#"
+        },
+        {
+            "name": "Janusz Stoklosa",
+            "id": "2118120717",
+            "org": "(Correspd.) Institute of Control and Information Engineering, Poznan University of Technology, pl. Marii Sklodowskiej Curie 5, 60-965 Poznan, Poland. {krzysztof.chmiel, anna.grocholewska-czurylo, ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Affine cipher",
+        "Cipher",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Discrete mathematics",
+        "Two-square cipher",
+        "Stream cipher",
+        "CBC-MAC",
+        "Substitution-permutation network"
+    ],
+    "references": [
+        "52191336",
+        "122104886",
+        "1492016609",
+        "1515958737",
+        "1527031884",
+        "1527545029",
+        "1537206908",
+        "1540066842",
+        "1540211477",
+        "1541703086",
+        "1554865288",
+        "1556727271",
+        "1559005207",
+        "1568817903",
+        "1583224622",
+        "1583896587",
+        "1587158155",
+        "1597699498",
+        "1622456230",
+        "1870923733",
+        "1964723977",
+        "1968878564",
+        "1979802565",
+        "2039762626",
+        "2057524374",
+        "2170601728",
+        "2234576048",
+        "2586045835",
+        "2614865870"
+    ]
+}

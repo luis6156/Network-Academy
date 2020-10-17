@@ -1,0 +1,47 @@
+{
+    "id": "1511155652",
+    "title": "Improving the Performance of TCP on guaranteed bandwidth connections",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Hartmut Ritter",
+            "id": "2135351426",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Klaus Wehrle",
+            "id": "2633638059",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Lars C. Wolf",
+            "id": "2113341754",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Computer science",
+        "Distributed computing",
+        "HSTCP",
+        "TCP tuning",
+        "TCP acceleration",
+        "TCP hole punching",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "Compound TCP"
+    ],
+    "references": [
+        "59792448",
+        "1527623360",
+        "1584869129",
+        "1900338064",
+        "2021512083",
+        "2101182788",
+        "2121133509",
+        "2753542457"
+    ]
+}

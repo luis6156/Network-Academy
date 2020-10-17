@@ -1,0 +1,36 @@
+{
+    "id": "1563764837",
+    "title": "Termination Analysis for Offline Partial Evaluation of a Higher Order Functional Language",
+    "venue": "static analysis symposium",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Peter Holst Andersen",
+            "id": "2136883630",
+            "org": "University of Copenhagen"
+        },
+        {
+            "name": "Carsten Kehler Holst",
+            "id": "2659015651",
+            "org": "Prolog Development Center"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Abstract interpretation",
+        "Termination analysis",
+        "Functional programming",
+        "Partial evaluation"
+    ],
+    "references": [
+        "1514680630",
+        "1556604985",
+        "2004971560",
+        "2011648260",
+        "2044549124",
+        "2088126145",
+        "2091465888",
+        "2092282367"
+    ]
+}

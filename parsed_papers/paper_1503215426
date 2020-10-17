@@ -1,0 +1,65 @@
+{
+    "id": "1503215426",
+    "title": "Lock Reservation for Java Reconsidered",
+    "venue": "european conference on object-oriented programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Tamiya Onodera",
+            "id": "2084137428",
+            "org": "IBM Research, Tokyo Research Laboratory"
+        },
+        {
+            "name": "Kikyokuni Kawachiya",
+            "id": "2288394241",
+            "org": "IBM Research, Tokyo Research Laboratory"
+        },
+        {
+            "name": "Akira Koseki",
+            "id": "2105148279",
+            "org": "IBM Research, Tokyo Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Giant lock",
+        "Spinlock",
+        "Java",
+        "Parallel computing",
+        "Computer science",
+        "Lock (computer science)",
+        "Distributed lock manager",
+        "Readers-writer lock",
+        "Ticket lock",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1508742040",
+        "1589576271",
+        "1644882639",
+        "1830619643",
+        "1850405760",
+        "1967544098",
+        "1969610731",
+        "1971886849",
+        "1999637392",
+        "2001738739",
+        "2014474920",
+        "2014530617",
+        "2029601347",
+        "2036267700",
+        "2036719919",
+        "2064677427",
+        "2069278684",
+        "2077850509",
+        "2094449661",
+        "2108482548",
+        "2127163775",
+        "2131040110",
+        "2131791649",
+        "2145021036",
+        "2166071597",
+        "2168822998"
+    ]
+}

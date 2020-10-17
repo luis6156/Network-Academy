@@ -1,0 +1,39 @@
+{
+    "id": "1816510343",
+    "title": "A 12 Gbps DES Encryptor/Decryptor Core in an FPGA",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Steven Trimberger",
+            "id": "2400528700",
+            "org": "Xilinx, Inc"
+        },
+        {
+            "name": "Raymond C. Pang",
+            "id": "1970384755",
+            "org": "Xilinx, Inc"
+        },
+        {
+            "name": "Amit Singh",
+            "id": "2897490002",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Verilog",
+        "Parallel computing",
+        "Software development",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Critical path method",
+        "Encryption",
+        "Implementation",
+        "Coding conventions"
+    ],
+    "references": [
+        "1916681597",
+        "2161754620"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1529655353",
+    "title": "Weaknesses in Shared RSA Key Generation Protocols",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Simon R. Blackburn",
+            "id": "2113372304",
+            "org": "Royal Holloway, University of London"
+        },
+        {
+            "name": "Mike Burmester",
+            "id": "2339635653",
+            "org": "Royal Holloway, University of London"
+        },
+        {
+            "name": "StevenD. Galbraith",
+            "id": "2754383957",
+            "org": "Royal Holloway, University of London"
+        },
+        {
+            "name": "Simon Blake-Wilson[?][?]",
+            "id": "2563199643",
+            "org": "Royal Holloway, University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Communication complexity",
+        "Universal composability",
+        "Computer science",
+        "Distributed computing",
+        "Communication theory",
+        "Public-key cryptography",
+        "Adversary",
+        "Key generation"
+    ],
+    "references": [
+        "1493501268",
+        "1589034595",
+        "1888768993",
+        "1928188623",
+        "2054458282",
+        "2129033453",
+        "2230112138"
+    ]
+}

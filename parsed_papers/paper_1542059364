@@ -1,0 +1,52 @@
+{
+    "id": "1542059364",
+    "title": "Entity Authentication and Key Distribution",
+    "venue": "international cryptology conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Mihir Bellare",
+            "id": "2052950829",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Phillip Rogaway",
+            "id": "2106597688",
+            "org": "IBM Personal Software Products, Austin, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key authentication",
+        "Challenge-response authentication",
+        "Authentication protocol",
+        "Mutual authentication",
+        "Computer science",
+        "Computer security",
+        "Challenge-Handshake Authentication Protocol",
+        "Lightweight Extensible Authentication Protocol",
+        "Authenticated Key Exchange",
+        "Data Authentication Algorithm"
+    ],
+    "references": [
+        "1540322376",
+        "1588297800",
+        "1610349667",
+        "1979215153",
+        "1994386233",
+        "2000850689",
+        "2005386370",
+        "2011095011",
+        "2015826302",
+        "2052267638",
+        "2074594718",
+        "2077300005",
+        "2080317287",
+        "2117362057",
+        "2120600989",
+        "2121657064",
+        "2122984309",
+        "2146973388",
+        "2151413173",
+        "2164284862"
+    ]
+}

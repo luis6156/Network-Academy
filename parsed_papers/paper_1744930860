@@ -1,0 +1,75 @@
+{
+    "id": "1744930860",
+    "title": "Graph expansion analysis for communication costs of fast rectangular matrix multiplication",
+    "venue": "arXiv: Data Structures and Algorithms",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Grey Ballard",
+            "id": "2145812364",
+            "org": "EECS Department, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "James Demmel",
+            "id": "700277173",
+            "org": "Mathematics Department and CS Division, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Olga Holtz",
+            "id": "704587555",
+            "org": "Departments of Mathematics, University of California, Berkeley, and Technische Universitat, Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Benjamin Lipshitz",
+            "id": "121788905",
+            "org": "EECS Department, University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Oded Schwartz",
+            "id": "2169959827",
+            "org": "EECS Department, University of California, Berkeley, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Square matrix",
+        "Mathematics",
+        "Embedding",
+        "Matrix multiplication",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Strassen algorithm",
+        "Graph",
+        "Multiplication algorithm",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1507218610",
+        "1803362547",
+        "1809313304",
+        "1972501001",
+        "1996176003",
+        "1996440503",
+        "2010370862",
+        "2010747199",
+        "2022300065",
+        "2023122441",
+        "2023407443",
+        "2032839380",
+        "2033961328",
+        "2038729923",
+        "2043670592",
+        "2049500052",
+        "2053839977",
+        "2060075517",
+        "2068835684",
+        "2072582972",
+        "2089311600",
+        "2093825995",
+        "2104373803",
+        "2105097308",
+        "2132890668",
+        "2140802988",
+        "2158695970",
+        "2164946224"
+    ]
+}

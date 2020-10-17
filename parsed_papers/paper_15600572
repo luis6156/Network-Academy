@@ -1,0 +1,55 @@
+{
+    "id": "15600572",
+    "title": "Basic Design of the Earth Simulator",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Mitsuo Yokokawa",
+            "id": "2661690597",
+            "org": "Japan Atomic Energy Research Institute"
+        },
+        {
+            "name": "Shinichi Habata",
+            "id": "240086223",
+            "org": "NEC Corporation"
+        },
+        {
+            "name": "Shinichi Kawai",
+            "id": "2138527598",
+            "org": "National Space Development Agency of Japan"
+        },
+        {
+            "name": "Hiroyuki Ito",
+            "id": "2308628848",
+            "org": "National Space Development Agency of Japan"
+        },
+        {
+            "name": "Keiji Tani",
+            "id": "2587089545",
+            "org": "Japan Atomic Energy Research Institute"
+        },
+        {
+            "name": "Hajime Miyoshi",
+            "id": "2701989550",
+            "org": "Japan Atomic Energy Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Supercomputer",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Power system simulator for engineering",
+        "Computer architecture simulator",
+        "Crossbar switch",
+        "Distributed memory",
+        "Vector processor",
+        "Conceptual design"
+    ],
+    "references": [
+        "1967567989",
+        "2001618530"
+    ]
+}

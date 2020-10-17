@@ -1,0 +1,69 @@
+{
+    "id": "1519818949",
+    "title": "Thread Safety through Partitions and Effect Agreements",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Nicholas D. Matsakis",
+            "id": "1931309187",
+            "org": "ETH Zurich,#TAB#"
+        },
+        {
+            "name": "Thomas R. Gross",
+            "id": "2112219004",
+            "org": "ETH Zurich,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Basic block",
+        "Computer science",
+        "Transactional memory",
+        "Distributed computing",
+        "Thread safety",
+        "Granularity",
+        "Heap (data structure)",
+        "Effect system",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "105397881",
+        "267293633",
+        "1483872283",
+        "1502550949",
+        "1504633425",
+        "1526771983",
+        "1972445726",
+        "1975579741",
+        "2006290442",
+        "2033348393",
+        "2046137117",
+        "2046317364",
+        "2049984112",
+        "2052087935",
+        "2077288840",
+        "2083129236",
+        "2091089602",
+        "2093370559",
+        "2102640269",
+        "2108204150",
+        "2112281233",
+        "2113751407",
+        "2122465391",
+        "2136839747",
+        "2137252778",
+        "2146934772",
+        "2150922760",
+        "2158449625",
+        "2159113354",
+        "2161825580",
+        "2166615267",
+        "2173213060",
+        "2295118110",
+        "2295471304",
+        "2487224439"
+    ]
+}

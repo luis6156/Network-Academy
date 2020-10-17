@@ -1,0 +1,39 @@
+{
+    "id": "1487092338",
+    "title": "Detecting data races in sequential programs with DIOTA",
+    "venue": "european conference on parallel processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michiel Ronsse",
+            "id": "2001268419",
+            "org": "Ghent University"
+        },
+        {
+            "name": "Jonas Maebe",
+            "id": "2028317637",
+            "org": "Ghent University"
+        },
+        {
+            "name": "Koenraad De Bosschere",
+            "id": "2170705665",
+            "org": "Ghent University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Vector clock",
+        "Distributed computing",
+        "Data type"
+    ],
+    "references": [
+        "1492369718",
+        "1504080977",
+        "1591051730",
+        "1972544179",
+        "1973501242",
+        "2034256728",
+        "2109691981"
+    ]
+}

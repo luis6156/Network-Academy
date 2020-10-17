@@ -1,0 +1,56 @@
+{
+    "id": "12343306",
+    "title": "A cryptographic processor for low-resource devices: canning ECDSA and AES like sardines",
+    "venue": "international conference information security theory and practice",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Michael Hutter",
+            "id": "2132463570",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Martin Feldhofer",
+            "id": "53199844",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Johannes Wolkerstorfer",
+            "id": "2017924375",
+            "org": "xFace, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Datapath",
+        "SHA-1",
+        "Parallel computing",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "Digital signature",
+        "Hardware architecture"
+    ],
+    "references": [
+        "1505392493",
+        "1514141030",
+        "1565369953",
+        "1580441202",
+        "1606963767",
+        "2096133993",
+        "2113099111",
+        "2120472924",
+        "2125272473",
+        "2127115545",
+        "2140357064",
+        "2143032227",
+        "2144952508",
+        "2147227696",
+        "2154909745",
+        "2157672296",
+        "2163354454",
+        "2245967636",
+        "2400468522"
+    ]
+}

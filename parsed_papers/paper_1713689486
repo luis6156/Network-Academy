@@ -1,0 +1,42 @@
+{
+    "id": "1713689486",
+    "title": "Head pose detection based on fusion of multiple viewpoint information",
+    "venue": "CLEaR",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Cristian Canton-Ferrer",
+            "id": "1982845442",
+            "org": "Technical University of Catalonia, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Josep R. Casas",
+            "id": "2120894924",
+            "org": "Technical University of Catalonia, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Montse Pardas",
+            "id": "2304434974",
+            "org": "Technical University of Catalonia, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pose",
+        "Fusion",
+        "Computer vision",
+        "Redundancy (engineering)",
+        "Ellipsoid",
+        "Computer science",
+        "Skin patch",
+        "Kalman filter",
+        "Sensor fusion",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1550381988",
+        "1598872560",
+        "2102625004",
+        "2148508265",
+        "2161983816"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1241053677",
+    "title": "On the security of encryption modes of MD4, MD5 and HAVAL",
+    "venue": "international conference on information and communication security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jongsung Kim",
+            "id": "2810189738",
+            "org": "ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2810553182",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "HAVAL",
+        "Cipher",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Exploit",
+        "MD5"
+    ],
+    "references": [
+        "798366527",
+        "1481366493",
+        "1491388917",
+        "1515958737",
+        "1524407627",
+        "1547723203",
+        "1565084705",
+        "1590269592",
+        "1596744447",
+        "1656731780",
+        "1829558115",
+        "1851023053",
+        "1871986277",
+        "2098801947",
+        "2103239853",
+        "2104633167",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2170677368",
+        "2611506938"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "1519503583",
+    "title": "Static and Dynamic Program Compilation by Interpreter Specialization",
+    "venue": "Higher-order and Symbolic Computation \\/ Lisp and Symbolic Computation",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Scott Thibault",
+            "id": "2282389634",
+            "org": "COMPOSE group, IRISA/INRIA, Campus de Beaulieu, 35042 Rennes Cedex, France. thibault@gmvhdl.com#TAB#"
+        },
+        {
+            "name": "Charles Consel",
+            "id": "171983298",
+            "org": "COMPOSE group, IRISA/INRIA, Campus de Beaulieu, 35042 Rennes Cedex, France. consel@irisa.fr#TAB#"
+        },
+        {
+            "name": "Julia L. Lawall",
+            "id": "2083178904",
+            "org": "Computer Science Department, Boston University, 111 Cummington St., Boston, MA 02215, USA. [email protected]#TAB#"
+        },
+        {
+            "name": "Renaud Marlet",
+            "id": "687420851",
+            "org": "COMPOSE group, IRISA/INRIA, Campus de Beaulieu, 35042 Rennes Cedex, France. [email protected]#TAB#"
+        },
+        {
+            "name": "Gilles Muller",
+            "id": "2155298472",
+            "org": "COMPOSE group, IRISA/INRIA, Campus de Beaulieu, 35042 Rennes Cedex, France. [email protected]#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interpreter",
+        "Computer architecture",
+        "Compile time",
+        "Computer science",
+        "Compiler",
+        "Bytecode",
+        "Just-in-time compilation",
+        "Compiler construction",
+        "Optimizing compiler",
+        "Partial evaluation",
+        "Programming language"
+    ],
+    "references": [
+        "98425039",
+        "1480597667",
+        "1496885683",
+        "1508742040",
+        "1555697857",
+        "1556604985",
+        "1571653586",
+        "1596403187",
+        "1644882639",
+        "1797198873",
+        "1810396090",
+        "1844479717",
+        "1994099276",
+        "2002325351",
+        "2009418036",
+        "2019722731",
+        "2021951417",
+        "2022371412",
+        "2052170077",
+        "2058958439",
+        "2059237359",
+        "2088764887",
+        "2098667991",
+        "2107202938",
+        "2108437970",
+        "2113461663",
+        "2125062340",
+        "2127206965",
+        "2138381338",
+        "2140083133",
+        "2150769115",
+        "2155814128",
+        "2159141832"
+    ]
+}

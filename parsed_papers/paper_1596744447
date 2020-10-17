@@ -1,0 +1,62 @@
+{
+    "id": "1596744447",
+    "title": "Related-key rectangle attacks on reduced versions of SHACAL-1 and AES-192",
+    "venue": "fast software encryption",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Seokhie Hong",
+            "id": "2811263323",
+            "org": "Katholieke Universiteit Leuven, ESAT/SCD-COSIC, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven, ESAT/SCD-COSIC, Leuven-Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SHACAL",
+        "Cryptography",
+        "Mathematics",
+        "Algorithm",
+        "Cryptanalysis",
+        "Brute-force search",
+        "Boomerang attack",
+        "Distributed computing",
+        "Rectangle",
+        "Slide attack"
+    ],
+    "references": [
+        "18798069",
+        "45309531",
+        "52191336",
+        "798366527",
+        "1481366493",
+        "1502924772",
+        "1516699468",
+        "1524407627",
+        "1540066842",
+        "1541703086",
+        "1546907539",
+        "1556727271",
+        "1587120902",
+        "1605786664",
+        "1629301835",
+        "1806447353",
+        "1870015754",
+        "1871986277",
+        "1991897749",
+        "2610935322"
+    ]
+}

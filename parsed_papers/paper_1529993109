@@ -1,0 +1,58 @@
+{
+    "id": "1529993109",
+    "title": "Improved Cryptanalysis of the Block Cipher KASUMI",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Keting Jia",
+            "id": "2716416111",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Leibo Li",
+            "id": "2165077482",
+            "org": "Shandong University"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "2607524346",
+            "org": "Technical University of Denmark"
+        },
+        {
+            "name": "Jiazhe Chen",
+            "id": "2126160519",
+            "org": "Shandong University"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Tsinghua University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "XSL attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "Cryptanalysis",
+        "Computer science",
+        "Boomerang attack",
+        "Distributed computing",
+        "Slide attack",
+        "KASUMI"
+    ],
+    "references": [
+        "1498330251",
+        "1540875416",
+        "1541853791",
+        "1560320792",
+        "1563341929",
+        "1627707404",
+        "1806447353",
+        "2079197024",
+        "2493686639",
+        "2592352276"
+    ]
+}

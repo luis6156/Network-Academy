@@ -1,0 +1,30 @@
+{
+    "id": "1548516269",
+    "title": "A Fast New DES Implementation in Software",
+    "venue": "fast software encryption",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Parallel computing",
+        "SIMD",
+        "Computer architecture",
+        "Software",
+        "Software development",
+        "Computer science",
+        "Brute-force search",
+        "Implementation"
+    ],
+    "references": [
+        "1481631217",
+        "1882297107",
+        "1979282282",
+        "2098801947"
+    ]
+}

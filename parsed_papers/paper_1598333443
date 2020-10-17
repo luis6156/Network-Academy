@@ -1,0 +1,53 @@
+{
+    "id": "1598333443",
+    "title": "Using Model Trees for Classification",
+    "venue": "Machine Learning",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Eibe Frank",
+            "id": "2165714491",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand. E-mail: eibe@cs.waikato.ac.nz, yongwang@cs.waikato.ac.nz, singlis@cs.waikato.ac.nz, geoff@cs.waikato.ac.nz, ihw@cs.wai ...#TAB#"
+        },
+        {
+            "name": "Yong Wang",
+            "id": "2661700439",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand. E-mail: eibe@cs.waikato.ac.nz, yongwang@cs.waikato.ac.nz, singlis@cs.waikato.ac.nz, geoff@cs.waikato.ac.nz, ihw@cs.wai ...#TAB#"
+        },
+        {
+            "name": "Stuart J. Inglis",
+            "id": "2169970783",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand. E-mail: eibe@cs.waikato.ac.nz, yongwang@cs.waikato.ac.nz, singlis@cs.waikato.ac.nz, geoff@cs.waikato.ac.nz, ihw@cs.wai ...#TAB#"
+        },
+        {
+            "name": "Geoffrey Holmes",
+            "id": "2189262995",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand. E-mail: eibe@cs.waikato.ac.nz, yongwang@cs.waikato.ac.nz, singlis@cs.waikato.ac.nz, geoff@cs.waikato.ac.nz, ihw@cs.wai ...#TAB#"
+        },
+        {
+            "name": "Ian H. Witten",
+            "id": "2163446563",
+            "org": "Department of Computer Science, University of Waikato, Hamilton, New Zealand. E-mail: eibe@cs.waikato.ac.nz, yongwang@cs.waikato.ac.nz, singlis@cs.waikato.ac.nz, geoff@cs.waikato.ac.nz, ihw@cs.wai ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Decision tree learning",
+        "Weight-balanced tree",
+        "Mathematics",
+        "ID3 algorithm",
+        "Pattern recognition",
+        "Tree traversal",
+        "Logistic model tree",
+        "Classification Tree Method",
+        "Incremental decision tree",
+        "C4.5 algorithm",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1549238650",
+        "1676820704",
+        "2125055259",
+        "2132166479"
+    ]
+}

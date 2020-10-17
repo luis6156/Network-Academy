@@ -1,0 +1,51 @@
+{
+    "id": "1526085390",
+    "title": "Deformable registration of diffusion tensor MR images with explicit orientation optimization",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hui Zhang",
+            "id": "2653277364",
+            "org": "Department of Computer & Information Science, University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Paul A. Yushkevich",
+            "id": "272559230",
+            "org": "Department of Radiology, University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "James C. Gee",
+            "id": "2157377923",
+            "org": "Department of Radiology, University of Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Mathematics",
+        "Conjugate gradient method",
+        "Smoothness",
+        "Computer vision",
+        "Structure tensor",
+        "Diffusion MRI",
+        "Piecewise",
+        "Affine transformation",
+        "Image warping",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1598557217",
+        "1947363732",
+        "1949070191",
+        "1983496390",
+        "2016422704",
+        "2029778733",
+        "2048083280",
+        "2094682431",
+        "2097047986",
+        "2101641917",
+        "2121135966",
+        "2133584444",
+        "2145138920"
+    ]
+}

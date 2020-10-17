@@ -1,0 +1,70 @@
+{
+    "id": "1503389453",
+    "title": "Improved Cryptanalysis of Skein",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "FHNW, Windisch, Switzerland 5210#TAB#"
+        },
+        {
+            "name": "Cagdas Calik",
+            "id": "1445867597",
+            "org": "Institute of Applied Mathematics, Middle East Technical University, Ankara, Turkey 06531#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Windisch, Switzerland 5210#TAB#"
+        },
+        {
+            "name": "Onur Ozen",
+            "id": "2047715420",
+            "org": "EPFL IC LACAL, Lausanne, Switzerland 1015#TAB#"
+        },
+        {
+            "name": "Raphael C.-W. Phan",
+            "id": "2306257003",
+            "org": "Electronic and Electrical Engineering, Loughborough Uni, UK LE11 3TU#TAB#"
+        },
+        {
+            "name": "Kerem Varici",
+            "id": "170037261",
+            "org": "Dept. of Electrical Engineering, K.U.Leuven, Heverlee, Belgium 3001#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Threefish",
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Algorithm",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Pseudorandomness",
+        "Hash function",
+        "Skein"
+    ],
+    "references": [
+        "18798069",
+        "52191336",
+        "124034723",
+        "1499577822",
+        "1504341594",
+        "1508038907",
+        "1515958737",
+        "1541853791",
+        "1577801461",
+        "1603433154",
+        "1656731780",
+        "1794421227",
+        "1826962815",
+        "2103239853",
+        "2121895731",
+        "2135759164",
+        "2593463031"
+    ]
+}

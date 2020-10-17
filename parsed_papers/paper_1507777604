@@ -1,0 +1,36 @@
+{
+    "id": "1507777604",
+    "title": "Why Multi-SLD Beats SLD (Even on a Uniprocessor)",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Donald A. Smith",
+            "id": "2156491986",
+            "org": "University of Waikato"
+        }
+    ],
+    "fields_of_study": [
+        "Amdahl's law",
+        "Parallel computing",
+        "Speedup",
+        "Combinatorial search",
+        "Computer science",
+        "Constraint logic programming",
+        "Uniprocessor system",
+        "SLD resolution",
+        "Backtracking",
+        "Logic programming"
+    ],
+    "references": [
+        "35848413",
+        "65937437",
+        "191670929",
+        "288118142",
+        "1503229168",
+        "1553825282",
+        "1590082923",
+        "1979566015",
+        "2142423074"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": "1480336181",
+    "title": "Designing efficient authenticated key exchange resilient to leakage of ephemeral secret keys",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Atsushi Fujioka",
+            "id": "2735592098",
+            "org": "NTT Information Sharing Platform Laboratories, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Koutarou Suzuki",
+            "id": "2526671548",
+            "org": "NTT Information Sharing Platform Laboratories, Musashino-shi, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ephemeral key",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Diffie-Hellman key exchange",
+        "Forking lemma",
+        "Key (lock)",
+        "Random oracle",
+        "Static key",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "56996347",
+        "1487952919",
+        "1488807031",
+        "1515609811",
+        "1515922132",
+        "1538456250",
+        "1542059364",
+        "1585389879",
+        "1589586740",
+        "1602301309",
+        "1605836888",
+        "1660562555",
+        "1665450113",
+        "1857035554",
+        "1927099252",
+        "2012885700",
+        "2035098060",
+        "2037090944",
+        "2052267638",
+        "2067318305",
+        "2117455301",
+        "2134679597",
+        "2135654420",
+        "2153281696",
+        "2156186849",
+        "2169194339",
+        "2172194269",
+        "2397855210",
+        "2398824621",
+        "2399231875"
+    ]
+}

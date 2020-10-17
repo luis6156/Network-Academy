@@ -1,0 +1,46 @@
+{
+    "id": "1533899961",
+    "title": "Design and implementation of an FPGA-Based 1.452-gbps non-pipelined AES architecture",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ignacio Algredo-Badillo",
+            "id": "1975808667",
+            "org": "National Institute for Astrophysics, Optics and Electronics, Sta. Ma. Tonantzintla, Puebla, Mexico#TAB#"
+        },
+        {
+            "name": "Claudia Feregrino-Uribe",
+            "id": "2052018401",
+            "org": "National Institute for Astrophysics, Optics and Electronics, Sta. Ma. Tonantzintla, Puebla, Mexico#TAB#"
+        },
+        {
+            "name": "Rene Cumplido",
+            "id": "2799243942",
+            "org": "National Institute for Astrophysics, Optics and Electronics, Sta. Ma. Tonantzintla, Puebla, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Throughput",
+        "Parallel computing",
+        "Cycles per instruction",
+        "Computer architecture",
+        "Block cipher mode of operation",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "Architecture"
+    ],
+    "references": [
+        "170872169",
+        "1598409309",
+        "1660562555",
+        "2048167605",
+        "2101778660",
+        "2105101922",
+        "2105410736",
+        "2149209089"
+    ]
+}

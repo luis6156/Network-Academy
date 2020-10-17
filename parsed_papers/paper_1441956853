@@ -1,0 +1,51 @@
+{
+    "id": "1441956853",
+    "title": "Improved analysis of ECHO-256",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jeremy Jean",
+            "id": "2084267557",
+            "org": "Ecole Normale Superieure, France#TAB#"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Martin Schlaffer",
+            "id": "2159898291",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rebound attack",
+        "Perfect hash function",
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Collision attack",
+        "Hash function",
+        "Collision",
+        "Collision resistance"
+    ],
+    "references": [
+        "32003186",
+        "72943107",
+        "1521253015",
+        "1521748375",
+        "1527450129",
+        "1536918540",
+        "1548701190",
+        "1568559070",
+        "1574947811",
+        "1603433154",
+        "1838677899",
+        "2089916326",
+        "2136320902",
+        "2513781444"
+    ]
+}

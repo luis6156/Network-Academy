@@ -1,0 +1,54 @@
+{
+    "id": "1518911419",
+    "title": "THROOM: Supporting POSIX multithreaded binaries on a cluster",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Henrik Lof",
+            "id": "2124626590",
+            "org": "Uppsala University"
+        },
+        {
+            "name": "Zoran Radovic",
+            "id": "1926517185",
+            "org": "Uppsala University"
+        },
+        {
+            "name": "Erik Hagersten",
+            "id": "1982114091",
+            "org": "Uppsala University"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Runtime system",
+        "POSIX Threads",
+        "POSIX",
+        "Virtual memory"
+    ],
+    "references": [
+        "1542985837",
+        "1555915743",
+        "1968385969",
+        "2040183246",
+        "2046920165",
+        "2093045420",
+        "2096725595",
+        "2101166607",
+        "2111323576",
+        "2113873540",
+        "2130984459",
+        "2133766356",
+        "2134107175",
+        "2134913451",
+        "2145021036",
+        "2155425349"
+    ]
+}

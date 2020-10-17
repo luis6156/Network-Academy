@@ -1,0 +1,37 @@
+{
+    "id": "1510784804",
+    "title": "HARC: the highly-available resource co-allocator",
+    "venue": "international conference on move to meaningful internet systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jon MacLaren",
+            "id": "2288670678",
+            "org": "Centre for Computation & Technology, Louisiana State University, Baton Rouge, LA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Testbed",
+        "Commit",
+        "Computer science",
+        "Allocator",
+        "Distributed computing",
+        "Distributed transaction",
+        "Paxos",
+        "Real-time computing",
+        "High availability"
+    ],
+    "references": [
+        "1515932031",
+        "1608149079",
+        "1982873570",
+        "2000419465",
+        "2075023749",
+        "2114407468",
+        "2117316314",
+        "2129666400",
+        "2131081108",
+        "2260599271",
+        "2297145602"
+    ]
+}

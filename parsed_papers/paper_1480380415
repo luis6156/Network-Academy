@@ -1,0 +1,63 @@
+{
+    "id": "1480380415",
+    "title": "The Structure of the Essential Haskell Compiler, or Coping with Compiler Complexity",
+    "venue": "implementation and application of functional languages",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Atze Dijkstra",
+            "id": "2123037649",
+            "org": "Department of Information and Computing Sciences, Universiteit Utrecht, Utrecht, Netherlands#TAB#"
+        },
+        {
+            "name": "Jeroen D. Fokker",
+            "id": "1833442438",
+            "org": "Department of Information and Computing Sciences, Universiteit Utrecht, Utrecht, Netherlands#TAB#"
+        },
+        {
+            "name": "S. Doaitse Swierstra",
+            "id": "2075481397",
+            "org": "Department of Information and Computing Sciences, Universiteit Utrecht, Utrecht, Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interprocedural optimization",
+        "Computer architecture",
+        "Compiler",
+        "Functional compiler",
+        "Haskell",
+        "Computer science",
+        "Bootstrapping (compilers)",
+        "Inline expansion",
+        "Compiler construction",
+        "Compiler correctness",
+        "Programming language"
+    ],
+    "references": [
+        "1485908855",
+        "1528098570",
+        "1551189225",
+        "1552909716",
+        "1571615440",
+        "1574809794",
+        "1575663121",
+        "1796676969",
+        "1812582761",
+        "1949136631",
+        "1964071625",
+        "1976218147",
+        "1982448885",
+        "1994736245",
+        "2004155726",
+        "2048706733",
+        "2070811535",
+        "2070821087",
+        "2093896470",
+        "2118300983",
+        "2124119770",
+        "2130363716",
+        "2132837945",
+        "2145809484",
+        "2568653835"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "1608929692",
+    "title": "Universal hash functions & hard core bits",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Mats Naslund",
+            "id": "1879334623",
+            "org": "Royal Institute of Technology, Dept. of Numerical Analysis and Computing Science, Stockholm, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Fowler-Noll-Vo hash function",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Security of cryptographic hash functions",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "2027528470",
+        "2052207834",
+        "2095693260",
+        "2108104892",
+        "2164500771"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "157734009",
+    "title": "LIBKOMP, an efficient openMP runtime system for both fork-join and data flow paradigms",
+    "venue": "international workshop on openmp",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Francois Broquedis",
+            "id": "66313114",
+            "org": "MOAIS Team, LIG, INPG, Grenoble, France#TAB#"
+        },
+        {
+            "name": "Thierry Gautier",
+            "id": "2059405868",
+            "org": "MOAIS Team, LIG, INRIA, Grenoble, France#TAB#"
+        },
+        {
+            "name": "Vincent Danjean",
+            "id": "60520170",
+            "org": "MOAIS Team, LIG, UJF, Grenoble, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Supercomputer",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Computer science",
+        "Implementation",
+        "Task parallelism",
+        "Runtime system",
+        "Data flow diagram",
+        "Exploit"
+    ],
+    "references": [
+        "1531079003",
+        "1556657664",
+        "1596079868",
+        "1600065697",
+        "1607883981",
+        "1616582327",
+        "1720285298",
+        "1887586770",
+        "1912043041",
+        "1934815590",
+        "1965708711",
+        "1977966037",
+        "2013121458",
+        "2019028742",
+        "2032401773",
+        "2037574360",
+        "2072725684",
+        "2090409324",
+        "2098147619",
+        "2101468865",
+        "2109065830",
+        "2113941519",
+        "2119010809",
+        "2124480634",
+        "2132220514",
+        "2137702271",
+        "2144404616",
+        "2168339347"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "1534277908",
+    "title": "Predicting serializability violations: SMT-Based search vs. DPOR-Based search",
+    "venue": "haifa verification conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Arnab Sinha",
+            "id": "2562212995",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Sharad Malik",
+            "id": "2156970971",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Chao Wang",
+            "id": "2854535502",
+            "org": "Virginia Polytechnic Institute#TAB#"
+        },
+        {
+            "name": "Aarti Gupta",
+            "id": "2129619966",
+            "org": "NEC Laboratories America#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Context switch",
+        "Enumeration",
+        "Serializability",
+        "Computer science",
+        "Atomicity",
+        "Model checking",
+        "Real-time computing",
+        "Stateless protocol",
+        "Partial order reduction"
+    ],
+    "references": [
+        "1522334395",
+        "1522958625",
+        "1534988187",
+        "1556566737",
+        "1575599371",
+        "1581214603",
+        "1600422503",
+        "1787074469",
+        "1850312962",
+        "1862182621",
+        "1887412317",
+        "1972544179",
+        "1973501242",
+        "2022846948",
+        "2023304911",
+        "2033651910",
+        "2035510793",
+        "2056637671",
+        "2080703024",
+        "2084330491",
+        "2101939036",
+        "2118835133",
+        "2125533170",
+        "2142785340",
+        "2159765571",
+        "2162633985",
+        "2165422215",
+        "2169870841"
+    ]
+}

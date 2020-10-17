@@ -1,0 +1,45 @@
+{
+    "id": "1791264909",
+    "title": "Faults in large distributed systems and what we can do about them",
+    "venue": "european conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "George Kola",
+            "id": "2121635053",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison, Madison, WI#TAB#"
+        },
+        {
+            "name": "Tevfik Kosar",
+            "id": "1767238779",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison, Madison, WI#TAB#"
+        },
+        {
+            "name": "Miron Livny",
+            "id": "228437624",
+            "org": "Computer Sciences Department, University of Wisconsin-Madison, Madison, WI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Failure rate",
+        "Computer science",
+        "Distributed computing",
+        "Data Corruption",
+        "Grid",
+        "File server",
+        "Model-based reasoning",
+        "Distributed algorithm",
+        "Grid computing",
+        "Fault model"
+    ],
+    "references": [
+        "2103166562",
+        "2120510885",
+        "2133678518",
+        "2147504831",
+        "2148165526",
+        "2152465173",
+        "2154010459",
+        "2160366652"
+    ]
+}

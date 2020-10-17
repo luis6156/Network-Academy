@@ -1,0 +1,62 @@
+{
+    "id": "1548896727",
+    "title": "Linear cryptanalysis of ARIA block cipher",
+    "venue": "international conference on information and communication security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Zhiqiang Liu",
+            "id": "2674232880",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Dawu Gu",
+            "id": "2145276306",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Ya Liu",
+            "id": "2617649879",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Juanru Li",
+            "id": "2136162234",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Wei Li",
+            "id": "2718484388",
+            "org": "School of Computer Science and Technology, Donghua University, Shanghai, China and Shanghai Key Laboratory of Integrate Administration Technologies for Information Security, Shanghai, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Interpolation attack",
+        "Theoretical computer science",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "52191336",
+        "1503864966",
+        "1541703086",
+        "1542121656",
+        "1571067952",
+        "1629301835",
+        "1791039952",
+        "1860753482",
+        "1964723977",
+        "2066464272",
+        "2067040124",
+        "2091612798",
+        "2108286985",
+        "2234576048",
+        "2406233168"
+    ]
+}

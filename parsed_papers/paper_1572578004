@@ -1,0 +1,59 @@
+{
+    "id": "1572578004",
+    "title": "Noise-agnostic adaptive image filtering without training references on an evolvable hardware platform",
+    "venue": "conference on design and architectures for signal and image processing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Javier Mora",
+            "id": "2309369419",
+            "org": "Centro de Electron. Ind., Univ. Politec. de Madrid, Madrid, Spain"
+        },
+        {
+            "name": "Angel Gallego",
+            "id": "2660140078",
+            "org": "Centro de Electron. Ind., Univ. Politec. de Madrid, Madrid, Spain"
+        },
+        {
+            "name": "Andres Otero",
+            "id": "2160139617",
+            "org": "Centro de Electron. Ind., Univ. Politec. de Madrid, Madrid, Spain"
+        },
+        {
+            "name": "Eduardo de la Torre",
+            "id": "2149611330",
+            "org": "Centro de Electron. Ind., Univ. Politec. de Madrid, Madrid, Spain"
+        },
+        {
+            "name": "Teresa Riesgo",
+            "id": "2809188308",
+            "org": "Centro de Electron. Ind., Univ. Politec. de Madrid, Madrid, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Theoretical computer science",
+        "Composite image filter",
+        "Computer science",
+        "Fitness function",
+        "Filter (signal processing)",
+        "Evolvable hardware",
+        "Control reconfiguration",
+        "Real-time computing",
+        "Adaptive system"
+    ],
+    "references": [
+        "62719046",
+        "1572929635",
+        "1988375566",
+        "2093774917",
+        "2099617069",
+        "2122374500",
+        "2129652299",
+        "2133707340",
+        "2134689033",
+        "2146809054",
+        "2148358298",
+        "2164686545"
+    ]
+}

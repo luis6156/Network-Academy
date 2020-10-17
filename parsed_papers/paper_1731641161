@@ -1,0 +1,44 @@
+{
+    "id": "1731641161",
+    "title": "Quick-ACO: accelerating ant decisions and pheromone updates in ACO",
+    "venue": "european conference on evolutionary computation in combinatorial optimization",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Wei Cheng",
+            "id": "2290374605",
+            "org": "SAP AG, SAP Research Center Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Scheuermann",
+            "id": "2113008415",
+            "org": "SAP AG, SAP Research Center Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Martin Middendorf",
+            "id": "2062962849",
+            "org": "University of Leipzig, Faculty of Mathematics and Computer Science, Leipzig, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "ANT",
+        "Speedup",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Probabilistic logic",
+        "Ant colony optimization algorithms",
+        "Prefix sum",
+        "Probability distribution",
+        "Travelling salesman problem",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1566072726",
+        "1573676079",
+        "1801849579",
+        "1823070989",
+        "1890949457",
+        "2163428398"
+    ]
+}

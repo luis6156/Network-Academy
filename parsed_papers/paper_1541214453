@@ -1,0 +1,64 @@
+{
+    "id": "1541214453",
+    "title": "Efficient distributed test architectures for large-scale systems",
+    "venue": "international conference on testing software and systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Eduardo Cunha de Almeida",
+            "id": "2219357820",
+            "org": "Universidade Federal do Parana, Brazil#TAB#"
+        },
+        {
+            "name": "Joao Eugenio Marynowski",
+            "id": "2535638101",
+            "org": "Universidade Federal do Parana, Brazil#TAB#"
+        },
+        {
+            "name": "Gerson Sunye",
+            "id": "2657923944",
+            "org": "INRIA, University of Nantes, France#TAB#"
+        },
+        {
+            "name": "Yves Le Traon",
+            "id": "494248588",
+            "org": "SnT, University of Luxembourg#TAB#"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "INRIA, LIRM, Montpellier, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Distributed algorithm",
+        "Distributed design patterns",
+        "Test case",
+        "System under test",
+        "Distributed computing",
+        "Computer science",
+        "Control theory",
+        "Synchronization",
+        "Distributed System Security Architecture",
+        "Real-time computing"
+    ],
+    "references": [
+        "125510936",
+        "1513384635",
+        "1528643451",
+        "1554175117",
+        "1598300813",
+        "1845711048",
+        "1965727992",
+        "2002749300",
+        "2026036340",
+        "2082426953",
+        "2085501400",
+        "2104337680",
+        "2122465391",
+        "2163059190",
+        "2169933358",
+        "2173213060"
+    ]
+}

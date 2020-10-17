@@ -1,0 +1,37 @@
+{
+    "id": "1536769152",
+    "title": "Deterministic 1-k Routing on Meshes",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Jop F. Sibeyn",
+            "id": "136624136",
+            "org": "Max-Planck-Institut fur Informatik Im Stadtwald 66123 Saarbrucken Germany 66123 Saarbrucken Germany"
+        },
+        {
+            "name": "Michael Kaufmann",
+            "id": "2176702104",
+            "org": "Universitat Tubingen Wilhelm-Schickard-Institut fur Informatik Sand 13 72076 Tubingen Germany Sand 13 72076 Tubingen Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Static routing",
+        "Discrete mathematics",
+        "Computer science",
+        "Dynamic Source Routing",
+        "Loose Source Routing",
+        "Link-state routing protocol",
+        "Destination-Sequenced Distance Vector routing",
+        "Wireless Routing Protocol",
+        "DSRFLOW",
+        "Equal-cost multi-path routing"
+    ],
+    "references": [
+        "1696438149",
+        "1968358793",
+        "2035795684",
+        "2063311962",
+        "2086263221"
+    ]
+}

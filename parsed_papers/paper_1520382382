@@ -1,0 +1,50 @@
+{
+    "id": "1520382382",
+    "title": "Compressed Datacubes for fast OLAP Applications",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Francesco Buccafurri",
+            "id": "276193487",
+            "org": "DIMET, Universita di Reggio Calabria"
+        },
+        {
+            "name": "Domenico Rosaci",
+            "id": "20636212",
+            "org": "DIMET, Universita di Reggio Calabria"
+        },
+        {
+            "name": "Domenico Sacca",
+            "id": "2155445851",
+            "org": "DEIS, Universita della Calabria"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Online analytical processing",
+        "Data mining",
+        "Data cube",
+        "Database",
+        "Expected value",
+        "Tuple",
+        "Range query (data structures)",
+        "Aggregate data",
+        "Information processing",
+        "Matrix representation"
+    ],
+    "references": [
+        "1522055873",
+        "1601435884",
+        "2005188603",
+        "2071425575",
+        "2072764742",
+        "2091926418",
+        "2114076791",
+        "2122949840",
+        "2143401113",
+        "2171903035",
+        "2172028276",
+        "2296677182"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1524156700",
+    "title": "Malicious ICMP tunneling: defense against the vulnerability",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Abhishek Singh",
+            "id": "2305290565",
+            "org": "Georgia Tech. Information Security Center, Center for Experimental Research in Computer Systems, College of Computing, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Ola Nordstrom",
+            "id": "2134357166",
+            "org": "Georgia Tech. Information Security Center, Center for Experimental Research in Computer Systems, College of Computing, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Chenghuai Lu",
+            "id": "2119870169",
+            "org": "Georgia Tech. Information Security Center, Center for Experimental Research in Computer Systems, College of Computing, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        },
+        {
+            "name": "Andre L. M. dos Santos",
+            "id": "2140921228",
+            "org": "Georgia Tech. Information Security Center, Center for Experimental Research in Computer Systems, College of Computing, Georgia Institute of Technology, Atlanta, GA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Denial-of-service attack",
+        "Port (computer networking)",
+        "Computer science",
+        "Distributed computing",
+        "Ping flood",
+        "Internet Control Message Protocol",
+        "Network packet",
+        "Computer network",
+        "Stateless protocol",
+        "Covert channel"
+    ],
+    "references": [
+        "2060626729"
+    ]
+}

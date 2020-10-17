@@ -1,0 +1,63 @@
+{
+    "id": "1527125278",
+    "title": "Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication",
+    "venue": "very large data bases",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Michael J. Carey",
+            "id": "2157114695",
+            "org": "Computer Sciences Department|University of Wisconsin"
+        },
+        {
+            "name": "Miron Livny",
+            "id": "228437624",
+            "org": "Computer Sciences Department|University of Wisconsin"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed design patterns",
+        "Multiversion concurrency control",
+        "Algorithm",
+        "Replication (computing)",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Concurrency control",
+        "Database",
+        "Distributed concurrency control",
+        "Distributed algorithm",
+        "Timestamp-based concurrency control"
+    ],
+    "references": [
+        "48638210",
+        "144832856",
+        "149446377",
+        "160787565",
+        "172156111",
+        "288942908",
+        "1525780708",
+        "1567311035",
+        "1569242162",
+        "1598640943",
+        "1916593361",
+        "1993505169",
+        "2009998184",
+        "2035933658",
+        "2076627572",
+        "2078498419",
+        "2083875802",
+        "2085693661",
+        "2102333161",
+        "2102637936",
+        "2106887953",
+        "2108783024",
+        "2109612684",
+        "2110765100",
+        "2132511067",
+        "2133386065",
+        "2169888131",
+        "2175670954",
+        "2200275386"
+    ]
+}

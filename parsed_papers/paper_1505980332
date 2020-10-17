@@ -1,0 +1,46 @@
+{
+    "id": "1505980332",
+    "title": "Efficient techniques for high-speed elliptic curve cryptography",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Patrick Longa",
+            "id": "2894101273",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Canada#TAB#"
+        },
+        {
+            "name": "Catherine H. Gebotys",
+            "id": "258752153",
+            "org": "Department of Electrical and Computer Engineering, University of Waterloo, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperelliptic curve cryptography",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Curve25519",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "157575790",
+        "1495266644",
+        "1523293662",
+        "1539740938",
+        "1543173858",
+        "1565378600",
+        "1761314766",
+        "1957825227",
+        "2134258244",
+        "2160936837",
+        "2167078981",
+        "2397122158",
+        "2397610708"
+    ]
+}

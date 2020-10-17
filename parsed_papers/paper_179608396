@@ -1,0 +1,59 @@
+{
+    "id": "179608396",
+    "title": "Resolving journaling of journal anomaly in android I/O: multi-version B-tree with lazy split",
+    "venue": "file and storage technologies",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Wook-Hee Kim",
+            "id": "2138484068",
+            "org": "Ulsan National Institute of Science and Technology, Korea#TAB#"
+        },
+        {
+            "name": "Beomseok Nam",
+            "id": "2142117226",
+            "org": "Ulsan National Institute of Science and Technology, Korea#TAB#"
+        },
+        {
+            "name": "Dongil Park",
+            "id": "2131355334",
+            "org": "Hanyang University, Korea#TAB#"
+        },
+        {
+            "name": "Youjip Won",
+            "id": "2148748949",
+            "org": "Hanyang University, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Crash",
+        "Input/output",
+        "Computer science",
+        "Truncate",
+        "B-tree",
+        "Metadata",
+        "ext4",
+        "Journaling file system",
+        "Android (operating system)",
+        "Operating system",
+        "Real-time computing"
+    ],
+    "references": [
+        "42902378",
+        "1567210335",
+        "1994073219",
+        "2034586863",
+        "2055385473",
+        "2076536594",
+        "2098579796",
+        "2115837944",
+        "2132929952",
+        "2138433591",
+        "2150145391",
+        "2150433920",
+        "2150708794",
+        "2152301310",
+        "2154322583"
+    ]
+}

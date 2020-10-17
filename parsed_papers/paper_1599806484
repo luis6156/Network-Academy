@@ -1,0 +1,53 @@
+{
+    "id": "1599806484",
+    "title": "Processor-group aware runtime support for shared-and globaladdress space models",
+    "venue": "international conference on parallel processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Manojkumar Krishnan",
+            "id": "2157967220",
+            "org": "Pacific Northwest National Laboratory"
+        },
+        {
+            "name": "Vinod Tipparaju",
+            "id": "2762540024",
+            "org": "Pacific Northwest National Laboratory#TAB#"
+        },
+        {
+            "name": "Bruce J. Palmer",
+            "id": "2122770543",
+            "org": "Pacific Northwest National Laboratory#TAB#"
+        },
+        {
+            "name": "Jarek Nieplocha",
+            "id": "2056935207",
+            "org": "Pacific Northwest National Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Extended memory",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Memory management",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Runtime system"
+    ],
+    "references": [
+        "1591051730",
+        "1601205704",
+        "1751637436",
+        "1990284370",
+        "2012643955",
+        "2091933514",
+        "2109982223",
+        "2157203968",
+        "2199463396",
+        "2611598995"
+    ]
+}

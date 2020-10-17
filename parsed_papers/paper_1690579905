@@ -1,0 +1,43 @@
+{
+    "id": "1690579905",
+    "title": "A note on resource orchestration for cloud computing",
+    "venue": "Concurrency and Computation: Practice and Experience",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Rajiv Ranjan",
+            "id": "2005115202",
+            "org": "CSIRO Digital Productivity and Services Flagship ACT Australia"
+        },
+        {
+            "name": "Rajkumar Buyya",
+            "id": "737083156",
+            "org": "Cloud Computing and Distributed Systems (CLOUDS) Laboratory, Department of Computer Science and Software Engineering, The University of Melbourne, Melbourne, Australia"
+        },
+        {
+            "name": "Surya Nepal",
+            "id": "2157563740",
+            "org": "CSIRO Digital Productivity and Services Flagship NSW Australia"
+        },
+        {
+            "name": "Dimitrios Georgakopulos",
+            "id": "2806350612",
+            "org": "School of Computer Science and Information Technology, Royal Melbourne Institute of Technology, Melbourne, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Orchestration (computing)",
+        "Cloud computing"
+    ],
+    "references": [
+        "1673189746",
+        "1685106018",
+        "1923298278",
+        "1932332954",
+        "2114296561",
+        "2136381654"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1526598597",
+    "title": "Delayed side-effects ease multi-core programming",
+    "venue": "european conference on parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Anton Lokhmotov",
+            "id": "2779917018",
+            "org": "Computer Laboratory, University of Cambridge, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Alan Mycroft",
+            "id": "163000670",
+            "org": "Computer Laboratory, University of Cambridge, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Andrew Richards",
+            "id": "2102378062",
+            "org": "Codeplay Software Ltd, Edinburgh, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Software",
+        "Multi-core processor",
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "Dependence analysis",
+        "Implementation",
+        "Language construct",
+        "Sieve",
+        "Real-time computing",
+        "Programmer"
+    ],
+    "references": [
+        "1494930385",
+        "2108204150",
+        "2133385799"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1571043125",
+    "title": "Priority in DBMS resource scheduling",
+    "venue": "very large data bases",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Michael J. Carey",
+            "id": "2157114695",
+            "org": "Computer Sciences Department|University of Wisconsin"
+        },
+        {
+            "name": "Rajiv Jauhari",
+            "id": "2470658270",
+            "org": "Computer Sciences Department|University of Wisconsin"
+        },
+        {
+            "name": "Miron Livny",
+            "id": "228437624",
+            "org": "Computer Sciences Department|University of Wisconsin"
+        }
+    ],
+    "fields_of_study": [
+        "Priority inheritance",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Priority inversion",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Database",
+        "Priority ceiling protocol",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling"
+    ],
+    "references": [
+        "50083869",
+        "140066210",
+        "1520815598",
+        "1964050796",
+        "1996218716",
+        "2023671193",
+        "2048408594",
+        "2084895645",
+        "2120114814",
+        "2159209233",
+        "2163772659"
+    ]
+}

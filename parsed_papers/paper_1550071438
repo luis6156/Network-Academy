@@ -1,0 +1,60 @@
+{
+    "id": "1550071438",
+    "title": "Automatic Brain Tumor Segmentation from MR Images via a Multimodal Sparse Coding Based Probabilistic Model",
+    "venue": "international workshop on pattern recognition in neuroimaging",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yuhong Li",
+            "id": "2437846721",
+            "org": "Shenzhen Inst. of Adv. Technol., Shenzhen, China"
+        },
+        {
+            "name": "Qi Dou",
+            "id": "2226427118",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, Hong Kong, China"
+        },
+        {
+            "name": "Jinze Yu",
+            "id": "2303887227",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, Hong Kong, China"
+        },
+        {
+            "name": "Fucang Jia",
+            "id": "2153236101",
+            "org": "Shenzhen Inst. of Adv. Technol., Shenzhen, China"
+        },
+        {
+            "name": "Jing Qin",
+            "id": "2115663211",
+            "org": "Nat.-Regional Key Technol. Eng. Lab. for Med. Ultrasound, Shenzhen Univ., Shenzhen, China"
+        },
+        {
+            "name": "Pheng-Ann Heng",
+            "id": "2166341251",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, Hong Kong, China"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Neural coding",
+        "Grayscale",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Statistical model",
+        "Markov random field",
+        "Prior probability",
+        "Sparse approximation",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1865761",
+        "1567270145",
+        "1884191083",
+        "2005876975",
+        "2137186887",
+        "2143516773"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "169995170",
+    "title": "(Re)design considerations for scalable large-file content distribution",
+    "venue": "WORLDS'05 Proceedings of the 2nd conference on Real, Large Distributed Systems - Volume 2",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Brian Biskeborn",
+            "id": "521069759",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        },
+        {
+            "name": "Michael Golightly",
+            "id": "2323244465",
+            "org": "UC Irvine Computer Science Department and Department of Computer Science, Princeton University#TAB#"
+        },
+        {
+            "name": "KyoungSoo Park",
+            "id": "2128804186",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        },
+        {
+            "name": "Vivek S. Pai",
+            "id": "2303316918",
+            "org": "Department of Computer Science, Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Server",
+        "File transfer",
+        "The Internet",
+        "Heuristic",
+        "Real-time computing",
+        "Target audience",
+        "Conceptual design"
+    ],
+    "references": [
+        "151129402",
+        "1512273652",
+        "1558573344",
+        "1656271119",
+        "1978855656",
+        "2020765652",
+        "2112495447",
+        "2132051999",
+        "2153612500",
+        "2537790689"
+    ]
+}

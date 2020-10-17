@@ -1,0 +1,48 @@
+{
+    "id": "1527965259",
+    "title": "A Loop Parallelization Algorithm for HPF Compilers",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Kazuaki Ishizaki",
+            "id": "2020264740",
+            "org": "IBM Japan Ltd."
+        },
+        {
+            "name": "Hideaki Komatsu",
+            "id": "2115381187",
+            "org": "IBM Japan Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "For loop",
+        "Parallel computing",
+        "Computer architecture",
+        "Algorithm",
+        "Computer science",
+        "Compiler",
+        "Instruction prefetch",
+        "High Performance Fortran",
+        "Parallel algorithm",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1517343420",
+        "1974470587",
+        "2034804129",
+        "2049824838",
+        "2063905556",
+        "2070922326",
+        "2078113878",
+        "2092309910",
+        "2103156824",
+        "2111550867",
+        "2118735733",
+        "2125380948",
+        "2126338559",
+        "2152506070",
+        "2162343223"
+    ]
+}

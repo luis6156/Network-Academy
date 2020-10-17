@@ -1,0 +1,63 @@
+{
+    "id": "1788989147",
+    "title": "A Semi-automatic Endocardial Border Detection Method for 4D Ultrasound Data",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marijn van Stralen",
+            "id": "2801791893",
+            "org": "Leiden University Medical Center, Radiology"
+        },
+        {
+            "name": "Johan G. Bosch",
+            "id": "2893590761",
+            "org": "Leiden University Medical Center, Radiology"
+        },
+        {
+            "name": "Marco M. Voormolen",
+            "id": "2028360794",
+            "org": "Interuniversity Cardiology Institute of the Netherlands"
+        },
+        {
+            "name": "Gerard van Burken",
+            "id": "2793051674",
+            "org": "Leiden University Medical Center, Radiology"
+        },
+        {
+            "name": "Boudewijn J. Krenning",
+            "id": "2250759433",
+            "org": "Erasmus Medical Center, Thoraxcenter"
+        },
+        {
+            "name": "Charles T. Lancee",
+            "id": "2257518585",
+            "org": "Erasmus Medical Center, Thoraxcenter"
+        },
+        {
+            "name": "Nico de Jong",
+            "id": "2100354588",
+            "org": "Interuniversity Cardiology Institute of the Netherlands"
+        },
+        {
+            "name": "Johan H. C. Reiber",
+            "id": "1851866761",
+            "org": "Leiden University Medical Center, Radiology"
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Ultrasound",
+        "Pattern matching",
+        "Dynamic programming",
+        "Cardiac Ultrasound",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1592819755",
+        "1597553206",
+        "2057203440"
+    ]
+}

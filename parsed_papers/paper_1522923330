@@ -1,0 +1,61 @@
+{
+    "id": "1522923330",
+    "title": "Lock-free dynamically resizable arrays",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Damian Dechev",
+            "id": "1449342217",
+            "org": "Texas A&M University, TX#TAB#"
+        },
+        {
+            "name": "Peter Pirkelbauer",
+            "id": "255267460",
+            "org": "Texas A&M University, TX#TAB#"
+        },
+        {
+            "name": "Bjarne Stroustrup",
+            "id": "179039431",
+            "org": "Texas A&M University, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Random access",
+        "Parallel computing",
+        "ABA problem",
+        "Computer science",
+        "Compare-and-swap",
+        "Lock (computer science)",
+        "Memory management",
+        "Dynamic random-access memory",
+        "Non-blocking algorithm",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "97006766",
+        "1540179969",
+        "1561299197",
+        "1590194659",
+        "1901520916",
+        "1974122097",
+        "1978280181",
+        "1989300723",
+        "1996931099",
+        "2015192195",
+        "2029881550",
+        "2037683502",
+        "2062678317",
+        "2065052953",
+        "2084802221",
+        "2100357382",
+        "2101939036",
+        "2136651966",
+        "2159392969",
+        "2163248697",
+        "2166115541",
+        "2187800381",
+        "2611598995"
+    ]
+}

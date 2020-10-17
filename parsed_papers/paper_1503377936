@@ -1,0 +1,67 @@
+{
+    "id": "1503377936",
+    "title": "Solving QBF with counterexample guided refinement",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Mikolas Janota",
+            "id": "2059158575",
+            "org": "IST/INESC-ID, Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "William Klieber",
+            "id": "1966173252",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Joao Marques-Silva",
+            "id": "1981689023",
+            "org": "IST/INESC-ID, Lisbon, Portugal, University College Dublin, Ireland#TAB#"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Solver",
+        "Theoretical computer science",
+        "Recursion (computer science)",
+        "DPLL algorithm",
+        "Discrete mathematics",
+        "Abstraction",
+        "Counterexample",
+        "True quantified Boolean formula",
+        "Conjunctive normal form"
+    ],
+    "references": [
+        "9290171",
+        "81859766",
+        "99602494",
+        "129935311",
+        "147950966",
+        "150238194",
+        "178358665",
+        "1483522989",
+        "1494899888",
+        "1496518193",
+        "1513754266",
+        "1515623105",
+        "1518705996",
+        "1553565837",
+        "1561543482",
+        "1562832747",
+        "1568333198",
+        "1571893670",
+        "1603182045",
+        "1649706165",
+        "1834186039",
+        "2005573219",
+        "2025799810",
+        "2115235165",
+        "2127574686"
+    ]
+}

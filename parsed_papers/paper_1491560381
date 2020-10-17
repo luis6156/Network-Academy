@@ -1,0 +1,65 @@
+{
+    "id": "1491560381",
+    "title": "Performance of a code migration for the simulation of supersonic ejector flow to SMP, MIC, and GPU using OpenMP, OpenMP+LEO, and OpenACC directives",
+    "venue": "Scientific Programming",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Carlos Couder-Castaneda",
+            "id": "2273064168",
+            "org": "Departamento de Matematicas, Centro de Investigacion y Estudios Avanzados del Instituto Politecnico Nacional, Mexico, DF, Mexico and Centro de Desarrollo Aeroespacial del Insti ...#TAB#"
+        },
+        {
+            "name": "Hector Barrios-Pina",
+            "id": "2066831681",
+            "org": "Tecnologico de Monterrey, Avenida General Ramon Corona, Zapopan, JAL, Mexico#TAB#"
+        },
+        {
+            "name": "Isidoro Gitler",
+            "id": "2033190995",
+            "org": "Departamento de Matematicas, Centro de Investigacion y Estudios Avanzados del Instituto Politecnico Nacional (ABACUS-CINVESTAV-IPN), Mexico, DF, Mexico#TAB#"
+        },
+        {
+            "name": "Maricela Arroyo",
+            "id": "2133945575",
+            "org": "Departamento de Matematicas, Centro de Investigacion y Estudios Avanzados del Instituto Politecnico Nacional (ABACUS-CINVESTAV-IPN), Mexico, DF, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Xeon Phi",
+        "Software",
+        "Multi-core processor",
+        "Source code",
+        "Computer science",
+        "Computer architecture",
+        "Code (cryptography)",
+        "Xeon",
+        "Fortran",
+        "Supersonic speed"
+    ],
+    "references": [
+        "106651135",
+        "122620595",
+        "1503508068",
+        "1522731666",
+        "1522914210",
+        "1580684925",
+        "1888316275",
+        "2007292347",
+        "2008236489",
+        "2010011028",
+        "2047292351",
+        "2057630513",
+        "2057775008",
+        "2065420550",
+        "2076535184",
+        "2103837214",
+        "2113190809",
+        "2115528088",
+        "2115826526",
+        "2115954278",
+        "2135167116",
+        "2269751313"
+    ]
+}

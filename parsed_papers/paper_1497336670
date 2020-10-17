@@ -1,0 +1,80 @@
+{
+    "id": "1497336670",
+    "title": "Marathon: detecting atomic-set serializability violations with conflict graphs",
+    "venue": "runtime verification",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "William N. Sumner",
+            "id": "1263873108",
+            "org": "Purdue University, West Lafayette, IN#TAB#"
+        },
+        {
+            "name": "Christian Hammer",
+            "id": "2112860460",
+            "org": "Purdue University, West Lafayette, IN, USA,Utah State University, Logan, UT#TAB#"
+        },
+        {
+            "name": "Julian Dolby",
+            "id": "2089081252",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Commitment ordering",
+        "Heuristics",
+        "Schedule (computer science)",
+        "Computer science",
+        "Distributed computing",
+        "Serializability",
+        "Global serializability",
+        "Concurrency",
+        "Atomicity",
+        "Real-time computing",
+        "Two-phase locking"
+    ],
+    "references": [
+        "125251596",
+        "1496148388",
+        "1510845095",
+        "1513315626",
+        "1521216227",
+        "1532324212",
+        "1545155892",
+        "1575599371",
+        "1585867330",
+        "1595523781",
+        "1965462925",
+        "1970637218",
+        "1972544179",
+        "1993505169",
+        "2002179840",
+        "2061249226",
+        "2072062729",
+        "2082766667",
+        "2109033563",
+        "2111759889",
+        "2111900492",
+        "2116680978",
+        "2120027538",
+        "2122206368",
+        "2125533170",
+        "2127989655",
+        "2129045064",
+        "2134164054",
+        "2135023759",
+        "2137270184",
+        "2137422315",
+        "2140147547",
+        "2142647473",
+        "2151689991",
+        "2153229512",
+        "2157888439",
+        "2158175015",
+        "2159856414",
+        "2160489152",
+        "2165422215",
+        "2171076136",
+        "2172035080"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1529116031",
+    "title": "Anonymous signatures made easy",
+    "venue": "public key cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Marc Fischlin",
+            "id": "132146421",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Randomness extractor",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Anonymity",
+        "Schnorr signature",
+        "Random oracle",
+        "Merkle signature scheme"
+    ],
+    "references": [
+        "1501696897",
+        "1797136128",
+        "1826437507",
+        "1988619302",
+        "2039594335",
+        "2060474153",
+        "2107401406",
+        "2129483619",
+        "2139033758"
+    ]
+}

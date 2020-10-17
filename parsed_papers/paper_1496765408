@@ -1,0 +1,47 @@
+{
+    "id": "1496765408",
+    "title": "Gram-free synonym extraction via suffix arrays",
+    "venue": "asia information retrieval symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Minoru Yoshida",
+            "id": "2224840993",
+            "org": "Information Technology Center, University of Tokyo, Tokyo#TAB#"
+        },
+        {
+            "name": "Hiroshi Nakagawa",
+            "id": "2094248864",
+            "org": "Information Technology Center, University of Tokyo, Tokyo#TAB#"
+        },
+        {
+            "name": "Akira Terada",
+            "id": "2097864428",
+            "org": "Japan Airlines, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Suffix",
+        "Synonym",
+        "String searching algorithm",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Generalized suffix tree",
+        "Query string",
+        "Suffix array",
+        "Information retrieval",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "1506845741",
+        "1549339229",
+        "1587169500",
+        "1969173824",
+        "2056320444",
+        "2123294466",
+        "2155734786",
+        "2158874082",
+        "2160510157"
+    ]
+}

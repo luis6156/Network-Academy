@@ -1,0 +1,71 @@
+{
+    "id": "1781397158",
+    "title": "Hardware/Software co-design of public-key cryptography for SSL protocol execution in embedded systems",
+    "venue": "international conference on information and communication security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Manuel Koschuch",
+            "id": "2403897223",
+            "org": "FH Campus Wien, University of Applied Sciences, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Department of Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        },
+        {
+            "name": "Dan Page",
+            "id": "2894300787",
+            "org": "Department of Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        },
+        {
+            "name": "Philipp Grabher",
+            "id": "2037072807",
+            "org": "Department of Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        },
+        {
+            "name": "Matthias Hudler",
+            "id": "2100703857",
+            "org": "FH Campus Wien, University of Applied Sciences, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Michael Kruger",
+            "id": "2775891592",
+            "org": "FH Campus Wien, University of Applied Sciences, Vienna, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer hardware",
+        "Transport Layer Security",
+        "Multi-core processor",
+        "Software",
+        "Message forgery",
+        "Distributed computing",
+        "Computer science",
+        "Elliptic curve cryptography",
+        "Embedded system",
+        "SSL acceleration",
+        "Computer network",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "181098788",
+        "1481815984",
+        "1506716105",
+        "1524814392",
+        "1549342296",
+        "1567509742",
+        "1660562555",
+        "1947125001",
+        "1978098791",
+        "2096333427",
+        "2097488677",
+        "2121268634",
+        "2130741436",
+        "2151163104",
+        "2152124765",
+        "2167618690"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "121207683",
+    "title": "Auto-scoping for OpenMP tasks",
+    "venue": "international workshop on openmp",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sara Royuela",
+            "id": "2778040035",
+            "org": "Lawrence Livermore National Laboratory#TAB#"
+        },
+        {
+            "name": "Alejandro Duran",
+            "id": "2601250523",
+            "org": "Barcelona Supercomputing Center, Spain#TAB#"
+        },
+        {
+            "name": "Chunhua Liao",
+            "id": "2120604268",
+            "org": "Lawrence Livermore National Laboratory#TAB#"
+        },
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2126332795",
+            "org": "Lawrence Livermore National Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Asynchronous communication"
+    ],
+    "references": [
+        "194749298",
+        "1580702865",
+        "1795706927",
+        "2137702271",
+        "2142677441"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1502102375",
+    "title": "Greedy reclamation of unused bandwidth in constant-bandwidth servers",
+    "venue": "euromicro conference on real time systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Giuseppe Lipari",
+            "id": "2085284402",
+            "org": "Scuola Normale Superiore, Pisa, Italy"
+        },
+        {
+            "name": "Sanjoy K. Baruah",
+            "id": "2145728887",
+            "org": "The University of North Carolina#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Real-time computing",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Least slack time scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "194244820",
+        "2000642048",
+        "2018770409",
+        "2127613741",
+        "2134935059",
+        "2139995534",
+        "2146398836",
+        "2153177812",
+        "2176566884"
+    ]
+}

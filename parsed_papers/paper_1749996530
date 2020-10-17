@@ -1,0 +1,43 @@
+{
+    "id": "1749996530",
+    "title": "Transaction support in read optimized and write optimized file systems",
+    "venue": "very large data bases",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Margo I. Seltzer",
+            "id": "2337629383",
+            "org": "Department of Electrical Engineering and Computer Science|University of California Berkeley"
+        },
+        {
+            "name": "Michael Stonebraker",
+            "id": "1998938290",
+            "org": "Department of Electrical Engineering and Computer Science|University of California Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Nested transaction",
+        "Transaction processing system",
+        "Transaction data",
+        "Computer science",
+        "Transaction processing",
+        "X/Open XA",
+        "Distributed transaction",
+        "Database",
+        "Transaction log"
+    ],
+    "references": [
+        "1568731394",
+        "1986584060",
+        "2005235940",
+        "2008633193",
+        "2042907902",
+        "2056722845",
+        "2078775767",
+        "2114167330",
+        "2116223225",
+        "2147504831",
+        "2169629375"
+    ]
+}

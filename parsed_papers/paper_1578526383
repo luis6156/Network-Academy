@@ -1,0 +1,50 @@
+{
+    "id": "1578526383",
+    "title": "General Algorithms for Testing the Ambiguity of Finite Automata",
+    "venue": "developments in language theory",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Cyril Allauzen",
+            "id": "2276041039",
+            "org": "Google Research, New York NY 10011#TAB#"
+        },
+        {
+            "name": "Mehryar Mohri",
+            "id": "2150814284",
+            "org": "Google Research, New York NY 10011 and Courant Institute of Mathematical Sciences, New York NY 10012#TAB#"
+        },
+        {
+            "name": "Ashish Rastogi",
+            "id": "2175941756",
+            "org": "Google Research, New York NY 10011#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Deterministic finite automaton",
+        "Mathematics",
+        "Timed automaton",
+        "Algorithm",
+        "Discrete mathematics",
+        "DFA minimization",
+        "Quantum finite automata",
+        "Combinatorics",
+        "o-automaton",
+        "Two-way deterministic finite automaton",
+        "Continuous spatial automaton",
+        "Continuous automaton"
+    ],
+    "references": [
+        "1531215937",
+        "1552185717",
+        "1598450631",
+        "1607576897",
+        "1625762979",
+        "1672478560",
+        "1860547055",
+        "1975246937",
+        "2050431915",
+        "2072102045",
+        "2080070043"
+    ]
+}

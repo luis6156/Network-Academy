@@ -1,0 +1,53 @@
+{
+    "id": "1551026808",
+    "title": "Collective Loop Fusion for Array Contraction",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "McGill University"
+        },
+        {
+            "name": "R. Olsen",
+            "id": "2572878467",
+            "org": "McGill University"
+        },
+        {
+            "name": "Vivek Sarkar",
+            "id": "2164197688",
+            "org": "IBM Palo Alto Scientific Center"
+        },
+        {
+            "name": "Radhika Thekkath",
+            "id": "607938087",
+            "org": "University of Washington at Seattle"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Do while loop",
+        "Cache",
+        "Loop interchange",
+        "Parallel computing",
+        "Computer science",
+        "Loop fusion",
+        "Control theory",
+        "Loop unswitching",
+        "Cluster analysis",
+        "Scalar (physics)"
+    ],
+    "references": [
+        "1585509108",
+        "1843640069",
+        "1986906448",
+        "2043555680",
+        "2074719548",
+        "2102582914",
+        "2119609467",
+        "2135736783",
+        "2144344516",
+        "2172062522"
+    ]
+}

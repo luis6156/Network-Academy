@@ -1,0 +1,48 @@
+{
+    "id": "1611443333",
+    "title": "When was it written? automatically determining publication dates",
+    "venue": "string processing and information retrieval",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Anne Garcia-Fernandez",
+            "id": "2009063207",
+            "org": "CEA-LIST, DIASI-LVIC lab at Fontenay-Aux-Roses and LIMSI-CNRS, Orsay, France#TAB#"
+        },
+        {
+            "name": "Anne-Laure Ligozat",
+            "id": "321185983",
+            "org": "LIMSI-CNRS, Orsay and ENSIIE, Evry, France#TAB#"
+        },
+        {
+            "name": "Marco Dinarelli",
+            "id": "1972207242",
+            "org": "LIMSI-CNRS, Orsay, France#TAB#"
+        },
+        {
+            "name": "Delphine Bernhard",
+            "id": "2112362501",
+            "org": "LIMSI-CNRS, Orsay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cosine similarity",
+        "Computer science",
+        "Data mining",
+        "Newspaper",
+        "Information retrieval",
+        "Unsupervised learning",
+        "Support vector machine",
+        "French"
+    ],
+    "references": [
+        "1482754067",
+        "1547701650",
+        "1562765109",
+        "1812967757",
+        "1854866626",
+        "1876109516",
+        "1970053278",
+        "2148603752"
+    ]
+}

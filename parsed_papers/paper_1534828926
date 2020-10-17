@@ -1,0 +1,57 @@
+{
+    "id": "1534828926",
+    "title": "Interactively solving school timetabling problems using extensions of constraint programming",
+    "venue": "PATAT'04 Proceedings of the 5th international conference on Practice and Theory of Automated Timetabling",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hadrien Cambazard",
+            "id": "61422022",
+            "org": "Ecole des Mines de Nantes, LINA CNRS, Nantes Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Fabien Demazeau",
+            "id": "2284944075",
+            "org": "ISoft, Chemin de Moulon, Gif sur Yvette, France#TAB#"
+        },
+        {
+            "name": "Narendra Jussien",
+            "id": "39844680",
+            "org": "Ecole des Mines de Nantes, LINA CNRS, Nantes Cedex 3, France#TAB#"
+        },
+        {
+            "name": "Philippe David",
+            "id": "2238098703",
+            "org": "Ecole des Mines de Nantes, LINA CNRS, Nantes Cedex 3, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction problem",
+        "Computer science",
+        "Constraint satisfaction",
+        "Local search (optimization)",
+        "Automation",
+        "Dynamic problem",
+        "Constraint programming",
+        "Management science",
+        "Mathematical optimization",
+        "Planner"
+    ],
+    "references": [
+        "9108982",
+        "13654271",
+        "1499819045",
+        "1543616513",
+        "1560961966",
+        "1580191092",
+        "1586679033",
+        "1972307965",
+        "1989710875",
+        "2022088719",
+        "2095435811",
+        "2136516061",
+        "2161459931",
+        "2164279585",
+        "2264413202"
+    ]
+}

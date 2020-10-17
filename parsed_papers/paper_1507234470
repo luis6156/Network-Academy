@@ -1,0 +1,42 @@
+{
+    "id": "1507234470",
+    "title": "Dynamic Slicing of Concurrent Programs",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Diganta Goswami",
+            "id": "2193826688",
+            "org": "IIT Kharagpur"
+        },
+        {
+            "name": "Rajib Mall",
+            "id": "2133199092",
+            "org": "IIT Kharagpur"
+        }
+    ],
+    "fields_of_study": [
+        "Inter-process communication",
+        "Parallel computing",
+        "Software development",
+        "Slicing",
+        "Program Dependence Graph",
+        "Computer science",
+        "Distributed computing",
+        "Shared memory",
+        "Message passing",
+        "Message queue",
+        "Dynamic programming"
+    ],
+    "references": [
+        "1512687743",
+        "1518546135",
+        "1679685803",
+        "1973501242",
+        "1984248430",
+        "2047229718",
+        "2110066339",
+        "2147088720",
+        "2293624369"
+    ]
+}

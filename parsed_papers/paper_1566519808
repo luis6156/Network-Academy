@@ -1,0 +1,49 @@
+{
+    "id": "1566519808",
+    "title": "A new practical key recovery attack on the stream cipher RC4 under related-key model",
+    "venue": "international conference on information security and cryptology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jiageng Chen",
+            "id": "2116932563",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology, Nomi, Ishikawa, Japan#TAB#"
+        },
+        {
+            "name": "Atsuko Miyaji",
+            "id": "1454195615",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology, Nomi, Ishikawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Key-recovery attack",
+        "Pre-play attack",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Key space",
+        "Computer security",
+        "Related-key attack",
+        "Key generation"
+    ],
+    "references": [
+        "1498579927",
+        "1500414598",
+        "1510584840",
+        "1514674457",
+        "1546185552",
+        "1556597491",
+        "1566979565",
+        "1586548249",
+        "1602293460",
+        "1608372408",
+        "1742803828",
+        "1789460706",
+        "2144724363",
+        "2149237395",
+        "2151074078"
+    ]
+}

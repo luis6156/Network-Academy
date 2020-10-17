@@ -1,0 +1,57 @@
+{
+    "id": "1536934246",
+    "title": "Hybrid Modeling of TCP Congestion Control",
+    "venue": "international workshop on hybrid systems computation and control",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Joao P. Hespanha",
+            "id": "729891979",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Stephan Bohacek",
+            "id": "2014124814",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Katia Obraczka",
+            "id": "2189669108",
+            "org": "University of California"
+        },
+        {
+            "name": "Junsoo Lee",
+            "id": "2097833788",
+            "org": "University of Southern California"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "TCP Westwood plus",
+        "Simulation",
+        "Computer science",
+        "CUBIC TCP",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1550227333",
+        "1559815321",
+        "1990920914",
+        "2011730388",
+        "2021512083",
+        "2089049585",
+        "2096077397",
+        "2096812769",
+        "2105761946",
+        "2124478678",
+        "2133638675",
+        "2158312607",
+        "2158733823",
+        "2163093107",
+        "2753542457"
+    ]
+}

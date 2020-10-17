@@ -1,0 +1,41 @@
+{
+    "id": "162552777",
+    "title": "Smoothed Bloom Filter Language Models: Tera-Scale LMs on the Cheap",
+    "venue": "empirical methods in natural language processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Talbot",
+            "id": "2238055258",
+            "org": "School of Informatics|University of Edinburgh"
+        },
+        {
+            "name": "Miles Osborne",
+            "id": "2041005256",
+            "org": "School of Informatics|University of Edinburgh"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Word error rate",
+        "Computer science",
+        "Bloom filter",
+        "Lossless compression",
+        "Machine translation",
+        "Tera-",
+        "Data structure",
+        "Upper and lower bounds",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "45102278",
+        "1631260214",
+        "1993284846",
+        "2101105183",
+        "2106540279",
+        "2113788796",
+        "2123845384",
+        "2152263452"
+    ]
+}

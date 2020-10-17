@@ -1,0 +1,47 @@
+{
+    "id": "1527076549",
+    "title": "Transparent checkpoint-restart of multiple processes on commodity operating systems",
+    "venue": "usenix annual technical conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Oren Laadan",
+            "id": "92865957",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        },
+        {
+            "name": "Jason Nieh",
+            "id": "2241681790",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loadable kernel module",
+        "Commodity",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic loading",
+        "Embedded operating system",
+        "Dynamic load testing",
+        "Operating system",
+        "Real-time computing",
+        "Shared resource",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "11234669",
+        "114793137",
+        "1537929875",
+        "1591051730",
+        "1997269120",
+        "2047117506",
+        "2079577430",
+        "2110137598",
+        "2126527025",
+        "2131053137",
+        "2131726714",
+        "2149719295",
+        "2149886445",
+        "2157801087"
+    ]
+}

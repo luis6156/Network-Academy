@@ -1,0 +1,93 @@
+{
+    "id": "1502641483",
+    "title": "The deductive database system LDL",
+    "venue": "Theory and Practice of Logic Programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Faiz Arni",
+            "id": "257764983",
+            "org": "InferData Corporation, 8200 N. MoPac Expressway, Austin, TX 78759, USA (e-mail: farni@inferdata.com)#TAB#"
+        },
+        {
+            "name": "Kayliang Ong",
+            "id": "2255290582",
+            "org": "Trilogy Inc., 5001 Plaza on the Lake, Austin, TX 78746, USA (e-mail: kayliang.ong@trilogy.com)#TAB#"
+        },
+        {
+            "name": "Shalom Tsur",
+            "id": "2290410448",
+            "org": "BEA Systems, 2315 N. First Street, San Jose, CA 95131, USA (e-mail: dicktsur@bea.com)#TAB#"
+        },
+        {
+            "name": "Haixun Wang",
+            "id": "2809749288",
+            "org": "IBM T. J. Watson Research Center, 30 Saw Mill River Rd., Hawthorne, NY 10532, USA (e-mail: haixun@us.ibm.com)#TAB#"
+        },
+        {
+            "name": "Carlo Zaniolo",
+            "id": "2028117853",
+            "org": "Computer Science Department, University of California, Los Angeles, CA 90095, USA (e-mail: zaniolo@cs.ucla.edu)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Nondeterministic algorithm",
+        "Theoretical computer science",
+        "Computer science",
+        "Datalog",
+        "Execution model",
+        "Deductive database",
+        "Database",
+        "Non-monotonic logic",
+        "Middleware",
+        "Open architecture"
+    ],
+    "references": [
+        "27051971",
+        "137420848",
+        "200668985",
+        "203630350",
+        "270081759",
+        "1487307096",
+        "1489192275",
+        "1501850367",
+        "1507455930",
+        "1512199223",
+        "1528454277",
+        "1551066637",
+        "1558832481",
+        "1559694473",
+        "1570025952",
+        "1572693407",
+        "1579330263",
+        "1579386619",
+        "1590360882",
+        "1601280035",
+        "1768000531",
+        "1782388649",
+        "1823692244",
+        "1830557409",
+        "1839937676",
+        "1918398775",
+        "1968513265",
+        "1995532290",
+        "2016531106",
+        "2025415897",
+        "2044701300",
+        "2060693504",
+        "2061565124",
+        "2063061546",
+        "2082732197",
+        "2091843160",
+        "2095839927",
+        "2098168532",
+        "2105905502",
+        "2128770734",
+        "2149706766",
+        "2150426212",
+        "2296677182",
+        "2560899578",
+        "2611415697"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1588222159",
+    "title": "Improving reactivity and communication overlap in MPI using a generic I/O manager",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Francois Trahay",
+            "id": "2394737040",
+            "org": "INRIA, LaBRI, Universite Bordeaux 1, Talence, France#TAB#"
+        },
+        {
+            "name": "Alexandre Denis",
+            "id": "2119317556",
+            "org": "INRIA, LaBRI, Universite Bordeaux 1, Talence, France#TAB#"
+        },
+        {
+            "name": "Olivier Aumage",
+            "id": "33265524",
+            "org": "INRIA, LaBRI, Universite Bordeaux 1, Talence, France#TAB#"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "INRIA, LaBRI, Universite Bordeaux 1, Talence, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Interrupt",
+        "Parallel computing",
+        "Input/output",
+        "Instruction cycle",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Implementation",
+        "Polling"
+    ],
+    "references": [
+        "1581434145",
+        "1902354325",
+        "1966938284",
+        "1968411163",
+        "2120445647",
+        "2120827897",
+        "2142040211",
+        "2154058140"
+    ]
+}

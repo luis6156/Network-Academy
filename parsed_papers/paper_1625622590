@@ -1,0 +1,68 @@
+{
+    "id": "1625622590",
+    "title": "Response-Time Analysis of Conditional DAG Tasks in Multiprocessor Systems",
+    "venue": "euromicro conference on real-time systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Alessandra Melani",
+            "id": "1985890176",
+            "org": "Scuola Superiore Sant 'Anna, Pisa, Italy"
+        },
+        {
+            "name": "Marko Bertogna",
+            "id": "2014446980",
+            "org": "Univ. di Modena e Reggio Emilia, Modena, Italy"
+        },
+        {
+            "name": "Vincenzo Bonifaci",
+            "id": "2086928653",
+            "org": "Ist. di Analisi dei Sist. ed Inf., Rome, Italy"
+        },
+        {
+            "name": "Alberto Marchetti-Spaccamela",
+            "id": "1996985197",
+            "org": "Univ. di Roma \"La Sapienza\", Rome, Italy"
+        },
+        {
+            "name": "Giorgio C. Buttazzo",
+            "id": "203197416",
+            "org": "Scuola Superiore Sant 'Anna, Pisa, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Worst-case execution time",
+        "Control flow",
+        "Response time",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Metrical task system",
+        "Multiprocessing",
+        "Fork (system call)",
+        "Real-time computing"
+    ],
+    "references": [
+        "164978841",
+        "1977289603",
+        "1982587869",
+        "2027934431",
+        "2029835355",
+        "2044949390",
+        "2072162984",
+        "2081746076",
+        "2088046398",
+        "2089029954",
+        "2090822559",
+        "2090902997",
+        "2092826427",
+        "2095126271",
+        "2116581888",
+        "2116954426",
+        "2124888010",
+        "2141440050",
+        "2156316099",
+        "2168253093"
+    ]
+}

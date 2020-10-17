@@ -1,0 +1,62 @@
+{
+    "id": "1564501344",
+    "title": "A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System",
+    "venue": "very large data bases",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Kun-Lung Wu",
+            "id": "2095612124",
+            "org": "IBM T. J. Watson Research Center | IBM Programming Systems"
+        },
+        {
+            "name": "Philip S. Yu",
+            "id": "2125104194",
+            "org": "IBM T. J. Watson Research Center | IBM Programming Systems"
+        },
+        {
+            "name": "Jen-Yao Chung",
+            "id": "2871845537",
+            "org": "IBM T. J. Watson Research Center | IBM Programming Systems"
+        },
+        {
+            "name": "James Zu-chia Teng",
+            "id": "2139556000",
+            "org": "IBM T. J. Watson Research Center | IBM Programming Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Database tuning",
+        "Data striping",
+        "Merge sort",
+        "Computer science",
+        "sort",
+        "Multiprocessing",
+        "Workload",
+        "Database"
+    ],
+    "references": [
+        "1520815598",
+        "1568617491",
+        "1583865258",
+        "1731515069",
+        "2020040909",
+        "2029849129",
+        "2037807795",
+        "2038142281",
+        "2040823248",
+        "2053758583",
+        "2057176147",
+        "2083113964",
+        "2088590034",
+        "2095562348",
+        "2096428277",
+        "2107358291",
+        "2124170481",
+        "2147504831",
+        "2159209233",
+        "2160847577",
+        "2163910189",
+        "2296226841"
+    ]
+}

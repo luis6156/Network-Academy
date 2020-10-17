@@ -1,0 +1,67 @@
+{
+    "id": "1483831648",
+    "title": "Fault sensitivity analysis",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yang Li",
+            "id": "2479788587",
+            "org": "Department of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Sakiyama",
+            "id": "1905590919",
+            "org": "Department of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Shigeto Gomisawa",
+            "id": "241606053",
+            "org": "Department of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Toshinori Fukunaga",
+            "id": "2131602253",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Junko Takahashi",
+            "id": "2140760481",
+            "org": "Department of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan and NTT Information Sharing Platform Laboratories, NTT Corporation, Musashino-shi, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "Department of Informatics, The University of Electro-Communications, Chofu, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fault indicator",
+        "Side channel attack",
+        "Stuck-at fault",
+        "Countermeasure",
+        "Computer science",
+        "Implementation",
+        "Differential fault analysis",
+        "Fault coverage",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "1483074993",
+        "1515827409",
+        "1524438853",
+        "1581073174",
+        "1779923173",
+        "2110162979",
+        "2110941647",
+        "2112284176",
+        "2116497491",
+        "2139750209",
+        "2144137738",
+        "2144630005",
+        "2170489924",
+        "2283613275",
+        "2395187859"
+    ]
+}

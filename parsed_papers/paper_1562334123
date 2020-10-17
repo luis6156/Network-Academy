@@ -1,0 +1,50 @@
+{
+    "id": "1562334123",
+    "title": "Algebraic cryptanalysis of SMS4: grobner basis attack and SAT attack compared",
+    "venue": "international conference on information security and cryptology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jeremy P. Erickson",
+            "id": "2170503626",
+            "org": "The University of North Carolina at Chapel Hill, Chapel Hill, NC#TAB#"
+        },
+        {
+            "name": "Jintai Ding",
+            "id": "2135465465",
+            "org": "The University of Cincinnati, Cincinnati, OH and South China University of Technology, Guangzhou, China#TAB#"
+        },
+        {
+            "name": "Chris Christensen",
+            "id": "2409429141",
+            "org": "Northern Kentucky University, Highland Heights, KY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Grobner basis",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "WLAN Authentication and Privacy Infrastructure",
+        "Algebraic number",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "68643468",
+        "150724439",
+        "1475025077",
+        "1520260307",
+        "1542020576",
+        "1588952639",
+        "1760415648",
+        "1976677460",
+        "2100408583",
+        "2123217790",
+        "2124509406",
+        "2136016758",
+        "2408220704",
+        "2493686639"
+    ]
+}

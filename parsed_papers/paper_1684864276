@@ -1,0 +1,85 @@
+{
+    "id": "1684864276",
+    "title": "G 2 : a graph processing system for diagnosing distributed systems",
+    "venue": "usenix annual technical conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Zhenyu Guo",
+            "id": "2097628309",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Dong Zhou",
+            "id": "2621597404",
+            "org": "Tsinghua University#TAB#"
+        },
+        {
+            "name": "Haoxiang Lin",
+            "id": "2139123949",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Mao Yang",
+            "id": "2108289083",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Fan Long",
+            "id": "2115906623",
+            "org": "Tsinghua University#TAB#"
+        },
+        {
+            "name": "Chaoqiang Deng",
+            "id": "2223376596",
+            "org": "Harbin Institute of Technology#TAB#"
+        },
+        {
+            "name": "Changshu Liu",
+            "id": "2690693413",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Lidong Zhou",
+            "id": "2158515488",
+            "org": "Microsoft Research Asia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "Graph database",
+        "Computer science",
+        "Distributed computing",
+        "Wait-for graph",
+        "Modular decomposition",
+        "Clique-width",
+        "Graph product",
+        "Graph traversal",
+        "Graph operations"
+    ],
+    "references": [
+        "148956775",
+        "1493893823",
+        "1511806592",
+        "1518014189",
+        "1524673069",
+        "1537198022",
+        "1581005283",
+        "2005403724",
+        "2039157918",
+        "2051485794",
+        "2100830825",
+        "2117020308",
+        "2119400430",
+        "2122465391",
+        "2128825142",
+        "2137723287",
+        "2143522309",
+        "2153704625",
+        "2165202235",
+        "2170616854",
+        "2173213060",
+        "2624304035"
+    ]
+}

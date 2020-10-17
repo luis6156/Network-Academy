@@ -1,0 +1,86 @@
+{
+    "id": "142318018",
+    "title": "EncDNS: A Lightweight Privacy-Preserving Name Resolution Service",
+    "venue": "european symposium on research in computer security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Dominik Herrmann",
+            "id": "2140623829",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Karl-Peter Fuchs",
+            "id": "2141926073",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Jens Lindemann",
+            "id": "2251189200",
+            "org": "University of Hamburg"
+        },
+        {
+            "name": "Hannes Federrath",
+            "id": "2894511802",
+            "org": "University of Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Onion routing",
+        "Computer science",
+        "Anonymity",
+        "Distributed computing",
+        "Encryption",
+        "Communication source",
+        "Software deployment",
+        "DNSCurve",
+        "Name server",
+        "Architecture"
+    ],
+    "references": [
+        "792443",
+        "37081517",
+        "77564284",
+        "125619821",
+        "186684821",
+        "192474156",
+        "358480618",
+        "1481202711",
+        "1487260974",
+        "1515761040",
+        "1517109474",
+        "1518716055",
+        "1532957738",
+        "1545050218",
+        "1716079485",
+        "1763079358",
+        "1820393415",
+        "1828150029",
+        "1830741683",
+        "1910751411",
+        "1988922130",
+        "1991706615",
+        "2004790454",
+        "2011441851",
+        "2033378068",
+        "2058063209",
+        "2073346043",
+        "2083158002",
+        "2097981871",
+        "2101649797",
+        "2111427271",
+        "2116969595",
+        "2121063848",
+        "2121523570",
+        "2150307013",
+        "2154473393",
+        "2155357085",
+        "2158712362",
+        "2161954933",
+        "2164875918",
+        "2169197659",
+        "2225892878",
+        "2305162553",
+        "2408164229"
+    ]
+}

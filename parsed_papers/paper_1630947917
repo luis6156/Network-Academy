@@ -1,0 +1,49 @@
+{
+    "id": "1630947917",
+    "title": "New secret sharing scheme for multipartite access structures with threshold changeability",
+    "venue": "advances in computing and communications",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Appala Naidu Tentu",
+            "id": "188614734",
+            "org": "CR Rao AIMSCS, University of Hyderabad Campus, India"
+        },
+        {
+            "name": "Banita Mahapatra",
+            "id": "2232157630",
+            "org": "School of Computer and Information Sciences, University of Hyderabad, India"
+        },
+        {
+            "name": "V. Ch. Venkaiah",
+            "id": "2053807102",
+            "org": "School of Computer and Information Sciences, University of Hyderabad, India"
+        },
+        {
+            "name": "V. Kamakshi Prasad",
+            "id": "2150579798",
+            "org": "Computer Science and Engg., JNTU Hyderabad, India"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Access structure",
+        "Distributed computing",
+        "Shared secret",
+        "Homomorphic secret sharing",
+        "Verifiable secret sharing",
+        "Secret sharing",
+        "Shamir's Secret Sharing",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "64808156",
+        "110345297",
+        "1503827431",
+        "1507039798",
+        "2078049491",
+        "2141420453",
+        "2142804339"
+    ]
+}

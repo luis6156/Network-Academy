@@ -1,0 +1,41 @@
+{
+    "id": "1522914210",
+    "title": "Performance analysis of large-scale OpenMP and hybrid MPI/OpenMP applications with VampirNG",
+    "venue": "international workshop on openmp",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Holger Brunst",
+            "id": "2233930081",
+            "org": "Center for High Performance Computing, Dresden University of Technology, Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "Forschungszentrum Julich, ZAM, Julich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Program analysis",
+        "Computer science",
+        "Visualization",
+        "Instrumentation",
+        "Instrumentation (computer programming)",
+        "Bottleneck",
+        "Architecture"
+    ],
+    "references": [
+        "1508567954",
+        "1515668834",
+        "1518911419",
+        "1554879197",
+        "1858951234",
+        "1965351873",
+        "1995696544",
+        "2033848632",
+        "2053885966",
+        "2157456548"
+    ]
+}

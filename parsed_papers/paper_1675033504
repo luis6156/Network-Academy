@@ -1,0 +1,65 @@
+{
+    "id": "1675033504",
+    "title": "VeriFlow: verifying network-wide invariants in real time",
+    "venue": "networked systems design and implementation",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Ahmed Khurshid",
+            "id": "2097245742",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Xuan Zou",
+            "id": "2494719284",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Wenxuan Zhou",
+            "id": "2145226641",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Matthew Caesar",
+            "id": "2136255416",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "P. Brighten Godfrey",
+            "id": "2050740851",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Header",
+        "Network performance",
+        "Networking hardware",
+        "Invariant (mathematics)",
+        "Distributed computing",
+        "Computer science",
+        "Latency (engineering)",
+        "Control theory",
+        "Embedded system",
+        "Computer network",
+        "Real-time computing",
+        "Route Views",
+        "OpenFlow"
+    ],
+    "references": [
+        "158224344",
+        "1697123834",
+        "1882012874",
+        "1972121713",
+        "2022758041",
+        "2028491016",
+        "2107724874",
+        "2115526539",
+        "2120255160",
+        "2122695394",
+        "2137845741",
+        "2138556012",
+        "2140069682",
+        "2147118406",
+        "2149236835"
+    ]
+}

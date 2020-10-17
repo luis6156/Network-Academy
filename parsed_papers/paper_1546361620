@@ -1,0 +1,37 @@
+{
+    "id": "1546361620",
+    "title": "PARES - a portable parallel Estelle compiler",
+    "venue": "Proceedings of the Fifteenth IFIP WG6.1 International Symposium on Protocol Specification, Testing and Verification XV",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Ralf Plato",
+            "id": "2640962240",
+            "org": "\"Otto von Guericke\" University of Magdeburg"
+        },
+        {
+            "name": "Thomas Held",
+            "id": "2492983240",
+            "org": "\"Otto von Guericke\" University of Magdeburg"
+        },
+        {
+            "name": "Hartmut Konig",
+            "id": "2005254368",
+            "org": "Brandenburg University of Technology Cottbus"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Software",
+        "Executable",
+        "Compiler",
+        "Communications protocol",
+        "Computer science",
+        "Implementation"
+    ],
+    "references": [
+        "1542078801",
+        "1725974933"
+    ]
+}

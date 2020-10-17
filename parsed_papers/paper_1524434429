@@ -1,0 +1,51 @@
+{
+    "id": "1524434429",
+    "title": "The Effectiveness of Lattice Attacks Against Low-Exponent RSA",
+    "venue": "public key cryptography",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Christophe Coupe",
+            "id": "2806675248",
+            "org": "EEcole Normale Superieure de Lyon"
+        },
+        {
+            "name": "Phong Q. Nguyen",
+            "id": "2426635924",
+            "org": "Laboratoire d'Informatique"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "Laboratoire d'Informatique"
+        }
+    ],
+    "fields_of_study": [
+        "Coppersmith",
+        "Cryptography",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Padding",
+        "Encryption",
+        "Lattice reduction",
+        "Public-key cryptography",
+        "Polynomial",
+        "Coppersmith method"
+    ],
+    "references": [
+        "1494684815",
+        "1496432887",
+        "1550863203",
+        "1577571951",
+        "1749471906",
+        "1880955573",
+        "1989510734",
+        "1996360405",
+        "2085856764",
+        "2101040389",
+        "2147906334",
+        "2168581558"
+    ]
+}

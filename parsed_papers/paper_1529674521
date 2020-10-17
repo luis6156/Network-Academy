@@ -1,0 +1,80 @@
+{
+    "id": "1529674521",
+    "title": "2Gbit/s Hardware Realizations of RIJNDAEL and SERPENT: A Comparative Analysis",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "A. K. Lutz",
+            "id": "2522336374",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "J. Treichler",
+            "id": "2641405913",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Frank K. Gurkaynak",
+            "id": "1367917533",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Hubert Kaeslin",
+            "id": "10752299",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "G. Basler",
+            "id": "2276961410",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Antonia Erni",
+            "id": "2063580408",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "S. Reichmuth",
+            "id": "2510517643",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "P. Rommens",
+            "id": "2578291150",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Stephan Oetiker",
+            "id": "1362431811",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Wolfgang Fichtner",
+            "id": "2280870399",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic design automation",
+        "Computer hardware",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Cipher",
+        "Advanced Encryption Standard",
+        "Very-large-scale integration",
+        "Computer science",
+        "Encryption",
+        "Cryptosystem",
+        "Hardware architecture",
+        "Advanced Encryption Standard process"
+    ],
+    "references": [
+        "40954287",
+        "62567376",
+        "170872169",
+        "2102550826",
+        "2135430020",
+        "2885816077"
+    ]
+}

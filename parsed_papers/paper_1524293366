@@ -1,0 +1,89 @@
+{
+    "id": "1524293366",
+    "title": "Signatures resilient to continual leakage on memory and computation",
+    "venue": "theory of cryptography conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Tal Malkin",
+            "id": "2138775625",
+            "org": "Columbia University#TAB#"
+        },
+        {
+            "name": "Isamu Teranishi",
+            "id": "2076123490",
+            "org": "Columbia University and NEC Japan#TAB#"
+        },
+        {
+            "name": "Yevgeniy Vahlis",
+            "id": "273228002",
+            "org": "Columbia University#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Columbia University and Google Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Adversary",
+        "Hash function",
+        "Information leakage",
+        "Random oracle",
+        "Randomness",
+        "Leakage (electronics)",
+        "Memory leak",
+        "Key generation"
+    ],
+    "references": [
+        "22455336",
+        "111085860",
+        "236432643",
+        "1483290420",
+        "1494600236",
+        "1500578148",
+        "1508077776",
+        "1521253015",
+        "1527414074",
+        "1533139329",
+        "1547517307",
+        "1549397354",
+        "1563465674",
+        "1573157032",
+        "1575126375",
+        "1581111219",
+        "1588518948",
+        "1589034595",
+        "1592092778",
+        "1592625985",
+        "1593632631",
+        "1602503772",
+        "1606729219",
+        "1724890242",
+        "1752847028",
+        "1970187925",
+        "1987129710",
+        "2013689473",
+        "2026892462",
+        "2096290348",
+        "2097834299",
+        "2101248381",
+        "2107691219",
+        "2114296987",
+        "2133701468",
+        "2138177838",
+        "2138669153",
+        "2141395382",
+        "2141420453",
+        "2147436724",
+        "2153971105",
+        "2154909745",
+        "2169985476",
+        "2170255835",
+        "2170961388",
+        "2175377689",
+        "2520195611"
+    ]
+}

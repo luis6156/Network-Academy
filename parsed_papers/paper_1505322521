@@ -1,0 +1,68 @@
+{
+    "id": "1505322521",
+    "title": "Security of Cyclic Double Block Length Hash Functions",
+    "venue": "Cryptography and Coding '09 Proceedings of the 12th IMA International Conference on Cryptography and Coding",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ewan Fleischmann",
+            "id": "2040230289",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        },
+        {
+            "name": "Michael Gorski",
+            "id": "1995947717",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2250691467",
+            "org": "Bauhaus-University Weimar, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Residual block termination",
+        "Security of cryptographic hash functions",
+        "CBC-MAC",
+        "SWIFFT",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "1480951587",
+        "1482922493",
+        "1488885050",
+        "1533007301",
+        "1547189451",
+        "1547537489",
+        "1551878608",
+        "1565415113",
+        "1578871704",
+        "1581083284",
+        "1590269592",
+        "1600432225",
+        "1656731780",
+        "1660562555",
+        "1746730016",
+        "1801417685",
+        "1810651009",
+        "1863270349",
+        "2005903962",
+        "2007585625",
+        "2020726579",
+        "2064939672",
+        "2098801947",
+        "2140596630",
+        "2147436724",
+        "2168130511",
+        "2172433705",
+        "2405126662",
+        "2493686639",
+        "2611506938"
+    ]
+}

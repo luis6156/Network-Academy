@@ -1,0 +1,52 @@
+{
+    "id": "1615714516",
+    "title": "The Global EDF Scheduling of Systems of Conditional Sporadic DAG Tasks",
+    "venue": "euromicro conference on real-time systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Sanjoy K. Baruah",
+            "id": "2145728887",
+            "org": "Univ. of North Carolina, Chapel Hill, NC, USA"
+        },
+        {
+            "name": "Vincenzo Bonifaci",
+            "id": "2086928653",
+            "org": "IASI, Italy"
+        },
+        {
+            "name": "Alberto Marchetti-Spaccamela",
+            "id": "1996985197",
+            "org": "Sapienza Univ. di Roma, Rome, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Earliest deadline first scheduling",
+        "Multiprocessor scheduling",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "164978841",
+        "1977289603",
+        "1982587869",
+        "2027934431",
+        "2044949390",
+        "2081746076",
+        "2089029954",
+        "2090822559",
+        "2090902997",
+        "2095126271",
+        "2116581888",
+        "2124888010",
+        "2156316099",
+        "2168253093"
+    ]
+}

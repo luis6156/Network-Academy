@@ -1,0 +1,48 @@
+{
+    "id": "1583996828",
+    "title": "Towards Time-Predictable Data Caches for Chip-Multiprocessors",
+    "venue": "software technologies for embedded and ubiquitous systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Schoeberl",
+            "id": "2118320911",
+            "org": "Institute of Computer Engineering, Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Wolfgang Puffitsch",
+            "id": "287525815",
+            "org": "Institute of Computer Engineering, Vienna University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Benedikt Huber",
+            "id": "2117348810",
+            "org": "Institute of Computer Engineering, Vienna University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Snoopy cache",
+        "Bus sniffing",
+        "Pipeline burst cache",
+        "Cache pollution",
+        "Real-time computing"
+    ],
+    "references": [
+        "1482836859",
+        "1496153055",
+        "1521915012",
+        "1826276806",
+        "2017351599",
+        "2018426736",
+        "2066744234",
+        "2107568022",
+        "2145105471",
+        "2164459948"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1505920856",
+    "title": "How (not) to Design RSA Signature Schemes",
+    "venue": "public key cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jean FranCois Misarsky",
+            "id": "2780744465",
+            "org": "France Telecom"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Blind signature",
+        "Theoretical computer science",
+        "PKCS #1",
+        "Computer science",
+        "Distributed computing",
+        "Digital signature",
+        "Schnorr signature",
+        "Public-key cryptography",
+        "Merkle signature scheme",
+        "Ring signature"
+    ],
+    "references": [
+        "1540276440",
+        "1679474142",
+        "1804795452",
+        "1996360405",
+        "2056579313",
+        "2156186849",
+        "2162653919",
+        "2166457424",
+        "2474169756"
+    ]
+}

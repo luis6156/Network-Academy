@@ -1,0 +1,49 @@
+{
+    "id": "109376764",
+    "title": "Implementing an OpenMP execution environment on InfiniBand clusters",
+    "venue": "international workshop on openmp",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Carsten Trinitis",
+            "id": "2233889641",
+            "org": "Lehrstuhl fur Rechnertechnik und Rechnerorganisation, Technische Universitat Munchen, Garching, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "Speedup",
+        "Shared memory",
+        "Computer science",
+        "Compiler",
+        "InfiniBand",
+        "Parallel programming model",
+        "Distributed shared memory",
+        "Programming paradigm"
+    ],
+    "references": [
+        "51427095",
+        "1505958432",
+        "1524584778",
+        "1542985837",
+        "1551889632",
+        "2019614051",
+        "2054739713",
+        "2081251572",
+        "2110244632",
+        "2110965295",
+        "2145021036"
+    ]
+}

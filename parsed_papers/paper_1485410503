@@ -1,0 +1,48 @@
+{
+    "id": "1485410503",
+    "title": "Range estimation of floating-point variables in Simulink models",
+    "venue": "conference on design and architectures for signal and image processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Alexandre Chapoutot",
+            "id": "2085092119",
+            "org": "Department of Computer Science and System Engineering, ENSTA ParisTech - France"
+        },
+        {
+            "name": "Laurent-Stephane Didier",
+            "id": "2501564484",
+            "org": "Laboratoire d'informatique de Paris 6 (LIP6), Universite Pierre et Marie Curie - France"
+        },
+        {
+            "name": "Fanny Villers",
+            "id": "2229956482",
+            "org": "Laboratoire de probabilite et modeles aleatoires (LPMA), Universite Pierre et Marie Curie - France"
+        }
+    ],
+    "fields_of_study": [
+        "Generalized extreme value distribution",
+        "Fixed-point arithmetic",
+        "Computer science",
+        "Gumbel distribution",
+        "Digital signal processing",
+        "Extreme value theory",
+        "Design tool",
+        "Nonlinear system",
+        "Real-time computing",
+        "Floating point"
+    ],
+    "references": [
+        "1523628773",
+        "1910521375",
+        "2004464838",
+        "2043100293",
+        "2099432024",
+        "2105758955",
+        "2109573698",
+        "2132661148",
+        "2142481893",
+        "2147853615",
+        "2171319130"
+    ]
+}

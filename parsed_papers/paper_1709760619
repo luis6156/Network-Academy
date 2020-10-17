@@ -1,0 +1,50 @@
+{
+    "id": "1709760619",
+    "title": "A 0.821-ratio purely combinatorial algorithm for maximum k-vertex cover in bipartite graphs",
+    "venue": "latin american symposium on theoretical informatics",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Edouard Bonnet",
+            "id": "2116185260",
+            "org": "Hungarian Academy of Sciences (MTA SZTAKI)"
+        },
+        {
+            "name": "Bruno Escoffier",
+            "id": "1974687315",
+            "org": "Sorbonne Universites, UPMC Universite Paris 06, CNRS, LIP6 UMR 7606"
+        },
+        {
+            "name": "Vangelis Th. Paschos",
+            "id": "691884403",
+            "org": "PSL* Research University, Universite Paris-Dauphine, LAMSADE"
+        },
+        {
+            "name": "Georgios Stamoulis",
+            "id": "2758421902",
+            "org": "PSL* Research University, Universite Paris-Dauphine, LAMSADE"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Algorithm",
+        "Discrete mathematics",
+        "Matching (graph theory)",
+        "Combinatorics",
+        "Vertex cover",
+        "Bounded function",
+        "Bipartite graph",
+        "Hopcroft-Karp algorithm"
+    ],
+    "references": [
+        "9203110",
+        "1512148653",
+        "1947397138",
+        "2004973717",
+        "2034543148",
+        "2049200290",
+        "2073925702",
+        "2172162445"
+    ]
+}

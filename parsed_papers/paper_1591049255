@@ -1,0 +1,81 @@
+{
+    "id": "1591049255",
+    "title": "Percival: A searchable secret-split datastore",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Joel Cameron Frank",
+            "id": "2223325660",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA"
+        },
+        {
+            "name": "Shayna M. Frank",
+            "id": "2235426055",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA"
+        },
+        {
+            "name": "Lincoln Thurlow",
+            "id": "2223015011",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA"
+        },
+        {
+            "name": "Thomas M. Kroeger",
+            "id": "2081623485",
+            "org": "Sandia National Laboratories, Livermore, CA"
+        },
+        {
+            "name": "Ethan L. Miller",
+            "id": "2168190067",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA"
+        },
+        {
+            "name": "Darrell D. E. Long",
+            "id": "2171999619",
+            "org": "Storage Systems Research Center, University of California, Santa Cruz, CA"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Information privacy",
+        "Computer science",
+        "Encryption",
+        "Server",
+        "Database",
+        "Secret sharing",
+        "Hardware security module",
+        "Key management",
+        "Hash function"
+    ],
+    "references": [
+        "40480588",
+        "106544195",
+        "1482576848",
+        "1549681244",
+        "1566782895",
+        "1655958391",
+        "1866082874",
+        "1992479210",
+        "2027454254",
+        "2060145807",
+        "2064360543",
+        "2068967633",
+        "2101563515",
+        "2103184997",
+        "2109266092",
+        "2116777751",
+        "2121133177",
+        "2131043660",
+        "2134181838",
+        "2141420453",
+        "2146828512",
+        "2147929033",
+        "2148098489",
+        "2153523188",
+        "2156591836",
+        "2161214567",
+        "2167434739",
+        "2170961388",
+        "2175377689"
+    ]
+}

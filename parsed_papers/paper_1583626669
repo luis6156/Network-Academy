@@ -1,0 +1,35 @@
+{
+    "id": "1583626669",
+    "title": "CPCMS: A Configuration Management System Based on Cryptographic Names",
+    "venue": "usenix annual technical conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jonathan S. Shapiro",
+            "id": "2308511989",
+            "org": "Systems Research Laboratory|Johns Hopkins University"
+        },
+        {
+            "name": "John Vanderburgh",
+            "id": "2008700519",
+            "org": "Systems Research Laboratory|Johns Hopkins University"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Cryptography",
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Architecture",
+        "Configuration management"
+    ],
+    "references": [
+        "1531360494",
+        "1589232168",
+        "2097829252",
+        "2152212283",
+        "2166667085",
+        "2167800525"
+    ]
+}

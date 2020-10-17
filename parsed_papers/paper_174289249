@@ -1,0 +1,58 @@
+{
+    "id": "174289249",
+    "title": "Decentralized deduplication in SAN cluster file systems",
+    "venue": "usenix annual technical conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Austin T. Clements",
+            "id": "2171474616",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Irfan Ahmad",
+            "id": "2167449976",
+            "org": "VMware, Inc.#TAB#"
+        },
+        {
+            "name": "Murali Vilayannur",
+            "id": "2551396100",
+            "org": "VMware, Inc.#TAB#"
+        },
+        {
+            "name": "Jinyuan Li",
+            "id": "2649829006",
+            "org": "VMware, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unix file types",
+        "Computer science",
+        "Versioning file system",
+        "File area network",
+        "Database",
+        "File Control Block",
+        "Fork (file system)",
+        "Stub file",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "Real-time computing"
+    ],
+    "references": [
+        "24740120",
+        "66768725",
+        "193648907",
+        "200233886",
+        "1576397915",
+        "2011547799",
+        "2025179487",
+        "2053609011",
+        "2087966340",
+        "2121542813",
+        "2131645490",
+        "2143882267",
+        "2149993626",
+        "2157240622",
+        "2171321454"
+    ]
+}

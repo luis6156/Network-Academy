@@ -1,0 +1,67 @@
+{
+    "id": "1561328404",
+    "title": "Efficient computation of substring equivalence classes with suffix arrays",
+    "venue": "combinatorial pattern matching",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kazuyuki Narisawa",
+            "id": "2072333583",
+            "org": "Department of Informatics, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Shunsuke Inenaga",
+            "id": "243724773",
+            "org": "Department of Computer Science and Communication Engineering, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Hideo Bannai",
+            "id": "1971461878",
+            "org": "Department of Informatics, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Masayuki Takeda",
+            "id": "2558385632",
+            "org": "Department of Informatics, Kyushu University, Fukuoka, Japan and SORST, Japan Science and Technology Agency#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "FM-index",
+        "Discrete mathematics",
+        "Longest common substring problem",
+        "Computer science",
+        "Combinatorics",
+        "Substring",
+        "Generalized suffix tree",
+        "Suffix array",
+        "Suffix tree",
+        "Compressed suffix array",
+        "Equivalence relation"
+    ],
+    "references": [
+        "117230746",
+        "1489909987",
+        "1495956867",
+        "1557406054",
+        "1971140524",
+        "1972770363",
+        "2024147613",
+        "2030839740",
+        "2038180954",
+        "2059513841",
+        "2064184672",
+        "2067974452",
+        "2070830131",
+        "2090957374",
+        "2118703123",
+        "2119878143",
+        "2121252285",
+        "2127188028",
+        "2130564474",
+        "2134283755",
+        "2158874082",
+        "2159903106",
+        "2533248932",
+        "2563503928"
+    ]
+}

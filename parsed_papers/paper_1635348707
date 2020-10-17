@@ -1,0 +1,84 @@
+{
+    "id": "1635348707",
+    "title": "Secure network coding over the integers",
+    "venue": "public key cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Department of Computer Science, University of Maryland#TAB#"
+        },
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2025616804",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Throughput",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Linear network coding",
+        "Network packet",
+        "Robustness (computer science)",
+        "Random oracle",
+        "Public-key cryptography",
+        "Hash function"
+    ],
+    "references": [
+        "89553247",
+        "177399933",
+        "1506470410",
+        "1521680667",
+        "1536074886",
+        "1589176872",
+        "1593454879",
+        "1594668186",
+        "1666539389",
+        "1743877615",
+        "1801447676",
+        "1802540854",
+        "1809974132",
+        "1973801321",
+        "2016312880",
+        "2018738738",
+        "2034313414",
+        "2036149657",
+        "2048235391",
+        "2067107502",
+        "2073210531",
+        "2097638666",
+        "2101803085",
+        "2102881299",
+        "2105831729",
+        "2106403318",
+        "2106831077",
+        "2109365902",
+        "2110804296",
+        "2117685508",
+        "2129359810",
+        "2130093830",
+        "2136237463",
+        "2137771025",
+        "2146907493",
+        "2152783950",
+        "2153098283",
+        "2153971105",
+        "2157679418",
+        "2162219773",
+        "2177105478"
+    ]
+}

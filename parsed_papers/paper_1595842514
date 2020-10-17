@@ -1,0 +1,47 @@
+{
+    "id": "1595842514",
+    "title": "Mixing Concurrency Abstractions and Classes",
+    "venue": "Research Directions in High-Level Parallel Programming Languages",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Julian Padget",
+            "id": "2040998117",
+            "org": "University of Bath"
+        },
+        {
+            "name": "Peter A. Broadbery",
+            "id": "2082553648",
+            "org": "University of Bath"
+        },
+        {
+            "name": "David Hutchinson",
+            "id": "2569786727",
+            "org": "University of Bath"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Interaction protocol",
+        "Object-oriented programming",
+        "Tuple space",
+        "Computer science",
+        "Distributed computing",
+        "Concurrent object-oriented programming",
+        "Concurrency",
+        "Programming language",
+        "EuLisp",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "1595893739",
+        "1857327297",
+        "1965498649",
+        "1972106757",
+        "1983587324",
+        "2034896142",
+        "2050036160",
+        "2110425399",
+        "2296636214"
+    ]
+}

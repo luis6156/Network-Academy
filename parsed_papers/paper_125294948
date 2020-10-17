@@ -1,0 +1,76 @@
+{
+    "id": "125294948",
+    "title": "Generic State-Recovery and Forgery Attacks on ChopMD-MAC and on NMAC/HMAC",
+    "venue": "international workshop on security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Yusuke Naito",
+            "id": "2288253319",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Secure Platform Laboratories"
+        },
+        {
+            "name": "Lei Wang",
+            "id": "2713716783",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Kan Yasuda",
+            "id": "2583432467",
+            "org": "NTT Secure Platform Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "Computer science",
+        "Computer security",
+        "Hash function",
+        "Message authentication code"
+    ],
+    "references": [
+        "9162323",
+        "172350176",
+        "1451567700",
+        "1513113529",
+        "1513711610",
+        "1544498556",
+        "1549228503",
+        "1550771246",
+        "1553792294",
+        "1560798398",
+        "1566273181",
+        "1600432225",
+        "1619166970",
+        "1689385595",
+        "1736627613",
+        "1866609797",
+        "1939171670",
+        "2011095011",
+        "2040877282",
+        "2043711803",
+        "2052295600",
+        "2096218735",
+        "2103833437",
+        "2104633167",
+        "2121657064",
+        "2131300413",
+        "2134615993",
+        "2137923131",
+        "2148555789",
+        "2153971105",
+        "2160950619",
+        "2183421554",
+        "2273628575",
+        "2405140613",
+        "2525619314",
+        "2531150596",
+        "2572799557"
+    ]
+}

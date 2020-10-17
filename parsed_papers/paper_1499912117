@@ -1,0 +1,74 @@
+{
+    "id": "1499912117",
+    "title": "Limits of the BRSIM/UC soundness of dolev-yao models with hashes",
+    "venue": "european symposium on research in computer security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Backes",
+            "id": "2045355816",
+            "org": "Saarland University, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Birgit Pfitzmann",
+            "id": "2574976859",
+            "org": "Zurich Research Lab, IBM, Switzerland#TAB#"
+        },
+        {
+            "name": "Michael Waidner",
+            "id": "2004230566",
+            "org": "Zurich Research Lab, IBM, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Computer science",
+        "Soundness",
+        "Encryption",
+        "Computer security",
+        "Term algebra",
+        "Random oracle",
+        "Hash function",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1480122568",
+        "1493079268",
+        "1499934958",
+        "1511736975",
+        "1561441787",
+        "1564294713",
+        "1599617995",
+        "1605744481",
+        "1760594424",
+        "1805869620",
+        "1860797715",
+        "1867273832",
+        "1907597480",
+        "1913041503",
+        "1923391011",
+        "1982325601",
+        "1992547339",
+        "2029693536",
+        "2039594335",
+        "2052267638",
+        "2058014492",
+        "2070653277",
+        "2098263389",
+        "2108978217",
+        "2114189125",
+        "2119708968",
+        "2127035198",
+        "2132544882",
+        "2133126578",
+        "2134508058",
+        "2134704926",
+        "2139033758",
+        "2159543798",
+        "2294404229",
+        "2397221749",
+        "2407164734"
+    ]
+}

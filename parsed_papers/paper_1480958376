@@ -1,0 +1,48 @@
+{
+    "id": "1480958376",
+    "title": "On the correct use of the negation map in the Pollard rho method",
+    "venue": "public key cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Daniel J. Bernstein",
+            "id": "2572778377",
+            "org": "Department of Computer Science, University of Illinois at Chicago, Chicago, IL#TAB#"
+        },
+        {
+            "name": "Tanja Lange",
+            "id": "2159450135",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, Netherlands#TAB#"
+        },
+        {
+            "name": "Peter Schwabe",
+            "id": "2306640565",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "SIMD",
+        "Negation",
+        "Algorithm",
+        "Pollard's kangaroo algorithm",
+        "Discrete mathematics",
+        "Discrete logarithm",
+        "Pollard's rho algorithm for logarithms",
+        "Modular arithmetic",
+        "Elliptic curve",
+        "Modular elliptic curve"
+    ],
+    "references": [
+        "1231247499",
+        "1506559511",
+        "1538333734",
+        "1786760088",
+        "1881382661",
+        "1910751411",
+        "1985265065",
+        "2008272678",
+        "2042173287",
+        "2141836061"
+    ]
+}

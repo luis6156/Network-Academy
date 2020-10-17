@@ -1,0 +1,56 @@
+{
+    "id": "1593044649",
+    "title": "Correcting errors in private keys obtained from cold boot attacks",
+    "venue": "international conference on information security and cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Hyung Tae Lee",
+            "id": "2149734883",
+            "org": "ISaC & Dept. of Mathematical Sciences, Seoul National University, Gwangak-gu, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "HongTae Kim",
+            "id": "2761375620",
+            "org": "ISaC & Dept. of Mathematical Sciences, Seoul National University, Gwangak-gu, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Yoo-Jin Baek",
+            "id": "2036098971",
+            "org": "Samsung Electronics, Yongin-City, Gyeonggi-Do, Korea#TAB#"
+        },
+        {
+            "name": "Jung Hee Cheon",
+            "id": "1817788928",
+            "org": "ISaC & Dept. of Mathematical Sciences, Seoul National University, Gwangak-gu, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Discrete logarithm",
+        "Public-key cryptography",
+        "Discrete mathematics",
+        "Power analysis",
+        "Chinese remainder theorem",
+        "Cryptosystem",
+        "Cold boot attack",
+        "Key size"
+    ],
+    "references": [
+        "1495728876",
+        "1540529576",
+        "1565369953",
+        "1584522027",
+        "1664808737",
+        "1866724006",
+        "2053259405",
+        "2090769756",
+        "2119569175",
+        "2143316545",
+        "2164988972",
+        "2170961388",
+        "2175377689"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1554567767",
+    "title": "Implementation and Complexity of the Watershed-from-Markers Algorithm Computed as a Minimal Cost Forest",
+    "venue": "Computer Graphics Forum",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Petr Felkel",
+            "id": "1853703118",
+            "org": "VrVis Center, Lothringerstrasse. 16/4, A-1030 Vienna, Austria, www.vrvis.at, contact address: felkel@vrvis.at"
+        },
+        {
+            "name": "Mario Bruckschwaiger",
+            "id": "2604042043",
+            "org": "TIANI Medgraph GmbH, Campus 21, Liebermannstrasse A01 304, A-2345 Brunn am Gebirge, Austria,"
+        },
+        {
+            "name": "Rainer Wegenkittl",
+            "id": "2318890331",
+            "org": "TIANI Medgraph GmbH, Campus 21, Liebermannstrasse A01 304, A-2345 Brunn am Gebirge, Austria,"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Watershed",
+        "Shortest path problem",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer vision",
+        "Computer science",
+        "Priority queue",
+        "Memory management",
+        "Real computation",
+        "Data structure",
+        "Computational geometry",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1977545325",
+        "2085917651",
+        "2160365857",
+        "2282030987"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "178711978",
+    "title": "Evaluation of Real-Time Synchronization in Real-Time Mach.",
+    "venue": "USENIX MACH Symposium",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Hideyuki Tokuda",
+            "id": "2583824008",
+            "org": "School of Computer Science|Carnegie Mellon University"
+        },
+        {
+            "name": "Tatsuo Nakajima",
+            "id": "2777269764",
+            "org": "School of Computer Science|Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Priority inheritance",
+        "Critical section",
+        "Computer science",
+        "Distributed computing",
+        "Priority inversion",
+        "Mach number",
+        "Aperiodic graph",
+        "Priority ceiling protocol",
+        "Synchronization",
+        "Real-time computing"
+    ],
+    "references": [
+        "19830081",
+        "203048167",
+        "206628711",
+        "1486435130",
+        "1703500428",
+        "2026114446",
+        "2058736839",
+        "2101468026",
+        "2108009943",
+        "2160293203"
+    ]
+}

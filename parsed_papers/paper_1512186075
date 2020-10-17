@@ -1,0 +1,30 @@
+{
+    "id": "1512186075",
+    "title": "How to broadcast a secret",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Shimshon Berkovits",
+            "id": "1604385646",
+            "org": "University of Lowell and The MITRE Corporation, Bedford, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Shared secret",
+        "Encryption",
+        "Verifiable secret sharing",
+        "Polynomial interpolation",
+        "Homomorphic secret sharing",
+        "Shamir's Secret Sharing",
+        "Secret sharing",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "2109935174",
+        "2141420453",
+        "2223862429"
+    ]
+}

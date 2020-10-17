@@ -1,0 +1,60 @@
+{
+    "id": "1506255978",
+    "title": "Improving keyword spotting with a tandem BLSTM-DBN architecture",
+    "venue": "non-linear speech processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Wollmer",
+            "id": "1966822348",
+            "org": "Institute for Human-Machine Communication, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Florian Eyben",
+            "id": "2779568180",
+            "org": "Institute for Human-Machine Communication, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Alex Graves",
+            "id": "2116712232",
+            "org": "Institute for Computer Science VI, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Bjorn W. Schuller",
+            "id": "2883929298",
+            "org": "Institute for Human-Machine Communication, Technische Universitat Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Gerhard Rigoll",
+            "id": "63888631",
+            "org": "Institute for Human-Machine Communication, Technische Universitat Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial neural network",
+        "Keyword spotting",
+        "Machine learning",
+        "Long short term memory",
+        "Pattern recognition",
+        "Vocabulary",
+        "Computer science",
+        "Dynamic Bayesian network",
+        "Garbage",
+        "Speech recognition",
+        "TIMIT",
+        "Architecture",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "211912913",
+        "1553469512",
+        "1566256432",
+        "2064675550",
+        "2111928547",
+        "2123855758",
+        "2131774270",
+        "2137919539",
+        "2144499799",
+        "2165712214"
+    ]
+}

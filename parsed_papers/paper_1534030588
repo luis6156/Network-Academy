@@ -1,0 +1,79 @@
+{
+    "id": "1534030588",
+    "title": "A generalized model for preventing information leakage in hard real-time systems",
+    "venue": "real time technology and applications symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Rodolfo Pellizzoni",
+            "id": "2033511559",
+            "org": "University of Waterloo, Ontario, Canada"
+        },
+        {
+            "name": "Neda Paryab",
+            "id": "2345311548",
+            "org": "University of Waterloo, Ontario, Canada"
+        },
+        {
+            "name": "Man-Ki Yoon",
+            "id": "1981465418",
+            "org": "University of Illinois at Urbana-Champaign, Urbana, IL"
+        },
+        {
+            "name": "Stanley Bak",
+            "id": "2060442359",
+            "org": "United States Air Force Research Lab, Rome, NY"
+        },
+        {
+            "name": "Sibin Mohan",
+            "id": "2120799131",
+            "org": "University of Illinois at Urbana-Champaign, Urbana, IL"
+        },
+        {
+            "name": "Rakesh B. Bobba",
+            "id": "2807597564",
+            "org": "Oregon State University, Corvallis, OR"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-priority pre-emptive scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Communication channel",
+        "Rate-monotonic scheduling",
+        "Information leakage",
+        "Schedule",
+        "Real-time computing",
+        "Shared resource"
+    ],
+    "references": [
+        "87635799",
+        "1480909796",
+        "1584476834",
+        "1664808737",
+        "1911871920",
+        "1965113125",
+        "1981191435",
+        "1992291252",
+        "1995790716",
+        "2058980727",
+        "2063590333",
+        "2070090222",
+        "2074575703",
+        "2083733288",
+        "2096153753",
+        "2100666033",
+        "2103707436",
+        "2103779723",
+        "2108274189",
+        "2116520617",
+        "2118378639",
+        "2133461006",
+        "2137243422",
+        "2139978798",
+        "2150251216",
+        "2160352512"
+    ]
+}

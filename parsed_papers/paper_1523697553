@@ -1,0 +1,81 @@
+{
+    "id": "1523697553",
+    "title": "Value-Sensitive Hybrid Information Flow Control for a JavaScript-Like Language",
+    "venue": "ieee computer security foundations symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Daniel Hedin",
+            "id": "2232924082",
+            "org": "Malardalen Univ., Vasteras, Sweden"
+        },
+        {
+            "name": "Luciano Bello",
+            "id": "2123205959",
+            "org": "Chalmers Univ. of Technol., Gothenburg, Sweden"
+        },
+        {
+            "name": "Andrei Sabelfeld",
+            "id": "313407794",
+            "org": "Chalmers Univ. of Technol., Gothenburg, Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "JavaScript",
+        "Empirical research",
+        "Static analysis",
+        "Language-based security",
+        "Computer science",
+        "Distributed computing",
+        "Soundness",
+        "Enforcement",
+        "Security policy",
+        "Information flow (information theory)",
+        "Real-time computing"
+    ],
+    "references": [
+        "63895107",
+        "114581357",
+        "131515753",
+        "431566009",
+        "1222699389",
+        "1499226144",
+        "1557847811",
+        "1569728954",
+        "1597778235",
+        "1599189333",
+        "1725973462",
+        "1871087457",
+        "1977764760",
+        "1982042804",
+        "1994197051",
+        "1995290095",
+        "1998180710",
+        "2005525408",
+        "2008332764",
+        "2027822753",
+        "2047370472",
+        "2074935412",
+        "2075849836",
+        "2085939020",
+        "2101678831",
+        "2112459589",
+        "2119588373",
+        "2121780525",
+        "2122049982",
+        "2129278597",
+        "2139093088",
+        "2142069143",
+        "2145846275",
+        "2146717998",
+        "2149465027",
+        "2149969483",
+        "2150174204",
+        "2153684747",
+        "2155735696",
+        "2162755110",
+        "2165304392",
+        "2166542433",
+        "2396919876"
+    ]
+}

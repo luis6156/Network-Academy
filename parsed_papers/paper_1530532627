@@ -1,0 +1,54 @@
+{
+    "id": "1530532627",
+    "title": "On query processing considering energy consumption for broadcast database systems",
+    "venue": "database systems for advanced applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Shinya Kitajima",
+            "id": "2304518251",
+            "org": "Dept. of Multimedia Eng., Graduate School of Information Science and Technology, Osaka University, Suita, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Jing Cai",
+            "id": "2166635531",
+            "org": "Dept. of Multimedia Eng., Graduate School of Information Science and Technology, Osaka University, Suita, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Tsutomu Terada",
+            "id": "2135458692",
+            "org": "Cybercommunity Division, Cybermedia Center, Osaka University, Ibaraki, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Takahiro Hara",
+            "id": "2510005209",
+            "org": "Dept. of Multimedia Eng., Graduate School of Information Science and Technology, Osaka University, Suita, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Shojiro Nishio",
+            "id": "2111068731",
+            "org": "Dept. of Multimedia Eng., Graduate School of Information Science and Technology, Osaka University, Suita, Osaka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database tuning",
+        "View",
+        "Query expansion",
+        "Computer science",
+        "Energy consumption",
+        "Database",
+        "Online aggregation",
+        "Information retrieval",
+        "Sargable",
+        "Atomic broadcast",
+        "Query optimization"
+    ],
+    "references": [
+        "117128390",
+        "151825951",
+        "1521528587",
+        "1566971655",
+        "2011230078",
+        "2122296645"
+    ]
+}

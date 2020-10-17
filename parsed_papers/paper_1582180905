@@ -1,0 +1,55 @@
+{
+    "id": "1582180905",
+    "title": "Compositional bitvector analysis for concurrent programs with nested locks",
+    "venue": "static analysis symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Azadeh Farzan",
+            "id": "2102908900",
+            "org": "University of Toronto#TAB#"
+        },
+        {
+            "name": "Zachary Kincaid",
+            "id": "1993513151",
+            "org": "University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Reachability",
+        "Data flow diagram",
+        "Data-flow analysis",
+        "Synchronization",
+        "Real-time computing"
+    ],
+    "references": [
+        "1491178396",
+        "1558848517",
+        "1560595963",
+        "1585319229",
+        "1587449012",
+        "1657819239",
+        "1964177821",
+        "1969454562",
+        "1996607090",
+        "2008860182",
+        "2038216124",
+        "2065818693",
+        "2072062729",
+        "2092507068",
+        "2105257256",
+        "2107089133",
+        "2114067856",
+        "2121025472",
+        "2124535049",
+        "2127163775",
+        "2136877520",
+        "2147248565",
+        "2153523467",
+        "2155962559",
+        "2194223632"
+    ]
+}

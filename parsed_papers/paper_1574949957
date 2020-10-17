@@ -1,0 +1,47 @@
+{
+    "id": "1574949957",
+    "title": "Consensus Based on Strong Failure Detectors: A Time and Message-Efficient Protocol",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Fabiola Greve",
+            "id": "2044250026",
+            "org": "IRISA - Campus de Beaulieu"
+        },
+        {
+            "name": "Michel Hurfin",
+            "id": "227652945",
+            "org": "IRISA - Campus de Beaulieu"
+        },
+        {
+            "name": "Raimundo Jose de Araujo Macedo",
+            "id": "2120557863",
+            "org": "LaSiD-CPD-UFBA"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA - Campus de Beaulieu"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Computation",
+        "Computer science",
+        "Chandra-Toueg consensus algorithm",
+        "Distributed computing",
+        "Suspect",
+        "Real-time computing",
+        "Detector",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1588792978",
+        "2035362408",
+        "2038719275",
+        "2077240273",
+        "2098850733",
+        "2133943294"
+    ]
+}

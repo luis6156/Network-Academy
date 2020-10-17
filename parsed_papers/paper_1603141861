@@ -1,0 +1,40 @@
+{
+    "id": "1603141861",
+    "title": "Fair On-Line Auctions without Special Trusted Parties",
+    "venue": "financial cryptography",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Stuart G. Stubblebine",
+            "id": "2576570037",
+            "org": "CertCo"
+        },
+        {
+            "name": "Paul F. Syverson",
+            "id": "2051205022",
+            "org": "Naval Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Unique bid auction",
+        "Dutch auction",
+        "Computer security",
+        "Proxy bid",
+        "Auction theory",
+        "Forward auction",
+        "Vickrey auction",
+        "English auction",
+        "Common value auction"
+    ],
+    "references": [
+        "1481492327",
+        "1566496285",
+        "1941810624",
+        "1972465891",
+        "2005708967",
+        "2043386911",
+        "2103647628",
+        "2103761955"
+    ]
+}

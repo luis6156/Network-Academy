@@ -1,0 +1,49 @@
+{
+    "id": "1480120396",
+    "title": "Implementation of automated fine-granularity locking in a persistent programming language",
+    "venue": "Software - Practice and Experience",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Laurent Daynes",
+            "id": "2506401643",
+            "org": "Sun Microsystems Laboratories, 901 San Antonio Road, Palo Alto, CA 94303, U.S.A."
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Persistence (computer science)",
+        "Double-checked locking",
+        "Lock (computer science)",
+        "Data structure",
+        "Memory management",
+        "Record locking",
+        "Ticket lock",
+        "Real-time computing",
+        "Programming language",
+        "Database transaction"
+    ],
+    "references": [
+        "54838500",
+        "1493875369",
+        "1502107070",
+        "1525856774",
+        "1586721701",
+        "1973483597",
+        "2014530617",
+        "2046170328",
+        "2092311766",
+        "2106887953",
+        "2110631345",
+        "2126215040",
+        "2136390693",
+        "2144167433",
+        "2146509778",
+        "2154528871",
+        "2158364508",
+        "2160460372",
+        "2174074143",
+        "2175826447",
+        "2241667140"
+    ]
+}

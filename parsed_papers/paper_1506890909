@@ -1,0 +1,57 @@
+{
+    "id": "1506890909",
+    "title": "A side-channel analysis resistant description of the AES s-box",
+    "venue": "fast software encryption",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Elisabeth Oswald",
+            "id": "2112794742",
+            "org": "Institute for Applied Information Processing and Communciations (IAIK), TU Graz, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Mangard",
+            "id": "339490103",
+            "org": "Institute for Applied Information Processing and Communciations (IAIK), TU Graz, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communciations (IAIK), TU Graz, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communciations (IAIK), TU Graz, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Masking (art)",
+        "Cryptography",
+        "Side channel attack",
+        "S-box",
+        "Countermeasure",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Message passing",
+        "Algorithmics",
+        "Operating system",
+        "Real-time computing"
+    ],
+    "references": [
+        "130371449",
+        "154749848",
+        "180488756",
+        "1512062395",
+        "2007751412",
+        "2099179520",
+        "2099724084",
+        "2112002249",
+        "2112244944",
+        "2145829971",
+        "2154909745",
+        "2157150548",
+        "2612208439"
+    ]
+}

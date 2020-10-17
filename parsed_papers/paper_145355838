@@ -1,0 +1,38 @@
+{
+    "id": "145355838",
+    "title": "Using Valgrind to detect undefined value errors with bit-precision",
+    "venue": "usenix annual technical conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Julian Seward",
+            "id": "2148750809",
+            "org": "OpenWorks LLP, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Nicholas Nethercote",
+            "id": "2278577441",
+            "org": "Department of Computer Sciences, University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Binary number",
+        "Perl",
+        "Memory errors",
+        "Shadow memory",
+        "Shadow",
+        "Undefined value",
+        "Instrumentation",
+        "Real-time computing",
+        "Fortran"
+    ],
+    "references": [
+        "1514171102",
+        "1983121589",
+        "2047226031",
+        "2125852260",
+        "2129931695"
+    ]
+}

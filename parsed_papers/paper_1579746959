@@ -1,0 +1,74 @@
+{
+    "id": "1579746959",
+    "title": "Weighted symbols-based edit distance for string-structured image classification",
+    "venue": "european conference on machine learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Cecile Barat",
+            "id": "2491903188",
+            "org": "Universite de Lyon, Saint-Etienne, France and CNRS, UMR, Laboratoire Saint-Etienne, France and Universite de Saint-Etienne, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Christophe Ducottet",
+            "id": "2460704138",
+            "org": "Universite de Lyon, Saint-Etienne, France and CNRS, UMR, Laboratoire Saint-Etienne, France and Universite de Saint-Etienne, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Elisa Fromont",
+            "id": "2564840202",
+            "org": "Universite de Lyon, Saint-Etienne, France and CNRS, UMR, Laboratoire Saint-Etienne, France and Universite de Saint-Etienne, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Anne-Claire Legrand",
+            "id": "2517236388",
+            "org": "Universite de Lyon, Saint-Etienne, France and CNRS, UMR, Laboratoire Saint-Etienne, France and Universite de Saint-Etienne, Saint-Etienne, France#TAB#"
+        },
+        {
+            "name": "Marc Sebban",
+            "id": "2217963768",
+            "org": "Universite de Lyon, Saint-Etienne, France and CNRS, UMR, Laboratoire Saint-Etienne, France and Universite de Saint-Etienne, Saint-Etienne, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Damerau-Levenshtein distance",
+        "Visual Word",
+        "Pattern recognition",
+        "Jaro-Winkler distance",
+        "String-to-string correction problem",
+        "Wagner-Fischer algorithm",
+        "Contextual image classification",
+        "Subgraph isomorphism problem",
+        "Edit distance",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1482214997",
+        "1526729636",
+        "1590527051",
+        "1597875123",
+        "1854866626",
+        "1970026646",
+        "2003938193",
+        "2022178031",
+        "2036718463",
+        "2043173437",
+        "2044849712",
+        "2045915581",
+        "2053315290",
+        "2079989581",
+        "2102443632",
+        "2109868644",
+        "2126326837",
+        "2138826255",
+        "2151103935",
+        "2151259137",
+        "2154800282",
+        "2165612380",
+        "2167022423",
+        "2171896402",
+        "2172188317",
+        "2421218773"
+    ]
+}

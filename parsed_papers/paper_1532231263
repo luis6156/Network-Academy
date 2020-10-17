@@ -1,0 +1,50 @@
+{
+    "id": "1532231263",
+    "title": "Security weaknesses of certain broadcast encryption schemes",
+    "venue": "digital rights management",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Miodrag J. Mihaljevic",
+            "id": "222837960",
+            "org": "Mathematical Institute, Serbian Academy of Sciences and Arts, Belgrade, Serbia and Montenegro#TAB#"
+        },
+        {
+            "name": "Marc P. C. Fossorier",
+            "id": "2511994844",
+            "org": "Department of Electrical Engineering, University of Hawaii, Honolulu, HI#TAB#"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "Institute of Industrial Science, University of Tokyo, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Block cipher",
+        "Neural cryptography",
+        "Computer science",
+        "Computer security",
+        "Plaintext-aware encryption",
+        "Higher-order differential cryptanalysis",
+        "56-bit encryption",
+        "Linear cryptanalysis",
+        "Internet privacy",
+        "Broadcast encryption"
+    ],
+    "references": [
+        "1485287359",
+        "1522268755",
+        "1549671385",
+        "1554090281",
+        "1555297234",
+        "1828565639",
+        "1971282587",
+        "2012646342",
+        "2125079354",
+        "2130943734",
+        "2152330031",
+        "2168571148"
+    ]
+}

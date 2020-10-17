@@ -1,0 +1,66 @@
+{
+    "id": "1499072146",
+    "title": "Detecting fair non-termination in multithreaded programs",
+    "venue": "computer aided verification",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Mohamed Faouzi Atig",
+            "id": "55138088",
+            "org": "Uppsala University, Sweden#TAB#"
+        },
+        {
+            "name": "Ahmed Bouajjani",
+            "id": "2283651526",
+            "org": "LIAFA, Universite Paris Diderot, France#TAB#"
+        },
+        {
+            "name": "Michael Emmi",
+            "id": "2145226625",
+            "org": "LIAFA, Universite Paris Diderot, France#TAB#"
+        },
+        {
+            "name": "Akash Lal",
+            "id": "2123176980",
+            "org": "Microsoft Research, Bangalore, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Context switch",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Limiting",
+        "Linear temporal logic"
+    ],
+    "references": [
+        "115414801",
+        "182717014",
+        "1493367105",
+        "1507006488",
+        "1519361875",
+        "1556566737",
+        "1606177908",
+        "1933255669",
+        "1983572666",
+        "1989813138",
+        "2029679694",
+        "2039529128",
+        "2060345611",
+        "2087046173",
+        "2098035443",
+        "2098780004",
+        "2109819183",
+        "2124909257",
+        "2128453996",
+        "2135948849",
+        "2142940251",
+        "2143502475",
+        "2145062333",
+        "2154266022",
+        "2294441110",
+        "2504100651"
+    ]
+}

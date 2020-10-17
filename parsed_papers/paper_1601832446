@@ -1,0 +1,48 @@
+{
+    "id": "1601832446",
+    "title": "The Mesh-matching Algorithm: A New Automatic 3D Mesh Generator for Finite Element Analysis",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Beatrice Couteau",
+            "id": "4721568",
+            "org": "INSERM U305, Centre Hospitalier Hotel Dieu"
+        },
+        {
+            "name": "Yohan Payan",
+            "id": "329137034",
+            "org": "UMR CNRS 5525, Faculte de Medecine, Domaine de la Merci"
+        },
+        {
+            "name": "Stephane Lavallee",
+            "id": "1979272494",
+            "org": "PRAXIM Le Grand Sablon"
+        },
+        {
+            "name": "Marie-Christine Hobatho",
+            "id": "2343378198",
+            "org": "INSERM U305, Centre Hospitalier Hotel Dieu"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Computer vision",
+        "Extended finite element method",
+        "Polygon mesh",
+        "Computer science",
+        "Finite element method",
+        "Finite element limit analysis",
+        "Mixed finite element method",
+        "Superelement",
+        "Smoothed finite element method",
+        "Mesh generation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1522417084",
+        "2038700228",
+        "2049981393",
+        "2145528033"
+    ]
+}

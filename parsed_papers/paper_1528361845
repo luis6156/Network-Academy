@@ -1,0 +1,56 @@
+{
+    "id": "1528361845",
+    "title": "Selective Sampling Using the Query by Committee Algorithm",
+    "venue": "Machine Learning",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Yoav Freund",
+            "id": "2021686850",
+            "org": "AT&T Labs, Florham Park, NJ 07932. E-mail: yoav@research.att.com#TAB#"
+        },
+        {
+            "name": "H. Sebastian Seung",
+            "id": "2103030332",
+            "org": "Bell Laboratories, Lucent Technologies, Murray Hill, NJ 07974. E-mail: seung@bell-labs.com#TAB#"
+        },
+        {
+            "name": "Eli Shamir",
+            "id": "2238283877",
+            "org": "Institute of Computer Science, Hebrew University, Jerusalem, ISRAEL. E-mail: {shamir,tishby}@cs.huji.ac.il#TAB#"
+        },
+        {
+            "name": "Naftali Tishby",
+            "id": "2171234738",
+            "org": "Institute of Computer Science, Hebrew University, Jerusalem, ISRAEL. E-mail: {shamir,tishby}@cs.huji.ac.il#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active learning (machine learning)",
+        "Bayesian inference",
+        "Algorithm",
+        "Perceptron",
+        "Pattern recognition",
+        "Computer science",
+        "Filter (signal processing)",
+        "Exponential growth",
+        "Sampling (statistics)",
+        "Upper and lower bounds",
+        "Query optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1553262910",
+        "1971361630",
+        "1977517560",
+        "2009207944",
+        "2019363670",
+        "2080021732",
+        "2090559885",
+        "2106326515",
+        "2139709458",
+        "2140535827",
+        "2154952480"
+    ]
+}

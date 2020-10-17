@@ -1,0 +1,43 @@
+{
+    "id": "1559865299",
+    "title": "Equivalent Keys of HPC",
+    "venue": "international cryptology conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Carl D'Halluin",
+            "id": "2282807396",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Gert Bijnens",
+            "id": "216457818",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Theoretical computer science",
+        "Key derivation function",
+        "Computer science",
+        "Weak key",
+        "Key space",
+        "Related-key attack",
+        "Key clustering",
+        "Key management",
+        "Key generation"
+    ],
+    "references": [
+        "1547537489"
+    ]
+}

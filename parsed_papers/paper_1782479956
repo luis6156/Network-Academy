@@ -1,0 +1,46 @@
+{
+    "id": "1782479956",
+    "title": "Bounded model checking of concurrent programs",
+    "venue": "computer aided verification",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ishai Rabinovitz",
+            "id": "2550148952",
+            "org": "Technion - Israel Institute of Technology#TAB#"
+        },
+        {
+            "name": "Orna Grumberg",
+            "id": "1993734283",
+            "org": "Technion - Israel Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Boolean satisfiability problem",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Constraint satisfaction",
+        "Bounded function",
+        "Real-time computing",
+        "Concurrency",
+        "POSIX Threads",
+        "Model checking",
+        "Deadlock"
+    ],
+    "references": [
+        "31787729",
+        "106387794",
+        "1493367105",
+        "1497640022",
+        "1556566737",
+        "1787074469",
+        "2076933173",
+        "2129538349",
+        "2159765571",
+        "2171999426",
+        "2340735175"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1799816933",
+    "title": "Code composition as an implementation language for compilers",
+    "venue": "conference on domain specific languages",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "James M. Stichnoth",
+            "id": "2281200717",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Thomas R. Gross",
+            "id": "2764078041",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Source code",
+        "Compiler",
+        "Computer science",
+        "Unreachable code",
+        "Loop-invariant code motion",
+        "Object code",
+        "Code bloat",
+        "Code generation",
+        "Dead code elimination",
+        "Programming language"
+    ],
+    "references": [
+        "154696699",
+        "1491178396",
+        "1556604985",
+        "1559977272",
+        "1604860806",
+        "1974685317",
+        "2009418036",
+        "2026841018",
+        "2036134187",
+        "2069979189",
+        "2086891775",
+        "2093940406",
+        "2100173406",
+        "2165074117"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1483029584",
+    "title": "Array SSA for Explicitly Parallel Programs",
+    "venue": "european conference on parallel processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jean-Francois Collard[?]",
+            "id": "2277901953",
+            "org": "CNRS & PRISM, University of Versailles St-Quentin"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Static single assignment form",
+        "Critical section",
+        "Indexation",
+        "Computer science",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Data flow diagram",
+        "Synchronization"
+    ],
+    "references": [
+        "1507881093",
+        "1579105625",
+        "1936400588",
+        "1982205631",
+        "1982335633",
+        "2013981372",
+        "2022787954",
+        "2078738604",
+        "2091960140"
+    ]
+}

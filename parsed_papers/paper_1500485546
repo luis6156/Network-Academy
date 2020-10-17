@@ -1,0 +1,59 @@
+{
+    "id": "1500485546",
+    "title": "TOCTOU, Traps, and Trusted Computing",
+    "venue": "trust and trustworthy computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sergey Bratus",
+            "id": "2032667876",
+            "org": "Dartmouth College, Hanover, New Hampshire,#TAB#"
+        },
+        {
+            "name": "Nihal D'Cunha",
+            "id": "2028388013",
+            "org": "Dartmouth College, Hanover, New Hampshire,#TAB#"
+        },
+        {
+            "name": "Evan Sparks",
+            "id": "2137498647",
+            "org": "Dartmouth College, Hanover, New Hampshire,#TAB#"
+        },
+        {
+            "name": "Sean W. Smith",
+            "id": "2121197119",
+            "org": "Dartmouth College, Hanover, New Hampshire,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Hypervisor",
+        "Trusted Platform Module",
+        "Trusted Computing",
+        "Computer science",
+        "Computer security",
+        "Security policy",
+        "Virtual address space",
+        "Page table",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "161166442",
+        "178746175",
+        "1504669610",
+        "1537022082",
+        "1729172517",
+        "1748095088",
+        "1967075899",
+        "2018352428",
+        "2029224396",
+        "2050529434",
+        "2101166607",
+        "2107691219",
+        "2113356370",
+        "2115175416",
+        "2148620846",
+        "2150709728"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1606329366",
+    "title": "An FPGA Based SHA-256 Processor",
+    "venue": "field programmable logic and applications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kurt K. Ting",
+            "id": "2495946414",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Steve C. L. Yuen",
+            "id": "2593217272",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Kin-Hong Lee",
+            "id": "2098143020",
+            "org": "The Chinese University of Hong Kong"
+        },
+        {
+            "name": "Philip Heng Wai Leong",
+            "id": "2149635049",
+            "org": "The Chinese University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Throughput",
+        "Computer science",
+        "Secure Hash Algorithm-256",
+        "Virtex",
+        "Embedded system",
+        "Secure Hash Algorithm",
+        "Hash function",
+        "System of measurement",
+        "Systems design",
+        "Real-time computing"
+    ],
+    "references": [
+        "1487268209",
+        "1554112193",
+        "1660562555",
+        "1675248416",
+        "1805374096",
+        "1816510343",
+        "2127856956"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1502523938",
+    "title": "From (Sequential) Haskell to (Parallel) Eden: An Implementation Point of View",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Silvia Breitinger",
+            "id": "120308518",
+            "org": "Philipps-Universitat Marburg"
+        },
+        {
+            "name": "Ulrike Klusik",
+            "id": "249251696",
+            "org": "Philipps-Universitat Marburg"
+        },
+        {
+            "name": "Rita Loogen",
+            "id": "67920613",
+            "org": "Philipps-Universitat Marburg"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel programming model",
+        "Functional compiler",
+        "Haskell",
+        "Distributed computing",
+        "Garbage collection",
+        "Compiler",
+        "Computer science",
+        "Compiler correctness",
+        "Functional programming",
+        "Runtime system",
+        "Programming language"
+    ],
+    "references": [
+        "1520096901",
+        "1537993319",
+        "1571962375",
+        "1584322803",
+        "1824183965",
+        "1983587116",
+        "2011924693",
+        "2095621310",
+        "2151574744",
+        "2296715995",
+        "2436525433",
+        "2462640095"
+    ]
+}

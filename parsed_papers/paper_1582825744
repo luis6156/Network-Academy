@@ -1,0 +1,45 @@
+{
+    "id": "1582825744",
+    "title": "Test vector encoding using partial LFSR reseeding",
+    "venue": "international test conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "C. C. Krishna",
+            "id": "2651677091",
+            "org": "Comput. Eng. Res. Center, Texas Univ., Austin, TX, USA"
+        },
+        {
+            "name": "Abhijit Jas",
+            "id": "156251964",
+            "org": "University of Texas, Austin"
+        },
+        {
+            "name": "Nur A. Touba",
+            "id": "155815696",
+            "org": "University of Texas, Austin"
+        }
+    ],
+    "fields_of_study": [
+        "Test vector",
+        "Electronic engineering",
+        "Encoding (memory)",
+        "Parallel computing",
+        "Test data",
+        "Computer science",
+        "Shift register",
+        "Linear feedback shift register",
+        "Automatic test pattern generation",
+        "Special case"
+    ],
+    "references": [
+        "197391467",
+        "1854057641",
+        "1977656540",
+        "2046314918",
+        "2104478015",
+        "2138530143",
+        "2147710469",
+        "2148192154"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "1552657078",
+    "title": "FAST: frequency-aware static timing analysis",
+    "venue": "real-time systems symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Kiran Seth",
+            "id": "2122371543",
+            "org": "Departments of CS/ECE & Center for Embedded Syst. Res., North Carolina State Univ., Raleigh, NC, USA"
+        },
+        {
+            "name": "Aravindh Anantaraman",
+            "id": "1675813603",
+            "org": "Departments of CS/ECE & Center for Embedded Syst. Res., North Carolina State Univ., Raleigh, NC, USA"
+        },
+        {
+            "name": "Frank Mueller",
+            "id": "2107119837",
+            "org": "Departments of CS/ECE & Center for Embedded Syst. Res., North Carolina State Univ., Raleigh, NC, USA"
+        },
+        {
+            "name": "Eric Rotenberg",
+            "id": "2145111368",
+            "org": "Departments of CS/ECE & Center for Embedded Syst. Res., North Carolina State Univ., Raleigh, NC, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Worst-case execution time",
+        "Idle",
+        "Parallel computing",
+        "Resource allocation",
+        "Computer science",
+        "Scheduling (computing)",
+        "Frequency scaling",
+        "Dynamic priority scheduling",
+        "Dynamic voltage scaling",
+        "Static timing analysis",
+        "Real-time computing"
+    ],
+    "references": [
+        "276460788",
+        "1496153055",
+        "1522517002",
+        "1966345332",
+        "1967022475",
+        "1969012464",
+        "1969222724",
+        "2005456951",
+        "2015509025",
+        "2093582532",
+        "2094926594",
+        "2098030406",
+        "2102727118",
+        "2118297067",
+        "2120530619",
+        "2146218445",
+        "2148708361",
+        "2148897044",
+        "2154433299",
+        "2162222856",
+        "2164614983",
+        "2166745914",
+        "2171518785"
+    ]
+}

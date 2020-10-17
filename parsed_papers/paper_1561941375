@@ -1,0 +1,54 @@
+{
+    "id": "1561941375",
+    "title": "Less Can Be More: Micro-managing VMs in Amazon EC2",
+    "venue": "international conference on cloud computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jiawei Wen",
+            "id": "2540612359",
+            "org": "Coll. of William & Mary, Williamsburg, VA, USA"
+        },
+        {
+            "name": "Lei Lu",
+            "id": "2658939869",
+            "org": "VMware, Inc., Palo Alto, CA, USA"
+        },
+        {
+            "name": "Giuliano Casale",
+            "id": "2075119795",
+            "org": "Imperial Coll. London, London, UK"
+        },
+        {
+            "name": "Evgenia Smirni",
+            "id": "2308692200",
+            "org": "Coll. of William & Mary, Williamsburg, VA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "CPU shielding",
+        "Workload",
+        "BogoMips",
+        "Real-time computing",
+        "Bandwidth throttling",
+        "Virtual machine",
+        "CPU-bound",
+        "CPU time"
+    ],
+    "references": [
+        "95298189",
+        "1820403722",
+        "2004301625",
+        "2028515786",
+        "2058476250",
+        "2081095351",
+        "2091765165",
+        "2100618668",
+        "2125262761",
+        "2166091242",
+        "2169965429",
+        "2283571372"
+    ]
+}

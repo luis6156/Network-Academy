@@ -1,0 +1,65 @@
+{
+    "id": "1539591727",
+    "title": "Layered adaptive importance sampling",
+    "venue": "Statistics and Computing",
+    "year": 2017,
+    "authors": [
+        {
+            "name": "Luca Martino",
+            "id": "2193147814",
+            "org": "Department of Mathematics and Statistics, University of Helsinki, Helsinki, Finland#TAB#"
+        },
+        {
+            "name": "Victor Elvira",
+            "id": "2290823161",
+            "org": "Department of Signal Theory and Communications, Universidad Carlos III de Madrid, Leganes, Spain#TAB#"
+        },
+        {
+            "name": "David Luengo",
+            "id": "2117487321",
+            "org": "Department of Circuits and Systems Engineering, Universidad Politecnica de Madrid, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Jukka Corander",
+            "id": "2045095944",
+            "org": "Department of Mathematics and Statistics, University of Helsinki, Helsinki, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Monte Carlo integration",
+        "Mathematics",
+        "Hybrid Monte Carlo",
+        "Markov chain Monte Carlo",
+        "Monte Carlo method",
+        "Importance sampling",
+        "Statistics",
+        "Parallel tempering",
+        "Rejection sampling",
+        "Slice sampling",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "187762159",
+        "788570312",
+        "1513873506",
+        "1585353408",
+        "1658503071",
+        "1674392119",
+        "1836421920",
+        "1977691009",
+        "1982942585",
+        "1983781823",
+        "2001848173",
+        "2039543594",
+        "2069690729",
+        "2090346540",
+        "2100404003",
+        "2110407935",
+        "2113328396",
+        "2131590927",
+        "2135194391",
+        "2135973421",
+        "2156840067",
+        "2161642788"
+    ]
+}

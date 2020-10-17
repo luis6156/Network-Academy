@@ -1,0 +1,39 @@
+{
+    "id": "1535298198",
+    "title": "Using routing and tunneling to combat DoS attacks",
+    "venue": "conference on steps to reducing unwanted traffic on internet",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Adam Greenhalgh",
+            "id": "2157300389",
+            "org": "Dept. of Computer Science, University College London, London#TAB#"
+        },
+        {
+            "name": "Mark Handley",
+            "id": "2281506998",
+            "org": "Dept. of Computer Science, University College London, London#TAB#"
+        },
+        {
+            "name": "Felipe Huici",
+            "id": "2169722657",
+            "org": "Dept. of Computer Science, University College London, London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Computer science",
+        "Computer security",
+        "Server",
+        "Software deployment",
+        "Network architecture",
+        "The Internet",
+        "Architecture"
+    ],
+    "references": [
+        "206164581",
+        "2010365467",
+        "2139153904",
+        "2145211381"
+    ]
+}

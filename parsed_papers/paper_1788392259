@@ -1,0 +1,75 @@
+{
+    "id": "1788392259",
+    "title": "Unifying thread-level speculation and transactional memory",
+    "venue": "international middleware conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Joao Pedro Barreto",
+            "id": "2133042332",
+            "org": "INESC-ID/Technical University Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Aleksandar Dragojevic",
+            "id": "209389946",
+            "org": "EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Paulo Ferreira",
+            "id": "2778235130",
+            "org": "INESC-ID/Technical University Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Ricardo Filipe",
+            "id": "2045415657",
+            "org": "INESC-ID/Technical University Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Rachid Guerraoui",
+            "id": "115057321",
+            "org": "EPFL, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Speculation",
+        "Transactional memory",
+        "Computer science",
+        "Distributed computing",
+        "Speculative multithreading",
+        "Concurrency",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1517933564",
+        "1542975293",
+        "1828747228",
+        "1974420955",
+        "2004881145",
+        "2037462607",
+        "2054449815",
+        "2080457852",
+        "2080675607",
+        "2089363288",
+        "2103933790",
+        "2105864407",
+        "2106018697",
+        "2113751407",
+        "2125340270",
+        "2126249379",
+        "2128585185",
+        "2135470015",
+        "2136798749",
+        "2136958529",
+        "2140034113",
+        "2142349608",
+        "2149089882",
+        "2150732552",
+        "2151290553",
+        "2152657019",
+        "2163654949",
+        "2163977249",
+        "2296006986"
+    ]
+}

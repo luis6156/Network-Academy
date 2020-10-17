@@ -1,0 +1,37 @@
+{
+    "id": "1601787291",
+    "title": "Feature selection based on the Shapley value",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shay B. Cohen",
+            "id": "2133337488",
+            "org": "School of Computer Sciences, Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Eytan Ruppin",
+            "id": "240297064",
+            "org": "School of Computer Sciences, Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Gideon Dror",
+            "id": "1992641199",
+            "org": "Department of Computer Science, Academic College of Tel-Aviv Yaffo, Tel-Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Game theory",
+        "Pattern recognition",
+        "Feature selection",
+        "Shapley value",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1680014149",
+        "1849729440",
+        "2081822233"
+    ]
+}

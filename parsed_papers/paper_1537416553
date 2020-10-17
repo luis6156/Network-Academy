@@ -1,0 +1,77 @@
+{
+    "id": "1537416553",
+    "title": "Establishing local temporal heap safety properties with applications to compile-time memory management",
+    "venue": "static analysis symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ran Shaham",
+            "id": "705786232",
+            "org": "School of Computer Science, Tel-Aviv University, Tel-Aviv, Israel and IBM Haifa Research Laboratory, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Eran Yahav",
+            "id": "2194672974",
+            "org": "School of Computer Science, Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Elliot K. Kolodner",
+            "id": "2020275207",
+            "org": "IBM Haifa Research Laboratory, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Mooly Sagiv",
+            "id": "1345056057",
+            "org": "School of Computer Science, Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Java",
+        "Java Card",
+        "Computer science",
+        "Compile time",
+        "Garbage collection",
+        "Memory management",
+        "Heap (data structure)",
+        "Garbage",
+        "Time management",
+        "Real-time computing"
+    ],
+    "references": [
+        "54833955",
+        "81254096",
+        "1483359125",
+        "1524407890",
+        "1533082687",
+        "1557880268",
+        "1580664042",
+        "1583464938",
+        "1752249128",
+        "1971349187",
+        "1988661738",
+        "1991837261",
+        "2001427911",
+        "2014764321",
+        "2036719919",
+        "2036910349",
+        "2040070287",
+        "2047793578",
+        "2049384349",
+        "2064551402",
+        "2103714221",
+        "2105033638",
+        "2111695742",
+        "2114067856",
+        "2115309705",
+        "2121421673",
+        "2135274583",
+        "2139748880",
+        "2151360539",
+        "2152432695",
+        "2156419312",
+        "2166858727",
+        "2169275155",
+        "2170577595"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1600223249",
+    "title": "Refined Stratified Sampling for efficient Monte Carlo based uncertainty quantification",
+    "venue": "Reliability Engineering & System Safety",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michael D. Shields",
+            "id": "2239226894",
+            "org": "Department of Civil Engineering, Johns Hopkins University, United States"
+        },
+        {
+            "name": "Kirubel Teferra",
+            "id": "26448371",
+            "org": "Department of Civil Engineering, Johns Hopkins University, United States"
+        },
+        {
+            "name": "Adam Hapij",
+            "id": "710280481",
+            "org": "Applied Science & Investigations, Weidlinger Associates, Inc., United States"
+        },
+        {
+            "name": "Raymond P. Daddazio",
+            "id": "1930277342",
+            "org": "Applied Science & Investigations, Weidlinger Associates, Inc., United States"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Latin hypercube sampling",
+        "Variance reduction",
+        "Sample size determination",
+        "Uncertainty quantification",
+        "Monte Carlo method",
+        "Statistics",
+        "Simple random sample",
+        "Orthogonality",
+        "Stratified sampling",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1578353823",
+        "1964971655",
+        "1967005434",
+        "2001331635",
+        "2037639866",
+        "2038019765",
+        "2046879700",
+        "2058760996",
+        "2094476403"
+    ]
+}

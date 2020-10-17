@@ -1,0 +1,80 @@
+{
+    "id": "1600740542",
+    "title": "Consensus and mutual exclusion in a multiple access channel",
+    "venue": "international symposium on distributed computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jurek Czyzowicz",
+            "id": "2086376774",
+            "org": "Departement d'informatique, Universite du Quebec en Outaouais, Gatineau, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Leszek Gasieniec",
+            "id": "100237656",
+            "org": "Department of Computer Science, University of Liverpool, Liverpool, UK#TAB#"
+        },
+        {
+            "name": "Dariusz R. Kowalski",
+            "id": "2155856586",
+            "org": "Department of Computer Science, University of Liverpool, Liverpool, UK#TAB#"
+        },
+        {
+            "name": "Andrzej Pelc",
+            "id": "2050902346",
+            "org": "Departement d'informatique, Universite du Quebec en Outaouais, Gatineau, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Collision detection",
+        "Computer science",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Communication channel",
+        "Adversary",
+        "Round number",
+        "Real-time computing",
+        "Upper and lower bounds",
+        "Collision"
+    ],
+    "references": [
+        "271729863",
+        "1505971152",
+        "1514994692",
+        "1521729799",
+        "1547533890",
+        "1965299092",
+        "1965978478",
+        "1972147609",
+        "1975196159",
+        "1983700804",
+        "1984355228",
+        "2007096859",
+        "2033487809",
+        "2036925455",
+        "2042997796",
+        "2045008360",
+        "2058075262",
+        "2066321007",
+        "2067936666",
+        "2069239201",
+        "2080763277",
+        "2087596759",
+        "2093347633",
+        "2094909559",
+        "2095713941",
+        "2099198672",
+        "2116344546",
+        "2116736083",
+        "2121757876",
+        "2134516390",
+        "2142458954",
+        "2148085206",
+        "2148190105",
+        "2152937969",
+        "2153529758",
+        "2160268831",
+        "2611515161"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1604658764",
+    "title": "The case for ubiquitous transport-level encryption",
+    "venue": "usenix security symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Andrea Bittau",
+            "id": "10873397",
+            "org": "Stanford#TAB#"
+        },
+        {
+            "name": "Michael Hamburg",
+            "id": "2184725411",
+            "org": "Stanford#TAB#"
+        },
+        {
+            "name": "Mark Handley",
+            "id": "2281506998",
+            "org": "UCL#TAB#"
+        },
+        {
+            "name": "David Mazieres",
+            "id": "292459508",
+            "org": "Stanford#TAB#"
+        },
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Encryption",
+        "Internet traffic",
+        "Computer security",
+        "Stack (abstract data type)",
+        "Computer network",
+        "Backward compatibility",
+        "Server",
+        "Transport layer",
+        "Authentication",
+        "Legacy system"
+    ],
+    "references": [
+        "1479727008",
+        "1519687682",
+        "1553177637",
+        "1666153935",
+        "1714781699",
+        "1764639440",
+        "2112578244",
+        "2164725724",
+        "2296118429"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1752222541",
+    "title": "Multi-stage sampling with boosting cascades for pedestrian detection in images and videos",
+    "venue": "european conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Giovanni Gualdi",
+            "id": "2148669457",
+            "org": "University of Modena and Reggio Emilia, Italy#TAB#"
+        },
+        {
+            "name": "Andrea Prati",
+            "id": "2022325346",
+            "org": "University of Modena and Reggio Emilia, Italy#TAB#"
+        },
+        {
+            "name": "Rita Cucchiara",
+            "id": "2096646689",
+            "org": "University of Modena and Reggio Emilia, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pedestrian detection",
+        "Object-class detection",
+        "Object detection",
+        "Computer vision",
+        "Viola-Jones object detection framework",
+        "Pattern recognition",
+        "Computer science",
+        "Sliding window protocol",
+        "LogitBoost",
+        "Boosting (machine learning)",
+        "Monte Carlo method",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1558057344",
+        "1590105591",
+        "1608462934",
+        "1906375339",
+        "2100052226",
+        "2101885438",
+        "2102179764",
+        "2106874006",
+        "2107775979",
+        "2113459360",
+        "2115313253",
+        "2116022929",
+        "2117082318",
+        "2117643935",
+        "2125806710",
+        "2127499550",
+        "2132103241",
+        "2133986780",
+        "2134380836",
+        "2146352414",
+        "2147953023",
+        "2150183285",
+        "2161969291",
+        "2169671170",
+        "2545295063"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1583584301",
+    "title": "Robust and accurate reconstruction of patient-specific 3d surface models from sparse point sets: a sequential three-stage trimmed optimization approach",
+    "venue": "international conference on medical imaging and augmented reality",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Guoyan Zheng",
+            "id": "2166191247",
+            "org": "MEM Research Center, University of Bern, Bern, Switzerland#TAB#"
+        },
+        {
+            "name": "Xiao Dong",
+            "id": "2159366648",
+            "org": "MEM Research Center, University of Bern, Bern, Switzerland#TAB#"
+        },
+        {
+            "name": "Lutz-Peter Nolte",
+            "id": "2054196965",
+            "org": "MEM Research Center, University of Bern, Bern, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematical optimization",
+        "Mathematics",
+        "Statistical hypothesis testing",
+        "Least trimmed squares",
+        "Outlier",
+        "Extrapolation",
+        "Optimal estimation",
+        "Affine transformation",
+        "Point distribution model",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1536498778",
+        "1540973668",
+        "1870947790",
+        "2013231108",
+        "2014035159",
+        "2034987376",
+        "2128409098",
+        "2140711847",
+        "2168907905",
+        "2169371923"
+    ]
+}

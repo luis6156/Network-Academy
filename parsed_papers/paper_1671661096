@@ -1,0 +1,63 @@
+{
+    "id": "1671661096",
+    "title": "Buttercup: on network-based detection of polymorphic buffer overflow vulnerabilities",
+    "venue": "network operations and management symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Archana Pasupulati",
+            "id": "2225536449",
+            "org": "Dept. of Comput. Sci., California Univ., Davis, CA, USA"
+        },
+        {
+            "name": "Jason Coit",
+            "id": "2223925186",
+            "org": "Dept. of Comput. Sci., California Univ., Davis, CA, USA"
+        },
+        {
+            "name": "Karl N. Levitt",
+            "id": "2110449791",
+            "org": "Dept. of Comput. Sci., California Univ., Davis, CA, USA"
+        },
+        {
+            "name": "Shyhtsun Felix Wu",
+            "id": "2140116699",
+            "org": "Dept. of Comput. Sci., California Univ., Davis, CA, USA"
+        },
+        {
+            "name": "S. H. Li",
+            "id": "2430115262",
+            "org": "Department of Computer Science|University of California , Davis"
+        },
+        {
+            "name": "J. C. Kuo",
+            "id": "2427287963",
+            "org": "Department of Computer Science|University of California , Davis"
+        },
+        {
+            "name": "K. P. Fan",
+            "id": "2437001300",
+            "org": "Department of Computer Science|University of California , Davis"
+        }
+    ],
+    "fields_of_study": [
+        "Shellcode",
+        "Computer science",
+        "Computer security",
+        "Server",
+        "Network packet",
+        "Intrusion detection system",
+        "Computer worm",
+        "Buffer overflow",
+        "Computer network",
+        "Blaster",
+        "The Internet"
+    ],
+    "references": [
+        "1579850852",
+        "1655226010",
+        "1674877186",
+        "1868467482",
+        "2162986442"
+    ]
+}

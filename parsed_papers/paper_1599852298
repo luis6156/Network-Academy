@@ -1,0 +1,55 @@
+{
+    "id": "1599852298",
+    "title": "A two-server, sealed-bid auction protocol",
+    "venue": "financial cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ari Juels",
+            "id": "46726047",
+            "org": "RSA Laboratories, Bedford, MA#TAB#"
+        },
+        {
+            "name": "Michael Szydlo",
+            "id": "794659302",
+            "org": "RSA Laboratories, Bedford, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Oblivious transfer",
+        "Auction algorithm",
+        "Computer science",
+        "Computation",
+        "Distributed computing",
+        "Computer security",
+        "Server",
+        "Verifiable secret sharing",
+        "Correctness",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1488658290",
+        "1492124753",
+        "1509765132",
+        "1510713793",
+        "1537539847",
+        "1541083511",
+        "1566496285",
+        "1569930334",
+        "1585168608",
+        "1600010237",
+        "1603141861",
+        "1606631098",
+        "1919818376",
+        "1996360405",
+        "2038228603",
+        "2040168265",
+        "2103761955",
+        "2108834246",
+        "2119422255",
+        "2121423622",
+        "2229572253",
+        "2728487654"
+    ]
+}

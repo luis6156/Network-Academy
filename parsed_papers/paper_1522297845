@@ -1,0 +1,37 @@
+{
+    "id": "1522297845",
+    "title": "Fast Implementations of AES Candidates.",
+    "venue": "AES Candidate Conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kazumaro Aoki",
+            "id": "2602199530",
+            "org": "NTT Laboratories"
+        },
+        {
+            "name": "Helger Lipmaa",
+            "id": "15605393",
+            "org": "NTT Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "NIST",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "Twofish",
+        "MMX",
+        "Pentium",
+        "restrict"
+    ],
+    "references": [
+        "1549620015",
+        "1573725807",
+        "1605116544",
+        "1978695162",
+        "2109265351"
+    ]
+}

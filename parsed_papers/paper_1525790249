@@ -1,0 +1,52 @@
+{
+    "id": "1525790249",
+    "title": "Real-Time Ray Tracing with CUDA",
+    "venue": "international conference on algorithms and architectures for parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Min Shih",
+            "id": "2478387857",
+            "org": "National Tsing Hua University, Taiwan#TAB#"
+        },
+        {
+            "name": "Yung Feng Chiu",
+            "id": "2600497204",
+            "org": "National Tsing Hua University, Taiwan#TAB#"
+        },
+        {
+            "name": "Ying Chieh Chen",
+            "id": "2578440927",
+            "org": "National Tsing Hua University, Taiwan#TAB#"
+        },
+        {
+            "name": "Chun Fa Chang",
+            "id": "2130086283",
+            "org": "National Taiwan Normal University, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Shading",
+        "Parallel computing",
+        "Computer science",
+        "Computer graphics",
+        "Ray tracing (graphics)",
+        "CUDA",
+        "General-purpose computing on graphics processing units",
+        "High memory",
+        "Architecture",
+        "CUDA Pinned memory"
+    ],
+    "references": [
+        "1558931212",
+        "1586564288",
+        "1982661771",
+        "2001100395",
+        "2103185791",
+        "2117236520",
+        "2130026741",
+        "2152365613",
+        "2154449573",
+        "2175031088"
+    ]
+}

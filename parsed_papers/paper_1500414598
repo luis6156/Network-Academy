@@ -1,0 +1,37 @@
+{
+    "id": "1500414598",
+    "title": "Statistical Analysis of the Alleged RC4 Keystream Generator",
+    "venue": "fast software encryption",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Scott R. Fluhrer",
+            "id": "305559842",
+            "org": "Cisco Systems, Inc."
+        },
+        {
+            "name": "David A. McGrew",
+            "id": "425109773",
+            "org": "Cisco Systems, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Theoretical computer science",
+        "Directed graph",
+        "Keystream",
+        "Discrete mathematics",
+        "Computer science",
+        "Stream cipher",
+        "Information theory",
+        "RC4",
+        "Randomness"
+    ],
+    "references": [
+        "1602293460",
+        "1776302329",
+        "2107537838",
+        "2123460950",
+        "2786219742"
+    ]
+}

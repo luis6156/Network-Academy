@@ -1,0 +1,80 @@
+{
+    "id": "1568959760",
+    "title": "Asymmetric Cyclical Hashing for Large Scale Image Retrieval",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yueming Lv",
+            "id": "2145501213",
+            "org": "B3-431, School of Computer Science and Engineering, South China University of Technology, Guangzhou, China"
+        },
+        {
+            "name": "Wing W. Y. Ng",
+            "id": "2157295663",
+            "org": "B3-315, School of Computer Science and Engineering, South China University of Technology, Guangzhou, China"
+        },
+        {
+            "name": "Ziqian Zeng",
+            "id": "2129687316",
+            "org": "B3-315, School of Computer Science and Engineering, South China University of Technology, Guangzhou, China"
+        },
+        {
+            "name": "Daniel S. Yeung",
+            "id": "2123972403",
+            "org": "B3-304, School of Computer Science and Engineering, South China University of Technology, Guangzhou, China"
+        },
+        {
+            "name": "Patrick P. K. Chan",
+            "id": "2170333475",
+            "org": "B3-415, School of Computer Science and Engineering, South China University of Technology, Guangzhou, China"
+        }
+    ],
+    "fields_of_study": [
+        "Feature hashing",
+        "Hash table",
+        "K-independent hashing",
+        "Theoretical computer science",
+        "Primary clustering",
+        "Universal hashing",
+        "Computer science",
+        "Hash function",
+        "Information retrieval",
+        "Double hashing",
+        "Dynamic perfect hashing"
+    ],
+    "references": [
+        "1502916507",
+        "1870428314",
+        "1974647172",
+        "1992371516",
+        "2003558525",
+        "2034865485",
+        "2038276547",
+        "2066761620",
+        "2067952552",
+        "2071572981",
+        "2074668987",
+        "2084363474",
+        "2105572632",
+        "2105734423",
+        "2111110737",
+        "2122196799",
+        "2124509324",
+        "2125378448",
+        "2144902422",
+        "2145065594",
+        "2148554573",
+        "2148781362",
+        "2154956324",
+        "2162006472",
+        "2162064258",
+        "2164338181",
+        "2170037597",
+        "2171790913",
+        "2221852422",
+        "2251864938",
+        "2292992741",
+        "2293597654"
+    ]
+}

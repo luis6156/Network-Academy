@@ -1,0 +1,72 @@
+{
+    "id": "1533883536",
+    "title": "Topology-aware routing in structured peer-to-peer overlay networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Miguel Castro",
+            "id": "2096975672",
+            "org": "Microsoft Research, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Peter Druschel",
+            "id": "62967857",
+            "org": "Rice University, Houston, TX#TAB#"
+        },
+        {
+            "name": "Y. Charlie Hu",
+            "id": "2138966024",
+            "org": "Purdue University, West Lafayette, IN#TAB#"
+        },
+        {
+            "name": "Antony I. T. Rowstron",
+            "id": "2338340454",
+            "org": "Microsoft Research, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Peer-to-peer",
+        "Small number",
+        "Computer science",
+        "Distributed computing",
+        "Computer network",
+        "Distributed hash table",
+        "Overlay network",
+        "Routing table",
+        "Pastry",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "105601597",
+        "1510672679",
+        "1520914943",
+        "1521538824",
+        "1663493649",
+        "1975868314",
+        "2057456423",
+        "2071958655",
+        "2098424918",
+        "2104210894",
+        "2110158792",
+        "2118428193",
+        "2119245106",
+        "2120626294",
+        "2123820820",
+        "2137899328",
+        "2148647281",
+        "2150676586",
+        "2152723376",
+        "2155659292",
+        "2156323105",
+        "2156644501",
+        "2157918617",
+        "2158049821",
+        "2163059190",
+        "2165084894",
+        "2167898414",
+        "2171957559",
+        "2174507869"
+    ]
+}

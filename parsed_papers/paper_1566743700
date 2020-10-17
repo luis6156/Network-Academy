@@ -1,0 +1,51 @@
+{
+    "id": "1566743700",
+    "title": "Generating Test Cases for a Timed I/O Automaton Model",
+    "venue": "Proceedings of the IFIP TC6 12th International Workshop on Testing Communicating Systems: Method and Applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Teruo Higashino",
+            "id": "1730781605",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Akio Nakata",
+            "id": "2312340401",
+            "org": "Hiroshima City University"
+        },
+        {
+            "name": "Kenichi Taniguchi",
+            "id": "2136775591",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Ana R. Cavalli",
+            "id": "2124622502",
+            "org": "Institut National des Telecommunications"
+        }
+    ],
+    "fields_of_study": [
+        "Test case",
+        "Timed automaton",
+        "Executable",
+        "Satisfiability",
+        "Input/output",
+        "Computer science",
+        "Communications protocol",
+        "Conformance testing",
+        "Real-time computing",
+        "Linear programming"
+    ],
+    "references": [
+        "1561114501",
+        "1979248560",
+        "1983705309",
+        "1994593991",
+        "2043158263",
+        "2084974153",
+        "2101508170",
+        "2162032875",
+        "2163595873"
+    ]
+}

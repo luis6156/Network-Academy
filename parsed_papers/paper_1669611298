@@ -1,0 +1,71 @@
+{
+    "id": "1669611298",
+    "title": "Cryptanalysis of FORK-256",
+    "venue": "fast software encryption",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Krystian Matusiewicz",
+            "id": "1980694267",
+            "org": "Centre for Advanced Computing, Algorithms and Cryptography, Department of Computing, Macquarie University#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2893390095",
+            "org": "France Telecom Research and Development, Network and Services Security Lab#TAB#"
+        },
+        {
+            "name": "Olivier Billet",
+            "id": "1572106382",
+            "org": "France Telecom Research and Development, Network and Services Security Lab#TAB#"
+        },
+        {
+            "name": "Scott Contini",
+            "id": "1978721060",
+            "org": "Centre for Advanced Computing, Algorithms and Cryptography, Department of Computing, Macquarie University#TAB#"
+        },
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "Centre for Advanced Computing, Algorithms and Cryptography, Department of Computing, Macquarie University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Primary clustering",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Computer science",
+        "FORK-256",
+        "Collision attack",
+        "Hash filter",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "81015123",
+        "1508038907",
+        "1533007301",
+        "1540973840",
+        "1549228503",
+        "1551023902",
+        "1590269592",
+        "1590624619",
+        "1591620981",
+        "1600432225",
+        "1610003881",
+        "1656731780",
+        "1660562555",
+        "1811456777",
+        "1851023053",
+        "2098801947",
+        "2103239853",
+        "2104633167",
+        "2121021336",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2611506938"
+    ]
+}

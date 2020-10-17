@@ -1,0 +1,49 @@
+{
+    "id": "1503508068",
+    "title": "An Adaptive OpenMP Loop Scheduler for Hyperthreaded SMPs.",
+    "venue": "ISCA PDCS",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yun Zhang",
+            "id": "2136548821",
+            "org": "Department of Electrical and Computer Engineering|University of Toronto"
+        },
+        {
+            "name": "Mihai Burcea",
+            "id": "2067438820",
+            "org": "Department of Electrical and Computer Engineering|University of Toronto"
+        },
+        {
+            "name": "Victor Cheng",
+            "id": "2609526229",
+            "org": "Department of Electrical and Computer Engineering|University of Toronto"
+        },
+        {
+            "name": "Ron Ho",
+            "id": "2634674225",
+            "org": "Department of Electrical and Computer Engineering|University of Toronto"
+        },
+        {
+            "name": "Michael Voss",
+            "id": "2780881901",
+            "org": "Department of Electrical and Computer Engineering|University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Loop scheduling",
+        "Parallel computing",
+        "Memory hierarchy",
+        "Chip",
+        "Computer science"
+    ],
+    "references": [
+        "1664707389",
+        "1876714082",
+        "2068203359",
+        "2118717320",
+        "2120230074",
+        "2150303942",
+        "2168618049"
+    ]
+}

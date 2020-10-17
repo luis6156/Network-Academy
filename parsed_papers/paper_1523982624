@@ -1,0 +1,50 @@
+{
+    "id": "1523982624",
+    "title": "Faster and Timing-Attack Resistant AES-GCM",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Emilia Kasper",
+            "id": "2100092778",
+            "org": "ESAT/COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium B-3001#TAB#"
+        },
+        {
+            "name": "Peter Schwabe",
+            "id": "2306640565",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, Netherlands 5600#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Parallel computing",
+        "40-bit encryption",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "Galois/Counter Mode",
+        "AES implementations",
+        "56-bit encryption",
+        "Authenticated encryption"
+    ],
+    "references": [
+        "1488058190",
+        "1490070390",
+        "1496265857",
+        "1504211573",
+        "1515225084",
+        "1518029257",
+        "1548516269",
+        "1592889082",
+        "1603169531",
+        "1664808737",
+        "1890449996",
+        "1994390420",
+        "2003858108",
+        "2011257923",
+        "2106181459",
+        "2126132644",
+        "2131202839",
+        "2149174385"
+    ]
+}

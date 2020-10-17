@@ -1,0 +1,43 @@
+{
+    "id": "1596823748",
+    "title": "Aggregate Aware Caching for Multi-Dimensional Queries",
+    "venue": "extending database technology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Prasad M. Deshpande",
+            "id": "2304487933",
+            "org": "University of Wisconsin"
+        },
+        {
+            "name": "Jeffrey F. Naughton",
+            "id": "2075622585",
+            "org": "University of Wisconsin"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Smart Cache",
+        "Cache coloring",
+        "Data mining",
+        "Bus sniffing",
+        "Distributed computing",
+        "Page cache",
+        "Computer science",
+        "Database",
+        "Cache pollution",
+        "Cache invalidation"
+    ],
+    "references": [
+        "38346608",
+        "1527733826",
+        "1549717312",
+        "1976590378",
+        "2054170837",
+        "2137942874",
+        "2143401113",
+        "2157219191",
+        "2164049396"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1457363419",
+    "title": "Under-constrained symbolic execution: correctness checking for real code",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "David A. Ramos",
+            "id": "2492793031",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Dawson R. Engler",
+            "id": "2163716051",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Linux kernel",
+        "Computer science",
+        "Symbolic execution",
+        "Computer security",
+        "Correctness",
+        "Use case",
+        "Software bug",
+        "Real-time computing",
+        "Memory leak"
+    ],
+    "references": [
+        "95169743",
+        "1545038039",
+        "1710734607",
+        "1720848645",
+        "1738817570",
+        "1750827721",
+        "1771925833",
+        "1856462361",
+        "1966982815",
+        "1971719033",
+        "2017828132",
+        "2047694629",
+        "2074888021",
+        "2089745089",
+        "2096659083",
+        "2102674270",
+        "2102970979",
+        "2105983962",
+        "2130729525",
+        "2134633067",
+        "2138224468",
+        "2140611647",
+        "2152565783",
+        "2153185479",
+        "2156858199",
+        "2166140339",
+        "2409512510"
+    ]
+}

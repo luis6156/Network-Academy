@@ -1,0 +1,55 @@
+{
+    "id": "1601763581",
+    "title": "Security of digital signature schemes in weakened random oracle models",
+    "venue": "public key cryptography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Akira Numayama",
+            "id": "131663091",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Toshiyuki Isshiki",
+            "id": "2195075532",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan and NEC Corporation, Kawasaki, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Keisuke Tanaka",
+            "id": "2165706190",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Pseudorandom function family",
+        "Digital signature",
+        "Full Domain Hash",
+        "Hash function",
+        "Schnorr signature",
+        "Random oracle",
+        "Random function",
+        "Merkle signature scheme"
+    ],
+    "references": [
+        "89812392",
+        "1502433349",
+        "1512933114",
+        "1524982592",
+        "1540076154",
+        "1552695147",
+        "1566256504",
+        "1604454960",
+        "1656731780",
+        "1805549252",
+        "2052267638",
+        "2103239853",
+        "2151413173",
+        "2158276883",
+        "2162653919",
+        "2169194339",
+        "2753555060"
+    ]
+}

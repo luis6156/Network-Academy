@@ -1,0 +1,66 @@
+{
+    "id": "1604605276",
+    "title": "An Atlas-Based Segmentation Propagation Framework Using Locally Affine Registration --- Application to Automatic Whole Heart Segmentation",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Xiahai Zhuang",
+            "id": "2422553017",
+            "org": "Centre for Medical Image Computing, Med Phys Dept, UCL, UK WC1E 6BT#TAB#"
+        },
+        {
+            "name": "Kawal S. Rhode",
+            "id": "266070310",
+            "org": "Interdisciplinary Medical Imaging Group, St Thomas' Hospital, KCL, UK SE1 7EH#TAB#"
+        },
+        {
+            "name": "Simon R. Arridge",
+            "id": "302542049",
+            "org": "Centre for Medical Image Computing, Med Phys Dept, UCL, UK WC1E 6BT#TAB#"
+        },
+        {
+            "name": "Reza Razavi",
+            "id": "2121594585",
+            "org": "Interdisciplinary Medical Imaging Group, St Thomas' Hospital, KCL, UK SE1 7EH#TAB#"
+        },
+        {
+            "name": "Derek L. G. Hill",
+            "id": "2474997269",
+            "org": "Centre for Medical Image Computing, Med Phys Dept, UCL, UK WC1E 6BT#TAB#"
+        },
+        {
+            "name": "David J. Hawkes",
+            "id": "2461567593",
+            "org": "Centre for Medical Image Computing, Med Phys Dept, UCL, UK WC1E 6BT#TAB#"
+        },
+        {
+            "name": "Sebastien Ourselin",
+            "id": "2045358941",
+            "org": "Centre for Medical Image Computing, Med Phys Dept, UCL, UK WC1E 6BT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Atlas (anatomy)",
+        "Affine transformation",
+        "Deformation (mechanics)",
+        "Cardiac magnetic resonance imaging",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510753027",
+        "1523662154",
+        "1554791705",
+        "1759266258",
+        "1992367773",
+        "2029778733",
+        "2067522317",
+        "2098843990",
+        "2156395569"
+    ]
+}

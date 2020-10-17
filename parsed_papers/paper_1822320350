@@ -1,0 +1,106 @@
+{
+    "id": "1822320350",
+    "title": "VIS: A System for Verification and Synthesis",
+    "venue": "computer aided verification",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Robert K. Brayton",
+            "id": "2038038819",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Gary D. Hachtel",
+            "id": "1982291508",
+            "org": "University of Colorado Department of Electrical and Computer Engineering 80309 Boulder CO 80309 Boulder CO"
+        },
+        {
+            "name": "Alberto L. Sangiovanni-Vincentelli",
+            "id": "681596721",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Fabio Somenzi",
+            "id": "208756671",
+            "org": "University of Colorado Department of Electrical and Computer Engineering 80309 Boulder CO 80309 Boulder CO"
+        },
+        {
+            "name": "Adnan Aziz",
+            "id": "2898013656",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Szu-Tsung Cheng",
+            "id": "2138191402",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Stephen A. Edwards",
+            "id": "2157022553",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Sunil P. Khatri",
+            "id": "2311031194",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Yuji Kukimoto",
+            "id": "51384186",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Abelardo Pardo",
+            "id": "2102747298",
+            "org": "University of Colorado Department of Electrical and Computer Engineering 80309 Boulder CO 80309 Boulder CO"
+        },
+        {
+            "name": "Shaz Qadeer",
+            "id": "1985363956",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Rajeev K. Ranjan",
+            "id": "2311721705",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Shaker Sarwary",
+            "id": "2280497130",
+            "org": "Lattice Semiconductor 95035 Milpitas CA 95035 Milpitas CA"
+        },
+        {
+            "name": "Thomas R. Shiple",
+            "id": "331188436",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Gitanjali Swamy",
+            "id": "2166312396",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        },
+        {
+            "name": "Tiziano Villa",
+            "id": "2115259811",
+            "org": "University of California Department of EECS 94720 Berkeley CA 94720 Berkeley CA"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Formal equivalence checking",
+        "Theoretical computer science",
+        "Equivalence (measure theory)",
+        "Computer science",
+        "CTL*",
+        "Model checking",
+        "Data structure",
+        "Real-time computing",
+        "Finite-state machine",
+        "Sequential logic"
+    ],
+    "references": [
+        "2100112273",
+        "2155672011",
+        "2160991071"
+    ]
+}

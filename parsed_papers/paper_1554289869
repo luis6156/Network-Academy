@@ -1,0 +1,68 @@
+{
+    "id": "1554289869",
+    "title": "Environment abstraction for parameterized verification",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Muralidhar Talupur",
+            "id": "291597466",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Helmut Veith",
+            "id": "2778436496",
+            "org": "Technische Universitat Munchen, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Predicate abstraction",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Liveness",
+        "Parameterized complexity",
+        "Lamport's bakery algorithm",
+        "Concurrency",
+        "Model checking",
+        "Distributed algorithm",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1480621838",
+        "1494254596",
+        "1497571013",
+        "1515157987",
+        "1515949284",
+        "1536946401",
+        "1544872225",
+        "1552024587",
+        "1555718343",
+        "1555742330",
+        "1556566737",
+        "1558061996",
+        "1561112849",
+        "1605302571",
+        "1728798265",
+        "1783679080",
+        "1861590051",
+        "1926085771",
+        "1966856316",
+        "1973964525",
+        "1982900911",
+        "2036526834",
+        "2055558998",
+        "2066611459",
+        "2070908350",
+        "2088139180",
+        "2109943697",
+        "2128071879",
+        "2147269402",
+        "2504057811"
+    ]
+}

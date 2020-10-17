@@ -1,0 +1,70 @@
+{
+    "id": "130128522",
+    "title": "Conversion of security proofs from one leakage model to another: a new issue",
+    "venue": "international workshop constructive side-channel analysis and secure design",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "Universite du Luxembourg, Luxembourg,Tranef, France#TAB#"
+        },
+        {
+            "name": "Christophe Giraud",
+            "id": "2154295012",
+            "org": "Crypto and Security Group, Oberthur Technologies, Pessac, France#TAB#"
+        },
+        {
+            "name": "Emmanuel Prouff",
+            "id": "50202740",
+            "org": "Crypto and Security Group, Oberthur Technologies, Nanterre, France#TAB#"
+        },
+        {
+            "name": "Soline Renner",
+            "id": "2289448314",
+            "org": "Crypto and Security Group, Oberthur Technologies, Pessac, France,Universite Bordeaux I, Talence cedex, France#TAB#"
+        },
+        {
+            "name": "Matthieu Rivain",
+            "id": "2323075243",
+            "org": "CryptoExperts, Paris, France#TAB#"
+        },
+        {
+            "name": "Praveen Kumar Vadnala",
+            "id": "137199790",
+            "org": "Universite du Luxembourg, Luxembourg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Porting",
+        "Hamming distance",
+        "Block cipher",
+        "Side channel attack",
+        "Countermeasure",
+        "Distributed computing",
+        "Computer security",
+        "Mathematical proof",
+        "Leakage (electronics)",
+        "Engineering"
+    ],
+    "references": [
+        "130371449",
+        "1494911169",
+        "1499081748",
+        "1548656471",
+        "1554257389",
+        "1562362230",
+        "1569151289",
+        "1897761346",
+        "1915672942",
+        "2072356129",
+        "2124785100",
+        "2134620466",
+        "2157150548",
+        "2161740631",
+        "2163432699",
+        "2192045618",
+        "2612208439"
+    ]
+}

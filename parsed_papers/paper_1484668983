@@ -1,0 +1,61 @@
+{
+    "id": "1484668983",
+    "title": "Toward the fair anonymous signatures: deniable ring signatures",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yuichi Komano",
+            "id": "1210075573",
+            "org": "Toshiba Corporation, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "The University of Electro-Communications, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Atsushi Shimbo",
+            "id": "1842456160",
+            "org": "Toshiba Corporation, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Shinichi Kawamura",
+            "id": "2175791543",
+            "org": "Toshiba Corporation, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Distributed computing",
+        "Diffie-Hellman problem",
+        "Digital signature",
+        "Diffie-Hellman key exchange",
+        "Random oracle",
+        "Public-key cryptography",
+        "Internet privacy",
+        "Ring signature",
+        "Group signature"
+    ],
+    "references": [
+        "1492571680",
+        "1525068636",
+        "1532961226",
+        "1541330898",
+        "1558489011",
+        "1588782201",
+        "1589586740",
+        "1595974665",
+        "2052267638",
+        "2102632861",
+        "2106681386",
+        "2129483619",
+        "2130056156",
+        "2135656098",
+        "2153193245",
+        "2163614799",
+        "2169194339",
+        "2610931382"
+    ]
+}

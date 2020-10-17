@@ -1,0 +1,36 @@
+{
+    "id": "1530928880",
+    "title": "New hash functions for message authentication",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2025616804",
+            "org": "IBM T.J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Message authentication code",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Universal hashing",
+        "Modular arithmetic",
+        "Hash function",
+        "Toeplitz matrix",
+        "Public-key cryptography",
+        "Special case"
+    ],
+    "references": [
+        "1511186238",
+        "1541777936",
+        "1555623005",
+        "1981670729",
+        "1985623009",
+        "2019807548",
+        "2031934066",
+        "2095546965"
+    ]
+}

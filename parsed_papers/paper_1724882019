@@ -1,0 +1,39 @@
+{
+    "id": "1724882019",
+    "title": "Pretty Simple Password-Authenticated Key-Exchange Protocol",
+    "venue": "international symposium on information theory",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kazukuni Kobara",
+            "id": "1988414654",
+            "org": "Institute of Industrial Science|University of Tokyo"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "Institute of Industrial Science|University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Authentication protocol",
+        "Key exchange",
+        "Authentication",
+        "Computer science",
+        "Computer security",
+        "Server",
+        "Password",
+        "Otway-Rees protocol",
+        "Replay attack",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "121782665",
+        "203500824",
+        "1523871498",
+        "1593324857",
+        "1656678770",
+        "2124926080",
+        "2134475940"
+    ]
+}

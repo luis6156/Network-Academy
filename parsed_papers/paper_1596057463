@@ -1,0 +1,77 @@
+{
+    "id": "1596057463",
+    "title": "A CDH-based strongly unforgeable signature without collision resistant hash function",
+    "venue": "provable security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Takahiro Matsuda",
+            "id": "2107738997",
+            "org": "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Nuttapong Attrapadung",
+            "id": "374441298",
+            "org": "Research Center for Information Security, National Institute of Advanced Industrial, Science and Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "Research Center for Information Security, National Institute of Advanced Industrial, Science and Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kanta Matsuura",
+            "id": "2142430456",
+            "org": "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "Research Center for Information Security, National Institute of Advanced Industrial, Science and Technology, Tokyo, Japan and Faculty of Science and Engineering, Chuo University, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Primary clustering",
+        "Distributed computing",
+        "Hash buster",
+        "Hash chain",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "98586311",
+        "1486051623",
+        "1493969756",
+        "1499074627",
+        "1502955768",
+        "1511404237",
+        "1553083934",
+        "1566047571",
+        "1584427796",
+        "1592092778",
+        "1599446772",
+        "1604454960",
+        "1610688607",
+        "1656731780",
+        "1660562555",
+        "1922219439",
+        "1972792640",
+        "1974232544",
+        "2014239329",
+        "2034313414",
+        "2097638666",
+        "2112842125",
+        "2117596926",
+        "2117797270",
+        "2121786567",
+        "2135656098",
+        "2151413173",
+        "2151748484",
+        "2172174332"
+    ]
+}

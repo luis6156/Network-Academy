@@ -1,0 +1,64 @@
+{
+    "id": "1565775542",
+    "title": "RSA Key Generation with Verifiable Randomness",
+    "venue": "public key cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ari Juels",
+            "id": "46726047",
+            "org": "RSA Laboratories"
+        },
+        {
+            "name": "Jorge Guajardo",
+            "id": "2892747121",
+            "org": "Ruhr-Universitat Bochum"
+        }
+    ],
+    "fields_of_study": [
+        "Key authentication",
+        "Ephemeral key",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Key (cryptography)",
+        "Distributed key generation",
+        "Key-agreement protocol",
+        "Static key",
+        "Key generation"
+    ],
+    "references": [
+        "29882905",
+        "172970726",
+        "1493501268",
+        "1494775996",
+        "1497351799",
+        "1498896551",
+        "1515841333",
+        "1543585825",
+        "1595054995",
+        "1660562555",
+        "1721341781",
+        "1746297759",
+        "1824639289",
+        "1847217253",
+        "1850675439",
+        "1885156594",
+        "1888768993",
+        "1952054005",
+        "1970588133",
+        "2031714952",
+        "2034853301",
+        "2095708839",
+        "2102632861",
+        "2108834246",
+        "2109365902",
+        "2121423622",
+        "2129719496",
+        "2141420453",
+        "2144820675",
+        "2166462813",
+        "2405024498",
+        "2484504215"
+    ]
+}

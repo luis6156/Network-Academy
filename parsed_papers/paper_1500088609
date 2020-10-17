@@ -1,0 +1,53 @@
+{
+    "id": "1500088609",
+    "title": "Parallelization Approaches for Hardware Accelerators --- Loop Unrolling Versus Loop Partitioning",
+    "venue": "automation, robotics and control systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Frank Hannig",
+            "id": "2054620176",
+            "org": "Hardware/Software Co-Design, Department of Computer Science, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Hritam Dutta",
+            "id": "2028047377",
+            "org": "Hardware/Software Co-Design, Department of Computer Science, University of Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Jurgen Teich",
+            "id": "2017911276",
+            "org": "Hardware/Software Co-Design, Department of Computer Science, University of Erlangen-Nuremberg, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop unrolling",
+        "Loop interchange",
+        "Computer hardware",
+        "Parallel computing",
+        "Computer architecture",
+        "Loop inversion",
+        "Computer science",
+        "Processor array",
+        "Very long instruction word",
+        "Hardware acceleration",
+        "Loop fission",
+        "Loop nest optimization",
+        "Real-time computing"
+    ],
+    "references": [
+        "1515448847",
+        "1517717115",
+        "1530279678",
+        "2012571849",
+        "2101300176",
+        "2102577653",
+        "2103581911",
+        "2112482891",
+        "2114067856",
+        "2135915979",
+        "2146762876",
+        "2149380059",
+        "2150169293"
+    ]
+}

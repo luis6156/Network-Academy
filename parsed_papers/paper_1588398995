@@ -1,0 +1,55 @@
+{
+    "id": "1588398995",
+    "title": "Using type qualifiers to analyze untrusted integers and detecting security flaws in c programs",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ebrima N. Ceesay",
+            "id": "2281309153",
+            "org": "Computer Security Laboratory, University of California at Davis, Davis, CA#TAB#"
+        },
+        {
+            "name": "Jingmin Zhou",
+            "id": "2126509091",
+            "org": "Computer Security Laboratory, University of California at Davis, Davis, CA#TAB#"
+        },
+        {
+            "name": "Michael Gertz",
+            "id": "2006920297",
+            "org": "Computer Security Laboratory, University of California at Davis, Davis, CA#TAB#"
+        },
+        {
+            "name": "Karl N. Levitt",
+            "id": "2110449791",
+            "org": "Computer Security Laboratory, University of California at Davis, Davis, CA#TAB#"
+        },
+        {
+            "name": "Matt Bishop",
+            "id": "2195620147",
+            "org": "Computer Security Laboratory, University of California at Davis, Davis, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Integer",
+        "Improper input validation",
+        "Static analysis",
+        "Computer science",
+        "Type theory",
+        "Buffer overflow",
+        "Computer engineering",
+        "String (computer science)",
+        "Operating system",
+        "Static program analysis"
+    ],
+    "references": [
+        "145782308",
+        "289744816",
+        "1531991464",
+        "1538408429",
+        "1565113942",
+        "1600965014",
+        "1963569294",
+        "2007181618"
+    ]
+}

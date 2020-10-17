@@ -1,0 +1,45 @@
+{
+    "id": "145782308",
+    "title": "Finding user/kernel pointer bugs with type inference",
+    "venue": "usenix security symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Robert Johnson",
+            "id": "2488642934",
+            "org": "University of California at Berkeley#TAB#"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California at Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Crash",
+        "Pointer (computer programming)",
+        "Program analysis",
+        "Linux kernel",
+        "Computer science",
+        "Type inference",
+        "Computer security",
+        "Inference",
+        "Exploit",
+        "Operating system",
+        "Real-time computing",
+        "User space"
+    ],
+    "references": [
+        "289744816",
+        "1526833248",
+        "1565113942",
+        "1579850852",
+        "1582703556",
+        "2082000355",
+        "2119736157",
+        "2137952932",
+        "2140611647",
+        "2141179168",
+        "2295903414"
+    ]
+}

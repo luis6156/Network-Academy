@@ -1,0 +1,42 @@
+{
+    "id": "1601790980",
+    "title": "Breaking DVB-CSA",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Erik Tews",
+            "id": "1485344885",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Julian Walde",
+            "id": "2795892477",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Michael Weiner",
+            "id": "2601126960",
+            "org": "Technische Universitat Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Conditional access",
+        "Rainbow table",
+        "Common Scrambling Algorithm",
+        "Computer science",
+        "Encryption",
+        "Digital Video Broadcasting",
+        "Embedded system",
+        "Computer network",
+        "Checksum",
+        "Digital television"
+    ],
+    "references": [
+        "177995902",
+        "1548023616",
+        "1549671385",
+        "1595005306"
+    ]
+}

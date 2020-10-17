@@ -1,0 +1,88 @@
+{
+    "id": "1587010340",
+    "title": "Make least privilege a right (not a privilege)",
+    "venue": "hot topics in operating systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Maxwell N. Krohn",
+            "id": "2626412071",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "Petros Efstathopoulos",
+            "id": "2780450683",
+            "org": "UCLA#TAB#"
+        },
+        {
+            "name": "Cliff Frey",
+            "id": "2142498433",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "M. Frans Kaashoek",
+            "id": "378983930",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "Eddie Kohler",
+            "id": "2114981089",
+            "org": "UCLA#TAB#"
+        },
+        {
+            "name": "David Mazieres",
+            "id": "292459508",
+            "org": "NYU#TAB#"
+        },
+        {
+            "name": "Robert Tappan Morris",
+            "id": "2112752255",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "Michelle Osborne",
+            "id": "2478862552",
+            "org": "NYU#TAB#"
+        },
+        {
+            "name": "Steve Vandebogart",
+            "id": "914404890",
+            "org": "UCLA#TAB#"
+        },
+        {
+            "name": "David A. Ziegler",
+            "id": "2161758743",
+            "org": "MIT#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Principle of least privilege",
+        "Distributed computing",
+        "Computer science",
+        "Computer security",
+        "Privilege level",
+        "Privilege separation"
+    ],
+    "references": [
+        "6385438",
+        "60530214",
+        "1481758559",
+        "1516211918",
+        "1569390896",
+        "1604453322",
+        "1809664600",
+        "1967923988",
+        "2061035417",
+        "2089562790",
+        "2089661946",
+        "2095881341",
+        "2098289881",
+        "2098375905",
+        "2100077456",
+        "2113201593",
+        "2119248512",
+        "2136296832",
+        "2167800525",
+        "2167911131"
+    ]
+}

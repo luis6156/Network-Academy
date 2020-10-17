@@ -1,0 +1,54 @@
+{
+    "id": "1600580971",
+    "title": "Supporting Incremental Join Queries on Ranked Inputs",
+    "venue": "very large data bases",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Apostol Natsev",
+            "id": "2280474207",
+            "org": "Duke University|IBM T. J. Watson IBM|IBM T. J. Watson DukeUniversity"
+        },
+        {
+            "name": "Yuan-Chi Chang",
+            "id": "2132804468",
+            "org": "Duke University|IBM T. J. Watson IBM|IBM T. J. Watson DukeUniversity"
+        },
+        {
+            "name": "John R. Smith",
+            "id": "2574129905",
+            "org": "Duke University|IBM T. J. Watson IBM|IBM T. J. Watson DukeUniversity"
+        },
+        {
+            "name": "Chung-Sheng Li",
+            "id": "2792004870",
+            "org": "Duke University|IBM T. J. Watson IBM|IBM T. J. Watson Duke University"
+        },
+        {
+            "name": "Jeffrey Scott Vitter",
+            "id": "118037170",
+            "org": "Duke University|IBM T. J. Watson IBM|IBM T. J. Watson Duke University"
+        }
+    ],
+    "fields_of_study": [
+        "Random access",
+        "Indexation",
+        "Recursive join",
+        "Data mining",
+        "Computer science",
+        "Hash join",
+        "Database",
+        "Joins",
+        "Sort-merge join",
+        "Tuple",
+        "Special case"
+    ],
+    "references": [
+        "2020919487",
+        "2035586841",
+        "2038652645",
+        "2134206624",
+        "2141649964",
+        "2162362064"
+    ]
+}

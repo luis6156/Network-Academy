@@ -1,0 +1,62 @@
+{
+    "id": "1811828243",
+    "title": "PHAS: a prefix hijack alert system",
+    "venue": "usenix security symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mohit Lad",
+            "id": "2075778830",
+            "org": "University of California, Los Angeles#TAB#"
+        },
+        {
+            "name": "Daniel Massey",
+            "id": "2298245802",
+            "org": "Colorado State University#TAB#"
+        },
+        {
+            "name": "Dan Pei",
+            "id": "2103499243",
+            "org": "AT&T Labs-Research#TAB#"
+        },
+        {
+            "name": "Yiguo Wu",
+            "id": "2322576634",
+            "org": "University of California, Los Angeles#TAB#"
+        },
+        {
+            "name": "Beichuan Zhang",
+            "id": "2345815135",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "Lixia Zhang",
+            "id": "2170506047",
+            "org": "University of California, Los Angeles#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Prefix",
+        "Computer science",
+        "Notification system",
+        "Computer security",
+        "IP hijacking",
+        "Hop (networking)",
+        "The Internet"
+    ],
+    "references": [
+        "1562530803",
+        "1595451540",
+        "1604234405",
+        "1625214948",
+        "1967656199",
+        "2003590000",
+        "2018505857",
+        "2103281561",
+        "2108465375",
+        "2113344319",
+        "2138370688",
+        "2149482504",
+        "2169239524"
+    ]
+}

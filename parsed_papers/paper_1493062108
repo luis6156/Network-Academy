@@ -1,0 +1,40 @@
+{
+    "id": "1493062108",
+    "title": "A Chosen-Plaintext Linear Attack on DES",
+    "venue": "fast software encryption",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "University of Bergen"
+        },
+        {
+            "name": "John Erik Mathiassen",
+            "id": "2034430715",
+            "org": "University of Bergen"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Interpolation attack",
+        "XSL attack",
+        "Discrete mathematics",
+        "Computer science",
+        "Key space",
+        "Slide attack",
+        "Power analysis",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "380217570",
+        "1537206908",
+        "1542500920",
+        "1553753418",
+        "1964723977",
+        "2027588622",
+        "2057524374",
+        "2099473571"
+    ]
+}

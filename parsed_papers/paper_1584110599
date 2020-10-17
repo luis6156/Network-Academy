@@ -1,0 +1,88 @@
+{
+    "id": "1584110599",
+    "title": "Designing a side channel resistant random number generator",
+    "venue": "smart card research and advanced application conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Suresh Chari",
+            "id": "2319998151",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Vincenzo V. DiLuoffo",
+            "id": "2394933516",
+            "org": "Systems and Technology Group, IBM Corporation, Southbury, CT#TAB#"
+        },
+        {
+            "name": "Paul A. Karger",
+            "id": "693371167",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Elaine R. Palmer",
+            "id": "2171408404",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Josyula R. Rao",
+            "id": "2114007677",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Pankaj Rohotgi",
+            "id": "2512838900",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Helmut Scherzer",
+            "id": "1434827990",
+            "org": "Secure Systems and Smart Cards, IBM Deutschland GmbH, Boblingen, Germany#TAB#"
+        },
+        {
+            "name": "Michael Steiner",
+            "id": "2302756050",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "David C. Toll",
+            "id": "2136386776",
+            "org": "Thomas J. Watson Research Center, IBM Corporation, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Random number generator attack",
+        "Pseudorandom number generator",
+        "Random seed",
+        "Lavarand",
+        "Randomized algorithm",
+        "Hardware random number generator",
+        "Computer science",
+        "Computer security",
+        "Random number generation",
+        "Real-time computing",
+        "Key generation"
+    ],
+    "references": [
+        "206222754",
+        "1519539754",
+        "1526782446",
+        "1527059802",
+        "1528764766",
+        "1549300373",
+        "1606635928",
+        "1712912884",
+        "2020981190",
+        "2058457645",
+        "2103741267",
+        "2134539886",
+        "2154909745",
+        "2157652868",
+        "2170489924"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1610999554",
+    "title": "On the Security of the DeKaRT Primitive",
+    "venue": "smart card research and advanced application conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gilles-Francois Piret",
+            "id": "2573619585",
+            "org": "UCL Crypto Group, Laboratoire de Microelectronique, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Laboratoire de Microelectronique, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium"
+        },
+        {
+            "name": "Gael Rouvroy",
+            "id": "296332964",
+            "org": "UCL Crypto Group, Laboratoire de Microelectronique, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Laboratoire de Microelectronique, Universite Catholique de Louvain, Louvain-la-Neuve, Belgium"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Chip",
+        "Computer science",
+        "Computer security",
+        "Scrambling",
+        "Linear cryptanalysis",
+        "Electronic circuit",
+        "Smart card"
+    ],
+    "references": [
+        "32121401",
+        "1485872766",
+        "1563937974",
+        "1964723977",
+        "2144762528"
+    ]
+}

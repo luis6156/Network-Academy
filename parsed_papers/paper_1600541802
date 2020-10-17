@@ -1,0 +1,59 @@
+{
+    "id": "1600541802",
+    "title": "Computing Accumulated Delays in Real-time Systems",
+    "venue": "computer aided verification",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Rajeev Alur",
+            "id": "689646243",
+            "org": "Bell Laboratories, Murray Hill, New Jersey, U.S.A. E-mail: alur@research.bell-labs.com#TAB#"
+        },
+        {
+            "name": "Costas Courcoubetis",
+            "id": "349100197",
+            "org": "Department of Computer Science, University of Crete, and Institute of Computer Science, FORTH, Heraklion, Greece. E-mail: courcou@ics.forth.gr#TAB#"
+        },
+        {
+            "name": "Thomas A. Henzinger",
+            "id": "2707196735",
+            "org": "Department of Electrical Engineering and Computer Science, University of California at Berkeley, U.S.A. E-mail: tah@eecs.berkeley.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Timed automaton",
+        "Algorithm",
+        "PSPACE",
+        "Satisfiability",
+        "Real number",
+        "Computer science",
+        "Deterministic automaton",
+        "Reachability problem",
+        "Model checking",
+        "Real-time computing"
+    ],
+    "references": [
+        "59365162",
+        "1482233117",
+        "1499407607",
+        "1501731334",
+        "1572777470",
+        "1593428110",
+        "1885037678",
+        "1981808971",
+        "1995691455",
+        "2004463571",
+        "2025079043",
+        "2059862967",
+        "2101508170",
+        "2117189826",
+        "2129037613",
+        "2130773092",
+        "2139473437",
+        "2153273838",
+        "2153439859",
+        "2167467151",
+        "2167668895"
+    ]
+}

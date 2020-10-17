@@ -1,0 +1,45 @@
+{
+    "id": "15825508",
+    "title": "On Modeling IND-CCA Security in Cryptographic Protocols.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dennis Hofheinz",
+            "id": "2311125173",
+            "org": "Fakultat fur Informatik|Universitat Karlsruhe"
+        },
+        {
+            "name": "Jorn Muller-Quade",
+            "id": "135566254",
+            "org": "Fakultat fur Informatik|Universitat Karlsruhe"
+        },
+        {
+            "name": "Rainer Steinwandt",
+            "id": "11703263",
+            "org": "Fakultat fur Informatik|Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Mathematics",
+        "Cryptographic protocol",
+        "Distributed computing",
+        "Cryptographic key types",
+        "Plaintext-aware encryption",
+        "Key Wrap",
+        "Computer security",
+        "Ciphertext indistinguishability",
+        "Controlled Cryptographic Item",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "36535589",
+        "1499934958",
+        "1516512945",
+        "1552695147",
+        "1589176872",
+        "2119708968",
+        "2139172211"
+    ]
+}

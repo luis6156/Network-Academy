@@ -1,0 +1,63 @@
+{
+    "id": "1537645983",
+    "title": "Semantics of caching with SPOCA: a stateless, proportional, optimally-consistent addressing algorithm",
+    "venue": "usenix annual technical conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ashish Chawla",
+            "id": "2761186668",
+            "org": "Yahoo! Inc#TAB#"
+        },
+        {
+            "name": "Benjamin Reed",
+            "id": "2305028642",
+            "org": "Yahoo! Inc#TAB#"
+        },
+        {
+            "name": "Karl Juhnke",
+            "id": "2161689982",
+            "org": "Yahoo! Inc#TAB#"
+        },
+        {
+            "name": "Ghousuddin Syed",
+            "id": "2066038802",
+            "org": "Yahoo! Inc#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Disk buffer",
+        "Computer science",
+        "Distributed computing",
+        "Video Library",
+        "Server",
+        "Content delivery network",
+        "Real-time computing",
+        "Stateless protocol",
+        "CPU cache",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "151129402",
+        "1527961683",
+        "1546165700",
+        "1725124620",
+        "1969537051",
+        "1976986662",
+        "2001414591",
+        "2020765652",
+        "2047702325",
+        "2068790982",
+        "2073194779",
+        "2102748509",
+        "2109706326",
+        "2118428193",
+        "2123845384",
+        "2126540423",
+        "2153612500",
+        "2153704625",
+        "2156435549",
+        "2158049821"
+    ]
+}

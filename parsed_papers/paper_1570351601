@@ -1,0 +1,70 @@
+{
+    "id": "1570351601",
+    "title": "On Software Parallel Implementation of Cryptographic Pairings",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Philipp Grabher",
+            "id": "2037072807",
+            "org": "Merchant Venturers Building, University of Bristol, Bristol, UK BS8 1UB#TAB#"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Merchant Venturers Building, University of Bristol, Bristol, UK BS8 1UB#TAB#"
+        },
+        {
+            "name": "Dan Page",
+            "id": "2894300787",
+            "org": "Merchant Venturers Building, University of Bristol, Bristol, UK BS8 1UB#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Instruction-level parallelism",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Software",
+        "Computer science",
+        "Pairing",
+        "Data parallelism",
+        "Elliptic curve cryptography",
+        "Task parallelism",
+        "Hardware acceleration"
+    ],
+    "references": [
+        "1481574984",
+        "1518871948",
+        "1541610148",
+        "1548516269",
+        "1549620015",
+        "1551800379",
+        "1553083934",
+        "1553314411",
+        "1566297515",
+        "1578252285",
+        "1581639707",
+        "1586812950",
+        "1596966216",
+        "1603169531",
+        "1604454960",
+        "1637905077",
+        "1650977141",
+        "2014239329",
+        "2032767749",
+        "2033838428",
+        "2049277537",
+        "2055083041",
+        "2097493047",
+        "2116513590",
+        "2117596926",
+        "2131058205",
+        "2133044762",
+        "2151163104",
+        "2161706193",
+        "2399911312",
+        "2507858688",
+        "2785449841"
+    ]
+}

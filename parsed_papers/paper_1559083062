@@ -1,0 +1,37 @@
+{
+    "id": "1559083062",
+    "title": "Security of Random Feistel Schemes with 5 or More Rounds",
+    "venue": "international cryptology conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jacques Patarin",
+            "id": "2115493875",
+            "org": "Universite de Versailles"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Random permutation",
+        "Ciphertext",
+        "Known-plaintext attack",
+        "Chosen-ciphertext attack",
+        "Plaintext"
+    ],
+    "references": [
+        "109683393",
+        "1552402248",
+        "1559931973",
+        "1566172292",
+        "1591620981",
+        "1593510332",
+        "2077300005",
+        "2133382934",
+        "2158554251",
+        "2799397395"
+    ]
+}

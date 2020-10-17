@@ -1,0 +1,64 @@
+{
+    "id": "1603433154",
+    "title": "The Rebound Attack: Cryptanalysis of Reduced Whirlpool and Grostl",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria A-8010#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria A-8010#TAB#"
+        },
+        {
+            "name": "Martin Schlaffer",
+            "id": "2159898291",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria A-8010#TAB#"
+        },
+        {
+            "name": "Soren S. Thomsen",
+            "id": "2151455423",
+            "org": "Department of Mathematics, Technical University of Denmark, Kgs. Lyngby, Denmark DK-2800#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rebound attack",
+        "Grostl",
+        "Exploit",
+        "Computer science",
+        "Distributed computing",
+        "Whirlpool",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "49119529",
+        "52191336",
+        "112271350",
+        "124034723",
+        "1484622934",
+        "1507705751",
+        "1513957952",
+        "1558076723",
+        "1598517024",
+        "1656731780",
+        "1660562555",
+        "1865207131",
+        "1871494460",
+        "1902962512",
+        "2007585625",
+        "2076637888",
+        "2103239853",
+        "2107446884",
+        "2121895731",
+        "2234576048",
+        "2593463031",
+        "2610447167"
+    ]
+}

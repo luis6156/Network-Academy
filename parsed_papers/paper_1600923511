@@ -1,0 +1,67 @@
+{
+    "id": "1600923511",
+    "title": "Modular safety checking for fine-grained concurrency",
+    "venue": "static analysis symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Cristiano Calcagno",
+            "id": "2115355226",
+            "org": "Imperial College, London#TAB#"
+        },
+        {
+            "name": "Matthew J. Parkinson",
+            "id": "2158766823",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Viktor Vafeiadis",
+            "id": "2806678295",
+            "org": "University of Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Separation logic",
+        "Computer science",
+        "Symbolic execution",
+        "Distributed computing",
+        "Concurrent object-oriented programming",
+        "Heap (data structure)",
+        "Concurrency",
+        "Data structure",
+        "Real-time computing",
+        "Modular design"
+    ],
+    "references": [
+        "80370608",
+        "106387794",
+        "1495128589",
+        "1508811155",
+        "1562865234",
+        "1562915062",
+        "1594023774",
+        "1605985842",
+        "1819989006",
+        "1965662337",
+        "1993836075",
+        "2011444209",
+        "2036267700",
+        "2080769562",
+        "2101512909",
+        "2112381327",
+        "2121405115",
+        "2130111506",
+        "2130162474",
+        "2137507504",
+        "2137628566",
+        "2138927523",
+        "2141330646",
+        "2154713600",
+        "2164496154",
+        "2168441850",
+        "2168690953",
+        "2180713429",
+        "2340735175"
+    ]
+}

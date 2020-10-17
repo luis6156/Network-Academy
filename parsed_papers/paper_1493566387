@@ -1,0 +1,40 @@
+{
+    "id": "1493566387",
+    "title": "Confirmation that some hash functions are not collision free",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Shoji Miyaguchi",
+            "id": "2608199595",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        },
+        {
+            "name": "Masahiko Iwata",
+            "id": "2692674136",
+            "org": "Nippon Telegraph and Telephone Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Primary clustering",
+        "Hash buster",
+        "Hash chain",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1569874887",
+        "2134518741",
+        "2266102598"
+    ]
+}

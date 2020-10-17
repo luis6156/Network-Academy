@@ -1,0 +1,39 @@
+{
+    "id": "1505106226",
+    "title": "Improved client authentication using session authentication in the internet",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jae-Woo Lee",
+            "id": "2644850328",
+            "org": "Software System Lab., Dept. of Computer Science & Engineering, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Doo-Kwon Baik",
+            "id": "2882410328",
+            "org": "Software System Lab., Dept. of Computer Science & Engineering, Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "Multi-factor authentication",
+        "Challenge-response authentication",
+        "S/KEY",
+        "Password policy",
+        "Computer science",
+        "Computer security",
+        "Challenge-Handshake Authentication Protocol",
+        "One-time password",
+        "Lightweight Extensible Authentication Protocol"
+    ],
+    "references": [
+        "1482169900",
+        "1595934196",
+        "1992506132",
+        "2074861055",
+        "2105584192",
+        "2156186849",
+        "2164950969"
+    ]
+}

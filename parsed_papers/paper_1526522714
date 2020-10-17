@@ -1,0 +1,41 @@
+{
+    "id": "1526522714",
+    "title": "Evaluating Sparse Data Storage Techniques for MPI Groups and Communicators",
+    "venue": "international conference on computational science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Mohamad Chaarawi",
+            "id": "288429664",
+            "org": "Parallel Software Technologies Laboratory, Department of Computer Science, University of Houston,#TAB#"
+        },
+        {
+            "name": "Edgar Gabriel",
+            "id": "2121272056",
+            "org": "Parallel Software Technologies Laboratory, Department of Computer Science, University of Houston,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Process group",
+        "Parallel computing",
+        "Memory footprint",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Implementation",
+        "Gigabit Ethernet",
+        "Exploit",
+        "Myrinet"
+    ],
+    "references": [
+        "1577294232",
+        "1825216778",
+        "1969215126",
+        "1990512864",
+        "2061388644",
+        "2065337816",
+        "2081612620",
+        "2114262241"
+    ]
+}

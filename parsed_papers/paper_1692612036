@@ -1,0 +1,97 @@
+{
+    "id": "1692612036",
+    "title": "Compact implementation and performance evaluation of block ciphers in ATtiny devices",
+    "venue": "international conference on cryptology in africa",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Thomas Eisenbarth",
+            "id": "2200657679",
+            "org": "Department of Mathematical Sciences, Florida Atlantic University, FL#TAB#"
+        },
+        {
+            "name": "Zheng Gong",
+            "id": "2672499315",
+            "org": "School of Computer Science, South China Normal University, China#TAB#"
+        },
+        {
+            "name": "Tim Guneysu",
+            "id": "1977790142",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-Universitat, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Heyse",
+            "id": "1987694710",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-Universitat, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Sebastiaan Indesteege",
+            "id": "79803544",
+            "org": "Department of Electrical Engineering ESAT/COSIC, KULeuven, Belgium, Interdisciplinary Institute for BroadBand Technology (IBBT), Ghent, Belgium#TAB#"
+        },
+        {
+            "name": "Stephanie Kerckhof",
+            "id": "56200024",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Francois Koeune",
+            "id": "165547707",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Topmislav Nad",
+            "id": "2577626521",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Plos",
+            "id": "264275523",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Francesco Regazzoni",
+            "id": "88302247",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Belgium, ALaRI Institute, University of Lugano, Switzerland#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Loic van Oldeneel tot Oldenzeel",
+            "id": "2028284665",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "License",
+        "Computer architecture",
+        "Microcontroller",
+        "Source code",
+        "Web page",
+        "Computer science",
+        "Implementation",
+        "Real-time computing"
+    ],
+    "references": [
+        "1511842436",
+        "1522919234",
+        "1540875416",
+        "1551715037",
+        "1556212265",
+        "1562434331",
+        "1575062508",
+        "1596841000",
+        "1605116544",
+        "1607874478",
+        "1894646615",
+        "1987476244",
+        "2092583284",
+        "2121121824",
+        "2132271754",
+        "2247832471"
+    ]
+}

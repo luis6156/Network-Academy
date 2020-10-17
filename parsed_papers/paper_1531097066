@@ -1,0 +1,54 @@
+{
+    "id": "1531097066",
+    "title": "Choosing NTRUEncrypt Parameters in Light of Combined Lattice Reduction and MITM Approaches",
+    "venue": "applied cryptography and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Philip S. Hirschhorn",
+            "id": "2017872304",
+            "org": "Wellesley College,#TAB#"
+        },
+        {
+            "name": "Jeffrey Hoffstein",
+            "id": "106990159",
+            "org": "Brown University,#TAB#"
+        },
+        {
+            "name": "Nick Howgrave-Graham",
+            "id": "700721243",
+            "org": "NTRU Cryptosystems, Inc.,#TAB#"
+        },
+        {
+            "name": "William Whyte",
+            "id": "2097863012",
+            "org": "NTRU Cryptosystems, Inc.,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "NTRUEncrypt",
+        "Lattice reduction",
+        "Genetic algorithm",
+        "Man-in-the-middle attack",
+        "Security level"
+    ],
+    "references": [
+        "200803341",
+        "1495058159",
+        "1531850752",
+        "1572157978",
+        "1582043969",
+        "1596740612",
+        "1675339804",
+        "1766548092",
+        "1833653714",
+        "1896743460",
+        "1994962217",
+        "1996360405",
+        "2097486088",
+        "2286477783",
+        "2399775403"
+    ]
+}

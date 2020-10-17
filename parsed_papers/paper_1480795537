@@ -1,0 +1,41 @@
+{
+    "id": "1480795537",
+    "title": "Design of load-adaptive queue management for internet congestion control",
+    "venue": "international conference on information networking",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Seungwan Ryu",
+            "id": "2763696846",
+            "org": "University at Buffalo , State University of New York"
+        },
+        {
+            "name": "Christopher M. Rump",
+            "id": "2007617788",
+            "org": "University at Buffalo , State University of New York"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Explicit Congestion Notification",
+        "Computer science",
+        "Queue",
+        "Random early detection",
+        "Queue management system",
+        "Weighted random early detection",
+        "Computer network",
+        "Real-time computing",
+        "Active queue management",
+        "Packet loss"
+    ],
+    "references": [
+        "1804414343",
+        "2039664313",
+        "2125134431",
+        "2129348840",
+        "2145942024",
+        "2156601216",
+        "2156916299",
+        "2158733823"
+    ]
+}

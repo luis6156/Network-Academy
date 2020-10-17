@@ -1,0 +1,50 @@
+{
+    "id": "1511964345",
+    "title": "RKRD: Runtime Kernel Rootkit Detection",
+    "venue": "international conference on e business",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Satyajit Grover",
+            "id": "2110937528",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Hormuzd M. Khosravi",
+            "id": "2141818749",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Divya Kolar",
+            "id": "2233323488",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Samuel Moffat",
+            "id": "2234517614",
+            "org": "Intel Corporation"
+        },
+        {
+            "name": "Michael E. Kounavis",
+            "id": "4743488",
+            "org": "Intel Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Malware",
+        "Rootkit",
+        "Virtualization",
+        "System integration",
+        "Computer science",
+        "Threat model",
+        "Software deployment",
+        "Real-time computing",
+        "Page fault"
+    ],
+    "references": [
+        "161166442",
+        "1656731780",
+        "2029224396"
+    ]
+}

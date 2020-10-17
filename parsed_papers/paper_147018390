@@ -1,0 +1,77 @@
+{
+    "id": "147018390",
+    "title": "SPONGENT: a lightweight hash function",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "Katholieke Universiteit Leuven, ESAT/COSIC and IBBT, Belgium#TAB#"
+        },
+        {
+            "name": "Miroslav Knezevic",
+            "id": "2141086856",
+            "org": "Katholieke Universiteit Leuven, ESAT/COSIC and IBBT, Belgium and NXP Semiconductors, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Gregor Leander",
+            "id": "2036774799",
+            "org": "DTU Mathematics, Technical University of Denmark#TAB#"
+        },
+        {
+            "name": "Deniz Toz",
+            "id": "801758004",
+            "org": "Katholieke Universiteit Leuven, ESAT/COSIC and IBBT, Belgium#TAB#"
+        },
+        {
+            "name": "Kerem Varici",
+            "id": "170037261",
+            "org": "Katholieke Universiteit Leuven, ESAT/COSIC and IBBT, Belgium#TAB#"
+        },
+        {
+            "name": "Ingrid Verbauwhede",
+            "id": "2044881251",
+            "org": "Katholieke Universiteit Leuven, ESAT/COSIC and IBBT, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Secure Hash Standard",
+        "Theoretical computer science",
+        "SHA-2",
+        "Computer science",
+        "Distributed computing",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1522919234",
+        "1539249970",
+        "1545656271",
+        "1553650484",
+        "1561363170",
+        "1569212589",
+        "1573222895",
+        "1575062508",
+        "1588587929",
+        "1591203762",
+        "1596841000",
+        "1601321736",
+        "1603433154",
+        "1607874478",
+        "1734967783",
+        "1827311732",
+        "1894646615",
+        "2076397729",
+        "2094173427",
+        "2096485488",
+        "2106698019",
+        "2142537526",
+        "2247832471",
+        "2395122469"
+    ]
+}

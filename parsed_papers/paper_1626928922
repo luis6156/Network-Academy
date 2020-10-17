@@ -1,0 +1,52 @@
+{
+    "id": "1626928922",
+    "title": "Detecting Malicious Inputs of Web Application Parameters Using Character Class Sequences",
+    "venue": "computer software and applications conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yang Zhong",
+            "id": "2250917127",
+            "org": "NTT Secure Platform Labs., Musashino, Japan"
+        },
+        {
+            "name": "Hiroshi Asakura",
+            "id": "2780739703",
+            "org": "NTT Secure Platform Labs., Musashino, Japan"
+        },
+        {
+            "name": "Hiroki Takakura",
+            "id": "1991402840",
+            "org": "Inf. Technol. Center, Nagoya Univ. Furo-cho, Nagoya, Japan"
+        },
+        {
+            "name": "Yoshihito Oshima",
+            "id": "2649651754",
+            "org": "NTT Secure Platform Labs., Musashino, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Server",
+        "Web application",
+        "Anomaly detection",
+        "Exploit",
+        "False positive rate",
+        "SQL injection",
+        "Real-time computing",
+        "Feature extraction",
+        "Training set"
+    ],
+    "references": [
+        "70584117",
+        "1559171143",
+        "1601009504",
+        "1674877186",
+        "2109227373",
+        "2110523863",
+        "2111383430",
+        "2112063328",
+        "2145211381",
+        "2162995740"
+    ]
+}

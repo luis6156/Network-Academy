@@ -1,0 +1,53 @@
+{
+    "id": "1544212734",
+    "title": "A New Digital Signature Scheme on ID-Based Key-Sharing Infrastructures",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Tsuyoshi Nishioka",
+            "id": "2019919215",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "Institute of Industrial Science, the University of Tokyo"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "Institute of Industrial Science, the University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Tamper resistance",
+        "Computer science",
+        "Distributed computing",
+        "Key generator",
+        "Digital signature",
+        "Cryptosystem",
+        "Schnorr signature",
+        "Public-key cryptography",
+        "Ring signature"
+    ],
+    "references": [
+        "1493241500",
+        "1514361308",
+        "1532682245",
+        "1569083856",
+        "1600955756",
+        "1604946673",
+        "1606273473",
+        "1607507291",
+        "1640980902",
+        "1974152067",
+        "2016898589",
+        "2071827766",
+        "2102802476",
+        "2105514582",
+        "2130814478",
+        "2158273335"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1511818817",
+    "title": "An Implementation and Evaluation of a Distributed Shared-Memory System on Workstation Clusters Using Fast Serial Links",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Hironori Nakajo",
+            "id": "1226422382",
+            "org": "Kobe University"
+        },
+        {
+            "name": "Akihiro Ichikawa",
+            "id": "2170213082",
+            "org": "Kobe University"
+        },
+        {
+            "name": "Yukio Kaneda",
+            "id": "2121119658",
+            "org": "Kobe University"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Inter-process communication",
+        "Parallel computing",
+        "Shared memory",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Distributed shared memory",
+        "Network architecture",
+        "CPU cache",
+        "Workstation"
+    ],
+    "references": [
+        "1542985837",
+        "1966285605",
+        "1968182193",
+        "2044902313",
+        "2108167744",
+        "2114728910",
+        "2167089530"
+    ]
+}

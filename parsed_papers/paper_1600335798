@@ -1,0 +1,58 @@
+{
+    "id": "1600335798",
+    "title": "Optimized dense matrix multiplication on a many-core architecture",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Elkin Garcia",
+            "id": "2125628578",
+            "org": "Computer Architecture and Parallel Systems Laboratory, Department of Electrical and Computer Engineering, University of Delaware, Newark#TAB#"
+        },
+        {
+            "name": "Ioannis E. Venetis",
+            "id": "1560285051",
+            "org": "Department of Computer Engineering and Informatics, University of Patras, Rion, Greece#TAB#"
+        },
+        {
+            "name": "Rishi Khan",
+            "id": "2100777703",
+            "org": "ET International, Newark#TAB#"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "Computer Architecture and Parallel Systems Laboratory, Department of Electrical and Computer Engineering, University of Delaware, Newark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Thread (computing)",
+        "Cache",
+        "Matrix multiplication",
+        "Parallel computing",
+        "Computer architecture",
+        "Memory hierarchy",
+        "Chip",
+        "Computer science",
+        "Distributed computing",
+        "Register file",
+        "Architecture"
+    ],
+    "references": [
+        "1692608938",
+        "1972907356",
+        "1979219950",
+        "1979740015",
+        "2010952236",
+        "2039747889",
+        "2080063509",
+        "2093783472",
+        "2098220211",
+        "2120119701",
+        "2125457238",
+        "2125482922",
+        "2153768689",
+        "2158158791"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1545308509",
+    "title": "In-place heap construction with optimized comparisons, moves, and cache misses",
+    "venue": "mathematical foundations of computer science",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jingsen Chen",
+            "id": "2776952214",
+            "org": "Department of Computer Science, Electrical and Space Engineering, Lulea University of Technology, Lulea, Sweden#TAB#"
+        },
+        {
+            "name": "Stefan Edelkamp",
+            "id": "396772149",
+            "org": "Faculty 3--Mathematics and Computer Science, University of Bremen, Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Amr Elmasry",
+            "id": "2892764564",
+            "org": "Department of Computer Science, University of Copenhagen, Copenhagen East, Denmark#TAB#"
+        },
+        {
+            "name": "Jyrki Katajainen",
+            "id": "297623413",
+            "org": "Department of Computer Science, University of Copenhagen, Copenhagen East, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Skew heap",
+        "Parallel computing",
+        "Binomial heap",
+        "Discrete mathematics",
+        "Min-max heap",
+        "Fibonacci heap",
+        "d-ary heap",
+        "Computer science",
+        "Combinatorics",
+        "Heap (data structure)",
+        "Binary heap",
+        "Double-ended priority queue"
+    ],
+    "references": [
+        "1574082713",
+        "1578255156",
+        "1808899169",
+        "1970691969",
+        "1995675812",
+        "2017585246",
+        "2042509780",
+        "2044433754",
+        "2051283794",
+        "2052196304",
+        "2068947423",
+        "2069635001",
+        "2095875205",
+        "2159111594",
+        "2163693487"
+    ]
+}

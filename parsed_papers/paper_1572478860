@@ -1,0 +1,61 @@
+{
+    "id": "1572478860",
+    "title": "Validating LR (1) parsers",
+    "venue": "european symposium on programming",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jacques-Henri Jourdan",
+            "id": "2777995343",
+            "org": "Ecole Normale Superieure, France and INRIA Paris-Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Francois Pottier",
+            "id": "2040997047",
+            "org": "INRIA Paris-Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Xavier Leroy",
+            "id": "2780386900",
+            "org": "INRIA Paris-Rocquencourt, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GLR parser",
+        "Theoretical computer science",
+        "Simple LR parser",
+        "Algorithm",
+        "LL parser",
+        "Parser combinator",
+        "Computer science",
+        "LALR parser",
+        "LR parser",
+        "Top-down parsing",
+        "Canonical LR parser",
+        "Programming language"
+    ],
+    "references": [
+        "1488927778",
+        "1509784638",
+        "1556566737",
+        "1660801069",
+        "1768003599",
+        "1971135355",
+        "1984742153",
+        "1988233180",
+        "2002714140",
+        "2006898115",
+        "2018045485",
+        "2023035194",
+        "2051078183",
+        "2052735108",
+        "2055818134",
+        "2064490449",
+        "2077213360",
+        "2078944436",
+        "2120926795",
+        "2130785458",
+        "2194223632",
+        "2611598995"
+    ]
+}

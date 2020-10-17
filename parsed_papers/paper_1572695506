@@ -1,0 +1,51 @@
+{
+    "id": "1572695506",
+    "title": "Securing threshold cryptosystems against chosen ciphertext attack",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Victor Shoup",
+            "id": "2294259183",
+            "org": "IBM Zurich Research Lab"
+        },
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "IBM T. J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Malleability",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Distributed computing",
+        "Ciphertext indistinguishability",
+        "Hash function",
+        "Hybrid cryptosystem",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1552695147",
+        "1563592604",
+        "1575893707",
+        "1589034595",
+        "1589129854",
+        "1589176872",
+        "1730634423",
+        "1996360405",
+        "2009432965",
+        "2052267638",
+        "2054458282",
+        "2073210531",
+        "2095708839",
+        "2112240651",
+        "2141420453",
+        "2153193245",
+        "2156186849",
+        "2164988972"
+    ]
+}

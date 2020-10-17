@@ -1,0 +1,52 @@
+{
+    "id": "1583275866",
+    "title": "Accurate and efficient similarity search on 3d objects using point sampling, redundancy, and proportionality",
+    "venue": "symposium on large spatial databases",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Johannes Assfalg",
+            "id": "2001239146",
+            "org": "Institute for Computer Science, University of Munich, Germany#TAB#"
+        },
+        {
+            "name": "Hans-Peter Kriegel",
+            "id": "1919135125",
+            "org": "Institute for Computer Science, University of Munich, Germany#TAB#"
+        },
+        {
+            "name": "Peer Kroger",
+            "id": "2100673337",
+            "org": "Institute for Computer Science, University of Munich, Germany#TAB#"
+        },
+        {
+            "name": "Marco Potke",
+            "id": "47138358",
+            "org": "sd&m AG, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Mathematics",
+        "Invariant (mathematics)",
+        "Scaling",
+        "Similitude",
+        "Transformation geometry",
+        "Spatial database",
+        "Geometric transformation",
+        "Feature extraction",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1560811868",
+        "1561952261",
+        "1593151701",
+        "2099789128",
+        "2130238741",
+        "2134601920",
+        "2139924275",
+        "2162040411",
+        "2165939338"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1570723646",
+    "title": "An efficient POP protocol based on the signcryption scheme for the WAP PKI",
+    "venue": "european public key infrastructure workshop",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sungduk Kim",
+            "id": "2165632891",
+            "org": "Information Security Group, Sungkyunkwan University, Korea#TAB#"
+        },
+        {
+            "name": "Kyung-Jin Kim",
+            "id": "2723733579",
+            "org": "Mobile Communication Division, Samsung Electronics, Korea#TAB#"
+        },
+        {
+            "name": "Jaedong Jung",
+            "id": "2705992967",
+            "org": "IT Infra. Business Division, KOSCOM Corporate, Korea#TAB#"
+        },
+        {
+            "name": "Dongho Won",
+            "id": "2127395087",
+            "org": "Information Security Group, Sungkyunkwan University, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Signcryption",
+        "Public key infrastructure",
+        "Public-key cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Wireless Application Protocol",
+        "Computer security",
+        "Digital signature",
+        "Mobile computing",
+        "Wireless Transport Layer Security",
+        "IEEE P1363"
+    ],
+    "references": [
+        "1499103434",
+        "1516634197",
+        "1656678770",
+        "1706727159"
+    ]
+}

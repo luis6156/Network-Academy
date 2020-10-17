@@ -1,0 +1,100 @@
+{
+    "id": "1601925768",
+    "title": "Highly available transactions: virtues and limitations",
+    "venue": "very large data bases",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Peter Bailis",
+            "id": "2049394146",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Aaron Davidson",
+            "id": "2253275252",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Alan Fekete",
+            "id": "2154123352",
+            "org": "University of Sydney#TAB#"
+        },
+        {
+            "name": "Ali Ghodsi",
+            "id": "1884851915",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Joseph M. Hellerstein",
+            "id": "2063640528",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Ion Stoica",
+            "id": "2161479384",
+            "org": "UC Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Replica",
+        "Computer science",
+        "Data mining",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Data consistency",
+        "Database",
+        "Transactional leadership",
+        "Distributed data store",
+        "Unavailability",
+        "Real-time computing"
+    ],
+    "references": [
+        "12688243",
+        "23038622",
+        "193566757",
+        "238230001",
+        "1486339539",
+        "1543942291",
+        "1545155892",
+        "1563849906",
+        "1820403722",
+        "1969925795",
+        "1973501242",
+        "1983572666",
+        "1985229168",
+        "1996952974",
+        "1998688529",
+        "2013409485",
+        "2013451019",
+        "2022537167",
+        "2026697016",
+        "2038562061",
+        "2048071586",
+        "2053684268",
+        "2054584570",
+        "2060440895",
+        "2072566279",
+        "2074306365",
+        "2076424788",
+        "2082133002",
+        "2095135670",
+        "2098618284",
+        "2102163972",
+        "2106263082",
+        "2107212030",
+        "2112564224",
+        "2117917070",
+        "2125930899",
+        "2126969025",
+        "2150013559",
+        "2153704625",
+        "2154909541",
+        "2155070484",
+        "2160357235",
+        "2170907411",
+        "2171707251",
+        "2295541535",
+        "2341655714",
+        "2624304035"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1569109055",
+    "title": "On using an hybrid MPI-Thread programming for the implementation of a parallel sparse direct solver on a network of SMP nodes",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Pascal Henon",
+            "id": "2791910057",
+            "org": "LaBRI, UMR CNRS 5800 & ENSEIRB, INRIA Futurs ScAlApplix Project, Talence, France#TAB#"
+        },
+        {
+            "name": "Pierre Ramet",
+            "id": "2792024451",
+            "org": "LaBRI, UMR CNRS 5800 & ENSEIRB, INRIA Futurs ScAlApplix Project, Talence, France#TAB#"
+        },
+        {
+            "name": "Jean Roman",
+            "id": "2170757408",
+            "org": "LaBRI, UMR CNRS 5800 & ENSEIRB, INRIA Futurs ScAlApplix Project, Talence, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Supercomputer",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Multiprocessing",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Parallel algorithm",
+        "Solver"
+    ],
+    "references": [
+        "1540842995",
+        "1583920484",
+        "2013424510"
+    ]
+}

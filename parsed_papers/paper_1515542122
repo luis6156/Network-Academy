@@ -1,0 +1,37 @@
+{
+    "id": "1515542122",
+    "title": "Verifying out-of-order executions",
+    "venue": "Proceedings of the IFIP WG 10.5 International Conference on Correct Hardware Design and Verification Methods: Advances in Hardware Design and Verification",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Werner Damm",
+            "id": "2011015956",
+            "org": "OFFIS"
+        },
+        {
+            "name": "Amir Pnueli",
+            "id": "2171343426",
+            "org": "Weizmann Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Uninterpreted function",
+        "Parallel computing",
+        "Computer science",
+        "Out-of-order execution",
+        "Microarchitecture",
+        "Reservation station",
+        "Correctness",
+        "Dependency graph",
+        "Real-time computing"
+    ],
+    "references": [
+        "1505631339",
+        "1741528175",
+        "2033941027",
+        "2065846678",
+        "2095899592",
+        "2123445625"
+    ]
+}

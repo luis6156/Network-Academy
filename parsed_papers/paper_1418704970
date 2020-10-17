@@ -1,0 +1,77 @@
+{
+    "id": "1418704970",
+    "title": "Memory efficient sanitization of a deduplicated storage system",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Fabiano C. Botelho",
+            "id": "2169935150",
+            "org": "Backup Recovery Systems Division, EMC Corporation#TAB#"
+        },
+        {
+            "name": "Philip Shilane",
+            "id": "2079148098",
+            "org": "Backup Recovery Systems Division, EMC Corporation#TAB#"
+        },
+        {
+            "name": "Nitin Garg",
+            "id": "1966845743",
+            "org": "Backup Recovery Systems Division, EMC Corporation#TAB#"
+        },
+        {
+            "name": "Windsor W. Hsu",
+            "id": "2104350463",
+            "org": "Backup Recovery Systems Division, EMC Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Perfect hash function",
+        "Computer data storage",
+        "Computer science",
+        "Threat model",
+        "Namespace",
+        "Data domain",
+        "Real-time computing",
+        "Physical media"
+    ],
+    "references": [
+        "17958277",
+        "22807665",
+        "24740120",
+        "41435888",
+        "62638829",
+        "69510097",
+        "104648112",
+        "174289249",
+        "178328500",
+        "182307532",
+        "200233886",
+        "308357000",
+        "1499992773",
+        "1535755777",
+        "1548702063",
+        "1553242235",
+        "1582010081",
+        "1609518033",
+        "1891810191",
+        "1917123765",
+        "1969126835",
+        "1993284846",
+        "1994360333",
+        "2009191935",
+        "2038908732",
+        "2069074882",
+        "2074400425",
+        "2079301493",
+        "2097286495",
+        "2108183412",
+        "2116435146",
+        "2121133177",
+        "2123845384",
+        "2133806194",
+        "2138378323",
+        "2205436351",
+        "2535399211"
+    ]
+}

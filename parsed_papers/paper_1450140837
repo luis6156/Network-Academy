@@ -1,0 +1,71 @@
+{
+    "id": "1450140837",
+    "title": "Circuit fingerprinting attacks: passive deanonymization of tor hidden services",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Albert Kwon",
+            "id": "2547777674",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Mashael AlSabah",
+            "id": "2761329391",
+            "org": "Qatar Computing Research Institute and Qatar University and Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "David Lazar",
+            "id": "2102731440",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Marc Dacier",
+            "id": "2589506758",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Srinivas Devadas",
+            "id": "855547412",
+            "org": "Massachusetts Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Operator (computer programming)",
+        "Computer science",
+        "Anonymity",
+        "Computer security",
+        "Server",
+        "Threat model",
+        "False positive rate",
+        "Internet privacy"
+    ],
+    "references": [
+        "39374552",
+        "1530813112",
+        "1545050218",
+        "1593719721",
+        "1655958391",
+        "1992562179",
+        "1993568446",
+        "2004522052",
+        "2007887768",
+        "2011158884",
+        "2012210084",
+        "2076282258",
+        "2080977773",
+        "2108217512",
+        "2109683670",
+        "2112178441",
+        "2120702739",
+        "2122192957",
+        "2125055259",
+        "2127295197",
+        "2133990480",
+        "2135579486",
+        "2149280729",
+        "2156410527",
+        "2163007546",
+        "2170085959"
+    ]
+}

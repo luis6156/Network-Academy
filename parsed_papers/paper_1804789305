@@ -1,0 +1,52 @@
+{
+    "id": "1804789305",
+    "title": "AES S-box using Fermat's Little Theorem for the highly constrained embedded devices",
+    "venue": "european signal processing conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "M. M. Wong",
+            "id": "2793054875",
+            "org": "SoECS, Swinburne University of Technology Sarawak, Kuching, Malaysia"
+        },
+        {
+            "name": "M.L.D. Wong",
+            "id": "2791408988",
+            "org": "Dept. EEE, Xi'an Jiaotong-Liverpool University, Suzhou, China"
+        },
+        {
+            "name": "Asoke K. Nandi",
+            "id": "2158627555",
+            "org": "Dept. EE&E, The University of Liverpool, Liverpool, U.K"
+        },
+        {
+            "name": "I. Hijazin",
+            "id": "2792056468",
+            "org": "FEIS, Swinburne University of Technology, Victoria, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Lookup table",
+        "Theoretical computer science",
+        "S-box",
+        "Microcontroller",
+        "Circuit design",
+        "Advanced Encryption Standard",
+        "Fermat's little theorem",
+        "Computer science",
+        "Embedded system",
+        "AES implementations"
+    ],
+    "references": [
+        "131498960",
+        "1499906440",
+        "1589682573",
+        "2106550259",
+        "2112244944",
+        "2115840814",
+        "2126260501",
+        "2148578019",
+        "2162136091"
+    ]
+}

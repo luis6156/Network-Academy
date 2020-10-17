@@ -1,0 +1,41 @@
+{
+    "id": "1544638913",
+    "title": "Multi-cut Pruning in Alpha-Beta Search",
+    "venue": "annual conference on computers",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Yngvi Bjornsson",
+            "id": "322517448",
+            "org": "University of Alberta Department of Computing Science Edmonton AB Canada T6G 2H1"
+        },
+        {
+            "name": "T. Anthony Marsland",
+            "id": "2129279301",
+            "org": "University of Alberta|Department of Computing Science"
+        }
+    ],
+    "fields_of_study": [
+        "Pruning",
+        "Machine learning",
+        "Computer science",
+        "Minimax",
+        "Alpha-beta pruning",
+        "Null-move heuristic",
+        "Pruning (decision trees)",
+        "Principal variation search",
+        "Killer heuristic",
+        "Mathematical optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "21690981",
+        "73057299",
+        "101853078",
+        "1492714411",
+        "1507762168",
+        "1979572685",
+        "2151997948",
+        "2157803532"
+    ]
+}

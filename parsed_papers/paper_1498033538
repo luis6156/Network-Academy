@@ -1,0 +1,123 @@
+{
+    "id": "1498033538",
+    "title": "DBMiner: a system for data mining in relational databases and data warehouses",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jiawei Han",
+            "id": "2121939561",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Jenny Chiang",
+            "id": "2288375955",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Sonny Han Seng Chee",
+            "id": "2274853475",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Jianping Chen",
+            "id": "2650276461",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Qing Chen",
+            "id": "2244152617",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Shan Cheng",
+            "id": "2277642889",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Wan Gong",
+            "id": "2171991132",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Micheline Kamber",
+            "id": "2893934372",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Krzysztof Koperski",
+            "id": "2279782171",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Gang Liu",
+            "id": "2425194887",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Yijun Lu",
+            "id": "2111579034",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Nebojsa Stefanovic",
+            "id": "2110558983",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Lara Winstone",
+            "id": "2277438941",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Betty Xia",
+            "id": "2421938890",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Osmar R. Zaiane",
+            "id": "2308328903",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Shuhua Zhang",
+            "id": "2634816303",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        },
+        {
+            "name": "Hua Zhu",
+            "id": "2153668031",
+            "org": "Data Mining Research Group, Intelligent Database Systems Research Laboratory, School of Computing Science, Simon Fraser University, British Columbia, Canada V5A 1S6#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web mining",
+        "Data science",
+        "Data stream mining",
+        "Online analytical processing",
+        "Database model",
+        "Computer science",
+        "Data mining",
+        "Concept mining",
+        "Text mining",
+        "Data warehouse",
+        "Knowledge extraction"
+    ],
+    "references": [
+        "54446695",
+        "144943406",
+        "151889949",
+        "1506285740",
+        "1520890006",
+        "1576962511",
+        "1578959085",
+        "1601529450",
+        "1823692244",
+        "2044240774",
+        "2072764742",
+        "2100356657",
+        "2129150932",
+        "2131225292",
+        "2150488835"
+    ]
+}

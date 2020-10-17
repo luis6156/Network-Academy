@@ -1,0 +1,42 @@
+{
+    "id": "1539091004",
+    "title": "Brief announcement: concurrent wait-free red-black trees",
+    "venue": "international symposium on distributed computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Aravind Natarajan",
+            "id": "2181740558",
+            "org": "The University of Texas at Dallas, Richardson, TX#TAB#"
+        },
+        {
+            "name": "Lee Savoie",
+            "id": "2602017642",
+            "org": "The University of Texas at Dallas, Richardson, TX#TAB#"
+        },
+        {
+            "name": "Neeraj Mittal",
+            "id": "2110218440",
+            "org": "The University of Texas at Dallas, Richardson, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Parallel computing",
+        "Binary search tree",
+        "Red-black tree",
+        "Tree structure",
+        "Distributed computing",
+        "Deadlock",
+        "Lock (computer science)",
+        "Computer science",
+        "Concurrency",
+        "Concurrent data structure",
+        "Real-time computing"
+    ],
+    "references": [
+        "1480917623",
+        "2061197210",
+        "2100357382"
+    ]
+}

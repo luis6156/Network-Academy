@@ -1,0 +1,49 @@
+{
+    "id": "1689977300",
+    "title": "Computing Mel-frequency cepstral coefficients on the power spectrum",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sirko Molau",
+            "id": "2303476033",
+            "org": "Lehrstuhl fur Inf. VI, Rheinisch-Westfalische Tech. Hochschule Aachen, Germany"
+        },
+        {
+            "name": "Michael Pitz",
+            "id": "2124769218",
+            "org": "Lehrstuhl fur Informatik|Computer Science Department|University of Technology"
+        },
+        {
+            "name": "Ralf Schluter",
+            "id": "1975576064",
+            "org": "Lehrstuhl fur Informatik|Computer Science Department|University of Technology"
+        },
+        {
+            "name": "Hermann Ney",
+            "id": "2293758362",
+            "org": "Lehrstuhl fur Informatik|Computer Science Department|University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Word error rate",
+        "Mel-frequency cepstrum",
+        "Normalization (statistics)",
+        "Discretization",
+        "Computer science",
+        "Pattern recognition",
+        "Spectral density",
+        "Signal processing",
+        "Filter bank",
+        "Speech recognition",
+        "Speech processing",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "123627327",
+        "1854414011",
+        "2106119541",
+        "2164579587",
+        "2168320035"
+    ]
+}

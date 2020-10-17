@@ -1,0 +1,85 @@
+{
+    "id": "111214574",
+    "title": "3d kidney segmentation from CT images using a level set approach guided by a novel stochastic speed function",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Fahmi Khalifa",
+            "id": "2102991391",
+            "org": "BioImaging Laboratory, Bioengineering Department, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Ahmed Elnakib",
+            "id": "2089944350",
+            "org": "BioImaging Laboratory, Bioengineering Department, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Garth M. Beache",
+            "id": "2022538346",
+            "org": "Diagnostic Radiology Department, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Georgy L. Gimel'farb",
+            "id": "2080712126",
+            "org": "Department of Computer Science, University of Auckland, Auckland, New Zealand#TAB#"
+        },
+        {
+            "name": "Mohamed Abou El-Ghar",
+            "id": "2020463098",
+            "org": "Urology and Nephrology Department, University of Mansoura, Mansoura, Egypt#TAB#"
+        },
+        {
+            "name": "Rosemary Ouseph",
+            "id": "1662811092",
+            "org": "Department of Medicine, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Guela E. Sokhadze",
+            "id": "1998467016",
+            "org": "BioImaging Laboratory, Bioengineering Department, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Samantha Manning",
+            "id": "2672366039",
+            "org": "BioImaging Laboratory, Bioengineering Department, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Patrick McClure",
+            "id": "2708886572",
+            "org": "BioImaging Laboratory, Bioengineering Department, University of Louisville, Louisville, KY#TAB#"
+        },
+        {
+            "name": "Ayman El-Baz",
+            "id": "2002811327",
+            "org": "BioImaging Laboratory, Bioengineering Department, University of Louisville, Louisville, KY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Data set",
+        "Image segmentation",
+        "Scale-space segmentation",
+        "Robustness (computer science)",
+        "Receiver operating characteristic",
+        "Random field",
+        "Segmentation-based object categorization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "199587707",
+        "1511964238",
+        "1567641598",
+        "1874027545",
+        "2049516470",
+        "2050809322",
+        "2053588653",
+        "2056988376",
+        "2093834886",
+        "2115384210",
+        "2147484997"
+    ]
+}

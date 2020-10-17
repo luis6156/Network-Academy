@@ -1,0 +1,54 @@
+{
+    "id": "1604242688",
+    "title": "Multiplexing low and high QoS workloads in virtual environments",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sam Verboven",
+            "id": "2018313481",
+            "org": "University of Antwerp, Department of Computer Science and Mathematics, Antwerp, Belgium#TAB#"
+        },
+        {
+            "name": "Kurt Vanmechelen",
+            "id": "20807421",
+            "org": "University of Antwerp, Department of Computer Science and Mathematics, Antwerp, Belgium#TAB#"
+        },
+        {
+            "name": "Jan Broeckhove",
+            "id": "423451801",
+            "org": "University of Antwerp, Department of Computer Science and Mathematics, Antwerp, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (production processes)",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1487076132",
+        "1541858096",
+        "1581615656",
+        "1590665309",
+        "1777325717",
+        "2014438294",
+        "2049717788",
+        "2069319784",
+        "2112039362",
+        "2112168774",
+        "2131726714",
+        "2139250332",
+        "2140919237",
+        "2151329337",
+        "2489559643",
+        "2614676961"
+    ]
+}

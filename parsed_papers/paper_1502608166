@@ -1,0 +1,63 @@
+{
+    "id": "1502608166",
+    "title": "Lightweight Block Ciphers Revisited: Cryptanalysis of Reduced Round PRESENT and HIGHT",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Onur Ozen",
+            "id": "2047715420",
+            "org": "EPFL, Lausanne, Switzerland CH-1015#TAB#"
+        },
+        {
+            "name": "Kerem Varici",
+            "id": "170037261",
+            "org": "Dept. of Electrical Engineering, ESAT/SCD/COSIC and IBBT, K.U.Leuven, Heverlee, Belgium B-3001#TAB#"
+        },
+        {
+            "name": "Cihangir Tezcan",
+            "id": "2075356169",
+            "org": "Institute of Applied Mathematics, Department of Cryptography, METU, Ankara, Turkey 06531#TAB#"
+        },
+        {
+            "name": "Celebi Kocair",
+            "id": "32872239",
+            "org": "Department of Computer Engineering, METU, Ankara, Turkey 06531#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Interpolation attack",
+        "Block size",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Impossible differential cryptanalysis",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1490106672",
+        "1499577822",
+        "1511842436",
+        "1515958737",
+        "1522919234",
+        "1533392870",
+        "1534885379",
+        "1540066842",
+        "1541703086",
+        "1541853791",
+        "1575062508",
+        "1581134854",
+        "1596841000",
+        "1734967783",
+        "1894646615",
+        "1991897749",
+        "2066464272",
+        "2116723762",
+        "2132271754",
+        "2247832471"
+    ]
+}

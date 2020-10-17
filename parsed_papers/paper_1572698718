@@ -1,0 +1,46 @@
+{
+    "id": "1572698718",
+    "title": "Impact of BGP Dynamics on Router CPU Utilization",
+    "venue": "passive and active network measurement",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sharad Agarwal",
+            "id": "2656353640",
+            "org": "University of California"
+        },
+        {
+            "name": "Chen-Nee Chuah",
+            "id": "2182753262",
+            "org": "University of California"
+        },
+        {
+            "name": "Supratik Bhattacharyya",
+            "id": "1977773338",
+            "org": "Sprint ATL"
+        },
+        {
+            "name": "Christophe Diot",
+            "id": "2420103839",
+            "org": "Intel Research"
+        }
+    ],
+    "fields_of_study": [
+        "One-armed router",
+        "Autonomous system (Internet)",
+        "Routing protocol",
+        "Border Gateway Protocol",
+        "Route flapping",
+        "Computer science",
+        "Distributed computing",
+        "P Router",
+        "Default-free zone",
+        "Computer network",
+        "Real-time computing",
+        "Link state packet"
+    ],
+    "references": [
+        "2048766046",
+        "2119665367"
+    ]
+}

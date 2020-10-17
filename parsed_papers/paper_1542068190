@@ -1,0 +1,32 @@
+{
+    "id": "1542068190",
+    "title": "Cryptanalysis of MD4",
+    "venue": "fast software encryption",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Hans Dobbertin",
+            "id": "2720082804",
+            "org": "German Information Security Agency"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Perfect hash function",
+        "Theoretical computer science",
+        "SHA-2",
+        "Computer science",
+        "RIPEMD",
+        "Collision attack",
+        "Hash function",
+        "MD5",
+        "Collision"
+    ],
+    "references": [
+        "1531810027",
+        "1537185870",
+        "2086659222",
+        "2104633167",
+        "2134518741"
+    ]
+}

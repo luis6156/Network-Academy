@@ -1,0 +1,48 @@
+{
+    "id": "1540842995",
+    "title": "A Mapping and Scheduling Algorithm for Parallel Sparse Fan-In Numerical Factorization",
+    "venue": "european conference on parallel processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Pascal Henon",
+            "id": "2052691784",
+            "org": "LaBRI, UMR CNRS 5800, Universite Bordeaux 1 & ENSERB"
+        },
+        {
+            "name": "Pierre Ramet",
+            "id": "169387109",
+            "org": "LaBRI, UMR CNRS 5800, Universite Bordeaux 1 & ENSERB"
+        },
+        {
+            "name": "Jean Roman",
+            "id": "2170757408",
+            "org": "LaBRI, UMR CNRS 5800, Universite Bordeaux 1 & ENSERB"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Factorization",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computation",
+        "Computer science",
+        "Scheduling (computing)",
+        "Grid",
+        "Fan-in",
+        "Sparse approximation",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1502529739",
+        "1584866192",
+        "1992935334",
+        "2014730252",
+        "2025695688",
+        "2026139385",
+        "2043616552",
+        "2065166766",
+        "2123291824"
+    ]
+}

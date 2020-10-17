@@ -1,0 +1,53 @@
+{
+    "id": "1590064637",
+    "title": "Virtual Cache Line: A New Technique to Improve Cache Exploitation for Recursive Data Structures",
+    "venue": "compiler construction",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Shai Rubin",
+            "id": "2274944295",
+            "org": "MATAM - Advanced Technology Center"
+        },
+        {
+            "name": "David Bernstein",
+            "id": "2691990259",
+            "org": "MATAM - Advanced Technology Center"
+        },
+        {
+            "name": "Michael Rodeh",
+            "id": "8183976",
+            "org": "The Techion"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Cache pollution",
+        "Cache-oblivious algorithm",
+        "Programming language",
+        "Cache invalidation",
+        "Locality of reference"
+    ],
+    "references": [
+        "1539221976",
+        "1566467256",
+        "1758912474",
+        "2009911326",
+        "2072858236",
+        "2095679548",
+        "2098220211",
+        "2101377877",
+        "2116672403",
+        "2117703621",
+        "2117790850",
+        "2153691881",
+        "2157758640",
+        "2170577595",
+        "2295099251"
+    ]
+}

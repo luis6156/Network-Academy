@@ -1,0 +1,48 @@
+{
+    "id": "1586573895",
+    "title": "Some Remarks on Lucas-Based Cryptosystems",
+    "venue": "international cryptology conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Daniel Bleichenbacher",
+            "id": "4960438",
+            "org": "ETH Zentrum"
+        },
+        {
+            "name": "Wieb Bosma",
+            "id": "1983586666",
+            "org": "University of Sydney"
+        },
+        {
+            "name": "Arjen K. Lenstra",
+            "id": "2436602830",
+            "org": "MRE-2Q330, Bellcore"
+        }
+    ],
+    "fields_of_study": [
+        "Lucas sequence",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete logarithm",
+        "Exponentiation",
+        "Discrete mathematics",
+        "Cryptosystem",
+        "Hybrid cryptosystem",
+        "Public-key cryptography",
+        "Timing attack"
+    ],
+    "references": [
+        "169754172",
+        "1534901184",
+        "1541224886",
+        "1595231197",
+        "1606762295",
+        "1786245667",
+        "1969728959",
+        "1996360405",
+        "2073914480",
+        "2108834246",
+        "2156186849"
+    ]
+}

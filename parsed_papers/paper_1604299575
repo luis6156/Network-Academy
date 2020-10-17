@@ -1,0 +1,41 @@
+{
+    "id": "1604299575",
+    "title": "ConTraST - a configurable SDL transpiler and runtime environment",
+    "venue": "system analysis and modeling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ingmar Fliege",
+            "id": "1491386131",
+            "org": "Computer Science Department, University of Kaiserslautern, Kaiserslautern, Germany#TAB#"
+        },
+        {
+            "name": "Rudiger Grammes",
+            "id": "1064848510",
+            "org": "Computer Science Department, University of Kaiserslautern, Kaiserslautern, Germany#TAB#"
+        },
+        {
+            "name": "Christian Weber",
+            "id": "2485302169",
+            "org": "Siemens AG, Ulm, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Traceability",
+        "Specification language",
+        "Abstract state machines",
+        "Object-oriented programming",
+        "High-level programming language",
+        "Abstract syntax tree",
+        "Computer science",
+        "Semantics of logic",
+        "Code generation",
+        "Programming language"
+    ],
+    "references": [
+        "47271040",
+        "1502188990",
+        "1606349578",
+        "2124981297"
+    ]
+}

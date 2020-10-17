@@ -1,0 +1,45 @@
+{
+    "id": "1544897443",
+    "title": "Design and Implementation of MPI on Portals 3.0",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ron Brightwell",
+            "id": "2141506386",
+            "org": "Sandia National Laboratories"
+        },
+        {
+            "name": "Arthur B. Maccabe",
+            "id": "2034490368",
+            "org": "University of New Mexico"
+        },
+        {
+            "name": "Rolf Riesen",
+            "id": "2393382793",
+            "org": "Sandia National Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Remote memory",
+        "Computer science",
+        "Distributed computing",
+        "Network interface",
+        "Message Passing Interface",
+        "Message passing",
+        "Network interface controller",
+        "Operating system"
+    ],
+    "references": [
+        "1553727810",
+        "2065414935",
+        "2081612620",
+        "2091798192",
+        "2095793442",
+        "2109274854",
+        "2114728910",
+        "2154207621",
+        "2155066383"
+    ]
+}

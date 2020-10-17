@@ -1,0 +1,42 @@
+{
+    "id": "1588748596",
+    "title": "Symbolic synthesis of finite-state controllers for request-response specifications",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nico Wallmeier",
+            "id": "2081095792",
+            "org": "Lehrstuhl fur Informatik VII, RWTH Aachen, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Patrick Hutten",
+            "id": "2514283737",
+            "org": "Lehrstuhl fur Informatik VII, RWTH Aachen, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Thomas",
+            "id": "2121581756",
+            "org": "Lehrstuhl fur Informatik VII, RWTH Aachen, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Satisfiability",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "State space",
+        "Computer science",
+        "Binary decision diagram",
+        "Control theory",
+        "Request-response",
+        "True quantified Boolean formula",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1481109946",
+        "1514240489",
+        "1588784669",
+        "1816620374",
+        "2340735175"
+    ]
+}

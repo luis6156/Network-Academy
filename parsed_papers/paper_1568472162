@@ -1,0 +1,47 @@
+{
+    "id": "1568472162",
+    "title": "DEDISbench: A Benchmark for Deduplicated Storage Systems",
+    "venue": "OTM Confederated International Conferences \"On the Move to Meaningful Internet Systems\"",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Joao Paulo",
+            "id": "2153773147",
+            "org": "INESC TEC & University of Minho"
+        },
+        {
+            "name": "Pedro Reis",
+            "id": "2530416178",
+            "org": "INESC TEC & University of Minho"
+        },
+        {
+            "name": "Jose Pereira",
+            "id": "2108096461",
+            "org": "INESC TEC & University of Minho"
+        },
+        {
+            "name": "Antonio Sousa",
+            "id": "2345247407",
+            "org": "INESC TEC & University of Minho"
+        }
+    ],
+    "fields_of_study": [
+        "Cloud computing",
+        "Computer science",
+        "Distributed computing",
+        "Backup",
+        "Data deduplication",
+        "Storage virtualization",
+        "Virtual machine"
+    ],
+    "references": [
+        "174289249",
+        "200233886",
+        "1576397915",
+        "1856507064",
+        "2056980397",
+        "2143730413",
+        "2143882267",
+        "2147407897"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1537370817",
+    "title": "Extending .NET security to unmanaged code",
+    "venue": "international conference on information security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Patrick Klinkoff",
+            "id": "2552458193",
+            "org": "Secure Systems Lab, Technical University Vienna#TAB#"
+        },
+        {
+            "name": "Christopher Kruegel",
+            "id": "2001160045",
+            "org": "Secure Systems Lab, Technical University Vienna#TAB#"
+        },
+        {
+            "name": "Engin Kirda",
+            "id": "59249629",
+            "org": "Secure Systems Lab, Technical University Vienna#TAB#"
+        },
+        {
+            "name": "Giovanni Vigna",
+            "id": "2192390985",
+            "org": "Department of Computer Science, University of California, Santa Barbara#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        ".NET Framework",
+        "Legacy code",
+        "Computer security model",
+        "Redundant code",
+        "Managed code",
+        "Computer science",
+        "Sandbox (computer security)",
+        "Distributed computing",
+        "Code Access Security",
+        "Blittable types"
+    ],
+    "references": [
+        "102661697",
+        "341673680",
+        "1508969946",
+        "1947347140",
+        "1979717085",
+        "2039553546",
+        "2041700825",
+        "2079029390",
+        "2117115928",
+        "2123886726",
+        "2128217000"
+    ]
+}

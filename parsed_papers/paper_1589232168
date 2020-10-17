@@ -1,0 +1,39 @@
+{
+    "id": "1589232168",
+    "title": "PRCS: The Project Revision Control System",
+    "venue": "software configuration management workshop",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Josh MacDonald",
+            "id": "2111810710",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "Paul N. Hilfinger",
+            "id": "2009612149",
+            "org": "University of California at Berkeley"
+        },
+        {
+            "name": "Luigi Semenzato",
+            "id": "2500107023",
+            "org": "National Energy Research Scientific Computing Center"
+        }
+    ],
+    "fields_of_study": [
+        "Software development",
+        "Revision control",
+        "User interface",
+        "Computer science",
+        "Optimistic concurrency control",
+        "Control system",
+        "Database",
+        "Concurrency",
+        "Configuration management"
+    ],
+    "references": [
+        "1495851697",
+        "1525444862",
+        "1550814094"
+    ]
+}

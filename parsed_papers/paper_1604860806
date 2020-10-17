@@ -1,0 +1,48 @@
+{
+    "id": "1604860806",
+    "title": "Slicing Analysis and Indirect Accesses to Distributed Arrays",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Raja Das",
+            "id": "2471083882",
+            "org": "Univ. of Maryland, College Park#TAB#"
+        },
+        {
+            "name": "Joel H. Saltz",
+            "id": "2111158966",
+            "org": "Univ. of Maryland, College Park#TAB#"
+        },
+        {
+            "name": "Reinhard von Hanxleden",
+            "id": "2230961733",
+            "org": "Rice Univ., Houston, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Program slicing",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Slicing",
+        "Indexation",
+        "Computer science",
+        "Compiler",
+        "High Performance Fortran",
+        "Indirection",
+        "Fortran"
+    ],
+    "references": [
+        "1841095583",
+        "1974470587",
+        "1996384031",
+        "2022078144",
+        "2057303472",
+        "2088560953",
+        "2095798890",
+        "2142902921",
+        "2162046779",
+        "2167548825"
+    ]
+}

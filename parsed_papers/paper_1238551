@@ -1,0 +1,47 @@
+{
+    "id": "1238551",
+    "title": "Multi-organ Localization Combining Global-to-Local Regression and Confidence Maps",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Romane Gauriau",
+            "id": "245994637",
+            "org": "Philips Research MediSys"
+        },
+        {
+            "name": "Remi Cuingnet",
+            "id": "2082222046",
+            "org": "Philips Research MediSys"
+        },
+        {
+            "name": "David Lesage",
+            "id": "2141751838",
+            "org": "Philips Research MediSys"
+        },
+        {
+            "name": "Isabelle Bloch",
+            "id": "1940272638",
+            "org": "Telecom ParisTech, CNRS LTCI"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Random forest",
+        "Local regression",
+        "Computer vision",
+        "Pattern recognition",
+        "Probabilistic logic",
+        "Voxel",
+        "Robustness (computer science)",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "56444682",
+        "116922145",
+        "1835499858",
+        "2065698093",
+        "2086618980"
+    ]
+}

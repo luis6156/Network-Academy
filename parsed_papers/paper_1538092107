@@ -1,0 +1,35 @@
+{
+    "id": "1538092107",
+    "title": "Adaptive Scheduling at Mobiles for Wireless Networks with Multiple Priority Traffic and Multiple Transmission Channels",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Satish Damodaran",
+            "id": "2434901045",
+            "org": "Cisco Systems"
+        },
+        {
+            "name": "Krishna M. Sivalingam",
+            "id": "249452756",
+            "org": "Washington State Univ."
+        }
+    ],
+    "fields_of_study": [
+        "Priority inheritance",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Priority queue",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Priority ceiling protocol",
+        "Rate-monotonic scheduling",
+        "Computer network",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing"
+    ],
+    "references": [
+        "1495511939",
+        "2171873915"
+    ]
+}

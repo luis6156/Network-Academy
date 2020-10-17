@@ -1,0 +1,72 @@
+{
+    "id": "1819209966",
+    "title": "Bounded Model Checking Using Satisfiability Solving",
+    "venue": "formal methods",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Computer Science Department, CMU, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA. [email protected]#TAB#"
+        },
+        {
+            "name": "Armin Biere",
+            "id": "2242438494",
+            "org": "Institute of Computer Systems, ETH Zurich, 8092 Zurich, Switzerland. biere@inf.ethz.ch#TAB#"
+        },
+        {
+            "name": "Richard Raimi",
+            "id": "2305330528",
+            "org": "TriMedia Technologies, Inc., 801 Capital of Texas Hwy. So., Austin, TX 78704. richard.raimi@trimedia.com#TAB#"
+        },
+        {
+            "name": "Yunshan Zhu",
+            "id": "2130671571",
+            "org": "Synopsys, Inc., 700 East Middlefield Road, Mountain View, CA 94043, USA. yunshan@synopsys.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "cons",
+        "Theoretical computer science",
+        "Satisfiability",
+        "Computer science",
+        "State space",
+        "Bounded function",
+        "Transition system",
+        "Symbolic trajectory evaluation",
+        "Model checking",
+        "Abstraction model checking"
+    ],
+    "references": [
+        "107226832",
+        "1494481937",
+        "1501731334",
+        "1511155470",
+        "1513300473",
+        "1537651185",
+        "1538995403",
+        "1578895382",
+        "1593428110",
+        "1600919542",
+        "1605860778",
+        "1787074469",
+        "1814068099",
+        "1866896089",
+        "1890338041",
+        "1999997889",
+        "2009965218",
+        "2015696841",
+        "2024148935",
+        "2062897452",
+        "2071559752",
+        "2080267935",
+        "2080593426",
+        "2100404896",
+        "2113251992",
+        "2114092850",
+        "2117189826",
+        "2135613306",
+        "2160444875",
+        "2340735175"
+    ]
+}

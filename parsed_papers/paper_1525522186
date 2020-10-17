@@ -1,0 +1,63 @@
+{
+    "id": "1525522186",
+    "title": "Efficient vector implementations of AES-Based designs: a case study and new implemenations for grostl",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Severin Holzer-Graf",
+            "id": "2648264826",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Thomas Krinninger",
+            "id": "2644894937",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Martin Pernull",
+            "id": "2688950693",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Martin Schlaffer",
+            "id": "2159898291",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Peter Schwabe",
+            "id": "2306640565",
+            "org": "Digital Security Group, Radboud University Nijmegen, The Netherlands#TAB#"
+        },
+        {
+            "name": "David Seywald",
+            "id": "2665006252",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Wolfgang Wieser",
+            "id": "1874772543",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grostl",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Implementation",
+        "Hash function"
+    ],
+    "references": [
+        "1480815770",
+        "1499906440",
+        "1523982624",
+        "1538825791",
+        "1548516269",
+        "1551715037",
+        "1587120902",
+        "2085511676",
+        "2110776574",
+        "2149174385"
+    ]
+}

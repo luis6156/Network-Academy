@@ -1,0 +1,64 @@
+{
+    "id": "1521984813",
+    "title": "Reduction of interrupt handler executions for model checking embedded software",
+    "venue": "haifa verification conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Bastian Schlich",
+            "id": "1237034008",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Noll",
+            "id": "2176979352",
+            "org": "RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Jorg Brauer",
+            "id": "2085628850",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Lucas Brutschy",
+            "id": "2797922871",
+            "org": "Embedded Software Laboratory, RWTH Aachen University, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interrupt",
+        "Formal equivalence checking",
+        "Computer science",
+        "CTL*",
+        "Transition system",
+        "Model checking",
+        "Interrupt handler",
+        "Real-time computing",
+        "Abstraction model checking",
+        "Partial order reduction"
+    ],
+    "references": [
+        "1493367105",
+        "1501207415",
+        "1535497513",
+        "1540501475",
+        "1545371423",
+        "1554834491",
+        "1556566737",
+        "1574570499",
+        "1580380563",
+        "1985161650",
+        "1990183105",
+        "2010609147",
+        "2070694819",
+        "2072062729",
+        "2086147982",
+        "2087046173",
+        "2098151336",
+        "2120926795",
+        "2126301692",
+        "2155487709",
+        "2162339514",
+        "2173952623"
+    ]
+}

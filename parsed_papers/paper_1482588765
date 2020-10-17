@@ -1,0 +1,41 @@
+{
+    "id": "1482588765",
+    "title": "Py (Roo): A Fast and Secure Stream Cipher using Rolling Arrays.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Jennifer Seberry",
+            "id": "2251197281",
+            "org": "University of Wollongong"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Cipher",
+        "Block cipher mode of operation",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Stream cipher",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "RC4",
+        "Distinguishing attack"
+    ],
+    "references": [
+        "1490586645",
+        "1500356409",
+        "1556212265",
+        "1556597491",
+        "1590624619",
+        "1602293460",
+        "2114197583",
+        "2144724363",
+        "2786219742"
+    ]
+}

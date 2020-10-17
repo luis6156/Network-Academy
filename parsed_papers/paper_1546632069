@@ -1,0 +1,42 @@
+{
+    "id": "1546632069",
+    "title": "Volumetric medical images segmentation using shape constrained deformable models",
+    "venue": "CVRMed-MRCAS '97 Proceedings of the First Joint Conference on Computer Vision, Virtual Reality and Robotics in Medicine and Medial Robotics and Computer-Assisted Surgery",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Johan Montagnat",
+            "id": "2892762390",
+            "org": "I.N.R.I.A."
+        },
+        {
+            "name": "Herve Delingette",
+            "id": "2778352271",
+            "org": "I.N.R.I.A."
+        }
+    ],
+    "fields_of_study": [
+        "Iterative closest point",
+        "Mathematics",
+        "Segmentation",
+        "Simplex",
+        "Computer vision",
+        "Reference model",
+        "Rigid transformation",
+        "Robustness (computer science)",
+        "Geometric modeling",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "415788",
+        "606979596",
+        "1571046051",
+        "2038952578",
+        "2043647324",
+        "2104095591",
+        "2116773294",
+        "2118104180",
+        "2130771648"
+    ]
+}

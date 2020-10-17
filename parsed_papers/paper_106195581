@@ -1,0 +1,100 @@
+{
+    "id": "106195581",
+    "title": "GPU-Accelerated Database Systems: Survey and Open Challenges",
+    "venue": "Trans. Large-Scale Data- and Knowledge-Centered Systems",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Sebastian Bress",
+            "id": "2302676805",
+            "org": "University of Magdeburg"
+        },
+        {
+            "name": "Max Heimel",
+            "id": "2083567564",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Norbert Siegmund",
+            "id": "1619324679",
+            "org": "University of Passau"
+        },
+        {
+            "name": "Ladjel Bellatreche",
+            "id": "158375695",
+            "org": "LIAS/ISAE-ENSMA"
+        },
+        {
+            "name": "Gunter Saake",
+            "id": "129750422",
+            "org": "University of Magdeburg"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Reference architecture",
+        "Computer science",
+        "Data processing",
+        "Memory bandwidth",
+        "Database",
+        "Graphics",
+        "CUDA"
+    ],
+    "references": [
+        "155760863",
+        "164384110",
+        "969254369",
+        "1008712599",
+        "1484923835",
+        "1521148341",
+        "1577974847",
+        "1607968443",
+        "1936410615",
+        "1952866164",
+        "1982102332",
+        "1987238352",
+        "1998545184",
+        "2000790156",
+        "2004772832",
+        "2005294557",
+        "2009043751",
+        "2013042849",
+        "2029172467",
+        "2038509324",
+        "2039767911",
+        "2047210602",
+        "2050277572",
+        "2054046497",
+        "2066860750",
+        "2100415730",
+        "2102729946",
+        "2104003087",
+        "2106329447",
+        "2106771621",
+        "2108157916",
+        "2110975861",
+        "2112101330",
+        "2112828875",
+        "2121893797",
+        "2124851765",
+        "2126378271",
+        "2126583885",
+        "2128653745",
+        "2129817042",
+        "2130642985",
+        "2136083615",
+        "2137259192",
+        "2137269004",
+        "2143705506",
+        "2146651759",
+        "2148016837",
+        "2159287299",
+        "2159726625",
+        "2163820446",
+        "2180802245",
+        "2205454589",
+        "2233570167",
+        "2270969877",
+        "2626304854"
+    ]
+}

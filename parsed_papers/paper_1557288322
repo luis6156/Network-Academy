@@ -1,0 +1,47 @@
+{
+    "id": "1557288322",
+    "title": "Proving Security Against Chosen Cyphertext Attacks",
+    "venue": "international cryptology conference",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Manuel Blum",
+            "id": "2163096604",
+            "org": "Univ. of Calif."
+        },
+        {
+            "name": "Paul Feldman",
+            "id": "2114787015",
+            "org": "MIT Lab. for Computer Sci"
+        },
+        {
+            "name": "Silvio Micali",
+            "id": "699581604",
+            "org": "Lab. for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Malleability",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Plaintext-aware encryption",
+        "Computer security",
+        "Chosen-ciphertext attack",
+        "Ciphertext indistinguishability",
+        "Ciphertext",
+        "Semantic security",
+        "Hybrid cryptosystem"
+    ],
+    "references": [
+        "1539572409",
+        "1970606468",
+        "1979215153",
+        "1984976620",
+        "2085759780",
+        "2151413173",
+        "2152005134",
+        "2156186849",
+        "2164284862"
+    ]
+}

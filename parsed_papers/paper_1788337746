@@ -1,0 +1,41 @@
+{
+    "id": "1788337746",
+    "title": "High Level Abstractions for Improving Parallel Image Reconstruction Algorithms",
+    "venue": "distributed computing and artificial intelligence",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jose Antonio Alvarez",
+            "id": "2626647955",
+            "org": "Dept. Arquitectura de Computadores y Electronica, Universidad de Almeria,#TAB#"
+        },
+        {
+            "name": "Javier Roca Piera",
+            "id": "2170086078",
+            "org": "Dept. Arquitectura de Computadores y Electronica, Universidad de Almeria,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Concurrence",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Reconstruction algorithm",
+        "Abstraction",
+        "Task parallelism",
+        "Iterative reconstruction"
+    ],
+    "references": [
+        "160736005",
+        "1589646238",
+        "1590370827",
+        "1623282124",
+        "1754075329",
+        "2006838638",
+        "2047588163",
+        "2079577430"
+    ]
+}

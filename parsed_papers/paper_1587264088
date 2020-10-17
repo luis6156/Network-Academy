@@ -1,0 +1,40 @@
+{
+    "id": "1587264088",
+    "title": "A Relational Constraint Solver for Model-Based Engineering",
+    "venue": "principles and practice of constraint programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jakob Mauss",
+            "id": "1992802307",
+            "org": "DaimlerChrysler Research, Knowledge-Based Engineering, Berlin,"
+        },
+        {
+            "name": "Frank Seelisch",
+            "id": "81527383",
+            "org": "DaimlerChrysler Research, Knowledge-Based Engineering, Berlin,"
+        },
+        {
+            "name": "Mugur Tatar",
+            "id": "2156037884",
+            "org": "DaimlerChrysler Research, Knowledge-Based Engineering, Berlin,"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction problem",
+        "Theoretical computer science",
+        "Computer science",
+        "Constraint satisfaction",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Variable elimination",
+        "Bounded function",
+        "Constraint logic programming",
+        "Distributed parameter system",
+        "Mathematical optimization",
+        "Constraint (mathematics)"
+    ],
+    "references": [
+        "1510222959",
+        "1982333717"
+    ]
+}

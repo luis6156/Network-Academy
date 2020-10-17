@@ -1,0 +1,60 @@
+{
+    "id": "1600092363",
+    "title": "A geometric approach for partitioning n-dimensional non-rectangular iteration spaces",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Arun Kejariwal",
+            "id": "2308881381",
+            "org": "Center for Embedded Computer Systems, University of California at Irvine, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Paolo D'Alberto",
+            "id": "112209415",
+            "org": "Center for Embedded Computer Systems, University of California at Irvine, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Alexandru Nicolau",
+            "id": "2144832383",
+            "org": "Center for Embedded Computer Systems, University of California at Irvine, Irvine, CA#TAB#"
+        },
+        {
+            "name": "Constantine D. Polychronopoulos",
+            "id": "2301418095",
+            "org": "Center for Supercomputing Research and Development, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Mathematics",
+        "Convex polytope",
+        "Parallel computing",
+        "Speedup",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Multiprocessing",
+        "Parallel algorithm",
+        "CPU cache",
+        "Linear algebra"
+    ],
+    "references": [
+        "30164083",
+        "79448102",
+        "1562280258",
+        "1565360684",
+        "1800573347",
+        "1964714157",
+        "2018636274",
+        "2082600973",
+        "2097699872",
+        "2098688018",
+        "2108355554",
+        "2112059128",
+        "2112482891",
+        "2126753236",
+        "2139440055",
+        "2296218291"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1539397313",
+    "title": "Directed Acyclic Graphs, One-way Functions and Digital Signatures",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Daniel Bleichenbacher",
+            "id": "4960438",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Ueli Maurer",
+            "id": "2068596995",
+            "org": "ETH Zurich"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Partially ordered set",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Directed acyclic word graph",
+        "Ring signature",
+        "Digital signature",
+        "Directed acyclic graph",
+        "Public-key cryptography",
+        "Merkle signature scheme",
+        "Antichain"
+    ],
+    "references": [
+        "1542552321",
+        "1566345534",
+        "1646354800",
+        "1996360405",
+        "2010507480",
+        "2074594718"
+    ]
+}

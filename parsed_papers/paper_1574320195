@@ -1,0 +1,44 @@
+{
+    "id": "1574320195",
+    "title": "OSCAR: a system for weak-consistency replication",
+    "venue": "workshop on management of replicated data",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Alan R. Downing",
+            "id": "2642579305",
+            "org": "SRI Int., Menlo Park, CA, USA"
+        },
+        {
+            "name": "Ira B. Greenberg",
+            "id": "2308272498",
+            "org": "SRI Int., Menlo Park, CA, USA"
+        },
+        {
+            "name": "Jon M. Peha",
+            "id": "67117640",
+            "org": "SRI Int., Menlo Park, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Weak consistency",
+        "Data integrity",
+        "Strong consistency",
+        "Eventual consistency",
+        "Real-time computing",
+        "Modular design",
+        "Architecture"
+    ],
+    "references": [
+        "1526391791",
+        "1986900069",
+        "2048071586",
+        "2071187449",
+        "2102637936",
+        "2120510885"
+    ]
+}

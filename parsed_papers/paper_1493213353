@@ -1,0 +1,37 @@
+{
+    "id": "1493213353",
+    "title": "Secret External Encodings Do Not Prevent Transient Fault Analysis",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Christophe Clavier",
+            "id": "2516421471",
+            "org": "Gemalto, Security Labs, La Vigie, Avenue du Jujubier, ZI Athelia IV, F-13705 La Ciotat Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Key-recovery attack",
+        "Obfuscation",
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Smart card",
+        "If and only if",
+        "Security through obscurity"
+    ],
+    "references": [
+        "18028457",
+        "1484814447",
+        "1500693694",
+        "1548264583",
+        "1548656471",
+        "1562542037",
+        "1801417685",
+        "1900827516",
+        "2144952508",
+        "2154909745",
+        "2170489924"
+    ]
+}

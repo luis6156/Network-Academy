@@ -1,0 +1,47 @@
+{
+    "id": "1771708738",
+    "title": "Enhancing Collision Attacks",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Herve Ledig",
+            "id": "2090322109",
+            "org": "DCSSI Crypto Lab"
+        },
+        {
+            "name": "Frederic Muller",
+            "id": "2165156849",
+            "org": "DCSSI Crypto Lab"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "DCSSI Crypto Lab"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Cryptanalysis",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Collision attack",
+        "Hash function"
+    ],
+    "references": [
+        "54412699",
+        "131640530",
+        "1489027369",
+        "1498044825",
+        "1503689022",
+        "1532398039",
+        "1540875416",
+        "1629301835",
+        "2154909745",
+        "2170489924"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1589176872",
+    "title": "Non-Interactive Zero-Knowledge Proof of Knowledge and Chosen Ciphertext Attack",
+    "venue": "international cryptology conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Charles Rackoff",
+            "id": "2015702761",
+            "org": "University of Toronto"
+        },
+        {
+            "name": "Daniel R. Simon",
+            "id": "2664423676",
+            "org": "University of Toronto"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive chosen-ciphertext attack",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Zero-knowledge proof",
+        "Blum-Goldwasser cryptosystem",
+        "Proof of knowledge",
+        "Ciphertext indistinguishability",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1523338383",
+        "2073210531",
+        "2074594718",
+        "2133203144",
+        "2151413173",
+        "2152005134",
+        "2156186849"
+    ]
+}

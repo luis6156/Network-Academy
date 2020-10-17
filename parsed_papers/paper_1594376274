@@ -1,0 +1,53 @@
+{
+    "id": "1594376274",
+    "title": "Compiling IOA without global synchronization",
+    "venue": "network computing and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Joshua A. Tauber",
+            "id": "2142513814",
+            "org": "Comput. Sci. & Artificial Intelligence Lab., MIT, Cambridge, MA, USA"
+        },
+        {
+            "name": "Nancy A. Lynch",
+            "id": "2180706138",
+            "org": "Comput. Sci. & Artificial Intelligence Lab., MIT, Cambridge, MA, USA"
+        },
+        {
+            "name": "Michael J. Tsai",
+            "id": "2197618807",
+            "org": "Comput. Sci. & Artificial Intelligence Lab., MIT, Cambridge, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Java",
+        "Computer architecture",
+        "Algorithm design",
+        "Compiler",
+        "Computer science",
+        "Formal language",
+        "Message Passing Interface",
+        "Message passing",
+        "Correctness",
+        "Programming language"
+    ],
+    "references": [
+        "135664861",
+        "1498909462",
+        "1503973138",
+        "1578758735",
+        "1702401680",
+        "1967593930",
+        "1971107784",
+        "1994026499",
+        "2000302396",
+        "2043077080",
+        "2102549447",
+        "2110425399",
+        "2401501606",
+        "2577438121",
+        "2611515161"
+    ]
+}

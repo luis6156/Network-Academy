@@ -1,0 +1,49 @@
+{
+    "id": "1571610706",
+    "title": "Algorithmic debugging of SQL views",
+    "venue": "international andrei ershov memorial conference on perspectives of system informatics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Rafael Caballero",
+            "id": "2144301254",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Yolanda Garcia-Ruiz",
+            "id": "1855202345",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Fernando Saenz-Perez",
+            "id": "384983200",
+            "org": "Departamento de Sistemas Informaticos y Computacion, Universidad Complutense de Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Algorithmic program debugging",
+        "SQL",
+        "Database",
+        "Correctness",
+        "Debugger",
+        "Operational semantics",
+        "Programming language",
+        "SQL injection",
+        "Computation tree",
+        "Debugging"
+    ],
+    "references": [
+        "1524668325",
+        "1527457931",
+        "1537390164",
+        "1578937649",
+        "1592890940",
+        "1600055947",
+        "2020949660",
+        "2093882190",
+        "2106414770",
+        "2115737686",
+        "2131653381"
+    ]
+}

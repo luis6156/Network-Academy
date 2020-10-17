@@ -1,0 +1,49 @@
+{
+    "id": "1484065471",
+    "title": "A Genetic-Algorithm-Based Reconfigurable Scheduler",
+    "venue": "Evolutionary Scheduling",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David J. Montana",
+            "id": "2088572001",
+            "org": "BBN Technologies, Cambridge, USA"
+        },
+        {
+            "name": "Talib S. Hussain",
+            "id": "2136288479",
+            "org": "BBN Technologies, Cambridge, USA"
+        },
+        {
+            "name": "Gordon Vidaver",
+            "id": "2147564826",
+            "org": "BBN Technologies, Cambridge, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Scheduling (computing)",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Genetic algorithm",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "65937437",
+        "1482722110",
+        "1503607340",
+        "1507363803",
+        "1528149415",
+        "1561636111",
+        "1586016561",
+        "1594264634",
+        "1783225223",
+        "2035855976",
+        "2090338624",
+        "2096305430"
+    ]
+}

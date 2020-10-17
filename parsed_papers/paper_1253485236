@@ -1,0 +1,61 @@
+{
+    "id": "1253485236",
+    "title": "Pervasive verification of an OS microkernel: inline assembly, memory consumption, concurrent devices",
+    "venue": "verified software theories tools experiments",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Eyad Alkassar",
+            "id": "334789826",
+            "org": "Computer Science Department, Saarland University#TAB#"
+        },
+        {
+            "name": "Wolfgang J. Paul",
+            "id": "2169524188",
+            "org": "Computer Science Department, Saarland University#TAB#"
+        },
+        {
+            "name": "Artem Starostin",
+            "id": "1972326118",
+            "org": "Computer Science Department, Saarland University#TAB#"
+        },
+        {
+            "name": "Alexandra Tsyban",
+            "id": "2070874165",
+            "org": "Computer Science Department, Saarland University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Microkernel",
+        "Parallel computing",
+        "Formal proof",
+        "Computer science",
+        "Inline assembler",
+        "Mathematical proof",
+        "Interactive proof system",
+        "Correctness",
+        "HOL",
+        "Virtual memory",
+        "Programming language"
+    ],
+    "references": [
+        "30213274",
+        "1491229276",
+        "1501535194",
+        "1509898135",
+        "1523275077",
+        "1554895120",
+        "1556316449",
+        "1571434026",
+        "1968183774",
+        "1984891404",
+        "2051735657",
+        "2108641743",
+        "2112292265",
+        "2136310957",
+        "2139151574",
+        "2150401476",
+        "2165295165",
+        "2166310708"
+    ]
+}

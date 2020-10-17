@@ -1,0 +1,67 @@
+{
+    "id": "1521427322",
+    "title": "Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Min Si",
+            "id": "2110794844",
+            "org": "Univ. of Tokyo, Tokyo, Japan"
+        },
+        {
+            "name": "Antonio J. Pena",
+            "id": "2286757441",
+            "org": "Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Jeff R. Hammond",
+            "id": "2174198211",
+            "org": "Intel Labs., Hillsboro, OR, USA"
+        },
+        {
+            "name": "Pavan Balaji",
+            "id": "1990703395",
+            "org": "Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Masamichi Takagi",
+            "id": "2602404314",
+            "org": "AICS, RIKEN, Kobe, Japan"
+        },
+        {
+            "name": "Yutaka Ishikawa",
+            "id": "2251886612",
+            "org": "AICS, RIKEN, Kobe, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Interrupt",
+        "Parallel computing",
+        "Address space",
+        "Multi-core processor",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Correctness",
+        "Architecture"
+    ],
+    "references": [
+        "1519844836",
+        "1590267976",
+        "2006401122",
+        "2032654702",
+        "2038886423",
+        "2106546807",
+        "2108369438",
+        "2113918640",
+        "2126509165",
+        "2126688073",
+        "2128691781",
+        "2135331119",
+        "2149970695",
+        "2169812695",
+        "2207785195"
+    ]
+}

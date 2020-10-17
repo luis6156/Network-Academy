@@ -1,0 +1,49 @@
+{
+    "id": "1598870173",
+    "title": "Enhancing Differential-Linear Cryptanalysis",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Computer Science Department, Technion"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Computer Science Department, Technion"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Mathematics Department, Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "COCONUT98"
+    ],
+    "references": [
+        "52191336",
+        "1485064528",
+        "1493062108",
+        "1541703086",
+        "1541853791",
+        "1556727271",
+        "1605786664",
+        "1724006351",
+        "1862865750",
+        "1964723977",
+        "1978695162",
+        "1979802565"
+    ]
+}

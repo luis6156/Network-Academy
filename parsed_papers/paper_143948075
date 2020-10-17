@@ -1,0 +1,53 @@
+{
+    "id": "143948075",
+    "title": "Early Experiences With The OpenMP Accelerator Model",
+    "venue": "international workshop on openmp",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Chunhua Liao",
+            "id": "2120604268",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Yonghong Yan",
+            "id": "2279020891",
+            "org": "University of Houston"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2126332795",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Barbara M. Chapman",
+            "id": "2142555485",
+            "org": "University of Houston"
+        }
+    ],
+    "fields_of_study": [
+        "Technical report",
+        "Parallel computing",
+        "Computer architecture",
+        "Multi-core processor",
+        "Abstract syntax tree",
+        "Computer science",
+        "CUDA"
+    ],
+    "references": [
+        "1604316186",
+        "2004516485",
+        "2028798345",
+        "2063186542",
+        "2098426571",
+        "2104008467",
+        "2126026097",
+        "2139935536",
+        "2142677441"
+    ]
+}

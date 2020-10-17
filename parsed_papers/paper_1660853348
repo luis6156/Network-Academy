@@ -1,0 +1,68 @@
+{
+    "id": "1660853348",
+    "title": "Eliminating Redundant Clauses in SAT Instances",
+    "venue": "integration of ai and or techniques in constraint programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Olivier Fourdrinoy",
+            "id": "116678117",
+            "org": "CRIL CNRS & IRCICA, Universitee d'Artois, Rue Jean Souvraz SP18, F-62307 Lens Cedex, France#TAB#"
+        },
+        {
+            "name": "Eric Gregoire",
+            "id": "2099230921",
+            "org": "CRIL CNRS & IRCICA, Universitee d'Artois, Rue Jean Souvraz SP18, F-62307 Lens Cedex, France#TAB#"
+        },
+        {
+            "name": "Bertrand Mazure",
+            "id": "711703943",
+            "org": "CRIL CNRS & IRCICA, Universitee d'Artois, Rue Jean Souvraz SP18, F-62307 Lens Cedex, France#TAB#"
+        },
+        {
+            "name": "Lakhdar Sais",
+            "id": "2152639631",
+            "org": "CRIL CNRS & IRCICA, Universitee d'Artois, Rue Jean Souvraz SP18, F-62307 Lens Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Boolean satisfiability problem",
+        "Unit propagation",
+        "Theoretical computer science",
+        "Algorithm",
+        "Satisfiability",
+        "Computer science",
+        "Horn clause",
+        "Conjunctive normal form"
+    ],
+    "references": [
+        "3429031",
+        "14839205",
+        "36382082",
+        "53280043",
+        "119554023",
+        "164835794",
+        "1507596338",
+        "1518705996",
+        "1519828433",
+        "1530261919",
+        "1556130451",
+        "1586919270",
+        "1591679289",
+        "1667614912",
+        "1709155369",
+        "1950282396",
+        "1973267383",
+        "2003160050",
+        "2011992362",
+        "2036265926",
+        "2057361103",
+        "2058793155",
+        "2118382442",
+        "2142785340",
+        "2148729715",
+        "2225800216",
+        "2501112583"
+    ]
+}

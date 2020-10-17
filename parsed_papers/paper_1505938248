@@ -1,0 +1,61 @@
+{
+    "id": "1505938248",
+    "title": "Fine-granularity Locking and Client-Based Logging for Distributed Architectures",
+    "venue": "extending database technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Euthimios Panagos",
+            "id": "2810701240",
+            "org": "Boston University"
+        },
+        {
+            "name": "Alexandros Biliris",
+            "id": "505529943",
+            "org": "AT&T Bell Laboratories"
+        },
+        {
+            "name": "H. V. Jagadish",
+            "id": "2667375896",
+            "org": "AT&T Bell Laboratories"
+        },
+        {
+            "name": "Rajeev Rastogi",
+            "id": "2651564987",
+            "org": "AT&T Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Logging",
+        "Crash",
+        "Computer science",
+        "Granularity",
+        "Synchronizing",
+        "Rollback",
+        "Database",
+        "Architecture",
+        "Database transaction"
+    ],
+    "references": [
+        "1491490998",
+        "1545155892",
+        "1574944490",
+        "1586514605",
+        "1587711102",
+        "1596620276",
+        "1600074786",
+        "2001657718",
+        "2005373714",
+        "2047073551",
+        "2089706179",
+        "2104954161",
+        "2108375893",
+        "2110631345",
+        "2115001014",
+        "2116142433",
+        "2121946292",
+        "2127454465",
+        "2150424096"
+    ]
+}

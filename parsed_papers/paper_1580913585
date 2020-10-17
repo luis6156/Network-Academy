@@ -1,0 +1,31 @@
+{
+    "id": "1580913585",
+    "title": "Generating EIGamal signatures without knowing the secret key",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Daniel Bleichenbacher",
+            "id": "4960438",
+            "org": "ETH Zurich, Institute for Theoretical Computer Science, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete logarithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Chinese remainder theorem",
+        "ElGamal encryption",
+        "Forging",
+        "Forge",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1483083484",
+        "1515841333",
+        "1969728959",
+        "1981455414",
+        "2108834246"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1577798418",
+    "title": "Taxonomy and design analysis for distributed Web caching",
+    "venue": "hawaii international conference on system sciences",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Sandra G. Dykes",
+            "id": "322701811",
+            "org": "Div. of Comput. Sci., Texas Univ., San Antonio, TX, USA"
+        },
+        {
+            "name": "Clinton L. Jeffery",
+            "id": "2894252184",
+            "org": "Division of Computer Science | University of Texas at San Antonio"
+        },
+        {
+            "name": "Samir R. Das",
+            "id": "2155957272",
+            "org": "Division of Computer Science | University of Texas at San Antonio"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Application server",
+        "Smart Cache",
+        "Cache stampede",
+        "Computer science",
+        "False sharing",
+        "Server",
+        "Database",
+        "Proxy server",
+        "Clickstream"
+    ],
+    "references": [
+        "1527961683",
+        "1533813939",
+        "1575304539",
+        "1579489005",
+        "2022013117",
+        "2048392910",
+        "2103312864",
+        "2120500054",
+        "2120507338",
+        "2141257448",
+        "2144684817",
+        "2145055368",
+        "2148275477"
+    ]
+}

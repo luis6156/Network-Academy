@@ -1,0 +1,41 @@
+{
+    "id": "1544920502",
+    "title": "An MPI implementation supported by process migration and load balancing",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Andrew Maloney",
+            "id": "2134410555",
+            "org": "Deakin University"
+        },
+        {
+            "name": "Andrzej M. Goscinski",
+            "id": "227748416",
+            "org": "Deakin University"
+        },
+        {
+            "name": "Michael Hobbs",
+            "id": "2123878719",
+            "org": "Deakin University"
+        }
+    ],
+    "fields_of_study": [
+        "Porting",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Message passing",
+        "Process migration",
+        "Unix",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1544897443",
+        "1847289338",
+        "1969215126",
+        "1974140319",
+        "2081612620"
+    ]
+}

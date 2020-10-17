@@ -1,0 +1,54 @@
+{
+    "id": "1759214032",
+    "title": "Polymorphic contention management",
+    "venue": "international symposium on distributed computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Rachid Guerraoui",
+            "id": "115057321",
+            "org": "School of Computer and Communication Sciences, EPFL#TAB#"
+        },
+        {
+            "name": "Maurice Herlihy",
+            "id": "2068258939",
+            "org": "Brown University and Microsoft Research, Cambridge#TAB#"
+        },
+        {
+            "name": "Bastian Pochon",
+            "id": "566505575",
+            "org": "School of Computer and Communication Sciences, EPFL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Content management",
+        "Nested transaction",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Hierarchy",
+        "Workload",
+        "Atomicity",
+        "Real-time computing",
+        "Software transactional memory",
+        "Database transaction"
+    ],
+    "references": [
+        "1517035156",
+        "1520405624",
+        "1816912534",
+        "1971851724",
+        "1988800505",
+        "1991494135",
+        "1991878751",
+        "2023304911",
+        "2067686439",
+        "2094159214",
+        "2105055683",
+        "2106871513",
+        "2108204150",
+        "2113751407",
+        "2129990308",
+        "2167282885"
+    ]
+}

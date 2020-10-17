@@ -1,0 +1,56 @@
+{
+    "id": "1720074977",
+    "title": "NicPic: Scalable and Accurate End-Host Rate Limiting.",
+    "venue": "usenix conference on hot topics in cloud ccomputing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Sivasankar Radhakrishnan",
+            "id": "2105549562",
+            "org": "University of California, San Diego"
+        },
+        {
+            "name": "Vimalkumar Jeyakumar",
+            "id": "2056491872",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Abdul Kabbani",
+            "id": "2040576934",
+            "org": "Google Inc."
+        },
+        {
+            "name": "George Porter",
+            "id": "2123608901",
+            "org": "University of California, San Diego"
+        },
+        {
+            "name": "Amin Vahdat",
+            "id": "295064773",
+            "org": "Google Inc. and University of California, San Diego"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Multiplexing",
+        "Computer science",
+        "Queue",
+        "Scheduling (computing)",
+        "Limiting",
+        "Bandwidth (signal processing)",
+        "Network packet",
+        "Central processing unit",
+        "Real-time computing"
+    ],
+    "references": [
+        "14875769",
+        "1503891749",
+        "1516717550",
+        "2101871381",
+        "2112486185",
+        "2160830750",
+        "2164740236",
+        "2172154901",
+        "2273138441"
+    ]
+}

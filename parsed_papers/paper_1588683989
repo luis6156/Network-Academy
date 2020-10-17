@@ -1,0 +1,39 @@
+{
+    "id": "1588683989",
+    "title": "PARTHENON: A Parallel Theorem Prover for Non-Horn Clauses",
+    "venue": "conference on automated deduction",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "P. E. Allen",
+            "id": "2673066982",
+            "org": "Carnegie-Mellon University"
+        },
+        {
+            "name": "Soumitra Bose",
+            "id": "2277891012",
+            "org": "Carnegie-Mellon University"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie-Mellon University"
+        },
+        {
+            "name": "Spiro Michaylov",
+            "id": "2306680332",
+            "org": "Carnegie-Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Discrete mathematics",
+        "Horn clause",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "1570280013",
+        "1974299393"
+    ]
+}

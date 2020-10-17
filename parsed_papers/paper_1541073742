@@ -1,0 +1,40 @@
+{
+    "id": "1541073742",
+    "title": "Unreliable Failure Detectors with Limited Scope Accuracy and an Application to Consensus",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Achour Mostefaoui",
+            "id": "2230868641",
+            "org": "IRISA - Campus de Beaulieu 35042 Rennes Cedex France"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA - Campus de Beaulieu 35042 Rennes Cedex France"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Consensus",
+        "Discrete mathematics",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Chandra-Toueg consensus algorithm",
+        "Computer science",
+        "Message passing",
+        "Real-time computing",
+        "Detector"
+    ],
+    "references": [
+        "1587361561",
+        "1588792978",
+        "2024624176",
+        "2035362408",
+        "2049030791",
+        "2055954295",
+        "2133943294",
+        "2155168782"
+    ]
+}

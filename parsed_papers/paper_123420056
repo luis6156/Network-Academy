@@ -1,0 +1,79 @@
+{
+    "id": "123420056",
+    "title": "Oblivious transfer with hidden access control from attribute-based encryption",
+    "venue": "security and cryptography for networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jan Camenisch",
+            "id": "2001749418",
+            "org": "IBM Research - Zurich, Ruschlikon, Switzerland#TAB#"
+        },
+        {
+            "name": "Maria Dubovitskaya",
+            "id": "2778091737",
+            "org": "IBM Research - Zurich, Ruschlikon, Switzerland,Department of Computer Science, Swiss Federal Institute of Technology (ETH Zurich), Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Robert R. Enderlein",
+            "id": "2776697486",
+            "org": "IBM Research - Zurich, Ruschlikon, Switzerland,Department of Computer Science, Swiss Federal Institute of Technology (ETH Zurich), Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Gregory Neven",
+            "id": "2021558904",
+            "org": "IBM Research - Zurich, Ruschlikon, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Attribute-based encryption",
+        "Oblivious transfer",
+        "Key (lock)",
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Ciphertext",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "70096886",
+        "177444027",
+        "1479826086",
+        "1497351799",
+        "1498316612",
+        "1499934958",
+        "1503304944",
+        "1513551553",
+        "1521092767",
+        "1527414074",
+        "1543236049",
+        "1566273181",
+        "1581111219",
+        "1596208550",
+        "1597151159",
+        "1801892681",
+        "1877240378",
+        "2013689473",
+        "2026892462",
+        "2056634932",
+        "2057636642",
+        "2058014492",
+        "2096218735",
+        "2102758696",
+        "2108072891",
+        "2110264892",
+        "2113999696",
+        "2119422255",
+        "2119708968",
+        "2122119548",
+        "2141395382",
+        "2144192338",
+        "2165214731",
+        "2172174332",
+        "2201681885",
+        "2222086599",
+        "2793618823"
+    ]
+}

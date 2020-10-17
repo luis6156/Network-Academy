@@ -1,0 +1,40 @@
+{
+    "id": "1517650281",
+    "title": "The RIPEMD and RIPEMD Improved Variants of MD4 Are Not Collision Free",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Christophe Debaert",
+            "id": "2481951929",
+            "org": "DGA/DCE/CELAR"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "France Telecom R&D"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "Cryptography",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Cryptographic hash function",
+        "Computer science",
+        "RIPEMD",
+        "Hash function",
+        "Boolean function",
+        "Collision"
+    ],
+    "references": [
+        "1531810027",
+        "1537185870",
+        "1542068190",
+        "1595429669",
+        "2086659222",
+        "2090135172",
+        "2095675261",
+        "2098801947"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1583489351",
+    "title": "RNA secondary structure prediction with simple pseudoknots based on dynamic programming",
+    "venue": "computational intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Oyun-Erdene Namsrai",
+            "id": "2608677632",
+            "org": "Database/BioInformatics lab, School of Electrical & Computer Engineering, Chungbuk National University, Cheongju, Chungbuk, Korea#TAB#"
+        },
+        {
+            "name": "Kwang Su Jung",
+            "id": "2108712523",
+            "org": "Database/BioInformatics lab, School of Electrical & Computer Engineering, Chungbuk National University, Cheongju, Chungbuk, Korea#TAB#"
+        },
+        {
+            "name": "Sunshin Kim",
+            "id": "2147595047",
+            "org": "Database/BioInformatics lab, School of Electrical & Computer Engineering, Chungbuk National University, Cheongju, Chungbuk, Korea#TAB#"
+        },
+        {
+            "name": "Keun Ho Ryu",
+            "id": "2158964959",
+            "org": "Database/BioInformatics lab, School of Electrical & Computer Engineering, Chungbuk National University, Cheongju, Chungbuk, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "DNA",
+        "Time complexity",
+        "Nucleic acid secondary structure",
+        "Base pair",
+        "Algorithm",
+        "Computer science",
+        "Wobble base pair",
+        "Protein secondary structure",
+        "RNA",
+        "Pseudoknot"
+    ],
+    "references": [
+        "1822105579",
+        "1993968482",
+        "2025763720",
+        "2086509077",
+        "2104141342",
+        "2109297587",
+        "2146922921",
+        "2166507181"
+    ]
+}

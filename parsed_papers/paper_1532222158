@@ -1,0 +1,36 @@
+{
+    "id": "1532222158",
+    "title": "The TASM toolset: specification, simulation, and formal verification of real-time systems",
+    "venue": "computer aided verification",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Martin Ouimet",
+            "id": "2048256220",
+            "org": "Embedded Systems Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Kristina Lundqvist",
+            "id": "1971695762",
+            "org": "Embedded Systems Laboratory, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Worst-case execution time",
+        "Specification language",
+        "Abstract state machines",
+        "Formal verification",
+        "Computer architecture",
+        "Computer science",
+        "True quantified Boolean formula",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "1490228606",
+        "1962072139",
+        "1977421970",
+        "2058933441",
+        "2146191617"
+    ]
+}

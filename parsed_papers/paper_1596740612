@@ -1,0 +1,32 @@
+{
+    "id": "1596740612",
+    "title": "Key Recovery and Message Attacks on NTRU-Composite",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Craig Gentry",
+            "id": "2339798781",
+            "org": "DoCoMo Communications Laboratories USA, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "NTRU",
+        "Cryptography",
+        "Cryptanalysis",
+        "Public-key cryptography",
+        "Discrete mathematics",
+        "Computer science",
+        "NTRUEncrypt",
+        "Prime (order theory)",
+        "Cryptosystem",
+        "Fast Fourier transform",
+        "Arithmetic"
+    ],
+    "references": [
+        "1599862784",
+        "1607264302",
+        "1675339804",
+        "1833653714"
+    ]
+}

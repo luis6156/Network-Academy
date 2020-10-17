@@ -1,0 +1,38 @@
+{
+    "id": "150515408",
+    "title": "Secure data deletion for Linux file systems",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Steven Bauer",
+            "id": "2122230118",
+            "org": "MIT Laboratory for Computer Science#TAB#"
+        },
+        {
+            "name": "Nissanka Bodhi Priyantha",
+            "id": "2798500753",
+            "org": "MIT Laboratory for Computer Science#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SSH File Transfer Protocol",
+        "Unix file types",
+        "Computer science",
+        "Versioning file system",
+        "Computer security",
+        "Fork (file system)",
+        "Stub file",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "Computer file",
+        "Operating system"
+    ],
+    "references": [
+        "171996078",
+        "1546885574",
+        "1677118421",
+        "2026723064",
+        "2138664028"
+    ]
+}

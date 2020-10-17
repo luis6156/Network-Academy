@@ -1,0 +1,48 @@
+{
+    "id": "1529780373",
+    "title": "Modeling and verification of master/slave clock synchronization using hybrid automata and model-checking",
+    "venue": "formal methods",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Guillermo Rodriguez-Navas",
+            "id": "1417015297",
+            "org": "Departament de Matematiques i Informatica, Universitat de les Illes Balears, Spain#TAB#"
+        },
+        {
+            "name": "Julian Proenza",
+            "id": "2167634421",
+            "org": "Departament de Matematiques i Informatica, Universitat de les Illes Balears, Spain#TAB#"
+        },
+        {
+            "name": "Hans Hansson",
+            "id": "2798077662",
+            "org": "Malardalen Real Time Research Center, Dept. of Computer Science and Electronics, Malardalen University, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Timed automaton",
+        "Clock synchronization",
+        "Synchronization",
+        "Computer science",
+        "Distributed computing",
+        "Correctness",
+        "Slave clock",
+        "Hybrid automaton",
+        "Model checking",
+        "Real-time computing"
+    ],
+    "references": [
+        "83131117",
+        "1482486776",
+        "1517942155",
+        "1663121079",
+        "1903000972",
+        "1962072139",
+        "1966133528",
+        "2085838366",
+        "2101148098"
+    ]
+}

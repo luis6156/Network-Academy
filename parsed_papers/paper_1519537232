@@ -1,0 +1,54 @@
+{
+    "id": "1519537232",
+    "title": "Accelerated verification of RTL assertions based on satisfiability solvers",
+    "venue": "high level design validation and test",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ranan Fraer",
+            "id": "291354261",
+            "org": "Logic & Validation Technol., Intel Corp., Haifa, Israel"
+        },
+        {
+            "name": "Shahid Ikram",
+            "id": "2659098627",
+            "org": "Architectures & Compilers for Embedded Syst. (ACES), California Univ., Irvine, CA, USA#TAB#"
+        },
+        {
+            "name": "Gila Kamhi",
+            "id": "2798614509",
+            "org": "IBM Res. Lab., Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Tim Leonard",
+            "id": "2631177305",
+            "org": "Eindhoven Univ. of Technol., Netherlands#TAB#"
+        },
+        {
+            "name": "Abdel Mokkedem",
+            "id": "1819203618",
+            "org": "Eindhoven Univ. of Technol., Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "High-level verification",
+        "Theoretical computer science",
+        "Formal equivalence checking",
+        "Formal verification",
+        "Functional verification",
+        "Computer science",
+        "Intelligent verification",
+        "Runtime verification",
+        "Model checking",
+        "Real-time computing",
+        "Software verification"
+    ],
+    "references": [
+        "1490969264",
+        "1495266209",
+        "1518271219",
+        "1549820563",
+        "1561115693",
+        "1787074469"
+    ]
+}

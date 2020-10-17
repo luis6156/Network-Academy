@@ -1,0 +1,36 @@
+{
+    "id": "1580282812",
+    "title": "A Dynamic FPGA Implementation of the Serpent Block Cipher",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Cameron D. Patterson",
+            "id": "2116490655",
+            "org": "Xilinx, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Datapath",
+        "Throughput",
+        "Parallel computing",
+        "Field-programmable gate array",
+        "Java",
+        "Computer science",
+        "Application programming interface",
+        "Bitstream",
+        "Logic optimization"
+    ],
+    "references": [
+        "1525891677",
+        "1548111049",
+        "1548516269",
+        "1596766545",
+        "1916681597",
+        "2132443425",
+        "2135660453",
+        "2161754620",
+        "2885816077"
+    ]
+}

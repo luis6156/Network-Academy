@@ -1,0 +1,36 @@
+{
+    "id": "1598083179",
+    "title": "Defending Against Injection Attacks Through Context-Sensitive String Evaluation",
+    "venue": "recent advances in intrusion detection",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tadeusz Pietraszek",
+            "id": "1989297580",
+            "org": "IBM Zurich Research Laboratory, Ruschlikon, Switzerland"
+        },
+        {
+            "name": "Chris Vanden Berghe",
+            "id": "1822563377",
+            "org": "IBM Zurich Research Laboratory, Ruschlikon, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic countermeasure",
+        "Source code",
+        "Computer science",
+        "Scripting language",
+        "Computer security",
+        "SQL",
+        "Serialization",
+        "Web application",
+        "String (computer science)",
+        "SQL injection"
+    ],
+    "references": [
+        "1565113942",
+        "1565952674",
+        "1648477960",
+        "2029414465"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "163432477",
+    "title": "Wait-Free Stabilizing Dining Using Regular Registers",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Srikanth Sastry",
+            "id": "2160816351",
+            "org": "MIT"
+        },
+        {
+            "name": "Jennifer L. Welch",
+            "id": "2133412819",
+            "org": "Texas A&M University"
+        },
+        {
+            "name": "Josef Widder",
+            "id": "1957630520",
+            "org": "Technische Universitat Wien"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Critical section",
+        "Theoretical computer science",
+        "Crash",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Mutual exclusion",
+        "Asynchronous system",
+        "Dining philosophers problem"
+    ],
+    "references": [
+        "1518820068",
+        "1528882381",
+        "1543193821",
+        "1560378633",
+        "1599359157",
+        "1686222892",
+        "1750054872",
+        "1872485055",
+        "1969320647",
+        "1976075610",
+        "1981758545",
+        "1996295704",
+        "2043625270",
+        "2043801088",
+        "2047902293",
+        "2053525600",
+        "2066210260",
+        "2076907329",
+        "2083417892",
+        "2086069023",
+        "2099752472",
+        "2107208894",
+        "2111132249",
+        "2124360521",
+        "2133207892",
+        "2133943294",
+        "2136884623",
+        "2139006777",
+        "2146824642",
+        "2170523074",
+        "2340995113",
+        "2807697132"
+    ]
+}

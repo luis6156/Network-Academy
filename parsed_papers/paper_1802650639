@@ -1,0 +1,77 @@
+{
+    "id": "1802650639",
+    "title": "C3: cutting tail latency in cloud data stores via adaptive replica selection",
+    "venue": "networked systems design and implementation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "P. Lalith Suresh",
+            "id": "2144725603",
+            "org": "TU Berlin#TAB#"
+        },
+        {
+            "name": "Marco Canini",
+            "id": "2079537155",
+            "org": "Universite catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Stefan Schmid",
+            "id": "2159456242",
+            "org": "TU Berlin and Telekom Innovation Labs.#TAB#"
+        },
+        {
+            "name": "Anja Feldmann",
+            "id": "2036301181",
+            "org": "TU Berlin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Throughput",
+        "Skew",
+        "Replica",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Server",
+        "Percentile",
+        "Real-time computing",
+        "Cloud computing"
+    ],
+    "references": [
+        "62719046",
+        "73088495",
+        "1517941185",
+        "1594675213",
+        "1681426122",
+        "1785664926",
+        "1820403722",
+        "1861377444",
+        "1930996999",
+        "1981420413",
+        "1982063824",
+        "1985229168",
+        "1994618472",
+        "2006626399",
+        "2008684356",
+        "2022844530",
+        "2025549137",
+        "2069164180",
+        "2091765165",
+        "2093941454",
+        "2096767949",
+        "2102849319",
+        "2107276343",
+        "2110104287",
+        "2112319566",
+        "2117702591",
+        "2125901106",
+        "2128994988",
+        "2129010304",
+        "2153704625",
+        "2154007983",
+        "2164328076",
+        "2164740236",
+        "2164846625"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1494682586",
+    "title": "An implementation for recognizing rule replacements in non-ground answer-set programs",
+    "venue": "european conference on logics in artificial intelligence",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Thomas Eiter",
+            "id": "420267153",
+            "org": "Institut fur Informationssysteme 184/3, Technische Universitat Wien, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Patrick Traxler",
+            "id": "2112536766",
+            "org": "Institut fur Informationssysteme 184/3, Technische Universitat Wien, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Woltran",
+            "id": "13215008",
+            "org": "Institut fur Informationssysteme 184/3, Technische Universitat Wien, Vienna, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Popularity",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Circumscription",
+        "Answer set programming",
+        "Knowledge representation and reasoning",
+        "Non-monotonic logic",
+        "Rewrite rule",
+        "Program optimization",
+        "Rewriting"
+    ],
+    "references": [
+        "13737784",
+        "96131029",
+        "1516418648",
+        "1623618347",
+        "1985274317",
+        "2041259062"
+    ]
+}

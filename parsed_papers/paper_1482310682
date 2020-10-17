@@ -1,0 +1,55 @@
+{
+    "id": "1482310682",
+    "title": "Performance evaluation of a prototype distributed NFS server",
+    "venue": "symposium on computer architecture and high performance computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rafael Bohrer Avila",
+            "id": "2146491851",
+            "org": "Inst. de Informatica, Univ. Fed. do Rio Grande do Sul, Porto Alegre, Brazil"
+        },
+        {
+            "name": "Philippe Olivier Alexandre Navaux",
+            "id": "2008884277",
+            "org": "Inst. de Informatica, Univ. Fed. do Rio Grande do Sul, Porto Alegre, Brazil"
+        },
+        {
+            "name": "Pierre Lombard",
+            "id": "2500606736",
+            "org": "Laboratoire ID/IMAG, France#TAB#"
+        },
+        {
+            "name": "Adrien Lebre",
+            "id": "2781435178",
+            "org": "Laboratoire ID/IMAG, France#TAB#"
+        },
+        {
+            "name": "Yves Denneulin",
+            "id": "2522603311",
+            "org": "Laboratoire ID/IMAG, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel I/O",
+        "Parallel computing",
+        "Release consistency",
+        "Computer science",
+        "Client-server model",
+        "Database",
+        "Operating system",
+        "File system",
+        "Server farm"
+    ],
+    "references": [
+        "1509747316",
+        "1969541123",
+        "2025413686",
+        "2097113145",
+        "2110298485",
+        "2124288146",
+        "2135652458",
+        "2138180780",
+        "2170534839"
+    ]
+}

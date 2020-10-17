@@ -1,0 +1,61 @@
+{
+    "id": "1508631477",
+    "title": "Improved multi-core nested depth-first search",
+    "venue": "automated technology for verification and analysis",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sami Evangelista",
+            "id": "2104999534",
+            "org": "LIPN, CNRS UMR 7030, Universite Paris 13, France#TAB#"
+        },
+        {
+            "name": "Alfons Laarman",
+            "id": "2055335673",
+            "org": "Formal Methods and Tools, University of Twente, The Netherlands#TAB#"
+        },
+        {
+            "name": "Laure Petrucci",
+            "id": "2118903039",
+            "org": "LIPN, CNRS UMR 7030, Universite Paris 13, France#TAB#"
+        },
+        {
+            "name": "Jan Cornelis van de Pol",
+            "id": "2737247176",
+            "org": "Formal Methods and Tools, University of Twente, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Theoretical computer science",
+        "Multi-core processor",
+        "Computer science",
+        "Breadth-first search",
+        "Correctness",
+        "Counterexample",
+        "Model checking",
+        "Linear temporal logic"
+    ],
+    "references": [
+        "125115239",
+        "1544607874",
+        "1568609840",
+        "1591752194",
+        "1599932478",
+        "1600967790",
+        "1617552349",
+        "1629693692",
+        "2012935476",
+        "2022644374",
+        "2035939573",
+        "2039834448",
+        "2085467310",
+        "2100959764",
+        "2104696223",
+        "2119646872",
+        "2146706022",
+        "2147895351",
+        "2166801043",
+        "2287508180"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1504615635",
+    "title": "Fast variational inference for gaussian process models through KL-Correction",
+    "venue": "european conference on machine learning",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Nathaniel J. King",
+            "id": "2098482349",
+            "org": "Department of Computer Science, University of Sheffield, Regent Court, Sheffield, United Kingdom#TAB#"
+        },
+        {
+            "name": "Neil D. Lawrence",
+            "id": "1979713447",
+            "org": "Department of Computer Science, University of Sheffield, Regent Court, Sheffield, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Variational inequality",
+        "Bayesian inference",
+        "Mathematics",
+        "Variational method",
+        "Chapman-Robbins bound",
+        "Variational message passing",
+        "Approximate inference",
+        "Gaussian process",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1515272691",
+        "1540007258",
+        "1746819321",
+        "2105658140",
+        "2129869373",
+        "2141274633",
+        "2148319469"
+    ]
+}

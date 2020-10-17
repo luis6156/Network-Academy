@@ -1,0 +1,44 @@
+{
+    "id": "1562429580",
+    "title": "A simplified leakage-resilient authenticated key exchange protocol with optimal memory size",
+    "venue": "international conference on networking",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "SeongHan Shin",
+            "id": "2111202997",
+            "org": "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazukuni Kobara",
+            "id": "1988414654",
+            "org": "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Client-side",
+        "Tamper resistance",
+        "Public key infrastructure",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Password",
+        "Initialization",
+        "Computer network",
+        "Public-key cryptography",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "1491774018",
+        "1660562555",
+        "1972792640",
+        "2141420453",
+        "2156186849",
+        "2157604883"
+    ]
+}

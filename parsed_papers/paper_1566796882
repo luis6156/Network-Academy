@@ -1,0 +1,65 @@
+{
+    "id": "1566796882",
+    "title": "Side Channel Cryptanalysis of Product Ciphers",
+    "venue": "european symposium on research in computer security",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "U.C. at Berkeley"
+        },
+        {
+            "name": "Chris Hall",
+            "id": "2625580935",
+            "org": "Counterpane Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation attack",
+        "Integral cryptanalysis",
+        "Discrete mathematics",
+        "Computer science",
+        "Boomerang attack",
+        "Piling-up lemma",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "1481631217",
+        "1516699468",
+        "1527570981",
+        "1536045256",
+        "1546907539",
+        "1586278430",
+        "1590855138",
+        "1605116544",
+        "1611563112",
+        "1629301835",
+        "1664808737",
+        "1890449996",
+        "1964723977",
+        "1978695162",
+        "1979802565",
+        "1991897749",
+        "2027588622",
+        "2033755846",
+        "2085759780",
+        "2114636141",
+        "2149110252",
+        "2170489924"
+    ]
+}

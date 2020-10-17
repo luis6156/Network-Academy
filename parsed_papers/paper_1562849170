@@ -1,0 +1,62 @@
+{
+    "id": "1562849170",
+    "title": "An analytical model of a new packet marking algorithm for TCP flows",
+    "venue": "international workshop on quality of service",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Giovanni Neglia",
+            "id": "2215243680",
+            "org": "Dipartimento di Ingeneria Elettrica (DIE), Universita degli Studi di Palermo, Italy#TAB#"
+        },
+        {
+            "name": "Vincenzo Falletta",
+            "id": "2268266205",
+            "org": "Dipartimento di Ingeneria Elettrica (DIE), Universita degli Studi di Palermo, Italy#TAB#"
+        },
+        {
+            "name": "Giuseppe Bianchi",
+            "id": "2307403921",
+            "org": "Dip. di Ingegneria Elettronica, Universita degli Studi di Roma \"Tor Vergata\", Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP sequence prediction attack",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1489988568",
+        "1502858940",
+        "1655636840",
+        "1830241294",
+        "1980672144",
+        "1990022113",
+        "1994717387",
+        "2022828587",
+        "2050489767",
+        "2093044164",
+        "2105652318",
+        "2111831692",
+        "2117305612",
+        "2117899606",
+        "2120455508",
+        "2124478678",
+        "2124920704",
+        "2125532914",
+        "2127129793",
+        "2129560553",
+        "2130456499",
+        "2156254489",
+        "2159380618",
+        "2286787740"
+    ]
+}

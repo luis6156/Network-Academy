@@ -1,0 +1,35 @@
+{
+    "id": "1487492879",
+    "title": "A framework for estimation of orientation and velocity",
+    "venue": "international conference on image processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Klas Nordberg",
+            "id": "2149343741",
+            "org": "Dept. of Electr. Eng., Linkoping Univ., Sweden"
+        },
+        {
+            "name": "Gunnar Farneback",
+            "id": "82969086",
+            "org": "Dept. of Electr. Eng., Linkoping Univ., Sweden"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Mathematics",
+        "Polynomial and rational function modeling",
+        "Motion estimation",
+        "Structure tensor",
+        "Orientation tensor",
+        "Quadrature filter",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "79321830",
+        "1542873368",
+        "1553200558",
+        "1910823972",
+        "1977241131"
+    ]
+}

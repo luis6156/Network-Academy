@@ -1,0 +1,82 @@
+{
+    "id": "1802290782",
+    "title": "Fast regular expression matching using small TCAMs for network intrusion detection and prevention systems",
+    "venue": "usenix security symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Chad R. Meiners",
+            "id": "2165127868",
+            "org": "Department of Computer Science and Engineering, Michigan State University, East Lansing, MI#TAB#"
+        },
+        {
+            "name": "Jignesh Patel",
+            "id": "2410655721",
+            "org": "Department of Computer Science and Engineering, Michigan State University, East Lansing, MI#TAB#"
+        },
+        {
+            "name": "Eric Norige",
+            "id": "206948360",
+            "org": "Department of Computer Science and Engineering, Michigan State University, East Lansing, MI#TAB#"
+        },
+        {
+            "name": "Eric Torng",
+            "id": "2042179775",
+            "org": "Department of Computer Science and Engineering, Michigan State University, East Lansing, MI#TAB#"
+        },
+        {
+            "name": "Alex X. Liu",
+            "id": "2138817356",
+            "org": "Department of Computer Science and Engineering, Michigan State University, East Lansing, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Networking hardware",
+        "Chip",
+        "Computer science",
+        "Ternary operation",
+        "Content-addressable memory",
+        "Regular expression",
+        "Network packet",
+        "Deep packet inspection",
+        "Real-time computing",
+        "Intrusion prevention system"
+    ],
+    "references": [
+        "1531610435",
+        "1655192411",
+        "1707172707",
+        "1891233321",
+        "1960511147",
+        "1986399639",
+        "2006508099",
+        "2027627461",
+        "2038810743",
+        "2063109203",
+        "2076238443",
+        "2096474000",
+        "2099964107",
+        "2106062486",
+        "2106160659",
+        "2108962885",
+        "2110535328",
+        "2111990320",
+        "2113422425",
+        "2113425091",
+        "2119423764",
+        "2122820686",
+        "2126655973",
+        "2130287685",
+        "2134684274",
+        "2138268725",
+        "2139221507",
+        "2139418336",
+        "2147025186",
+        "2149225459",
+        "2149375166",
+        "2149695592",
+        "2153244370",
+        "2167971042"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "1782174992",
+    "title": "Automatic C-to-CUDA code generation for affine programs",
+    "venue": "compiler construction",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Muthu Manikandan Baskaran",
+            "id": "1998164592",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "J. Ramanujam",
+            "id": "2083116879",
+            "org": "Louisiana State University#TAB#"
+        },
+        {
+            "name": "P. Sadayappan",
+            "id": "1966094299",
+            "org": "The Ohio State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Redundant code",
+        "Parallel computing",
+        "Computer architecture",
+        "Source code",
+        "Computer science",
+        "Parallel programming model",
+        "Unreachable code",
+        "CUDA",
+        "Code generation",
+        "Programming language",
+        "CUDA Pinned memory"
+    ],
+    "references": [
+        "1504751168",
+        "1533186609",
+        "1583384019",
+        "1970141743",
+        "1992851788",
+        "1995270665",
+        "2007962166",
+        "2032391783",
+        "2034761517",
+        "2076485607",
+        "2097699872",
+        "2108792719",
+        "2116963870",
+        "2128249697",
+        "2132331020",
+        "2139143992",
+        "2139774022",
+        "2153492376",
+        "2160786443",
+        "2170634604",
+        "2296218291"
+    ]
+}

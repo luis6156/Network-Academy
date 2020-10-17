@@ -1,0 +1,47 @@
+{
+    "id": "1687939640",
+    "title": "Communication middleware systems for heterogeneous clusters: a comparative study",
+    "venue": "international conference on cluster computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Balkanski",
+            "id": "2230199759",
+            "org": "Fakultat fur Informatik, Technische Univ. Chemnitz, Germany"
+        },
+        {
+            "name": "Trams",
+            "id": "2223903038",
+            "org": "Fakultat fur Informatik, Technische Univ. Chemnitz, Germany"
+        },
+        {
+            "name": "Rehm",
+            "id": "2231959230",
+            "org": "Fakultat fur Informatik, Technische Univ. Chemnitz, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Storage area network",
+        "Parallel computing",
+        "MPICH",
+        "Computer science",
+        "Distributed computing",
+        "Parallel programming model",
+        "Message Passing Interface",
+        "Message passing",
+        "Middleware",
+        "Gigabit Ethernet",
+        "Operating system",
+        "Myrinet"
+    ],
+    "references": [
+        "22448193",
+        "1514762378",
+        "1550787581",
+        "1996254287",
+        "2002452469",
+        "2077783617",
+        "2160625928",
+        "2174992043"
+    ]
+}

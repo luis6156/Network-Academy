@@ -1,0 +1,41 @@
+{
+    "id": "1557537889",
+    "title": "Scheduling in Critical Real-Time Systems: a Minfesto",
+    "venue": "international symposium organized jointly with working group provably correct systems on formal techniques in real time and fault tolerant systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Gerard Le Lann",
+            "id": "1132382337",
+            "org": "Projet REFLECS, INRIA, Le Chesnay Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Multiprocessor scheduling",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Nurse scheduling problem",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Lottery scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "129593952",
+        "1498909462",
+        "1531947739",
+        "1575662623",
+        "1680642992",
+        "1973501242",
+        "2015717967",
+        "2035918100",
+        "2076513239",
+        "2115481380",
+        "2117031684",
+        "2130181800",
+        "2131053137"
+    ]
+}

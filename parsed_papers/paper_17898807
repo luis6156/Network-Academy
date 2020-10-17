@@ -1,0 +1,43 @@
+{
+    "id": "17898807",
+    "title": "The local Hamiltonian problem on a line with eight states is QMA-complete",
+    "venue": "Quantum Information & Computation",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Sean Hallgren",
+            "id": "2152410782",
+            "org": "Department of Computer Science and Engineering, The Pennsylvania State University, University Park, PA#TAB#"
+        },
+        {
+            "name": "Daniel Nagaj",
+            "id": "2293189201",
+            "org": "Faculty for Physics, University of Vienna, Vienna, Austria and Research Center for Quantum Information, Institute of Physics, Slovak Academy of Sciences, Bratislava, Slovakia#TAB#"
+        },
+        {
+            "name": "Sandeep Narayanaswami",
+            "id": "2291184486",
+            "org": "Department of Physics, The Pennsylvania State University, University Park, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Qubit",
+        "Mathematics",
+        "Eigenvalues and eigenvectors",
+        "Heuristics",
+        "Hamiltonian path problem",
+        "Discrete mathematics",
+        "Hamiltonian (quantum mechanics)",
+        "Combinatorics",
+        "Curse of dimensionality",
+        "Adiabatic quantum computation"
+    ],
+    "references": [
+        "1530678239",
+        "1556171410",
+        "1613136215",
+        "1667728213",
+        "2072381205",
+        "2895657145"
+    ]
+}

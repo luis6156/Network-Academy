@@ -1,0 +1,47 @@
+{
+    "id": "1549462649",
+    "title": "Parallel resolution of the satisfiability problem (SAT) with OpenMP and MPI",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Daniel Singer",
+            "id": "2152103829",
+            "org": "LITA - EA 3097, Universite Paul Verlaine de Metz, UFR MIM, Metz, France#TAB#"
+        },
+        {
+            "name": "Alain Vagner",
+            "id": "2652234970",
+            "org": "LITA - EA 3097, Universite Paul Verlaine de Metz, UFR MIM, Metz, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction problem",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Multiprocessing",
+        "Workload",
+        "Message passing",
+        "Spite",
+        "Parallel algorithm",
+        "Boolean satisfiability problem"
+    ],
+    "references": [
+        "14839205",
+        "44050905",
+        "1480636508",
+        "1518231271",
+        "1575632544",
+        "1583771634",
+        "1981726327",
+        "1998417879",
+        "2057361103",
+        "2076373700",
+        "2092775861",
+        "2123098314",
+        "2131761962",
+        "2142785340"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "1497051956",
+    "title": "Explaining intermittent concurrent bugs by minimizing scheduling noise",
+    "venue": "haifa verification conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yaniv Eytani",
+            "id": "2780575793",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Timo Latvala",
+            "id": "2057285221",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Context switch",
+        "Java",
+        "Software",
+        "Shared memory",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Shotgun debugging",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "1493367105",
+        "1521216227",
+        "1532324212",
+        "1544441750",
+        "1556566737",
+        "1623765515",
+        "1782479956",
+        "1862182621",
+        "1965462925",
+        "1972544179",
+        "1977338805",
+        "1986453394",
+        "2014530617",
+        "2016167891",
+        "2016314068",
+        "2040060046",
+        "2049633124",
+        "2057572737",
+        "2067633713",
+        "2082766667",
+        "2087527532",
+        "2101946114",
+        "2106043799",
+        "2116119186",
+        "2119826996",
+        "2120926795",
+        "2135274583",
+        "2142647473",
+        "2142991364",
+        "2146540946",
+        "2149654223",
+        "2155479707",
+        "2159765571",
+        "2160489152",
+        "2170224888",
+        "2171480813"
+    ]
+}

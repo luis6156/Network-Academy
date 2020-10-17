@@ -1,0 +1,54 @@
+{
+    "id": "1641700600",
+    "title": "The NOX OLAP query model: from algebra to execution",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ahmad Taleb",
+            "id": "2311551774",
+            "org": "Najran University, Najran, Saudia Arabia#TAB#"
+        },
+        {
+            "name": "Todd Eavis",
+            "id": "281263185",
+            "org": "Concordia University, Montreal, Canada#TAB#"
+        },
+        {
+            "name": "Hiba Tabbara",
+            "id": "2034715586",
+            "org": "Concordia University, Montreal, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Online analytical processing",
+        "Theoretical computer science",
+        "Computer science",
+        "Data mining",
+        "Implementation",
+        "Query language",
+        "Algebra",
+        "Server",
+        "Database",
+        "MOLAP",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1519107501",
+        "1567277549",
+        "1963953069",
+        "1966558147",
+        "1997164579",
+        "2004477204",
+        "2023732085",
+        "2032852944",
+        "2039910065",
+        "2099746426",
+        "2103201239",
+        "2112452234",
+        "2113176538",
+        "2118899311"
+    ]
+}

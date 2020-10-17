@@ -1,0 +1,66 @@
+{
+    "id": "154747862",
+    "title": "Work stealing strategies for parallel stream processing in soft real-time systems",
+    "venue": "automation, robotics and control systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sebastian Mattheis",
+            "id": "2284198416",
+            "org": "Fakultat fur Informatik, Technische Universitat Munchen, Garching, Germany#TAB#"
+        },
+        {
+            "name": "Tobias Schuele",
+            "id": "1968341590",
+            "org": "Corporate Technology, Siemens AG, Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Andreas Raabe",
+            "id": "2530972093",
+            "org": "fortiss GmbH, Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Henties",
+            "id": "2413660278",
+            "org": "Corporate Technology, Siemens AG, Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Urs Gleim",
+            "id": "2090607066",
+            "org": "Corporate Technology, Siemens AG, Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computation",
+        "Computer science",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Stream processing",
+        "Real-time computing",
+        "Work stealing"
+    ],
+    "references": [
+        "616339485",
+        "1482151339",
+        "1568192366",
+        "1597755753",
+        "1817766487",
+        "1995873479",
+        "2005082107",
+        "2016559894",
+        "2040194699",
+        "2040466547",
+        "2061810917",
+        "2098147619",
+        "2099738121",
+        "2103323329",
+        "2103477606",
+        "2104861744",
+        "2145406052",
+        "2146381930",
+        "2157417303",
+        "2165606466"
+    ]
+}

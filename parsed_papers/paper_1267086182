@@ -1,0 +1,63 @@
+{
+    "id": "1267086182",
+    "title": "A practical implementation of clustered fault tolerant write acceleration in a virtualized environment",
+    "venue": "file and storage technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Deepavali Bhagwat",
+            "id": "1994938794",
+            "org": "PernixData, Inc.#TAB#"
+        },
+        {
+            "name": "Mahesh Patil",
+            "id": "2536500607",
+            "org": "PernixData, Inc.#TAB#"
+        },
+        {
+            "name": "Michal Ostrowski",
+            "id": "2709011494",
+            "org": "PernixData, Inc.#TAB#"
+        },
+        {
+            "name": "Murali Vilayannur",
+            "id": "315918365",
+            "org": "PernixData, Inc.#TAB#"
+        },
+        {
+            "name": "Woon Ho Jung",
+            "id": "2153350264",
+            "org": "PernixData, Inc.#TAB#"
+        },
+        {
+            "name": "Chethan Kumar",
+            "id": "2101881638",
+            "org": "PernixData, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Parallel computing",
+        "Resource management",
+        "Throughput",
+        "Computer science",
+        "Server",
+        "Virtual machine",
+        "Real-time computing",
+        "High availability",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1741509911",
+        "1992757716",
+        "2092426103",
+        "2100343205",
+        "2121542813",
+        "2121887742",
+        "2125788329",
+        "2133119226",
+        "2138165844",
+        "2144518192",
+        "2162031809"
+    ]
+}

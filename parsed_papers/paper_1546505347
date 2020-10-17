@@ -1,0 +1,39 @@
+{
+    "id": "1546505347",
+    "title": "Botnet traffic detection techniques by C&C session classification using SVM",
+    "venue": "international workshop on security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Satoshi Kondo",
+            "id": "2495787115",
+            "org": "Trend Micro Incorporated, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Naoshi Sato",
+            "id": "2803537378",
+            "org": "Institute of Information Security, Yokohama, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Communication channel",
+        "Computer security",
+        "Network packet",
+        "Histogram",
+        "Pattern matching",
+        "Support vector machine",
+        "Botnet"
+    ],
+    "references": [
+        "202500387",
+        "1462349742",
+        "1550514379",
+        "1674877186",
+        "1885428543",
+        "1988741337",
+        "2012095206",
+        "2119271160",
+        "2153635508"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "1584345234",
+    "title": "Clotho: decoupling memory page layout from storage organization",
+    "venue": "very large data bases",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Minglong Shao",
+            "id": "2305695538",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Jiri Schindler",
+            "id": "2250821823",
+            "org": "EMC Corporation and Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Steven W. Schlosser",
+            "id": "2057051268",
+            "org": "Intel Corporation and Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Anastassia Ailamaki",
+            "id": "1787861840",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Gregory R. Ganger",
+            "id": "2791808",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Memory map",
+        "Sequential access memory",
+        "Computer data storage",
+        "Parallel computing",
+        "Semiconductor memory",
+        "Memory hierarchy",
+        "Computer science",
+        "Page cache",
+        "Memory management",
+        "Database",
+        "Computer memory"
+    ],
+    "references": [
+        "1537726251",
+        "1570477871",
+        "1600049434",
+        "1841617228",
+        "1860420205",
+        "1936410615",
+        "1986838720",
+        "2049146483",
+        "2063601856",
+        "2104954161",
+        "2110631345",
+        "2130598739",
+        "2130642985",
+        "2141689805",
+        "2147504831",
+        "2155651153",
+        "2157979971",
+        "2171543585",
+        "2197099782"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1774050030",
+    "title": "Error detection using BMC in a parallel environment",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Subramanian K. Iyer",
+            "id": "2135059550",
+            "org": "University of Texas at Austin, Austin, TX#TAB#"
+        },
+        {
+            "name": "Jawahar Jain",
+            "id": "2148713048",
+            "org": "Fujitsu Labs of America, Sunnyvale, CA#TAB#"
+        },
+        {
+            "name": "Mukul R. Prasad",
+            "id": "2100975649",
+            "org": "Fujitsu Labs of America, Sunnyvale, CA#TAB#"
+        },
+        {
+            "name": "Debashis Sahoo",
+            "id": "1974803462",
+            "org": "Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Thomas Sidle",
+            "id": "2291433267",
+            "org": "Fujitsu Labs of America, Sunnyvale, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Circuit design",
+        "Computer science",
+        "Scaling",
+        "Distributed computing",
+        "State space",
+        "Grid",
+        "Model checking",
+        "Error detection and correction"
+    ],
+    "references": [
+        "1569305728",
+        "1819209966",
+        "2158966008"
+    ]
+}

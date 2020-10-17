@@ -1,0 +1,50 @@
+{
+    "id": "1654511047",
+    "title": "ProSteal: A Proactive Work Stealer for Bulk Synchronous Tasks Distributed on a Cluster of Heterogeneous Machines with Multiple Accelerators",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Tarun Beri",
+            "id": "2229067074",
+            "org": "Indian Inst. of Technol. Delhi, New Delhi, India"
+        },
+        {
+            "name": "Sorav Bansal",
+            "id": "2169882634",
+            "org": "Indian Inst. of Technol. Delhi, New Delhi, India"
+        },
+        {
+            "name": "Subodh Kumar",
+            "id": "2110317086",
+            "org": "Indian Inst. of Technol. Delhi, New Delhi, India"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "Shared memory",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Load management",
+        "Data transmission",
+        "Work stealing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1460405344",
+        "1545054551",
+        "1825216778",
+        "1972090741",
+        "1996632297",
+        "2032404535",
+        "2038469228",
+        "2045271686",
+        "2079577430",
+        "2081612620",
+        "2113941519",
+        "2161679325",
+        "2171226522"
+    ]
+}

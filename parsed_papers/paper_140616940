@@ -1,0 +1,67 @@
+{
+    "id": "140616940",
+    "title": "Everest: scaling down peak loads through I/O off-loading",
+    "venue": "operating systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Dushyanth Narayanan",
+            "id": "2137354378",
+            "org": "Microsoft Research Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Austin Donnelly",
+            "id": "2211934771",
+            "org": "Microsoft Research Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Eno Thereska",
+            "id": "2152541190",
+            "org": "Microsoft Research Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Sameh Elnikety",
+            "id": "2017883357",
+            "org": "Microsoft Research Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Antony I. T. Rowstron",
+            "id": "2338340454",
+            "org": "Microsoft Research Cambridge, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "USable",
+        "Input/output",
+        "Pooling",
+        "Computer science",
+        "Scaling",
+        "Latency (engineering)",
+        "Server",
+        "Data center",
+        "Real-time computing"
+    ],
+    "references": [
+        "201248661",
+        "1876064222",
+        "2012706015",
+        "2025413686",
+        "2035606364",
+        "2080291901",
+        "2082871877",
+        "2099753358",
+        "2107779152",
+        "2119565742",
+        "2121133177",
+        "2124288146",
+        "2130055503",
+        "2137808089",
+        "2146970559",
+        "2153704625",
+        "2156352928",
+        "2163750144",
+        "2165068957",
+        "2205436351"
+    ]
+}

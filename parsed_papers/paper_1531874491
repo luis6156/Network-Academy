@@ -1,0 +1,47 @@
+{
+    "id": "1531874491",
+    "title": "Two Approaches for a Single-Chip FPGA Implementation of an Encryptor/Decryptor AES Core",
+    "venue": "field-programmable logic and applications",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nazar Abbas Saqib",
+            "id": "1972582381",
+            "org": "Centro de Investigacion y de Estudios Avanzados del IPN"
+        },
+        {
+            "name": "Francisco Rodriguez-Henriquez",
+            "id": "727884664",
+            "org": "Centro de Investigacion y de Estudios Avanzados del IPN"
+        },
+        {
+            "name": "Arturo Diaz-Perez",
+            "id": "2002396396",
+            "org": "Centro de Investigacion y de Estudios Avanzados del IPN"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Field-programmable gate array",
+        "Throughput",
+        "Parallel computing",
+        "Lookup table",
+        "Computer science",
+        "Scheduling (computing)",
+        "Encryption",
+        "Architecture",
+        "Real-time computing",
+        "Multiplicative inverse"
+    ],
+    "references": [
+        "170872169",
+        "180488756",
+        "1487268209",
+        "1515827409",
+        "1556212265",
+        "1558515754",
+        "2115840814",
+        "2117013296",
+        "2127752881"
+    ]
+}

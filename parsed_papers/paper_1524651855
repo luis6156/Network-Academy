@@ -1,0 +1,54 @@
+{
+    "id": "1524651855",
+    "title": "Two birds one stone: signcryption using RSA",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "John Malone-Lee",
+            "id": "2134818875",
+            "org": "University of Bristol, Department of Computer Science, Bristol, UK#TAB#"
+        },
+        {
+            "name": "Wenbo Mao",
+            "id": "2111965902",
+            "org": "Hewlett-Packard Laboratories, Stoke Gifford, Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "PKCS #1",
+        "Key distribution",
+        "Computer science",
+        "Key (cryptography)",
+        "Computer security",
+        "Key encapsulation",
+        "Diffie-Hellman key exchange",
+        "ID-based cryptography",
+        "Public-key cryptography",
+        "Key generation"
+    ],
+    "references": [
+        "1495266644",
+        "1516512945",
+        "1516634197",
+        "1531848080",
+        "1552695147",
+        "1561907855",
+        "1569083856",
+        "1591954407",
+        "1599446772",
+        "1604454960",
+        "1677827171",
+        "1901278359",
+        "1991914881",
+        "2052267638",
+        "2086042811",
+        "2101803085",
+        "2103627472",
+        "2149093588",
+        "2149644620",
+        "2151413173",
+        "2157679418",
+        "2162653919"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1606416333",
+    "title": "A Parallel Debugger with Support for Distributed Arrays, Multiple Executables and Dynamic Processes",
+    "venue": "compiler construction",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Peter Fritzon",
+            "id": "2164205399",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Roland Wismuller",
+            "id": "710658356",
+            "org": "University of Technology Munich"
+        },
+        {
+            "name": "Olav Hansen",
+            "id": "2409124073",
+            "org": "Linkoping University"
+        },
+        {
+            "name": "Jonas Sala",
+            "id": "2563887851",
+            "org": "Parallel Systems"
+        },
+        {
+            "name": "Peter Skov",
+            "id": "2719012103",
+            "org": "Linkoping University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Executable",
+        "Computer science",
+        "High Performance Fortran",
+        "Visualization",
+        "Debugger",
+        "Functional decomposition",
+        "Data structure",
+        "Programming language",
+        "Debugging"
+    ],
+    "references": [
+        "94477283",
+        "1606307006",
+        "1757237710",
+        "2026960328",
+        "2027225446",
+        "2033215361",
+        "2074353052",
+        "2135468985"
+    ]
+}

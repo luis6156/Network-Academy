@@ -1,0 +1,56 @@
+{
+    "id": "1488792172",
+    "title": "The Zurich Trusted Information Channel --- An Efficient Defence Against Man-in-the-Middle and Malicious Software Attacks",
+    "venue": "trust and trustworthy computing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Thomas D. Weigold",
+            "id": "2027656435",
+            "org": "IBM Zurich Research Laboratory,#TAB#"
+        },
+        {
+            "name": "Thorsten Kramp",
+            "id": "1984733902",
+            "org": "IBM Zurich Research Laboratory,#TAB#"
+        },
+        {
+            "name": "Reto Hermann",
+            "id": "2149538158",
+            "org": "IBM Zurich Research Laboratory,#TAB#"
+        },
+        {
+            "name": "Frank Horing",
+            "id": "2131731855",
+            "org": "IBM Zurich Research Laboratory,#TAB#"
+        },
+        {
+            "name": "Peter Buhler",
+            "id": "2676597044",
+            "org": "IBM Zurich Research Laboratory,#TAB#"
+        },
+        {
+            "name": "Michael Baentsch",
+            "id": "200898613",
+            "org": "IBM Zurich Research Laboratory,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Software",
+        "Computer science",
+        "Security token",
+        "Communication channel",
+        "Computer security",
+        "Secure by design",
+        "Man-in-the-middle attack",
+        "USB",
+        "Internet privacy",
+        "Database transaction"
+    ],
+    "references": [
+        "2032403136",
+        "2038019800",
+        "2046058680"
+    ]
+}

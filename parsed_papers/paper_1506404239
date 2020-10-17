@@ -1,0 +1,37 @@
+{
+    "id": "1506404239",
+    "title": "Hob: a tool for verifying data structure consistency",
+    "venue": "compiler construction",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Patrick Lam",
+            "id": "2889648796",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Viktor Kuncak",
+            "id": "37798284",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "Martin C. Rinard",
+            "id": "343541395",
+            "org": "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Static analysis",
+        "Computer science",
+        "Compiler",
+        "Implementation",
+        "Data structure",
+        "Programming language"
+    ],
+    "references": [
+        "1541825597",
+        "1988441831",
+        "2031868253",
+        "2597376266"
+    ]
+}

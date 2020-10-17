@@ -1,0 +1,38 @@
+{
+    "id": "1010508780",
+    "title": "Implementation and Evaluation of Coupled Congestion Control for Multipath TCP",
+    "venue": "Meeting of the European Network of Universities and Companies in Information and Communication Engineering",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Regel Gonzalez Usach",
+            "id": "2303396635",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Mirja Kuhlewind",
+            "id": "96492936",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Compound TCP",
+        "Computer science",
+        "Distributed computing",
+        "CUBIC TCP",
+        "Computer network",
+        "TCP tuning",
+        "H-TCP",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1515106148",
+        "1594437080",
+        "2011222041",
+        "2083026978",
+        "2118442492"
+    ]
+}

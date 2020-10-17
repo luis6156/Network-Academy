@@ -1,0 +1,40 @@
+{
+    "id": "1531889752",
+    "title": "EM-algorithm for Training of State-space Models with Application to Time Series Prediction",
+    "venue": "the european symposium on artificial neural networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Elia Liitiainen",
+            "id": "222902009",
+            "org": "Helsinki University of Technology"
+        },
+        {
+            "name": "Nima Reyhani",
+            "id": "2155648804",
+            "org": "Helsinki University of Technology"
+        },
+        {
+            "name": "Amaury Lendasse",
+            "id": "958324587",
+            "org": "Helsinki University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "State-space representation",
+        "Computer science",
+        "Expectation-maximization algorithm",
+        "State space",
+        "Nonlinear system",
+        "Order of integration",
+        "Time series",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1482594067",
+        "2101654602",
+        "2118760499",
+        "2171277043"
+    ]
+}

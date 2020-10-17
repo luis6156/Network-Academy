@@ -1,0 +1,73 @@
+{
+    "id": "1566782895",
+    "title": "POTSHARDS: secure long-term storage without encryption",
+    "venue": "usenix annual technical conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mark W. Storer",
+            "id": "2036152269",
+            "org": "University of California, Santa Cruz#TAB#"
+        },
+        {
+            "name": "Kevin M. Greenan",
+            "id": "251667281",
+            "org": "University of California, Santa Cruz#TAB#"
+        },
+        {
+            "name": "Ethan L. Miller",
+            "id": "2168190067",
+            "org": "University of California, Santa Cruz#TAB#"
+        },
+        {
+            "name": "Kaladhar Voruganti",
+            "id": "2714737489",
+            "org": "Network Appliance#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data recovery",
+        "40-bit encryption",
+        "Client-side encryption",
+        "Computer science",
+        "RAID",
+        "Encryption",
+        "Computer security",
+        "Secret sharing",
+        "On-the-fly encryption",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "1496139339",
+        "1530504482",
+        "1532517595",
+        "1572593068",
+        "1576397915",
+        "1592013760",
+        "1600328410",
+        "1663493649",
+        "1913279262",
+        "1974401809",
+        "1989438115",
+        "2057934903",
+        "2058972589",
+        "2087314535",
+        "2097829252",
+        "2101563515",
+        "2107511818",
+        "2116777751",
+        "2117420234",
+        "2121133177",
+        "2122447165",
+        "2126827550",
+        "2141420453",
+        "2145904415",
+        "2156591836",
+        "2156719566",
+        "2165028605",
+        "2167434739",
+        "2171337572",
+        "2174507869",
+        "2536760200"
+    ]
+}

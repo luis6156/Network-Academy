@@ -1,0 +1,57 @@
+{
+    "id": "1639859911",
+    "title": "Performance Analysis for Target Devices with the OpenMP Tools Interface",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Tim Cramer",
+            "id": "2158251953",
+            "org": "IT Center, RWTH Aachen Univ., Aachen, Germany"
+        },
+        {
+            "name": "Robert Dietrich",
+            "id": "2805687918",
+            "org": "IT Center, RWTH Aachen Univ., Aachen, Germany"
+        },
+        {
+            "name": "Christian Terboven",
+            "id": "1093591045",
+            "org": "IT Center, RWTH Aachen Univ., Aachen, Germany"
+        },
+        {
+            "name": "Matthias S. Muller",
+            "id": "2295117714",
+            "org": "IT Center, RWTH Aachen Univ., Aachen, Germany"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Center for Inf. Services & High Performance Comput., Tech. Univ. Dresden, Dresden, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Reference implementation",
+        "Runtime system",
+        "Usability",
+        "Programming paradigm",
+        "Data management",
+        "Programmer"
+    ],
+    "references": [
+        "12500326",
+        "68042204",
+        "1545880915",
+        "1559603603",
+        "1788937509",
+        "1858951234",
+        "2049846809",
+        "2101778912",
+        "2211541975"
+    ]
+}

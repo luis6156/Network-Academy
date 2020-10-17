@@ -1,0 +1,58 @@
+{
+    "id": "177350716",
+    "title": "Optimizing the LU Factorization for Energy Efficiency on a Many-Core Architecture",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Elkin Garcia",
+            "id": "2125628578",
+            "org": "Computer Architecture and Parallel Systems Laboratory (CAPSL), Department of Electrical and Computer Engineering, University of Delaware, Newark, USA"
+        },
+        {
+            "name": "Jaime Arteaga",
+            "id": "2480371743",
+            "org": "Computer Architecture and Parallel Systems Laboratory (CAPSL), Department of Electrical and Computer Engineering, University of Delaware, Newark, USA"
+        },
+        {
+            "name": "Robert S. Pavel",
+            "id": "2095345785",
+            "org": "Computer Architecture and Parallel Systems Laboratory (CAPSL), Department of Electrical and Computer Engineering, University of Delaware, Newark, USA"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "Computer Architecture and Parallel Systems Laboratory (CAPSL), Department of Electrical and Computer Engineering, University of Delaware, Newark, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Supercomputer",
+        "Parallel computing",
+        "Computer science",
+        "Efficient energy use",
+        "Energy consumption",
+        "LU decomposition",
+        "Bottleneck",
+        "Architecture"
+    ],
+    "references": [
+        "1529356657",
+        "1600335798",
+        "1623282124",
+        "1981259316",
+        "2012309011",
+        "2038897871",
+        "2041089549",
+        "2045674116",
+        "2061818616",
+        "2093783472",
+        "2099961254",
+        "2114052846",
+        "2124511861",
+        "2145021036",
+        "2146767870",
+        "2154596969",
+        "2169631286"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1583133124",
+    "title": "ABM: Looping Reference-Aware Cache Management Scheme for Media-on-Demand Server",
+    "venue": "extending database technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kyoungwoon Cho",
+            "id": "2106639061",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Yeonseung Ryu",
+            "id": "2530617121",
+            "org": "Hallym University"
+        },
+        {
+            "name": "Youjip Won",
+            "id": "2148748949",
+            "org": "Hanyang University"
+        },
+        {
+            "name": "Kern Koh",
+            "id": "2467924033",
+            "org": "Seoul National University"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Disk buffer",
+        "Cache algorithms",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Workload",
+        "Database",
+        "Exploit",
+        "File system",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "1487184349",
+        "1530535197",
+        "1566553893",
+        "1609941352",
+        "1983274120",
+        "2039189705",
+        "2042022277",
+        "2054308357",
+        "2075448846",
+        "2092537111",
+        "2121109447",
+        "2150864656"
+    ]
+}

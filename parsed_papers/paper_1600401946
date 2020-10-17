@@ -1,0 +1,43 @@
+{
+    "id": "1600401946",
+    "title": "A 1 Gbit/s Partially Unrolled Architecture of Hash Functions SHA-1 and SHA-512",
+    "venue": "the cryptographers' track at the rsa conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Roar Lien",
+            "id": "2129607350",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Tim Grembowski",
+            "id": "240805419",
+            "org": "George Mason University"
+        },
+        {
+            "name": "Kris Gaj",
+            "id": "211296065",
+            "org": "George Mason University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "SHA-1",
+        "Cryptographic protocol",
+        "Cryptographic hash function",
+        "Computer science",
+        "Virtex",
+        "Hash function",
+        "Architecture"
+    ],
+    "references": [
+        "1572214576",
+        "1572352527",
+        "1604454960",
+        "1606329366",
+        "1650977141",
+        "2157047743"
+    ]
+}

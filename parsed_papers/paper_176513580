@@ -1,0 +1,64 @@
+{
+    "id": "176513580",
+    "title": "Fast GPU ray tracing of dynamic meshes using geometry images",
+    "venue": "graphics interface",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Nathan A. Carr",
+            "id": "2163608391",
+            "org": "Adobe Corp#TAB#"
+        },
+        {
+            "name": "Jared Hoberock",
+            "id": "1110079350",
+            "org": "University of Illinois, Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Keenan Crane",
+            "id": "2091080775",
+            "org": "University of Illinois, Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "John Hart",
+            "id": "2137993087",
+            "org": "University of Illinois, Urbana-Champaign#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed ray tracing",
+        "Theoretical computer science",
+        "Computer vision",
+        "Geometry",
+        "Polygon mesh",
+        "Tree traversal",
+        "Computer science",
+        "Ray tracing (graphics)",
+        "Bounding volume hierarchy",
+        "Level of detail",
+        "Mesh parameterization",
+        "Data structure",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1558931212",
+        "1906263998",
+        "2042183142",
+        "2043548032",
+        "2060258034",
+        "2062604373",
+        "2068922602",
+        "2097246665",
+        "2103185791",
+        "2117236520",
+        "2154449573",
+        "2163500269",
+        "2164369380",
+        "2165761862",
+        "2175031088",
+        "2175032334",
+        "2295329974",
+        "2296267442",
+        "2341600683"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "1488799063",
+    "title": "OpenJIT Frontend System: An Implementation of the Reflective JIT Compiler Frontend",
+    "venue": "conference on object oriented programming systems languages and applications",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Hirotaka Ogawa",
+            "id": "2777753771",
+            "org": "Tokyo Institute of Technology Tokyo"
+        },
+        {
+            "name": "Satoshi Matsuoka",
+            "id": "2164966972",
+            "org": "Fujitsu Laboratories Limited Japan"
+        },
+        {
+            "name": "Fuyuhiko Maruyama",
+            "id": "2133822649",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Yukihiko Sohda",
+            "id": "2129547761",
+            "org": "Tokyo Institute of Technology Tokyo"
+        },
+        {
+            "name": "Kouya Shimura",
+            "id": "2138021425",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Yasunori Kimura",
+            "id": "2154541975",
+            "org": "Fujitsu Laboratories Limited Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Interpreter",
+        "Java",
+        "Computer architecture",
+        "Compiler",
+        "Computer science",
+        "Loop nest optimization",
+        "Just-in-time compilation",
+        "Optimizing compiler",
+        "Programming language",
+        "Program optimization",
+        "Architecture"
+    ],
+    "references": [
+        "1545932505",
+        "1558733052",
+        "1601712140",
+        "1609529814",
+        "1861063983",
+        "1978220811",
+        "1989771784",
+        "1991751536",
+        "1999386261",
+        "1999637392",
+        "2002250868",
+        "2014530617",
+        "2018016444",
+        "2036719919",
+        "2077850509",
+        "2078655808",
+        "2105090473",
+        "2125062340",
+        "2138363365",
+        "2154528871",
+        "2155651624"
+    ]
+}

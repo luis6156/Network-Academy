@@ -1,0 +1,54 @@
+{
+    "id": "1561907855",
+    "title": "RSA-OAEP Is Secure under the RSA Assumption",
+    "venue": "international cryptology conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Eiichiro Fujisaki",
+            "id": "97468126",
+            "org": "NTT Labs"
+        },
+        {
+            "name": "Tatsuaki Okamoto",
+            "id": "2142935726",
+            "org": "NTT Labs"
+        },
+        {
+            "name": "David Pointcheval",
+            "id": "2078705314",
+            "org": "ENS - CNRS"
+        },
+        {
+            "name": "Jacques Stern",
+            "id": "2097349350",
+            "org": "ENS - CNRS"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Optimal asymmetric encryption padding",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Trapdoor function",
+        "Random oracle",
+        "Public-key cryptography",
+        "Semantic security",
+        "Chosen-ciphertext attack",
+        "Provable security"
+    ],
+    "references": [
+        "1516512945",
+        "1552695147",
+        "1589176872",
+        "1611563112",
+        "1706109527",
+        "1749471906",
+        "1809974132",
+        "1996360405",
+        "2052267638",
+        "2073210531",
+        "2161195863"
+    ]
+}

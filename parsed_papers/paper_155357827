@@ -1,0 +1,77 @@
+{
+    "id": "155357827",
+    "title": "Theory of Multi Core Hypervisor Verification",
+    "venue": "conference on current trends in theory and practice of informatics",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Ernie Cohen",
+            "id": "2166020432",
+            "org": "Microsoft"
+        },
+        {
+            "name": "Wolfgang J. Paul",
+            "id": "2169524188",
+            "org": "Saarland University"
+        },
+        {
+            "name": "Sabine Schmaltz",
+            "id": "2070524187",
+            "org": "Saarland University"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Parallel computing",
+        "Discrete mathematics",
+        "Call stack",
+        "Computer science",
+        "Compiler",
+        "Page table",
+        "Correctness",
+        "Memory model",
+        "Interrupt handler",
+        "Virtual memory"
+    ],
+    "references": [
+        "14193191",
+        "71539614",
+        "136479479",
+        "172334804",
+        "205804942",
+        "1491229276",
+        "1498831343",
+        "1507653811",
+        "1509000726",
+        "1509898135",
+        "1512110764",
+        "1522486882",
+        "1523275077",
+        "1540575800",
+        "1545681762",
+        "1556316449",
+        "1556566737",
+        "1561412378",
+        "1571777183",
+        "1594381772",
+        "1701859074",
+        "1737941572",
+        "1782924662",
+        "1878117615",
+        "2023035194",
+        "2054739713",
+        "2066157470",
+        "2076409494",
+        "2082471399",
+        "2085773946",
+        "2100893446",
+        "2105614525",
+        "2108641743",
+        "2109199371",
+        "2141080699",
+        "2149352546",
+        "2155483366",
+        "2194223632",
+        "2213989452"
+    ]
+}

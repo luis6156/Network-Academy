@@ -1,0 +1,41 @@
+{
+    "id": "1608372408",
+    "title": "Passive-only key recovery attacks on RC4",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Martin Vuagnoux",
+            "id": "1772064366",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Initialization vector",
+        "Stream cipher",
+        "Network packet",
+        "Modulo operation",
+        "RC4",
+        "Temporal Key Integrity Protocol",
+        "Computer network"
+    ],
+    "references": [
+        "1556597491",
+        "1572840940",
+        "1789460706",
+        "2036520688",
+        "2114197583",
+        "2114566185",
+        "2149237395",
+        "2164725724"
+    ]
+}

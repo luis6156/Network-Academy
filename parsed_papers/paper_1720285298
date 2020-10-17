@@ -1,0 +1,69 @@
+{
+    "id": "1720285298",
+    "title": "Multi-GPU and multi-CPU parallelization for interactive physics simulations",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Everton Hermann",
+            "id": "2122137848",
+            "org": "INRIA, France"
+        },
+        {
+            "name": "Bruno Raffin",
+            "id": "140422703",
+            "org": "INRIA, France"
+        },
+        {
+            "name": "Francois Faure",
+            "id": "2147496802",
+            "org": "Grenoble University#TAB#"
+        },
+        {
+            "name": "Thierry Gautier",
+            "id": "2059405868",
+            "org": "INRIA, France"
+        },
+        {
+            "name": "Jeremie Allard",
+            "id": "2892674484",
+            "org": "INRIA, France"
+        }
+    ],
+    "fields_of_study": [
+        "Processor affinity",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Speedup",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "CUDA",
+        "Work stealing",
+        "Computer simulation"
+    ],
+    "references": [
+        "25253903",
+        "1483880184",
+        "1556657664",
+        "1560916425",
+        "1823791555",
+        "1846645567",
+        "1968020161",
+        "1970084257",
+        "1970980630",
+        "1995873479",
+        "1999294962",
+        "2064073280",
+        "2072725684",
+        "2080592425",
+        "2110073455",
+        "2113941519",
+        "2121893797",
+        "2134616937",
+        "2144033344",
+        "2162692491",
+        "2763437374"
+    ]
+}

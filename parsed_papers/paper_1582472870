@@ -1,0 +1,68 @@
+{
+    "id": "1582472870",
+    "title": "Extracting group signatures from traitor tracing schemes",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Aggelos Kiayias",
+            "id": "81359666",
+            "org": "Department of Computer Science and Engineering, University of Connecticut, Storrs, CT#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Department of Computer Science, Columbia University, New York, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Merkle signature scheme",
+        "Discrete mathematics",
+        "Encryption",
+        "Digital signature",
+        "Schnorr signature",
+        "Random oracle",
+        "Traitor tracing",
+        "Ring signature",
+        "Group signature"
+    ],
+    "references": [
+        "1493284097",
+        "1495266644",
+        "1497351799",
+        "1500506976",
+        "1504411685",
+        "1518164822",
+        "1520176649",
+        "1531945782",
+        "1560252361",
+        "1561762905",
+        "1565067294",
+        "1576428636",
+        "1576562714",
+        "1583385494",
+        "1587945298",
+        "1589034595",
+        "1594802052",
+        "1596144702",
+        "1604454960",
+        "1763199136",
+        "1772200850",
+        "1785500772",
+        "1793265733",
+        "1866351520",
+        "2002087984",
+        "2109661373",
+        "2132144109",
+        "2135656098",
+        "2151066003",
+        "2156186849",
+        "2164052311",
+        "2165902826",
+        "2168571148",
+        "2295616646",
+        "2395677762"
+    ]
+}

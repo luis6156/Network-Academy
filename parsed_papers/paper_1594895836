@@ -1,0 +1,40 @@
+{
+    "id": "1594895836",
+    "title": "Attribute-influenced LR parsing",
+    "venue": "compiler construction",
+    "year": 1980,
+    "authors": [
+        {
+            "name": "Neil D. Jones",
+            "id": "2116419005",
+            "org": "Aarhus University"
+        },
+        {
+            "name": "C. Michael Madsen",
+            "id": "2281867534",
+            "org": "Aarhus University"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing expression grammar",
+        "Discrete mathematics",
+        "Computer science",
+        "Parser combinator",
+        "S-attributed grammar",
+        "L-attributed grammar",
+        "Bottom-up parsing",
+        "Pattern recognition",
+        "Top-down parsing language",
+        "Top-down parsing",
+        "Canonical LR parser",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "45315167",
+        "1583885098",
+        "1964071625",
+        "2058588268",
+        "2103411350",
+        "2164854335"
+    ]
+}

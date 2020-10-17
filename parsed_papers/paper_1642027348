@@ -1,0 +1,71 @@
+{
+    "id": "1642027348",
+    "title": "Building peer-to-peer systems with chord, a distributed lookup service",
+    "venue": "workshop on hot topics in operating systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Frank Dabek",
+            "id": "1270708332",
+            "org": "Lab. for Comput. Sci., MIT, USA"
+        },
+        {
+            "name": "Emma Brunskill",
+            "id": "1800007723",
+            "org": "Lab. for Comput. Sci., MIT, USA"
+        },
+        {
+            "name": "M.F. Kaashoek",
+            "id": "2629805728",
+            "org": "Lab. for Comput. Sci., MIT, USA"
+        },
+        {
+            "name": "David R. Karger",
+            "id": "2305153757",
+            "org": "Lab. for Comput. Sci., MIT, USA"
+        },
+        {
+            "name": "Robert Tappan Morris",
+            "id": "2112752255",
+            "org": "Lab. for Comput. Sci., MIT, USA"
+        },
+        {
+            "name": "I. Stoica",
+            "id": "2673035616",
+            "org": "Lab. for Comput. Sci., MIT, USA"
+        },
+        {
+            "name": "Hari Balakrishnan",
+            "id": "1998464616",
+            "org": "Lab. for Comput. Sci., MIT, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Chord (music)",
+        "BATON Overlay",
+        "Peer-to-peer",
+        "Computer science",
+        "Distributed computing",
+        "File sharing",
+        "File server",
+        "Computer network",
+        "Robustness (computer science)",
+        "The Internet"
+    ],
+    "references": [
+        "1663493649",
+        "2000876023",
+        "2020765652",
+        "2084445812",
+        "2103647628",
+        "2104112849",
+        "2104210894",
+        "2118428193",
+        "2143351500",
+        "2158049821",
+        "2163059190",
+        "2164192722",
+        "2174507869"
+    ]
+}

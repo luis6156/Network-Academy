@@ -1,0 +1,34 @@
+{
+    "id": "1527507906",
+    "title": "Concurrency, Modularity, and Synchronization",
+    "venue": "mathematical foundations of computer science",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Antoni W. Mazurkiewicz",
+            "id": "2167333602",
+            "org": "Polish Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Concurrent object-oriented programming",
+        "Homomorphism",
+        "Concurrency",
+        "Synchronization",
+        "Modular design",
+        "Programming language"
+    ],
+    "references": [
+        "84232747",
+        "144473269",
+        "1509174365",
+        "1524234654",
+        "1582345010",
+        "1713643663",
+        "2110425399"
+    ]
+}

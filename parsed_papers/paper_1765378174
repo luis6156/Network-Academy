@@ -1,0 +1,61 @@
+{
+    "id": "1765378174",
+    "title": "Node.Scala: implicit parallel programming for high-performance web services",
+    "venue": "international conference on parallel processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Daniele Bonetta",
+            "id": "2029605502",
+            "org": "Faculty of Informatics, University of Lugano (USI), Switzerland#TAB#"
+        },
+        {
+            "name": "Danilo Ansaloni",
+            "id": "2144568366",
+            "org": "Faculty of Informatics, University of Lugano (USI), Switzerland#TAB#"
+        },
+        {
+            "name": "Achille Peternier",
+            "id": "877366510",
+            "org": "Faculty of Informatics, University of Lugano (USI), Switzerland#TAB#"
+        },
+        {
+            "name": "Cesare Pautasso",
+            "id": "2137484348",
+            "org": "Faculty of Informatics, University of Lugano (USI), Switzerland#TAB#"
+        },
+        {
+            "name": "Walter Binder",
+            "id": "2198976450",
+            "org": "Faculty of Informatics, University of Lugano (USI), Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Join-pattern",
+        "Thread (computing)",
+        "Parallel computing",
+        "Inductive programming",
+        "Computer science",
+        "Distributed computing",
+        "Reactive programming",
+        "Concurrent object-oriented programming",
+        "Implicit parallelism",
+        "Scala",
+        "Programming paradigm"
+    ],
+    "references": [
+        "138003856",
+        "1500859230",
+        "1598283981",
+        "1628092780",
+        "1982648554",
+        "2043694225",
+        "2067995169",
+        "2104594675",
+        "2108863067",
+        "2126022651",
+        "2135523252",
+        "2148620466",
+        "2165473257"
+    ]
+}

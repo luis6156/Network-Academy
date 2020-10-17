@@ -1,0 +1,41 @@
+{
+    "id": "1543311575",
+    "title": "Design and analysis of an adaptive backoff algorithm for IEEE 802.11 DCF mechanism",
+    "venue": "international ifip-tc networking conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mouhamad Ibrahim",
+            "id": "2118072655",
+            "org": "INRIA, Sophia Antipolis, France#TAB#"
+        },
+        {
+            "name": "Sara Alouf",
+            "id": "19931330",
+            "org": "INRIA, Sophia Antipolis, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "IEEE 802.11",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "EWMA chart",
+        "Communication channel",
+        "Estimator",
+        "Bit error rate",
+        "Adaptive algorithm",
+        "Shared medium",
+        "Distributed coordination function"
+    ],
+    "references": [
+        "1584489046",
+        "1630733292",
+        "2021521923",
+        "2044567090",
+        "2126345586",
+        "2128952907",
+        "2145859593",
+        "2162598825"
+    ]
+}

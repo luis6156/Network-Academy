@@ -1,0 +1,52 @@
+{
+    "id": "1507181721",
+    "title": "Hash function based on arithmetic coding and public-key cryptography",
+    "venue": "arXiv: Cryptography and Security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rene Ndoundam",
+            "id": "2433050242",
+            "org": "Department of Computer Science|Faculty of Science|University of Yaounde"
+        },
+        {
+            "name": "Juvet Karnel Sadie",
+            "id": "2551755590",
+            "org": "Department of Computer Science|Faculty of Science|University of Yaounde"
+        },
+        {
+            "name": "Nguening Nguembu Patrick",
+            "id": "2761629168",
+            "org": "Department of Computer Science|Faculty of Science|University of Yaounde"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Hash buster",
+        "Hash chain",
+        "Computer security",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1491431082",
+        "1547537489",
+        "1588594383",
+        "1656731780",
+        "1863270349",
+        "1996360405",
+        "2046419776",
+        "2103239853",
+        "2105145864",
+        "2120136986",
+        "2131212920",
+        "2156186849",
+        "2172433705",
+        "2611506938"
+    ]
+}

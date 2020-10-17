@@ -1,0 +1,66 @@
+{
+    "id": "1603623478",
+    "title": "Addressing Fairness in SMT Multicores with a Progress-Aware Scheduler",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Josue Feliu",
+            "id": "2162319146",
+            "org": "Dept. of Comput. Eng. (DISCA), Univ. Politec. de Valencia, Valencia, Spain"
+        },
+        {
+            "name": "Julio Sahuquillo",
+            "id": "2021766673",
+            "org": "Dept. of Comput. Eng. (DISCA), Univ. Politec. de Valencia, Valencia, Spain"
+        },
+        {
+            "name": "Salvador Petit",
+            "id": "2159119005",
+            "org": "Dept. of Comput. Eng. (DISCA), Univ. Politec. de Valencia, Valencia, Spain"
+        },
+        {
+            "name": "Jose Duato",
+            "id": "2110723587",
+            "org": "Dept. of Comput. Eng. (DISCA), Univ. Politec. de Valencia, Valencia, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Thread (computing)",
+        "Parallel computing",
+        "Multi-core processor",
+        "Job scheduler",
+        "Computer science",
+        "Uncore",
+        "Scheduling (computing)",
+        "Simultaneous multithreading",
+        "Xeon",
+        "Real-time computing"
+    ],
+    "references": [
+        "1504046403",
+        "1971165887",
+        "1993488239",
+        "1995830264",
+        "2007879342",
+        "2017156338",
+        "2018404774",
+        "2031866163",
+        "2057569249",
+        "2077017453",
+        "2098040113",
+        "2100250291",
+        "2102871765",
+        "2111804126",
+        "2119556945",
+        "2120230074",
+        "2126364467",
+        "2127643746",
+        "2129573249",
+        "2129816520",
+        "2132269953",
+        "2134323253",
+        "2146434221"
+    ]
+}

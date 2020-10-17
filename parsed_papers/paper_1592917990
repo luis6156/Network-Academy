@@ -1,0 +1,47 @@
+{
+    "id": "1592917990",
+    "title": "Full Key-Recovery Attack on the HMAC/NMAC Based on 3 and 4-Pass HAVAL",
+    "venue": "information security practice and experience",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Hongbo Yu",
+            "id": "2427311814",
+            "org": "Center for Advanced Study, Tsinghua University, Beijing, China 100084#TAB#"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Tsinghua University and Shandong University, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HAVAL",
+        "Key-recovery attack",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Computer science",
+        "Distributed computing",
+        "Computer security"
+    ],
+    "references": [
+        "1513113529",
+        "1513711610",
+        "1550771246",
+        "1566273181",
+        "1590269592",
+        "1656731780",
+        "1736627613",
+        "1851023053",
+        "1866609797",
+        "1955677211",
+        "2043711803",
+        "2103239853",
+        "2131212920",
+        "2131300413",
+        "2134615993",
+        "2525619314",
+        "2531150596",
+        "2611506938"
+    ]
+}

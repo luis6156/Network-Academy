@@ -1,0 +1,48 @@
+{
+    "id": "142559593",
+    "title": "Improving web server performance by caching dynamic data",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Arun Iyengar",
+            "id": "1251078740",
+            "org": "IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Jim Challenger",
+            "id": "2776532776",
+            "org": "IBM Research Division, T. J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Page cache",
+        "Database",
+        "Cache pollution",
+        "Computer network",
+        "Write-once",
+        "Cache invalidation"
+    ],
+    "references": [
+        "1527961683",
+        "1533813939",
+        "1555915743",
+        "1575304539",
+        "1579489005",
+        "1581144645",
+        "1984311666",
+        "1995338391",
+        "2015408864",
+        "2035720970",
+        "2038398038",
+        "2040402865",
+        "2048392910",
+        "2050757208",
+        "2086874058"
+    ]
+}

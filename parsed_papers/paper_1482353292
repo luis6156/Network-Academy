@@ -1,0 +1,48 @@
+{
+    "id": "1482353292",
+    "title": "On second-order differential power analysis",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "CIM-PACA, Centre de Micro-electronique de Provence - George Charpak, Gardanne, France#TAB#"
+        },
+        {
+            "name": "Pascal Paillier",
+            "id": "2117657652",
+            "org": "Advanced Research and Security Centre, Gemplus S.A., Issy-les-Moulineaux, France#TAB#"
+        },
+        {
+            "name": "Berry Schoenmakers",
+            "id": "2027545788",
+            "org": "Dept of Mathematics and Computing Science, Eindhoven University of Technology, Eindhoven, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Software development",
+        "Cryptanalysis",
+        "Software",
+        "Computer science",
+        "Implementation",
+        "Power analysis",
+        "Leakage (electronics)",
+        "Generalization"
+    ],
+    "references": [
+        "1503689022",
+        "1511843316",
+        "1519539754",
+        "1519954912",
+        "1562542037",
+        "1664808737",
+        "1724890242",
+        "1748081333",
+        "2105114022",
+        "2154909745",
+        "2155938490"
+    ]
+}

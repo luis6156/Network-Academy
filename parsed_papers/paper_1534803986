@@ -1,0 +1,42 @@
+{
+    "id": "1534803986",
+    "title": "Calculating end-to-end queuing delay for real-time services on an IP network",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "R.E. Kooij",
+            "id": "2425998975",
+            "org": "TNO Telecom, Leidschendam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Olav N. Osterbo",
+            "id": "295745939",
+            "org": "Telenor Research, Fornebu, Norway#TAB#"
+        },
+        {
+            "name": "J. C. van der Wal",
+            "id": "2632193885",
+            "org": "Independent Consultant, Delft, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network performance",
+        "Network delay",
+        "Computer science",
+        "Distributed computing",
+        "Fair queuing",
+        "Processing delay",
+        "End-to-end delay",
+        "Network architecture",
+        "Queuing delay",
+        "Packet loss"
+    ],
+    "references": [
+        "1480489205",
+        "1542207338",
+        "1731982387",
+        "2101430544",
+        "2176566884"
+    ]
+}

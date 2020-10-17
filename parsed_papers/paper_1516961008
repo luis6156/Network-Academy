@@ -1,0 +1,53 @@
+{
+    "id": "1516961008",
+    "title": "Concurrency Analysis for Shared Memory Programs with Textually Unaligned Barriers",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yuan Zhang",
+            "id": "2135412728",
+            "org": "University of Delaware, Newark#TAB#"
+        },
+        {
+            "name": "Evelyn Duesterwald",
+            "id": "2675049322",
+            "org": "IBM T.J.Watson Research Center, , Hawthorne,#TAB#"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "University of Delaware, Newark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Non-lock concurrency control",
+        "Parallel computing",
+        "Multiversion concurrency control",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Parallel programming model",
+        "Concurrent object-oriented programming",
+        "Generic programming",
+        "Concurrency"
+    ],
+    "references": [
+        "194749298",
+        "1555194821",
+        "1964177821",
+        "1982205631",
+        "1994878611",
+        "1996607090",
+        "1996800645",
+        "2036520154",
+        "2054739713",
+        "2060345611",
+        "2065413511",
+        "2078853139",
+        "2085134931",
+        "2127959721",
+        "2505885894"
+    ]
+}

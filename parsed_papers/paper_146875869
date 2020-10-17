@@ -1,0 +1,51 @@
+{
+    "id": "146875869",
+    "title": "Show no weakness: sequentially consistent specifications of TSO libraries",
+    "venue": "international symposium on distributed computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Alexey Gotsman",
+            "id": "216695568",
+            "org": "IMDEA Software Institute, Spain#TAB#"
+        },
+        {
+            "name": "Madanlal Musuvathi",
+            "id": "2306824899",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Hongseok Yang",
+            "id": "2125768396",
+            "org": "University of Oxford, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Parallel computing",
+        "Linearizability",
+        "Java",
+        "x86",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Interoperability",
+        "Memory model",
+        "Synchronization",
+        "Real-time computing"
+    ],
+    "references": [
+        "136533073",
+        "1483960654",
+        "1509000726",
+        "1525350307",
+        "1594381772",
+        "1913137593",
+        "2054739713",
+        "2091085450",
+        "2101939036",
+        "2138074470",
+        "2151448199",
+        "2152885346"
+    ]
+}

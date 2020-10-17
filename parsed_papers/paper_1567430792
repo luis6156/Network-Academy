@@ -1,0 +1,47 @@
+{
+    "id": "1567430792",
+    "title": "Improving memory usage in the BEAM",
+    "venue": "practical aspects of declarative languages",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ricardo Lopes",
+            "id": "2250664765",
+            "org": "DCC-FC & LIACC, University of Porto, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Vitor Santos Costa",
+            "id": "2104007874",
+            "org": "COPPE/Sistemas, Universidade Federal do Rio de Janeiro, Brasil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Extended memory",
+        "Computer science",
+        "Interleaved memory",
+        "Physical address",
+        "Memory management",
+        "Distributed shared memory",
+        "Cache-only memory architecture",
+        "Memory map",
+        "Flat memory model",
+        "Programming language"
+    ],
+    "references": [
+        "1510692958",
+        "1554293464",
+        "1563679801",
+        "1583464938",
+        "1584658906",
+        "1588888262",
+        "1827267273",
+        "1974057462",
+        "1990421520",
+        "2040704129",
+        "2053384008",
+        "2063727779",
+        "2116625180",
+        "2155247860",
+        "2162945993"
+    ]
+}

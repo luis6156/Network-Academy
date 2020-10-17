@@ -1,0 +1,39 @@
+{
+    "id": "1483819460",
+    "title": "On the borderline between grammars and programs",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Cornelis H. A. Koster",
+            "id": "2165092847",
+            "org": "University of Nijmegen"
+        },
+        {
+            "name": "Jean Beney",
+            "id": "2081501796",
+            "org": "INSA de Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Compiler Description Language",
+        "Computer science",
+        "Attribute grammar",
+        "Affix",
+        "Recursive descent parser",
+        "Execution model",
+        "Parse tree",
+        "Rule-based machine translation",
+        "Backtracking",
+        "Programming language"
+    ],
+    "references": [
+        "39739796",
+        "1482061521",
+        "1564357598",
+        "1964071625",
+        "2002301065",
+        "2010216013",
+        "2505808102"
+    ]
+}

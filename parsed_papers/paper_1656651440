@@ -1,0 +1,60 @@
+{
+    "id": "1656651440",
+    "title": "Update on SEED: SEED-192/256",
+    "venue": "information security and assurance",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Kitae Jeong",
+            "id": "2128984430",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Korea#TAB#"
+        },
+        {
+            "name": "Joongeun Choi",
+            "id": "2112518938",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Korea#TAB#"
+        },
+        {
+            "name": "Yuseop Lee",
+            "id": "2110408450",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Korea#TAB#"
+        },
+        {
+            "name": "Changhoon Lee",
+            "id": "2462697601",
+            "org": "School of Computer Engineering, Hanshin University, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "Department of Mathematics, University of Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Haeryong Park",
+            "id": "2154039640",
+            "org": "Korea Information Security Agency(KISA), Korea#TAB#"
+        },
+        {
+            "name": "Yeonjung Kang",
+            "id": "2514244392",
+            "org": "Korea Information Security Agency(KISA), Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Block size",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Computer science",
+        "Stream cipher",
+        "Triple DES",
+        "CBC-MAC",
+        "Software performance testing",
+        "3-Way"
+    ],
+    "references": [
+        "1489027369",
+        "1503864966",
+        "1758894081"
+    ]
+}

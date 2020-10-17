@@ -1,0 +1,39 @@
+{
+    "id": "1506484586",
+    "title": "On High-Rate Cryptographic Compression Functions",
+    "venue": "Computing and Informatics \\/ Computers and Artificial Intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Richard Ostertag",
+            "id": "2096645633",
+            "org": "Comenius University in Bratislava"
+        },
+        {
+            "name": "Martin Stanek",
+            "id": "2075690752",
+            "org": "Department of Computer Science|Faculty of Mathematics|Physics and Informatics Comenius University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Collision resistance",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Avalanche effect",
+        "Merkle-Damgard construction",
+        "Hash function",
+        "SWIFFT",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1525090271",
+        "1547537489",
+        "1549228503",
+        "1600432225",
+        "1863270349",
+        "2170677368"
+    ]
+}

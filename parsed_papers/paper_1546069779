@@ -1,0 +1,54 @@
+{
+    "id": "1546069779",
+    "title": "A two-phase approach to predictably scheduling real-time transactions",
+    "venue": "Performance of concurrency control mechanisms in centralized database systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Patrick E. O'Neil",
+            "id": "2136822424",
+            "org": "University of Massachusetts Boston"
+        },
+        {
+            "name": "Krithi Ramamritham",
+            "id": "323797451",
+            "org": "University of Massachusetts Amherst"
+        },
+        {
+            "name": "Calton Pu",
+            "id": "2117427889",
+            "org": "Oregon Health & Science University"
+        }
+    ],
+    "fields_of_study": [
+        "Serializability",
+        "Computer science",
+        "Scheduling (computing)",
+        "Schedule",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1545155892",
+        "1560897826",
+        "1562267958",
+        "1573217167",
+        "1574895192",
+        "1961232073",
+        "1974246460",
+        "1985467476",
+        "1987692705",
+        "1991036250",
+        "2023671193",
+        "2027856270",
+        "2056082601",
+        "2057597682",
+        "2093268638",
+        "2102333161",
+        "2109245623",
+        "2120114814",
+        "2121941088",
+        "2135176904",
+        "2570528483"
+    ]
+}

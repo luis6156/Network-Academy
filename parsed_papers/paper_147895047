@@ -1,0 +1,59 @@
+{
+    "id": "147895047",
+    "title": "Hierarchical cache consistency in a WAN",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Jian Yin",
+            "id": "2798365388",
+            "org": "Department of Computer Sciences, University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Lorenzo Alvisi",
+            "id": "2292936287",
+            "org": "Department of Computer Sciences, University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Michael Dahlin",
+            "id": "2051666199",
+            "org": "Department of Computer Sciences, University of Texas at Austin#TAB#"
+        },
+        {
+            "name": "Calvin Lin",
+            "id": "2188667897",
+            "org": "Department of Computer Sciences, University of Texas at Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Cache",
+        "Computer science",
+        "Server",
+        "Cache coherence",
+        "Workload",
+        "Strong consistency",
+        "Eventual consistency",
+        "Real-time computing",
+        "Consistency model"
+    ],
+    "references": [
+        "1527961683",
+        "1533813939",
+        "1772464603",
+        "1918225299",
+        "1964086315",
+        "1974923925",
+        "2000876023",
+        "2005373714",
+        "2012481411",
+        "2016403536",
+        "2042294443",
+        "2087912304",
+        "2098465352",
+        "2107460938",
+        "2109293745",
+        "2124074197",
+        "2147740195"
+    ]
+}

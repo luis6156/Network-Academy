@@ -1,0 +1,41 @@
+{
+    "id": "1591080938",
+    "title": "An efficient architecture for an improved watershed algorithm and its FPGA implementation",
+    "venue": "field-programmable technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "C. Rambabu",
+            "id": "2638665159",
+            "org": "ECE Dept., Indian Inst. of Technol., Guwahati, India"
+        },
+        {
+            "name": "L. Chakrabarti",
+            "id": "2294702712",
+            "org": "ECE Dept., Indian Inst. of Technol., Guwahati, India"
+        },
+        {
+            "name": "A. Mahanta",
+            "id": "2695350969",
+            "org": "ECE Dept., Indian Inst. of Technol., Guwahati, India"
+        }
+    ],
+    "fields_of_study": [
+        "Watershed",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Image segmentation",
+        "Computational complexity theory",
+        "Parallel processing",
+        "Parallel algorithm",
+        "Pixel",
+        "Architecture"
+    ],
+    "references": [
+        "1652775531",
+        "2046925174",
+        "2124260943"
+    ]
+}

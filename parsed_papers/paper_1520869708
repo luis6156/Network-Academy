@@ -1,0 +1,56 @@
+{
+    "id": "1520869708",
+    "title": "Applying simulated annealing to joint routing, scheduling and variable-width channel allocation for multi-hop WMNs",
+    "venue": "wireless personal multimedia communications",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Chun-Cheng Lin",
+            "id": "2124005394",
+            "org": "Dept. of Ind. Eng. & Manage., Nat. Chiao Tung Univ., Hsinchu, Taiwan"
+        },
+        {
+            "name": "Wan-Yu Liu",
+            "id": "2140031453",
+            "org": "Dept. of Tourism Inf., Aletheia Univ., Taipei, Taiwan"
+        },
+        {
+            "name": "Chun-Hung Chou",
+            "id": "2310373202",
+            "org": "Dept. of Ind. Eng. & Manage., Nat. Chiao Tung Univ., Hsinchu, Taiwan"
+        },
+        {
+            "name": "Der-Jiunn Deng",
+            "id": "2133992618",
+            "org": "Dept. of Comput. Sci. & Inf. Eng., Nat. Changhua Univ. of Educ., Changhua, Taiwan"
+        }
+    ],
+    "fields_of_study": [
+        "Static routing",
+        "Channel allocation schemes",
+        "Computer science",
+        "Distributed computing",
+        "Communication channel",
+        "Dynamic Source Routing",
+        "Job shop scheduling",
+        "Destination-Sequenced Distance Vector routing",
+        "Simulated annealing",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "1662911496",
+        "1983354509",
+        "2006478220",
+        "2016337964",
+        "2098779032",
+        "2101771805",
+        "2125562505",
+        "2141808135",
+        "2147435437",
+        "2157932812",
+        "2406755789",
+        "2435603672"
+    ]
+}

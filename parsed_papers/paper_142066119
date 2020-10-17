@@ -1,0 +1,40 @@
+{
+    "id": "142066119",
+    "title": "Brief paper: Implementation of self-tuning regulators with variable forgetting factors",
+    "venue": "Automatica",
+    "year": 1981,
+    "authors": [
+        {
+            "name": "T.R. Fortescue",
+            "id": "2031594343",
+            "org": "Department of Chemical Engineering and Chemical Technology, Imperial College, London SW7, U.K.#TAB#"
+        },
+        {
+            "name": "L.S. Kershenbaum",
+            "id": "2654124573",
+            "org": "Department of Chemical Engineering and Chemical Technology, Imperial College, London SW7, U.K.#TAB#"
+        },
+        {
+            "name": "B.E. Ydstie",
+            "id": "2309201780",
+            "org": "Department of Chemical Engineering and Chemical Technology, Imperial College, London SW7, U.K.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Forgetting",
+        "Covariance matrix",
+        "Control theory",
+        "Estimator",
+        "Weighting",
+        "Adaptive control",
+        "Stochastic control",
+        "Mathematical optimization",
+        "Adaptability",
+        "Regulator"
+    ],
+    "references": [
+        "1975674505",
+        "2170071902"
+    ]
+}

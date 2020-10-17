@@ -1,0 +1,54 @@
+{
+    "id": "1001614398",
+    "title": "Byte-Precise Verification of Low-Level List Manipulation",
+    "venue": "static analysis symposium",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Kamil Dudka",
+            "id": "2061334967",
+            "org": "Brno University of Technology"
+        },
+        {
+            "name": "Petr Peringer",
+            "id": "2055205941",
+            "org": "Brno University of Technology"
+        },
+        {
+            "name": "Tomas Vojnar",
+            "id": "100721418",
+            "org": "Brno University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Theoretical computer science",
+        "Pointer (computer programming)",
+        "Separation logic",
+        "Computer science",
+        "Symbolic execution",
+        "Shape analysis (digital geometry)",
+        "Heap (data structure)",
+        "Memory model",
+        "Linked list"
+    ],
+    "references": [
+        "134837158",
+        "1508482211",
+        "1515252725",
+        "1530314682",
+        "1533238174",
+        "1556566737",
+        "1581674879",
+        "1686717288",
+        "1887332367",
+        "2065248162",
+        "2080573945",
+        "2097698142",
+        "2111513472",
+        "2152686702",
+        "2160443286",
+        "2170577595",
+        "2194223632"
+    ]
+}

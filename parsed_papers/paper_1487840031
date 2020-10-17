@@ -1,0 +1,32 @@
+{
+    "id": "1487840031",
+    "title": "Using concurrency and formal methods for the design of safe process control",
+    "venue": "Proceedings of the First IFIP TC10 International Workshop on Software Engineering for Parallel and Distributed Systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Thierry Cattel",
+            "id": "1936856671",
+            "org": "Ecole Polytechnique Federale"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Formal specification",
+        "Computer science",
+        "Concurrent computing",
+        "Liveness",
+        "Implementation",
+        "Promela",
+        "Concurrency",
+        "Formal methods",
+        "Real-time computing"
+    ],
+    "references": [
+        "1489800325",
+        "1503973138",
+        "1875492031",
+        "1971107784",
+        "2014100935"
+    ]
+}

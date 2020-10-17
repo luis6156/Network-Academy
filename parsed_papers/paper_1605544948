@@ -1,0 +1,61 @@
+{
+    "id": "1605544948",
+    "title": "An empirical study of file systems on NVM",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Priya Sehgal",
+            "id": "2158862460",
+            "org": "NetApp Inc."
+        },
+        {
+            "name": "Sourav Basu",
+            "id": "2542953120",
+            "org": "NetApp Inc."
+        },
+        {
+            "name": "Kiran Srinivasan",
+            "id": "2127082068",
+            "org": "NetApp Inc."
+        },
+        {
+            "name": "Kaladhar Voruganti",
+            "id": "2574345817",
+            "org": "NetApp Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Unix file types",
+        "Computer science",
+        "Versioning file system",
+        "File Control Block",
+        "File system fragmentation",
+        "Stub file",
+        "Self-certifying File System",
+        "Memory-mapped file",
+        "fstab"
+    ],
+    "references": [
+        "1172733195",
+        "1437323374",
+        "1567210335",
+        "1976201416",
+        "1985229168",
+        "1992755462",
+        "2015194563",
+        "2105271931",
+        "2108183412",
+        "2113637091",
+        "2125941968",
+        "2150662965",
+        "2157808045",
+        "2159479644",
+        "2162121187",
+        "2165832195",
+        "2171724053",
+        "2250017364",
+        "2398664262"
+    ]
+}

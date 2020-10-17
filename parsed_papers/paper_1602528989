@@ -1,0 +1,45 @@
+{
+    "id": "1602528989",
+    "title": "A learning framework for the automatic and accurate segmentation of cardiac tagged MRI images",
+    "venue": "international conference on computer vision",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Zhen Qian",
+            "id": "2093540267",
+            "org": "Center for Computational Biomedicine Imaging and Modeling (CBIM), Rutgers University, New Brunswick, New Jersey#TAB#"
+        },
+        {
+            "name": "Dimitris N. Metaxas",
+            "id": "1991743105",
+            "org": "Center for Computational Biomedicine Imaging and Modeling (CBIM), Rutgers University, New Brunswick, New Jersey#TAB#"
+        },
+        {
+            "name": "Leon Axel",
+            "id": "2032861547",
+            "org": "Department of Radiology, New York University, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active appearance model",
+        "Segmentation",
+        "AdaBoost",
+        "Computer vision",
+        "Active shape model",
+        "Pattern recognition",
+        "Computer science",
+        "Heart shape",
+        "Landmark point",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "185143084",
+        "1526510772",
+        "1574406404",
+        "1975846642",
+        "1988790447",
+        "2038952578",
+        "2106494881",
+        "2153810084"
+    ]
+}

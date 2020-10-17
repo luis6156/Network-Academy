@@ -1,0 +1,55 @@
+{
+    "id": "1581255480",
+    "title": "Determining the integrity of application binaries on unsecure legacy machines using software based remote attestation",
+    "venue": "international conference on information systems security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Raghunathan Srinivasan",
+            "id": "2113946642",
+            "org": "Arizona State University, Tempe, AZ#TAB#"
+        },
+        {
+            "name": "Partha Dasgupta",
+            "id": "2475704237",
+            "org": "Arizona State University, Tempe, AZ#TAB#"
+        },
+        {
+            "name": "Tushar Gohad",
+            "id": "1968558357",
+            "org": "MontaVista Software, LLC#TAB#"
+        },
+        {
+            "name": "Amiya Bhattacharya",
+            "id": "2308601195",
+            "org": "Arizona State University, Tempe, AZ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Software",
+        "Vulnerability",
+        "Code injection",
+        "Computer science",
+        "Computer security",
+        "Exploit",
+        "Direct Anonymous Attestation"
+    ],
+    "references": [
+        "124732759",
+        "161166442",
+        "1504669610",
+        "1522824317",
+        "1721898868",
+        "1993619753",
+        "2066459581",
+        "2086277109",
+        "2099393670",
+        "2099613071",
+        "2104948281",
+        "2146878883",
+        "2154816175",
+        "2164490659",
+        "2166004296"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1647337934",
+    "title": "Arbitrary packet matching in OpenFlow",
+    "venue": "high performance switching and routing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Simon Jouet",
+            "id": "1346370490",
+            "org": "School of Computing Science, University of Glasgow, Glasgow, G12 8QQ, Scotland"
+        },
+        {
+            "name": "Richard Cziva",
+            "id": "336834044",
+            "org": "School of Computing Science, University of Glasgow, Glasgow, G12 8QQ, Scotland"
+        },
+        {
+            "name": "Dimitrios P. Pezaros",
+            "id": "1816243706",
+            "org": "School of Computing Science, University of Glasgow, Glasgow, G12 8QQ, Scotland"
+        }
+    ],
+    "fields_of_study": [
+        "Header",
+        "Computer science",
+        "Packet switch",
+        "Network packet",
+        "Matched filter",
+        "Computer network",
+        "Real-time computing",
+        "OpenFlow"
+    ],
+    "references": [
+        "128137723",
+        "1674877186",
+        "1994926493",
+        "2017058405",
+        "2042810301",
+        "2068374906",
+        "2126474762",
+        "2138381338",
+        "2139870147",
+        "2147118406",
+        "2169897409"
+    ]
+}

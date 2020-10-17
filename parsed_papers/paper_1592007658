@@ -1,0 +1,72 @@
+{
+    "id": "1592007658",
+    "title": "Fine-grained replication and scheduling with freshness and correctness guarantees",
+    "venue": "very large data bases",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Fuat Akal",
+            "id": "2065620912",
+            "org": "Institute of Information Systems, Switzerland#TAB#"
+        },
+        {
+            "name": "Can Turker",
+            "id": "2150186345",
+            "org": "Institute of Information Systems, Switzerland#TAB#"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "Institute of Information Systems, Switzerland#TAB#"
+        },
+        {
+            "name": "Yuri Breitbart",
+            "id": "1985207418",
+            "org": "Kent State University, Kent, OH#TAB#"
+        },
+        {
+            "name": "Torsten Grabs",
+            "id": "2570517193",
+            "org": "Microsoft Corp., Redmond, WA#TAB#"
+        },
+        {
+            "name": "Lourens Veen",
+            "id": "2662923667",
+            "org": "University of Twente, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Online transaction processing",
+        "Data striping",
+        "Transaction processing system",
+        "Computer science",
+        "Distributed computing",
+        "Transaction processing",
+        "Distributed transaction",
+        "Database",
+        "Correctness",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1496148388",
+        "1528913407",
+        "1545155892",
+        "1549404527",
+        "1555114514",
+        "1566434081",
+        "1648820737",
+        "1935402982",
+        "1973115038",
+        "2038174669",
+        "2056361805",
+        "2080653282",
+        "2081628764",
+        "2098534118",
+        "2102637936",
+        "2111586962",
+        "2156320870",
+        "2170907411"
+    ]
+}

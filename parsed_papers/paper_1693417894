@@ -1,0 +1,53 @@
+{
+    "id": "1693417894",
+    "title": "Registration of cardiac SPECT/CT data through weighted intensity co-occurrence priors",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Christoph Guetter",
+            "id": "1676714160",
+            "org": "Imaging & Visualization Department, Siemens Corporate Research, Princeton and Institute of Computer Science, Universitat Erlangen-Nurnberg, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Matthias Wacker",
+            "id": "2580056066",
+            "org": "Imaging & Visualization Department, Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Chenyang Xu",
+            "id": "2165724187",
+            "org": "Imaging & Visualization Department, Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Joachim Hornegger",
+            "id": "51092151",
+            "org": "Institute of Computer Science, Universitat Erlangen-Nurnberg, Erlangen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Correction for attenuation",
+        "Image registration",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Co-occurrence",
+        "Prior probability",
+        "Weighting",
+        "Robustness (computer science)",
+        "Mutual information",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "119719282",
+        "1508195517",
+        "1579543581",
+        "1771964763",
+        "1777631236",
+        "2004537679",
+        "2034432063",
+        "2117299262",
+        "2145440955",
+        "2156857397"
+    ]
+}

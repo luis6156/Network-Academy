@@ -1,0 +1,72 @@
+{
+    "id": "1566072248",
+    "title": "X-Gen: a random test-case generator for systems and SoCs",
+    "venue": "high level design validation and test",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Roy Emek",
+            "id": "350558312",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Itai Jaeger",
+            "id": "2072589008",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Yehuda Naveh",
+            "id": "2038724923",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Gadi Bergman",
+            "id": "2396465511",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Guy Aloni",
+            "id": "2405349404",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Yoav Katz",
+            "id": "2155515741",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Monica Farkash",
+            "id": "1914886057",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Igor Dozoretz",
+            "id": "2400029165",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        },
+        {
+            "name": "Alex Goldin",
+            "id": "2303455129",
+            "org": "Res. Lab., IBM Corp., Haifa, Israel"
+        }
+    ],
+    "fields_of_study": [
+        "Model-based testing",
+        "Test case",
+        "Formal verification",
+        "Computer architecture",
+        "Systems modeling",
+        "Computer science",
+        "Random testing",
+        "System model",
+        "System on a chip",
+        "Real-time computing",
+        "Automatic test pattern generation"
+    ],
+    "references": [
+        "1502559739",
+        "2042835116",
+        "2102606870",
+        "2135432705"
+    ]
+}

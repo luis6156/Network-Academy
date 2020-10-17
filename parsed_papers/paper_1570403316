@@ -1,0 +1,51 @@
+{
+    "id": "1570403316",
+    "title": "Differential and invertibility properties of BLAKE",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "Nagravision SA, Cheseaux, Switzerland#TAB#"
+        },
+        {
+            "name": "Jian Guo",
+            "id": "2151853455",
+            "org": "Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Simon Knellwolf",
+            "id": "152425193",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Krystian Matusiewicz",
+            "id": "1980694267",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Cryptanalysis",
+        "NIST",
+        "Discrete mathematics",
+        "SHA-3",
+        "Hash function",
+        "BLAKE",
+        "Permutation"
+    ],
+    "references": [
+        "18798069",
+        "91031763",
+        "1541853791",
+        "1794421227",
+        "2161380717",
+        "2399749264"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1586956242",
+    "title": "Scalable Replication in Database Clusters",
+    "venue": "international symposium on distributed computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Marta Patino-Martinez",
+            "id": "1877654561",
+            "org": "Technical University of Madrid"
+        },
+        {
+            "name": "Ricardo Jimenez-Peris",
+            "id": "1783833040",
+            "org": "Technical University of Madrid"
+        },
+        {
+            "name": "Bettina Kemme",
+            "id": "2080547065",
+            "org": "Swiss Federal Institute of Technology"
+        },
+        {
+            "name": "Gustavo Alonso",
+            "id": "2122271048",
+            "org": "Swiss Federal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Multicast",
+        "Distributed database",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Concurrency control",
+        "Database",
+        "Real-time computing",
+        "Fault tolerance",
+        "Database transaction"
+    ],
+    "references": [
+        "1515932031",
+        "1545155892",
+        "1549404527",
+        "1801241948",
+        "1988311692",
+        "2111586962",
+        "2125936380",
+        "2168104306"
+    ]
+}

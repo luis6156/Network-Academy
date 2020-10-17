@@ -1,0 +1,93 @@
+{
+    "id": "1567805896",
+    "title": "Survey and benchmark of lightweight block ciphers for MSP430 16-bit microcontroller",
+    "venue": "Security and Communication Networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Mickael Cazorla",
+            "id": "2751650532",
+            "org": "Universite de Lyon, INRIA, INSA-Lyon, CITI-INRIA, F-69621, Villeurbanne, France#TAB#"
+        },
+        {
+            "name": "Sylvain Gourgeon",
+            "id": "2484314970",
+            "org": "Universite de Lyon, INRIA, INSA-Lyon, CITI-INRIA, F-69621, Villeurbanne, France#TAB#"
+        },
+        {
+            "name": "Kevin Marquet",
+            "id": "2043129451",
+            "org": "Universite de Lyon, INRIA, INSA-Lyon, CITI-INRIA, F-69621, Villeurbanne, France#TAB#"
+        },
+        {
+            "name": "Marine Minier",
+            "id": "2170245978",
+            "org": "Universite de Lyon, INRIA, INSA-Lyon, CITI-INRIA, F-69621, Villeurbanne, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Microcontroller",
+        "Computer science",
+        "Computer security",
+        "Wireless sensor network",
+        "16-bit",
+        "Embedded system"
+    ],
+    "references": [
+        "26293717",
+        "45372631",
+        "79095404",
+        "81438604",
+        "94952783",
+        "96390377",
+        "108067859",
+        "134901055",
+        "149885373",
+        "166757854",
+        "167056571",
+        "194052690",
+        "232563436",
+        "1464234995",
+        "1489027369",
+        "1511378164",
+        "1511842436",
+        "1512747619",
+        "1515595447",
+        "1516699468",
+        "1522919234",
+        "1525110300",
+        "1540642654",
+        "1541703086",
+        "1569217791",
+        "1572847050",
+        "1575062508",
+        "1584644929",
+        "1588259322",
+        "1596841000",
+        "1598147411",
+        "1599175145",
+        "1605116544",
+        "1605786664",
+        "1607874478",
+        "1692612036",
+        "1704209912",
+        "1734967783",
+        "1746727744",
+        "1894646615",
+        "1897454360",
+        "1928040504",
+        "1966729413",
+        "1982694570",
+        "2039898938",
+        "2040121304",
+        "2062997882",
+        "2075567233",
+        "2096485488",
+        "2130087229",
+        "2138846103",
+        "2141124495",
+        "2158307590",
+        "2247832471"
+    ]
+}

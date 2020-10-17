@@ -1,0 +1,48 @@
+{
+    "id": "1498284428",
+    "title": "Handover support for TCP connections through path prediction",
+    "venue": "international conference on communications",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Stamatis Papayiannis",
+            "id": "2093843429",
+            "org": "Commun. Networks Lab., Athens Univ., Greece"
+        },
+        {
+            "name": "Stathes Hadjiefthymiades",
+            "id": "2057939938",
+            "org": "Commun. Networks Lab., Athens Univ., Greece"
+        },
+        {
+            "name": "Lazaros F. Merakos",
+            "id": "229456565",
+            "org": "Commun. Networks Lab., Athens Univ., Greece"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "H-TCP",
+        "TCP tuning",
+        "TCP hole punching",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1481328987",
+        "1538558539",
+        "2008793926",
+        "2048373329",
+        "2111173609",
+        "2114140676",
+        "2122365606",
+        "2138509384",
+        "2154818210",
+        "2171850750"
+    ]
+}

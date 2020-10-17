@@ -1,0 +1,42 @@
+{
+    "id": "1576929993",
+    "title": "On the correspondence between AVL trees and brother trees",
+    "venue": "Computing",
+    "year": 1979,
+    "authors": [
+        {
+            "name": "Thomas Ottmann",
+            "id": "2041442269",
+            "org": "Institut fur Angewandte Informatik und Formale Beschreibungsverfahren, Universitat Karlsruhe, Karlsruhe, Federal Republic of Germany"
+        },
+        {
+            "name": "Hans-Werner Six",
+            "id": "2569606095",
+            "org": "Institut fur Angewandte Informatik und Formale Beschreibungsverfahren, Universitat Karlsruhe, Karlsruhe, Federal Republic of Germany"
+        },
+        {
+            "name": "Derick Wood",
+            "id": "2131248156",
+            "org": "Unit for Computer Science, McMaster University, Hamilton, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Weight-balanced tree",
+        "Scapegoat tree",
+        "Geometry of binary search trees",
+        "Binary search tree",
+        "Discrete mathematics",
+        "Brother",
+        "Ternary search tree",
+        "AVL tree",
+        "Search tree"
+    ],
+    "references": [
+        "164172514",
+        "2027252009",
+        "2042453654",
+        "2049539667",
+        "2101526436"
+    ]
+}

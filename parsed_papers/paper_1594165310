@@ -1,0 +1,49 @@
+{
+    "id": "1594165310",
+    "title": "A Distributed Computing Environment for Genetic Programming Using MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Francisco Fernandez de Vega",
+            "id": "2241594911",
+            "org": "Universidad de Extremadura Dpto. Arquitectura y Tecnologia de Computadores Caceres Spain"
+        },
+        {
+            "name": "Marco Tomassini",
+            "id": "1888566757",
+            "org": "University of Lausanne Computer Science Institute 1015 Lausanne Switzerland"
+        },
+        {
+            "name": "Leonardo Vanneschi",
+            "id": "191220263",
+            "org": "Computer Science Institute|University of Lausanne"
+        },
+        {
+            "name": "Laurent Bucher",
+            "id": "2284272671",
+            "org": "University of Lausanne Computer Science Institute 1015 Lausanne Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed design patterns",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Genetic representation",
+        "Distributed Computing Environment",
+        "Message passing",
+        "Genetic programming",
+        "Genetic algorithm",
+        "Distributed algorithm"
+    ],
+    "references": [
+        "1496327969",
+        "1520211241",
+        "1871475835",
+        "1969215126",
+        "2045237558",
+        "2147566188"
+    ]
+}

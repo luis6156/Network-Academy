@@ -1,0 +1,52 @@
+{
+    "id": "1529853530",
+    "title": "Enabling Data Structure Oriented Performance Analysis with Hardware Performance Counter Support",
+    "venue": "european conference on parallel processing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Karl Furlinger",
+            "id": "2894228847",
+            "org": "Computer Science Division, EECS Department, University of California at Berkeley, and Innovative Computing Laboratory, Department of Electrical Engineering and Computer Science, University of Tenn ...#TAB#"
+        },
+        {
+            "name": "Daniel Terpstra",
+            "id": "2082123760",
+            "org": "Innovative Computing Laboratory, Department of Electrical Engineering and Computer Science, University of Tennessee,#TAB#"
+        },
+        {
+            "name": "Haihang You",
+            "id": "2170618130",
+            "org": "Innovative Computing Laboratory, Department of Electrical Engineering and Computer Science, University of Tennessee,#TAB#"
+        },
+        {
+            "name": "Philip Mucci",
+            "id": "1971217603",
+            "org": "Innovative Computing Laboratory, Department of Electrical Engineering and Computer Science, University of Tennessee,#TAB#"
+        },
+        {
+            "name": "Shirley Moore",
+            "id": "2158446791",
+            "org": "Innovative Computing Laboratory, Department of Electrical Engineering and Computer Science, University of Tennessee,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Profiling (computer programming)",
+        "Critical section",
+        "Itanium",
+        "Parallel computing",
+        "Computer science",
+        "Performance metric",
+        "Virtual address space",
+        "Data structure",
+        "Hardware performance counter"
+    ],
+    "references": [
+        "1500325112",
+        "1518998864",
+        "1538073575",
+        "1965351873",
+        "2125951326",
+        "2144433126"
+    ]
+}

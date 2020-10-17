@@ -1,0 +1,53 @@
+{
+    "id": "1721673008",
+    "title": "Formal security analysis of PKCS#11 and proprietary extensions",
+    "venue": "workshop on information technologies and systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Stephanie Delaune",
+            "id": "2778164743",
+            "org": "Ecole normale superieure Paris-Saclay"
+        },
+        {
+            "name": "Steve Kremer",
+            "id": "2112142368",
+            "org": "ENS Cachan & CNRS & INRIA"
+        },
+        {
+            "name": "Graham Steel",
+            "id": "2462626393",
+            "org": "(Correspd. Tel.: +33 1 47 40 77 80; Fax: +33 1 47 40 75 21; E-mail: graham.Steel@lsv.ens-cachan.fr) LSV, ENS Cachan & CNRS & INRIA, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Compromise",
+        "Theoretical computer science",
+        "PKCS #11",
+        "Computer science",
+        "PKCS",
+        "Security analysis",
+        "Model checking",
+        "Decidability",
+        "PKCS #1"
+    ],
+    "references": [
+        "176419977",
+        "203757321",
+        "1489516665",
+        "1496867651",
+        "1514302123",
+        "1800123991",
+        "2022203768",
+        "2029693536",
+        "2066210260",
+        "2071174211",
+        "2109266092",
+        "2114497629",
+        "2139017685",
+        "2144319444",
+        "2461326511",
+        "2761424060"
+    ]
+}

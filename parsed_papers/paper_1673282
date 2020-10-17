@@ -1,0 +1,57 @@
+{
+    "id": "1673282",
+    "title": "Hardening Access Control and Data Protection in GFS-like File Systems",
+    "venue": "european symposium on research in computer security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "James Kelley",
+            "id": "2577792503",
+            "org": "Brown University"
+        },
+        {
+            "name": "Roberto Tamassia",
+            "id": "237969062",
+            "org": "Brown University"
+        },
+        {
+            "name": "Nikos Triandopoulos",
+            "id": "75077956",
+            "org": "RSA Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Access control",
+        "Batch processing",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Threat model",
+        "Enforcement",
+        "Message authentication code",
+        "Hardening (computing)",
+        "File system",
+        "Database server"
+    ],
+    "references": [
+        "192814132",
+        "1493566099",
+        "1518716055",
+        "1601209744",
+        "1604624799",
+        "1604658764",
+        "1979664098",
+        "1985419898",
+        "2010279913",
+        "2027703952",
+        "2035543557",
+        "2067538969",
+        "2104112849",
+        "2105737434",
+        "2119028650",
+        "2119565742",
+        "2127809567",
+        "2131645490",
+        "2154464007"
+    ]
+}

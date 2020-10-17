@@ -1,0 +1,35 @@
+{
+    "id": "1609071639",
+    "title": "On the Impact of Scale-Free Structure on End-to-End TCP Performance",
+    "venue": "computer software and applications conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yusuke Sakumoto",
+            "id": "2045477674",
+            "org": "Grad. Sch. of Syst. Design, Tokyo Metropolitan Univ., Hino, Japan"
+        },
+        {
+            "name": "Hiroyuki Ohsaki",
+            "id": "2154467800",
+            "org": "Sch. of Sci. & Technol., Kwansei Gakuin Univ., Sanda, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Computer science",
+        "CUBIC TCP",
+        "Computer network",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP pacing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1658801698",
+        "2107132451"
+    ]
+}

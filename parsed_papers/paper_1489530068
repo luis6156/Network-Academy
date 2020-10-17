@@ -1,0 +1,63 @@
+{
+    "id": "1489530068",
+    "title": "Really fast syndrome-based hashing",
+    "venue": "international conference on progress in cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Daniel J. Bernstein",
+            "id": "2572778377",
+            "org": "Department of Computer Science, University of Illinois at Chicago, Chicago, IL#TAB#"
+        },
+        {
+            "name": "Tanja Lange",
+            "id": "2159450135",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, Netherlands#TAB#"
+        },
+        {
+            "name": "Cp Christiane Peters",
+            "id": "2232249201",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, Netherlands#TAB#"
+        },
+        {
+            "name": "Peter Schwabe",
+            "id": "2306640565",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Order of magnitude",
+        "Byte",
+        "Theoretical computer science",
+        "Linearization",
+        "Computer science",
+        "Single-core",
+        "Hash function",
+        "Collision resistance"
+    ],
+    "references": [
+        "275246813",
+        "1246518117",
+        "1495653136",
+        "1509894284",
+        "1510132879",
+        "1515225084",
+        "1523982624",
+        "1536493828",
+        "1536929968",
+        "1548701190",
+        "1549228503",
+        "1563037599",
+        "1593401740",
+        "1601321736",
+        "1607206152",
+        "1790308572",
+        "1814391573",
+        "2004781696",
+        "2093465763",
+        "2100595531",
+        "2103289002",
+        "2109365902",
+        "2165495918"
+    ]
+}

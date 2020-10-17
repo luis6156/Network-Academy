@@ -1,0 +1,45 @@
+{
+    "id": "1537672735",
+    "title": "Compiler Construction Using LOTOS NT",
+    "venue": "compiler construction",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hubert Garavel",
+            "id": "207950334",
+            "org": "Inria Rhone-Alpes -- Vasy"
+        },
+        {
+            "name": "Frederic Lang",
+            "id": "2203834746",
+            "org": "Inria Rhone-Alpes -- Vasy"
+        },
+        {
+            "name": "Radu Mateescu",
+            "id": "2159052863",
+            "org": "Inria Rhone-Alpes -- Vasy"
+        }
+    ],
+    "fields_of_study": [
+        "Interprocedural optimization",
+        "Computer science",
+        "Functional compiler",
+        "Compiler",
+        "Attribute grammar",
+        "Bootstrapping (compilers)",
+        "Compiler construction",
+        "Compiler correctness",
+        "Optimizing compiler",
+        "Programming language"
+    ],
+    "references": [
+        "1587066064",
+        "1624945350",
+        "1711877719",
+        "1801888031",
+        "1981497408",
+        "2005915144",
+        "2026591657",
+        "2127340092"
+    ]
+}

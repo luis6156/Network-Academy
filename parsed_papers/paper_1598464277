@@ -1,0 +1,50 @@
+{
+    "id": "1598464277",
+    "title": "A scalable asynchronous replication-based strategy for fault tolerant MPI applications",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "John Paul Walters",
+            "id": "2806221551",
+            "org": "Department of Computer Science and Engineering, University at Buffalo, The State University of New York, Buffalo, NY#TAB#"
+        },
+        {
+            "name": "Vipin Chaudhary",
+            "id": "2218130385",
+            "org": "Department of Computer Science and Engineering, University at Buffalo, The State University of New York, Buffalo, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Mean time between failures",
+        "Computation",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "File system",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1493735863",
+        "1579775238",
+        "1969215126",
+        "1993383198",
+        "2007219304",
+        "2045879521",
+        "2069891156",
+        "2077452259",
+        "2095487435",
+        "2100970777",
+        "2103849716",
+        "2106753104",
+        "2108208207",
+        "2118697699",
+        "2118706534",
+        "2155204206",
+        "2161551433",
+        "2169631286",
+        "2623488153"
+    ]
+}

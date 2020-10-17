@@ -1,0 +1,63 @@
+{
+    "id": "1568597833",
+    "title": "VRM: a failure-aware grid resource management system",
+    "venue": "symposium on computer architecture and high performance computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Lars-Olof Burchard",
+            "id": "2083945632",
+            "org": "Technische Univ., Berlin, Germany"
+        },
+        {
+            "name": "C.A.F. De Rose",
+            "id": "2009160732",
+            "org": "PUCRS, Porto Alegre, BRASIL#TAB#"
+        },
+        {
+            "name": "Hans-Ulrich Heiss",
+            "id": "2312620635",
+            "org": "Technische Universitaet Berlin, GERMANY#TAB#"
+        },
+        {
+            "name": "Barry Linnert",
+            "id": "21986783",
+            "org": "Technische Universitaet Berlin, GERMANY#TAB#"
+        },
+        {
+            "name": "Joerg Schneider",
+            "id": "2424525937",
+            "org": "Technische Universitaet Berlin, GERMANY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "DRMAA",
+        "Parallel computing",
+        "Resource management",
+        "Resource allocation",
+        "Downtime",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic loading",
+        "Grid",
+        "Resource Management System",
+        "Real-time computing",
+        "Grid computing"
+    ],
+    "references": [
+        "1489690669",
+        "1489899996",
+        "1497299081",
+        "1531725738",
+        "1586012628",
+        "1854029202",
+        "1859598804",
+        "2011039300",
+        "2065105974",
+        "2069515890",
+        "2123837970",
+        "2134654387",
+        "2166308375",
+        "2169323600"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1777663031",
+    "title": "Dynacache: dynamic cloud caching",
+    "venue": "ieee international conference on cloud computing technology and science",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Asaf Cidon",
+            "id": "1801341501",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Assaf Eisenman",
+            "id": "2281365895",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Mohammad Alizadeh",
+            "id": "2309837544",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Sachin Katti",
+            "id": "2130290287",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Throughput",
+        "Parallel computing",
+        "Resource allocation",
+        "Cache coloring",
+        "Hit rate",
+        "Distributed computing",
+        "Computer science",
+        "Latency (engineering)",
+        "Server",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "1588407470",
+        "1785664926",
+        "2024717934",
+        "2040342412",
+        "2041093720",
+        "2125901106",
+        "2135916267",
+        "2138716216",
+        "2155131419",
+        "2155816525",
+        "2164705534",
+        "2200715182"
+    ]
+}

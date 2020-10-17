@@ -1,0 +1,63 @@
+{
+    "id": "1525440867",
+    "title": "A Deformable Vessel Model with Single Point Initialization for Segmentation, Quantification and Visualization of Blood Vessels in 3D MRA",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Marcela Hernandez-Hoyos",
+            "id": "1902418883",
+            "org": "CNRS Research Unit (UMR 5515) affiliated to INSERM, Lyon, France CREATIS, INSA 502"
+        },
+        {
+            "name": "Alfred Anwander",
+            "id": "2297774549",
+            "org": "CNRS Research Unit (UMR 5515) affiliated to INSERM, Lyon, France CREATIS, INSA 502"
+        },
+        {
+            "name": "Maciej Orkisz",
+            "id": "2026290035",
+            "org": "CNRS Research Unit (UMR 5515) affiliated to INSERM, Lyon, France CREATIS, INSA 502"
+        },
+        {
+            "name": "Jean-Pierre Roux",
+            "id": "2888490167",
+            "org": "CNRS Research Unit (UMR 5515) affiliated to INSERM, Lyon, France CREATIS, INSA 502"
+        },
+        {
+            "name": "Philippe Douek",
+            "id": "2185548381",
+            "org": "CNRS Research Unit (UMR 5515) affiliated to INSERM, Lyon, France CREATIS, INSA 502"
+        },
+        {
+            "name": "Isabelle E. Magnin",
+            "id": "2343291006",
+            "org": "CNRS Research Unit (UMR 5515) affiliated to INSERM, Lyon, France CREATIS, INSA 502"
+        }
+    ],
+    "fields_of_study": [
+        "Magnetic resonance angiography",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Imaging phantom",
+        "Real image",
+        "Active contour model",
+        "Image segmentation",
+        "Initialization",
+        "Stenosis",
+        "Skeleton (computer programming)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526189567",
+        "1555173571",
+        "1870947790",
+        "1962314142",
+        "2086921140",
+        "2101632303",
+        "2112021479",
+        "2134547117",
+        "2142777766"
+    ]
+}

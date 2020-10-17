@@ -1,0 +1,45 @@
+{
+    "id": "1534573227",
+    "title": "Approximate similarity search over multiple stream time series",
+    "venue": "database systems for advanced applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Xiang Lian",
+            "id": "2081778406",
+            "org": "Hong Kong University of Science and Technology Kowloon, Hong Kong,China#TAB#"
+        },
+        {
+            "name": "Lei Chen",
+            "id": "2318776917",
+            "org": "Hong Kong University of Science and Technology Kowloon, Hong Kong,China#TAB#"
+        },
+        {
+            "name": "Bin Wang",
+            "id": "2643561327",
+            "org": "Northeastern University, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Hash table",
+        "K-independent hashing",
+        "Theoretical computer science",
+        "2-choice hashing",
+        "Computer science",
+        "Data mining",
+        "Locality-sensitive hashing",
+        "Database",
+        "Hash function",
+        "Stream processing",
+        "Dynamic perfect hashing"
+    ],
+    "references": [
+        "1502916507",
+        "1972833205",
+        "2118371392",
+        "2144261930",
+        "2147717514",
+        "2148034761"
+    ]
+}

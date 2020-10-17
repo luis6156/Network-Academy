@@ -1,0 +1,37 @@
+{
+    "id": "1712912884",
+    "title": "Evaluation Criteria for True (Physical) Random Number Generators Used in Cryptographic Applications",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Werner Schindler",
+            "id": "2141506873",
+            "org": "Bundesamt fur Sicherheit in der Informationstechnik (BSI)"
+        },
+        {
+            "name": "Wolfgang Killmann",
+            "id": "2138051238",
+            "org": "T-Systems ISS GmbH"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Random number generation"
+    ],
+    "references": [
+        "206222754",
+        "1526782446",
+        "1529494323",
+        "1543776256",
+        "1545698176",
+        "1564219727",
+        "1577120563",
+        "2025905409",
+        "2164284862",
+        "2601560571"
+    ]
+}

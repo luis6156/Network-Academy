@@ -1,0 +1,53 @@
+{
+    "id": "1567573409",
+    "title": "Comparing Elliptic Curve Cryptography and RSA on 8-bit CPUs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Nils Gura",
+            "id": "2892973503",
+            "org": "Sun Microsystems Laboratories"
+        },
+        {
+            "name": "Arun Patel",
+            "id": "2286194556",
+            "org": "Sun Microsystems Laboratories"
+        },
+        {
+            "name": "Arvinderpal Wander",
+            "id": "2240743741",
+            "org": "Sun Microsystems Laboratories"
+        },
+        {
+            "name": "Hans Eberle",
+            "id": "2893738150",
+            "org": "Sun Microsystems Laboratories"
+        },
+        {
+            "name": "Sheueling Chang Shantz",
+            "id": "217088312",
+            "org": "Sun Microsystems Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Public-key cryptography",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Hardware acceleration",
+        "Elliptic curve",
+        "Multiplication",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1539482743",
+        "1546781418",
+        "1584722274",
+        "1869939343",
+        "2174877860"
+    ]
+}

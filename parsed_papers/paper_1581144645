@@ -1,0 +1,51 @@
+{
+    "id": "1581144645",
+    "title": "A scalable and highly available web server",
+    "venue": "COMPCON '96. Technologies for the Information Superhighway Digest of Papers",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Daniel M. Dias",
+            "id": "2152742674",
+            "org": "IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA"
+        },
+        {
+            "name": "William A. Kish",
+            "id": "2209769703",
+            "org": "IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA"
+        },
+        {
+            "name": "Rajat Mukherjee",
+            "id": "2160550472",
+            "org": "IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA"
+        },
+        {
+            "name": "Renu Tewari",
+            "id": "2121691537",
+            "org": "IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Application server",
+        "Data striping",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Domain Name System",
+        "Web server",
+        "Round-robin DNS",
+        "Computer network",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1675263286",
+        "1905571455",
+        "1941711530",
+        "2005373714",
+        "2037842078",
+        "2049666548",
+        "2111427271",
+        "2211724731"
+    ]
+}

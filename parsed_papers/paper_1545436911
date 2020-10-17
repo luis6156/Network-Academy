@@ -1,0 +1,58 @@
+{
+    "id": "1545436911",
+    "title": "Abstraction of Clocks in Synchronous Data-Flow Systems",
+    "venue": "asian symposium on programming languages and systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Albert Cohen",
+            "id": "2187997294",
+            "org": "INRIA Saclay - Ile-de-France, Orsay, France#TAB#"
+        },
+        {
+            "name": "Louis Mandel",
+            "id": "2027215001",
+            "org": "LRI, Univ. Paris-Sud 11, Orsay, France and INRIA Saclay,#TAB#"
+        },
+        {
+            "name": "Florence Plateau",
+            "id": "2101874667",
+            "org": "LRI, Univ. Paris-Sud 11, Orsay, France and INRIA Saclay,#TAB#"
+        },
+        {
+            "name": "Marc Pouzet",
+            "id": "1487162167",
+            "org": "LRI, Univ. Paris-Sud 11, Orsay, France and INRIA Saclay, and Institut Universitaire de France,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Clock synchronization",
+        "Synchronous circuit",
+        "Computer science",
+        "Kahn process networks",
+        "Clock skew",
+        "Distributed computing",
+        "Jitter",
+        "Synchronous Data Flow",
+        "Subtyping",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "194764642",
+        "1548666647",
+        "1580368786",
+        "1985129697",
+        "2001748564",
+        "2009655251",
+        "2035115145",
+        "2055295051",
+        "2115803389",
+        "2122229220",
+        "2127335869",
+        "2128477287",
+        "2149377475",
+        "2166822586"
+    ]
+}

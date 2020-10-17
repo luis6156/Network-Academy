@@ -1,0 +1,43 @@
+{
+    "id": "1527796461",
+    "title": "An Implementation of Constructive Synchronous Programs in POLIS",
+    "venue": "formal methods",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gerard Berry",
+            "id": "2431982862",
+            "org": "Ecole des Mines de Paris and INRIA BP 93, 06902 Sophia-Antipolis Cedex, France. berry@sophia.inria.fr#TAB#"
+        },
+        {
+            "name": "Ellen M. Sentovich",
+            "id": "48184790",
+            "org": "Cadence Berkeley Laboratories, 2001 Addison Street, 3 floor, Berkeley, CA 94704-1103, USA. ellens@cadence.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Esterel",
+        "Theoretical computer science",
+        "Synchronous circuit",
+        "Input/output",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Synchronizer",
+        "Proactor pattern",
+        "Real-time computing",
+        "Finite-state machine",
+        "Model of computation"
+    ],
+    "references": [
+        "1586502670",
+        "1597755753",
+        "1875492031",
+        "2073200103",
+        "2081938726",
+        "2099529102",
+        "2110425399",
+        "2114781590",
+        "2151739026"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1717740113",
+    "title": "A GPU-Based Implementation for Range Queries on Spaghettis Data Structure",
+    "venue": "international conference on computational science and its applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Roberto Uribe-Paredes",
+            "id": "324017442",
+            "org": "Computer Engineering Department, University of Magallanes, Punta Arenas, Chile and Database Group-UART, National University of Patagonia Austral, Santa Cruz, Argentina#TAB#"
+        },
+        {
+            "name": "Pedro Valero-Lara",
+            "id": "2761518571",
+            "org": "Albacete Research Institute of Informatics, University of Castilla-La Mancha, Albacete, Espana#TAB#"
+        },
+        {
+            "name": "Enrique Arias",
+            "id": "2116823391",
+            "org": "Computing Systems Dept, University of Castilla-La Mancha, Albacete, Espana#TAB#"
+        },
+        {
+            "name": "Jose L. Sanchez",
+            "id": "2108789053",
+            "org": "Computing Systems Dept, University of Castilla-La Mancha, Albacete, Espana#TAB#"
+        },
+        {
+            "name": "Diego Cazorla",
+            "id": "2131104971",
+            "org": "Computing Systems Dept, University of Castilla-La Mancha, Albacete, Espana#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Theoretical computer science",
+        "Range query (data structures)",
+        "Computer science",
+        "Parallel processing",
+        "Metric space",
+        "CUDA",
+        "Data structure",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1501928265",
+        "1510543252",
+        "1554174647",
+        "1607069416",
+        "2038044292",
+        "2049644877",
+        "2051930008",
+        "2063907387",
+        "2091967195",
+        "2098912494",
+        "2110728032",
+        "2110764701",
+        "2112858958",
+        "2118558147",
+        "2123668044",
+        "2124592110",
+        "2128550681",
+        "2129430460",
+        "2157092487"
+    ]
+}

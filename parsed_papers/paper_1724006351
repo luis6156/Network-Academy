@@ -1,0 +1,41 @@
+{
+    "id": "1724006351",
+    "title": "From Differential Cryptoanalysis to Ciphertext-Only Attacks",
+    "venue": "international cryptology conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Eyal Kushilevitz",
+            "id": "307687659",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Malleability",
+        "Computer science",
+        "Differential cryptanalysis",
+        "Madryga",
+        "Ciphertext",
+        "Differential-linear attack",
+        "Plaintext"
+    ],
+    "references": [
+        "1500356409",
+        "1553595359",
+        "1556727271",
+        "1576495995",
+        "1971428680",
+        "1979802565",
+        "2078168683",
+        "2144679335",
+        "2149741699"
+    ]
+}

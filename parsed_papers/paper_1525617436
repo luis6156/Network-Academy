@@ -1,0 +1,71 @@
+{
+    "id": "1525617436",
+    "title": "Path Analysis and Renaming for Predicated Instruction Scheduling",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Lori Carter",
+            "id": "2471837990",
+            "org": "University of California at San Diego, Computer Science and Engineering Department, San Diego, California 92093-0114. Lcarter@cs.ucsd.edu#TAB#"
+        },
+        {
+            "name": "Beth Simon",
+            "id": "2119888189",
+            "org": "University of California at San Diego, Computer Science and Engineering Department, San Diego, California 92093-0114#TAB#"
+        },
+        {
+            "name": "Brad Calder",
+            "id": "2161611694",
+            "org": "University of California at San Diego, Computer Science and Engineering Department, San Diego, California 92093-0114#TAB#"
+        },
+        {
+            "name": "Larry Carter",
+            "id": "2108575298",
+            "org": "University of California at San Diego, Computer Science and Engineering Department, San Diego, California 92093-0114#TAB#"
+        },
+        {
+            "name": "Jeanne Ferrante",
+            "id": "2706396683",
+            "org": "University of California at San Diego, Computer Science and Engineering Department, San Diego, California 92093-0114#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Static single assignment form",
+        "Instruction scheduling",
+        "Compiler",
+        "Critical path method",
+        "Computer science",
+        "Data flow diagram",
+        "Exploit",
+        "Real-time computing",
+        "Program optimization"
+    ],
+    "references": [
+        "1491178396",
+        "1973141977",
+        "1982205631",
+        "2034393996",
+        "2036162899",
+        "2036918610",
+        "2067210214",
+        "2075137135",
+        "2076090418",
+        "2084451631",
+        "2097090834",
+        "2101134669",
+        "2112482891",
+        "2113174625",
+        "2116299797",
+        "2140311411",
+        "2142422634",
+        "2146331648",
+        "2159334994",
+        "2159937048",
+        "2163599246",
+        "2170158556",
+        "2576288252"
+    ]
+}

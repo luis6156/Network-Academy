@@ -1,0 +1,87 @@
+{
+    "id": "1629800323",
+    "title": "Gracefully Degrading Consensus and k-Set Agreement in Directed Dynamic Networks",
+    "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Martin Biely",
+            "id": "1572262402",
+            "org": "EPFL"
+        },
+        {
+            "name": "Peter Robinson",
+            "id": "2584668178",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Ulrich Schmid",
+            "id": "2779108726",
+            "org": "TU Wien"
+        },
+        {
+            "name": "Manfred Schwarz",
+            "id": "2132827221",
+            "org": "TU Wien"
+        },
+        {
+            "name": "Kyrill Winkler",
+            "id": "2139063105",
+            "org": "TU Wien"
+        }
+    ],
+    "fields_of_study": [
+        "Adversary model",
+        "Strongly connected component",
+        "Theoretical computer science",
+        "Impossibility",
+        "Computer science",
+        "Distributed computing",
+        "Graph",
+        "K-set",
+        "Adversary"
+    ],
+    "references": [
+        "1571000703",
+        "1593125439",
+        "1683896837",
+        "1746637951",
+        "1824735455",
+        "1911970323",
+        "1967721311",
+        "1970700632",
+        "1971817342",
+        "1973501242",
+        "1977815691",
+        "1981017197",
+        "1986917282",
+        "1986932309",
+        "1995058395",
+        "2002477558",
+        "2010075998",
+        "2010894431",
+        "2035362408",
+        "2041540671",
+        "2042981544",
+        "2058724774",
+        "2075810291",
+        "2086286040",
+        "2092534058",
+        "2092609929",
+        "2100416929",
+        "2100505617",
+        "2119741407",
+        "2120741723",
+        "2133044700",
+        "2134698708",
+        "2135254481",
+        "2135516437",
+        "2150805847",
+        "2155037890",
+        "2157875131",
+        "2159863405",
+        "2168452204",
+        "2170239483",
+        "2611515161"
+    ]
+}

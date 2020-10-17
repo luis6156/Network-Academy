@@ -1,0 +1,53 @@
+{
+    "id": "1591235197",
+    "title": "False-Negative frequent items mining from data streams with bursting",
+    "venue": "database systems for advanced applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Zhihong Chong",
+            "id": "2151858736",
+            "org": "Fudan University, China#TAB#"
+        },
+        {
+            "name": "Jeffrey Xu Yu",
+            "id": "2119358208",
+            "org": "Chinese University of Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Hongjun Lu",
+            "id": "2131290459",
+            "org": "Hong Kong University of Science and Technology, China#TAB#"
+        },
+        {
+            "name": "Zhengjie Zhang",
+            "id": "2146917241",
+            "org": "Fudan University, China#TAB#"
+        },
+        {
+            "name": "Aoying Zhou",
+            "id": "2620616608",
+            "org": "Fudan University, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Apriori algorithm",
+        "Data stream mining",
+        "Transaction data",
+        "Computer science",
+        "Data mining",
+        "GSP Algorithm",
+        "Information extraction",
+        "Group method of data handling",
+        "Database",
+        "Bursting"
+    ],
+    "references": [
+        "1493892051",
+        "1576122071",
+        "2069980026",
+        "2113139394",
+        "2167973519",
+        "2597765082"
+    ]
+}

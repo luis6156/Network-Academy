@@ -1,0 +1,46 @@
+{
+    "id": "1679414586",
+    "title": "Adaptive, Best-Effort Delivery of Digital Audio and Video Across Packet-Switched Networks",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Kevin Jeffay",
+            "id": "245701148",
+            "org": "University of North Carolina at Chapel Hill|Department of Computer Science"
+        },
+        {
+            "name": "Donald L. Stone",
+            "id": "2121900264",
+            "org": "University of North Carolina at Chapel Hill|Department of Computer Science"
+        },
+        {
+            "name": "Terry Talley",
+            "id": "2109763041",
+            "org": "University of North Carolina at Chapel Hill|Department of Computer Science"
+        },
+        {
+            "name": "F. Donelson Smith",
+            "id": "2096896917",
+            "org": "University of North Carolina at Chapel Hill|Department of Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Resource allocation",
+        "Computer science",
+        "Scheduling (computing)",
+        "Latency (engineering)",
+        "Network packet",
+        "Best-effort delivery",
+        "Frame rate",
+        "Computer network",
+        "Real-time computing",
+        "Digital audio"
+    ],
+    "references": [
+        "1797271790",
+        "2071241682",
+        "2099036355"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1692147971",
+    "title": "Local meta-models for optimization using evolution strategies",
+    "venue": "parallel problem solving from nature",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stefan Kern",
+            "id": "2169750257",
+            "org": "Computational Science and Engineering Laboratory, Institute of Computational Science, ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Nikolaus Hansen",
+            "id": "2155535925",
+            "org": "Computational Science and Engineering Laboratory, Institute of Computational Science, ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Petros Koumoutsakos",
+            "id": "2148124563",
+            "org": "Computational Science and Engineering Laboratory, Institute of Computational Science, ETH Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "CMA-ES",
+        "Local regression",
+        "Evolution strategy",
+        "Computer science",
+        "Covariance matrix",
+        "Ranking",
+        "Population",
+        "Evolutionary algorithm",
+        "Metamodeling",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "130232500",
+        "1503296932",
+        "1605438009",
+        "1689445748",
+        "2012451526",
+        "2063180182",
+        "2110194546",
+        "2112036188",
+        "2165281693",
+        "2166739626"
+    ]
+}

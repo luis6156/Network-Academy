@@ -1,0 +1,34 @@
+{
+    "id": "1513838262",
+    "title": "Configuration tools: working together",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Paul Anderson",
+            "id": "2209072694",
+            "org": "University of Edinburgh#TAB#"
+        },
+        {
+            "name": "Edmund Smith",
+            "id": "2345603149",
+            "org": "University of Edinburgh#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Small number",
+        "Computer science",
+        "Server",
+        "Software portability",
+        "Control reconfiguration",
+        "Real-time computing",
+        "Fault tolerance",
+        "Configuration management"
+    ],
+    "references": [
+        "10659686",
+        "23170854",
+        "141216060",
+        "1589725822"
+    ]
+}

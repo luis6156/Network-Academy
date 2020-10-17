@@ -1,0 +1,35 @@
+{
+    "id": "1584542188",
+    "title": "2-Adic Shift Registers",
+    "venue": "fast software encryption",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Andrew Klapper",
+            "id": "2086371636",
+            "org": "University of Kentucky"
+        },
+        {
+            "name": "Mark Goresky",
+            "id": "604931244",
+            "org": "Northeastern University"
+        }
+    ],
+    "fields_of_study": [
+        "Hamming distance",
+        "Pseudorandom number generator",
+        "Nonlinear feedback shift register",
+        "Computer science",
+        "Binary number",
+        "Pseudorandom binary sequence",
+        "Linear span",
+        "Shift register",
+        "Arithmetic",
+        "Modulo"
+    ],
+    "references": [
+        "2079503850",
+        "2085759780",
+        "2166676953"
+    ]
+}

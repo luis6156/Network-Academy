@@ -1,0 +1,36 @@
+{
+    "id": "1494077962",
+    "title": "Systolic filter for fast DNA similarity search",
+    "venue": "international conference on application specific array processors",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Pascale Guerdoux-Jamet",
+            "id": "2721951968",
+            "org": "IRISA, Rennes, France"
+        },
+        {
+            "name": "Dominique Lavenier",
+            "id": "2625265421",
+            "org": "IRISA, Rennes, France"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Ranging",
+        "Computer science",
+        "FPGA prototype",
+        "Digital filter",
+        "Coprocessor",
+        "Software performance testing",
+        "Workstation"
+    ],
+    "references": [
+        "2138711634",
+        "2152699447",
+        "2158468079",
+        "2545923503"
+    ]
+}

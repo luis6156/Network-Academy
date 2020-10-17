@@ -1,0 +1,51 @@
+{
+    "id": "1536528801",
+    "title": "Partition-based caching in Information-Centric networks",
+    "venue": "conference on computer communications workshops",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Vasilis Sourlas",
+            "id": "2032443630",
+            "org": "UCL, UK"
+        },
+        {
+            "name": "Panos Georgatsos",
+            "id": "2042646327",
+            "org": "CERTH, Greece"
+        },
+        {
+            "name": "Paris Flegkas",
+            "id": "223816836",
+            "org": "CERTH, Greece"
+        },
+        {
+            "name": "Leandros Tassiulas",
+            "id": "258781275",
+            "org": "Yale, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Partition (number theory)",
+        "Inline caching",
+        "Computer science",
+        "Distributed computing",
+        "False sharing",
+        "Data transmission",
+        "Traffic engineering",
+        "Telecommunications network",
+        "Computer network"
+    ],
+    "references": [
+        "1564544031",
+        "1848772009",
+        "2004127822",
+        "2112053513",
+        "2118404561",
+        "2146223937",
+        "2154632110",
+        "2156104365",
+        "2167776925"
+    ]
+}

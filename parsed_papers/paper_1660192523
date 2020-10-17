@@ -1,0 +1,43 @@
+{
+    "id": "1660192523",
+    "title": "Is DES a Pure Cipher? (Results of More Cycling Experiments on DES)",
+    "venue": "international cryptology conference",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2229857280",
+            "org": "MIT Laboratory for Computer Science 545 Technology Square Cambridge MA 02139"
+        },
+        {
+            "name": "Ronald L. Rivest",
+            "id": "695545146",
+            "org": "MIT Laboratory for Computer Science 545 Technology Square Cambridge MA 02139"
+        },
+        {
+            "name": "Alan T. Sherman",
+            "id": "2124351263",
+            "org": "MIT Laboratory for Computer Science 545 Technology Square Cambridge MA 02139"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Running key cipher",
+        "Discrete mathematics",
+        "Weak key",
+        "Two-square cipher",
+        "Triple DES",
+        "Key whitening",
+        "CBC-MAC"
+    ],
+    "references": [
+        "134961700",
+        "1490737128",
+        "2025203646",
+        "2028073532",
+        "2155099317"
+    ]
+}

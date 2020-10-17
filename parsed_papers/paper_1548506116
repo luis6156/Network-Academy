@@ -1,0 +1,69 @@
+{
+    "id": "1548506116",
+    "title": "Practical Electromagnetic Template Attack on HMAC",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Ecole normale superieure/CNRS/INRIA,#TAB#"
+        },
+        {
+            "name": "Gaetan Leurent",
+            "id": "2149886747",
+            "org": "Ecole normale superieure/CNRS/INRIA,#TAB#"
+        },
+        {
+            "name": "Denis Real",
+            "id": "2311332494",
+            "org": "INSA-IETR, Rennes, France 35043 and CELAR, Bruz, France 35#TAB#"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "CELAR, Bruz, France 35#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hamming distance",
+        "Side channel attack",
+        "Parallel computing",
+        "Hash-based message authentication code",
+        "Brute-force attack",
+        "Computer science",
+        "Adversary",
+        "Embedded system",
+        "Reflection attack",
+        "Power analysis",
+        "Real-time computing",
+        "Timing attack"
+    ],
+    "references": [
+        "1486712081",
+        "1498787080",
+        "1499081748",
+        "1511843316",
+        "1513113529",
+        "1519539754",
+        "1550146135",
+        "1550771246",
+        "1562542037",
+        "1566273181",
+        "1566796882",
+        "1590269592",
+        "1592644319",
+        "1656731780",
+        "1724890242",
+        "1866609797",
+        "1890449996",
+        "2043711803",
+        "2103239853",
+        "2131212920",
+        "2131300413",
+        "2134615993",
+        "2154909745",
+        "2531150596",
+        "2611506938"
+    ]
+}

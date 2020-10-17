@@ -1,0 +1,61 @@
+{
+    "id": "1536448783",
+    "title": "Revisiting higher-order DPA attacks: multivariate mutual information analysis",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Benedikt Gierlichs",
+            "id": "2048388829",
+            "org": "K.U. Leuven, ESAT/SCD-COSIC and IBBT, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Lejla Batina",
+            "id": "2090677550",
+            "org": "K.U. Leuven, ESAT/SCD-COSIC and IBBT, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "K.U. Leuven, ESAT/SCD-COSIC and IBBT, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Ingrid Verbauwhede",
+            "id": "2044881251",
+            "org": "K.U. Leuven, ESAT/SCD-COSIC and IBBT, Leuven-Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Univariate",
+        "Side channel attack",
+        "Countermeasure",
+        "Computer science",
+        "Multivariate mutual information",
+        "Data mining",
+        "Multivariate statistics",
+        "Mutual information"
+    ],
+    "references": [
+        "1482353292",
+        "1503689022",
+        "1548656471",
+        "1549962104",
+        "1562362230",
+        "1595155753",
+        "1605426304",
+        "1748081333",
+        "1752847028",
+        "1862426464",
+        "1897761346",
+        "2041404167",
+        "2107839822",
+        "2124785100",
+        "2154909745",
+        "2155938490",
+        "2170478686",
+        "2177288330",
+        "2583913662",
+        "2612208439"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1586668623",
+    "title": "Finding common motifs with gaps using finite automata",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Pavlos Antoniou",
+            "id": "2557312086",
+            "org": "Dept. of Computer Science, King's College London, England, UK#TAB#"
+        },
+        {
+            "name": "Jan Holub",
+            "id": "2007202250",
+            "org": "Department of Computer Science and Engineering, Czech Technical University in Prague, Prague 2, Czech Republic#TAB#"
+        },
+        {
+            "name": "Costas S. Iliopoulos",
+            "id": "669301571",
+            "org": "Dept. of Computer Science, King's College London, England, UK#TAB#"
+        },
+        {
+            "name": "Borivoj Melichar",
+            "id": "2051050942",
+            "org": "Department of Computer Science and Engineering, Czech Technical University in Prague, Prague 2, Czech Republic#TAB#"
+        },
+        {
+            "name": "Pierre Peterlongo",
+            "id": "2806576890",
+            "org": "Institut Gaspard-Monge, Universite de Marne-la-Vallee, Marne-la-Vallee, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Deterministic finite automaton",
+        "Mathematics",
+        "Discrete mathematics",
+        "Buchi automaton",
+        "Combinatorics",
+        "Deterministic automaton",
+        "Directed acyclic word graph",
+        "o-automaton",
+        "Two-way deterministic finite automaton",
+        "Nondeterministic finite automaton",
+        "Levenshtein automaton"
+    ],
+    "references": [
+        "156540454",
+        "1557406054",
+        "1988348423",
+        "2033276056",
+        "2089052894",
+        "2161420356",
+        "2611477341"
+    ]
+}

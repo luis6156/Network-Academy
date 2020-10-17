@@ -1,0 +1,59 @@
+{
+    "id": "1535676486",
+    "title": "On designing a novel PI controller for AQM routers supporting TCP flows",
+    "venue": "asia pacific web conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Naixue Xiong",
+            "id": "2236530220",
+            "org": "The State Key Lab of Software Engineering, Computer School of Wuhan University, Wuhan Hubei, P.R. China#TAB#"
+        },
+        {
+            "name": "Yanxiang He",
+            "id": "2163664958",
+            "org": "The State Key Lab of Software Engineering, Computer School of Wuhan University, Wuhan Hubei, P.R. China#TAB#"
+        },
+        {
+            "name": "Yan Yang",
+            "id": "2656887828",
+            "org": "Computer Science Department of Central China Normal University, Wuhan, P.R. China#TAB#"
+        },
+        {
+            "name": "Bin Xiao",
+            "id": "2650632640",
+            "org": "Department of Computing, Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong#TAB#"
+        },
+        {
+            "name": "Xiaohua Jia",
+            "id": "2102117395",
+            "org": "SMIEEE, Member of IEEE Communication Society, Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Round-trip delay time",
+        "Computer science",
+        "Queue",
+        "Random early detection",
+        "Multilevel feedback queue",
+        "Effective method",
+        "Weighted random early detection",
+        "Real-time computing",
+        "Active queue management"
+    ],
+    "references": [
+        "1804414343",
+        "2006912171",
+        "2032667132",
+        "2039664313",
+        "2073155474",
+        "2097306413",
+        "2118687002",
+        "2145942024",
+        "2155393670",
+        "2155981613",
+        "2158733823",
+        "2167870975"
+    ]
+}

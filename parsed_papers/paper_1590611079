@@ -1,0 +1,58 @@
+{
+    "id": "1590611079",
+    "title": "Synthesising Attacks on Cryptographic Protocols",
+    "venue": "automated technology for verification and analysis",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "David Sinclair",
+            "id": "2485556217",
+            "org": "Dublin City University"
+        },
+        {
+            "name": "David Gray",
+            "id": "2113260780",
+            "org": "Dublin City University"
+        },
+        {
+            "name": "Geoff W. Hamilton",
+            "id": "2109515277",
+            "org": "Dublin City University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Heuristics",
+        "Cryptographic protocol",
+        "Program analysis",
+        "Computer science",
+        "Distributed computing",
+        "State space",
+        "Model checking",
+        "Deadlock"
+    ],
+    "references": [
+        "1521883036",
+        "1556566737",
+        "1603799276",
+        "1619409532",
+        "1651122320",
+        "1841687327",
+        "1922967198",
+        "1994676271",
+        "1996360405",
+        "1996736473",
+        "2002770083",
+        "2008838944",
+        "2029693536",
+        "2058129511",
+        "2133126578",
+        "2146973388",
+        "2150682469",
+        "2153662813",
+        "2156186849",
+        "2169908972",
+        "2295187523"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1807484554",
+    "title": "Some economics of market-based distributed scheduling",
+    "venue": "international conference on distributed computing systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "William E. Walsh",
+            "id": "2777530902",
+            "org": "Michigan Univ., Ann Arbor, MI, USA"
+        },
+        {
+            "name": "Michael P. Wellman",
+            "id": "2102222802",
+            "org": "University of Michigan - Computer Science and Engineering"
+        },
+        {
+            "name": "Peter R. Wurman",
+            "id": "2293468171",
+            "org": "University of Michigan at Ann Arbor"
+        },
+        {
+            "name": "Jeffrey K. MacKie-Mason",
+            "id": "1233869612",
+            "org": "UC Berkeley; University of Michigan"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (production processes)",
+        "Dynamic priority scheduling",
+        "Management science",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Genetic algorithm scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "2029459238",
+        "2110982196",
+        "2111087562",
+        "2137774239",
+        "2159314501",
+        "2172089471"
+    ]
+}

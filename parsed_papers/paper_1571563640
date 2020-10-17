@@ -1,0 +1,47 @@
+{
+    "id": "1571563640",
+    "title": "OLAP Query Processing in a Database Cluster",
+    "venue": "european conference on parallel processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Alexandre A. B. Lima",
+            "id": "2161022388",
+            "org": "COPPE, Federal University of Rio de Janeiro"
+        },
+        {
+            "name": "Marta Mattoso",
+            "id": "2242263115",
+            "org": "COPPE, Federal University of Rio de Janeiro"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "University of Nantes"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Parallel computing",
+        "Online analytical processing",
+        "Speedup",
+        "Java",
+        "Computer science",
+        "Distributed computing",
+        "Multiprocessing",
+        "Database",
+        "Query plan",
+        "Functional analysis",
+        "Architecture"
+    ],
+    "references": [
+        "1482997398",
+        "1501977046",
+        "1528326260",
+        "1550128192",
+        "2007093160",
+        "2037394610",
+        "2040551865",
+        "2161580080"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1571444101",
+    "title": "Lattice Particle Filters",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dirk Ormoneit",
+            "id": "2092323475",
+            "org": "Computer Science Dept., Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Christiane Lemieux",
+            "id": "2119781217",
+            "org": "Mathematics and Statistics Dept., University of Calgary, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "David J. Fleet",
+            "id": "2157904231",
+            "org": "Xerox PARC, Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Auxiliary particle filter",
+        "Quasi-Monte Carlo method",
+        "Particle filter",
+        "Lattice (order)",
+        "Monte Carlo localization",
+        "Approximate inference",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1533614607",
+        "1643263348",
+        "1910898529",
+        "1989991833",
+        "2101885438",
+        "2131865378",
+        "2167717741"
+    ]
+}

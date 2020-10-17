@@ -1,0 +1,46 @@
+{
+    "id": "1543117568",
+    "title": "Efficient runtime thread management for the nano-threads programming model",
+    "venue": "international parallel processing symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Dimitrios S. Nikolopoulos",
+            "id": "222314420",
+            "org": "High Performance Computing Architectures Laboratory Department of Computer Engineering and Informatics"
+        },
+        {
+            "name": "Eleftherios D. Polychronopoulos",
+            "id": "56925266",
+            "org": "High Performance Computing Architectures Laboratory Department of Computer Engineering and Informatics"
+        },
+        {
+            "name": "Theodore S. Papatheodorou",
+            "id": "615415263",
+            "org": "High Performance Computing Architectures Laboratory Department of Computer Engineering and Informatics"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Nano-threads",
+        "Processor affinity",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Memory management",
+        "Runtime system",
+        "Programming paradigm",
+        "Real-time computing"
+    ],
+    "references": [
+        "1583973024",
+        "1984054440",
+        "2041374386",
+        "2050241504",
+        "2100720297",
+        "2142899035",
+        "2146439494"
+    ]
+}

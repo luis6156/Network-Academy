@@ -1,0 +1,41 @@
+{
+    "id": "14091147",
+    "title": "An algorithm for matching run-length coded strings",
+    "venue": "Computing",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Horst Bunke",
+            "id": "1948338481",
+            "org": "Institut fur Informatik und angewandte Mathematik, Universitat Bern, Bern, Switzerland"
+        },
+        {
+            "name": "Janos Csirik",
+            "id": "126614680",
+            "org": "Department of Applied Computer Science, University of Szeged, Szeged, Hungary"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "String searching algorithm",
+        "Algorithm",
+        "Longest common subsequence problem",
+        "Discrete mathematics",
+        "Jaro-Winkler distance",
+        "String-to-string correction problem",
+        "Combinatorics",
+        "Wagner-Fischer algorithm",
+        "Algorithmics",
+        "Edit distance"
+    ],
+    "references": [
+        "1564013439",
+        "1970026646",
+        "2010392031",
+        "2011632873",
+        "2012010763",
+        "2027506564",
+        "2130200371"
+    ]
+}

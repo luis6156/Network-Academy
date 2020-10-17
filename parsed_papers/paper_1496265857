@@ -1,0 +1,42 @@
+{
+    "id": "1496265857",
+    "title": "Advances on access-driven cache attacks on AES",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Neve",
+            "id": "2363166985",
+            "org": "Intel Corporation, CTG STL Trusted Platform Laboratory, Hillsboro, Oregon#TAB#"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2429031393",
+            "org": "The Center for Computational Mathematics and Scientific Computation, Faculty of Science and Science Education, University of Haifa, Haifa, Israel and Institute for Computer Science, University of ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Block cipher",
+        "Cache algorithms",
+        "Side channel attack",
+        "Computer science",
+        "Cache pollution",
+        "Information leakage",
+        "Real-time computing",
+        "CPU cache",
+        "Covert channel"
+    ],
+    "references": [
+        "1253017325",
+        "1488058190",
+        "1556212265",
+        "1613874182",
+        "1664808737",
+        "1890449996",
+        "2011257923",
+        "2099137371",
+        "2126132644",
+        "2137243422"
+    ]
+}

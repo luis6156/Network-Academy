@@ -1,0 +1,48 @@
+{
+    "id": "1509979696",
+    "title": "Floating-Point computation with just enough accuracy",
+    "venue": "international conference on computational science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hank G. Dietz",
+            "id": "2806431937",
+            "org": "Department of Electrical & Computer Engineering, University of Kentucky#TAB#"
+        },
+        {
+            "name": "Bill Dieter",
+            "id": "2316656501",
+            "org": "Department of Electrical & Computer Engineering, University of Kentucky#TAB#"
+        },
+        {
+            "name": "Randy Fisher",
+            "id": "2486222256",
+            "org": "Department of Electrical & Computer Engineering, University of Kentucky#TAB#"
+        },
+        {
+            "name": "Kungyen Chang",
+            "id": "2479559447",
+            "org": "Department of Electrical & Computer Engineering, University of Kentucky#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Digital signal processor",
+        "SIMD",
+        "Parallel computing",
+        "Real number",
+        "Computation",
+        "Distributed computing",
+        "SWAR",
+        "Computer science",
+        "Instruction set",
+        "Extended precision",
+        "Floating point"
+    ],
+    "references": [
+        "1465881795",
+        "1547830536",
+        "1623282124",
+        "2074590072",
+        "2088317231"
+    ]
+}

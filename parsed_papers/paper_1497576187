@@ -1,0 +1,42 @@
+{
+    "id": "1497576187",
+    "title": "Dimension-independent convergence rate for non-isotropic (1, l) - ES",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Anne Auger",
+            "id": "2159889819",
+            "org": "CERMICS - ENPC, Marne-La-Vallee, France and INRIA Rocquencourt, Le Chesnay Cedex, France#TAB#"
+        },
+        {
+            "name": "Claude Le Bris",
+            "id": "2798439865",
+            "org": "CERMICS - ENPC, Marne-La-Vallee, France and INRIA Rocquencourt, Le Chesnay Cedex, France#TAB#"
+        },
+        {
+            "name": "Marc Schoenauer",
+            "id": "89424581",
+            "org": "INRIA Rocquencourt, Le Chesnay Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Normal convergence",
+        "Isotropy",
+        "Evolution strategy",
+        "Martingale (probability theory)",
+        "Convergence tests",
+        "Critical value",
+        "Compact convergence",
+        "Mathematical optimization",
+        "Rate of convergence"
+    ],
+    "references": [
+        "26842560",
+        "1541032145",
+        "1602844557",
+        "2146879413",
+        "2166115457"
+    ]
+}

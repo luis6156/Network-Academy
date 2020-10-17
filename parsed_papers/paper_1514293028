@@ -1,0 +1,45 @@
+{
+    "id": "1514293028",
+    "title": "Applying Time-Memory-Data Trade-Off to Meet-in-the-Middle Attack",
+    "venue": "international conference on information and communication security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jiali Choy",
+            "id": "2147277912",
+            "org": "DSO National Laboratories, Singapore 118230#TAB#"
+        },
+        {
+            "name": "Khoongming Khoo",
+            "id": "2155732702",
+            "org": "DSO National Laboratories, Singapore 118230#TAB#"
+        },
+        {
+            "name": "Chuan-Wen Loe",
+            "id": "1997489409",
+            "org": "DSO National Laboratories, Singapore 118230#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Pre-play attack",
+        "Length extension attack",
+        "Birthday attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Slide attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1518051266",
+        "1549671385",
+        "1660562555",
+        "1857473325",
+        "1991374982",
+        "2012646342",
+        "2112512647",
+        "2130943734"
+    ]
+}

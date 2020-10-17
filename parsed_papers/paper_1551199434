@@ -1,0 +1,51 @@
+{
+    "id": "1551199434",
+    "title": "A new implementation of the ICP algorithm for 3D surface registration using a comprehensive look up matrix",
+    "venue": "european signal processing conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ahmad Almhdie",
+            "id": "2088261551",
+            "org": "Laboratory of Electronics, Signals and Images (LESI), Polytech'Orleans, University of Orleans, France"
+        },
+        {
+            "name": "Christophe Leger",
+            "id": "1846221581",
+            "org": "Laboratory of Electronics, Signals and Images (LESI), Polytech'Orleans, University of Orleans, France"
+        },
+        {
+            "name": "Mohamed A. Deriche",
+            "id": "740918294",
+            "org": "Electrical Engineering Department, King Fahd University, Dhahran, Saudi Arabia"
+        },
+        {
+            "name": "Roger Ledee",
+            "id": "2297271728",
+            "org": "Laboratory of Electronics, Signals and Images (LESI), Polytech'Orleans, University of Orleans, France"
+        }
+    ],
+    "fields_of_study": [
+        "Iterative closest point",
+        "Point set registration",
+        "Algorithm",
+        "Minimum mean square error",
+        "Matrix (mathematics)",
+        "Data set",
+        "Rigid transformation",
+        "Implementation",
+        "Computer science",
+        "Robustness (computer science)",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1602060479",
+        "2049981393",
+        "2119851068",
+        "2133584444",
+        "2134834581",
+        "2140711847",
+        "2144594079",
+        "2147555557"
+    ]
+}

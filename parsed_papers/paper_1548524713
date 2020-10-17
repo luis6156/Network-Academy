@@ -1,0 +1,49 @@
+{
+    "id": "1548524713",
+    "title": "DPA Countermeasures by Improving the Window Method",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Kouichi Itoh",
+            "id": "2128256318",
+            "org": "Fujitsu Laboratories Ltd."
+        },
+        {
+            "name": "Jun Yajima",
+            "id": "2088139060",
+            "org": "Fujitsu Laboratories Ltd."
+        },
+        {
+            "name": "Masahiko Takenaka",
+            "id": "2114664078",
+            "org": "Fujitsu Laboratories Ltd."
+        },
+        {
+            "name": "Naoya Torii",
+            "id": "1968250510",
+            "org": "Fujitsu Laboratories Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Countermeasure",
+        "Computer science",
+        "Power analysis",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1510418153",
+        "1516510761",
+        "1540529576",
+        "1548023999",
+        "1565369953",
+        "2105374413",
+        "2137567577",
+        "2148862943",
+        "2154909745",
+        "2155244510"
+    ]
+}

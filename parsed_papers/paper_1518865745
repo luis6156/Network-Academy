@@ -1,0 +1,61 @@
+{
+    "id": "1518865745",
+    "title": "A Probabilistic Model for Molecular Systems",
+    "venue": "Fundamenta Informaticae",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Roberto Barbuti",
+            "id": "2076883649",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Largo B. Pontecorvo 3, 56127 - Pisa, Italy. E-mail: barbuti,cataudel,maggiolo,milazzo,troina@di.unipi.it#TAB#"
+        },
+        {
+            "name": "Stefano Cataudella",
+            "id": "2129357668",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Largo B. Pontecorvo 3, 56127 - Pisa, Italy. E-mail: barbuti,cataudel,maggiolo,milazzo,troina@di.unipi.it#TAB#"
+        },
+        {
+            "name": "Andrea Maggiolo-Schettini",
+            "id": "2243975045",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Largo B. Pontecorvo 3, 56127 - Pisa, Italy. E-mail: barbuti,cataudel,maggiolo,milazzo,troina@di.unipi.it#TAB#"
+        },
+        {
+            "name": "Paolo Milazzo",
+            "id": "2308243563",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Largo B. Pontecorvo 3, 56127 - Pisa, Italy. E-mail: barbuti,cataudel,maggiolo,milazzo,troina@di.unipi.it#TAB#"
+        },
+        {
+            "name": "Angelo Troina",
+            "id": "1939667306",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Largo B. Pontecorvo 3, 56127 - Pisa, Italy. E-mail: barbuti,cataudel,maggiolo,milazzo,troina@di.unipi.it#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Artificial intelligence",
+        "Machine learning",
+        "Probabilistic CTL",
+        "Transition system",
+        "Probabilistic logic",
+        "Probabilistic analysis of algorithms",
+        "Model checking",
+        "Probabilistic relevance model",
+        "Divergence-from-randomness model",
+        "Estimation of distribution algorithm"
+    ],
+    "references": [
+        "38118415",
+        "1532361198",
+        "1535220465",
+        "1601373402",
+        "1986649132",
+        "2007006124",
+        "2051580064",
+        "2096899005",
+        "2098543914",
+        "2105161851",
+        "2110796675",
+        "2138519564",
+        "2139504329"
+    ]
+}

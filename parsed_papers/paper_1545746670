@@ -1,0 +1,34 @@
+{
+    "id": "1545746670",
+    "title": "Higher compression from the Burrows-Wheeler transform by modified sorting",
+    "venue": "data compression conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Brenton Chapin",
+            "id": "2138188168",
+            "org": "Dept. of Comput. Sci., North Texas Univ., Denton, TX, USA"
+        },
+        {
+            "name": "Stephen R. Tate",
+            "id": "2166695995",
+            "org": "University of North Texas"
+        }
+    ],
+    "fields_of_study": [
+        "Character encoding",
+        "Data compression",
+        "Theoretical computer science",
+        "Algorithm",
+        "Burrows-Wheeler transform",
+        "Computer science",
+        "sort",
+        "Lossless compression",
+        "Sorting",
+        "Sorting algorithm",
+        "ASCII"
+    ],
+    "references": [
+        "2041645394"
+    ]
+}

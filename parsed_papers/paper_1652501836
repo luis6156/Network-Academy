@@ -1,0 +1,89 @@
+{
+    "id": "1652501836",
+    "title": "Rigorous polynomial approximation using taylor models in Coq",
+    "venue": "nasa formal methods",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Nicolas Brisebarre",
+            "id": "132067209",
+            "org": "LIP, CNRS UMR 5668, ENS de Lyon, INRIA Grenoble - Rhone-Alpes, UCBL, Arenaire, Lyon, France#TAB#"
+        },
+        {
+            "name": "Mioara Maria Joldes",
+            "id": "2776495675",
+            "org": "CAPA, Dpt. of Mathematics, Uppsala Univ., Uppsala, Sweden#TAB#"
+        },
+        {
+            "name": "Erik Martin-Dorel",
+            "id": "2076526870",
+            "org": "LIP, CNRS UMR 5668, ENS de Lyon, INRIA Grenoble - Rhone-Alpes, UCBL, Arenaire, Lyon, France#TAB#"
+        },
+        {
+            "name": "Micaela Mayero",
+            "id": "2792509820",
+            "org": "LIP, CNRS UMR 5668, ENS de Lyon, INRIA Grenoble - Rhone-Alpes, UCBL, Arenaire, Lyon, France and LIPN, UMR 7030, Universite Paris 13, LCR, Villetaneuse, France#TAB#"
+        },
+        {
+            "name": "Jean-Michel Muller",
+            "id": "2141991655",
+            "org": "LIP, CNRS UMR 5668, ENS de Lyon, INRIA Grenoble - Rhone-Alpes, UCBL, Arenaire, Lyon, France#TAB#"
+        },
+        {
+            "name": "Ioana Pasca",
+            "id": "2559243931",
+            "org": "LIP, CNRS UMR 5668, ENS de Lyon, INRIA Grenoble - Rhone-Alpes, UCBL, Arenaire, Lyon, France#TAB#"
+        },
+        {
+            "name": "Laurence Rideau",
+            "id": "2805547315",
+            "org": "Marelle, INRIA Sophia Antipolis - Mediterranee, Sophia Antipolis, France#TAB#"
+        },
+        {
+            "name": "Laurent Thery",
+            "id": "8910532",
+            "org": "Marelle, INRIA Sophia Antipolis - Mediterranee, Sophia Antipolis, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Proof assistant",
+        "Discrete mathematics",
+        "Parameterized complexity",
+        "Real-valued function",
+        "Mathematical optimization",
+        "Polynomial"
+    ],
+    "references": [
+        "65339224",
+        "285242605",
+        "1508667117",
+        "1508864478",
+        "1535048748",
+        "1546270920",
+        "1594381772",
+        "1599525342",
+        "1652609218",
+        "1683154758",
+        "1746052841",
+        "1795725592",
+        "1911738067",
+        "1980965137",
+        "1989376043",
+        "1994097280",
+        "1995574761",
+        "1998661762",
+        "2003189478",
+        "2017736478",
+        "2019367635",
+        "2092622802",
+        "2104583970",
+        "2104895541",
+        "2130920933",
+        "2143917322",
+        "2165473980",
+        "2179627363",
+        "2785401973",
+        "2785483095"
+    ]
+}

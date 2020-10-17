@@ -1,0 +1,43 @@
+{
+    "id": "1557951420",
+    "title": "Optical-Flow Estimation while Preserving Its Discontinuities: A Variational Approach",
+    "venue": "asian conference on computer vision",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Rachid Deriche",
+            "id": "2257569313",
+            "org": "INRIA, Sophia-Antipolis Cedex, France"
+        },
+        {
+            "name": "Pierre Kornprobst",
+            "id": "291896640",
+            "org": "INRIA, Sophia-Antipolis Cedex, France"
+        },
+        {
+            "name": "Gilles Aubert",
+            "id": "2299711617",
+            "org": "Universite de Nice-Sophia Antipolis"
+        }
+    ],
+    "fields_of_study": [
+        "Tikhonov regularization",
+        "Quadratic equation",
+        "Optical flow",
+        "Computer science",
+        "Real image",
+        "Balanced flow",
+        "Regularization (mathematics)",
+        "Classification of discontinuities",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "66708504",
+        "1504694699",
+        "1578285471",
+        "2080744942",
+        "2121407523",
+        "2146203184",
+        "2168766022"
+    ]
+}

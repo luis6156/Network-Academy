@@ -1,0 +1,79 @@
+{
+    "id": "111488668",
+    "title": "New observations on impossible differential cryptanalysis of reduced-round camellia",
+    "venue": "fast software encryption",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ya Liu",
+            "id": "2617649879",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Leibo Li",
+            "id": "2165077482",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China,School of Mathematics, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Dawu Gu",
+            "id": "2145276306",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China,School of Mathematics, Shandong University, Jinan, China,Institute for A ...#TAB#"
+        },
+        {
+            "name": "Zhiqiang Liu",
+            "id": "2674232880",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Jiazhe Chen",
+            "id": "2126160519",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China,School of Mathematics, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Wei Li",
+            "id": "2718484388",
+            "org": "School of Computer Science and Techn., Donghua Univ., Shanghai, China,Shanghai Key Laboratory of Integrate Administration Technologies for Information Security, Shanghai, China,State Key Laborator ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Block cipher",
+        "Mathematics",
+        "Algorithm",
+        "Discrete mathematics",
+        "Impossible differential cryptanalysis",
+        "Key space",
+        "Higher-order differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "32314634",
+        "87476164",
+        "1489027369",
+        "1489575954",
+        "1501856114",
+        "1507656853",
+        "1516671507",
+        "1541703086",
+        "1545756401",
+        "1560320792",
+        "1564766222",
+        "1584463697",
+        "1833400598",
+        "1845115467",
+        "1868228027",
+        "2007918097",
+        "2016498616",
+        "2018423785",
+        "2067040124",
+        "2107699024",
+        "2111118853",
+        "2466913488",
+        "2586045835"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1532491137",
+    "title": "Advantages of backward searching -- efficient secondary memory and distributed implementation of compressed suffix arrays",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Veli Makinen",
+            "id": "2026327678",
+            "org": "Dept of Computer Science, Univ of Helsinki, Finland#TAB#"
+        },
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "Center for Web Research, Dept of Computer Science, Univ of Chile, Chile#TAB#"
+        },
+        {
+            "name": "Kunihiko Sadakane",
+            "id": "2036531001",
+            "org": "Dept of Computer Science and Communication Engineering, Kyushu Univ., Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Binary search algorithm",
+        "Block size",
+        "Speedup",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Substring",
+        "Distributed memory",
+        "Suffix array",
+        "Compressed suffix array"
+    ],
+    "references": [
+        "1492127831",
+        "1495524224",
+        "1537923221",
+        "1557034006",
+        "1812430439",
+        "1965853364",
+        "1969046465",
+        "1975454935",
+        "2045271686",
+        "2054439442",
+        "2056707490",
+        "2059513841",
+        "2121252285",
+        "2134696992",
+        "2148961697",
+        "2158322625",
+        "2158874082",
+        "2161407657",
+        "2170899819",
+        "2533248932",
+        "2646645486"
+    ]
+}

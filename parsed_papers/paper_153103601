@@ -1,0 +1,40 @@
+{
+    "id": "153103601",
+    "title": "DUET: static analysis for unbounded parallelism",
+    "venue": "computer aided verification",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Azadeh Farzan",
+            "id": "2102908900",
+            "org": "University of Toronto, Canada#TAB#"
+        },
+        {
+            "name": "Zachary Kincaid",
+            "id": "1993513151",
+            "org": "University of Toronto, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Algorithm",
+        "Static analysis",
+        "Computer science",
+        "Dependence analysis",
+        "Bounded function",
+        "Data flow diagram",
+        "Separation of concerns",
+        "Concurrency",
+        "Architecture"
+    ],
+    "references": [
+        "1485572331",
+        "1518247129",
+        "1582180905",
+        "1587449012",
+        "1933255669",
+        "2096199323",
+        "2107089133"
+    ]
+}

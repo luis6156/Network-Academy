@@ -1,0 +1,66 @@
+{
+    "id": "1523209876",
+    "title": "Reducing network energy consumption via sleeping and rate-adaptation",
+    "venue": "networked systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sergiu Nedevschi",
+            "id": "2250946468",
+            "org": "University of California, Berkeley and Intel Research, Berkeley#TAB#"
+        },
+        {
+            "name": "Lucian Popa",
+            "id": "2089482989",
+            "org": "University of California, Berkeley and Intel Research, Berkeley#TAB#"
+        },
+        {
+            "name": "Gianluca Iannaccone",
+            "id": "2496012467",
+            "org": "Intel Research, Berkeley#TAB#"
+        },
+        {
+            "name": "Sylvia Ratnasamy",
+            "id": "190228929",
+            "org": "Intel Research, Berkeley#TAB#"
+        },
+        {
+            "name": "David Wetherall",
+            "id": "2064270007",
+            "org": "University of Washingon and Intel Research, Seattle#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Idle",
+        "Networking hardware",
+        "Energy consumption",
+        "Computer science",
+        "Latency (engineering)",
+        "Workload",
+        "Power management",
+        "Network packet",
+        "Real-time computing"
+    ],
+    "references": [
+        "1937527670",
+        "2049977599",
+        "2064359039",
+        "2098008076",
+        "2106048836",
+        "2118955868",
+        "2122571761",
+        "2125256745",
+        "2128748528",
+        "2135183296",
+        "2135505702",
+        "2138488896",
+        "2143508387",
+        "2145695845",
+        "2147660687",
+        "2152783321",
+        "2155101824",
+        "2166402167",
+        "2169741605"
+    ]
+}

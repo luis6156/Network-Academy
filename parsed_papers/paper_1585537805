@@ -1,0 +1,44 @@
+{
+    "id": "1585537805",
+    "title": "Implementing the Davis-Putnam Method",
+    "venue": "Journal of Automated Reasoning",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hantao Zhang",
+            "id": "2098359920",
+            "org": "Dept. of Computer Science, The University of Iowa, Iowa City, IA 52242, U.S.A. e-mail: hzhang@cs.uiowa.edu#TAB#"
+        },
+        {
+            "name": "Mark E. Stickel",
+            "id": "2022442184",
+            "org": "Artificial Intelligence Center, SRI International, Menlo Park, CA 94025, U.S.A. e-mail: stickel@ai.sri.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Unit propagation",
+        "Algorithm",
+        "Well-formed formula",
+        "DPLL algorithm",
+        "Discrete mathematics",
+        "Horn-satisfiability",
+        "Satisfiability",
+        "Propositional formula",
+        "Propositional variable",
+        "Zeroth-order logic"
+    ],
+    "references": [
+        "22657303",
+        "1511155470",
+        "1521053613",
+        "1561608403",
+        "1667614912",
+        "1774277213",
+        "2011992362",
+        "2057361103",
+        "2062897452",
+        "2097412459",
+        "2140593307"
+    ]
+}

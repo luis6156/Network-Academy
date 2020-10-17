@@ -1,0 +1,86 @@
+{
+    "id": "1528313757",
+    "title": "MQQ-SIG: an ultra-fast and provably CMA resistant digital signature scheme",
+    "venue": "international conference on trusted systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Danilo Gligoroski",
+            "id": "304236320",
+            "org": "Department of Telematics, The Norwegian University of Science and Technology (NTNU), Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Rune Steinsmo Odegard",
+            "id": "1989506726",
+            "org": "Centre for Quantifiable Quality of Service in Communication Systems, NTNU, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Rune Erlend Jensen",
+            "id": "2158624627",
+            "org": "Centre for Quantifiable Quality of Service in Communication Systems, NTNU, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Ludovic Perret",
+            "id": "2163354396",
+            "org": "INRIA, Paris-Rocquencourt Center, SALSA Project, UPMC Univ. Paris 06, UMR 7606, LIP6, Paris, France,CNRS, UMR 7606, LIP6, Paris, France#TAB#"
+        },
+        {
+            "name": "Jean-Charles Faugere",
+            "id": "2002696396",
+            "org": "INRIA, Paris-Rocquencourt Center, SALSA Project, UPMC Univ. Paris 06, UMR 7606, LIP6, Paris, France,CNRS, UMR 7606, LIP6, Paris, France#TAB#"
+        },
+        {
+            "name": "Svein Johan Knapskog",
+            "id": "705755140",
+            "org": "Centre for Quantifiable Quality of Service in Communication Systems, NTNU, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Smile Markovski",
+            "id": "2569891533",
+            "org": "Faculty of Natural Sciences and Mathematics, Institute of Informatics, \"Ss Cyril and Methodius\" University, Skopje, Macedonia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Order of magnitude",
+        "Quadratic equation",
+        "Byte",
+        "Theoretical computer science",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Digital signature",
+        "Random oracle",
+        "Public-key cryptography",
+        "Polynomial"
+    ],
+    "references": [
+        "1500599925",
+        "1552337496",
+        "1554035471",
+        "1564078353",
+        "1568587963",
+        "1569499052",
+        "1573563287",
+        "1584538091",
+        "1587531623",
+        "1598238634",
+        "1602432826",
+        "1652057085",
+        "1768233326",
+        "1806793453",
+        "1821087317",
+        "1831008849",
+        "1906691896",
+        "1978927998",
+        "1996360405",
+        "2003736153",
+        "2006504364",
+        "2048142198",
+        "2059522106",
+        "2088673889",
+        "2128968394",
+        "2141143262",
+        "2150548144",
+        "2891430605"
+    ]
+}

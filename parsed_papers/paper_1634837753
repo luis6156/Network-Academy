@@ -1,0 +1,61 @@
+{
+    "id": "1634837753",
+    "title": "Body armor for binaries: preventing buffer overflows without recompilation",
+    "venue": "usenix annual technical conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Asia Slowinska",
+            "id": "210846225",
+            "org": "Vrije Universiteit Amsterdam#TAB#"
+        },
+        {
+            "name": "Traian Stancescu",
+            "id": "2343060356",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Herbert Bos",
+            "id": "2269201832",
+            "org": "Vrije Universiteit Amsterdam#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Source code",
+        "Computer science",
+        "Taint checking",
+        "Buffer overflow",
+        "Body armor",
+        "Memory corruption",
+        "Real-time computing",
+        "NBench"
+    ],
+    "references": [
+        "1112477",
+        "22973579",
+        "1522250664",
+        "1545927878",
+        "1655226010",
+        "1710734607",
+        "1821004526",
+        "1825457006",
+        "2037017056",
+        "2052897520",
+        "2081768685",
+        "2097742961",
+        "2097990218",
+        "2109219878",
+        "2121579803",
+        "2133217855",
+        "2137530017",
+        "2148686658",
+        "2155851497",
+        "2156729262",
+        "2156858199",
+        "2165100126",
+        "2168264487",
+        "2171938395",
+        "2398729674"
+    ]
+}

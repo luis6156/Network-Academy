@@ -1,0 +1,55 @@
+{
+    "id": "1533619200",
+    "title": "A Lightweight Message Logging Scheme for Fault Tolerant MPI",
+    "venue": "international conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Inseon Lee",
+            "id": "2108769578",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Heon Young Yeom",
+            "id": "2073048984",
+            "org": "Seoul National University"
+        },
+        {
+            "name": "Taesoon Park",
+            "id": "2149390175",
+            "org": "Sejong University"
+        },
+        {
+            "name": "Hyoungwoo Park",
+            "id": "2115760192",
+            "org": "KISTI"
+        }
+    ],
+    "fields_of_study": [
+        "Logging",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Vector clock",
+        "Message passing",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1576341769",
+        "1759811896",
+        "1969215126",
+        "2097113145",
+        "2105039796",
+        "2106783636",
+        "2108078705",
+        "2115716396",
+        "2119400371",
+        "2121968979",
+        "2123669573",
+        "2126071114",
+        "2140070969",
+        "2145021036",
+        "2171453084"
+    ]
+}

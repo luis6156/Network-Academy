@@ -1,0 +1,35 @@
+{
+    "id": "1500382400",
+    "title": "DES is not a Group",
+    "venue": "international cryptology conference",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Keith W. Campbell",
+            "id": "2277664768",
+            "org": "Bell-Northern Research"
+        },
+        {
+            "name": "Michael J. Wiener",
+            "id": "2311698898",
+            "org": "Bell-Northern Research"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Encryption",
+        "Exploit",
+        "Known-plaintext attack",
+        "Permutation"
+    ],
+    "references": [
+        "1482084358",
+        "1486901420",
+        "1569874887",
+        "1592183051",
+        "2025203646",
+        "2030209085"
+    ]
+}

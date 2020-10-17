@@ -1,0 +1,39 @@
+{
+    "id": "1515849662",
+    "title": "Padding Oracle Attacks on the ISO CBC Mode Encryption Standard",
+    "venue": "the cryptographers' track at the rsa conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Kenneth G. Paterson",
+            "id": "2101835147",
+            "org": "University of London"
+        },
+        {
+            "name": "Arnold K. L. Yau",
+            "id": "1986385012",
+            "org": "University of London"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "Block cipher mode of operation",
+        "Malleability",
+        "Padding oracle attack",
+        "Computer science",
+        "Distributed computing",
+        "Padding",
+        "Residual block termination",
+        "Embedded system",
+        "Plaintext"
+    ],
+    "references": [
+        "1518301672",
+        "1533182289",
+        "1604454960",
+        "2159840470",
+        "2293552385"
+    ]
+}

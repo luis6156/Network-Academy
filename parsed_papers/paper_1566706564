@@ -1,0 +1,38 @@
+{
+    "id": "1566706564",
+    "title": "Efficient FPGA-based karatsuba multipliers for polynomials over F 2",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Joachim von zur Gathen",
+            "id": "672764664",
+            "org": "B-IT, Universitat Bonn, Bonn, Germany#TAB#"
+        },
+        {
+            "name": "Jamshid Shokrollahi",
+            "id": "22888332",
+            "org": "B-IT, Universitat Bonn, Bonn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Field-programmable gate array",
+        "Polynomial",
+        "Theoretical computer science",
+        "Finite field arithmetic",
+        "Karatsuba algorithm",
+        "Algorithmics",
+        "Finite field",
+        "Combinational logic",
+        "Sequential logic"
+    ],
+    "references": [
+        "180488756",
+        "1211536449",
+        "1773872090",
+        "1869939343",
+        "1977355730",
+        "2035696589"
+    ]
+}

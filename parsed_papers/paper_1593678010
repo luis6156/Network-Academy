@@ -1,0 +1,64 @@
+{
+    "id": "1593678010",
+    "title": "Efficient techniques for comprehensive protection from memory error exploits",
+    "venue": "usenix security symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sandeep Bhatkar",
+            "id": "2776562224",
+            "org": "Department of Computer Science, Stony Brook University, Stony Brook, NY#TAB#"
+        },
+        {
+            "name": "R. Sekar",
+            "id": "2132624284",
+            "org": "Department of Computer Science, Stony Brook University, Stony Brook, NY#TAB#"
+        },
+        {
+            "name": "Daniel C. DuVarney",
+            "id": "143278076",
+            "org": "Department of Computer Science, Stony Brook University, Stony Brook, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Address space layout randomization",
+        "Address space",
+        "Return-oriented programming",
+        "Computer science",
+        "Garbage collection",
+        "Memory errors",
+        "Computer security",
+        "Memory model",
+        "Buffer overflow",
+        "Information leakage"
+    ],
+    "references": [
+        "1499992849",
+        "1535713556",
+        "1537077670",
+        "1545927878",
+        "1546149892",
+        "1551571370",
+        "1579850852",
+        "1655226010",
+        "1825457006",
+        "1963569294",
+        "1973326708",
+        "2040384644",
+        "2057887498",
+        "2090181646",
+        "2098010707",
+        "2101699859",
+        "2107089133",
+        "2107742417",
+        "2108860402",
+        "2111817346",
+        "2117703831",
+        "2120138937",
+        "2140611647",
+        "2147683775",
+        "2150277819",
+        "2162986442",
+        "2171264329"
+    ]
+}

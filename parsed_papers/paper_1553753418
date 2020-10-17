@@ -1,0 +1,36 @@
+{
+    "id": "1553753418",
+    "title": "A new method for known plaintext attack of FEAL cipher",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Computer & Information Systems Laboratory, Mitsubishi Electric Corporation, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Atsuhiro Yamagishi",
+            "id": "1981215111",
+            "org": "Computer & Information Systems Laboratory, Mitsubishi Electric Corporation, Kanagawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "XSL attack",
+        "Theoretical computer science",
+        "Cipher",
+        "Discrete mathematics",
+        "FEAL",
+        "Brute-force search",
+        "Computer science",
+        "Differential cryptanalysis",
+        "Key clustering",
+        "Known-plaintext attack"
+    ],
+    "references": [
+        "1486933817",
+        "1523702841",
+        "1576495995"
+    ]
+}

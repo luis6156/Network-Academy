@@ -1,0 +1,53 @@
+{
+    "id": "148357534",
+    "title": "An efficient kernel-level blocking MPI implementation",
+    "venue": "EuroMPI'12 Proceedings of the 19th European conference on Recent Advances in the Message Passing Interface",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Atsushi Hori",
+            "id": "2049159172",
+            "org": "RIKEN AICS, Kobe, Hyogo, Japan#TAB#"
+        },
+        {
+            "name": "Toyohisa Kameyama",
+            "id": "2305563193",
+            "org": "RIKEN AICS, Kobe, Hyogo, Japan#TAB#"
+        },
+        {
+            "name": "Yuichi Tsujita",
+            "id": "2133579304",
+            "org": "Kinki Unversity, Higashi-Hiroshima, Hiroshima, Japan#TAB#"
+        },
+        {
+            "name": "Mitaro Namiki",
+            "id": "2672316667",
+            "org": "Tokyo University of Agriculture and Technology, Fuchu, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Yutaka Ishikawa",
+            "id": "2251886612",
+            "org": "RIKEN AICS, Kobe, Hyogo, Japahe University of Tokyo, Bunkyo-ku, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Implementation",
+        "Blocking techniques",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1530488840",
+        "1589576271",
+        "1603868614",
+        "1984788566",
+        "1996887196",
+        "2095793442",
+        "2105524676",
+        "2136296893",
+        "2143665235",
+        "2154207621",
+        "2155066383"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1511956794",
+    "title": "Fast Point Multiplication on Elliptic Curves without Precomputation",
+    "venue": "international conference on arithmetic of finite fields",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marc Joye",
+            "id": "2776281363",
+            "org": "Thomson R&D France, Technology Group, Corporate Research, Security Laboratory, Cesson-Seevigne Cedex, France 35576#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supersingular elliptic curve",
+        "Lenstra elliptic curve factorization",
+        "Twists of curves",
+        "Mathematics",
+        "Edwards curve",
+        "Discrete mathematics",
+        "Division polynomials",
+        "Elliptic curve point multiplication",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves"
+    ],
+    "references": [
+        "1496801598",
+        "1522228241",
+        "1532398039",
+        "1539482743",
+        "1584722274",
+        "2099317248",
+        "2151279347",
+        "2154909745",
+        "2296300514"
+    ]
+}

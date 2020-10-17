@@ -1,0 +1,42 @@
+{
+    "id": "1591044060",
+    "title": "Reasoning about deterministic concurrent functional i/o",
+    "venue": "implementation and application of functional languages",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Malcolm Dowse",
+            "id": "2163851622",
+            "org": "Trinity College Dublin, Ireland#TAB#"
+        },
+        {
+            "name": "Andrew Butterfield",
+            "id": "2104226303",
+            "org": "Trinity College Dublin, Ireland#TAB#"
+        },
+        {
+            "name": "Marko C. J. D. van Eekelen",
+            "id": "2024566924",
+            "org": "University of Nijmegen, The Netherlands#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Metalanguage",
+        "Theoretical computer science",
+        "Proof assistant",
+        "Input/output",
+        "Computer science",
+        "Deterministic system (philosophy)",
+        "Concurrency",
+        "Functional programming"
+    ],
+    "references": [
+        "1491698270",
+        "1559498053",
+        "1567780099",
+        "2067689381",
+        "2078944436",
+        "2296715995",
+        "2463514992"
+    ]
+}

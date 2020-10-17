@@ -1,0 +1,47 @@
+{
+    "id": "1813572048",
+    "title": "Exploiting parallelism in the implementation of AGNA, a persistent programming system",
+    "venue": "international conference on data engineering",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Rishiyur S. Nikhil",
+            "id": "2221444042",
+            "org": "MIT, Cambridge, MA, USA"
+        },
+        {
+            "name": "Michael L. Heytens",
+            "id": "275469603",
+            "org": "MIT, Cambridge, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Parallel programming model",
+        "Computer science",
+        "Data parallelism",
+        "Parallel database",
+        "Implicit parallelism",
+        "Database",
+        "Task parallelism",
+        "MIMD",
+        "Model of computation"
+    ],
+    "references": [
+        "1523534536",
+        "1540598491",
+        "1969054202",
+        "1977101058",
+        "2005318605",
+        "2065109357",
+        "2080427212",
+        "2090019683",
+        "2156115774",
+        "2163285366",
+        "2170357877",
+        "2171922437",
+        "2175441551",
+        "2200275386"
+    ]
+}

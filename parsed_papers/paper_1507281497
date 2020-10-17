@@ -1,0 +1,54 @@
+{
+    "id": "1507281497",
+    "title": "CADP 2006: a toolbox for the construction and analysis of distributed processes",
+    "venue": "computer aided verification",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Hubert Garavel",
+            "id": "207950334",
+            "org": "INRIA, Centre de Recherche Rho ne-Alpes, Vasy, Saint Ismier Cedex, France#TAB#"
+        },
+        {
+            "name": "Radu Mateescu",
+            "id": "2159052863",
+            "org": "INRIA, Centre de Recherche Rho ne-Alpes, Vasy, Saint Ismier Cedex, France#TAB#"
+        },
+        {
+            "name": "Frede ric Lang",
+            "id": "2578522681",
+            "org": "INRIA, Centre de Recherche Rho ne-Alpes, Vasy, Saint Ismier Cedex, France#TAB#"
+        },
+        {
+            "name": "Wendelin Serwe",
+            "id": "2799074008",
+            "org": "INRIA, Centre de Recherche Rho ne-Alpes, Vasy, Saint Ismier Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Toolbox",
+        "Asynchronous communication",
+        "Computer science",
+        "Message passing",
+        "Concurrency",
+        "Asynchronous system",
+        "Rapid prototyping",
+        "Programming language",
+        "Partial order reduction"
+    ],
+    "references": [
+        "185032413",
+        "1495079723",
+        "1503429725",
+        "1510820946",
+        "1516139305",
+        "1533440733",
+        "1539400854",
+        "1556566737",
+        "1596931967",
+        "1980377655",
+        "1982254742",
+        "2026591657",
+        "2136877520"
+    ]
+}

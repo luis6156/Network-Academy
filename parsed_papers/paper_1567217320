@@ -1,0 +1,46 @@
+{
+    "id": "1567217320",
+    "title": "Research on Algorithm of Parallel Garbage Collection Based on LISP 2 for Multi-core System",
+    "venue": "international conference on intelligent computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Congpin Zhang",
+            "id": "2686626342",
+            "org": "Henan Normal University"
+        },
+        {
+            "name": "Changmao Wu",
+            "id": "2707854855",
+            "org": "Henan Normal University"
+        },
+        {
+            "name": "Lili Zhao",
+            "id": "2655514497",
+            "org": "Henan Normal University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Mark-compact algorithm",
+        "Garbage collection",
+        "Heap (data structure)",
+        "LISP 2",
+        "Garbage",
+        "Manual memory management",
+        "Architecture"
+    ],
+    "references": [
+        "1535821106",
+        "1583464938",
+        "1623282124",
+        "1702434361",
+        "2025899651",
+        "2137736443",
+        "2152891541"
+    ]
+}

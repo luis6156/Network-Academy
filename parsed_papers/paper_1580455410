@@ -1,0 +1,42 @@
+{
+    "id": "1580455410",
+    "title": "Optimization of quadrature filters based on the numerical integration of improper integrals",
+    "venue": "international conference on pattern recognition",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Andreas Krebs",
+            "id": "2804072523",
+            "org": "Dept. Aerodynamics, Fluid Mech., BTU Cottbus, Germany#TAB#"
+        },
+        {
+            "name": "Johan Wiklund",
+            "id": "1920214012",
+            "org": "Computer Vision Laboratory, Linkoping University, Sweden#TAB#"
+        },
+        {
+            "name": "Michael Felsberg",
+            "id": "26172899",
+            "org": "Computer Vision Laboratory, Linkoping University, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Frequency response",
+        "Fourier transform",
+        "Adaptive filter",
+        "Filter design",
+        "Weight function",
+        "Gauss-Jacobi quadrature",
+        "Kernel adaptive filter",
+        "Quadrature filter",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1553200558",
+        "1556116355",
+        "1576696893",
+        "2102856532",
+        "2138075164"
+    ]
+}

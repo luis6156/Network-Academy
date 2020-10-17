@@ -1,0 +1,73 @@
+{
+    "id": "1547507450",
+    "title": "A Distributed-Memory Package for Dense Hierarchically Semi-Separable Matrix Computations Using Randomization",
+    "venue": "ACM Transactions on Mathematical Software",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Francois-Henry Rouet",
+            "id": "2088039621",
+            "org": "Lawrence Berkeley National Laboratory, Berkeley, USA"
+        },
+        {
+            "name": "Xiaoye S. Li",
+            "id": "2127836801",
+            "org": "Lawrence Berkeley National Laboratory, Berkeley, USA"
+        },
+        {
+            "name": "Pieter Ghysels",
+            "id": "2069821649",
+            "org": "Lawrence Berkeley National Laboratory, Berkeley, USA"
+        },
+        {
+            "name": "Artem Napov",
+            "id": "207723087",
+            "org": "Universite Libre de Bruxelles, Bruxelles, Belgique"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Factorization",
+        "Mathematical software",
+        "Theoretical computer science",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Distributed memory",
+        "Linear system",
+        "Parallel algorithm",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "201315547",
+        "1559275088",
+        "1569304948",
+        "1591618182",
+        "1712535590",
+        "1964681401",
+        "1973166496",
+        "1973786815",
+        "1973915465",
+        "1983103429",
+        "2012389049",
+        "2026139385",
+        "2036564429",
+        "2038922352",
+        "2056999868",
+        "2063675347",
+        "2070326534",
+        "2073469129",
+        "2075490698",
+        "2083903752",
+        "2089958289",
+        "2095595785",
+        "2136895839",
+        "2148979214",
+        "2157072253",
+        "2160774872",
+        "2168748809",
+        "2318669552",
+        "2534273435",
+        "2613465422"
+    ]
+}

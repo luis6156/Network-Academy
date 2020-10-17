@@ -1,0 +1,45 @@
+{
+    "id": "1578687166",
+    "title": "Fast Implementation of Elliptic Curve Defined over GF(pm) on CalmRISC with MAC2424 Coprocessor",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Jae Wook Chung",
+            "id": "2692374854",
+            "org": "POSTECH"
+        },
+        {
+            "name": "Sang Gyoo Sim",
+            "id": "2140345088",
+            "org": "POSTECH"
+        },
+        {
+            "name": "Pil Joong Lee",
+            "id": "2139910894",
+            "org": "POSTECH"
+        }
+    ],
+    "fields_of_study": [
+        "Integer",
+        "Parallel computing",
+        "Exponentiation",
+        "Computer science",
+        "Coprocessor",
+        "Elliptic curve cryptography",
+        "Finite field",
+        "Elliptic curve",
+        "Multiplication",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1496801598",
+        "1501115028",
+        "1539482743",
+        "1563272506",
+        "1584579923",
+        "1586812950",
+        "1869939343",
+        "2003736153"
+    ]
+}

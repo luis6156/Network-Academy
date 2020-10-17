@@ -1,0 +1,56 @@
+{
+    "id": "1517128672",
+    "title": "Optimistic intra-transaction parallelism on chip multiprocessors",
+    "venue": "very large data bases",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Christopher B. Colohan",
+            "id": "230773806",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Anastassia Ailamaki",
+            "id": "1787861840",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "J. Gregory Steffan",
+            "id": "419489318",
+            "org": "University of Toronto, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Todd C. Mowry",
+            "id": "40863599",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Online transaction processing",
+        "Parallel computing",
+        "Computer science",
+        "Distributed transaction",
+        "Database",
+        "Task parallelism",
+        "Data structure",
+        "Systems design",
+        "Real-time computing",
+        "Programmer",
+        "Database transaction"
+    ],
+    "references": [
+        "1502073968",
+        "1525227808",
+        "2029171059",
+        "2104954161",
+        "2106018697",
+        "2112833506",
+        "2113751407",
+        "2127642645",
+        "2128274900",
+        "2132291258",
+        "2133386065",
+        "2133752438"
+    ]
+}

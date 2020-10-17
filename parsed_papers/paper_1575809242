@@ -1,0 +1,52 @@
+{
+    "id": "1575809242",
+    "title": "Copilot: a hard real-time runtime monitor",
+    "venue": "runtime verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Lee Pike",
+            "id": "2513976441",
+            "org": "Galois, Inc.#TAB#"
+        },
+        {
+            "name": "Alwyn Goodloe",
+            "id": "253575810",
+            "org": "National Institute of Aerospace#TAB#"
+        },
+        {
+            "name": "Robin Morisset",
+            "id": "2670756630",
+            "org": "Ecole Normale Superieure#TAB#"
+        },
+        {
+            "name": "Sebastian Niller",
+            "id": "182511339",
+            "org": "Technische Universitat Ilmenau, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Satisfiability",
+        "Compiler",
+        "Computer science",
+        "Dataflow",
+        "Correctness",
+        "Real-time operating system",
+        "Dependency graph",
+        "Real-time computing"
+    ],
+    "references": [
+        "1528748608",
+        "1552908270",
+        "1973501242",
+        "2047276559",
+        "2095377417",
+        "2113012730",
+        "2122633938",
+        "2122915593",
+        "2145901923",
+        "2158229244",
+        "2159181605",
+        "2160146193"
+    ]
+}

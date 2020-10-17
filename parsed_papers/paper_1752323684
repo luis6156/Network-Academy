@@ -1,0 +1,90 @@
+{
+    "id": "1752323684",
+    "title": "Better Zero-Knowledge Proofs for Lattice Encryption and Their Application to Group Signatures",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Fabrice Benhamouda",
+            "id": "2033347500",
+            "org": "Departement d'Informatique, Ecole Normale Superieure, Paris"
+        },
+        {
+            "name": "Jan Camenisch",
+            "id": "2001749418",
+            "org": "IBM Research Zurich - Ruschlikon"
+        },
+        {
+            "name": "Stephan Krenn",
+            "id": "357209215",
+            "org": "IBM Research Zurich - Ruschlikon"
+        },
+        {
+            "name": "Vadim Lyubashevsky",
+            "id": "627763154",
+            "org": "Departement d'Informatique, Ecole Normale Superieure, Paris"
+        },
+        {
+            "name": "Gregory Neven",
+            "id": "2021558904",
+            "org": "IBM Research Zurich - Ruschlikon"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Lattice problem",
+        "Discrete logarithm",
+        "Cryptographic protocol",
+        "Discrete mathematics",
+        "Zero-knowledge proof",
+        "Encryption",
+        "Proof of knowledge",
+        "Group signature"
+    ],
+    "references": [
+        "24111845",
+        "121367636",
+        "147565578",
+        "198033559",
+        "1484557542",
+        "1491861813",
+        "1506156414",
+        "1519095911",
+        "1521253015",
+        "1527005907",
+        "1530039015",
+        "1550579237",
+        "1551471557",
+        "1561877077",
+        "1603256047",
+        "1675339804",
+        "1838677899",
+        "1850675439",
+        "1885156594",
+        "1936753088",
+        "2031533839",
+        "2038761522",
+        "2057636642",
+        "2071825329",
+        "2073210531",
+        "2096218735",
+        "2096571200",
+        "2098290658",
+        "2104648615",
+        "2110264892",
+        "2113393538",
+        "2117797270",
+        "2134409266",
+        "2135656098",
+        "2159339434",
+        "2163469693",
+        "2163614799",
+        "2172174332",
+        "2210874835",
+        "2402235285",
+        "2610184982",
+        "2610931382"
+    ]
+}

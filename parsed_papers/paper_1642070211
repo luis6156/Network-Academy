@@ -1,0 +1,35 @@
+{
+    "id": "1642070211",
+    "title": "An Architecture for IP Address Allocation with CIDR",
+    "venue": "RFC",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Yakov Rekhter",
+            "id": "2653663010",
+            "org": "J. Watson Research Center|IBM Corp"
+        },
+        {
+            "name": "Tony Li",
+            "id": "2778655628",
+            "org": "IBM Corp"
+        }
+    ],
+    "fields_of_study": [
+        "Reserved IP addresses",
+        "IPv6 address",
+        "IP address management",
+        "Bogon filtering",
+        "Network address translation",
+        "NAT traversal",
+        "Engineering",
+        "Computer network",
+        "The Internet",
+        "Architecture"
+    ],
+    "references": [
+        "1902715990",
+        "2100914958",
+        "2254429269"
+    ]
+}

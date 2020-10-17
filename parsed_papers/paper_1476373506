@@ -1,0 +1,57 @@
+{
+    "id": "1476373506",
+    "title": "When Reverse-Engineering Meets Side-Channel Analysis --- Digital Lockpicking in Practice",
+    "venue": "selected areas in cryptography",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "David Oswald",
+            "id": "1964382806",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Daehyun Strobel",
+            "id": "2131589132",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Falk Schellenberg",
+            "id": "2141594228",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Timo Kasper",
+            "id": "2160594996",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Horst Gortz Institute for IT-Security, Ruhr-University Bochum, Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Doors",
+        "Reverse engineering",
+        "Key derivation function",
+        "Access control",
+        "Computer science",
+        "Countermeasure",
+        "Lock (computer science)",
+        "Computer security",
+        "Transponder (aeronautics)"
+    ],
+    "references": [
+        "196942907",
+        "1495989020",
+        "1543036588",
+        "1562542037",
+        "1580550895",
+        "2132161909",
+        "2132230638",
+        "2138498667",
+        "2140246151",
+        "2227028477"
+    ]
+}

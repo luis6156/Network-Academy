@@ -1,0 +1,41 @@
+{
+    "id": "1683976827",
+    "title": "Low power implementation of trivium stream cipher",
+    "venue": "power and timing modeling optimization and simulation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "J. M. Mora-Gutierrez",
+            "id": "2638991429",
+            "org": "Centro Nacional de Microelectronica (CSIC)"
+        },
+        {
+            "name": "C.J. Jimenez-Fernandez",
+            "id": "2652241103",
+            "org": "Universidad de Sevilla"
+        },
+        {
+            "name": "M. Valencia-Barrero",
+            "id": "354222339",
+            "org": "Universidad de Sevilla"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic engineering",
+        "CMOS",
+        "Parallel computing",
+        "Computer science",
+        "Stream cipher",
+        "Implementation",
+        "ModelSim",
+        "Telecommunications",
+        "Shift register"
+    ],
+    "references": [
+        "1561363170",
+        "1566902365",
+        "1603245819",
+        "2019560988",
+        "2156186849"
+    ]
+}

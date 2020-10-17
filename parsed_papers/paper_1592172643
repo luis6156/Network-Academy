@@ -1,0 +1,40 @@
+{
+    "id": "1592172643",
+    "title": "A Software Architecture for Massively Parallel Input-Output",
+    "venue": "parallel computing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Peter Brezany",
+            "id": "100817749",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Thomas A. Muck",
+            "id": "2154077937",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Erich Schikuta",
+            "id": "2268397109",
+            "org": "University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel I/O",
+        "Massively parallel",
+        "Parallel computing",
+        "Computer architecture",
+        "Input/output",
+        "Reference architecture",
+        "Resource-oriented architecture",
+        "Computer science",
+        "High Performance Fortran",
+        "Runtime system",
+        "Fortran"
+    ],
+    "references": [
+        "1557146796",
+        "2159826399"
+    ]
+}

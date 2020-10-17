@@ -1,0 +1,55 @@
+{
+    "id": "1565923644",
+    "title": "Efficient MPI support for advanced hybrid programming models",
+    "venue": "EuroMPI'10 Proceedings of the 17th European MPI users' group meeting conference on Recent advances in the message passing interface",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Torsten Hoefler",
+            "id": "262156611",
+            "org": "University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Greg Bronevetsky",
+            "id": "211849072",
+            "org": "Lawrence Livermore National Laboratory, Center for Applied Scientific Computing, Livermore, CA#TAB#"
+        },
+        {
+            "name": "Brian W. Barrett",
+            "id": "2895340988",
+            "org": "Sandia National Laboratories, Albuquerque, NM#TAB#"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Lawrence Livermore National Laboratory, Center for Applied Scientific Computing, Livermore, CA#TAB#"
+        },
+        {
+            "name": "Andrew Lumsdaine",
+            "id": "2140207053",
+            "org": "Indiana University, Open Systems Lab, Bloomington, IN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Workaround",
+        "Computer science",
+        "Distributed computing",
+        "Programming complexity",
+        "Implementation",
+        "Message Passing Interface",
+        "Reference implementation",
+        "Receiver function",
+        "Programming paradigm",
+        "Deadlock"
+    ],
+    "references": [
+        "42305685",
+        "1513772264",
+        "1550554130",
+        "1603189358",
+        "1969215126",
+        "1980681981",
+        "2107590122"
+    ]
+}

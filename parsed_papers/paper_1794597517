@@ -1,0 +1,30 @@
+{
+    "id": "1794597517",
+    "title": "Parallelizing applications with SVM-Fortran",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Michael Gerndt",
+            "id": "32167922",
+            "org": "Research Centre Julich (KFA)"
+        },
+        {
+            "name": "Rudolf Berrendorf",
+            "id": "184675139",
+            "org": "Research Centre Julich (KFA)"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Message passing",
+        "Support vector machine",
+        "Fortran",
+        "Page fault"
+    ],
+    "references": [
+        "2001880793"
+    ]
+}

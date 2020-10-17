@@ -1,0 +1,42 @@
+{
+    "id": "1540973840",
+    "title": "Cryptanalysis of reduced variants of the FORK-256 hash function",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Joseph Lano",
+            "id": "2145353776",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Primary clustering",
+        "Rolling hash",
+        "FORK-256",
+        "Collision attack",
+        "Hash filter",
+        "Hash function",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1521015940",
+        "1610003881",
+        "1656731780",
+        "2103239853",
+        "2135759164"
+    ]
+}

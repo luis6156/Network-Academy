@@ -1,0 +1,71 @@
+{
+    "id": "1710734607",
+    "title": "KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs",
+    "venue": "operating systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Cristian Cadar",
+            "id": "1243827984",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Daniel Dunbar",
+            "id": "2151421877",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Dawson R. Engler",
+            "id": "2163716051",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concolic testing",
+        "Test suite",
+        "Source lines of code",
+        "Unix",
+        "Computer science",
+        "Symbolic execution",
+        "Distributed computing",
+        "Correctness",
+        "Suite",
+        "Fuzz testing",
+        "Operating system",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "33043110",
+        "157156687",
+        "1497028280",
+        "1503159836",
+        "1720848645",
+        "1995626000",
+        "1997960810",
+        "2009489720",
+        "2050853996",
+        "2065675749",
+        "2086234010",
+        "2089139117",
+        "2096449544",
+        "2096503829",
+        "2100583963",
+        "2104993088",
+        "2113531724",
+        "2115309705",
+        "2117058582",
+        "2129487583",
+        "2129538349",
+        "2132897303",
+        "2133612077",
+        "2135274583",
+        "2145385214",
+        "2153185479",
+        "2165100126",
+        "2171469152",
+        "2171480813",
+        "2171683519",
+        "2171999426"
+    ]
+}

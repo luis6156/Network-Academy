@@ -1,0 +1,39 @@
+{
+    "id": "1608415167",
+    "title": "A pseudo-random bit generator based on elliptic logarithms",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2229857280",
+            "org": "Massachusetts Institute of Technology, Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperelliptic curve cryptography",
+        "Mathematics",
+        "Pseudorandom number generator",
+        "Discrete logarithm",
+        "Post-quantum cryptography",
+        "Discrete mathematics",
+        "Elliptic curve cryptography",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Baby-step giant-step"
+    ],
+    "references": [
+        "1554502957",
+        "1952573265",
+        "1964053266",
+        "1971297422",
+        "2031495811",
+        "2055735365",
+        "2079631449",
+        "2088091599",
+        "2108104892",
+        "2117362057",
+        "2156186849",
+        "2164284862"
+    ]
+}

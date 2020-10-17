@@ -1,0 +1,48 @@
+{
+    "id": "1549103133",
+    "title": "Evaluation of the acknowledgment reduction in a Software-DSM system",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kenji Kise",
+            "id": "2131010027",
+            "org": "Graduate School of Information Systems, The University of Electro-Communications, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Takahiro Katagiri",
+            "id": "2776244655",
+            "org": "Graduate School of Information Systems, The University of Electro-Communications, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Hiroki Honda",
+            "id": "2286042952",
+            "org": "Graduate School of Information Systems, The University of Electro-Communications, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Toshitsugu Yuba",
+            "id": "2472784524",
+            "org": "Graduate School of Information Systems, The University of Electro-Communications, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inter-process communication",
+        "TreadMarks",
+        "Shared memory",
+        "Computer science",
+        "User Datagram Protocol",
+        "Distributed computing",
+        "Virtual memory",
+        "Distributed shared memory",
+        "Middleware",
+        "TCP delayed acknowledgment"
+    ],
+    "references": [
+        "51427095",
+        "123941020",
+        "1542985837",
+        "1916709771",
+        "2092816328",
+        "2114316312"
+    ]
+}

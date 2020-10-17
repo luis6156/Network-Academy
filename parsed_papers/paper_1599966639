@@ -1,0 +1,46 @@
+{
+    "id": "1599966639",
+    "title": "Proofs for two-server password authentication",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael Szydlo",
+            "id": "794659302",
+            "org": "RSA Laboratories, Bedford, MA#TAB#"
+        },
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2804044531",
+            "org": "RSA Laboratories, Bedford, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Password strength",
+        "Cognitive password",
+        "Computer science",
+        "Distributed computing",
+        "Password",
+        "One-time password"
+    ],
+    "references": [
+        "152471209",
+        "203500824",
+        "1492124753",
+        "1503670812",
+        "1523871498",
+        "1565843891",
+        "1895302964",
+        "2011793105",
+        "2052267638",
+        "2123544182",
+        "2124926080",
+        "2157604883",
+        "2170220035",
+        "2172042295"
+    ]
+}

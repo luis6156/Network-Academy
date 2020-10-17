@@ -1,0 +1,36 @@
+{
+    "id": "1595159159",
+    "title": "Differential Evolution - A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces",
+    "venue": "Journal of Global Optimization",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Rainer Storn",
+            "id": "2073659669",
+            "org": "Siemens AG, ZFE T SN2, Otto-Hahn Ring 6, D-81739 Muenchen, Germany. (e-mail:rainer.storn@mchp.siemens.de)#TAB#"
+        },
+        {
+            "name": "Kenneth V. Price",
+            "id": "1976292288",
+            "org": "836 Owl Circle, Vacaville, CA 95687, U.S.A. (email: kprice@solano.community.net)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Random optimization",
+        "Global optimization",
+        "Discrete optimization",
+        "Derivative-free optimization",
+        "Vector optimization",
+        "Continuous optimization",
+        "Mathematical optimization",
+        "Meta-optimization",
+        "Metaheuristic"
+    ],
+    "references": [
+        "1626834557",
+        "1639032689",
+        "2027945080",
+        "2089419496"
+    ]
+}

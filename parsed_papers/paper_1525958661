@@ -1,0 +1,49 @@
+{
+    "id": "1525958661",
+    "title": "STRIDE: Polymorphic Sled Detection Through Instruction Sequence Analysis",
+    "venue": "information security conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Periklis Akritidis",
+            "id": "2779728267",
+            "org": "Institute of Computer Science Foundation for Research and Technology Hellas"
+        },
+        {
+            "name": "Evangelos P. Markatos",
+            "id": "1973983982",
+            "org": "Institute of Computer Science Foundation for Research and Technology Hellas"
+        },
+        {
+            "name": "Michalis Polychronakis",
+            "id": "198647274",
+            "org": "Institute of Computer Science Foundation for Research and Technology Hellas"
+        },
+        {
+            "name": "Kostas G. Anagnostakis",
+            "id": "143871111",
+            "org": "Univ. of Pennsylvania"
+        }
+    ],
+    "fields_of_study": [
+        "Obfuscation",
+        "Parallel computing",
+        "Heuristics",
+        "Shellcode",
+        "False positive paradox",
+        "Computer science",
+        "Intrusion detection system",
+        "Buffer overflow",
+        "Exploit",
+        "Heuristic"
+    ],
+    "references": [
+        "1485086418",
+        "1542906860",
+        "1546149892",
+        "1655226010",
+        "1674877186",
+        "2090181646",
+        "2150277819"
+    ]
+}

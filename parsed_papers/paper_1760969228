@@ -1,0 +1,82 @@
+{
+    "id": "1760969228",
+    "title": "HotRestore: a fast restore system for virtual machine cluster",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Lei Cui",
+            "id": "2144088655",
+            "org": "State Key Laboratory of Software Development Environment, Beihang University, China#TAB#"
+        },
+        {
+            "name": "Jianxin Li",
+            "id": "2609074836",
+            "org": "State Key Laboratory of Software Development Environment, Beihang University, China#TAB#"
+        },
+        {
+            "name": "Tianyu Wo",
+            "id": "2168030641",
+            "org": "State Key Laboratory of Software Development Environment, Beihang University, China#TAB#"
+        },
+        {
+            "name": "Bo Li",
+            "id": "2807612113",
+            "org": "State Key Laboratory of Software Development Environment, Beihang University, China#TAB#"
+        },
+        {
+            "name": "Renyu Yang",
+            "id": "2722100529",
+            "org": "State Key Laboratory of Software Development Environment, Beihang University, China#TAB#"
+        },
+        {
+            "name": "Yingjie Cao",
+            "id": "2302508053",
+            "org": "State Key Laboratory of Software Development Environment, Beihang University, China#TAB#"
+        },
+        {
+            "name": "Jinpeng Huai",
+            "id": "1966937424",
+            "org": "State Key Laboratory of Software Development Environment, Beihang University, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Latency (engineering)",
+        "Dependency graph",
+        "Snapshot (computer storage)",
+        "Virtual machine",
+        "Schedule",
+        "Real-time computing",
+        "Working set"
+    ],
+    "references": [
+        "39516650",
+        "41212852",
+        "1510496002",
+        "1578858535",
+        "1596752816",
+        "1826649839",
+        "2013592197",
+        "2034881140",
+        "2052915895",
+        "2054308357",
+        "2064953307",
+        "2076680677",
+        "2077661716",
+        "2095764366",
+        "2100970777",
+        "2104321028",
+        "2112803536",
+        "2114882853",
+        "2119960894",
+        "2121542813",
+        "2131053137",
+        "2135890534",
+        "2138594564",
+        "2142098074",
+        "2142130356",
+        "2157593328"
+    ]
+}

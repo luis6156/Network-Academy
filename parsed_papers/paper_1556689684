@@ -1,0 +1,72 @@
+{
+    "id": "1556689684",
+    "title": "Cheating the I/O bottleneck: network storage with Trapeze/Myrinet",
+    "venue": "usenix annual technical conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Darrell C. Anderson",
+            "id": "2100413190",
+            "org": "Department of Computer Science, Duke University#TAB#"
+        },
+        {
+            "name": "Jeffrey S. Chase",
+            "id": "2147241376",
+            "org": "Department of Computer Science, Duke University#TAB#"
+        },
+        {
+            "name": "Syam Gadde",
+            "id": "1997162101",
+            "org": "Department of Computer Science, Duke University#TAB#"
+        },
+        {
+            "name": "Andrew J. Gallatin",
+            "id": "2051312750",
+            "org": "Department of Computer Science, Duke University#TAB#"
+        },
+        {
+            "name": "Ken Yocum",
+            "id": "2064609749",
+            "org": "Department of Computer Science, Duke University#TAB#"
+        },
+        {
+            "name": "Michael J. Feeley",
+            "id": "2032285811",
+            "org": "Department of Computer Science, University of British Columbia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "Parallel computing",
+        "Input/output",
+        "Firmware",
+        "Computer science",
+        "File system",
+        "Conventional PCI",
+        "Network interface",
+        "Operating system",
+        "Interrupt handler",
+        "Myrinet"
+    ],
+    "references": [
+        "1585157973",
+        "2012643955",
+        "2017952893",
+        "2025413686",
+        "2045719854",
+        "2077967211",
+        "2095687239",
+        "2095793442",
+        "2104987912",
+        "2108580089",
+        "2108914546",
+        "2113288530",
+        "2114728910",
+        "2115457697",
+        "2125743626",
+        "2128037259",
+        "2131414602",
+        "2143120180",
+        "2160816738"
+    ]
+}

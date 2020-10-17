@@ -1,0 +1,57 @@
+{
+    "id": "1483124492",
+    "title": "A word equation solver based on Levensthein distance",
+    "venue": "mexican international conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Cesar Luis Alonso",
+            "id": "2164145174",
+            "org": "Centro de Inteligencia Artificial, Universidad de Oviedo, Gijon, Spain#TAB#"
+        },
+        {
+            "name": "David Roibas Alonso",
+            "id": "2576389390",
+            "org": "Centro de Inteligencia Artificial, Universidad de Oviedo, Gijon, Spain#TAB#"
+        },
+        {
+            "name": "Mar Callau",
+            "id": "2797688611",
+            "org": "Universidad Complutense de Madrid#TAB#"
+        },
+        {
+            "name": "Jose Luis Montana",
+            "id": "2161372893",
+            "org": "Departamento de Matematicas, Estadistica y Computacion, Universidad de Cantabria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Hamming distance",
+        "Word metric",
+        "Computer science",
+        "Local search (optimization)",
+        "Fitness function",
+        "Evolutionary algorithm",
+        "Edit distance",
+        "Solver",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "73232262",
+        "1546860696",
+        "1559713008",
+        "1586107517",
+        "1639032689",
+        "1965415591",
+        "1989660382",
+        "2022620380",
+        "2023923770",
+        "2028685566",
+        "2037286444",
+        "2059513841",
+        "2124401866",
+        "2153128123"
+    ]
+}

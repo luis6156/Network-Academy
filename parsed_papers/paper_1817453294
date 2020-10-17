@@ -1,0 +1,66 @@
+{
+    "id": "1817453294",
+    "title": "Checking secure interactions of smart card applets: extended version",
+    "venue": "Journal of Computer Security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Pierre Bieber",
+            "id": "2162047452",
+            "org": "ONERA-CERT/DTIM, BP 4025, 2 avenue E. Belin, F-31055 Toulouse Cedex 4, France#TAB#"
+        },
+        {
+            "name": "Jacques Cazin",
+            "id": "1887168994",
+            "org": "ONERA-CERT/DTIM, BP 4025, 2 avenue E. Belin, F-31055 Toulouse Cedex 4, France#TAB#"
+        },
+        {
+            "name": "Pierre Girard",
+            "id": "2568195421",
+            "org": "GEMPLUS, avenue du pic de Bertagne, 13881 Gemenos cedex, France#TAB#"
+        },
+        {
+            "name": "Jean-Louis Lanet",
+            "id": "2804805540",
+            "org": "GEMPLUS, avenue du pic de Bertagne, 13881 Gemenos cedex, France#TAB#"
+        },
+        {
+            "name": "Virginie Wiels",
+            "id": "342554022",
+            "org": "ONERA-CERT/DTIM, BP 4025, 2 avenue E. Belin, F-31055 Toulouse Cedex 4, France#TAB#"
+        },
+        {
+            "name": "Guy Zanon",
+            "id": "2135494134",
+            "org": "ONERA-CERT/DTIM, BP 4025, 2 avenue E. Belin, F-31055 Toulouse Cedex 4, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Java applet",
+        "Computer science",
+        "Smart card application protocol data unit",
+        "Computer security",
+        "Issuer",
+        "Security policy",
+        "Model checking",
+        "Information flow (information theory)",
+        "Smart card"
+    ],
+    "references": [
+        "1488790435",
+        "1547030198",
+        "1554358172",
+        "1606635928",
+        "1607529940",
+        "2035069210",
+        "2057503672",
+        "2080914957",
+        "2094873755",
+        "2105360973",
+        "2136296832",
+        "2153605245",
+        "2154909745",
+        "2158126684"
+    ]
+}

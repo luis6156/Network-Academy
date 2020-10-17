@@ -1,0 +1,47 @@
+{
+    "id": "1570923846",
+    "title": "Efficient Distributed Memory Implementation of a Data Parallel Functional Language",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Herbert Kuchen",
+            "id": "2798906356",
+            "org": "RWTH Aachen Informatik II D-52056 Aachen Germany D-52056 Aachen Germany"
+        },
+        {
+            "name": "M.J. Plasmeijer",
+            "id": "2046925394",
+            "org": "University of Nijmegen Dep. of Computer Science 6525 ED Nijmegen The Netherlands 6525 ED Nijmegen The Netherlands"
+        },
+        {
+            "name": "Holger Stoltze",
+            "id": "2799195564",
+            "org": "University of Nijmegen|Dep . of Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Language primitive",
+        "Parallel computing",
+        "Data control language",
+        "Shared memory",
+        "Computer science",
+        "Data parallelism",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Task parallelism",
+        "Programming language implementation"
+    ],
+    "references": [
+        "1534611368",
+        "1555216982",
+        "1607380961",
+        "1973068315",
+        "1986388229",
+        "2030463561",
+        "2122250035",
+        "2132084888",
+        "2152033109",
+        "2295914203"
+    ]
+}

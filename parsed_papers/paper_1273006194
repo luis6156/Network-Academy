@@ -1,0 +1,41 @@
+{
+    "id": "1273006194",
+    "title": "New (Two-Track-)MAC Based on the Two Trails of RIPEMD",
+    "venue": "selected areas in cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Bert den Boer",
+            "id": "2122163220",
+            "org": "TNO/TPD"
+        },
+        {
+            "name": "Bart Van Rompay",
+            "id": "2126644509",
+            "org": "Katholieke Universiteit Leuven, ESAT-COSIC"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven, ESAT-COSIC"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Universiteit Leuven, ESAT-COSIC"
+        }
+    ],
+    "fields_of_study": [
+        "Hash-based message authentication code",
+        "Computer science",
+        "Distributed computing",
+        "RIPEMD",
+        "Hash function",
+        "Message authentication code"
+    ],
+    "references": [
+        "2011095011",
+        "2104633167",
+        "2127124188"
+    ]
+}

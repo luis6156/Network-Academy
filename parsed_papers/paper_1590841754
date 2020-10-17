@@ -1,0 +1,39 @@
+{
+    "id": "1590841754",
+    "title": "A Simple Client-Based Hybrid Robust Hash Routing Web Caching System (2HRCS)",
+    "venue": "asia-pacific web conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Jong Ho Park",
+            "id": "2309576093",
+            "org": "CNU"
+        },
+        {
+            "name": "Kil To Chong",
+            "id": "2685774712",
+            "org": "CNU"
+        }
+    ],
+    "fields_of_study": [
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Domain Name System",
+        "Content delivery network",
+        "Database",
+        "Round-robin DNS",
+        "Consistent hashing",
+        "Hash function",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1527961683",
+        "2103438593",
+        "2126540423",
+        "2133985894",
+        "2156435549",
+        "2157740020"
+    ]
+}

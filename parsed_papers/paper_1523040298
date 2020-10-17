@@ -1,0 +1,45 @@
+{
+    "id": "1523040298",
+    "title": "LS-CMA-ES: A Second-Order Algorithm for Covariance Matrix Adaptation",
+    "venue": "parallel problem solving from nature",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Anne Auger",
+            "id": "2780293629",
+            "org": "Universite Paris-Sud"
+        },
+        {
+            "name": "Marc Schoenauer",
+            "id": "89424581",
+            "org": "Universite Paris-Sud"
+        },
+        {
+            "name": "Nicolas Vanhaecke",
+            "id": "2682563941",
+            "org": "Fritz-Haber-Institut der Max-Planck-Gesellschaft"
+        }
+    ],
+    "fields_of_study": [
+        "Covariance intersection",
+        "Mathematics",
+        "CMA-ES",
+        "Algorithm",
+        "Rational quadratic covariance function",
+        "Covariance matrix",
+        "Estimation of covariance matrices",
+        "Covariance function",
+        "Gaussian process",
+        "Matern covariance function",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "123765585",
+        "1497576187",
+        "1976503157",
+        "2020009149",
+        "2027964569",
+        "2112036188",
+        "2138537392"
+    ]
+}

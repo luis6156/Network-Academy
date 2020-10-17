@@ -1,0 +1,43 @@
+{
+    "id": "112302522",
+    "title": "Local Search for Very Large SAT Problems.",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Steven David Prestwich",
+            "id": "2163337453",
+            "org": "University College Cork"
+        },
+        {
+            "name": "Colin Quirke",
+            "id": "2400152216",
+            "org": "University College Cork"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Iterated local search",
+        "Computer science",
+        "Min-conflicts algorithm",
+        "Local search (optimization)",
+        "WalkSAT",
+        "Guided Local Search",
+        "Best-first search",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "27267440",
+        "139325465",
+        "1494865762",
+        "1667614912",
+        "1700222499",
+        "2043829066",
+        "2103552898",
+        "2106440199",
+        "2126442135",
+        "2155218845",
+        "2165372647"
+    ]
+}

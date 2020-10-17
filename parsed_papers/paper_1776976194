@@ -1,0 +1,85 @@
+{
+    "id": "1776976194",
+    "title": "Publicly verifiable ciphertexts",
+    "venue": "Journal of Computer Security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Juan Manuel Gonzalez Nieto",
+            "id": "2095956890",
+            "org": "Queensland University of Technology, Brisbane, QLD, Australia. E-mails: {j.gonzaleznieto, stebila}@qut.edu.au#TAB#"
+        },
+        {
+            "name": "Mark Manulis",
+            "id": "1588396689",
+            "org": "University of Surrey, Guildford, UK. E-mail: mark@manulis.eu#TAB#"
+        },
+        {
+            "name": "Bertram Poettering",
+            "id": "148584932",
+            "org": "Royal Holloway, University of London, Egham, UK. E-mail: bertram.poettering@rhul.ac.uk#TAB#"
+        },
+        {
+            "name": "Jothi Rangasamy",
+            "id": "1627848934",
+            "org": "Society for Electronic Transactions and Security, Chennai, India. E-mail: jothi.rangasamy@gmail.com#TAB#"
+        },
+        {
+            "name": "Douglas Stebila",
+            "id": "260284752",
+            "org": "Queensland University of Technology, Brisbane, QLD, Australia. E-mails: {j.gonzaleznieto, stebila}@qut.edu.au#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "On-the-fly encryption",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Ciphertext indistinguishability",
+        "Deterministic encryption",
+        "Ciphertext",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "36001739",
+        "114853179",
+        "126491009",
+        "174706587",
+        "1486107224",
+        "1506886582",
+        "1517331825",
+        "1518137927",
+        "1533880360",
+        "1542889080",
+        "1572695506",
+        "1574256401",
+        "1576884909",
+        "1589129854",
+        "1801447676",
+        "1878784868",
+        "1973801321",
+        "2027528470",
+        "2034313414",
+        "2050773464",
+        "2059832303",
+        "2067318305",
+        "2068136832",
+        "2073210531",
+        "2074594718",
+        "2097638666",
+        "2108617800",
+        "2116881075",
+        "2128017619",
+        "2129359810",
+        "2144689079",
+        "2149093588",
+        "2157679418",
+        "2159339434",
+        "2164387888",
+        "2171872859",
+        "2405015683"
+    ]
+}

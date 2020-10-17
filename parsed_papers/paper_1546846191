@@ -1,0 +1,53 @@
+{
+    "id": "1546846191",
+    "title": "Adressing Comminication Latency Issues on Clusters for Fine Grained Asynchronous Applications - A Case Study",
+    "venue": "international parallel processing symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Umesh Kumar V. Rajasekaran",
+            "id": "2302560737",
+            "org": "Dept. of ECECS"
+        },
+        {
+            "name": "Malolan Chetlur",
+            "id": "2647725515",
+            "org": "Dept. of ECECS"
+        },
+        {
+            "name": "Philip A. Wilsey",
+            "id": "266758180",
+            "org": "Dept. of ECECS"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Networking hardware",
+        "MPICH",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Myrinet",
+        "Latency (engineering)",
+        "Message Passing Interface",
+        "Message passing",
+        "Architecture"
+    ],
+    "references": [
+        "3426286",
+        "1521734293",
+        "1757075791",
+        "1896822992",
+        "1967800745",
+        "1999955156",
+        "2081612620",
+        "2098209239",
+        "2114728910",
+        "2118900647",
+        "2123990187",
+        "2147853062",
+        "2154207621",
+        "2163499086",
+        "2296636214"
+    ]
+}

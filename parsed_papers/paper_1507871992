@@ -1,0 +1,49 @@
+{
+    "id": "1507871992",
+    "title": "A Linear-Time Algorithm for Computing Characteristic Strings",
+    "venue": "international symposium on algorithms and computation",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Michio Nakanishi",
+            "id": "2162954154",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Morio Hasidume",
+            "id": "2477856811",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Minoru Ito",
+            "id": "2173127848",
+            "org": "Nara Institute of Science and Technology"
+        },
+        {
+            "name": "Akihiro Hashimoto",
+            "id": "2599959758",
+            "org": "Osaka University"
+        }
+    ],
+    "fields_of_study": [
+        "String metric",
+        "Mathematics",
+        "String searching algorithm",
+        "Algorithm",
+        "Discrete mathematics",
+        "Longest common substring problem",
+        "Combinatorics",
+        "Substring",
+        "Boyer-Moore string search algorithm",
+        "Rabin-Karp algorithm",
+        "Commentz-Walter algorithm",
+        "Approximate string matching"
+    ],
+    "references": [
+        "1508973658",
+        "2078889228",
+        "2106258670",
+        "2121252285",
+        "2533248932"
+    ]
+}

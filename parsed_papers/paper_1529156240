@@ -1,0 +1,43 @@
+{
+    "id": "1529156240",
+    "title": "Detecting non-cyclicity by abstract compilation into boolean functions",
+    "venue": "verification, model checking and abstract interpretation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stefano Rossignoli",
+            "id": "2510757406",
+            "org": "Dipartimento di Informatica, Universita di Verona, Verona, Italy#TAB#"
+        },
+        {
+            "name": "Fausto Spoto",
+            "id": "2309842473",
+            "org": "Dipartimento di Informatica, Universita di Verona, Verona, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Garbage collection",
+        "Computer science",
+        "Denotational semantics",
+        "Abstract interpretation",
+        "Binary decision diagram",
+        "Termination analysis",
+        "Data structure",
+        "Boolean function"
+    ],
+    "references": [
+        "56096157",
+        "1511668635",
+        "1574640530",
+        "1987962669",
+        "2055807110",
+        "2057821410",
+        "2080267935",
+        "2081810835",
+        "2120869002",
+        "2131135493"
+    ]
+}

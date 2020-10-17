@@ -1,0 +1,45 @@
+{
+    "id": "1587395437",
+    "title": "Inconsistency Tests for Patient Records in a Coronary Heart Disease Database",
+    "venue": "ISMDA '00 Proceedings of the First International Symposium on Medical Data Analysis",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Dragan Gamberger",
+            "id": "235901219",
+            "org": "Rudjer Boskovic Institute"
+        },
+        {
+            "name": "Nada Lavrac",
+            "id": "44897255",
+            "org": "Jozef Stefan Institute"
+        },
+        {
+            "name": "Goran Krstacic",
+            "id": "231693426",
+            "org": "Institute for Prevention of Cardiovascular Disease and Rehabilitation"
+        },
+        {
+            "name": "Tomislav Smuc",
+            "id": "232623065",
+            "org": "Rudjer Boskovic Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Medicine",
+        "Medical record",
+        "Outlier",
+        "Data mining",
+        "Heart disease",
+        "Database",
+        "Anomaly detection",
+        "Data quality"
+    ],
+    "references": [
+        "41502859",
+        "1487062714",
+        "1526627213",
+        "1563198996",
+        "1666942233"
+    ]
+}

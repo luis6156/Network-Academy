@@ -1,0 +1,68 @@
+{
+    "id": "1818643063",
+    "title": "Identity-based traitor tracing",
+    "venue": "public key cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Michel Abdalla",
+            "id": "2143328931",
+            "org": "Departement d'Informatique, Ecole Normale Superieure, Paris Cedex 05, France#TAB#"
+        },
+        {
+            "name": "Alexander W. Dent",
+            "id": "2164332690",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey, United Kingdom#TAB#"
+        },
+        {
+            "name": "John Malone-Lee",
+            "id": "2134818875",
+            "org": "Department Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        },
+        {
+            "name": "Gregory Neven",
+            "id": "2021558904",
+            "org": "Departement d'Informatique, Ecole Normale Superieure, Paris Cedex 05, France and Department of Electrical Engineering, Katholieke Universiteit Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Duong Hieu Phan",
+            "id": "2100645543",
+            "org": "France Telecom R&D, Issy les Moulineaux Cedex 9, France#TAB#"
+        },
+        {
+            "name": "Nigel P. Smart",
+            "id": "2110748698",
+            "org": "Department Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bilinear interpolation",
+        "Theoretical computer science",
+        "Wildcard character",
+        "Discrete mathematics",
+        "Computer science",
+        "Pairing",
+        "Encryption",
+        "Random oracle",
+        "Traitor tracing"
+    ],
+    "references": [
+        "150498788",
+        "1481965140",
+        "1506449012",
+        "1550901512",
+        "1560252361",
+        "1569083856",
+        "1592092778",
+        "1797206029",
+        "1868306552",
+        "2031722321",
+        "2052267638",
+        "2086042811",
+        "2097638666",
+        "2131267390",
+        "2152924492",
+        "2171440248",
+        "2172174332"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "1570247517",
+    "title": "A Concrete Security Analysis for 3GPP-MAC",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dowon Hong",
+            "id": "2132423449",
+            "org": "Information Security Technology Division"
+        },
+        {
+            "name": "Ju-Sung Kang",
+            "id": "2236709692",
+            "org": "Information Security Technology Division"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Heuisu Ryu",
+            "id": "2096720912",
+            "org": "Information Security Technology Division"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Concrete security",
+        "Message authentication code",
+        "Theoretical computer science",
+        "Random permutation",
+        "Computer science",
+        "Pseudorandom function family",
+        "KASUMI",
+        "Provable security"
+    ],
+    "references": [
+        "127081166",
+        "1482569179",
+        "1518987499",
+        "1537185870",
+        "1569469989",
+        "1596153847",
+        "1597235115",
+        "1891091891",
+        "1985623009",
+        "2022521688",
+        "2040594604",
+        "2107165730",
+        "2122984309",
+        "2146009225",
+        "2407629484",
+        "2613962897"
+    ]
+}

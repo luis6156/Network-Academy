@@ -1,0 +1,33 @@
+{
+    "id": "1513644488",
+    "title": "IDS for detecting malicious non-executable files using dynamic analysis",
+    "venue": "asia pacific network operations and management symposium",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Ahmad Bazzi",
+            "id": "2093866276",
+            "org": "Grad. Sch. of Eng., Gunma Univ., Kiryu, Japan"
+        },
+        {
+            "name": "Yoshikuni Onozato",
+            "id": "2293726627",
+            "org": "Div. of Electron. & Inf., Gunma Univ., Kiryu, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Executable",
+        "Computer virus",
+        "Computer science",
+        "Sandbox (computer security)",
+        "False positive paradox",
+        "Computer security"
+    ],
+    "references": [
+        "1674877186",
+        "1993651556",
+        "2082190528",
+        "2153635508"
+    ]
+}

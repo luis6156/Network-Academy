@@ -1,0 +1,63 @@
+{
+    "id": "1519317114",
+    "title": "On the broadcast and validity-checking security of PKCS#1 v1.5 encryption",
+    "venue": "applied cryptography and network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Aurelie Bauer",
+            "id": "2111896781",
+            "org": "Ecole normale superieure, C.N.R.S., I.N.R.I.A., Departement d'informatique, Paris Cedex 05, France#TAB#"
+        },
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "Universite du Luxembourg, Luxembourg, Luxembourg#TAB#"
+        },
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Ecole normale superieure, C.N.R.S., I.N.R.I.A., Departement d'informatique, Paris Cedex 05, France#TAB#"
+        },
+        {
+            "name": "Mehdi Tibouchi",
+            "id": "58928120",
+            "org": "Ecole normale superieure, C.N.R.S., I.N.R.I.A., Departement d'informatique, Paris Cedex 05, Franceb and Universite du Luxembourg, Luxembourg, Luxembourg#TAB#"
+        },
+        {
+            "name": "Damien Vergnaud",
+            "id": "339853684",
+            "org": "Ecole normale superieure, C.N.R.S., I.N.R.I.A., Departement d'informatique, Paris Cedex 05, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "Computer science",
+        "Computer security",
+        "Chosen-ciphertext attack",
+        "56-bit encryption",
+        "Ciphertext",
+        "Broadcast encryption",
+        "PKCS #1",
+        "Plaintext"
+    ],
+    "references": [
+        "1510116442",
+        "1516512945",
+        "1531848080",
+        "1550863203",
+        "1561907855",
+        "1565112835",
+        "1677827171",
+        "1749471906",
+        "1901278359",
+        "1961022628",
+        "1996360405",
+        "2085856764",
+        "2101040389",
+        "2166362740",
+        "2753555060"
+    ]
+}

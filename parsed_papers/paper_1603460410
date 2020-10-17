@@ -1,0 +1,42 @@
+{
+    "id": "1603460410",
+    "title": "Inter-Package Dependency Networks in Open-Source Software",
+    "venue": "arXiv: Software Engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Nathan LaBelle",
+            "id": "2551994677",
+            "org": "Computer Science Department|University of Northern Iowa"
+        },
+        {
+            "name": "Eugene Wallingford",
+            "id": "2088197563",
+            "org": "Computer Science Department|University of Northern Iowa"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Software construction",
+        "Software sizing",
+        "Social software engineering",
+        "Resource-oriented architecture",
+        "Computer science",
+        "Software design description",
+        "Distributed computing",
+        "Software framework",
+        "Backporting",
+        "Package development process"
+    ],
+    "references": [
+        "60708243",
+        "1543287511",
+        "1573430129",
+        "1976969221",
+        "2012099766",
+        "2070787093",
+        "2130830290",
+        "2136839747",
+        "2145416273"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1499465336",
+    "title": "DCGs + memoing = packrat parsing but is it worth it?",
+    "venue": "practical aspects of declarative languages",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ralph Becket",
+            "id": "1544991446",
+            "org": "NICTA and Department of Computer Science and Software Engineering, The University of Melbourne, Parkville, Victoria, Australia#TAB#"
+        },
+        {
+            "name": "Zoltan Somogyi",
+            "id": "677108589",
+            "org": "NICTA and Department of Computer Science and Software Engineering, The University of Melbourne, Parkville, Victoria, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing expression grammar",
+        "Algorithm",
+        "Parser combinator",
+        "Computer science",
+        "Memoization",
+        "S-attributed grammar",
+        "Bottom-up parsing",
+        "Top-down parsing language",
+        "Parsing",
+        "Top-down parsing",
+        "Programming language"
+    ],
+    "references": [
+        "1542200249",
+        "1595143656",
+        "1660801069",
+        "1971135355",
+        "1982243747",
+        "2098396599",
+        "2150871235",
+        "2161160885"
+    ]
+}

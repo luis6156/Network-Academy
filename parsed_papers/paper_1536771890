@@ -1,0 +1,74 @@
+{
+    "id": "1536771890",
+    "title": "An I/O-Conscious Tiling Strategy for Disk-Resident Data Sets",
+    "venue": "The Journal of Supercomputing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Mahmut T. Kandemir",
+            "id": "2191818565",
+            "org": "CSE Department, The Pennsylvania State University, University Park, PA 16802 kandemir@cse.psu.edu#TAB#"
+        },
+        {
+            "name": "Alok N. Choudhary",
+            "id": "2147783234",
+            "org": "ECE Department, Northwestern University, Evanston, IL 60208 choudhar@ece.nwu.edu#TAB#"
+        },
+        {
+            "name": "J. Ramanujam",
+            "id": "2083116879",
+            "org": "ECE Department, Louisiana State University, Baton Rauge, LA 70803 jxr@ee.lsu.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Data set",
+        "Compiler",
+        "Multiprocessing",
+        "Message passing",
+        "Distributed memory",
+        "Optimizing compiler",
+        "Real-time computing",
+        "Loop tiling"
+    ],
+    "references": [
+        "1491178396",
+        "1555915743",
+        "1586618323",
+        "1788554450",
+        "1836484070",
+        "1971636727",
+        "1973122629",
+        "1973923211",
+        "1988997989",
+        "2014033064",
+        "2040314537",
+        "2042125826",
+        "2042629708",
+        "2051535078",
+        "2055437997",
+        "2064712511",
+        "2082416889",
+        "2086237056",
+        "2094209264",
+        "2098220211",
+        "2103566374",
+        "2104486653",
+        "2107806866",
+        "2108315152",
+        "2109051046",
+        "2112482891",
+        "2119609467",
+        "2131434993",
+        "2152826168",
+        "2158158791",
+        "2159826399",
+        "2165647555",
+        "2166333076",
+        "2167345029",
+        "2296218291"
+    ]
+}

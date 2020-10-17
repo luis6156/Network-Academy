@@ -1,0 +1,56 @@
+{
+    "id": "1629279812",
+    "title": "Improving the quality of protein structure models by selecting from alignment alternatives",
+    "venue": "BMC Bioinformatics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ingolf Sommer",
+            "id": "2135193800",
+            "org": "Department of Computational Biology and Applied Algorithmics, Max-Planck-lnstitute for Informatics, Saarbrucken, Germany"
+        },
+        {
+            "name": "Stefano Toppo",
+            "id": "2143636287",
+            "org": "Department of Biological Chemistry, University of Padova, Padova, Italy"
+        },
+        {
+            "name": "Oliver Sander",
+            "id": "2198714960",
+            "org": "Department of Computational Biology and Applied Algorithmics, Max-Planck-lnstitute for Informatics, Saarbrucken, Germany"
+        },
+        {
+            "name": "Thomas Lengauer",
+            "id": "128580411",
+            "org": "Department of Computational Biology and Applied Algorithmics, Max-Planck-lnstitute for Informatics, Saarbrucken, Germany"
+        },
+        {
+            "name": "Silvio C. E. Tosatto",
+            "id": "245468651",
+            "org": "Department of Biology and CRIBI Biotechnology Centre University of Padova"
+        }
+    ],
+    "fields_of_study": [
+        "Biology",
+        "Protein structure",
+        "Model selection",
+        "Sequence alignment",
+        "Protein structure prediction",
+        "Threading (protein sequence)",
+        "Support vector machine",
+        "Bioinformatics"
+    ],
+    "references": [
+        "1554935168",
+        "2030028095",
+        "2057447180",
+        "2110483430",
+        "2125725297",
+        "2133657429",
+        "2139270371",
+        "2145358391",
+        "2150434184",
+        "2153635508",
+        "2157938277"
+    ]
+}

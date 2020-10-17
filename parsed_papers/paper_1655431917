@@ -1,0 +1,52 @@
+{
+    "id": "1655431917",
+    "title": "MultiPath TCP: from theory to practice",
+    "venue": "NETWORKING'11 Proceedings of the 10th international IFIP TC 6 conference on Networking - Volume Part I",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Sebastien Barre",
+            "id": "2105830257",
+            "org": "ICTEAM, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Christoph Paasch",
+            "id": "2090259494",
+            "org": "ICTEAM, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Olivier Bonaventure",
+            "id": "372738348",
+            "org": "ICTEAM, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compound TCP",
+        "Zeta-TCP",
+        "Distributed computing",
+        "CUBIC TCP",
+        "Computer network",
+        "TCP tuning",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "TCP Westwood",
+        "Engineering",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1515106148",
+        "1518389375",
+        "1540641082",
+        "1671218426",
+        "1710433637",
+        "2028266876",
+        "2033901378",
+        "2089641163",
+        "2101232893",
+        "2156532393",
+        "2161624011",
+        "2164930737",
+        "2168191551",
+        "2532475208"
+    ]
+}

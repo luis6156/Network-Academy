@@ -1,0 +1,47 @@
+{
+    "id": "1534135395",
+    "title": "Investigating Java Concurrency Using Abstract State Machines",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Yuri Gurevich",
+            "id": "2154094381",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Wolfram Schulte",
+            "id": "2115070196",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Charles Wallace",
+            "id": "2251710351",
+            "org": "University of Delaware"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Non-lock concurrency control",
+        "Java",
+        "Java Modeling Language",
+        "Generics in Java",
+        "Computer science",
+        "Distributed computing",
+        "Java annotation",
+        "Java concurrency",
+        "strictfp",
+        "Programming language"
+    ],
+    "references": [
+        "19851560",
+        "1522088162",
+        "1605775181",
+        "1644882639",
+        "1942301248",
+        "1969402593",
+        "1989373428",
+        "2170389900",
+        "2234536257"
+    ]
+}

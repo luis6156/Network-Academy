@@ -1,0 +1,32 @@
+{
+    "id": "1535123287",
+    "title": "Concurrency in a Knowledge Base",
+    "venue": "Advances in Computers",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Giuseppe Attardi",
+            "id": "2893185710",
+            "org": "Univ. di Pisa, Pisa, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Embedding",
+        "Theoretical computer science",
+        "Knowledge base",
+        "Lattice (order)",
+        "Computer science",
+        "Distributed computing",
+        "Degree of parallelism",
+        "Omega",
+        "Concurrency",
+        "Message passing",
+        "Common Lisp"
+    ],
+    "references": [
+        "67351769",
+        "100330838",
+        "1567390668",
+        "1977710006"
+    ]
+}

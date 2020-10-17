@@ -1,0 +1,40 @@
+{
+    "id": "1591515441",
+    "title": "Testing SPIN's LTL Formula Conversion into Buchi Automata with Randomly Generated Input",
+    "venue": "international workshop on model checking software",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Heikki Tauriainen",
+            "id": "231095501",
+            "org": "Helsinki University of Technology"
+        },
+        {
+            "name": "Keijo Heljanko",
+            "id": "322560430",
+            "org": "Helsinki University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Temporal logic",
+        "Buchi automaton",
+        "Computer science",
+        "SPIN model checker",
+        "Double check",
+        "Random testing",
+        "Kripke structure",
+        "Model checking",
+        "Linear temporal logic"
+    ],
+    "references": [
+        "1511319905",
+        "1516806823",
+        "1607782211",
+        "1761635979",
+        "2012935476",
+        "2102548669",
+        "2115309705",
+        "2340735175"
+    ]
+}

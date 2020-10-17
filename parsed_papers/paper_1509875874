@@ -1,0 +1,54 @@
+{
+    "id": "1509875874",
+    "title": "Collisions on SHA-0 in One Hour",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Stephane Manuel",
+            "id": "2654708230",
+            "org": "French Institute for Research in Computer Science and Automation"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2688996063",
+            "org": "Orange Labs, and AIST, and Universite de Versailles Saint-Quentin-en-Yvelines,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Birthday attack",
+        "Boomerang attack",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Collision attack",
+        "MDC-2",
+        "Preimage attack"
+    ],
+    "references": [
+        "52191336",
+        "91031763",
+        "124034723",
+        "1483487117",
+        "1533007301",
+        "1542068190",
+        "1549228503",
+        "1550150171",
+        "1590269592",
+        "1600432225",
+        "1656731780",
+        "1660562555",
+        "1865207131",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2145706556",
+        "2156912159",
+        "2593463031",
+        "2611506938"
+    ]
+}

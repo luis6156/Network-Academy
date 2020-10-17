@@ -1,0 +1,87 @@
+{
+    "id": "1594956651",
+    "title": "Architecture and early performance of the new IBM HPS fabric and adapter",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rama K. Govindaraju",
+            "id": "1982512213",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Peter H. Hochschild",
+            "id": "2307336840",
+            "org": "T J Watson Research Center, IBM Research, Hawthorne#TAB#"
+        },
+        {
+            "name": "Don Grice",
+            "id": "2460696867",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Kevin J. Gildea",
+            "id": "1993934500",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Robert S. Blackmore",
+            "id": "2009431133",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Carl A. Bender",
+            "id": "2136448554",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Chulho Kim",
+            "id": "2100417253",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Piyush Chaudhary",
+            "id": "2137475299",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Jason E. Goscinski",
+            "id": "2080374960",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Jay R. Herring",
+            "id": "2172749142",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "Steven Martin",
+            "id": "2118861191",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        },
+        {
+            "name": "John S. Houston",
+            "id": "2209805161",
+            "org": "Server Development Lab, IBM, Poughkeepsie, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Adapter (computing)",
+        "Remote direct memory access",
+        "Parallel computing",
+        "Data striping",
+        "Computer science",
+        "InfiniBand",
+        "Latency (engineering)",
+        "CPU cache",
+        "Architecture"
+    ],
+    "references": [
+        "1595141187",
+        "1949768424",
+        "1984788566",
+        "2055225384",
+        "2152719989",
+        "2163967521"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1593079490",
+    "title": "A note on scheduling tall/small multiprocessor tasks with unit processing time to minimize maximum tardiness",
+    "venue": "Journal of Scheduling",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Philippe Baptiste",
+            "id": "2005494572",
+            "org": "CNRS LIX, Ecole Polytechnique, F-91128, Palaiseau Cedex, France#TAB#"
+        },
+        {
+            "name": "Baruch Schieber",
+            "id": "2108473615",
+            "org": "IBM T. J. Watson Research Center, P.O. Box 218, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Pi",
+        "Parallel computing",
+        "Computer science",
+        "Scheduling (computing)",
+        "Multiprocessor scheduling",
+        "Dynamic priority scheduling",
+        "Job shop scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "2169146618"
+    ]
+}

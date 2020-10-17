@@ -1,0 +1,66 @@
+{
+    "id": "1708330554",
+    "title": "Improved Linear Sieving Techniques with Applications to Step-Reduced LED-64",
+    "venue": "fast software encryption",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Itai Dinur",
+            "id": "2064145723",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "University of Haifa"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Bar-Ilan University"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "The Weizmann Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Related-key attack",
+        "Differential cryptanalysis",
+        "Key whitening",
+        "CBC-MAC",
+        "Meet-in-the-middle attack",
+        "Correlation attack"
+    ],
+    "references": [
+        "26293717",
+        "41296744",
+        "94952783",
+        "98505615",
+        "183217503",
+        "1503774814",
+        "1550036077",
+        "1569217791",
+        "1599175145",
+        "1611243483",
+        "1744216657",
+        "1814882979",
+        "1954145964",
+        "1997025789",
+        "2064939672",
+        "2136320902",
+        "2141124495",
+        "2155099317",
+        "2217700236",
+        "2402158772",
+        "2414878984",
+        "2513781444",
+        "2595999092",
+        "2613421797"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "1588615233",
+    "title": "Don't Sit on the Fence: A Static Analysis Approach to Automatic Fence Insertion",
+    "venue": "ACM Transactions on Programming Languages and Systems",
+    "year": 2017,
+    "authors": [
+        {
+            "name": "Jade Alglave",
+            "id": "76926217",
+            "org": "Microsoft Research, University College London, London, UK"
+        },
+        {
+            "name": "Daniel Kroening",
+            "id": "2132595810",
+            "org": "University of Oxford, Parks Road, Oxford, UK"
+        },
+        {
+            "name": "Vincent Nimal",
+            "id": "2128288878",
+            "org": "Microsoft Research, Cambridge, UK"
+        },
+        {
+            "name": "Daniel Poetzl",
+            "id": "325343416",
+            "org": "University of Oxford, Parks Road, Oxford, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Semantics",
+        "Parallel computing",
+        "Executable",
+        "Program analysis",
+        "Theory of computation",
+        "Computer science",
+        "Program synthesis",
+        "Automation",
+        "Concurrency",
+        "Programming language"
+    ],
+    "references": [
+        "92273908",
+        "149053240",
+        "1483960654",
+        "1525350307",
+        "1598893746",
+        "1602156367",
+        "1808398105",
+        "1847252379",
+        "1850106738",
+        "1877513498",
+        "1913137593",
+        "1962413779",
+        "1967564401",
+        "1970363544",
+        "1973964525",
+        "1981393723",
+        "1981959925",
+        "1983206712",
+        "1983572666",
+        "1984439088",
+        "2010497096",
+        "2029601347",
+        "2036267700",
+        "2038347389",
+        "2039509099",
+        "2050048491",
+        "2054739713",
+        "2054983537",
+        "2058317042",
+        "2066615989",
+        "2072725684",
+        "2086023529",
+        "2096004601",
+        "2096343842",
+        "2114587856",
+        "2116451681",
+        "2123601779",
+        "2127612524",
+        "2141395109",
+        "2160781056",
+        "2166071597",
+        "2166115541",
+        "2168339347",
+        "2169832991",
+        "2170523074",
+        "2205295324",
+        "2281218127",
+        "2583970767",
+        "2738891045"
+    ]
+}

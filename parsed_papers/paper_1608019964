@@ -1,0 +1,47 @@
+{
+    "id": "1608019964",
+    "title": "File access level optimization using page access graph on recursive query evaluation",
+    "venue": "extending database technology",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Yuki Kusumi",
+            "id": "1999227515",
+            "org": "Matsushita Electric Industrial Co., Ltd."
+        },
+        {
+            "name": "Shojiro Nishio",
+            "id": "2111068731",
+            "org": "Osaka University"
+        },
+        {
+            "name": "Toshiharu Hasegawa",
+            "id": "2238454369",
+            "org": "Kyoto University"
+        }
+    ],
+    "fields_of_study": [
+        "Transitive closure",
+        "Web search query",
+        "Query expansion",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Query language",
+        "Deductive database",
+        "Database",
+        "Tuple",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "147240463",
+        "1503149859",
+        "1588657848",
+        "1970637119",
+        "1993504147",
+        "2132063146",
+        "2140092107",
+        "2295596515"
+    ]
+}

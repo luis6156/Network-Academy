@@ -1,0 +1,39 @@
+{
+    "id": "1589607988",
+    "title": "Diagonal fault analysis of Gr[?]stl in dedicated MAC mode",
+    "venue": "hardware oriented security and trust",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Dhiman Saha",
+            "id": "2345046672",
+            "org": "Crypto Research Lab, Department of Computer Science and Engineering, IIT Kharagpur, India"
+        },
+        {
+            "name": "Dipanwita Roy Chowdhury",
+            "id": "2171443424",
+            "org": "Crypto Research Lab, Department of Computer Science and Engineering, IIT Kharagpur, India"
+        }
+    ],
+    "fields_of_study": [
+        "Diagonal",
+        "Stuck-at fault",
+        "Computer science",
+        "Precomputation",
+        "Hash function",
+        "Fault coverage",
+        "Differential fault analysis",
+        "Real-time computing",
+        "Permutation",
+        "Fault model"
+    ],
+    "references": [
+        "116480387",
+        "1524438853",
+        "1656678770",
+        "2011095011",
+        "2110162979",
+        "2131300413",
+        "2283613275"
+    ]
+}

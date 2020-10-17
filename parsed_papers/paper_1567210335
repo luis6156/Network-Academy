@@ -1,0 +1,77 @@
+{
+    "id": "1567210335",
+    "title": "Consistent and durable data structures for non-volatile byte-addressable memory",
+    "venue": "file and storage technologies",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Shivaram Venkataraman",
+            "id": "2232375382",
+            "org": "HP Labs, Palo Alto and University of Illinois, Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Niraj Tolia",
+            "id": "2098819759",
+            "org": "Maginatics#TAB#"
+        },
+        {
+            "name": "Parthasarathy Ranganathan",
+            "id": "2408455160",
+            "org": "HP Labs, Palo Alto#TAB#"
+        },
+        {
+            "name": "Roy H. Campbell",
+            "id": "2252067276",
+            "org": "University of Illinois, Urbana-Champaign#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Parallel computing",
+        "Throughput",
+        "Computer science",
+        "Memristor",
+        "Data structure",
+        "Rollback",
+        "Operating system",
+        "NoSQL",
+        "Real-time computing",
+        "Phase-change memory",
+        "Big data"
+    ],
+    "references": [
+        "1577169013",
+        "1838765419",
+        "1981420413",
+        "1985229168",
+        "1987201308",
+        "1993505169",
+        "2005907808",
+        "2020765652",
+        "2023834387",
+        "2037801123",
+        "2048588974",
+        "2055385473",
+        "2070761976",
+        "2087946700",
+        "2099753358",
+        "2100100130",
+        "2102449048",
+        "2105045857",
+        "2115837944",
+        "2124306283",
+        "2133394135",
+        "2135393827",
+        "2142947709",
+        "2144518192",
+        "2150708794",
+        "2151745115",
+        "2152301310",
+        "2153704625",
+        "2154817671",
+        "2155323584",
+        "2157808045",
+        "2161694911",
+        "2624304035"
+    ]
+}

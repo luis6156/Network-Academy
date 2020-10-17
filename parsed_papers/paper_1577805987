@@ -1,0 +1,34 @@
+{
+    "id": "1577805987",
+    "title": "Faster elliptic curve arithmetic for double-base chain by reordering sequences of field operations",
+    "venue": "international symposium on information theory and its applications",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Chitchanok Chuengsatiansup",
+            "id": "2231352468",
+            "org": "Graduate School of Information Science and Technology, The University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Elliptic curve",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1539482743",
+        "1552384529",
+        "2061405134",
+        "2113237612",
+        "2122183684",
+        "2129003475",
+        "2151279347"
+    ]
+}

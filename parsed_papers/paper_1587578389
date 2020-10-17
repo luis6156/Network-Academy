@@ -1,0 +1,51 @@
+{
+    "id": "1587578389",
+    "title": "Analysis of simplified variants of SHA-256.",
+    "venue": "WEWoRC",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Krystian Matusiewicz",
+            "id": "1980694267",
+            "org": "Centre for Advanced Computing|Department of Computing|Macquarie University"
+        },
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "Centre for Advanced Computing|Department of Computing|Macquarie University"
+        },
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications|Graz University of Technology"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications|Graz University of Technology"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communications|Graz University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Mathematics",
+        "Hamming weight",
+        "Combinatorics"
+    ],
+    "references": [
+        "73995444",
+        "1504695911",
+        "1521015940",
+        "1533979572",
+        "1579664096",
+        "2093465763",
+        "2095675261",
+        "2103239853",
+        "2121078396",
+        "2611506938"
+    ]
+}

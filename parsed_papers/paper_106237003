@@ -1,0 +1,45 @@
+{
+    "id": "106237003",
+    "title": "Fragmentation Considered Leaking: Port Inference for DNS Poisoning",
+    "venue": "applied cryptography and network security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Haya Shulman",
+            "id": "2135122466",
+            "org": "Technische Universitat Darmstadt"
+        },
+        {
+            "name": "Michael Waidner",
+            "id": "2753376701",
+            "org": "Technische Universitat Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Spoofing attack",
+        "Computer science",
+        "Computer security",
+        "Fragmentation (computing)",
+        "Adversary",
+        "Network packet",
+        "Correctness",
+        "DNS spoofing",
+        "The Internet"
+    ],
+    "references": [
+        "52006136",
+        "1428439214",
+        "1590544288",
+        "1980469160",
+        "1988941656",
+        "2009047969",
+        "2055083041",
+        "2072730946",
+        "2081464537",
+        "2090949052",
+        "2156989312",
+        "2263431699",
+        "2301803821"
+    ]
+}

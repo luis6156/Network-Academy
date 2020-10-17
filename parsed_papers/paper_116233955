@@ -1,0 +1,44 @@
+{
+    "id": "116233955",
+    "title": "Formal Verification of Secure User Mode Device Execution with DMA",
+    "venue": "haifa verification conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Oliver Schwarz",
+            "id": "2104468362",
+            "org": "SICS Swedish ICT"
+        },
+        {
+            "name": "Mads Dam",
+            "id": "2464531201",
+            "org": "KTH Royal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "ARM architecture",
+        "Computer science",
+        "Granularity",
+        "Instruction set",
+        "Memory management",
+        "Mathematical proof",
+        "Memory protection",
+        "Information flow (information theory)",
+        "Real-time computing"
+    ],
+    "references": [
+        "1551363727",
+        "1554895120",
+        "1594381772",
+        "1746052841",
+        "1751907940",
+        "1863850585",
+        "2073294836",
+        "2105482908",
+        "2133281166",
+        "2143514650",
+        "2149352546"
+    ]
+}

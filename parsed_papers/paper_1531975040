@@ -1,0 +1,55 @@
+{
+    "id": "1531975040",
+    "title": "Coding Techniques for Handling Failures in Large Disk Arrays",
+    "venue": "Algorithmica",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Garth A. Gibson",
+            "id": "2235094860",
+            "org": "School of Computer Science, Carnegie Mellon University, Pittsburgh, USA"
+        },
+        {
+            "name": "Lisa Hellerstein",
+            "id": "2056505999",
+            "org": "Department of Electrical Engineering and Computer Science, Northwestern University, Evanston, USA"
+        },
+        {
+            "name": "Richard M. Karp",
+            "id": "1964658237",
+            "org": "Computer Science Division, Electrical Engineering and Computer Sciences, University of California, Berkeley, USA"
+        },
+        {
+            "name": "Randy H. Katz",
+            "id": "2246122413",
+            "org": "Computer Science Division, Electrical Engineering and Computer Sciences, University of California, Berkeley, USA"
+        },
+        {
+            "name": "David A. Patterson",
+            "id": "2098984663",
+            "org": "Computer Science Division, Electrical Engineering and Computer Sciences, University of California, Berkeley, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Block code",
+        "Input/output",
+        "Computer science",
+        "RAID",
+        "Parity-check matrix",
+        "Real-time computing",
+        "Linear code",
+        "Disk array",
+        "Transform coding",
+        "Error detection and correction"
+    ],
+    "references": [
+        "1972813727",
+        "2014601547",
+        "2058972589",
+        "2069903885",
+        "2144984544",
+        "2147504831",
+        "2147632348",
+        "2296226841"
+    ]
+}

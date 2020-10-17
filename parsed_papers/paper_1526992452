@@ -1,0 +1,55 @@
+{
+    "id": "1526992452",
+    "title": "Toward enhancing OpenMP's work-sharing directives",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Barbara M. Chapman",
+            "id": "2142555485",
+            "org": "University of Houston, Houston, TX#TAB#"
+        },
+        {
+            "name": "Lei Huang",
+            "id": "2166488578",
+            "org": "University of Houston, Houston, TX#TAB#"
+        },
+        {
+            "name": "Haoqiang Jin",
+            "id": "2104896089",
+            "org": "NASA Ames Research Center#TAB#"
+        },
+        {
+            "name": "Gabriele Jost",
+            "id": "2512476177",
+            "org": "Sun Microsystems, Inc.#TAB#"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Lawrence Livermore National Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Shared memory",
+        "Expressivity",
+        "Computer science",
+        "Distributed computing",
+        "Multiprocessing",
+        "Distributed memory"
+    ],
+    "references": [
+        "1498396767",
+        "1502408000",
+        "1532146045",
+        "1623282124",
+        "1885834831",
+        "2037965265",
+        "2109065830",
+        "2120230074",
+        "2148954445",
+        "2170653240"
+    ]
+}

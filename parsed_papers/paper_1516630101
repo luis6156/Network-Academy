@@ -1,0 +1,43 @@
+{
+    "id": "1516630101",
+    "title": "Event-feeded dimension solution",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Tho Manh Nguyen",
+            "id": "2641152960",
+            "org": "T-Mobile Austria, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Jaromir Nemec",
+            "id": "2134854276",
+            "org": "T-Mobile Austria, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Martin Windisch",
+            "id": "2100564399",
+            "org": "T-Mobile Austria, Vienna, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Business intelligence",
+        "Slowly changing dimension",
+        "Transaction data",
+        "Information transfer",
+        "Computer science",
+        "Data mining",
+        "Dimensional modeling",
+        "Database",
+        "Data warehouse",
+        "Knowledge extraction",
+        "Information integration"
+    ],
+    "references": [
+        "1495859460",
+        "1510690988",
+        "1544363742",
+        "1600445262",
+        "2021184893"
+    ]
+}

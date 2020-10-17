@@ -1,0 +1,74 @@
+{
+    "id": "1779689106",
+    "title": "Luby-Rackoff ciphers from weak round functions?",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ueli Maurer",
+            "id": "2068596995",
+            "org": "Department of Computer Science, ETH Zurich, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Yvonne Anne Oswald",
+            "id": "2002948223",
+            "org": "Department of Computer Science, ETH Zurich, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Krzysztof Pietrzak",
+            "id": "2304537633",
+            "org": "Departement d'informatique, Ecole Normale Superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Johan Sjodin",
+            "id": "2104446636",
+            "org": "Department of Computer Science, ETH Zurich, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Pseudorandom number generator",
+        "Theoretical computer science",
+        "Computer science",
+        "Pseudorandom function family",
+        "Pseudorandom permutation",
+        "Semantic security",
+        "Chosen-ciphertext attack",
+        "Plaintext"
+    ],
+    "references": [
+        "1484296207",
+        "1504217304",
+        "1505655724",
+        "1541483074",
+        "1545021566",
+        "1559083062",
+        "1562872124",
+        "1588312749",
+        "1589176872",
+        "1594300884",
+        "1594302202",
+        "1608088447",
+        "1718722133",
+        "1864490743",
+        "1972464518",
+        "2004881597",
+        "2015880590",
+        "2035168864",
+        "2042585615",
+        "2073210531",
+        "2074594718",
+        "2097638666",
+        "2101803085",
+        "2117362057",
+        "2147503428",
+        "2157679418",
+        "2158554251",
+        "2159339434",
+        "2165195304",
+        "2166657385",
+        "2585529823",
+        "2788224102"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1536739775",
+    "title": "Accelerating path tracing by re-using paths",
+    "venue": "eurographics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Philippe Bekaert",
+            "id": "2779845555",
+            "org": "Max-Planck-Institut fur Informatik, Saarbrucken, Germany.#TAB#"
+        },
+        {
+            "name": "Mateu Sbert",
+            "id": "2114517036",
+            "org": "Institut d'Informatica i Aplicacions, Universitat de Girona, Spain#TAB#"
+        },
+        {
+            "name": "John H. Halton",
+            "id": "2465238276",
+            "org": "University of North Carolina at Chapel Hill#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Global illumination",
+        "Mathematics",
+        "Path tracing",
+        "Distributed ray tracing",
+        "Beam tracing",
+        "Rendering (computer graphics)",
+        "Monte Carlo method",
+        "Ray tracing (graphics)",
+        "Cone tracing",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1506248850",
+        "1516597674",
+        "1555180826",
+        "1644976598",
+        "1814691420",
+        "1979011254",
+        "2008693968",
+        "2067540766",
+        "2077323204",
+        "2090346540",
+        "2106636568",
+        "2129112679",
+        "2138624212",
+        "2147632348",
+        "2152365613",
+        "2152428257",
+        "2160277153",
+        "2168471197"
+    ]
+}

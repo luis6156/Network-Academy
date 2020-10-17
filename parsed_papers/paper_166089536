@@ -1,0 +1,45 @@
+{
+    "id": "166089536",
+    "title": "Reinforcement learning in POMDPs without resets",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Eyal Even-Dar",
+            "id": "112407019",
+            "org": "School of Computer Science, Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Sham M. Kakade",
+            "id": "85537834",
+            "org": "Computer and Information Science, University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Yishay Mansour",
+            "id": "2078633956",
+            "org": "School Computer Science, Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Partially observable Markov decision process",
+        "Unobservable",
+        "Computer science",
+        "Reinforcement learning",
+        "Horizon",
+        "Mathematical optimization",
+        "Rate of convergence",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "131709709",
+        "1555477527",
+        "1556274146",
+        "1575388622",
+        "1590759229",
+        "1679945064",
+        "2149476049",
+        "2161521419",
+        "2489939061"
+    ]
+}

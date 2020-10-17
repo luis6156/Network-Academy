@@ -1,0 +1,77 @@
+{
+    "id": "1585153958",
+    "title": "Provably-Secure two-round password-authenticated group key exchange in the standard model",
+    "venue": "international workshop on security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jeong Ok Kwon",
+            "id": "1990868914",
+            "org": "Graduate School of Information Security CIST, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Ik Rae Jeong",
+            "id": "2102763734",
+            "org": "ETRI (Electronics and Telecommunications Research Institute), Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2133942762",
+            "org": "Graduate School of Information Security CIST, Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Key exchange",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Password",
+        "Hash function",
+        "Random oracle",
+        "SWIFFT",
+        "Random function",
+        "MDC-2"
+    ],
+    "references": [
+        "126840821",
+        "203500824",
+        "299586966",
+        "1485183201",
+        "1495266644",
+        "1509298722",
+        "1516161674",
+        "1526778951",
+        "1535125298",
+        "1535147830",
+        "1542059364",
+        "1561441787",
+        "1566256504",
+        "1604454960",
+        "1709517452",
+        "1866147697",
+        "1970448459",
+        "1977251372",
+        "2001788001",
+        "2002930326",
+        "2041027981",
+        "2047241038",
+        "2052267638",
+        "2057440455",
+        "2117307660",
+        "2117398379",
+        "2118815502",
+        "2120154759",
+        "2124926080",
+        "2128758858",
+        "2134475940",
+        "2135042651",
+        "2139215234",
+        "2144560442",
+        "2149445117",
+        "2152688060",
+        "2157604883",
+        "2403237970",
+        "2408424190"
+    ]
+}

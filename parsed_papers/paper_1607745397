@@ -1,0 +1,43 @@
+{
+    "id": "1607745397",
+    "title": "Unbridle the bit-length of a crypto-coprocessor with montgomery multiplication",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Masayuki Yoshino",
+            "id": "2121040157",
+            "org": "Hitachi, Ltd., Systems Development Laboratory, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Katsuyuki Okeya",
+            "id": "1780672632",
+            "org": "Hitachi, Ltd., Systems Development Laboratory, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Camille Vuillaume",
+            "id": "1964667369",
+            "org": "Hitachi, Ltd., Systems Development Laboratory, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Montgomery reduction",
+        "Computer science",
+        "Bit-length",
+        "Coprocessor",
+        "Public-key cryptography",
+        "Smart card",
+        "Modular design"
+    ],
+    "references": [
+        "19328048",
+        "1509238864",
+        "1581806326",
+        "1601624599",
+        "1644344319",
+        "1660562555",
+        "1996360405"
+    ]
+}

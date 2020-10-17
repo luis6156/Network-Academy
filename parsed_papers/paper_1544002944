@@ -1,0 +1,46 @@
+{
+    "id": "1544002944",
+    "title": "A Comparison of Shared Virtual Memory and Message Passing Programming Techniques Based on a Finite Element Application",
+    "venue": "joint international conference on vector and parallel processing parallel processing",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Rudolf Berrendorf",
+            "id": "184675139",
+            "org": "Forschungszentrum Julich (KFA)"
+        },
+        {
+            "name": "Michael Gerndt",
+            "id": "2780572680",
+            "org": "Forschungszentrum Julich (KFA)"
+        },
+        {
+            "name": "Zakaria Lahjomri",
+            "id": "43670397",
+            "org": "IRISA-INRIA"
+        },
+        {
+            "name": "Thierry Priol",
+            "id": "533106700",
+            "org": "IRISA-INRIA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Virtual memory",
+        "Distributed shared memory",
+        "Message passing",
+        "Data diffusion machine",
+        "Data domain",
+        "Programming paradigm",
+        "Fortran"
+    ],
+    "references": [
+        "1597212252",
+        "2001880793",
+        "2054739713"
+    ]
+}

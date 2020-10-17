@@ -1,0 +1,57 @@
+{
+    "id": "1557619244",
+    "title": "Term graph rewriting",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Henk Barendregt",
+            "id": "2055959026",
+            "org": "University of Nijmegen"
+        },
+        {
+            "name": "M C J D Eekelen",
+            "id": "2439769613",
+            "org": "University of Nijmegen Nijmegen The Netherlands Nijmegen The Netherlands"
+        },
+        {
+            "name": "John R. W. Glauert",
+            "id": "2054352611",
+            "org": "University of East Anglia"
+        },
+        {
+            "name": "J. R. Kennaway",
+            "id": "2656586496",
+            "org": "University of East Anglia"
+        },
+        {
+            "name": "M.J. Plasmeijer",
+            "id": "2046925394",
+            "org": "University of Nijmegen"
+        },
+        {
+            "name": "M. R. Sleep",
+            "id": "2697658910",
+            "org": "University of East Anglia"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Abstract semantic graph",
+        "Graph rewriting",
+        "Lambda calculus",
+        "Functional programming",
+        "Normalization property",
+        "Knuth-Bendix completion algorithm",
+        "Confluence",
+        "Programming language",
+        "Rewriting"
+    ],
+    "references": [
+        "2022014483",
+        "2022572034",
+        "2030550007",
+        "2063068243"
+    ]
+}

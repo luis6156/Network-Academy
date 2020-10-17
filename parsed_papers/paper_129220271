@@ -1,0 +1,60 @@
+{
+    "id": "129220271",
+    "title": "(Pseudo-) Preimage Attacks on Step-Reduced HAS-160 and RIPEMD-160",
+    "venue": "international conference on information security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Gaoli Wang",
+            "id": "2613597499",
+            "org": "Donghua University"
+        },
+        {
+            "name": "Yanzhao Shen",
+            "id": "2123792598",
+            "org": "Shandong University"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "MD2",
+        "Theoretical computer science",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Padding oracle attack",
+        "Computer science",
+        "Padding",
+        "Collision attack",
+        "Preimage attack"
+    ],
+    "references": [
+        "40508436",
+        "123028503",
+        "156288296",
+        "174467016",
+        "218666475",
+        "1484795761",
+        "1493937689",
+        "1528559652",
+        "1530387410",
+        "1549518467",
+        "1550579237",
+        "1551023902",
+        "1590269592",
+        "1656731780",
+        "1660562555",
+        "1814882979",
+        "1977342258",
+        "1991374982",
+        "2103239853",
+        "2104633167",
+        "2109766996",
+        "2118019590",
+        "2130238828",
+        "2153971105",
+        "2168589319",
+        "2217700236",
+        "2595999092",
+        "2611506938"
+    ]
+}

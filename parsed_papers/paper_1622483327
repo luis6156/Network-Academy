@@ -1,0 +1,52 @@
+{
+    "id": "1622483327",
+    "title": "Modeling NERFs for speaker recognition.",
+    "venue": "Odyssey",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sachin S. Kajarekar",
+            "id": "2309940383",
+            "org": "SRI International"
+        },
+        {
+            "name": "Luciana Ferrer",
+            "id": "2146483039",
+            "org": "SRI International"
+        },
+        {
+            "name": "M. Kemal Sonmez",
+            "id": "2169071344",
+            "org": "SRI International"
+        },
+        {
+            "name": "Jing Zheng",
+            "id": "2437504495",
+            "org": "SRI International"
+        },
+        {
+            "name": "Elizabeth Shriberg",
+            "id": "2809870342",
+            "org": "SRI International"
+        },
+        {
+            "name": "Andreas Stolcke",
+            "id": "684032073",
+            "org": "SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "NIST",
+        "Pattern recognition",
+        "Computer science",
+        "Feature selection",
+        "Mel-frequency cepstrum",
+        "Speaker recognition",
+        "Speaker diarisation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1563235770",
+        "2114851258"
+    ]
+}

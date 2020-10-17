@@ -1,0 +1,52 @@
+{
+    "id": "1546936719",
+    "title": "Detection of closed sharp feature lines in point clouds for reverse engineering applications",
+    "venue": "geometric modeling and processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kris Demarsin",
+            "id": "2127129280",
+            "org": "Department of Computer Science, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Denis Vanderstraeten",
+            "id": "2053113079",
+            "org": "Metris N.V., Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Timofej Volodine",
+            "id": "2521379997",
+            "org": "Department of Computer Science, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Dirk Roose",
+            "id": "2139958734",
+            "org": "Department of Computer Science, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Spanning tree",
+        "Reverse engineering",
+        "Discrete mathematics",
+        "Computer science",
+        "Coordinate-measuring machine",
+        "Graph",
+        "Point cloud",
+        "Point process",
+        "Image processing",
+        "Mathematical optimization",
+        "Minimum spanning tree"
+    ],
+    "references": [
+        "206063426",
+        "1515150373",
+        "1907843445",
+        "1996869742",
+        "2011981813",
+        "2018737802",
+        "2122076394",
+        "2149887512",
+        "2167832640"
+    ]
+}

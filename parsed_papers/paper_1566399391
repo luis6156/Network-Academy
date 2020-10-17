@@ -1,0 +1,35 @@
+{
+    "id": "1566399391",
+    "title": "A security enhancement and proof for authentication and key agreement (AKA)",
+    "venue": "security and cryptography for networks",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vladimir Kolesnikov",
+            "id": "2469209240",
+            "org": "Alcatel-Lucent Bell Laboratories, Murray Hill, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Tamper resistance",
+        "Key exchange",
+        "Session key",
+        "Computer science",
+        "Formal proof",
+        "Client-server model",
+        "Computer security",
+        "UMTS frequency bands",
+        "Secure channel"
+    ],
+    "references": [
+        "140743382",
+        "1539639468",
+        "1561441787",
+        "1561564981",
+        "1572503422",
+        "1604454960",
+        "2153281696",
+        "2163408553"
+    ]
+}

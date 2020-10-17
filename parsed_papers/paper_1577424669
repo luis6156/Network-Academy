@@ -1,0 +1,41 @@
+{
+    "id": "1577424669",
+    "title": "3D Blood Flow Reconstruction from 2D Angiograms",
+    "venue": "Bildverarbeitung f&uuml;r die Medizin",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Esther-Sabrina Platzer",
+            "id": "2197444320",
+            "org": "Friedrich-Schiller-Universitat"
+        },
+        {
+            "name": "Frank Deinzer",
+            "id": "2326230806",
+            "org": "Siemens AG"
+        },
+        {
+            "name": "Dietrich Paulus",
+            "id": "2092251427",
+            "org": "Universitat Koblenz-Landau"
+        },
+        {
+            "name": "Joachim Denzler",
+            "id": "1988407101",
+            "org": "Friedrich-Schiller-Universitat"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Particle filter",
+        "Blood flow",
+        "Probabilistic logic",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1486578428",
+        "2145105092",
+        "2160337655",
+        "2162990964"
+    ]
+}

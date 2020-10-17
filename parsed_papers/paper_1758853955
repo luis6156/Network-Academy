@@ -1,0 +1,62 @@
+{
+    "id": "1758853955",
+    "title": "Dynamic scheduling of parallel jobs with QoS demands in multiclusters and grids",
+    "venue": "grid computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ligang He",
+            "id": "2131698271",
+            "org": "Dept. of Comput. Sci., Warwick Univ., Coventry, UK"
+        },
+        {
+            "name": "Stephen A. Jarvis",
+            "id": "2114720614",
+            "org": "Dept. of Comput. Sci., Warwick Univ., Coventry, UK"
+        },
+        {
+            "name": "Daniel P. Spooner",
+            "id": "2045640278",
+            "org": "Dept. of Comput. Sci., Warwick Univ., Coventry, UK"
+        },
+        {
+            "name": "Xinuo Chen",
+            "id": "2129513494",
+            "org": "Dept. of Comput. Sci., Warwick Univ., Coventry, UK"
+        },
+        {
+            "name": "Graham R. Nudd",
+            "id": "328827001",
+            "org": "Dept. of Comput. Sci., Warwick Univ., Coventry, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-priority pre-emptive scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Stride scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Genetic algorithm scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1596277129",
+        "1608578321",
+        "1735356492",
+        "2017733144",
+        "2094186309",
+        "2095859805",
+        "2099659441",
+        "2104741073",
+        "2104992727",
+        "2114351723",
+        "2134697971",
+        "2135938932",
+        "2156806488",
+        "2168011193"
+    ]
+}

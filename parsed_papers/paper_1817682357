@@ -1,0 +1,68 @@
+{
+    "id": "1817682357",
+    "title": "RIKE: using revocable identities to support key escrow in PKIs",
+    "venue": "applied cryptography and network security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Nan Zhang",
+            "id": "2604153947",
+            "org": "State Key Lab of Information Security, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China, Graduate University of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Jingqiang Lin",
+            "id": "2223600169",
+            "org": "State Key Lab of Information Security, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Jiwu Jing",
+            "id": "2251178235",
+            "org": "State Key Lab of Information Security, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Neng Gao",
+            "id": "2232357734",
+            "org": "State Key Lab of Information Security, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Implicit certificate",
+        "Self-signed certificate",
+        "Root certificate",
+        "Computer science",
+        "Revocation list",
+        "Public key certificate",
+        "Computer security",
+        "Key escrow",
+        "Escrow",
+        "Certificate signing request"
+    ],
+    "references": [
+        "1495266644",
+        "1502896015",
+        "1508632300",
+        "1521848343",
+        "1542057243",
+        "1544450495",
+        "1569083856",
+        "1576892942",
+        "1585096027",
+        "1591524234",
+        "1604454960",
+        "1797206029",
+        "1804630428",
+        "1994219740",
+        "2001909958",
+        "2008524185",
+        "2086042811",
+        "2130708931",
+        "2145255308",
+        "2146149890",
+        "2151349068",
+        "2152924492",
+        "2160878415",
+        "2166362740",
+        "2281680748",
+        "2610275508"
+    ]
+}

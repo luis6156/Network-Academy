@@ -1,0 +1,76 @@
+{
+    "id": "162515996",
+    "title": "SFS: random write considered harmful in solid state drives",
+    "venue": "file and storage technologies",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Changwoo Min",
+            "id": "2165680947",
+            "org": "Sungkyunkwan University, Korea and Samsung Electronics, Korea#TAB#"
+        },
+        {
+            "name": "Kangnyeon Kim",
+            "id": "2568869492",
+            "org": "Sungkyunkwan University, Korea#TAB#"
+        },
+        {
+            "name": "Hyun-Jin Cho",
+            "id": "2171795728",
+            "org": "Samsung Electronics, Korea#TAB#"
+        },
+        {
+            "name": "Sang-Won Lee",
+            "id": "2157457850",
+            "org": "Sungkyunkwan University, Korea#TAB#"
+        },
+        {
+            "name": "Young Ik Eom",
+            "id": "1622591780",
+            "org": "Sungkyunkwan University, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Throughput",
+        "Parallel computing",
+        "Computer science",
+        "Considered harmful",
+        "Bandwidth (signal processing)",
+        "ext4",
+        "NAND gate",
+        "Exploit",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "24973626",
+        "201248661",
+        "1262434878",
+        "1486947867",
+        "1498936153",
+        "1538319448",
+        "1564774435",
+        "1677118421",
+        "1990946453",
+        "2010263580",
+        "2018763861",
+        "2024363956",
+        "2025371316",
+        "2029443464",
+        "2035606364",
+        "2095575400",
+        "2095626819",
+        "2099316199",
+        "2100100130",
+        "2106436364",
+        "2108183412",
+        "2114828666",
+        "2116117441",
+        "2122244530",
+        "2136221005",
+        "2160356600",
+        "2165068957",
+        "2167819041"
+    ]
+}

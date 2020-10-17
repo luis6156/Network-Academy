@@ -1,0 +1,42 @@
+{
+    "id": "1524852881",
+    "title": "Security Through Aspect-Oriented Programming",
+    "venue": "Network Security",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Bart De Win",
+            "id": "1809815638",
+            "org": "K. U.Leuven"
+        },
+        {
+            "name": "Bart Vanhaute",
+            "id": "1066340099",
+            "org": "K. U.Leuven"
+        },
+        {
+            "name": "Bart De Decker",
+            "id": "1864115044",
+            "org": "K. U.Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Separation of concerns",
+        "Aspect-oriented programming"
+    ],
+    "references": [
+        "1522946338",
+        "1596847037",
+        "1784120004",
+        "1831687264",
+        "1978220811",
+        "2029030517",
+        "2125189252",
+        "2137689716",
+        "2672629822"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1546271850",
+    "title": "A C++ Workbench with Accurate Non-Blocking Garbage Collector for Server Side Internet Applications",
+    "venue": "SET",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Piotr Kolaczkowski",
+            "id": "93903423",
+            "org": "Warsaw University of Technology"
+        },
+        {
+            "name": "Ilona Bluemke",
+            "id": "29047808",
+            "org": "Warsaw University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Server-side",
+        "Computer science",
+        "Garbage collection",
+        "Smart pointer",
+        "The Internet",
+        "Garbage",
+        "Operating system",
+        "Memory leak",
+        "Workbench"
+    ],
+    "references": [
+        "50476539",
+        "1484117294",
+        "1582836852",
+        "2005907808",
+        "2094631165",
+        "2112832394",
+        "2121433585",
+        "2123934168"
+    ]
+}

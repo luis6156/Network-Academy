@@ -1,0 +1,59 @@
+{
+    "id": "1442132175",
+    "title": "A new exact maximum clique algorithm for large and massive sparse graphs",
+    "venue": "Computers & Operations Research",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Pablo San Segundo",
+            "id": "2162682052",
+            "org": "Center for Automation and Robotics (UPM-CSIC), Jose Gutierrez Abascal 2, Madrid 28006, Spain#TAB#"
+        },
+        {
+            "name": "Alvaro Lopez",
+            "id": "2234917405",
+            "org": "Center for Automation and Robotics (UPM-CSIC), Jose Gutierrez Abascal 2, Madrid 28006, Spain#TAB#"
+        },
+        {
+            "name": "Panos M. Pardalos",
+            "id": "1979746700",
+            "org": "Laboratory of Algorithms and Technologies for Network Analysis, National Research University Higher School of Economics, 136 Rodionova, Nizhny Novgorod, 603093, Russian Federation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Branch and bound",
+        "Adjacency matrix",
+        "Graph",
+        "Clique",
+        "Sparse approximation",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "75795297",
+        "749637598",
+        "1594785451",
+        "1676999057",
+        "1849256610",
+        "1975442866",
+        "1983402337",
+        "1996872016",
+        "2001898386",
+        "2003010406",
+        "2008362324",
+        "2028393984",
+        "2043005464",
+        "2046112356",
+        "2068617151",
+        "2081768921",
+        "2098667053",
+        "2100505346",
+        "2110504071",
+        "2116007667",
+        "2170659335",
+        "2173409066",
+        "2296274211"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "109380605",
+    "title": "Access Annotation for Safe Program Parallelization",
+    "venue": "network and parallel computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Chen Ding",
+            "id": "2110051044",
+            "org": "Department of Computer Science, University of Rochester, Rochester, USA#TAB#"
+        },
+        {
+            "name": "Lei Liu",
+            "id": "2664337270",
+            "org": "Institute of Computing Technologies, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "Data access",
+        "Computer science",
+        "Distributed computing",
+        "Annotation",
+        "False sharing",
+        "Virtual memory",
+        "All access",
+        "Correctness",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1494930385",
+        "1498246297",
+        "1742609814",
+        "1995288535",
+        "2028267160",
+        "2036520154",
+        "2037303555",
+        "2078429521",
+        "2080073745",
+        "2097717378",
+        "2105055683",
+        "2105794846",
+        "2106231823",
+        "2111946621",
+        "2129934486",
+        "2138180780",
+        "2145087641",
+        "2145467766",
+        "2146039870",
+        "2149037641",
+        "2158308706",
+        "2158794422",
+        "2164579444",
+        "2170200862"
+    ]
+}

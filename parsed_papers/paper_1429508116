@@ -1,0 +1,85 @@
+{
+    "id": "1429508116",
+    "title": "JSGuard: Shellcode Detection in JavaScript",
+    "venue": "international conference on security and privacy in communication systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Boxuan Gu",
+            "id": "2030772614",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Wenbin Zhang",
+            "id": "2306832395",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Xiaole Bai",
+            "id": "2010138775",
+            "org": "Alliance Data System"
+        },
+        {
+            "name": "Adam C. Champion",
+            "id": "2049653024",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Feng Qin",
+            "id": "2345606310",
+            "org": "The Ohio State University"
+        },
+        {
+            "name": "Dong Xuan",
+            "id": "2133830736",
+            "org": "The Ohio State University"
+        }
+    ],
+    "fields_of_study": [
+        "JavaScript",
+        "False positives and false negatives",
+        "Redundancy (engineering)",
+        "Shellcode",
+        "Computer science",
+        "Browser security",
+        "Intrusion detection system",
+        "Internet security",
+        "Operating system"
+    ],
+    "references": [
+        "58852127",
+        "102746433",
+        "1485086418",
+        "1491237615",
+        "1520941164",
+        "1544837488",
+        "1545927878",
+        "1546149892",
+        "1572900211",
+        "1575709006",
+        "1585946645",
+        "1591237315",
+        "1761672165",
+        "1970867218",
+        "1987644478",
+        "2051498836",
+        "2073538329",
+        "2095610745",
+        "2101310246",
+        "2101699859",
+        "2102970979",
+        "2113000322",
+        "2114604089",
+        "2120361464",
+        "2131523719",
+        "2144789413",
+        "2149230355",
+        "2150795982",
+        "2157912940",
+        "2158302406",
+        "2160289821",
+        "2167432494",
+        "2171264329",
+        "2295386615"
+    ]
+}

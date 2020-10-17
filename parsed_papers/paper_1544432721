@@ -1,0 +1,59 @@
+{
+    "id": "1544432721",
+    "title": "HPCVIEW: A Tool for Top-down Analysis of Node Performance",
+    "venue": "The Journal of Supercomputing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "John M. Mellor-Crummey",
+            "id": "2249219846",
+            "org": "Department of Computer Science, MS 132, Rice University, 6100 Main Street, Houston, TX 77005-1892 johnmc@cs.rice.edu#TAB#"
+        },
+        {
+            "name": "Robert J. Fowler",
+            "id": "2115887635",
+            "org": "Department of Computer Science, MS 132, Rice University, 6100 Main Street, Houston, TX 77005-1892 [email protected]#TAB#"
+        },
+        {
+            "name": "Gabriel Marin",
+            "id": "2119452603",
+            "org": "Department of Computer Science, MS 132, Rice University, 6100 Main Street, Houston, TX 77005-1892 mgabi@cs.rice.edu#TAB#"
+        },
+        {
+            "name": "Nathan R. Tallent",
+            "id": "1591516426",
+            "org": "Department of Computer Science, MS 132, Rice University, 6100 Main Street, Houston, TX 77005-1892 eraxxon@alumni.rice.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory hierarchy",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Top-down and bottom-up design",
+        "Hierarchy",
+        "Software performance testing",
+        "Optimizing compiler",
+        "Usability"
+    ],
+    "references": [
+        "110214901",
+        "153274108",
+        "1508567954",
+        "1509216981",
+        "1963937148",
+        "1977263182",
+        "2032732648",
+        "2040183246",
+        "2051533028",
+        "2057577013",
+        "2078900897",
+        "2082318969",
+        "2109870518",
+        "2140384194",
+        "2153131460",
+        "2160547257"
+    ]
+}

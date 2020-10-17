@@ -1,0 +1,53 @@
+{
+    "id": "1484700963",
+    "title": "Symbolic execution techniques for test purpose definition",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Christophe Gaston",
+            "id": "2105094687",
+            "org": "CEA/LIST Saclay, Gif sur Yvette, France#TAB#"
+        },
+        {
+            "name": "Pascale Le Gall",
+            "id": "2119572791",
+            "org": "Universite d'Evry, IBISC - FRE CNRS 2873, Evry, France#TAB#"
+        },
+        {
+            "name": "Nicolas Rapin",
+            "id": "2690351142",
+            "org": "CEA/LIST Saclay, Gif sur Yvette, France#TAB#"
+        },
+        {
+            "name": "Assia Touil",
+            "id": "2798784874",
+            "org": "Universite d'Evry, IBISC - FRE CNRS 2873, Evry, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concolic testing",
+        "Input/output",
+        "Discrete mathematics",
+        "Symbolic data analysis",
+        "State variable",
+        "Symbolic execution",
+        "Computer science",
+        "Transition system",
+        "Symbolic trajectory evaluation",
+        "Data type",
+        "Real-time computing",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1556566737",
+        "1847824087",
+        "1945254896",
+        "2033072042",
+        "2109276114",
+        "2112640524",
+        "2143236904",
+        "2161786546"
+    ]
+}

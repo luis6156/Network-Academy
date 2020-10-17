@@ -1,0 +1,83 @@
+{
+    "id": "1560994062",
+    "title": "Tiered replication: a cost-effective alternative to full cluster geo-replication",
+    "venue": "usenix annual technical conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Asaf Cidon",
+            "id": "1801341501",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Robert Escriva",
+            "id": "2061774232",
+            "org": "Cornell University#TAB#"
+        },
+        {
+            "name": "Sachin Katti",
+            "id": "2130290287",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Mendel Rosenblum",
+            "id": "2102969555",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Emin Gun Sirer",
+            "id": "223610748",
+            "org": "Cornell University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Geo-replication",
+        "Computer data storage",
+        "Mean time between failures",
+        "Computer science",
+        "Distributed computing",
+        "Data loss",
+        "Backup",
+        "Guard (information security)",
+        "Cloud storage",
+        "Real-time computing"
+    ],
+    "references": [
+        "12688243",
+        "24740120",
+        "154253821",
+        "200233886",
+        "1510496002",
+        "1524103123",
+        "1540902136",
+        "1576397915",
+        "1600328410",
+        "1606172465",
+        "1629652666",
+        "1891640176",
+        "1916848204",
+        "1969925795",
+        "1985229168",
+        "1985419898",
+        "2029467255",
+        "2030433619",
+        "2043719859",
+        "2058181149",
+        "2092292480",
+        "2104210894",
+        "2116777751",
+        "2119565742",
+        "2119738171",
+        "2122249806",
+        "2123491250",
+        "2125165932",
+        "2125646999",
+        "2130373037",
+        "2138744797",
+        "2139391817",
+        "2143339985",
+        "2146033465",
+        "2161234420",
+        "2405200838"
+    ]
+}

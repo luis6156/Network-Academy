@@ -1,0 +1,55 @@
+{
+    "id": "1575599371",
+    "title": "Universal causality graphs: a precise happens-before model for detecting bugs in concurrent programs",
+    "venue": "computer aided verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Vineet Kahlon",
+            "id": "128685082",
+            "org": "NEC Laboratories America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Chao Wang",
+            "id": "2854535502",
+            "org": "NEC Laboratories America, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Soundness",
+        "Scheduling (computing)",
+        "Runtime verification",
+        "Correctness",
+        "Exploit",
+        "Schedule",
+        "Real-time computing"
+    ],
+    "references": [
+        "1481985818",
+        "1522334395",
+        "1522958625",
+        "1579452275",
+        "1581214603",
+        "1587449012",
+        "1600422503",
+        "1605226475",
+        "2033651910",
+        "2082766667",
+        "2107089133",
+        "2109033563",
+        "2125967324",
+        "2153174073",
+        "2153229512",
+        "2156883715",
+        "2157888439",
+        "2160489152",
+        "2165422215",
+        "2194223632"
+    ]
+}

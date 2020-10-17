@@ -1,0 +1,53 @@
+{
+    "id": "1607874478",
+    "title": "KATAN and KTANTAN -- A Family of Small and Efficient Hardware-Oriented Block Ciphers",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Christophe De Canniere",
+            "id": "2038466276",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC and Interdisciplinary Center for Broad Band Technologies, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium B-3001#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC and Interdisciplinary Center for Broad Band Technologies, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium B-3001 and Departement d ...#TAB#"
+        },
+        {
+            "name": "Miroslav Knezevic",
+            "id": "2141086856",
+            "org": "Department of Electrical Engineering ESAT/SCD-COSIC and Interdisciplinary Center for Broad Band Technologies, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium B-3001#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer hardware",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "Parallel computing",
+        "S-box",
+        "Cipher",
+        "Computer science",
+        "Avalanche effect",
+        "T-function",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1522919234",
+        "1556727271",
+        "1575062508",
+        "1596841000",
+        "1870923733",
+        "1894646615",
+        "1964723977",
+        "1979802565",
+        "1991897749",
+        "2076397729",
+        "2132161909",
+        "2139958505",
+        "2160494425",
+        "2163354454"
+    ]
+}

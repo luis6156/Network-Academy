@@ -1,0 +1,58 @@
+{
+    "id": "1794592934",
+    "title": "Algebraic Side-Channel Attacks on the AES: Why Time also Matters in DPA",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Mathieu Renauld",
+            "id": "2091924704",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve B-1348#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve B-1348#TAB#"
+        },
+        {
+            "name": "Nicolas Veyrat-Charvillon",
+            "id": "315100061",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve B-1348#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Cipher",
+        "Cryptanalysis",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "Adversary",
+        "Plaintext"
+    ],
+    "references": [
+        "54412699",
+        "98412359",
+        "1475025077",
+        "1498044825",
+        "1504927043",
+        "1509491396",
+        "1542020576",
+        "1560592490",
+        "1573157032",
+        "1579351653",
+        "1588952639",
+        "1595155753",
+        "1700662932",
+        "1771708738",
+        "1803499338",
+        "1945555650",
+        "2020981190",
+        "2100394341",
+        "2124509406",
+        "2154909745",
+        "2407959219"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1493856790",
+    "title": "NTRU in Constrained Devices",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Daniel V. Bailey",
+            "id": "2764829138",
+            "org": "Brown University"
+        },
+        {
+            "name": "Daniel Coffin",
+            "id": "2564130946",
+            "org": "NTRU Cryptosystems, Inc."
+        },
+        {
+            "name": "Adam J. Elbirt",
+            "id": "2305896566",
+            "org": "NTRU Cryptosystems, Inc."
+        },
+        {
+            "name": "Joseph H. Silverman",
+            "id": "2171202380",
+            "org": "Brown University"
+        },
+        {
+            "name": "Adam D. Woodbury",
+            "id": "2710401677",
+            "org": "Worcester Polytechnic Institute"
+        }
+    ],
+    "fields_of_study": [
+        "NTRU",
+        "Cryptography",
+        "Field-programmable gate array",
+        "Computer science",
+        "NTRUEncrypt",
+        "Distributed computing",
+        "Virtex",
+        "Elliptic curve cryptography",
+        "Embedded system",
+        "Cryptosystem",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1489617931",
+        "1586812950",
+        "1675339804",
+        "1833653714"
+    ]
+}

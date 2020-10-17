@@ -1,0 +1,60 @@
+{
+    "id": "1545350661",
+    "title": "Provably secure encrypt-then-sign composition in hybrid signcryption",
+    "venue": "international conference on information security and cryptology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ik Rae Jeong",
+            "id": "2520722351",
+            "org": "Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Hee Yun Jeong",
+            "id": "2291056178",
+            "org": "Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Hyun Sook Rhee",
+            "id": "2409999934",
+            "org": "Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2791883365",
+            "org": "Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Signcryption",
+        "Non-repudiation",
+        "Theoretical computer science",
+        "Computer science",
+        "Encryption",
+        "Plaintext",
+        "Authenticated encryption",
+        "Computer network",
+        "Public-key cryptography",
+        "Provable security"
+    ],
+    "references": [
+        "49117074",
+        "1516512945",
+        "1516634197",
+        "1551910192",
+        "1599446772",
+        "1656028867",
+        "1991914881",
+        "1993257560",
+        "2103627472",
+        "2149093588",
+        "2165214731",
+        "2169194339"
+    ]
+}

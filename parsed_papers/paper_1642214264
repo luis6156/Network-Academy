@@ -1,0 +1,72 @@
+{
+    "id": "1642214264",
+    "title": "k-NN text classification using an FPGA-based sparse matrix vector multiplication accelerator",
+    "venue": "electro information technology",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Kevin R. Townsend",
+            "id": "2117021867",
+            "org": "Department of Electrical and Computer Engineering, Iowa State University, Ames, IA, USA"
+        },
+        {
+            "name": "Song Sun",
+            "id": "2146647372",
+            "org": "Department of Electrical and Computer Engineering, Iowa State University, Ames, IA, USA"
+        },
+        {
+            "name": "Tyler Johnson",
+            "id": "2236494765",
+            "org": "Department of Electrical and Computer Engineering, Iowa State University, Ames, IA, USA"
+        },
+        {
+            "name": "Osama G. Attia",
+            "id": "2108449968",
+            "org": "Department of Electrical and Computer Engineering, Iowa State University, Ames, IA, USA"
+        },
+        {
+            "name": "Phillip H. Jones",
+            "id": "2108554488",
+            "org": "Department of Electrical and Computer Engineering, Iowa State University, Ames, IA, USA"
+        },
+        {
+            "name": "Joseph Zambreno",
+            "id": "2299914378",
+            "org": "Department of Electrical and Computer Engineering, Iowa State University, Ames, IA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "k-nearest neighbors algorithm",
+        "Coprocessor",
+        "Intrusion detection system",
+        "Sparse matrix-vector multiplication",
+        "Reconfigurable computing",
+        "Architecture",
+        "Email filtering"
+    ],
+    "references": [
+        "1493526108",
+        "1532325895",
+        "1584468971",
+        "1958077162",
+        "2027455804",
+        "2067767241",
+        "2096328040",
+        "2097948251",
+        "2098345386",
+        "2118020653",
+        "2120968007",
+        "2124592110",
+        "2130526756",
+        "2133156997",
+        "2133645803",
+        "2134135067",
+        "2136255500",
+        "2150102617",
+        "2151448352"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1566154368",
+    "title": "Algebraic cryptanalysis of mceliece variants with compact keys",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jean-Charles Faugere",
+            "id": "2002696396",
+            "org": "SALSA Project - INRIA (Centre Paris-Rocquencourt), UPMC, Univ Paris 06 - CNRS, UMR 7606, LIP6, Paris, France#TAB#"
+        },
+        {
+            "name": "Ayoub Otmani",
+            "id": "2776729269",
+            "org": "SECRET Project - INRIA Rocquencourt, Domaine de Voluceau, B.P. 105, Le Chesnay Cedex, France#TAB#"
+        },
+        {
+            "name": "Ludovic Perret",
+            "id": "2163354396",
+            "org": "SALSA Project - INRIA (Centre Paris-Rocquencourt), UPMC, Univ Paris 06 - CNRS, UMR 7606, LIP6, Paris, France#TAB#"
+        },
+        {
+            "name": "Jean-Pierre Tillich",
+            "id": "2095107103",
+            "org": "SECRET Project - INRIA Rocquencourt, Domaine de Voluceau, B.P. 105, Le Chesnay Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Alternant code",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Public-key cryptography",
+        "Discrete mathematics",
+        "Cryptosystem",
+        "McEliece cryptosystem",
+        "Low-density parity-check code",
+        "Goppa code",
+        "Polynomial"
+    ],
+    "references": [
+        "1488034582",
+        "1506139516",
+        "1520077026",
+        "1535038214",
+        "1536493828",
+        "1536626845",
+        "1550367722",
+        "1849802011",
+        "1851924232",
+        "1897146492",
+        "1979345442",
+        "2010865943",
+        "2025108828",
+        "2026461145",
+        "2059522106",
+        "2090010567",
+        "2094420277",
+        "2110509124",
+        "2126474167",
+        "2147436724",
+        "2149636648",
+        "2150802958"
+    ]
+}

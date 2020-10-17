@@ -1,0 +1,50 @@
+{
+    "id": "1558505399",
+    "title": "An incremental parser to recognize diagram symbols and gestures represented by adjacency grammars",
+    "venue": "graphics recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Joan Mas",
+            "id": "2116496734",
+            "org": "Computer Vision Center, Computer Science Department., Edifici O, Universitat Autonoma de Barcelona, Bellaterra (Barcelona), Spain#TAB#"
+        },
+        {
+            "name": "Gemma Sanchez",
+            "id": "2158748514",
+            "org": "Computer Vision Center, Computer Science Department., Edifici O, Universitat Autonoma de Barcelona, Bellaterra (Barcelona), Spain#TAB#"
+        },
+        {
+            "name": "Josep Llados",
+            "id": "2152748675",
+            "org": "Computer Vision Center, Computer Science Department., Edifici O, Universitat Autonoma de Barcelona, Bellaterra (Barcelona), Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "LL grammar",
+        "Chomsky normal form",
+        "Link grammar",
+        "Pattern recognition",
+        "Computer science",
+        "Parser combinator",
+        "Attribute grammar",
+        "Mildly context-sensitive grammar formalism",
+        "Terminal and nonterminal symbols",
+        "Operator-precedence grammar",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1555203894",
+        "1564106823",
+        "1614095689",
+        "1866830290",
+        "1978441701",
+        "1983526743",
+        "1991923264",
+        "2031694549",
+        "2068091162",
+        "2116599600",
+        "2150323633"
+    ]
+}

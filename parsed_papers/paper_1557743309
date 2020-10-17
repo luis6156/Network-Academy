@@ -1,0 +1,42 @@
+{
+    "id": "1557743309",
+    "title": "Performance Issues of Synchronisation in the MPI-2 One-Sided Communication API",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Lars Schneidenbach",
+            "id": "2172447929",
+            "org": "Institute for Computer Science, University of Potsdam, Germany#TAB#"
+        },
+        {
+            "name": "David Bohme",
+            "id": "2307634871",
+            "org": "Institute for Computer Science, University of Potsdam, Germany#TAB#"
+        },
+        {
+            "name": "Bettina Schnor",
+            "id": "1133867201",
+            "org": "Institute for Computer Science, University of Potsdam, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Neon",
+        "Message Passing Interface",
+        "Cellular automaton",
+        "Synchronization",
+        "Real-time computing"
+    ],
+    "references": [
+        "189252004",
+        "1528620870",
+        "1554413585",
+        "1600857929",
+        "1842154143",
+        "1969215126",
+        "2000192156",
+        "2611525529"
+    ]
+}

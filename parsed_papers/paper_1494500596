@@ -1,0 +1,52 @@
+{
+    "id": "1494500596",
+    "title": "A new key-insulated signature scheme",
+    "venue": "international conference on information and communication security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Nicolas Gonzalez-Deleito",
+            "id": "2133879475",
+            "org": "Universite Libre de Bruxelles, Bd. du Triomphe CP212, 1050 Bruxelles, Belgium"
+        },
+        {
+            "name": "Olivier Markowitch",
+            "id": "25558416",
+            "org": "Universite Libre de Bruxelles"
+        },
+        {
+            "name": "Emmanuel Dall'olio",
+            "id": "2153076099",
+            "org": "Universite Libre de Bruxelles"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Computer science",
+        "Distributed computing",
+        "Forward secrecy",
+        "Digital signature",
+        "Key (lock)",
+        "Adversary",
+        "Key size"
+    ],
+    "references": [
+        "1481068248",
+        "1495266644",
+        "1498063506",
+        "1505202270",
+        "1532140623",
+        "1551969482",
+        "1555841518",
+        "1579435243",
+        "1589205472",
+        "1604454960",
+        "1850675439",
+        "1882430379",
+        "1983762057",
+        "2101082016",
+        "2166462813",
+        "2585529823",
+        "2605928589"
+    ]
+}

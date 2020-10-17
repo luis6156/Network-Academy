@@ -1,0 +1,52 @@
+{
+    "id": "1768774392",
+    "title": "How to thwart birthday attacks against MACs via small randomness",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kazuhiko Minematsu",
+            "id": "2030478481",
+            "org": "NEC Corporation, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher mode of operation",
+        "Birthday attack",
+        "Computer science",
+        "Distributed computing",
+        "Uniqueness",
+        "Initialization vector",
+        "Pseudorandomness",
+        "Message authentication code",
+        "Randomness"
+    ],
+    "references": [
+        "75701350",
+        "110849363",
+        "122619279",
+        "1485474160",
+        "1504211573",
+        "1528253743",
+        "1533692520",
+        "1537185870",
+        "1551279437",
+        "1569469989",
+        "1586481148",
+        "1598238103",
+        "1603243612",
+        "1604454960",
+        "1763079358",
+        "1868857761",
+        "1985623009",
+        "2052207834",
+        "2089493744",
+        "2120482377",
+        "2126631228",
+        "2139172211",
+        "2158554251",
+        "2166669874",
+        "2169873435",
+        "2170618460"
+    ]
+}

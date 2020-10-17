@@ -1,0 +1,76 @@
+{
+    "id": "1766267506",
+    "title": "Missive: fast application launch from an untrusted buffer cache",
+    "venue": "usenix annual technical conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jon Howell",
+            "id": "2128381254",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Jeremy Elson",
+            "id": "2120803867",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Bryan Parno",
+            "id": "1595681779",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "John R. Douceur",
+            "id": "135218249",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Disk buffer",
+        "Computer science",
+        "Data deduplication",
+        "Binary code",
+        "Real-time computing",
+        "Bootstrapping"
+    ],
+    "references": [
+        "15883",
+        "73604409",
+        "105710807",
+        "1487493679",
+        "1519889149",
+        "1522473288",
+        "1566345534",
+        "1601735929",
+        "1907897959",
+        "1993865637",
+        "1995625544",
+        "2007537982",
+        "2014952121",
+        "2026839093",
+        "2056980397",
+        "2062340141",
+        "2067538969",
+        "2081037744",
+        "2081778896",
+        "2083357144",
+        "2084445812",
+        "2100673955",
+        "2103131117",
+        "2103701891",
+        "2105842205",
+        "2108959037",
+        "2116085955",
+        "2121178808",
+        "2140733653",
+        "2143351500",
+        "2149684006",
+        "2150676586",
+        "2154884316",
+        "2157010176",
+        "2159890891",
+        "2160127232",
+        "2171796885"
+    ]
+}

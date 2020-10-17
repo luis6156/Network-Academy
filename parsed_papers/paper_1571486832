@@ -1,0 +1,86 @@
+{
+    "id": "1571486832",
+    "title": "Common problems in delay-based congestion control algorithms: a gallery of solutions",
+    "venue": "European Transactions on Telecommunications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Miguel Rodriguez-Perez",
+            "id": "2166581368",
+            "org": "Campus Universitario Lagoas-Marcosende s/n Department of Telematics Engineering, E.I. Telecomunicacion Vigo Spain"
+        },
+        {
+            "name": "Sergio Herreria-Alonso",
+            "id": "318470590",
+            "org": "Campus Universitario Lagoas-Marcosende s/n Department of Telematics Engineering, E.I. Telecomunicacion Vigo Spain"
+        },
+        {
+            "name": "Manuel Fernandez-Veiga",
+            "id": "212476166",
+            "org": "Campus Universitario Lagoas-Marcosende s/n Department of Telematics Engineering, E.I. Telecomunicacion Vigo Spain"
+        },
+        {
+            "name": "Candido Lopez-Garcia",
+            "id": "2036006045",
+            "org": "Campus Universitario Lagoas-Marcosende s/n Department of Telematics Engineering, E.I. Telecomunicacion Vigo Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Transmission Control Protocol",
+        "TCP Westwood plus",
+        "Algorithm",
+        "Computer science",
+        "HSTCP",
+        "TCP tuning",
+        "H-TCP",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Packet loss"
+    ],
+    "references": [
+        "1562765149",
+        "1966518206",
+        "1983692713",
+        "1997697321",
+        "2007594468",
+        "2024045435",
+        "2024234376",
+        "2028017623",
+        "2051866080",
+        "2067764765",
+        "2071314114",
+        "2085761737",
+        "2098161467",
+        "2098989695",
+        "2103481633",
+        "2103701891",
+        "2107527523",
+        "2112495447",
+        "2115276322",
+        "2118572615",
+        "2120337261",
+        "2124478678",
+        "2129994306",
+        "2130328331",
+        "2131218457",
+        "2135274992",
+        "2137729088",
+        "2144555115",
+        "2145263490",
+        "2150004189",
+        "2152178735",
+        "2152550816",
+        "2157729792",
+        "2158733823",
+        "2159261716",
+        "2160665327",
+        "2162860013",
+        "2163038493",
+        "2163093107",
+        "2165105326",
+        "2170919527",
+        "2174430759",
+        "2753542457"
+    ]
+}

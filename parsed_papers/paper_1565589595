@@ -1,0 +1,35 @@
+{
+    "id": "1565589595",
+    "title": "Fast point multiplication on elliptic curves through isogenies",
+    "venue": "Applicable Algebra in Engineering, Communication and Computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Eric Brier",
+            "id": "2603158385",
+            "org": "Gemplus Card International, Card Security Group, La Ciotat Cedex, France#TAB#"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International, Card Security Group, La Ciotat Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supersingular elliptic curve",
+        "Mathematics",
+        "Counting points on elliptic curves",
+        "Edwards curve",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Mathematical analysis",
+        "Sato-Tate conjecture",
+        "Schoof's algorithm",
+        "Modular elliptic curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1496801598",
+        "1803405874"
+    ]
+}

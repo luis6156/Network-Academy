@@ -1,0 +1,55 @@
+{
+    "id": "1565879960",
+    "title": "An Abstract Interpretation-Based Framework for Control Flow Reconstruction from Binaries",
+    "venue": "verification model checking and abstract interpretation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Johannes Kinder",
+            "id": "1965367488",
+            "org": "Technische Universitat Darmstadt, Darmstadt, Germany 64289#TAB#"
+        },
+        {
+            "name": "Florian Zuleger",
+            "id": "2331520953",
+            "org": "Technische Universitat Darmstadt, Darmstadt, Germany 64289 and Technische Universitat Munchen, Garching, Germany 85748#TAB#"
+        },
+        {
+            "name": "Helmut Veith",
+            "id": "2810423973",
+            "org": "Technische Universitat Darmstadt, Darmstadt, Germany 64289#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Theoretical computer science",
+        "Control flow",
+        "Compiler",
+        "Computer science",
+        "Abstract interpretation",
+        "Reconstruction algorithm",
+        "Control flow analysis",
+        "Data-flow analysis",
+        "Indirect branch"
+    ],
+    "references": [
+        "1507495123",
+        "1544225867",
+        "1582456956",
+        "1941166084",
+        "1990717911",
+        "1991655364",
+        "1998988707",
+        "2030400507",
+        "2056608406",
+        "2068094728",
+        "2102039064",
+        "2109903957",
+        "2122403474",
+        "2131523719",
+        "2134312016",
+        "2142711257",
+        "2156858199",
+        "2158167094"
+    ]
+}

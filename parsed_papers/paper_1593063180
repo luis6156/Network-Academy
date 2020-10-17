@@ -1,0 +1,47 @@
+{
+    "id": "1593063180",
+    "title": "POS tagging in Amazighe using support vector machines and conditional random fields",
+    "venue": "international conference natural language processing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mohamed Outahajala",
+            "id": "347896646",
+            "org": "Royal Institut for Amazighe Culture, Morocco and Ecole Mohammadia d'Ingenieurs, Morocco#TAB#"
+        },
+        {
+            "name": "Yassine Benajiba",
+            "id": "2693932994",
+            "org": "Philips Research North America, Briacliff Manor#TAB#"
+        },
+        {
+            "name": "Paolo Rosso",
+            "id": "2157200871",
+            "org": "NLE Lab., EliRF, DSIC, Universidad Politecnica de Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Lahbib Zenkouar",
+            "id": "1239020949",
+            "org": "Ecole Mohammadia d'Ingenieurs, Morocco#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Text processing",
+        "Supervised learning",
+        "Computer science",
+        "Pattern recognition",
+        "Conditional random field",
+        "Support vector machine",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1545419611",
+        "1773803948",
+        "1994851566",
+        "2040909025",
+        "2117400858",
+        "2147880316",
+        "2158662504"
+    ]
+}

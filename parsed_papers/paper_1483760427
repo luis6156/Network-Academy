@@ -1,0 +1,43 @@
+{
+    "id": "1483760427",
+    "title": "Memory-efficient IP filtering for countering DDoS attacks",
+    "venue": "asia pacific network operations and management symposium",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Seung Yeob Nam",
+            "id": "2151970734",
+            "org": "Dept. of Information and Communication Engineering, Yeungnam University, Gyeongsan-si, Gyeongbook, Korea#TAB#"
+        },
+        {
+            "name": "Taijin Lee",
+            "id": "2686209090",
+            "org": "KISA, IT Infrastructure Protection Division, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Hash table",
+        "Subnet",
+        "Computer science",
+        "Distributed computing",
+        "Bloom filter",
+        "Trinoo",
+        "Application layer DDoS attack",
+        "Computer network",
+        "Hash function",
+        "Node (networking)"
+    ],
+    "references": [
+        "1486402922",
+        "1526572178",
+        "1977141583",
+        "1985382559",
+        "2018992824",
+        "2042244947",
+        "2112135709",
+        "2126540423",
+        "2138543759",
+        "2152955531"
+    ]
+}

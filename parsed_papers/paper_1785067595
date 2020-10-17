@@ -1,0 +1,44 @@
+{
+    "id": "1785067595",
+    "title": "Preventing fault attack on stream cipher using randomization",
+    "venue": "hardware oriented security and trust",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Shamit Ghosh",
+            "id": "2697628766",
+            "org": "Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "name": "Dipanwita Roy Chowdhury",
+            "id": "2171443424",
+            "org": "Indian Institute of Technology, Kharagpur"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "eSTREAM",
+        "Side channel attack",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Linear cryptanalysis",
+        "Real-time computing",
+        "Correlation attack"
+    ],
+    "references": [
+        "6399285",
+        "181763016",
+        "338310075",
+        "2015707510",
+        "2035439502",
+        "2038631119",
+        "2076397729",
+        "2108329338",
+        "2155441237",
+        "2161550346",
+        "2165883295"
+    ]
+}

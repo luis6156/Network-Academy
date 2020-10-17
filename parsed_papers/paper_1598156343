@@ -1,0 +1,54 @@
+{
+    "id": "1598156343",
+    "title": "Algebraic cryptanalysis of 58-round SHA-1",
+    "venue": "fast software encryption",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Makoto Sugita",
+            "id": "2476477992",
+            "org": "IT Security Center, Information-technology Promotion Agency, Japan, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Mitsuru Kawazoe",
+            "id": "2293234689",
+            "org": "Faculty of Liberal Arts and Sciences, Osaka Prefecture University, Osaka, Japan#TAB#"
+        },
+        {
+            "name": "Ludovic Perret",
+            "id": "2641456008",
+            "org": "SPIRAL/SALSA, Site Passy-Kennedy, LIP6, Paris 6 University, Paris France#TAB#"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "National Institute of Advanced Industrial Science and Technology, Tokyo, Japan and Department of Electrical, Electronic and Communication Engineering, Faculty of Science and Engineering, Chuo Univ ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-1",
+        "Cryptanalysis",
+        "Grobner basis",
+        "Computation",
+        "Algebraic number"
+    ],
+    "references": [
+        "4943677",
+        "81015123",
+        "124034723",
+        "1521015940",
+        "1542068190",
+        "1590269592",
+        "1656731780",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2135759164",
+        "2394910287",
+        "2593463031",
+        "2611506938"
+    ]
+}

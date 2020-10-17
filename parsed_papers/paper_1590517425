@@ -1,0 +1,59 @@
+{
+    "id": "1590517425",
+    "title": "The sum of CBC MACs is a secure PRF",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Kan Yasuda",
+            "id": "2602328321",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Random permutation",
+        "Computer science",
+        "Distributed computing",
+        "Pseudorandom function family",
+        "Encryption",
+        "CBC-MAC",
+        "Message authentication code",
+        "Permutation",
+        "Provable security"
+    ],
+    "references": [
+        "142023353",
+        "1522919234",
+        "1528253743",
+        "1551325341",
+        "1556740421",
+        "1559083062",
+        "1569469989",
+        "1572370917",
+        "1578627459",
+        "1586481148",
+        "1596153847",
+        "1597235115",
+        "1598845251",
+        "1604454960",
+        "1891091891",
+        "1894646615",
+        "2022521688",
+        "2039366259",
+        "2107165730",
+        "2120644709",
+        "2122984309",
+        "2126631228",
+        "2131300413",
+        "2137971123",
+        "2146009225",
+        "2160950619",
+        "2166669874",
+        "2167569963",
+        "2167606175",
+        "2613962897",
+        "2799397395"
+    ]
+}

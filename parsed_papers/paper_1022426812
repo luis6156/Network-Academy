@@ -1,0 +1,84 @@
+{
+    "id": "1022426812",
+    "title": "Exact comparison of fixed priority and EDF scheduling based on speedup factors for both pre-emptive and non-pre-emptive paradigms",
+    "venue": "Real-time Systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Robert I. Davis",
+            "id": "2123337776",
+            "org": "Real-Time Systems Research Group, Department of Computer Science, University of York, York, UK and AOSTE Team, INRIA, Paris-Rocquencourt, France#TAB#"
+        },
+        {
+            "name": "Alan Burns",
+            "id": "2344101015",
+            "org": "Real-Time Systems Research Group, Department of Computer Science, University of York, York, UK#TAB#"
+        },
+        {
+            "name": "Sanjoy K. Baruah",
+            "id": "2145728887",
+            "org": "Department of Computer Science, University of North Carolina, Chapel Hill, USA 27599-317#TAB#"
+        },
+        {
+            "name": "Thomas Rothvob",
+            "id": "2501066737",
+            "org": "Department of Mathematics, University of Washington, Seattle, USA#TAB#"
+        },
+        {
+            "name": "Laurent George",
+            "id": "2154447491",
+            "org": "Universite Paris-Est, LIGM, ESIEE, Paris, France#TAB#"
+        },
+        {
+            "name": "Oliver Gettings",
+            "id": "996725487",
+            "org": "Real-Time Systems Research Group, Department of Computer Science, University of York, York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "Priority inversion",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Earliest deadline first scheduling",
+        "Uniprocessor system",
+        "Deadline-monotonic scheduling",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "194244820",
+        "276536446",
+        "1485093219",
+        "1803225612",
+        "1967792055",
+        "1972868674",
+        "1986292708",
+        "1993462908",
+        "2011013975",
+        "2015717967",
+        "2023380008",
+        "2042979415",
+        "2050243060",
+        "2051701341",
+        "2056227251",
+        "2064207294",
+        "2076239869",
+        "2078375802",
+        "2086061827",
+        "2086748818",
+        "2093100591",
+        "2110186189",
+        "2127467256",
+        "2130181800",
+        "2141440050",
+        "2142264424",
+        "2145132630",
+        "2160293203",
+        "2166440675",
+        "2166718050"
+    ]
+}

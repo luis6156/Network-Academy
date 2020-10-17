@@ -1,0 +1,55 @@
+{
+    "id": "1534883672",
+    "title": "High-Performance Query Processing of a Real-World OLAP Database with ParGRES",
+    "venue": "high performance computing for computational science (vector and parallel processing)",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Melissa Paes",
+            "id": "2114172816",
+            "org": "COPPE, Federal University of Rio de Janeiro, Brazil and Brazilian Institute of Geography and Statistics, Brazil#TAB#"
+        },
+        {
+            "name": "Alexandre A. B. Lima",
+            "id": "2161022388",
+            "org": "UNIGRANRIO, Brazil#TAB#"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "INRIA and LINA, University of Nantes, France#TAB#"
+        },
+        {
+            "name": "Marta Mattoso",
+            "id": "2242263115",
+            "org": "COPPE, Federal University of Rio de Janeiro, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Online analytical processing",
+        "Speedup",
+        "View",
+        "Computer science",
+        "Data mining",
+        "Database",
+        "Online aggregation",
+        "Middleware",
+        "Fact table",
+        "Query optimization"
+    ],
+    "references": [
+        "1482227858",
+        "1482615197",
+        "1482997398",
+        "1539789790",
+        "1550128192",
+        "1648820737",
+        "2037394610",
+        "2056288166",
+        "2128931995",
+        "2143278699",
+        "2163820446",
+        "2178083330"
+    ]
+}

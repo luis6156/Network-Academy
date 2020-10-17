@@ -1,0 +1,76 @@
+{
+    "id": "1558353365",
+    "title": "Replacing a Random Oracle: Full Domain Hash from Indistinguishability Obfuscation",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Susan Hohenberger",
+            "id": "2244632657",
+            "org": "Johns Hopkins University"
+        },
+        {
+            "name": "Amit Sahai",
+            "id": "2159933393",
+            "org": "UCLA"
+        },
+        {
+            "name": "Brent Waters",
+            "id": "2131229705",
+            "org": "University of Texas at Austin"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Hash chain",
+        "Full Domain Hash",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "57300150",
+        "61175307",
+        "177462532",
+        "199192073",
+        "1495266644",
+        "1526778951",
+        "1550579237",
+        "1554072239",
+        "1554247779",
+        "1559365371",
+        "1601106539",
+        "1610688607",
+        "1788164537",
+        "1788452017",
+        "1797206029",
+        "1905774212",
+        "1928401044",
+        "1963071371",
+        "1984153141",
+        "1993060580",
+        "1996360405",
+        "2002930326",
+        "2008948063",
+        "2046871034",
+        "2052267638",
+        "2054904172",
+        "2084641398",
+        "2086042811",
+        "2087115651",
+        "2101803085",
+        "2114296987",
+        "2117797270",
+        "2120154759",
+        "2139033758",
+        "2148888468",
+        "2152924492",
+        "2162653919",
+        "2572799557"
+    ]
+}

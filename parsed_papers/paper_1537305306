@@ -1,0 +1,38 @@
+{
+    "id": "1537305306",
+    "title": "Enabling Sparse Constant Propagation of Array Elements via Array SSA Form",
+    "venue": "static analysis symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Vivek Sarkar",
+            "id": "2164197688",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Kathleen Knobe",
+            "id": "2126514473",
+            "org": "Compaq Cambridge Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Static single assignment form",
+        "Static analysis",
+        "Discrete mathematics",
+        "Merge (version control)",
+        "Graph theory",
+        "Data flow diagram",
+        "Directed acyclic graph",
+        "Scalar (physics)"
+    ],
+    "references": [
+        "1491178396",
+        "1969077685",
+        "1982205631",
+        "2078738604",
+        "2102890180",
+        "2152885483"
+    ]
+}

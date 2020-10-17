@@ -1,0 +1,89 @@
+{
+    "id": "1593484758",
+    "title": "Turbine: A Distributed-memory Dataflow Engine for High Performance Many-task Applications",
+    "venue": "Fundamenta Informaticae",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Justin M. Wozniak",
+            "id": "2242252648",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL USA. wozniak@mcs.anl.gov#TAB#"
+        },
+        {
+            "name": "Timothy G. Armstrong",
+            "id": "2114816205",
+            "org": "Computer Science Department, University of Chicago, Chicago, IL USA. tga@uchicago.edu#TAB#"
+        },
+        {
+            "name": "Ketan Maheshwari",
+            "id": "2117253671",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL USA. ketan@mcs.anl.gov#TAB#"
+        },
+        {
+            "name": "Ewing L. Lusk",
+            "id": "1977610862",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL USA. lusk@mcs.anl.gov#TAB#"
+        },
+        {
+            "name": "Daniel S. Katz",
+            "id": "2162987587",
+            "org": "Computation Institute, University of Chicago & Argonne National Laboratory, Chicago, IL USA. d.katz@ieee.org#TAB#"
+        },
+        {
+            "name": "Michael Wilde",
+            "id": "2126999322",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL USA. wilde@mcs.anl.gov#TAB#"
+        },
+        {
+            "name": "Ian T. Foster",
+            "id": "2017222965",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL USA. foster@mcs.anl.gov#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Signal programming",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Multithreading",
+        "Message passing",
+        "Dataflow",
+        "Concurrency",
+        "Distributed memory",
+        "Dataflow architecture",
+        "Programming paradigm"
+    ],
+    "references": [
+        "68178695",
+        "1487337216",
+        "1493349649",
+        "1493893823",
+        "1837653564",
+        "1976860187",
+        "1992750897",
+        "1996345933",
+        "1997534535",
+        "2000856205",
+        "2004387944",
+        "2006887358",
+        "2006893123",
+        "2011305818",
+        "2020165759",
+        "2056598082",
+        "2077579791",
+        "2087946700",
+        "2098935637",
+        "2100830825",
+        "2110086534",
+        "2111602528",
+        "2119714163",
+        "2122444634",
+        "2153704625",
+        "2158186085",
+        "2161344864",
+        "2165499617",
+        "2167551631",
+        "2173213060",
+        "2189465200"
+    ]
+}

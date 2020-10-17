@@ -1,0 +1,42 @@
+{
+    "id": "1211098324",
+    "title": "Fast Elliptic Curve Point Multiplication using Double-Base Chains.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Vassil S. Dimitrov",
+            "id": "2011046490",
+            "org": "University of Calgary"
+        },
+        {
+            "name": "Laurent Imbert",
+            "id": "2780566874",
+            "org": "University of Calgary"
+        },
+        {
+            "name": "Pradeep Kumar Mishra",
+            "id": "2305390162",
+            "org": "University of Calgary"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Modular elliptic curve",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1660562555",
+        "2066709282",
+        "2099317248",
+        "2121371977",
+        "2151279347"
+    ]
+}

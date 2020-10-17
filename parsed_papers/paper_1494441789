@@ -1,0 +1,66 @@
+{
+    "id": "1494441789",
+    "title": "One bad apple spoils the bunch: exploiting P2P applications to trace and profile Tor users",
+    "venue": "usenix conference on large scale exploits and emergent threats",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Stevens Le Blond",
+            "id": "2559524632",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Pere Manils",
+            "id": "291467273",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Abdelberi Chaabane",
+            "id": "2063399768",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Mohamed Ali Kaafar",
+            "id": "2004245999",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Claude Castelluccia",
+            "id": "227365023",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Arnaud Legout",
+            "id": "1935905282",
+            "org": "I.N.R.I.A, France#TAB#"
+        },
+        {
+            "name": "Walid Dabbous",
+            "id": "2088573606",
+            "org": "I.N.R.I.A, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Computer science",
+        "Anonymity",
+        "Latency (engineering)",
+        "Tracing",
+        "BitTorrent",
+        "Computer network",
+        "Internet privacy"
+    ],
+    "references": [
+        "114020513",
+        "1488267921",
+        "1526472062",
+        "1545050218",
+        "1623240307",
+        "1655958391",
+        "2005708967",
+        "2099868491",
+        "2136347453",
+        "2146539853",
+        "2293050806"
+    ]
+}

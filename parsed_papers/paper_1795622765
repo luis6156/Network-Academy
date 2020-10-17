@@ -1,0 +1,56 @@
+{
+    "id": "1795622765",
+    "title": "Light-Weight parallel i/o analysis at scale",
+    "venue": "EPEW'11 Proceedings of the 8th European conference on Computer Performance Engineering",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Steven A. Wright",
+            "id": "2148237557",
+            "org": "Performance Computing and Visualisation Department of Computer Science, University of Warwick, UK#TAB#"
+        },
+        {
+            "name": "Simon D. Hammond",
+            "id": "2120856714",
+            "org": "Performance Computing and Visualisation Department of Computer Science, University of Warwick, UK#TAB#"
+        },
+        {
+            "name": "Simon J. Pennycook",
+            "id": "2435624417",
+            "org": "Performance Computing and Visualisation Department of Computer Science, University of Warwick, UK#TAB#"
+        },
+        {
+            "name": "Stephen A. Jarvis",
+            "id": "2114720614",
+            "org": "Performance Computing and Visualisation Department of Computer Science, University of Warwick, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel I/O",
+        "Profiling (computer programming)",
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Tracing",
+        "Message Passing Interface",
+        "Device file",
+        "File system"
+    ],
+    "references": [
+        "1538073575",
+        "1582429126",
+        "1670978437",
+        "1825216778",
+        "1969215126",
+        "1987822482",
+        "2002125998",
+        "2010628428",
+        "2068751442",
+        "2115890460",
+        "2136895839",
+        "2155521027",
+        "2156077349",
+        "2166756349"
+    ]
+}

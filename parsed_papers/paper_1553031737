@@ -1,0 +1,43 @@
+{
+    "id": "1553031737",
+    "title": "Some experimental results on distributed join algorithms in a local network",
+    "venue": "very large data bases",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Hongjun Lu",
+            "id": "2778394695",
+            "org": "Computer Sciences Department|University of Wisconsin"
+        },
+        {
+            "name": "Michael J. Carey",
+            "id": "2157114695",
+            "org": "Computer Sciences Department|University of Wisconsin"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Local area network",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Hash join",
+        "Block nested loop",
+        "Database",
+        "Sort-merge join"
+    ],
+    "references": [
+        "41368746",
+        "1484813121",
+        "1493027640",
+        "1552081212",
+        "2005132320",
+        "2020601345",
+        "2054338562",
+        "2069184244",
+        "2111607006",
+        "2153329411",
+        "2153485419",
+        "2169012378"
+    ]
+}

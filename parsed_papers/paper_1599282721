@@ -1,0 +1,87 @@
+{
+    "id": "1599282721",
+    "title": "Vessel segmentation for ablation treatment planning and simulation",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Tuomas Alhonnoro",
+            "id": "2493137810",
+            "org": "Aalto University School of Science and Technology, Finland#TAB#"
+        },
+        {
+            "name": "Mika Pollari",
+            "id": "2294371880",
+            "org": "Aalto University School of Science and Technology, Finland#TAB#"
+        },
+        {
+            "name": "Mikko Lilja",
+            "id": "1997824165",
+            "org": "Aalto University School of Science and Technology, Finland#TAB#"
+        },
+        {
+            "name": "Ronan Flanagan",
+            "id": "2116312872",
+            "org": "NUMA Engineering Services Ltd, Ireland#TAB#"
+        },
+        {
+            "name": "Bernhard Kainz",
+            "id": "2332220037",
+            "org": "Technical University of Graz, Austria#TAB#"
+        },
+        {
+            "name": "Judith Muehl",
+            "id": "2134718546",
+            "org": "Technical University of Graz, Austria#TAB#"
+        },
+        {
+            "name": "Ursula Mayrhauser",
+            "id": "191891742",
+            "org": "Medical University of Graz, Austria#TAB#"
+        },
+        {
+            "name": "Horst Portugaller",
+            "id": "2076383156",
+            "org": "Medical University of Graz, Austria#TAB#"
+        },
+        {
+            "name": "Philipp Stiegler",
+            "id": "2074344681",
+            "org": "Medical University of Graz, Austria#TAB#"
+        },
+        {
+            "name": "Karlheinz Tscheliessnigg",
+            "id": "2176994676",
+            "org": "Medical University of Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computed tomography",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Ablation",
+        "Region growing",
+        "Radio frequency",
+        "Computer simulation",
+        "Radiation treatment planning",
+        "Skeleton (computer programming)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "169369487",
+        "1555173571",
+        "1877724968",
+        "1974954013",
+        "1988590746",
+        "2000023163",
+        "2014837906",
+        "2054113582",
+        "2091678276",
+        "2118484730",
+        "2124260943",
+        "2147756293",
+        "2151471340"
+    ]
+}

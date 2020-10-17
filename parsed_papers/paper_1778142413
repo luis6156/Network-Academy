@@ -1,0 +1,47 @@
+{
+    "id": "1778142413",
+    "title": "Practical Variable-Arity Polymorphism",
+    "venue": "european symposium on programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "T. Stephen Strickland",
+            "id": "2156871722",
+            "org": "PLT @ Northeastern University,#TAB#"
+        },
+        {
+            "name": "Sam Tobin-Hochstadt",
+            "id": "546024081",
+            "org": "PLT @ Northeastern University,#TAB#"
+        },
+        {
+            "name": "Matthias Felleisen",
+            "id": "113813022",
+            "org": "PLT @ Northeastern University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parametric polymorphism",
+        "Strong and weak typing",
+        "Computer science",
+        "First-class function",
+        "Type inference",
+        "Abstract type",
+        "Type system",
+        "Typed lambda calculus",
+        "Programming language",
+        "Sister language"
+    ],
+    "references": [
+        "1557825595",
+        "1644882639",
+        "1973186567",
+        "1995096956",
+        "1995675054",
+        "2052973434",
+        "2066905785",
+        "2128303158",
+        "2162889701"
+    ]
+}

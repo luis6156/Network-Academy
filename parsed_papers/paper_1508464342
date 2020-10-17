@@ -1,0 +1,67 @@
+{
+    "id": "1508464342",
+    "title": "Attacking the Knudsen-Preneel compression functions",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Onur Ozen",
+            "id": "2047715420",
+            "org": "EPFL, IC IIF LACAL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas Shrimpton",
+            "id": "2066910142",
+            "org": "Dept. of Computer Science, Portland State University, Portland, OR#TAB#"
+        },
+        {
+            "name": "Martijn Stam",
+            "id": "2110137027",
+            "org": "EPFL, IC IIF LACAL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Block cipher",
+        "Algorithm",
+        "SHA-2",
+        "Discrete mathematics",
+        "Hash function",
+        "Computer science",
+        "Collision attack",
+        "Error detection and correction",
+        "Preimage attack",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1505322521",
+        "1524660258",
+        "1531932745",
+        "1547537489",
+        "1548701190",
+        "1549228503",
+        "1551878608",
+        "1553413085",
+        "1558695680",
+        "1565415113",
+        "1591971100",
+        "1600432225",
+        "1604454960",
+        "1607206152",
+        "1746730016",
+        "1822502977",
+        "1863270349",
+        "1984481156",
+        "2007585625",
+        "2100762331",
+        "2112341247",
+        "2119343147",
+        "2127493213",
+        "2134518741",
+        "2140596630",
+        "2147436724",
+        "2155690458",
+        "2168130511",
+        "2493686639"
+    ]
+}

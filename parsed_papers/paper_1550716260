@@ -1,0 +1,42 @@
+{
+    "id": "1550716260",
+    "title": "Using Genetic Programming to Obtain a Closed-Form Approximation to a Recursive Function",
+    "venue": "genetic and evolutionary computation conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Evan R. Kirshenbaum",
+            "id": "1497340751",
+            "org": "HP Labs"
+        },
+        {
+            "name": "Henri Jacques Suermondt",
+            "id": "2559304447",
+            "org": "HP Labs"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Recursion",
+        "False positive paradox",
+        "Binary expression tree",
+        "Approximation error",
+        "Genetic programming",
+        "Detector",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1634989",
+        "1630964756",
+        "1679846099",
+        "1689445748",
+        "1781794689",
+        "1964357740",
+        "2029949252",
+        "2089933214",
+        "2131104898",
+        "2147169507"
+    ]
+}

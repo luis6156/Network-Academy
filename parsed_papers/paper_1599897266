@@ -1,0 +1,57 @@
+{
+    "id": "1599897266",
+    "title": "A Technique for Invariant Generation",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ashish Tiwari",
+            "id": "2144427612",
+            "org": "SRI International"
+        },
+        {
+            "name": "Harald Ruess",
+            "id": "1660353291",
+            "org": "SRI International"
+        },
+        {
+            "name": "Hassen Saidi",
+            "id": "2148743472",
+            "org": "SRI International"
+        },
+        {
+            "name": "Natarajan Shankar",
+            "id": "2118526916",
+            "org": "SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Formal verification",
+        "Fixed-point theorem",
+        "Symbolic computation",
+        "Fixed point",
+        "Discrete mathematics",
+        "Invariant (mathematics)",
+        "Transition system",
+        "Quantifier elimination",
+        "Least fixed point"
+    ],
+    "references": [
+        "1483327805",
+        "1491913687",
+        "1540180001",
+        "1556247398",
+        "1568478782",
+        "1570105559",
+        "1599210792",
+        "1964727056",
+        "1968482350",
+        "1983409972",
+        "1987073197",
+        "2043100293",
+        "2045112813",
+        "2075913776",
+        "2080593426"
+    ]
+}

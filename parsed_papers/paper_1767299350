@@ -1,0 +1,31 @@
+{
+    "id": "1767299350",
+    "title": "A Better XML Parser through Functional Programming",
+    "venue": "practical aspects of declarative languages",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Oleg Kiselyov",
+            "id": "2307273684",
+            "org": "Naval Postgraduate School"
+        }
+    ],
+    "fields_of_study": [
+        "GLR parser",
+        "Simple LR parser",
+        "LL parser",
+        "Parser combinator",
+        "Computer science",
+        "LALR parser",
+        "Database",
+        "Top-down parsing",
+        "Canonical LR parser",
+        "Simple API for XML",
+        "Programming language"
+    ],
+    "references": [
+        "1963928257",
+        "1988932014",
+        "2101565274"
+    ]
+}

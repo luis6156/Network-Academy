@@ -1,0 +1,36 @@
+{
+    "id": "1544522602",
+    "title": "Side-Channel Attack on Substitution Blocks",
+    "venue": "applied cryptography and network security",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Roman Novak",
+            "id": "2140417717",
+            "org": "Jozef Stefan Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Reverse engineering",
+        "Subscriber identity module",
+        "Cryptanalysis",
+        "Computer science",
+        "Computer security",
+        "GSM",
+        "Reflection attack",
+        "Authentication",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1506530330",
+        "1548656471",
+        "1560093457",
+        "1563937974",
+        "1583816927",
+        "1664808737",
+        "2105114022",
+        "2154909745",
+        "2158812183"
+    ]
+}

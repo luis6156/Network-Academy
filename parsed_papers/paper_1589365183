@@ -1,0 +1,63 @@
+{
+    "id": "1589365183",
+    "title": "Solving quadratic equations with XL on parallel architectures",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Chen-Mou Cheng",
+            "id": "2273475410",
+            "org": "Intel-NTU Connected Context Computing Center, National Taiwan University, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Tung Chou",
+            "id": "2171557285",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Ruben Niederhagen",
+            "id": "2002043149",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Bo-Yin Yang",
+            "id": "2112375272",
+            "org": "Institute of Information Science, Academia Sinica, Taipei, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Grobner basis",
+        "Block Wiedemann algorithm",
+        "Discrete mathematics",
+        "General number field sieve",
+        "Cryptosystem",
+        "Solver",
+        "RSA numbers"
+    ],
+    "references": [
+        "68643468",
+        "94701028",
+        "1512302998",
+        "1520563459",
+        "1524190946",
+        "1531371507",
+        "1542020576",
+        "1583871653",
+        "1588952639",
+        "1676521748",
+        "1785867541",
+        "1907666253",
+        "2026390316",
+        "2071483197",
+        "2096218735",
+        "2100408583",
+        "2127064687",
+        "2139092268",
+        "2166957790",
+        "2408638652"
+    ]
+}

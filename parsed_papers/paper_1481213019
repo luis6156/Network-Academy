@@ -1,0 +1,40 @@
+{
+    "id": "1481213019",
+    "title": "Watcher: the missing piece of the security puzzle",
+    "venue": "annual computer security applications conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "John C. Munson",
+            "id": "2639801089",
+            "org": "Dept. of Comput. Sci., Idaho Univ., Moscow, ID, USA"
+        },
+        {
+            "name": "Scott Wimer",
+            "id": "2609430553",
+            "org": "Software Systems International, LLC"
+        }
+    ],
+    "fields_of_study": [
+        "Host-based intrusion detection system",
+        "Computer science",
+        "Data mining",
+        "System monitoring",
+        "Computer security",
+        "Anomaly-based intrusion detection system",
+        "Intrusion detection system",
+        "Authorization",
+        "Real-time computing",
+        "Intrusion prevention system"
+    ],
+    "references": [
+        "11168548",
+        "1496741998",
+        "1592090113",
+        "2002286749",
+        "2087671069",
+        "2129860818",
+        "2134070140",
+        "2150847526"
+    ]
+}

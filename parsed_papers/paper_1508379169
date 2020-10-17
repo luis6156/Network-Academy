@@ -1,0 +1,48 @@
+{
+    "id": "1508379169",
+    "title": "Security analysis of michael: the IEEE 802.11i message integrity code",
+    "venue": "embedded and ubiquitous computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jianyong Huang",
+            "id": "2669089441",
+            "org": "University of Wollongong, NSW, Australia#TAB#"
+        },
+        {
+            "name": "Jennifer Seberry",
+            "id": "2251197281",
+            "org": "University of Wollongong, NSW, Australia#TAB#"
+        },
+        {
+            "name": "Willy Susilo",
+            "id": "2114127059",
+            "org": "University of Wollongong, NSW, Australia#TAB#"
+        },
+        {
+            "name": "Martin W. Bunder",
+            "id": "2274069857",
+            "org": "University of Wollongong, NSW, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Fixed point",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Network packet",
+        "RC4",
+        "Temporal Key Integrity Protocol",
+        "Hash function",
+        "Real-time computing",
+        "Collision"
+    ],
+    "references": [
+        "1515716392",
+        "1556597491",
+        "2105322820",
+        "2114566185",
+        "2116662625"
+    ]
+}

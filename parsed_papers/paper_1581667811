@@ -1,0 +1,80 @@
+{
+    "id": "1581667811",
+    "title": "Incremental redundancy to reduce data retention errors in flash-based SSDs",
+    "venue": "ieee conference on mass storage systems and technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Heejin Park",
+            "id": "2589243458",
+            "org": "University of Seoul"
+        },
+        {
+            "name": "Jaeho Kim",
+            "id": "2297449872",
+            "org": "Hongik University"
+        },
+        {
+            "name": "Jongmoo Choi",
+            "id": "2099573926",
+            "org": "Dankook University"
+        },
+        {
+            "name": "Donghee Lee",
+            "id": "2502098821",
+            "org": "University of Seoul"
+        },
+        {
+            "name": "Sam H. Noh",
+            "id": "2571969136",
+            "org": "Hongik University"
+        }
+    ],
+    "fields_of_study": [
+        "Data scrubbing",
+        "Parallel computing",
+        "Flash memory",
+        "Data retention",
+        "Computer science",
+        "Bit error rate",
+        "Real-time computing",
+        "Garbage",
+        "Memory scrubbing",
+        "Write amplification",
+        "Error detection and correction"
+    ],
+    "references": [
+        "67191628",
+        "142764049",
+        "1262434878",
+        "1967106146",
+        "1970154407",
+        "1972388231",
+        "1978112799",
+        "1981469302",
+        "1984735887",
+        "1993119797",
+        "1994627759",
+        "1996160696",
+        "2006425633",
+        "2010263580",
+        "2010390358",
+        "2011413479",
+        "2023603118",
+        "2067499657",
+        "2068728923",
+        "2069358386",
+        "2097490816",
+        "2099316199",
+        "2108183412",
+        "2120396387",
+        "2124570687",
+        "2124961791",
+        "2129821171",
+        "2155370145",
+        "2162522253",
+        "2166690680",
+        "2201220957",
+        "2219142176"
+    ]
+}

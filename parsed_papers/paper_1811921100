@@ -1,0 +1,68 @@
+{
+    "id": "1811921100",
+    "title": "Defeating any secret cryptography with SCARE attacks",
+    "venue": "international conference on progress in cryptology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sylvain Guilley",
+            "id": "2308309318",
+            "org": "Institut TELECOM, TELECOM ParisTech, CNRS LTCI, UMR, Departement COMELEC, Paris Cedex, France#TAB#"
+        },
+        {
+            "name": "Laurent Sauvage",
+            "id": "2100721985",
+            "org": "Institut TELECOM, TELECOM ParisTech, CNRS LTCI, UMR, Departement COMELEC, Paris Cedex, France#TAB#"
+        },
+        {
+            "name": "Julien Micolod",
+            "id": "2666876725",
+            "org": "DGA CELAR, La Roche Marguerite, Bruz, France#TAB#"
+        },
+        {
+            "name": "Denis Real",
+            "id": "2761592126",
+            "org": "DGA CELAR, La Roche Marguerite, Bruz, France#TAB#"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "DGA CELAR, La Roche Marguerite, Bruz, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Block cipher",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Related-key attack",
+        "Substitution-permutation network",
+        "Ciphertext",
+        "Correlation attack"
+    ],
+    "references": [
+        "1480799882",
+        "1499081748",
+        "1515200869",
+        "1531716063",
+        "1544522602",
+        "1544956979",
+        "1562542037",
+        "1569821321",
+        "1583816927",
+        "1602765425",
+        "1603668547",
+        "1728966047",
+        "1827849520",
+        "1862426464",
+        "1977850862",
+        "2140246151",
+        "2141841663",
+        "2142351551",
+        "2153476158",
+        "2397768959"
+    ]
+}

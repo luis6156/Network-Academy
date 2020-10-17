@@ -1,0 +1,51 @@
+{
+    "id": "1564684997",
+    "title": "An All-In-One Approach to Differential Cryptanalysis for Small Block Ciphers",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Martin Roland Albrecht",
+            "id": "2558890806",
+            "org": "UPMC Univ Paris 06, UMR 7606, LIP6"
+        },
+        {
+            "name": "Gregor Leander",
+            "id": "2036774799",
+            "org": "Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Side channel attack",
+        "Key schedule",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "1487353416",
+        "1489035426",
+        "1522919234",
+        "1535060573",
+        "1541703086",
+        "1570998442",
+        "1572847050",
+        "1607874478",
+        "1629301835",
+        "1838677899",
+        "1846045953",
+        "1894646615",
+        "1978695162",
+        "2045479946",
+        "2234576048",
+        "2401629018",
+        "2404788957",
+        "2414878984"
+    ]
+}

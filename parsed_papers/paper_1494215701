@@ -1,0 +1,93 @@
+{
+    "id": "1494215701",
+    "title": "Designing a DHT for low latency and high throughput",
+    "venue": "networked systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Frank Dabek",
+            "id": "1270708332",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "Jinyang Li",
+            "id": "2138256162",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "Emil Sit",
+            "id": "2005445772",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "James Robertson",
+            "id": "2500341402",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "M. Frans Kaashoek",
+            "id": "378983930",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        },
+        {
+            "name": "Robert Tappan Morris",
+            "id": "2112752255",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Throughput",
+        "Computer science",
+        "Distributed computing",
+        "Distributed hash table",
+        "Latency (engineering)",
+        "Server",
+        "Erasure code",
+        "PlanetLab",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "71185953",
+        "104185723",
+        "143847450",
+        "144112633",
+        "206841959",
+        "1483471253",
+        "1496139339",
+        "1522803167",
+        "1564976454",
+        "1600328410",
+        "1836955865",
+        "1975868314",
+        "1996497509",
+        "2058972589",
+        "2064360543",
+        "2071958655",
+        "2086712938",
+        "2096706512",
+        "2104210894",
+        "2105377541",
+        "2118428193",
+        "2119245106",
+        "2119941237",
+        "2121133177",
+        "2123482462",
+        "2123820820",
+        "2140160216",
+        "2144553078",
+        "2148647281",
+        "2150676586",
+        "2151633447",
+        "2152723376",
+        "2153319198",
+        "2155444313",
+        "2158700277",
+        "2159692093",
+        "2164096563",
+        "2167898414",
+        "2257924330",
+        "2753542457"
+    ]
+}

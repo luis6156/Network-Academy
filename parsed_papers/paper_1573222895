@@ -1,0 +1,40 @@
+{
+    "id": "1573222895",
+    "title": "The MICKEY Stream Ciphers",
+    "venue": "New Stream Cipher Designs",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Steve Babbage",
+            "id": "2028739841",
+            "org": "Vodafone Group R&D, Newbury, UK#TAB#"
+        },
+        {
+            "name": "Matthew Dodd",
+            "id": "2268428516",
+            "org": "Independent consultant,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Parallel computing",
+        "Keystream",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Pseudorandomness",
+        "Shift register",
+        "Linear feedback shift register",
+        "Correlation attack"
+    ],
+    "references": [
+        "1484219147",
+        "1544956979",
+        "1563880518",
+        "1854027143",
+        "2097140439",
+        "2130943734",
+        "2405697569"
+    ]
+}

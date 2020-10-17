@@ -1,0 +1,50 @@
+{
+    "id": "1811456777",
+    "title": "Breaking a new hash function design strategy called SMASH",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Primary clustering",
+        "Rolling hash",
+        "Hash buster",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1482922493",
+        "1518029257",
+        "1521015940",
+        "1533979572",
+        "1542068190",
+        "1629301835",
+        "1656731780",
+        "1660562555",
+        "2064939672",
+        "2095675261",
+        "2121021336",
+        "2133252868",
+        "2135759164"
+    ]
+}

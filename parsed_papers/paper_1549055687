@@ -1,0 +1,60 @@
+{
+    "id": "1549055687",
+    "title": "Smashing WEP in A Passive Attack",
+    "venue": "fast software encryption",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Pouyan Sepehrdad",
+            "id": "44362941",
+            "org": "Intel CRI-SC at TU-Darmstadt"
+        },
+        {
+            "name": "Petr Susil",
+            "id": "2126447589",
+            "org": "EPFL"
+        },
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "EPFL"
+        },
+        {
+            "name": "Martin Vuagnoux",
+            "id": "1772064366",
+            "org": "base23 SA"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Wired Equivalent Privacy",
+        "Wireless",
+        "Passive attack",
+        "Stream cipher",
+        "IPv4",
+        "Network packet",
+        "Eavesdropping",
+        "RC4",
+        "Computer network"
+    ],
+    "references": [
+        "1489993974",
+        "1515716392",
+        "1556597491",
+        "1572840940",
+        "1608372408",
+        "1724491999",
+        "1742803828",
+        "1789460706",
+        "1815744145",
+        "1819373657",
+        "1835780626",
+        "2052366538",
+        "2077099041",
+        "2109740421",
+        "2114566185",
+        "2139985879",
+        "2149237395",
+        "2400488819"
+    ]
+}

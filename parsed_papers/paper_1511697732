@@ -1,0 +1,39 @@
+{
+    "id": "1511697732",
+    "title": "Formalization and verification of a mail server in Coq",
+    "venue": "mext nsf jsps international conference on software security theories and systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Reynald Affeldt",
+            "id": "1906722231",
+            "org": "Department of Computer Science, University of Tokyo#TAB#"
+        },
+        {
+            "name": "Naoki Kobayashi",
+            "id": "2095379858",
+            "org": "Department of Computer Science, Tokyo Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Application server",
+        "Java",
+        "Exception handling",
+        "Computer science",
+        "Database",
+        "Correctness",
+        "Eavesdropping",
+        "Inductive type",
+        "Automated theorem proving",
+        "Programming language"
+    ],
+    "references": [
+        "1522873391",
+        "1562908935",
+        "1576800222",
+        "1597955218",
+        "2034717157",
+        "2080593426",
+        "2136202785"
+    ]
+}

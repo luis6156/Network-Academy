@@ -1,0 +1,46 @@
+{
+    "id": "1553638424",
+    "title": "Linear Frameworks for Block Ciphers",
+    "venue": "Designs, Codes and Cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Joan Daemen",
+            "id": "2022183134",
+            "org": "Proton World International, Zweefvliegtuigstraat 10, B-1130 Brussel, Belgium#TAB#"
+        },
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "University of Bergen, Department of Informatics, Hoyteknologisenteret, N-5020 Bergen, Norway#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Katholieke Universiteit Leuven , Dept. ESAT, SISTA/COSIC Lab, Kard. Mercierlaan 94, B-3001 Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Interpolation attack",
+        "Block size",
+        "Integral cryptanalysis",
+        "Key schedule",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1531810027",
+        "1557671490",
+        "1654806544",
+        "1964723977",
+        "1978695162",
+        "1979802565",
+        "2069489561",
+        "2109265351",
+        "2120464016"
+    ]
+}

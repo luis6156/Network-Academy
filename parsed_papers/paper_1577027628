@@ -1,0 +1,59 @@
+{
+    "id": "1577027628",
+    "title": "A Multi-scale Line Filter with Automatic Scale Selection Based on the Hessian Matrix for Medical Image Segmentation",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Cristian Lorenz",
+            "id": "2104394241",
+            "org": "Philips Research"
+        },
+        {
+            "name": "Ingwer C. Carlsen",
+            "id": "2089093127",
+            "org": "Philips Research"
+        },
+        {
+            "name": "Thorsten M. Buzug",
+            "id": "33235168",
+            "org": "Philips Research"
+        },
+        {
+            "name": "Carola Fassnacht",
+            "id": "2039192039",
+            "org": "Philips Research"
+        },
+        {
+            "name": "Jurgen Weese",
+            "id": "2095821299",
+            "org": "Philips Research"
+        }
+    ],
+    "fields_of_study": [
+        "Eigenvalues and eigenvectors",
+        "Computer vision",
+        "Computer science",
+        "Hessian matrix",
+        "Second derivative",
+        "Line filter",
+        "Image segmentation",
+        "Segmentation-based object categorization",
+        "Image processing",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1555173571",
+        "1836586703",
+        "1964806616",
+        "1984184825",
+        "1991605728",
+        "2078085827",
+        "2123211807",
+        "2123340620",
+        "2145023731",
+        "2155487652",
+        "2157807469"
+    ]
+}

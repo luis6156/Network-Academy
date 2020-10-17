@@ -1,0 +1,43 @@
+{
+    "id": "1509591648",
+    "title": "Lazy Graph Transformation",
+    "venue": "Fundamenta Informaticae",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Fernando Orejas",
+            "id": "2167098163",
+            "org": "(Correspd.) (Partially supported by the MEC project FORMALISM (ref. TIN2007-66523) and by the AGAUR grant to the research group ALBCOM (ref. 00516)) Universitat Politecnica de Catalunya, Spai ...#TAB#"
+        },
+        {
+            "name": "Leen Lambers",
+            "id": "1293943865",
+            "org": "(Partially funded by the Deutsche Forschungsgemeinschaft in the course of the project - Correct Model Transformations - see http://www.hpi.uni-potsdam.de/giese/projekte/kormoran.html?L=1) Hasso Pl ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Voltage graph",
+        "Graph (abstract data type)",
+        "Constraint graph",
+        "Discrete mathematics",
+        "Forbidden graph characterization",
+        "Combinatorics",
+        "Complement graph",
+        "Distance-hereditary graph",
+        "Null graph",
+        "Critical graph"
+    ],
+    "references": [
+        "1480319318",
+        "1499801993",
+        "1517736112",
+        "1603788080",
+        "1699940568",
+        "1814221162",
+        "1933425755",
+        "1964071625",
+        "2025079954",
+        "2054776476"
+    ]
+}

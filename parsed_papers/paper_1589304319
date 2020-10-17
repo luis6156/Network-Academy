@@ -1,0 +1,45 @@
+{
+    "id": "1589304319",
+    "title": "Race-Condition Detection in Parallel Computation with Semaphores (Extended Abstract)",
+    "venue": "european symposium on algorithms",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Philip N. Klein",
+            "id": "2109669342",
+            "org": "Brown Univ."
+        },
+        {
+            "name": "Hsueh-I Lu",
+            "id": "2687178142",
+            "org": "Brown Univ."
+        },
+        {
+            "name": "Robert H. B. Netzer",
+            "id": "2474030863",
+            "org": "Brown Univ."
+        }
+    ],
+    "fields_of_study": [
+        "Polynomial",
+        "Bulk synchronous parallel",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Priority queue",
+        "Parallel programming model",
+        "Semaphore",
+        "Race condition",
+        "Synchronization",
+        "Debugging"
+    ],
+    "references": [
+        "32942804",
+        "1520583984",
+        "1699840672",
+        "1742609814",
+        "2080570636",
+        "2086037892",
+        "2144629321"
+    ]
+}

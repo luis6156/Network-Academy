@@ -1,0 +1,81 @@
+{
+    "id": "1716229707",
+    "title": "How hard can it be? designing and implementing a deployable multipath TCP",
+    "venue": "networked systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Costin Raiciu",
+            "id": "223441212",
+            "org": "Universitatea Politehnica Bucuresti#TAB#"
+        },
+        {
+            "name": "Christoph Paasch",
+            "id": "2090259494",
+            "org": "Universite Catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Sebastien Barre",
+            "id": "2105830257",
+            "org": "Universite Catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Alan Ford",
+            "id": "2147837210",
+            "org": "Universite Catholique de Louvain"
+        },
+        {
+            "name": "Michio Honda",
+            "id": "2144152267",
+            "org": "Keio University#TAB#"
+        },
+        {
+            "name": "Fabien Duchene",
+            "id": "2239360628",
+            "org": "Universite Catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Olivier Bonaventure",
+            "id": "372738348",
+            "org": "Universite Catholique de Louvain#TAB#"
+        },
+        {
+            "name": "Mark Handley",
+            "id": "2281506998",
+            "org": "University College London#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Multipath TCP",
+        "Computer science",
+        "Distributed computing",
+        "HSTCP",
+        "TCP tuning",
+        "TCP acceleration",
+        "TCP hole punching",
+        "Computer network",
+        "TCP delayed acknowledgment",
+        "Compound TCP"
+    ],
+    "references": [
+        "1515106148",
+        "1518389375",
+        "1553177637",
+        "1593925121",
+        "1604658764",
+        "1782451081",
+        "1823805418",
+        "1966867318",
+        "1981800388",
+        "2001633320",
+        "2010365467",
+        "2045730089",
+        "2089118982",
+        "2109055312",
+        "2142480021",
+        "2161624011",
+        "2165957534",
+        "2532475208"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1600135965",
+    "title": "Secret Key Crypto Implementations",
+    "venue": "Secure Integrated Circuits and Systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Guido Bertoni",
+            "id": "2106307877",
+            "org": "STMicroelectronics, Centro Direzionale Colleoni"
+        },
+        {
+            "name": "Filippo Melzani",
+            "id": "187749128",
+            "org": "STMicroelectronics, Centro Direzionale Colleoni"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Disk encryption hardware",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer security compromised by hardware failure",
+        "Key distribution",
+        "Computer science",
+        "AES implementations",
+        "56-bit encryption",
+        "Computer network",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "311480709",
+        "1487268209",
+        "1514141030",
+        "1515827409",
+        "1525900064",
+        "1551325341",
+        "1586481148",
+        "1596153847",
+        "1655844021",
+        "1808992108",
+        "1836039892",
+        "1891091891",
+        "2101286902",
+        "2103359950",
+        "2109970735",
+        "2120147158",
+        "2122984309",
+        "2126290606",
+        "2135430020",
+        "2145881907",
+        "2149174385"
+    ]
+}

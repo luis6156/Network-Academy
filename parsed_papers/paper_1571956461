@@ -1,0 +1,58 @@
+{
+    "id": "1571956461",
+    "title": "Locality and topology aware intra-node communication among multicore CPUs",
+    "venue": "EuroMPI'10 Proceedings of the 17th European MPI users' group meeting conference on Recent advances in the message passing interface",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Teng Ma",
+            "id": "2306467033",
+            "org": "Innovative Computing Laboratory, University of Tennessee Computer Science Department, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "George Bosilca",
+            "id": "339462875",
+            "org": "Innovative Computing Laboratory, University of Tennessee Computer Science Department, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Aurelien Bouteiller",
+            "id": "2121807780",
+            "org": "Innovative Computing Laboratory, University of Tennessee Computer Science Department, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "Innovative Computing Laboratory, University of Tennessee Computer Science Department, Knoxville, TN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Parallel computing",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Distributed computing",
+        "Uniform memory access",
+        "Non-uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Topology"
+    ],
+    "references": [
+        "1551516195",
+        "1554413585",
+        "1825216778",
+        "1902354325",
+        "1969215126",
+        "1969923711",
+        "2081612620",
+        "2133352850",
+        "2133994512",
+        "2138782497",
+        "2139783166",
+        "2142562690",
+        "2149658259",
+        "2156222394"
+    ]
+}

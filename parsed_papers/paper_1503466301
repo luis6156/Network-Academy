@@ -1,0 +1,58 @@
+{
+    "id": "1503466301",
+    "title": "DiVinE: a tool for distributed verification",
+    "venue": "computer aided verification",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jiri Barnat",
+            "id": "2159315951",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Lubos Brim",
+            "id": "1492989083",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Ivana Cerna",
+            "id": "2120309671",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Pavel Moravec",
+            "id": "2588179022",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Petr Rockai",
+            "id": "126262084",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Pavel Simecek",
+            "id": "1994862324",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linear temporal logic",
+        "Theoretical computer science",
+        "Algorithm",
+        "Temporal logic",
+        "Computer science",
+        "Reachability",
+        "Linear logic",
+        "Distributed memory",
+        "Model checking",
+        "Distributed algorithm",
+        "Architecture"
+    ],
+    "references": [
+        "1529559025",
+        "1548575501",
+        "1996242413",
+        "2139509279",
+        "2153721470"
+    ]
+}

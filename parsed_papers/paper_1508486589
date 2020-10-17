@@ -1,0 +1,46 @@
+{
+    "id": "1508486589",
+    "title": "Implementing 2DT on a Multiprocessor",
+    "venue": "compiler construction",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Yosi Ben-Asher",
+            "id": "267669107",
+            "org": "Haifa University"
+        },
+        {
+            "name": "Gudula Runger",
+            "id": "2023937925",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Reinhard Wilhelm",
+            "id": "2127844901",
+            "org": "Universitat des Saarlandes"
+        },
+        {
+            "name": "Assaf Schuster",
+            "id": "2135728993",
+            "org": "Technion IIT"
+        }
+    ],
+    "fields_of_study": [
+        "Context switch",
+        "Theoretical computer science",
+        "Computation",
+        "Computer science",
+        "Abstract machine",
+        "Multiprocessing",
+        "Functional programming",
+        "Data structure"
+    ],
+    "references": [
+        "1494438798",
+        "1581080230",
+        "2019133545",
+        "2057726682",
+        "2102360129",
+        "2172307690"
+    ]
+}

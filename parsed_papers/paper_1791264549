@@ -1,0 +1,42 @@
+{
+    "id": "1791264549",
+    "title": "Performance modeling and analysis of a database server with write-heavy workload",
+    "venue": "european conference on service oriented and cloud computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Manfred Dellkrantz",
+            "id": "26448814",
+            "org": "Department of Automatic Control, Lund University, Sweden#TAB#"
+        },
+        {
+            "name": "Maria Kihl",
+            "id": "469251081",
+            "org": "Department of Electrical and Information Technology, Lund University, Lund, Sweden#TAB#"
+        },
+        {
+            "name": "Anders Robertsson",
+            "id": "2110156996",
+            "org": "Department of Automatic Control, Lund University, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database tuning",
+        "Response time",
+        "Computer science",
+        "Database testing",
+        "Workload",
+        "Admission control",
+        "Database",
+        "System dynamics",
+        "Real-time computing",
+        "Database server"
+    ],
+    "references": [
+        "1569570229",
+        "1965893058",
+        "2070275376",
+        "2109480140",
+        "2149262266"
+    ]
+}

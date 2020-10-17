@@ -1,0 +1,69 @@
+{
+    "id": "1552671118",
+    "title": "Proving the Correctness of Compiler Optimizations Based on Strictness Analysis",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Geoffrey L. Burn",
+            "id": "2640858817",
+            "org": "Imperial College of Science, Technology and Medicine"
+        },
+        {
+            "name": "Daniel Le Metayer",
+            "id": "317587685",
+            "org": "Irisa/Inria"
+        }
+    ],
+    "fields_of_study": [
+        "Interprocedural optimization",
+        "Compiler",
+        "Functional compiler",
+        "Computer science",
+        "Inline expansion",
+        "Compiler construction",
+        "Manifest expression",
+        "Compiler correctness",
+        "Strictness analysis",
+        "Programming language"
+    ],
+    "references": [
+        "267417",
+        "1483036718",
+        "1491836617",
+        "1516346276",
+        "1517926351",
+        "1523016082",
+        "1559686260",
+        "1562824671",
+        "1563512718",
+        "1580664042",
+        "1584944335",
+        "1593666219",
+        "1597497095",
+        "1602274351",
+        "1855771754",
+        "1964964259",
+        "1967226206",
+        "1981580304",
+        "1984841973",
+        "1987031623",
+        "1999336811",
+        "2003848320",
+        "2011215067",
+        "2014764321",
+        "2017720469",
+        "2025033165",
+        "2029894425",
+        "2032277118",
+        "2036395016",
+        "2059019165",
+        "2069293912",
+        "2073771426",
+        "2081810835",
+        "2084875723",
+        "2088735483",
+        "2124523334",
+        "2168658669"
+    ]
+}

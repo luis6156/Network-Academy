@@ -1,0 +1,49 @@
+{
+    "id": "1541981365",
+    "title": "A Semi-Supervised Batch-Mode Active Learning Strategy for Improved Statistical Machine Translation",
+    "venue": "conference on computational natural language learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sankaranarayanan Ananthakrishnan",
+            "id": "2306951873",
+            "org": "BBN Technologies, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Rohit Prasad",
+            "id": "2433122279",
+            "org": "BBN Technologies, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "David Stallard",
+            "id": "2108920495",
+            "org": "BBN Technologies, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Prem Natarajan",
+            "id": "2135073364",
+            "org": "BBN Technologies, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Training set",
+        "Batch processing",
+        "Computer science",
+        "Natural language processing",
+        "Evaluation of machine translation",
+        "Active learning",
+        "Machine translation",
+        "BLEU",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1528361845",
+        "2101105183",
+        "2105410942",
+        "2144746247",
+        "2146574666",
+        "2153653739",
+        "2171541062"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "1532050892",
+    "title": "TurboJ, a Java Bytecode-to-Native Compiler",
+    "venue": "languages compilers and tools for embedded systems",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Michael Weiss",
+            "id": "2802882959",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Francois de Ferriere",
+            "id": "2631914886",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Bertrand Delsart",
+            "id": "2558814280",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Christian Fabre",
+            "id": "2479270520",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Frederick J. Hirsch",
+            "id": "2344867241",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "E. Andrew Johnson",
+            "id": "2519261242",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Vania Joloboff",
+            "id": "2618889040",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Fred Roy",
+            "id": "2519223700",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Fridtjof Siebert",
+            "id": "2777762774",
+            "org": "Open Group Research Institute"
+        },
+        {
+            "name": "Xavier Spengler",
+            "id": "2520468696",
+            "org": "Open Group Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Java bytecode",
+        "Generics in Java",
+        "Java applet",
+        "Java annotation",
+        "Computer science",
+        "Java concurrency",
+        "strictfp",
+        "Operating system",
+        "Real-time computing",
+        "Java compiler",
+        "Programming language"
+    ],
+    "references": [
+        "1508742040",
+        "1982205631",
+        "1996781759",
+        "2076612761",
+        "2102890180"
+    ]
+}

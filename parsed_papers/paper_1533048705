@@ -1,0 +1,48 @@
+{
+    "id": "1533048705",
+    "title": "Integrating concurrency control into an object-oriented database system",
+    "venue": "extending database technology",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Michele Cart",
+            "id": "2343518863",
+            "org": "Universite de Montpellier / CRIM (ura CNRS)"
+        },
+        {
+            "name": "Jean Ferrie",
+            "id": "2130446015",
+            "org": "Universite de Montpellier / CRIM (ura CNRS)"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Concurrency control",
+        "Database",
+        "Distributed concurrency control",
+        "Concurrency",
+        "Timestamp-based concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "40497549",
+        "54249037",
+        "103013625",
+        "1527756448",
+        "1545155892",
+        "1573966373",
+        "1969249776",
+        "1991199257",
+        "2030689196",
+        "2067686439",
+        "2077591300",
+        "2126043109",
+        "2145452360",
+        "2160017790",
+        "2215315499"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1489412029",
+    "title": "Using prefetching to improve reference-counting garbage collectors",
+    "venue": "compiler construction",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Harel Paz",
+            "id": "2168970265",
+            "org": "IBM Haifa Research Laboratory, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Erez Petrank",
+            "id": "123545119",
+            "org": "Microsoft Research, One Microsoft Way, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Parallel computing",
+        "Computer science",
+        "Garbage collection",
+        "Instruction prefetch",
+        "Memory management",
+        "Reference counting",
+        "Garbage",
+        "Real-time computing",
+        "CPU cache",
+        "Free list"
+    ],
+    "references": [
+        "1545451070",
+        "1583464938",
+        "1899349177",
+        "1965601529",
+        "1971233256",
+        "2000387981",
+        "2002250868",
+        "2016558956",
+        "2020431536",
+        "2062730511",
+        "2079043385",
+        "2095679548",
+        "2098220603",
+        "2127336279",
+        "2130376240",
+        "2162435060",
+        "2295099251"
+    ]
+}

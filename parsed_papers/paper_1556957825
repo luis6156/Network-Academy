@@ -1,0 +1,55 @@
+{
+    "id": "1556957825",
+    "title": "ECO-DNS: Expected Consistency Optimization for DNS",
+    "venue": "international conference on distributed computing systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Chen Chen",
+            "id": "2509234933",
+            "org": "Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        },
+        {
+            "name": "Stephanos Matsumoto",
+            "id": "2227888360",
+            "org": "Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        },
+        {
+            "name": "Adrian Perrig",
+            "id": "2213385919",
+            "org": "ETH Zurich, Zurich, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Server",
+        "Domain Name System",
+        "Trade-off",
+        "Round-robin DNS",
+        "Computer network",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "52006136",
+        "1527961683",
+        "1619613999",
+        "1860107648",
+        "2031258208",
+        "2070831748",
+        "2074028702",
+        "2083158002",
+        "2097411233",
+        "2105498167",
+        "2129909248",
+        "2135269894",
+        "2141920622",
+        "2142617120",
+        "2165021785",
+        "2165071399",
+        "2168282297"
+    ]
+}

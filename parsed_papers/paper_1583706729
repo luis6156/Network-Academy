@@ -1,0 +1,52 @@
+{
+    "id": "1583706729",
+    "title": "SI-CV: snapshot isolation with co-located versions",
+    "venue": "tpc technology conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Robert Gottstein",
+            "id": "1865479656",
+            "org": "Databases and Distributed Systems Group, TU-Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Ilia Petrov",
+            "id": "2295015832",
+            "org": "Databases and Distributed Systems Group, TU-Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Alejandro P. Buchmann",
+            "id": "427541198",
+            "org": "Databases and Distributed Systems Group, TU-Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Multiversion concurrency control",
+        "Snapshot isolation",
+        "Computer science",
+        "Transaction processing",
+        "Real-time computing",
+        "Solid-state drive",
+        "Snapshot (computer storage)",
+        "Concurrency control",
+        "Database transaction"
+    ],
+    "references": [
+        "137525769",
+        "1987358714",
+        "1990946453",
+        "2058178853",
+        "2075345089",
+        "2097597441",
+        "2106436364",
+        "2108183412",
+        "2116117441",
+        "2117917070",
+        "2130642985",
+        "2165068957",
+        "2168227861",
+        "2397514525"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "1563272506",
+    "title": "Fast Implementation of Public-Key Cryptography ona DSP TMS320C6201",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Kouichi Itoh",
+            "id": "2128256318",
+            "org": "FUJITSU LABORATORIES LTD"
+        },
+        {
+            "name": "Masahiko Takenaka",
+            "id": "2114664078",
+            "org": "FUJITSU LABORATORIES LTD"
+        },
+        {
+            "name": "Naoya Torii",
+            "id": "1968250510",
+            "org": "FUJITSU LABORATORIES LTD"
+        },
+        {
+            "name": "Syouji Temma",
+            "id": "2280952158",
+            "org": "FUJITSU LTD"
+        },
+        {
+            "name": "Yasushi Kurihara",
+            "id": "2559155794",
+            "org": "FUJITSU LTD"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Public-key cryptography",
+        "Computer science",
+        "Encryption",
+        "Digital signal processing",
+        "Modular arithmetic",
+        "Elliptic curve",
+        "Multiplication"
+    ],
+    "references": [
+        "1498685334",
+        "1550170577",
+        "1605836101",
+        "1660562555",
+        "1996360405",
+        "2003736153",
+        "2099317248",
+        "2115840814",
+        "2151163104",
+        "2156186849"
+    ]
+}

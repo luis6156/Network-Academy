@@ -1,0 +1,38 @@
+{
+    "id": "1491388917",
+    "title": "Cryptanalysis of Block Ciphers Based on SHA-1 and MD5",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Markku-Juhani O. Saarinen",
+            "id": "2082818636",
+            "org": "Helsinki University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Residual block termination",
+        "Slide attack",
+        "Triple DES",
+        "Differential cryptanalysis",
+        "CBC-MAC",
+        "Linear cryptanalysis",
+        "MDC-2"
+    ],
+    "references": [
+        "1526619693",
+        "1545925316",
+        "1547537489",
+        "1549228503",
+        "1590262417",
+        "1600432225",
+        "1863270349",
+        "2141288318",
+        "2163466490",
+        "2170677368",
+        "2172433705"
+    ]
+}

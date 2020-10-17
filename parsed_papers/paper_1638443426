@@ -1,0 +1,49 @@
+{
+    "id": "1638443426",
+    "title": "Charging control and transaction accounting mechanisms using IRTL (information resource transaction layer) middleware for P2P services",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Junseok Hwang",
+            "id": "2151491928",
+            "org": "School of Information Studies, Syracuse University, Syracuse, NY#TAB#"
+        },
+        {
+            "name": "Praveen Aravamudham",
+            "id": "302865060",
+            "org": "School of Information Studies, Syracuse University, Syracuse, NY#TAB#"
+        },
+        {
+            "name": "Elizabeth D. Liddy",
+            "id": "204580024",
+            "org": "School of Information Studies, Syracuse University, Syracuse, NY#TAB#"
+        },
+        {
+            "name": "Jeffrey M. Stanton",
+            "id": "2119119108",
+            "org": "School of Information Studies, Syracuse University, Syracuse, NY#TAB#"
+        },
+        {
+            "name": "Ian MacInnes",
+            "id": "1969256479",
+            "org": "School of Information Studies, Syracuse University, Syracuse, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Online transaction processing",
+        "Extreme Transaction Processing",
+        "Transaction processing system",
+        "Computer science",
+        "Distributed computing",
+        "Transaction processing",
+        "Compensating transaction",
+        "Distributed transaction",
+        "Middleware",
+        "Accounting",
+        "Database transaction"
+    ],
+    "references": [
+        "2079041580"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1562669673",
+    "title": "Low-Overhead Implementation of a Soft Decision Helper Data Algorithm for SRAM PUFs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Roel Maes",
+            "id": "2219537266",
+            "org": "ESAT/COSIC and IBBT, K.U. Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Pim Tuyls",
+            "id": "2010563759",
+            "org": "ESAT/COSIC and IBBT, K.U. Leuven, Leuven, Belgium and Intrinsic-ID, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Ingrid Verbauwhede",
+            "id": "2044881251",
+            "org": "ESAT/COSIC and IBBT, K.U. Leuven, Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Soft-decision decoder",
+        "Physical unclonable function",
+        "Parallel computing",
+        "Algorithm",
+        "Computer science",
+        "Static random-access memory",
+        "Non-volatile memory",
+        "Real-time computing"
+    ],
+    "references": [
+        "176390824",
+        "1511186238",
+        "1532483809",
+        "1583816927",
+        "1606443045",
+        "1963105592",
+        "1991133427",
+        "2000171858",
+        "2007661134",
+        "2052207834",
+        "2101828326",
+        "2107270529",
+        "2123841788",
+        "2130351941",
+        "2138474025",
+        "2144418895",
+        "2146813141",
+        "2153662381",
+        "2169660454",
+        "2570008916"
+    ]
+}

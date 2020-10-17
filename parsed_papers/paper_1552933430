@@ -1,0 +1,59 @@
+{
+    "id": "1552933430",
+    "title": "Efficient layering for high speed communication: the MPI over Fast Messages (FM) experience",
+    "venue": "Cluster Computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Mario Lauria",
+            "id": "2778497848",
+            "org": "Department of Computer Science and Engineering, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0114, USA#TAB#"
+        },
+        {
+            "name": "Scott Pakin",
+            "id": "2127573012",
+            "org": "Department of Computer Science, University of Illinois at Urbana-Champaign, 1304 W. Springfield Avenue, Urbana, IL 61801, USA#TAB#"
+        },
+        {
+            "name": "Andrew A. Chien",
+            "id": "2614356407",
+            "org": "Science Applications International Corporation Chair Professor, Department of Computer Science and Engineering University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0114, US ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Bandwidth (signal processing)",
+        "Active message",
+        "Layering",
+        "Flow control (data)",
+        "Real-time computing",
+        "Myrinet"
+    ],
+    "references": [
+        "1540641082",
+        "1674145689",
+        "1943255280",
+        "1967800745",
+        "1975636528",
+        "2007826149",
+        "2022019790",
+        "2052840314",
+        "2065414935",
+        "2087602541",
+        "2095793442",
+        "2108580089",
+        "2108914546",
+        "2114333696",
+        "2114728910",
+        "2122527617",
+        "2128705754",
+        "2138415632",
+        "2154207621",
+        "2155066383",
+        "2160816738",
+        "2169505235"
+    ]
+}

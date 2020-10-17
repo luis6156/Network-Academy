@@ -1,0 +1,57 @@
+{
+    "id": "1497263012",
+    "title": "Non-interactive manual channel message authentication based on eTCR hash functions",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mohammad Reza Reyhanitabar",
+            "id": "258636812",
+            "org": "CCISR, SCSSE, Faculty of Informatics, University of Wollongong, NSW, Australia#TAB#"
+        },
+        {
+            "name": "Shuhong Wang",
+            "id": "2626326181",
+            "org": "CCISR, SCSSE, Faculty of Informatics, University of Wollongong, NSW, Australia#TAB#"
+        },
+        {
+            "name": "Reihaneh Safavi-Naini",
+            "id": "1967715543",
+            "org": "Department of Computer Science, University of Calgary, Calgary, Ab#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Distributed computing",
+        "Hash chain",
+        "Hash function",
+        "Message authentication code",
+        "SWIFFT",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1493969756",
+        "1512498994",
+        "1512933114",
+        "1524382113",
+        "1533007301",
+        "1542316315",
+        "1549228503",
+        "1552685663",
+        "1572503422",
+        "1600432225",
+        "1891543496",
+        "1971382044",
+        "1972792640",
+        "1984365546",
+        "2025322090",
+        "2103239853",
+        "2151748484",
+        "2155690458",
+        "2155715579",
+        "2403890367"
+    ]
+}

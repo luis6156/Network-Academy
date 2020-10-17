@@ -1,0 +1,36 @@
+{
+    "id": "1580416641",
+    "title": "Security analysis of the SAML single sign-on browser/artifact profile",
+    "venue": "annual computer security applications conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Thomas Gross",
+            "id": "2167286091",
+            "org": "IBM Zurich Res. Lab., Ruschlikon, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Single sign-on",
+        "Identity management",
+        "Formal specification",
+        "Computer science",
+        "Computer security",
+        "Implementation",
+        "Security analysis",
+        "Database",
+        "Exploit",
+        "Federated identity",
+        "Security Assertion Markup Language"
+    ],
+    "references": [
+        "1605786385",
+        "1727096726",
+        "2097913369",
+        "2105861506",
+        "2113040431",
+        "2118783124",
+        "2146973388",
+        "2295187523"
+    ]
+}

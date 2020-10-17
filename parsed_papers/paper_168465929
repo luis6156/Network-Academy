@@ -1,0 +1,34 @@
+{
+    "id": "168465929",
+    "title": "Automatic granularity selection and OpenMP directive generation via extended machine descriptors in the PROMIS parallelizing compiler",
+    "venue": "international workshop on openmp",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Walden Ko",
+            "id": "2165307421",
+            "org": "Center for Supercomputing Research and Development, University of Illinois at Urbana-Champaign, Urbana, Illinois#TAB#"
+        },
+        {
+            "name": "Constantine D. Polychronopoulos",
+            "id": "2301418095",
+            "org": "Center for Supercomputing Research and Development, University of Illinois at Urbana-Champaign, Urbana, Illinois#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Granularity",
+        "Software portability",
+        "Code generation",
+        "Directive"
+    ],
+    "references": [
+        "1503508068",
+        "1604469478",
+        "1888316275",
+        "2059807497"
+    ]
+}

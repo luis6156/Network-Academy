@@ -1,0 +1,56 @@
+{
+    "id": "1484302334",
+    "title": "Maintaining state in propagation solvers",
+    "venue": "principles and practice of constraint programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Raphael M. Reischuk",
+            "id": "2492343891",
+            "org": "IS&C, Saarland University, Saarbruucken, Germany#TAB#"
+        },
+        {
+            "name": "Christian Schulte",
+            "id": "1975228420",
+            "org": "KTH-Royal Institute of Technology, Sweden#TAB#"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "National ICT Australia, Victoria Laboratory, Department of Computer Science and Software Engineering, University of Melbourne, Australia#TAB#"
+        },
+        {
+            "name": "Guido Tack",
+            "id": "1971830754",
+            "org": "PS Lab, Saarland University, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Propagator",
+        "Theoretical computer science",
+        "Computer science",
+        "Local consistency",
+        "Copying",
+        "Hybrid system",
+        "Solver",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "156373214",
+        "1586765942",
+        "1598380601",
+        "1600165173",
+        "1643203223",
+        "1683857393",
+        "1815010250",
+        "1949640842",
+        "2012741612",
+        "2035811095",
+        "2084964364",
+        "2132210624",
+        "2142785340",
+        "2164279585",
+        "2166279570",
+        "2611155112"
+    ]
+}

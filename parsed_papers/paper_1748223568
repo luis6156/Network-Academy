@@ -1,0 +1,86 @@
+{
+    "id": "1748223568",
+    "title": "Mostly accurate stack scanning",
+    "venue": "JVM'01 Proceedings of the 2001 Symposium on JavaTM Virtual Machine Research and Technology Symposium - Volume 1",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Katherine Barabash",
+            "id": "835469583",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        },
+        {
+            "name": "Niv Buchbinder",
+            "id": "2306984392",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        },
+        {
+            "name": "Tamar Domani",
+            "id": "338071246",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        },
+        {
+            "name": "Elliot K. Kolodner",
+            "id": "2020275207",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        },
+        {
+            "name": "Yoav Ossia",
+            "id": "292034804",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        },
+        {
+            "name": "Shlomit S. Pinter",
+            "id": "2609041035",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        },
+        {
+            "name": "Janice C. Shepherd",
+            "id": "2312069852",
+            "org": "IBM T.J. Watson Research Laboratory#TAB#"
+        },
+        {
+            "name": "Ron Sivan",
+            "id": "2061603491",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        },
+        {
+            "name": "Victor Umansky",
+            "id": "2286600821",
+            "org": "IBM Haifa Research Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Compiler",
+        "Garbage collection",
+        "Bytecode",
+        "Computer science",
+        "Stack (abstract data type)",
+        "Data type",
+        "Virtual machine",
+        "Code coverage",
+        "Real-time computing"
+    ],
+    "references": [
+        "1484117294",
+        "1587813347",
+        "1644882639",
+        "1969235224",
+        "2002250868",
+        "2005907808",
+        "2028080565",
+        "2036494882",
+        "2062372058",
+        "2062909992",
+        "2064551402",
+        "2084659024",
+        "2085821234",
+        "2102839400",
+        "2103580083",
+        "2127007340",
+        "2148499966",
+        "2156956446",
+        "2158364508"
+    ]
+}

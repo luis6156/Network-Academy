@@ -1,0 +1,68 @@
+{
+    "id": "1489575369",
+    "title": "Security Analysis of the PACE Key-Agreement Protocol",
+    "venue": "international conference on information security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jens Bender",
+            "id": "2123374058",
+            "org": "Bundesamt fur Sicherheit in der Informationstechnik (BSI), Germany#TAB#"
+        },
+        {
+            "name": "Marc Fischlin",
+            "id": "132146421",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Dennis Kugler",
+            "id": "2152206813",
+            "org": "Bundesamt fur Sicherheit in der Informationstechnik (BSI), Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Authentication",
+        "Information security",
+        "Computer science",
+        "Computer security",
+        "Security analysis",
+        "Password",
+        "Key-agreement protocol",
+        "Random oracle",
+        "Diffie-Hellman key exchange",
+        "Security association"
+    ],
+    "references": [
+        "98969337",
+        "1487143383",
+        "1509298722",
+        "1516636971",
+        "1526070463",
+        "1549250309",
+        "1566273181",
+        "1569086558",
+        "1596830200",
+        "1610003881",
+        "1656731780",
+        "1669611298",
+        "1758759527",
+        "1780696059",
+        "1786980832",
+        "1851023053",
+        "2002930326",
+        "2098801947",
+        "2103239853",
+        "2104633167",
+        "2112492615",
+        "2124926080",
+        "2131212920",
+        "2131559681",
+        "2147436724",
+        "2149445117",
+        "2156501427",
+        "2159864663",
+        "2164988972",
+        "2396849988",
+        "2403237970"
+    ]
+}

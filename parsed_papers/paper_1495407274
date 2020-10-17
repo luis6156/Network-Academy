@@ -1,0 +1,68 @@
+{
+    "id": "1495407274",
+    "title": "Weak Fields for ECC",
+    "venue": "the cryptographers' track at the rsa conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Alfred Menezes",
+            "id": "2165548239",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Edlyn Teske",
+            "id": "1983414428",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Annegret Weng",
+            "id": "2108121169",
+            "org": "University of Essen"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperelliptic curve cryptography",
+        "Mathematics",
+        "Counting points on elliptic curves",
+        "Curve25519",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Mathematical analysis",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Modular elliptic curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1480802403",
+        "1485481031",
+        "1492538628",
+        "1498685334",
+        "1538333734",
+        "1540780472",
+        "1560603711",
+        "1567159507",
+        "1586130370",
+        "1587701049",
+        "1604454960",
+        "1778545302",
+        "1783743032",
+        "1836803460",
+        "1881921417",
+        "1979485530",
+        "1985265065",
+        "1994376122",
+        "2008272678",
+        "2042173287",
+        "2046569422",
+        "2062791219",
+        "2084836129",
+        "2111310412",
+        "2115190247",
+        "2127739794",
+        "2164466308",
+        "2168571148",
+        "2203317094",
+        "2331953275"
+    ]
+}

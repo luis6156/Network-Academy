@@ -1,0 +1,83 @@
+{
+    "id": "1671936420",
+    "title": "Reversing and Identifying Overwritten Data Structures for Memory-Corruption Exploit Diagnosis",
+    "venue": "computer software and applications conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Lei Zhao",
+            "id": "2703911779",
+            "org": "Comput. Sch., Wuhan Univ., Wuhan, China"
+        },
+        {
+            "name": "Run Wang",
+            "id": "2250226043",
+            "org": "Comput. Sch., Wuhan Univ., Wuhan, China"
+        },
+        {
+            "name": "Lina Wang",
+            "id": "2703344539",
+            "org": "Comput. Sch., Wuhan Univ., Wuhan, China"
+        },
+        {
+            "name": "Yueqiang Cheng",
+            "id": "2610325020",
+            "org": "CyLab, Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Vulnerability (computing)",
+        "Reverse engineering",
+        "Computer science",
+        "Data modeling",
+        "Attack model",
+        "Exploit",
+        "Data structure",
+        "Memory corruption",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "101671200",
+        "145355838",
+        "179510128",
+        "191489030",
+        "646354405",
+        "1507845365",
+        "1545927878",
+        "1634837753",
+        "1655226010",
+        "1795043955",
+        "1825457006",
+        "1963947298",
+        "2022292029",
+        "2037017056",
+        "2049867480",
+        "2065948900",
+        "2068615994",
+        "2069536078",
+        "2081768685",
+        "2096253647",
+        "2097742961",
+        "2100583963",
+        "2100666033",
+        "2102970979",
+        "2103078876",
+        "2112481005",
+        "2119251836",
+        "2120215974",
+        "2121579803",
+        "2133217855",
+        "2138517425",
+        "2138788987",
+        "2140839850",
+        "2145385214",
+        "2159059513",
+        "2168264487",
+        "2171938395",
+        "2398729674",
+        "2401156470",
+        "2401617229",
+        "2504609973"
+    ]
+}

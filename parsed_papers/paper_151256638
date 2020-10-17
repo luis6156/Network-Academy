@@ -1,0 +1,63 @@
+{
+    "id": "151256638",
+    "title": "On the (In)Equivalence of Impossible Differential and Zero-Correlation Distinguishers for Feistel- and Skipjack-Type Ciphers",
+    "venue": "applied cryptography and network security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Celine Blondeau",
+            "id": "1996688774",
+            "org": "Aalto University School of Science"
+        },
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "Technical University of Denmark"
+        },
+        {
+            "name": "Meiqin Wang",
+            "id": "2251995558",
+            "org": "Ministry of Education, Shandong University"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Block size",
+        "Integral cryptanalysis",
+        "S-box",
+        "Key schedule",
+        "Cipher",
+        "Discrete mathematics",
+        "Computer science",
+        "Impossible differential cryptanalysis",
+        "Avalanche effect"
+    ],
+    "references": [
+        "6580606",
+        "45372631",
+        "57809933",
+        "148161500",
+        "172003530",
+        "182571705",
+        "1463173120",
+        "1497721867",
+        "1541703086",
+        "1553792294",
+        "1590392383",
+        "1596892067",
+        "1629301835",
+        "1841463954",
+        "1916689065",
+        "1964723977",
+        "1997884682",
+        "2024729203",
+        "2057117247",
+        "2072296411",
+        "2072787545",
+        "2075567233",
+        "2083383916",
+        "2123686329",
+        "2138979989",
+        "2150381116"
+    ]
+}

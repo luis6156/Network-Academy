@@ -1,0 +1,48 @@
+{
+    "id": "1649228311",
+    "title": "A Refinement-Based Approach to Computational Algebra in Coq",
+    "venue": "interactive theorem proving",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Maxime Denes",
+            "id": "1838078418",
+            "org": "INRIA Sophia Antipolis - Mediterranee"
+        },
+        {
+            "name": "Anders Mortberg",
+            "id": "2001908232",
+            "org": "University of Gothenburg"
+        },
+        {
+            "name": "Vincent Siles",
+            "id": "2123306814",
+            "org": "University of Gothenburg"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Matrix multiplication",
+        "Theoretical computer science",
+        "Formal verification",
+        "Symbolic computation",
+        "Discrete mathematics",
+        "Formal specification",
+        "Rank (linear algebra)",
+        "Algebra",
+        "Karatsuba algorithm",
+        "Data structure",
+        "Polynomial"
+    ],
+    "references": [
+        "3888705",
+        "1486558830",
+        "1542112699",
+        "1568929477",
+        "1594381772",
+        "1652609218",
+        "1979740015",
+        "2143917322",
+        "2405679748"
+    ]
+}

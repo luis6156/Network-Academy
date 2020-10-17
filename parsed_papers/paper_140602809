@@ -1,0 +1,36 @@
+{
+    "id": "140602809",
+    "title": "Implementation of SPARQL Query Language Based on Graph Homomorphism",
+    "venue": "international conference on conceptual structures",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Olivier Corby",
+            "id": "110954821",
+            "org": "INRIA 2004 route des lucioles - BP 93, FR-06902 Sophia Antipolis cedex,#TAB#"
+        },
+        {
+            "name": "Catherine Faron-Zucker",
+            "id": "152602570",
+            "org": "I3S, Universite de Nice Sophia Antipolis, CNRS, 930 route des Colles - BP 145, FR-06903 Sophia Antipolis cedex,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "Named graph",
+        "Graph database",
+        "Graph homomorphism",
+        "Computer science",
+        "Query language",
+        "RDF query language",
+        "Database",
+        "SPARQL",
+        "Clique-width"
+    ],
+    "references": [
+        "1552785398",
+        "1974775483",
+        "2099271226"
+    ]
+}

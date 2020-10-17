@@ -1,0 +1,46 @@
+{
+    "id": "1608006414",
+    "title": "Semi-automatic Segmentation of the Left Ventricle in CINE MR Datasets by Linked Radial Active Model (LRAM)",
+    "venue": "Bildverarbeitung f&uuml;r die Medizin",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael Schildt",
+            "id": "2476414040",
+            "org": "Leibniz Institute for Neurobiology"
+        },
+        {
+            "name": "Regina Pohle",
+            "id": "2465465412",
+            "org": "Otto-von-Guericke University"
+        },
+        {
+            "name": "Kay Brune",
+            "id": "2465555376",
+            "org": "Friedrich-Alexander University"
+        },
+        {
+            "name": "Andreas Hess",
+            "id": "2100786804",
+            "org": "Friedrich-Alexander University"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation",
+        "Segmentation",
+        "Computer vision",
+        "Spherical coordinate system",
+        "Active contour model",
+        "Computer science",
+        "Data set",
+        "Coordinate system",
+        "Image processing",
+        "Heart failure",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1543706479",
+        "2058371413",
+        "2149867908"
+    ]
+}

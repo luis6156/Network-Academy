@@ -1,0 +1,53 @@
+{
+    "id": "1595510480",
+    "title": "A formal specification of the CORBA event service",
+    "venue": "formal methods for open object-based distributed systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Remi Bastide",
+            "id": "2017522332",
+            "org": "LIHS, Universite Toulouse 1"
+        },
+        {
+            "name": "Ousmane Sy",
+            "id": "2006597401",
+            "org": "LIHS, Universite Toulouse 1"
+        },
+        {
+            "name": "David Navarre",
+            "id": "2107900150",
+            "org": "LIHS, Universite Toulouse 1"
+        },
+        {
+            "name": "Philippe A. Palanque",
+            "id": "87613993",
+            "org": "LIHS, Universite Toulouse 1"
+        }
+    ],
+    "fields_of_study": [
+        "Language Of Temporal Ordering Specification",
+        "Formal specification",
+        "Computer science",
+        "Distributed computing",
+        "Common Object Request Broker Architecture",
+        "Database",
+        "Distributed object",
+        "Petri net",
+        "Interface description language",
+        "Middleware",
+        "Standardization"
+    ],
+    "references": [
+        "1482840768",
+        "1511202038",
+        "1527688737",
+        "1531114667",
+        "1549159967",
+        "1566447456",
+        "1995008247",
+        "2034874525",
+        "2051353102",
+        "2134026332"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "1607052279",
+    "title": "Concurrent realization of the multiply-by-7 Elliptic Curve Scalar Multiplication algorithm",
+    "venue": "international conference for internet technology and secured transactions",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Michael NaseimoDaikpor",
+            "id": "2225238692",
+            "org": "Department of Electrical and Electronic Engineering, Faculty of Engineering, University of Lagos, Nigeria"
+        },
+        {
+            "name": "Oluwole Adegbenro",
+            "id": "1853812248",
+            "org": "National Research Center for Energy Efficiency and Conservation, University of Lagos, Nigeria"
+        }
+    ],
+    "fields_of_study": [
+        "Non-adjacent form",
+        "Algorithm",
+        "Scalar multiplication",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Computational complexity theory",
+        "Finite field",
+        "Jacobian matrix and determinant",
+        "Elliptic curve",
+        "Data-flow analysis"
+    ],
+    "references": [
+        "1211098324",
+        "2102234879"
+    ]
+}

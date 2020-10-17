@@ -1,0 +1,47 @@
+{
+    "id": "1572636677",
+    "title": "Related-key impossible differential cryptanalysis of full-round HIGHT",
+    "venue": "international conference on security and cryptography",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Saeed Rostami",
+            "id": "2223068100",
+            "org": "R&D Department, Tehran, Iran"
+        },
+        {
+            "name": "Sadegh Bamohabbat Chafjiri",
+            "id": "2222515665",
+            "org": "Information Systems and Security Lab, Sharif University of Technology, Tehran, Iran"
+        },
+        {
+            "name": "Seyed Amir Hossein Tabatabaei",
+            "id": "2224446915",
+            "org": "Chair for Data Communications Systems, University of Siegen, Siegen, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "1464234995",
+        "1522919234",
+        "1541853791",
+        "1568206444",
+        "1577355432",
+        "1629301835",
+        "1964723977",
+        "2066464272",
+        "2116723762"
+    ]
+}

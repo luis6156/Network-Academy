@@ -1,0 +1,36 @@
+{
+    "id": "1793022769",
+    "title": "Extending ravenscar with CSP channels",
+    "venue": "international conference on reliable software technologies",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Diyaa-Addein Atiya",
+            "id": "2004181515",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK#TAB#"
+        },
+        {
+            "name": "Steve King",
+            "id": "2237250160",
+            "org": "Department of Computer Science, University of York, Heslington, York, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Shared memory",
+        "Computer science",
+        "Ravenscar profile",
+        "Protected procedure",
+        "Message passing",
+        "Concurrency",
+        "Formal methods",
+        "Model checking",
+        "Real-time computing"
+    ],
+    "references": [
+        "1711245081",
+        "2077861672",
+        "2077948478",
+        "2258316170"
+    ]
+}

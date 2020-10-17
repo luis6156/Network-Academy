@@ -1,0 +1,39 @@
+{
+    "id": "1584670745",
+    "title": "Nearly linear time",
+    "venue": "foundations of computer science",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Yuri Gurevich",
+            "id": "2154094381",
+            "org": "University of Michigan"
+        },
+        {
+            "name": "Saharon Shelah",
+            "id": "158333346",
+            "org": "Hebrew University"
+        }
+    ],
+    "fields_of_study": [
+        "NSPACE",
+        "Linear bounded automaton",
+        "Linear speedup theorem",
+        "EXPTIME",
+        "Discrete mathematics",
+        "DTIME",
+        "Computer science",
+        "Probabilistic Turing machine",
+        "Combinatorics",
+        "Time hierarchy theorem",
+        "2-EXPTIME"
+    ],
+    "references": [
+        "1655990431",
+        "2009798194",
+        "2045717693",
+        "2061496873",
+        "2085938002",
+        "2117427692"
+    ]
+}

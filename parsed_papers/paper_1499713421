@@ -1,0 +1,41 @@
+{
+    "id": "1499713421",
+    "title": "The Dark Side of Black-Box Cryptography, or: Should We Trust Capstone?",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Adam L. Young",
+            "id": "2107228572",
+            "org": "Columbia University"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2885085283",
+            "org": "IBM T.J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Kerberos",
+        "Kleptography",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Cryptosystem",
+        "ElGamal encryption",
+        "Key escrow",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1530287269",
+        "1591569222",
+        "1971297422",
+        "1981386223",
+        "1996360405",
+        "2108104892",
+        "2108834246",
+        "2170267084",
+        "2407933944"
+    ]
+}

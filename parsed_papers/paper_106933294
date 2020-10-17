@@ -1,0 +1,33 @@
+{
+    "id": "106933294",
+    "title": "Cryptanalysis of Ladder-DES",
+    "venue": "fast software encryption",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Integral cryptanalysis",
+        "Key schedule",
+        "S-box",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Computer science",
+        "Theoretical computer science",
+        "Ladder-DES",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1490586645",
+        "1504217304",
+        "1979282282",
+        "1991374982",
+        "2077300005"
+    ]
+}

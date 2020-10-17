@@ -1,0 +1,41 @@
+{
+    "id": "1819061892",
+    "title": "An Extended Atomic Consistency Protocol for Recoverable DSM Systems",
+    "venue": "international conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jerzy Brzezinski",
+            "id": "2238814344",
+            "org": "Poznan University of Technology"
+        },
+        {
+            "name": "Michal Szychowiak",
+            "id": "1520007386",
+            "org": "Poznan University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Parallel computing",
+        "Two-phase commit protocol",
+        "Shared memory",
+        "Consistency model",
+        "Computer science",
+        "Distributed computing",
+        "Distributed shared memory",
+        "Correctness",
+        "Spite",
+        "High availability"
+    ],
+    "references": [
+        "1517862690",
+        "1531190803",
+        "1898787029",
+        "1925135999",
+        "2044902313",
+        "2124458074",
+        "2138403005",
+        "2166252726"
+    ]
+}

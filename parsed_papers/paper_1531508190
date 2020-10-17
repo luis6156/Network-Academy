@@ -1,0 +1,61 @@
+{
+    "id": "1531508190",
+    "title": "The Carry Leakage on the Randomized Exponent Countermeasure",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Ecole normale superieure/CNRS/INRIA, Paris, France 75#TAB#"
+        },
+        {
+            "name": "Denis Real",
+            "id": "2311332494",
+            "org": "CELAR, Bruz, France 35 and INSA-IETR, Rennes, France 35043#TAB#"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "CELAR, Bruz, France 35#TAB#"
+        },
+        {
+            "name": "M'Hamed Drissi",
+            "id": "1997065428",
+            "org": "INSA-IETR, Rennes, France 35043#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Adder",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Exponentiation",
+        "Countermeasure",
+        "Discrete mathematics",
+        "Power analysis",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "54889511",
+        "1495728876",
+        "1497375467",
+        "1500237345",
+        "1532398039",
+        "1562542037",
+        "1565369953",
+        "1756321105",
+        "1871879997",
+        "1966714372",
+        "2090769756",
+        "2101040389",
+        "2119569175",
+        "2145386488",
+        "2147906334",
+        "2148862943",
+        "2154909745",
+        "2168356719"
+    ]
+}

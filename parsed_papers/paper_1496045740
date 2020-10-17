@@ -1,0 +1,60 @@
+{
+    "id": "1496045740",
+    "title": "A concurrency control algorithm for firm real-time database systems",
+    "venue": "international conference on computational science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Seok Jae Lee",
+            "id": "2143991162",
+            "org": "Department of Computer & Communication Eng., Chungbuk National University, Chungbuk, Korea#TAB#"
+        },
+        {
+            "name": "Jae Ryong Shin",
+            "id": "2253448484",
+            "org": "Department of Computer & Communication Eng., Chungbuk National University, Chungbuk, Korea#TAB#"
+        },
+        {
+            "name": "Seok Il Song",
+            "id": "2692610605",
+            "org": "Department of Computer & Communication Eng., Chungbuk National University, Chungbuk, Korea#TAB#"
+        },
+        {
+            "name": "Jae Soo Yoo",
+            "id": "2260500439",
+            "org": "Department of Computer & Communication Eng., Chungbuk National University, Chungbuk, Korea#TAB#"
+        },
+        {
+            "name": "Ki Hyung Cho",
+            "id": "2262980226",
+            "org": "Department of Computer & Communication Eng., Chungbuk National University, Chungbuk, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Multilevel queue",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Optimistic concurrency control",
+        "Computer science",
+        "Real-time computing",
+        "Real-time database",
+        "Two-phase locking",
+        "Concurrency control",
+        "Database transaction"
+    ],
+    "references": [
+        "125466382",
+        "271524348",
+        "1574895192",
+        "1987692705",
+        "2007225136",
+        "2023671193",
+        "2049583853",
+        "2116241626",
+        "2147674396",
+        "2155651880",
+        "2156496641"
+    ]
+}

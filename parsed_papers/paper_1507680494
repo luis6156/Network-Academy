@@ -1,0 +1,39 @@
+{
+    "id": "1507680494",
+    "title": "Mutual Exclusion Between Neighboring Nodes in a Tree That Stabilizes Using Read/Write Atomicity",
+    "venue": "european conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gheorghe Antonoiu",
+            "id": "2070380501",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "Pradip K. Srimani",
+            "id": "2089465206",
+            "org": "Colorado State University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Critical section",
+        "Integer",
+        "Suzuki-Kasami algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Bounded function",
+        "Distributed Computing Environment",
+        "Atomicity",
+        "Tree (data structure)"
+    ],
+    "references": [
+        "1504204426",
+        "2016115902",
+        "2022907112",
+        "2057856239",
+        "2070908350",
+        "2135985056"
+    ]
+}

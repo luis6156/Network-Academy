@@ -1,0 +1,53 @@
+{
+    "id": "136770712",
+    "title": "Sound Control Flow Graph Extraction from Incomplete Java Bytecode Programs",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Pedro de Carvalho Gomes",
+            "id": "2119201063",
+            "org": "KTH Royal Institute of Technology, Sweden#TAB#"
+        },
+        {
+            "name": "Attilio Picoco",
+            "id": "275031258",
+            "org": "KTH Royal Institute of Technology, Sweden#TAB#"
+        },
+        {
+            "name": "Dilian Gurov",
+            "id": "2036471081",
+            "org": "KTH Royal Institute of Technology, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Semantics",
+        "Theoretical computer science",
+        "Control flow",
+        "Java bytecode",
+        "Computer science",
+        "Soundness",
+        "Graph",
+        "Kripke structure",
+        "Real-time computing",
+        "Modular design",
+        "Programming language"
+    ],
+    "references": [
+        "1479736339",
+        "1494768888",
+        "1959797194",
+        "2011458734",
+        "2034063260",
+        "2051600169",
+        "2111692334",
+        "2122932578",
+        "2134298270",
+        "2159181605",
+        "2159835737",
+        "2162644091",
+        "2168448595",
+        "2171240827"
+    ]
+}

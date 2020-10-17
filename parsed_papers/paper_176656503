@@ -1,0 +1,61 @@
+{
+    "id": "176656503",
+    "title": "Exploiting SIMD instructions in current processors to improve classical string algorithms",
+    "venue": "advances in databases and information systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Susana Ladra",
+            "id": "2019109557",
+            "org": "Database Laboratory, Universidade da Coruna, Spain#TAB#"
+        },
+        {
+            "name": "Oscar Pedreira",
+            "id": "2253964940",
+            "org": "Database Laboratory, Universidade da Coruna, Spain#TAB#"
+        },
+        {
+            "name": "Jose Duato",
+            "id": "2110723587",
+            "org": "Parallel Architectures Group, Universitat Politecnica de Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Nieves R. Brisaboa",
+            "id": "2224363331",
+            "org": "Database Laboratory, Universidade da Coruna, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SIMD",
+        "Parallel computing",
+        "Algorithm",
+        "Computer science",
+        "Compiler",
+        "Search engine indexing",
+        "Instruction set",
+        "Inverted index",
+        "Proof of concept",
+        "Data structure"
+    ],
+    "references": [
+        "230099169",
+        "1529205966",
+        "1546738280",
+        "1985136582",
+        "1985174631",
+        "1986106281",
+        "2015255214",
+        "2060321634",
+        "2073921136",
+        "2088386938",
+        "2107923746",
+        "2117159302",
+        "2134696992",
+        "2134826720",
+        "2146346985",
+        "2147076738",
+        "2147344024",
+        "2242821730",
+        "2399701057"
+    ]
+}

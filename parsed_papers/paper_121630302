@@ -1,0 +1,65 @@
+{
+    "id": "121630302",
+    "title": "Homomorphic encryption for multiplications and pairing evaluation",
+    "venue": "security and cryptography for networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Guilhem Castagnos",
+            "id": "2400567263",
+            "org": "Institut de Mathematiques de Bordeaux, Universite Bordeaux 1/CNRS, Talence cedex, France#TAB#"
+        },
+        {
+            "name": "Fabien Laguillaumie",
+            "id": "5555332",
+            "org": "Laboratoire de l'Informatique du Parallelisme, Universite de Caen Basse-Normandie and CNRS/ENSL/INRIA/UCBL LIP, Lyon, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Homomorphic encryption",
+        "Security parameter",
+        "Theoretical computer science",
+        "Computer science",
+        "Pairing",
+        "Prime (order theory)",
+        "Cryptosystem",
+        "Chosen-plaintext attack",
+        "Elliptic curve",
+        "Arithmetic",
+        "Semantic security"
+    ],
+    "references": [
+        "65874733",
+        "106544195",
+        "1504029287",
+        "1511913323",
+        "1516512945",
+        "1520987000",
+        "1522597308",
+        "1529862094",
+        "1544327602",
+        "1596208550",
+        "1684724692",
+        "1798609567",
+        "1838677899",
+        "1990220158",
+        "1992282993",
+        "1998565682",
+        "1998927873",
+        "2004015610",
+        "2031533839",
+        "2063635907",
+        "2075680101",
+        "2086042811",
+        "2096218735",
+        "2117852003",
+        "2132172731",
+        "2146689848",
+        "2152926062",
+        "2164409696",
+        "2166904285",
+        "2168532569",
+        "2395614067",
+        "2398715209"
+    ]
+}

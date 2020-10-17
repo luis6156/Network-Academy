@@ -1,0 +1,34 @@
+{
+    "id": "1490303524",
+    "title": "Shared Memory vs. Message Passing: The COMOPS Benchmark Experiment",
+    "venue": "The Journal of Supercomputing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yong Luo",
+            "id": "2419744876",
+            "org": "Scientific Computing Group CIC-19 Mail Stop B256, Los Alamos National Laboratory, Los Alamos, NM 87545, U.S.A.yongl@lanl.gov#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SPMD",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Distributed shared memory",
+        "Message passing",
+        "Data diffusion machine",
+        "Distributed memory",
+        "Architecture"
+    ],
+    "references": [
+        "122545444",
+        "1226336509",
+        "1540031574",
+        "2081612620",
+        "2122641512",
+        "2133985491"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1518891319",
+    "title": "Requirements for an integrity-protected hypervisor on the x86 hardware virtualized architecture",
+    "venue": "trust and trustworthy computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Amit Vasudevan",
+            "id": "2119280436",
+            "org": "CyLab, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Jonathan M. McCune",
+            "id": "2304896318",
+            "org": "CyLab, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Ning Qu",
+            "id": "2024395691",
+            "org": "Nvidia Corp., Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Leendert van Doorn",
+            "id": "2153906754",
+            "org": "Advanced Micro Devices Corp., Austin, TX#TAB#"
+        },
+        {
+            "name": "Adrian Perrig",
+            "id": "2213385919",
+            "org": "CyLab, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer hardware",
+        "Hypervisor",
+        "Virtualization",
+        "Trusted computing base",
+        "Computer science",
+        "Computer security",
+        "Storage hypervisor",
+        "Hardware virtualization",
+        "Operating system",
+        "Real-time computing",
+        "Virtual machine",
+        "Architecture",
+        "Covert channel"
+    ],
+    "references": [
+        "1500485546",
+        "1518919505",
+        "1604135736",
+        "1748095088",
+        "2006989942",
+        "2029224396",
+        "2058200237",
+        "2095881341",
+        "2104948281",
+        "2105518912",
+        "2119028650",
+        "2136310957",
+        "2147669587",
+        "2149886445",
+        "2277781126"
+    ]
+}

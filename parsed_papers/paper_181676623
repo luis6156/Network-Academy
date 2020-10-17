@@ -1,0 +1,68 @@
+{
+    "id": "181676623",
+    "title": "Dense semi-rigid scene flow estimation from RGBD images",
+    "venue": "european conference on computer vision",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Julian Quiroga",
+            "id": "2110933731",
+            "org": "INRIA"
+        },
+        {
+            "name": "Thomas Brox",
+            "id": "2014530249",
+            "org": "University of Freiburg"
+        },
+        {
+            "name": "Frederic Devernay",
+            "id": "751194",
+            "org": "PRIMA team, INRIA, Grenoble, France"
+        },
+        {
+            "name": "James L. Crowley",
+            "id": "2420338556",
+            "org": "PRIMA team, INRIA, Grenoble, France"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Computer vision",
+        "Congruence (geometry)",
+        "Rigid body",
+        "Piecewise",
+        "Residual",
+        "Motion field",
+        "Solver",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "60543829",
+        "61928934",
+        "1578285471",
+        "1808303360",
+        "1968545482",
+        "1978333359",
+        "1984456874",
+        "1997409415",
+        "2017849585",
+        "2021851106",
+        "2021930164",
+        "2026055959",
+        "2044096295",
+        "2051221053",
+        "2061244215",
+        "2088692258",
+        "2092663520",
+        "2098500213",
+        "2106471914",
+        "2129671742",
+        "2131747574",
+        "2134134344",
+        "2134273657",
+        "2150284836",
+        "2155479981",
+        "2337319582",
+        "2625175141"
+    ]
+}

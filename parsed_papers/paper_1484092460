@@ -1,0 +1,32 @@
+{
+    "id": "1484092460",
+    "title": "Linear Time Algorithm to Find a Minimal Deadlock in a Strongly Connected Free-Choice Net",
+    "venue": "applications and theory of petri nets",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Peter Kemper",
+            "id": "2109077946",
+            "org": "Universitat Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Strongly connected component",
+        "Algorithm",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Bounded function",
+        "Tarjan's strongly connected components algorithm",
+        "Deadlock",
+        "Berlekamp-Massey algorithm"
+    ],
+    "references": [
+        "1540043875",
+        "1563959012",
+        "1567314218",
+        "1598786918",
+        "2118382442"
+    ]
+}

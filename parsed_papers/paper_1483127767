@@ -1,0 +1,52 @@
+{
+    "id": "1483127767",
+    "title": "Towards an n-version dependency parser",
+    "venue": "text speech and dialogue",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Miguel Ballesteros",
+            "id": "2159534029",
+            "org": "Departamento de Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Jesus Herrera",
+            "id": "2516652147",
+            "org": "Departamento de Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Virginia Francisco",
+            "id": "2156667208",
+            "org": "Departamento de Ingenieria del Software e Inteligencia Artificial, Universidad Complutense de Madrid, Madrid, Spain#TAB#"
+        },
+        {
+            "name": "Pablo Gervas",
+            "id": "184266003",
+            "org": "Instituto de Tecnologia del Conocimiento, Universidad Complutense de Madrid, Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parsing expression grammar",
+        "Parser combinator",
+        "Computer science",
+        "Natural language processing",
+        "S-attributed grammar",
+        "Bottom-up parsing",
+        "LR parser",
+        "Parsing",
+        "Top-down parsing",
+        "Speech recognition",
+        "Dependency grammar",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "38462120",
+        "1497611705",
+        "1665873259",
+        "2015238682",
+        "2027979924",
+        "2052449326",
+        "2143541936",
+        "2145192715"
+    ]
+}

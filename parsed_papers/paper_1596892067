@@ -1,0 +1,79 @@
+{
+    "id": "1596892067",
+    "title": "Security analysis of the GF-NLFSR structure and four-cell block cipher",
+    "venue": "international conference on information and communication security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Liting Zhang",
+            "id": "2103696780",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wentao Zhang",
+            "id": "2682674952",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Residual block termination",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Key whitening"
+    ],
+    "references": [
+        "1482569179",
+        "1497721867",
+        "1501856114",
+        "1504217304",
+        "1514176195",
+        "1534818369",
+        "1535069876",
+        "1538319178",
+        "1539178658",
+        "1540875416",
+        "1541703086",
+        "1555570710",
+        "1559083062",
+        "1565705707",
+        "1569252980",
+        "1575149347",
+        "1591620981",
+        "1593510332",
+        "1602941974",
+        "1606590042",
+        "1607372077",
+        "1622456230",
+        "1841463954",
+        "1972464518",
+        "1974355178",
+        "1985969574",
+        "1997884682",
+        "2067040124",
+        "2077300005",
+        "2087913627",
+        "2138979989",
+        "2149019291",
+        "2149110252",
+        "2179792569",
+        "2245952156",
+        "2799397395"
+    ]
+}

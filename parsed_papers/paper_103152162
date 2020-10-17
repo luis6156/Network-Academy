@@ -1,0 +1,41 @@
+{
+    "id": "103152162",
+    "title": "Non-blocking atomic commitment in asynchronous distributed systems with faulty processes",
+    "venue": "international conference on algorithms and architectures for parallel processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Sung-Hoon Park",
+            "id": "2308027993",
+            "org": "School of Electrical and Computer Engineering, Chungbuk National Unvi., Cheongju, ChungBuk, Korea#TAB#"
+        },
+        {
+            "name": "Seon-Hyong Lee",
+            "id": "2316263720",
+            "org": "School of Electrical and Computer Engineering, Chungbuk National Unvi., Cheongju, ChungBuk, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Chandra-Toueg consensus algorithm",
+        "Computer science",
+        "Asynchronous system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1480890638",
+        "1517982377",
+        "1540733218",
+        "1545155892",
+        "1553377086",
+        "1721545125",
+        "1986945393",
+        "2035362408",
+        "2077240273",
+        "2133943294",
+        "2169390626",
+        "2611515161"
+    ]
+}

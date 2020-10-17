@@ -1,0 +1,38 @@
+{
+    "id": "1578642258",
+    "title": "taDOM: A Tailored Synchronization Concept with Tunable Lock Granularity for the DOM API",
+    "venue": "advances in databases and information systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Michael Peter Haustein",
+            "id": "2526744523",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "Theo Harder",
+            "id": "2121721308",
+            "org": "University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "XML",
+        "Computer science",
+        "Multi-user",
+        "Transaction processing",
+        "Lock (computer science)",
+        "Granularity",
+        "Database",
+        "Readers-writer lock",
+        "Simple API for XML",
+        "Data model"
+    ],
+    "references": [
+        "102061963",
+        "1515932031",
+        "1994328041",
+        "2098845641",
+        "2109464129",
+        "2139242647"
+    ]
+}

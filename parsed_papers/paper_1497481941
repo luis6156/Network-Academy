@@ -1,0 +1,54 @@
+{
+    "id": "1497481941",
+    "title": "Key recovery attacks of practical complexity on AES-256 variants with up to 10 rounds",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxembourg, Luxembourg#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Ecole Normale Superieure, Paris, France#TAB#"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Einstein Institute of Mathematics, Hebrew University, Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Dmitry Khovratovich",
+            "id": "717857179",
+            "org": "University of Luxembourg, Luxembourg#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Faculty of Mathematics and Computer Science, The Weizmann Institute, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Brute-force search",
+        "Related-key attack",
+        "Key (lock)"
+    ],
+    "references": [
+        "1515958737",
+        "1543271574",
+        "1554865288",
+        "1556597491",
+        "1568817903",
+        "1587120902",
+        "1597699498",
+        "1789460706",
+        "1991897749",
+        "2072707905"
+    ]
+}

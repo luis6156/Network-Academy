@@ -1,0 +1,36 @@
+{
+    "id": "1586548249",
+    "title": "Key Collisions of the RC4 Stream Cipher",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation, Kanagawa, Japan 247-8501#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Weak key",
+        "Scheduling (computing)",
+        "Stream cipher",
+        "RC4",
+        "Key (lock)",
+        "Public-key cryptography",
+        "Key size"
+    ],
+    "references": [
+        "1500414598",
+        "1510584840",
+        "1556597491",
+        "1566979565",
+        "1608372408",
+        "1789460706",
+        "2149237395",
+        "2151074078"
+    ]
+}

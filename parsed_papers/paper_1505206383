@@ -1,0 +1,36 @@
+{
+    "id": "1505206383",
+    "title": "An alternative to error correction for SRAM-like PUFs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Maximilian Hofer",
+            "id": "2122210409",
+            "org": "Institute of Electronics, Graz University of Technology#TAB#"
+        },
+        {
+            "name": "Christoph Boehm",
+            "id": "2763968272",
+            "org": "Institute of Electronics, Graz University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Physical unclonable function",
+        "Word error rate",
+        "Theoretical computer science",
+        "Computer science",
+        "Static random-access memory",
+        "Error detection and correction"
+    ],
+    "references": [
+        "1531862214",
+        "1532483809",
+        "1562669673",
+        "2000171858",
+        "2105185465",
+        "2130351941",
+        "2145858709",
+        "2570008916"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": "1710218451",
+    "title": "A New Keystream Generator MUGI",
+    "venue": "fast software encryption",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dai Watanabe",
+            "id": "1977833298",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Soichi Furuya",
+            "id": "1967221437",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Hirotaka Yoshida",
+            "id": "2105707368",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Kazuo Takaragi",
+            "id": "1989259001",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Parallel computing",
+        "Keystream",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "MUGI",
+        "Initialization vector",
+        "Stream cipher",
+        "Related-key attack"
+    ],
+    "references": [
+        "1493241988",
+        "1556597491",
+        "1591620981",
+        "1604791554",
+        "1654806544",
+        "1784733384",
+        "1964723977",
+        "1979802565",
+        "2103910180",
+        "2109265351",
+        "2136330164",
+        "2151564283",
+        "2234576048",
+        "2802808712"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1481758047",
+    "title": "Performance tuning of matrix triple products based on matrix structure",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Eun-Jin Im",
+            "id": "2127413150",
+            "org": "Kookmin University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Ismail Bustany",
+            "id": "2666459073",
+            "org": "Barcelona Design Inc#TAB#"
+        },
+        {
+            "name": "Cleve Ashcraft",
+            "id": "2657557535",
+            "org": "Livermore Software Technology Corporation#TAB#"
+        },
+        {
+            "name": "James Demmel",
+            "id": "700277173",
+            "org": "U.C. Berkeley#TAB#"
+        },
+        {
+            "name": "Katherine A. Yelick",
+            "id": "2062901400",
+            "org": "U.C. Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Cuthill-McKee algorithm",
+        "Block matrix",
+        "Parallel computing",
+        "Matrix multiplication",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Diagonal matrix",
+        "Parallel algorithm",
+        "Performance tuning"
+    ],
+    "references": [
+        "1518969538",
+        "2110955718",
+        "2130289795"
+    ]
+}

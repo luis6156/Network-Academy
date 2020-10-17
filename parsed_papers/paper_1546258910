@@ -1,0 +1,39 @@
+{
+    "id": "1546258910",
+    "title": "Proof-carrying code with untrusted proof rules",
+    "venue": "mext nsf jsps international conference on software security theories and systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "George C. Necula",
+            "id": "281330718",
+            "org": "Department of Electrical Engineering and Computer Sciences, University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Robert R. Schneck",
+            "id": "414610511",
+            "org": "Group in Logic and the Methodology of Science, University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Type safety",
+        "Memory safety",
+        "Permission",
+        "Invariant (mathematics)",
+        "Computer science",
+        "Code (cryptography)",
+        "Proof-carrying code",
+        "Implementation",
+        "Computer security",
+        "Program counter",
+        "Real-time computing"
+    ],
+    "references": [
+        "1509912167",
+        "1976394633",
+        "2034711041",
+        "2115401928",
+        "2153297607",
+        "2505656361"
+    ]
+}

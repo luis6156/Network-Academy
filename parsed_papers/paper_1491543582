@@ -1,0 +1,46 @@
+{
+    "id": "1491543582",
+    "title": "Implementation of RSA Algorithm Based on RNS Montgomery Multiplication",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Hanae Nozaki",
+            "id": "2152495612",
+            "org": "Toshiba Corporation"
+        },
+        {
+            "name": "Masahiko Motoyama",
+            "id": "2020443592",
+            "org": "Toshiba Corporation"
+        },
+        {
+            "name": "Atsushi Shimbo",
+            "id": "1842456160",
+            "org": "Toshiba Corporation"
+        },
+        {
+            "name": "Shinichi Kawamura",
+            "id": "2175791543",
+            "org": "Toshiba Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Kochanski multiplication",
+        "Residue number system",
+        "Logic gate",
+        "Computer science",
+        "Cryptosystem",
+        "Parallel algorithm",
+        "Modular exponentiation",
+        "Architecture"
+    ],
+    "references": [
+        "1565956254",
+        "1601624599",
+        "2132249288"
+    ]
+}

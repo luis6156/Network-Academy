@@ -1,0 +1,47 @@
+{
+    "id": "1662471627",
+    "title": "An authorization framework for metacomputing applications",
+    "venue": "Cluster Computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "T. V. Ryutov",
+            "id": "2776579065",
+            "org": "Information Sciences Institute, University of Southern California, 4676 Admiralty Way, Suite 1001, Marina del Rey, CA 90292, USA#TAB#"
+        },
+        {
+            "name": "G. Gheorghiu",
+            "id": "2230378395",
+            "org": "Information Sciences Institute, University of Southern California, 4676 Admiralty Way, Suite 1001, Marina del Rey, CA 90292, USA#TAB#"
+        },
+        {
+            "name": "B. C. Neuman",
+            "id": "2776654808",
+            "org": "Information Sciences Institute, University of Southern California, 4676 Admiralty Way, Suite 1001, Marina del Rey, CA 90292, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Access control",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Database",
+        "Authorization",
+        "Security policy",
+        "Strong authentication",
+        "Metacomputing"
+    ],
+    "references": [
+        "5172367",
+        "31008731",
+        "1590248597",
+        "1833058320",
+        "1968328775",
+        "1987339920",
+        "2024126251",
+        "2058049109",
+        "2111996486",
+        "2139426072"
+    ]
+}

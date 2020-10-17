@@ -1,0 +1,67 @@
+{
+    "id": "1513957952",
+    "title": "The Grindahl hash functions",
+    "venue": "fast software encryption",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "Technical University of Denmark, Lyngby, Denmark#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Soren S. Thomsen",
+            "id": "2151455423",
+            "org": "Technical University of Denmark, Lyngby, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "SHA-2",
+        "Primary clustering",
+        "Computer science",
+        "Hash chain",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "Double hashing",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "81015123",
+        "91031763",
+        "124034723",
+        "1512933114",
+        "1517500721",
+        "1532078157",
+        "1533007301",
+        "1533979572",
+        "1549228503",
+        "1567888865",
+        "1573725807",
+        "1590269592",
+        "1596301089",
+        "1600432225",
+        "1610003881",
+        "1656731780",
+        "1845145297",
+        "2033778422",
+        "2090135172",
+        "2095675261",
+        "2103239853",
+        "2106181459",
+        "2130238828",
+        "2135759164",
+        "2136330164",
+        "2156912159",
+        "2396332221",
+        "2593463031",
+        "2611506938",
+        "2802808712"
+    ]
+}

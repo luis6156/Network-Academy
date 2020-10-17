@@ -1,0 +1,57 @@
+{
+    "id": "1585447259",
+    "title": "Superscalar GEMM-based Level 3 BLAS - The On-going Evolution of a Portable and High-Performance Library",
+    "venue": "parallel computing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Fred G. Gustavson",
+            "id": "2077030820",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Andre Henriksson",
+            "id": "2159902461",
+            "org": "Umea University"
+        },
+        {
+            "name": "Isak Jonsson",
+            "id": "2099027815",
+            "org": "Umea University"
+        },
+        {
+            "name": "Bo Kagstrom",
+            "id": "130234326",
+            "org": "Umea University"
+        },
+        {
+            "name": "Per Ling",
+            "id": "2141886107",
+            "org": "Umea University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Recursion (computer science)",
+        "Memory hierarchy",
+        "Computer science",
+        "Basic Linear Algebra Subprograms",
+        "Parallel algorithm",
+        "Loop nest optimization",
+        "Symmetric multiprocessing",
+        "Kernel (linear algebra)",
+        "Operand"
+    ],
+    "references": [
+        "1516000274",
+        "1972209410",
+        "1975244539",
+        "2002257715",
+        "2068352344",
+        "2079658918",
+        "2082306839",
+        "2143098683",
+        "2548341626"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "1664707389",
+    "title": "SPEComp: A New Benchmark Suite for Measuring Parallel Computer Performance",
+    "venue": "international workshop on openmp",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Vishal Aslot",
+            "id": "2285715018",
+            "org": "Purdue University"
+        },
+        {
+            "name": "Max J. Domeika",
+            "id": "2319480714",
+            "org": "Intel Corp."
+        },
+        {
+            "name": "Rudolf Eigenmann",
+            "id": "2075111996",
+            "org": "Purdue University"
+        },
+        {
+            "name": "Greg Gaertner",
+            "id": "2091371882",
+            "org": "Compaq Computer Corp."
+        },
+        {
+            "name": "Wesley B. Jones",
+            "id": "2139650825",
+            "org": "Silicon Graphics Inc."
+        },
+        {
+            "name": "Bodo K. Parady",
+            "id": "2507123512",
+            "org": "Sun Microsystems"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Distributed computing",
+        "Data set",
+        "Data processing",
+        "Server",
+        "Benchmarking",
+        "Suite"
+    ],
+    "references": [
+        "2127218465",
+        "2143549041",
+        "2145021036"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1532146045",
+    "title": "OpenMP Extensions for Thread Groups and Their Run-Time Support",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Marc Gonzalez",
+            "id": "2124963511",
+            "org": "Computer Architecture Department"
+        },
+        {
+            "name": "Jose Oliver",
+            "id": "2699975876",
+            "org": "Computer Architecture Department"
+        },
+        {
+            "name": "Xavier Martorell",
+            "id": "2155127561",
+            "org": "Computer Architecture Department"
+        },
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "Computer Architecture Department"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Computer Architecture Department"
+        },
+        {
+            "name": "Nacho Navarro",
+            "id": "2153460013",
+            "org": "Computer Architecture Department"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Runtime library",
+        "Parallel computing",
+        "Functional requirement",
+        "Shared memory",
+        "Computer science",
+        "Programming paradigm"
+    ],
+    "references": [
+        "155912745",
+        "1583973024",
+        "1994464372",
+        "2000184064",
+        "2019614051",
+        "2084903759",
+        "2086794688"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1482267990",
+    "title": "Hybrid Damgard Is CCA1-Secure under the DDH Assumption",
+    "venue": "cryptology and network security",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "University College London, UK#TAB#"
+        },
+        {
+            "name": "Helger Lipmaa",
+            "id": "15605393",
+            "org": "Cybernetica AS, Estonia#TAB#"
+        },
+        {
+            "name": "Duong Hieu Phan",
+            "id": "2100645543",
+            "org": "University of Paris 8, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Benaloh cryptosystem",
+        "Plaintext-aware encryption",
+        "Computer security",
+        "Cryptosystem",
+        "Goldwasser-Micali cryptosystem",
+        "Paillier cryptosystem",
+        "Hybrid cryptosystem",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1489041988",
+        "1519935529",
+        "1525737403",
+        "1576393384",
+        "1801447676",
+        "2101803085",
+        "2108834246",
+        "2117852003",
+        "2146907493",
+        "2149093588",
+        "2153971105",
+        "2157679418",
+        "2184811974"
+    ]
+}

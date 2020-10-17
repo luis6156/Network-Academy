@@ -1,0 +1,36 @@
+{
+    "id": "1564107734",
+    "title": "A new heuristic search algorithm for capturing problems in Go",
+    "venue": "annual conference on computers",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Keh-Hsun Chen",
+            "id": "2116829953",
+            "org": "Department of Computer Science, University of North Carolina at Charlotte, NC#TAB#"
+        },
+        {
+            "name": "Peigang Zhang",
+            "id": "2145304184",
+            "org": "Department of Computer Science, University of North Carolina at Charlotte, NC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Incremental heuristic search",
+        "Algorithm",
+        "Computer science",
+        "Min-conflicts algorithm",
+        "Iterative deepening depth-first search",
+        "Best-first search",
+        "Hash function",
+        "Heuristic",
+        "Mathematical optimization",
+        "Search tree"
+    ],
+    "references": [
+        "146412370",
+        "982015946",
+        "2044127593"
+    ]
+}

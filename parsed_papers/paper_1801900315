@@ -1,0 +1,43 @@
+{
+    "id": "1801900315",
+    "title": "From V to Vanguard: the evolution of a distributed, object-oriented microkernel interface",
+    "venue": "moas'93 USENIX Symposium on USENIX Microkernels and Other Kernel Architectures Symposium - Volume 4",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Ross S. Finlayson",
+            "id": "2146620759",
+            "org": "SunSoft, Inc. and Apple Computer, Inc.#TAB#"
+        },
+        {
+            "name": "Mark D. Hennecke",
+            "id": "2058194919",
+            "org": "Apple Computer, Inc.#TAB#"
+        },
+        {
+            "name": "Steven L. Goldberg",
+            "id": "2130606127",
+            "org": "Apple Computer, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Testbed",
+        "Microkernel",
+        "Computer science",
+        "Hybrid kernel",
+        "Object model",
+        "Real-time computing",
+        "Distributed object",
+        "Extensibility",
+        "Object type",
+        "Modular design"
+    ],
+    "references": [
+        "19830081",
+        "1541859602",
+        "1575433719",
+        "2095687239",
+        "2123837909",
+        "2130500426"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "146567170",
+    "title": "Complexity of scheduling problems with multi-purpose machines",
+    "venue": "Annals of Operations Research",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Peter Brucker",
+            "id": "2195049592",
+            "org": "Fachbereich MathematikyInformatik|Universitat Osnabruck"
+        },
+        {
+            "name": "Bernd Jurisch",
+            "id": "2273409275",
+            "org": "Fachbereich MathematikyInformatik|Universitat Osnabruck"
+        },
+        {
+            "name": "Andreas Kramer",
+            "id": "2608699674",
+            "org": "Fachbereich MathematikyInformatik|Universitat Osnabruck"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Flow shop scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "13181493",
+        "1588382077",
+        "1965437596",
+        "2000809807",
+        "2031612682",
+        "2038956457",
+        "2046437335",
+        "2058225986",
+        "2081013866",
+        "2093229192",
+        "2111874279",
+        "2157529519"
+    ]
+}

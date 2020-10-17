@@ -1,0 +1,47 @@
+{
+    "id": "1530253070",
+    "title": "Improving Reactivity to I/O Events in Multithreaded Environments Using a Uniform, Scheduler-Centric API",
+    "venue": "european conference on parallel processing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Luc Bouge",
+            "id": "2610466900",
+            "org": "PARIS Project"
+        },
+        {
+            "name": "Vincent Danjean",
+            "id": "2558661965",
+            "org": "LIP, ENS Lyon"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "LIP, ENS Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Callback"
+    ],
+    "references": [
+        "22448193",
+        "1482030660",
+        "1521734293",
+        "1553727810",
+        "1581434145",
+        "1939719177",
+        "2018495485",
+        "2098228070",
+        "2123428195",
+        "2127985575",
+        "2142040211",
+        "2155066383",
+        "2156605713"
+    ]
+}

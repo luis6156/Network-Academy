@@ -1,0 +1,88 @@
+{
+    "id": "1591813095",
+    "title": "Intrusion-resilient key exchange in the bounded retrieval model",
+    "venue": "theory of cryptography conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Cash",
+            "id": "2806670307",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Yan Zong Ding",
+            "id": "2170590143",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Yevgeniy Dodis",
+            "id": "1259442811",
+            "org": "Department of Computer Science, New York University#TAB#"
+        },
+        {
+            "name": "Wenke Lee",
+            "id": "2155626625",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Richard J. Lipton",
+            "id": "2668464570",
+            "org": "College of Computing, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Shabsi Walfish",
+            "id": "2306345715",
+            "org": "Department of Computer Science, New York University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compromise",
+        "Theoretical computer science",
+        "Key exchange",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Shared secret",
+        "Storage model",
+        "Encrypted key exchange",
+        "Public-key cryptography",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "203500824",
+        "299586966",
+        "1481068248",
+        "1495266644",
+        "1498063506",
+        "1498503799",
+        "1499934958",
+        "1505202270",
+        "1520746637",
+        "1538419459",
+        "1541483074",
+        "1542059364",
+        "1551969482",
+        "1561407045",
+        "1603068992",
+        "1603601034",
+        "1604454960",
+        "1759759811",
+        "1968372742",
+        "1996403876",
+        "2046871034",
+        "2060474153",
+        "2070616660",
+        "2091020476",
+        "2114924587",
+        "2124926080",
+        "2129876196",
+        "2134475940",
+        "2134754504",
+        "2137072047",
+        "2139279521",
+        "2163122958",
+        "2570008916",
+        "2585529823",
+        "2605928589"
+    ]
+}

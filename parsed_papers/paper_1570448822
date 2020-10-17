@@ -1,0 +1,45 @@
+{
+    "id": "1570448822",
+    "title": "Comparison of Boosting based Terrain Classification using Proprioceptive and Exteroceptive Data",
+    "venue": "international symposium on experimental robotics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ambroise Krebs",
+            "id": "2426024530",
+            "org": "Swiss Federal Institute of Technology Zurich (ETHZ)"
+        },
+        {
+            "name": "CA(c)dric Pradalier",
+            "id": "2429100529",
+            "org": "Swiss Federal Institute of Technology Zurich (ETHZ)"
+        },
+        {
+            "name": "Roland Siegwart",
+            "id": "1988215978",
+            "org": "Swiss Federal Institute of Technology Zurich (ETHZ)"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "AdaBoost",
+        "Computer vision",
+        "Robotics",
+        "Terrain",
+        "Diffusing update algorithm",
+        "Constant false alarm rate",
+        "Boosting (machine learning)",
+        "Engineering",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1538156149",
+        "1988790447",
+        "2069828741",
+        "2116814604",
+        "2117892041",
+        "2123222503",
+        "2127447330",
+        "2166380040"
+    ]
+}

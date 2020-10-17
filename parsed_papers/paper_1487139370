@@ -1,0 +1,61 @@
+{
+    "id": "1487139370",
+    "title": "Extending the Dolev-Yao Intruder for Analyzing an Unbounded Number of Sessions",
+    "venue": "computer science logic",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yannick Chevalier",
+            "id": "1646924474",
+            "org": "LORIA-INRIA-Universites Henri Poincare, Nancy 2"
+        },
+        {
+            "name": "Ralf Kusters",
+            "id": "2109583511",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Michael Rusinowitch",
+            "id": "1576783085",
+            "org": "LORIA-INRIA-Universites Henri Poincare, Nancy 2"
+        },
+        {
+            "name": "Mathieu Turuani",
+            "id": "287442904",
+            "org": "LORIA-INRIA-Universites Henri Poincare, Nancy 2"
+        },
+        {
+            "name": "Laurent Vigneron",
+            "id": "2285125617",
+            "org": "LORIA-INRIA-Universites Henri Poincare, Nancy 2"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Bounded function",
+        "Secrecy",
+        "Automated theorem proving",
+        "Rewriting"
+    ],
+    "references": [
+        "1480621838",
+        "1487167039",
+        "1515715680",
+        "1585860117",
+        "1619409532",
+        "1922967198",
+        "1969965298",
+        "1975688140",
+        "2029693536",
+        "2104494325",
+        "2108533001",
+        "2114104031",
+        "2126338744",
+        "2153921791"
+    ]
+}

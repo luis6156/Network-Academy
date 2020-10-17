@@ -1,0 +1,93 @@
+{
+    "id": "1513765469",
+    "title": "Diagnosing performance changes by comparing request flows",
+    "venue": "networked systems design and implementation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Raja R. Sambasivan",
+            "id": "688737622",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Alice X. Zheng",
+            "id": "2775942825",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Michael De Rosa",
+            "id": "2469404318",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Elie Krevat",
+            "id": "223720365",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Spencer Whitman",
+            "id": "2119595752",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Michael Stroucken",
+            "id": "1055327098",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "William Yang Wang",
+            "id": "2110566271",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Lianghong Xu",
+            "id": "2150663838",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Gregory R. Ganger",
+            "id": "2791808",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Ranking",
+        "Tracing",
+        "Distributed data store",
+        "Real-time computing"
+    ],
+    "references": [
+        "148956775",
+        "1518014189",
+        "1524673069",
+        "1537198022",
+        "1581005283",
+        "1663973292",
+        "1899676114",
+        "1966280301",
+        "2012706015",
+        "2033320920",
+        "2039157918",
+        "2044530246",
+        "2077850713",
+        "2100895597",
+        "2105284028",
+        "2105314882",
+        "2117020308",
+        "2117413084",
+        "2119565742",
+        "2121598006",
+        "2123511529",
+        "2128402656",
+        "2130843735",
+        "2133394135",
+        "2144433126",
+        "2146865435",
+        "2155521027",
+        "2165202235",
+        "2165741325",
+        "2624304035"
+    ]
+}

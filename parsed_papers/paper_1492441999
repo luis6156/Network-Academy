@@ -1,0 +1,69 @@
+{
+    "id": "1492441999",
+    "title": "Performance instrumentation and compiler optimizations for MPI/OpenMP applications",
+    "venue": "international workshop on openmp",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Oscar R. Hernandez",
+            "id": "2096724422",
+            "org": "University of Houston, Computer Science Department, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Fengguang Song",
+            "id": "2098670083",
+            "org": "University of Tennessee, Computer Science Department, Knoxville, Tennessee#TAB#"
+        },
+        {
+            "name": "Barbara M. Chapman",
+            "id": "2142555485",
+            "org": "University of Houston, Computer Science Department, Houston, Texas#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee, Computer Science Department, Knoxville, Tennessee#TAB#"
+        },
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "Forschungszentrum Julich, ZAM, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Shirley Moore",
+            "id": "2158446791",
+            "org": "University of Tennessee, Computer Science Department, Knoxville, Tennessee#TAB#"
+        },
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "Forschungszentrum Julich, ZAM, Julich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Compiler correctness",
+        "Instrumentation",
+        "Optimizing compiler"
+    ],
+    "references": [
+        "1506090700",
+        "1565934092",
+        "1748643750",
+        "1763893681",
+        "1858951234",
+        "1876714082",
+        "1969215126",
+        "2033848632",
+        "2046148715",
+        "2098984303",
+        "2114525093",
+        "2118880662",
+        "2126189438",
+        "2148631234",
+        "2165806605"
+    ]
+}

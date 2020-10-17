@@ -1,0 +1,43 @@
+{
+    "id": "1532041351",
+    "title": "Linear Cryptanalysis of Reduced Round Serpent",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Algorithm",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Serpent (symbolism)",
+        "Arithmetic",
+        "Differential-linear attack"
+    ],
+    "references": [
+        "82606690",
+        "1540066842",
+        "1870015754",
+        "1964723977",
+        "1979802565"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1732514021",
+    "title": "Experiments on the Multiple Linear Cryptanalysis of Reduced Round Serpent",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Baydoin Collard",
+            "id": "2884059959",
+            "org": "UCL Crypto Group, Microelectronics Laboratory, , Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Microelectronics Laboratory, , Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Microelectronics Laboratory, , Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Experimental Bias",
+        "Linear approximation",
+        "Algorithm",
+        "Piling-up lemma",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear span",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "32121401",
+        "380217570",
+        "1507705751",
+        "1510442823",
+        "1535662987",
+        "1542500920",
+        "1701060964",
+        "1920313804",
+        "1964723977",
+        "1985969574",
+        "2095699455",
+        "2137326899"
+    ]
+}

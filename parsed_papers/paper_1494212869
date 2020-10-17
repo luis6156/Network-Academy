@@ -1,0 +1,68 @@
+{
+    "id": "1494212869",
+    "title": "C5: Cross-Cores Cache Covert Channel",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Clementine Maurice",
+            "id": "2113481639",
+            "org": "Technicolor, Rennes, France#TAB#"
+        },
+        {
+            "name": "Christoph Neumann",
+            "id": "2163897730",
+            "org": "Technicolor, Rennes, France#TAB#"
+        },
+        {
+            "name": "Olivier Heen",
+            "id": "2527299341",
+            "org": "Technicolor, Rennes, France#TAB#"
+        },
+        {
+            "name": "Aurelien Francillon",
+            "id": "2266742",
+            "org": "Eurecom, Sophia-Antipolis, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Hypervisor",
+        "Virtualization",
+        "Shared memory",
+        "Computer science",
+        "Exploit",
+        "Virtual machine",
+        "Real-time computing",
+        "Cloud computing",
+        "Covert channel"
+    ],
+    "references": [
+        "95298189",
+        "98341770",
+        "1427174644",
+        "1488058190",
+        "1496265857",
+        "1533145153",
+        "1584476834",
+        "1673310716",
+        "1964281299",
+        "1992291252",
+        "2025539306",
+        "2034195502",
+        "2037322308",
+        "2103289002",
+        "2104599106",
+        "2119028650",
+        "2124350608",
+        "2127133592",
+        "2131019288",
+        "2137243422",
+        "2146573211",
+        "2166293920",
+        "2169461225",
+        "2169965429",
+        "2172060328",
+        "2399169582"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "1525794108",
+    "title": "One-Round ID-Based Blind Signature Scheme without ROS Assumption",
+    "venue": "international conference on pairing based cryptography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Wei Gao",
+            "id": "2429154120",
+            "org": "College of Mathematics and Information, Ludong University, Yantai, China 264025 and Guangdong Key Laboratory of Information Security Technology, Guangzhou, China 510275#TAB#"
+        },
+        {
+            "name": "Guilin Wang",
+            "id": "2642268496",
+            "org": "School of Computer Science, University of Birmingham, Birmingham, UK B15 2TT#TAB#"
+        },
+        {
+            "name": "Xueli Wang",
+            "id": "2113196468",
+            "org": "School of Mathematics Science, South China Normal University, Guangzhou, China 510631#TAB#"
+        },
+        {
+            "name": "Fei Li",
+            "id": "2657410019",
+            "org": "College of Mathematics and Information, Ludong University, Yantai, China 264025#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Bilinear interpolation",
+        "Security parameter",
+        "Theoretical computer science",
+        "System of linear equations",
+        "Blind signature",
+        "Schnorr signature",
+        "Random oracle",
+        "Modulo",
+        "Provable security"
+    ],
+    "references": [
+        "70239856",
+        "1497727788",
+        "1515472247",
+        "1518817958",
+        "1521274767",
+        "1523567567",
+        "1526037005",
+        "1536662568",
+        "1545286522",
+        "1548701190",
+        "1569083856",
+        "1569125871",
+        "1579903585",
+        "1600495091",
+        "1601001795",
+        "1603546715",
+        "1608511627",
+        "1610688607",
+        "1838876034",
+        "1839386101",
+        "2033838428",
+        "2052267638",
+        "2086042811",
+        "2088412955",
+        "2112914778",
+        "2143899187",
+        "2148865534",
+        "2152924492",
+        "2167496998",
+        "2167882086",
+        "2169194339",
+        "2408152474"
+    ]
+}

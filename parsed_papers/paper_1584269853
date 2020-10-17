@@ -1,0 +1,62 @@
+{
+    "id": "1584269853",
+    "title": "Testing fault robustness of model predictive control algorithms",
+    "venue": "international symposium on architecting critical systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Piotr Gawkowski",
+            "id": "2020009550",
+            "org": "Institute of Computer Science, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Konrad Grochowski",
+            "id": "2493939798",
+            "org": "Institute of Computer Science, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Maciej Lawrynczuk",
+            "id": "1957347556",
+            "org": "Institute of Control and Computation Engineering, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Piotr M. Marusak",
+            "id": "2007664753",
+            "org": "Institute of Control and Computation Engineering, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Janusz Sosnowski",
+            "id": "2063369526",
+            "org": "Institute of Computer Science, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Piotr Tatjewski",
+            "id": "2089000998",
+            "org": "Institute of Control and Computation Engineering, Warsaw University of Technology, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control engineering",
+        "Model predictive control",
+        "Process control",
+        "Algorithm",
+        "Stuck-at fault",
+        "Dependability",
+        "Control reconfiguration",
+        "Robustness (computer science)",
+        "Real-time computing",
+        "Fault injection",
+        "Engineering",
+        "Fault model"
+    ],
+    "references": [
+        "1549111785",
+        "1553538002",
+        "1845451745",
+        "2007878205",
+        "2100142058",
+        "2122451174",
+        "2124239219",
+        "2141145410"
+    ]
+}

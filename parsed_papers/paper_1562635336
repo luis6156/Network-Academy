@@ -1,0 +1,51 @@
+{
+    "id": "1562635336",
+    "title": "A joint motion computation and segmentation algorithm for video coding",
+    "venue": "european signal processing conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sylvain Boltz",
+            "id": "1616632849",
+            "org": "Laboratory I3S, UMR 6070 of CNRS, University of Nice Sophia Antipolis, Bat Algorithmes/Euclide B, 2000 route des lucioles - BP121 - 06903 Cedex, France"
+        },
+        {
+            "name": "Eric Debreuve",
+            "id": "304609122",
+            "org": "Laboratory I3S, UMR 6070 of CNRS, University of Nice Sophia Antipolis, Bat Algorithmes/Euclide B, 2000 route des lucioles - BP121 - 06903 Cedex, France"
+        },
+        {
+            "name": "Michel Barlaud",
+            "id": "2186984297",
+            "org": "Laboratory I3S, UMR 6070 of CNRS, University of Nice Sophia Antipolis, Bat Algorithmes/Euclide B, 2000 route des lucioles - BP121 - 06903 Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Structure from motion",
+        "Algorithm",
+        "Computer vision",
+        "Computer science",
+        "Rate-distortion optimization",
+        "Motion estimation",
+        "Quarter-pixel motion",
+        "Segmentation-based object categorization",
+        "Motion compensation",
+        "Scale-space segmentation",
+        "Block-matching algorithm"
+    ],
+    "references": [
+        "12532419",
+        "1556249569",
+        "1578285471",
+        "1602774810",
+        "2031555400",
+        "2054654931",
+        "2104028907",
+        "2106597434",
+        "2116040950",
+        "2134820502",
+        "2145251738",
+        "2165461918"
+    ]
+}

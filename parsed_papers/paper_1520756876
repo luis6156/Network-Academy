@@ -1,0 +1,50 @@
+{
+    "id": "1520756876",
+    "title": "Nanothreads vs. Fibers for the Support of Fine Grain Parallelism on Windows NT/2000 Platforms",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Vasileios K. Barekas",
+            "id": "2286145332",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Panagiotis E. Hadjidoukas",
+            "id": "2221444126",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Eleftherios D. Polychronopoulos",
+            "id": "56925266",
+            "org": "University of Patras"
+        },
+        {
+            "name": "Theodore S. Papatheodorou",
+            "id": "615415263",
+            "org": "University of Patras"
+        }
+    ],
+    "fields_of_study": [
+        "Windows NT",
+        "Thread (computing)",
+        "Context switch",
+        "Parallel computing",
+        "Speedup",
+        "Computer architecture",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Multiprocessing",
+        "Runtime system",
+        "Programming paradigm"
+    ],
+    "references": [
+        "126905502",
+        "1969779639",
+        "2005002899",
+        "2131480648",
+        "2145021036",
+        "2312625945"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "100679602",
+    "title": "It's time for low latency",
+    "venue": "hot topics in operating systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Stephen M. Rumble",
+            "id": "2173961503",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Diego Ongaro",
+            "id": "2150307486",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Ryan Stutsman",
+            "id": "2003664910",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Mendel Rosenblum",
+            "id": "2102969555",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "John K. Ousterhout",
+            "id": "270493864",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Order of magnitude",
+        "Computer science",
+        "Ethernet",
+        "Latency (engineering)",
+        "Network interface",
+        "Central processing unit",
+        "Computer network",
+        "Real-time computing",
+        "Remote procedure call"
+    ],
+    "references": [
+        "1560511712",
+        "2049206342",
+        "2109664771",
+        "2144426378",
+        "2147118406",
+        "2150013559",
+        "2153704625",
+        "2154207621",
+        "2173213060",
+        "2624304035"
+    ]
+}

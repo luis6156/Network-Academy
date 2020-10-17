@@ -1,0 +1,51 @@
+{
+    "id": "1566729504",
+    "title": "The Omni OpenMP Compiler on the Distributed Shared Memory of Cenju-4",
+    "venue": "international workshop on openmp",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kazuhiro Kusano",
+            "id": "2689264563",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Real World Computing Partnership"
+        },
+        {
+            "name": "Takeo Hosomi",
+            "id": "2310425049",
+            "org": "C&C Media Research Laboratories"
+        },
+        {
+            "name": "Yoshiki Seo",
+            "id": "2131204223",
+            "org": "C&C Media Research Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Address space",
+        "Computer architecture",
+        "Pointer (computer programming)",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Global variable"
+    ],
+    "references": [
+        "1551889632",
+        "1606923681",
+        "1954824838",
+        "2079589754",
+        "2088915003",
+        "2129064252",
+        "2159145958"
+    ]
+}

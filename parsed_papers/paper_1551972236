@@ -1,0 +1,59 @@
+{
+    "id": "1551972236",
+    "title": "A log-scaling fault tolerant agreement algorithm for a fault tolerant MPI",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Joshua Hursey",
+            "id": "1513549892",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        },
+        {
+            "name": "Thomas Naughton",
+            "id": "714288059",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        },
+        {
+            "name": "Geoffroy Vallee",
+            "id": "1185661263",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        },
+        {
+            "name": "Richard L. Graham",
+            "id": "2239366155",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, TN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Algorithm",
+        "Commit",
+        "Computer science",
+        "Scaling",
+        "Distributed computing",
+        "Limiting factor",
+        "Software fault tolerance",
+        "General protection fault",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1568637577",
+        "1825216778",
+        "1953135125",
+        "2015747965",
+        "2033579026",
+        "2036641664",
+        "2070941848",
+        "2075854425",
+        "2083613288",
+        "2102637936",
+        "2106887953",
+        "2133943294",
+        "2143149536",
+        "2157664008",
+        "2165863720",
+        "2169379483"
+    ]
+}

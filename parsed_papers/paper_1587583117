@@ -1,0 +1,47 @@
+{
+    "id": "1587583117",
+    "title": "Improved Cryptanalysis of the Self-Shrinking Generator",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Erik Zenner",
+            "id": "2147784711",
+            "org": "University of Mannheim"
+        },
+        {
+            "name": "Matthias Krause",
+            "id": "2046237863",
+            "org": "University of Mannheim"
+        },
+        {
+            "name": "Stefan Lucks",
+            "id": "2810229488",
+            "org": "University of Mannheim"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Keystream",
+        "Cryptanalysis",
+        "Computer science",
+        "Stream cipher",
+        "Reconstruction algorithm",
+        "Backtracking",
+        "Shrinking generator",
+        "Key size"
+    ],
+    "references": [
+        "1486620998",
+        "1502664810",
+        "1531434127",
+        "1554090281",
+        "1579718734",
+        "1579796941",
+        "1590855138",
+        "1883752834",
+        "2162442687",
+        "2163846246"
+    ]
+}

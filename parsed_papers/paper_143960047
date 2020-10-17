@@ -1,0 +1,45 @@
+{
+    "id": "143960047",
+    "title": "Thread-local storage extension to support thread-based MPI/OpenMP applications",
+    "venue": "international workshop on openmp",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Patrick Carribault",
+            "id": "2798676322",
+            "org": "CEA, DAM, DIF, Arpajon, France#TAB#"
+        },
+        {
+            "name": "Marc Perache",
+            "id": "953794469",
+            "org": "CEA, DAM, DIF, Arpajon, France#TAB#"
+        },
+        {
+            "name": "Herve Jourdren",
+            "id": "2576872286",
+            "org": "CEA, DAM, DIF, Arpajon, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Runtime library",
+        "Parallel computing",
+        "Multi-core processor",
+        "Computer science",
+        "Parallel programming model",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Thread-local storage",
+        "Programming paradigm",
+        "Architecture"
+    ],
+    "references": [
+        "204746936",
+        "1502554142",
+        "1583784092",
+        "1602359794",
+        "1999752372",
+        "2105524676",
+        "2124341901"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1587502850",
+    "title": "Fail-Stop Threshold Signature Schemes Based on Elliptic Curves",
+    "venue": "australasian conference on information security and privacy",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Willy Susilo",
+            "id": "2114127059",
+            "org": "University of Wollongong"
+        },
+        {
+            "name": "Reihaneh Safavi-Naini",
+            "id": "1967715543",
+            "org": "University of Wollongong"
+        },
+        {
+            "name": "Josef Pieprzyk",
+            "id": "2081631084",
+            "org": "University of Wollongong"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Distributed computing",
+        "EdDSA",
+        "Digital signature",
+        "Schnorr signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1488721365",
+        "1553708830",
+        "1564775601",
+        "1579966008",
+        "1589205472",
+        "1590226992",
+        "1595153681",
+        "1913384000",
+        "1978269823",
+        "1983341988",
+        "2080137555",
+        "2091826091",
+        "2117420234",
+        "2141420453",
+        "2156186849"
+    ]
+}

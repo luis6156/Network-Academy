@@ -1,0 +1,49 @@
+{
+    "id": "1528722106",
+    "title": "Password-based group key exchange secure against insider guessing attacks",
+    "venue": "computational intelligence and security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jin Wook Byun",
+            "id": "2145550294",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2791883365",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Password cracking",
+        "Salt (cryptography)",
+        "Group key",
+        "Key exchange",
+        "Password strength",
+        "Computer science",
+        "Computer security",
+        "Password",
+        "Diffie-Hellman key exchange",
+        "Insider"
+    ],
+    "references": [
+        "203500824",
+        "1496418770",
+        "1510680610",
+        "1595293097",
+        "1786980832",
+        "1795601689",
+        "1837822405",
+        "1977251372",
+        "2026364737",
+        "2124371582",
+        "2124926080",
+        "2157604883"
+    ]
+}

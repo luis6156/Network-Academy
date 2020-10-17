@@ -1,0 +1,47 @@
+{
+    "id": "1560750067",
+    "title": "Rigid Point-Surface Registration Using an EM Variant of ICP for Computer Guided Oral Implantology",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sebastien Granger",
+            "id": "2694613177",
+            "org": "INRIA"
+        },
+        {
+            "name": "Xavier Pennec",
+            "id": "2261484064",
+            "org": "Epidaure Project, INRIA, Sophia Antipolis, France"
+        },
+        {
+            "name": "Alexis Roche",
+            "id": "2115864192",
+            "org": "Epidaure Project, INRIA, Sophia Antipolis, France"
+        }
+    ],
+    "fields_of_study": [
+        "Iterative closest point",
+        "Maximum likelihood",
+        "Mathematics",
+        "Random variable",
+        "Computer vision",
+        "Pattern recognition",
+        "Computation",
+        "Expectation-maximization algorithm",
+        "Mahalanobis distance",
+        "Mathematical optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526891024",
+        "1866294549",
+        "1969499601",
+        "1980101660",
+        "2011549544",
+        "2049981393",
+        "2118104180",
+        "2121894025",
+        "2165053603"
+    ]
+}

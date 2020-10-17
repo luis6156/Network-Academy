@@ -1,0 +1,51 @@
+{
+    "id": "1665560634",
+    "title": "Visualizing application behavior on superscalar processors",
+    "venue": "ieee symposium on information visualization",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Chris Stolte",
+            "id": "2112794371",
+            "org": "Dept. of Comput. Sci., Stanford Univ., CA, USA"
+        },
+        {
+            "name": "Robert Bosch",
+            "id": "2305688220",
+            "org": "Computer Science Department|Stanford University"
+        },
+        {
+            "name": "Pat Hanrahan",
+            "id": "2225733586",
+            "org": "Computer Science Department|Stanford University"
+        },
+        {
+            "name": "Mendel Rosenblum",
+            "id": "2102969555",
+            "org": "Computer Science Department|Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Root cause",
+        "Computer architecture",
+        "Source code",
+        "Computer science",
+        "Out-of-order execution",
+        "Application software",
+        "Visualization",
+        "MMIX",
+        "Drill down",
+        "Real-time computing",
+        "Region of interest"
+    ],
+    "references": [
+        "1555915743",
+        "1566135320",
+        "2049507596",
+        "2077615298",
+        "2112833506",
+        "2138199375",
+        "2148856720",
+        "2150231504"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1554383491",
+    "title": "An edit distance between RNA stem-loops",
+    "venue": "string processing and information retrieval",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Valentin Guignon",
+            "id": "2779750662",
+            "org": "Programme de Bioinformatique, Universite de Montreal, Montreal, (QC), Canada#TAB#"
+        },
+        {
+            "name": "Cedric Chauve",
+            "id": "2003550458",
+            "org": "LaCIM, Departement d'Informatique, Universite du Quebec a Montreal, Montreal, (QC), Canada#TAB#"
+        },
+        {
+            "name": "Sylvie Hamel",
+            "id": "2280269491",
+            "org": "LBIT, DIRO, Universite de Montreal, Montreal, (QC), Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Damerau-Levenshtein distance",
+        "Discrete mathematics",
+        "Jaro-Winkler distance",
+        "Combinatorics",
+        "Stem-loop",
+        "String-to-string correction problem",
+        "Wagner-Fischer algorithm",
+        "RNA",
+        "Edit distance"
+    ],
+    "references": [
+        "1976373002",
+        "1990061958",
+        "2001583934",
+        "2008288996",
+        "2088528526",
+        "2103250001",
+        "2112937295",
+        "2134861301"
+    ]
+}

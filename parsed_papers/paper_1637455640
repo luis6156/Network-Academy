@@ -1,0 +1,45 @@
+{
+    "id": "1637455640",
+    "title": "A Parallel Adaptive Gauss-Jordan Algorithm",
+    "venue": "The Journal of Supercomputing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Nouredine Melab",
+            "id": "871378146",
+            "org": "Laboratoire d'Informatique du Littoral, Universite du Littoral, BP 719, 3, rue Louis David, 62228, Calais Cedex, France melab@lil.univ-littoral.fr#TAB#"
+        },
+        {
+            "name": "El-Ghazali Talbi",
+            "id": "2285658467",
+            "org": "Laboratoire d'Informatique Fondamentale de Lille (LIFL-CNRS URA 369), Universite des Sciences et Technologies de Lille, 59655 Villeneuve d'Ascq cedex, France [email protected]#TAB#"
+        },
+        {
+            "name": "Serge G. Petiton",
+            "id": "363111019",
+            "org": "Laboratoire d'Informatique Fondamentale de Lille (LIFL-CNRS URA 369), Universite des Sciences et Technologies de Lille, 59655 Villeneuve d'Ascq cedex, France [email protected]#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Matrix (mathematics)",
+        "Fault tolerance",
+        "Out-of-core algorithm",
+        "Workload",
+        "Gaussian elimination",
+        "Ethernet",
+        "Workstation"
+    ],
+    "references": [
+        "22448193",
+        "1589122423",
+        "1607984410",
+        "1770291975",
+        "2100970777",
+        "2165989201"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "1593690673",
+    "title": "Directed proof generation for machine code",
+    "venue": "computer aided verification",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Aditya V. Thakur",
+            "id": "2167711074",
+            "org": "University of Wisconsin, Madison, WI#TAB#"
+        },
+        {
+            "name": "Junghee Lim",
+            "id": "2116310923",
+            "org": "University of Wisconsin, Madison, WI#TAB#"
+        },
+        {
+            "name": "Akash Lal",
+            "id": "2123176980",
+            "org": "Microsoft Research India, Bangalore, India#TAB#"
+        },
+        {
+            "name": "Amanda Burton",
+            "id": "2158005330",
+            "org": "University of Wisconsin, Madison, WI#TAB#"
+        },
+        {
+            "name": "Evan Driscoll",
+            "id": "2102831791",
+            "org": "University of Wisconsin, Madison, WI#TAB#"
+        },
+        {
+            "name": "Matt Elder",
+            "id": "1995280375",
+            "org": "University of Wisconsin, Madison, WI#TAB#"
+        },
+        {
+            "name": "Tycho Andersen",
+            "id": "2127765888",
+            "org": "University of Wisconsin, Madison, WI#TAB#"
+        },
+        {
+            "name": "Thomas W. Reps",
+            "id": "341386833",
+            "org": "University of Wisconsin, Madison, WI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Local variable",
+        "High-level verification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Functional verification",
+        "Source code",
+        "Computer science",
+        "Symbolic execution",
+        "Machine code",
+        "Model checking",
+        "Software verification"
+    ],
+    "references": [
+        "109951691",
+        "157156687",
+        "1487950530",
+        "1505465226",
+        "1515180657",
+        "1525445889",
+        "1535237014",
+        "1556566737",
+        "1579850852",
+        "1582482241",
+        "1586668623",
+        "1589224558",
+        "1775362121",
+        "1820380186",
+        "1903577715",
+        "1905205673",
+        "1972429847",
+        "1974583144",
+        "1991504773",
+        "2061117785",
+        "2092507068",
+        "2096449544",
+        "2107794009",
+        "2110908283",
+        "2112460268",
+        "2112481005",
+        "2126301692",
+        "2131886132",
+        "2134875273",
+        "2139498310",
+        "2141097255",
+        "2160520283",
+        "2166462894",
+        "2194223632",
+        "2293685560",
+        "2294635730",
+        "2295903414",
+        "2397396911",
+        "2693104213"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1582387102",
+    "title": "Symbolic model checking of concurrent programs using partial orders and on-the-fly transactions",
+    "venue": "computer aided verification",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Vineet Kahlon",
+            "id": "128685082",
+            "org": "NEC Laboratories America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Aarti Gupta",
+            "id": "2129619966",
+            "org": "NEC Laboratories America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Nishant Sinha",
+            "id": "2101332223",
+            "org": "Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Context switch",
+        "Theoretical computer science",
+        "Algorithm",
+        "restrict",
+        "Computer science",
+        "State space",
+        "Constraint satisfaction",
+        "Lock (computer science)",
+        "Symbolic trajectory evaluation",
+        "Concurrency",
+        "Model checking",
+        "Real-time computing"
+    ],
+    "references": [
+        "106387794",
+        "119826366",
+        "298244054",
+        "1505597832",
+        "1539345619",
+        "1567536133",
+        "1568729458",
+        "1782479956",
+        "1787074469",
+        "1973954352",
+        "2065675749",
+        "2087771409",
+        "2088586972",
+        "2109337044",
+        "2123136077",
+        "2125165081",
+        "2169870841"
+    ]
+}

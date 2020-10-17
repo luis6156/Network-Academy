@@ -1,0 +1,50 @@
+{
+    "id": "1599507069",
+    "title": "Parallel graph partitioning on multicore architectures",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Xin Sui",
+            "id": "1987061521",
+            "org": "Department of Computer Science, University of Texas, Austin#TAB#"
+        },
+        {
+            "name": "Donald Nguyen",
+            "id": "2117418265",
+            "org": "Department of Computer Science, University of Texas, Austin#TAB#"
+        },
+        {
+            "name": "Martin Burtscher",
+            "id": "2467734633",
+            "org": "Department of Computer Science, Texas State University, San Marcos#TAB#"
+        },
+        {
+            "name": "Keshav Pingali",
+            "id": "651843436",
+            "org": "Department of Computer Science, University of Texas, Austin and Institute for Computational Engineering and Sciences, University of Texas, Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Speedup",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Metis",
+        "Graph partition",
+        "Implementation",
+        "Runtime system"
+    ],
+    "references": [
+        "1484151559",
+        "1975464357",
+        "2035080386",
+        "2070232376",
+        "2097717378",
+        "2112629511"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1575958859",
+    "title": "A Lisp Compiler for FP Language and Its Proof via Algebraic Semantics",
+    "venue": "colloquium on trees in algebra and programming",
+    "year": 1985,
+    "authors": [
+        {
+            "name": "Christine Choppy",
+            "id": "125011739",
+            "org": "Universite de Paris-Sud"
+        },
+        {
+            "name": "G. Guiho",
+            "id": "2633271882",
+            "org": "Universite de Paris-Sud"
+        },
+        {
+            "name": "Stephane Kaplan",
+            "id": "2125309699",
+            "org": "Universite de Paris-Sud"
+        }
+    ],
+    "fields_of_study": [
+        "Interpreter",
+        "Algorithm",
+        "Fexpr",
+        "Compiler",
+        "Functional compiler",
+        "Computer science",
+        "Bootstrapping (compilers)",
+        "Compiler correctness",
+        "Preprocessor",
+        "Lisp",
+        "Programming language"
+    ],
+    "references": [
+        "1580284702",
+        "1963912067",
+        "2015477722",
+        "2021173362",
+        "2073202004",
+        "2105672120",
+        "2134338128",
+        "2148943323"
+    ]
+}

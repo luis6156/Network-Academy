@@ -1,0 +1,37 @@
+{
+    "id": "1737078565",
+    "title": "Reducing the Elliptic Curve Cryptosystem of Meyer-Mullerto the Cryptosystem of Rabin-Williams",
+    "venue": "Designs, Codes and Cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "UCL Crypto Group, Dep. de Mathematique, Universite de Louvain, Chemin du Cyclotron 2, B-1348 Louvain-la-Neuve, Belgium. E-mail: joye@agel.ucl.ac.be#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Dep. d'Electricite, Universite de Louvain, Place du Levant 3, B-1348 Louvain-la-Neuve, Belgium. E-mail: jjq@dice.ucl.ac.be#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Benaloh cryptosystem",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Cryptosystem",
+        "Goldwasser-Micali cryptosystem",
+        "Paillier cryptosystem",
+        "Elliptic curve"
+    ],
+    "references": [
+        "36827820",
+        "1557014463",
+        "1749471906",
+        "1996360405",
+        "2168581558"
+    ]
+}

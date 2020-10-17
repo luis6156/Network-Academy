@@ -1,0 +1,58 @@
+{
+    "id": "1482555626",
+    "title": "Fast rendering of complex environments using a spatial hierarchy",
+    "venue": "graphics interface",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Bradford L. Chamberlain",
+            "id": "2156443786",
+            "org": "University of Washington|Microsoft Research"
+        },
+        {
+            "name": "Tony DeRose",
+            "id": "2021725281",
+            "org": "University of Washington|Microsoft Research"
+        },
+        {
+            "name": "Dani Lischinski",
+            "id": "258463261",
+            "org": "University of Washington|Microsoft Research"
+        },
+        {
+            "name": "David Salesin",
+            "id": "2054111979",
+            "org": "University of Washington|Microsoft Research"
+        },
+        {
+            "name": "John Snyder",
+            "id": "2109508363",
+            "org": "University of Washington|Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse voxel octree",
+        "3D rendering",
+        "Computer vision",
+        "Octree",
+        "Rendering (computer graphics)",
+        "Tree traversal",
+        "Computer science",
+        "Geometric primitive",
+        "Hierarchy",
+        "Level of detail",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1561797603",
+        "1982473539",
+        "2051314392",
+        "2060134923",
+        "2067166017",
+        "2067288944",
+        "2098362450",
+        "2100087065",
+        "2109862258",
+        "2111169574"
+    ]
+}

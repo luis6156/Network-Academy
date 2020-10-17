@@ -1,0 +1,55 @@
+{
+    "id": "1585350690",
+    "title": "Applying parallel design techniques to template matching with GPUs",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Robert Finis Anderson",
+            "id": "2607546613",
+            "org": "University of Texas at Dallas, Richardson, TX#TAB#"
+        },
+        {
+            "name": "J. Steven Kirtzic",
+            "id": "730870641",
+            "org": "University of Texas at Dallas, Richardson, TX#TAB#"
+        },
+        {
+            "name": "Ovidiu Daescu",
+            "id": "114476605",
+            "org": "University of Texas at Dallas, Richardson, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Template matching",
+        "SIMD",
+        "Speedup",
+        "Theoretical computer science",
+        "Algorithm design",
+        "Computer science",
+        "Data parallelism",
+        "Shared memory",
+        "Central processing unit",
+        "Architecture"
+    ],
+    "references": [
+        "1596990409",
+        "1967810725",
+        "1982753412",
+        "1999360130",
+        "2030283129",
+        "2090267299",
+        "2098836301",
+        "2113341759",
+        "2136162648",
+        "2137277421",
+        "2137845512",
+        "2141109916",
+        "2142509031",
+        "2150137371",
+        "2166946851",
+        "2169150396",
+        "2295862081"
+    ]
+}

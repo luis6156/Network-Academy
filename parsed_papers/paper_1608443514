@@ -1,0 +1,44 @@
+{
+    "id": "1608443514",
+    "title": "An object server for an object-oriented database system",
+    "venue": "OODS '86 Proceedings on the 1986 international workshop on Object-oriented database systems",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Andrea H. Skarra",
+            "id": "334006030",
+            "org": "Brown University, Department of Computer Science, Providence, RI#TAB#"
+        },
+        {
+            "name": "Stanley B. Zdonik",
+            "id": "431165649",
+            "org": "Brown University, Department of Computer Science, Providence, RI#TAB#"
+        },
+        {
+            "name": "Stephen P. Reiss",
+            "id": "2148082413",
+            "org": "Brown University, Department of Computer Science, Providence, RI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Object-oriented programming",
+        "Computer science",
+        "Distributed computing",
+        "Sketch",
+        "Log shipping",
+        "Database",
+        "Database server"
+    ],
+    "references": [
+        "138900123",
+        "238230001",
+        "1770006921",
+        "2027750453",
+        "2029406036",
+        "2122789628",
+        "2130474477",
+        "2611598995",
+        "2679550562"
+    ]
+}

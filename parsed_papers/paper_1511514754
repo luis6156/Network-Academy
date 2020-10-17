@@ -1,0 +1,60 @@
+{
+    "id": "1511514754",
+    "title": "Randomness Extraction and Key Derivation Using the CBC, Cascade and HMAC Modes [?]",
+    "venue": "international cryptology conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yevgeniy Dodis",
+            "id": "1259442811",
+            "org": "New York University"
+        },
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Johan Hastad",
+            "id": "855633617",
+            "org": "Royal Institute"
+        },
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2894508521",
+            "org": "Technion, Israel, and IBM Research"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "IBM Research"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Pseudorandom number generator",
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Key derivation function",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Key (cryptography)",
+        "Random number generation",
+        "Hash function",
+        "Pseudorandom generator"
+    ],
+    "references": [
+        "1488916099",
+        "1506423323",
+        "1519080809",
+        "1549228503",
+        "1949661937",
+        "1981670729",
+        "1985623009",
+        "2052207834",
+        "2122984309",
+        "2131300413",
+        "2148555789",
+        "2162869211"
+    ]
+}

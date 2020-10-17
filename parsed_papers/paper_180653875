@@ -1,0 +1,49 @@
+{
+    "id": "180653875",
+    "title": "Leveraging bittorrent for end host measurements",
+    "venue": "passive and active network measurement",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Tomas Isdal",
+            "id": "253815328",
+            "org": "Department of Computer Science and Engineering, University of Washington, Seattle, WA#TAB#"
+        },
+        {
+            "name": "Michael Piatek",
+            "id": "2086489726",
+            "org": "Department of Computer Science and Engineering, University of Washington, Seattle, WA#TAB#"
+        },
+        {
+            "name": "Arvind Krishnamurthy",
+            "id": "2088689873",
+            "org": "Department of Computer Science and Engineering, University of Washington, Seattle, WA#TAB#"
+        },
+        {
+            "name": "Thomas E. Anderson",
+            "id": "2148869393",
+            "org": "Department of Computer Science and Engineering, University of Washington, Seattle, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Computer science",
+        "Latency (engineering)",
+        "BitTorrent",
+        "Network packet",
+        "Intrusion detection system",
+        "Spite",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "151129402",
+        "1542881316",
+        "1558573344",
+        "2098421656",
+        "2123491545",
+        "2144553078",
+        "2146491632",
+        "2165299102"
+    ]
+}

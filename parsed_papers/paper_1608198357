@@ -1,0 +1,55 @@
+{
+    "id": "1608198357",
+    "title": "Efficient parallel algorithms for shortest paths in planar graphs",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Grammati E. Pantziou",
+            "id": "522377605",
+            "org": "Computer Technology Institute, Patras, Greece"
+        },
+        {
+            "name": "Paul G. Spirakis",
+            "id": "2095693323",
+            "org": "Computer Technology Institute, Patras, Greece"
+        },
+        {
+            "name": "Christos D. Zaroliagis",
+            "id": "129981219",
+            "org": "Computer Technology Institute, Patras, Greece"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Path (graph theory)",
+        "Planar straight-line graph",
+        "Yen's algorithm",
+        "Discrete mathematics",
+        "Floyd-Warshall algorithm",
+        "Combinatorics",
+        "Johnson's algorithm",
+        "Distance",
+        "K shortest path routing",
+        "Shortest Path Faster Algorithm"
+    ],
+    "references": [
+        "1545671234",
+        "1594925095",
+        "1965874601",
+        "2007572995",
+        "2028341270",
+        "2029342163",
+        "2033177550",
+        "2040444410",
+        "2063048655",
+        "2065759448",
+        "2067661972",
+        "2084224084",
+        "2104734478",
+        "2105114849",
+        "2144970024",
+        "2148686552",
+        "2169102947"
+    ]
+}

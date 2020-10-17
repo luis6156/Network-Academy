@@ -1,0 +1,54 @@
+{
+    "id": "1517933564",
+    "title": "An All-Software Thread-Level Data Dependence Speculation System for Multiprocessors",
+    "venue": "Journal of Instruction-level Parallelism",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Peter Rundberg",
+            "id": "339002370",
+            "org": "Department of Computer Engineering|Chalmers University of Technology"
+        },
+        {
+            "name": "Per Stenstrom",
+            "id": "2008392143",
+            "org": "Department of Computer Engineering|Chalmers University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Speedup",
+        "Speculation",
+        "Software",
+        "Commit",
+        "Computer science",
+        "Compiler",
+        "Multiprocessing",
+        "Speculative multithreading",
+        "Real-time computing"
+    ],
+    "references": [
+        "1555915743",
+        "1733564367",
+        "1920053666",
+        "1920457490",
+        "1958945689",
+        "1975551420",
+        "1980999196",
+        "2002549773",
+        "2018069366",
+        "2029479717",
+        "2078429521",
+        "2103224933",
+        "2106018697",
+        "2108200978",
+        "2120518487",
+        "2127218465",
+        "2141318181",
+        "2148255965",
+        "2150547581",
+        "2161943885",
+        "2163488221"
+    ]
+}

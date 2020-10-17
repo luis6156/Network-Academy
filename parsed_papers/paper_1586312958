@@ -1,0 +1,44 @@
+{
+    "id": "1586312958",
+    "title": "Exploiting Branch Constraints without Exhaustive Path Enumeration",
+    "venue": "worst case execution time analysis",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ting Chen",
+            "id": "2440496856",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Tulika Mitra",
+            "id": "2148980456",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Abhik Roychoudhury",
+            "id": "2153766775",
+            "org": "National University of Singapore"
+        },
+        {
+            "name": "Vivy Suhendra",
+            "id": "2160971895",
+            "org": "National University of Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Worst-case execution time",
+        "Parallel computing",
+        "Enumeration",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Exploit",
+        "Real-time computing"
+    ],
+    "references": [
+        "2015509025",
+        "2108869959",
+        "2138952175"
+    ]
+}

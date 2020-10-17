@@ -1,0 +1,70 @@
+{
+    "id": "150835568",
+    "title": "Parallelizing the Data Cube",
+    "venue": "Distributed and Parallel Databases",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Frank K. H. A. Dehne",
+            "id": "217248495",
+            "org": "School of Computer Science, Carleton University, Ottawa, Canada K1S 5B6. [email protected], www.dehne.net#TAB#"
+        },
+        {
+            "name": "Todd Eavis",
+            "id": "2778883170",
+            "org": "Faculty of Computer Science, Dalhousie University, Halifax, Canada B3H 1W5. eavis@cs.dal.ca#TAB#"
+        },
+        {
+            "name": "Susanne E. Hambrusch",
+            "id": "2133492747",
+            "org": "Department of Computer Science, Purdue University, West Lafayette, IN 47907, USA. seh@cs.purdue.edu, www.cs.purdue.edu/people/seh#TAB#"
+        },
+        {
+            "name": "Andrew Rau-Chaplin",
+            "id": "328209889",
+            "org": "Faculty of Computer Science, Dalhousie University, Halifax, Canada B3H 1W5. [email protected], www.cs.dal.ca/&thksim;arc#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Parallel computing",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "sort",
+        "Message Passing Interface",
+        "Message passing",
+        "Cube",
+        "Disk array",
+        "Data cube"
+    ],
+    "references": [
+        "144943406",
+        "1514949376",
+        "1522055873",
+        "1593114637",
+        "1640663027",
+        "1793564634",
+        "1971764118",
+        "1977338887",
+        "1981982305",
+        "1992628046",
+        "2008157929",
+        "2015326607",
+        "2025051251",
+        "2041327854",
+        "2044240774",
+        "2049545158",
+        "2075136957",
+        "2092103580",
+        "2100435687",
+        "2103201239",
+        "2104813727",
+        "2115171349",
+        "2117489852",
+        "2121653690",
+        "2143401113",
+        "2153225323",
+        "2161461059"
+    ]
+}

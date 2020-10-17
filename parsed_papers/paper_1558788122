@@ -1,0 +1,72 @@
+{
+    "id": "1558788122",
+    "title": "Parsing to Stanford Dependencies: Trade-offs between Speed and Accuracy.",
+    "venue": "language resources and evaluation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daniel M. Cer",
+            "id": "2164167138",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Marie-Catherine de Marneffe",
+            "id": "710824487",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Daniel Jurafsky",
+            "id": "2089131864",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Christopher D. Manning",
+            "id": "2149153931",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Machine learning",
+        "Treebank",
+        "Parser combinator",
+        "Computer science",
+        "Memoization",
+        "Bottom-up parsing",
+        "Parsing",
+        "Top-down parsing",
+        "Speech recognition",
+        "Dependency grammar",
+        "Phrase structure rules",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "49340615",
+        "1493490255",
+        "1508977358",
+        "1535015163",
+        "1591659308",
+        "1606556278",
+        "1648311451",
+        "1741471566",
+        "1992148462",
+        "1996430422",
+        "2022009488",
+        "2051302069",
+        "2052449326",
+        "2075655036",
+        "2094061585",
+        "2096489769",
+        "2097606805",
+        "2115936127",
+        "2122922578",
+        "2125712079",
+        "2127978399",
+        "2133998064",
+        "2139596890",
+        "2139621418",
+        "2140526624",
+        "2153383890",
+        "2162376067"
+    ]
+}

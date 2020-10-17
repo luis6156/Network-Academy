@@ -1,0 +1,45 @@
+{
+    "id": "1565128838",
+    "title": "Threshold decryption and zero-knowledge proofs for lattice-based cryptosystems",
+    "venue": "theory of cryptography conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rikke Bendlin",
+            "id": "2087899957",
+            "org": "Department of Computer Science, Aarhus University#TAB#"
+        },
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "Department of Computer Science, Aarhus University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Threshold cryptosystem",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Cryptosystem",
+        "Goldwasser-Micali cryptosystem",
+        "Ciphertext",
+        "Commitment scheme",
+        "Semantic security",
+        "Hybrid cryptosystem",
+        "Lattice problem"
+    ],
+    "references": [
+        "48039395",
+        "1499934958",
+        "1761303171",
+        "1980227445",
+        "2058785578",
+        "2061949491",
+        "2080975816",
+        "2121640981",
+        "2127072370",
+        "2141420453",
+        "2147436724",
+        "2167236842"
+    ]
+}

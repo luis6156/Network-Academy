@@ -1,0 +1,62 @@
+{
+    "id": "1748522975",
+    "title": "On measurable side-channel leaks inside ASIC design primitives",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Takeshi Sugawara",
+            "id": "2305502889",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Daisuke Suzuki",
+            "id": "2229860552",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Minoru Saeki",
+            "id": "2091917567",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Mitsuru Shiozaki",
+            "id": "2064782992",
+            "org": "Ritsumeikan University, Japan#TAB#"
+        },
+        {
+            "name": "Takeshi Fujino",
+            "id": "2096378404",
+            "org": "Ritsumeikan University, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Leak",
+        "Parallel computing",
+        "Side channel attack",
+        "Standard cell",
+        "Countermeasure",
+        "Chip",
+        "Computer science",
+        "Memory address",
+        "Embedded system",
+        "Static random-access memory",
+        "Application-specific integrated circuit",
+        "Real-time computing"
+    ],
+    "references": [
+        "7685012",
+        "1483831648",
+        "1532559214",
+        "1540392439",
+        "1584807987",
+        "1594464909",
+        "1994168451",
+        "2009393344",
+        "2107377972",
+        "2144630005",
+        "2154909745",
+        "2163432699",
+        "2165637947"
+    ]
+}

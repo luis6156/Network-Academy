@@ -1,0 +1,50 @@
+{
+    "id": "1603161560",
+    "title": "Does secure time-stamping imply collision-free hash functions?",
+    "venue": "provable security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ahto Buldas",
+            "id": "287036867",
+            "org": "Cybernetica, Tallinn, Estonia and Tallinn University of Technology, Tallinn, Estonia and University of Tartu, Tartu, Estonia#TAB#"
+        },
+        {
+            "name": "Aivo Jurgenson",
+            "id": "2074301566",
+            "org": "Tallinn University of Technology, Tallinn, Estonia and Elion Enterprises Ltd., Tallinn, Estonia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Secure Hash Standard",
+        "Theoretical computer science",
+        "SHA-2",
+        "Distributed computing",
+        "Hash buster",
+        "Hash chain",
+        "Secure Hash Algorithm",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing"
+    ],
+    "references": [
+        "122805432",
+        "1499074627",
+        "1533979572",
+        "1548130906",
+        "1567888865",
+        "1587382781",
+        "1590269592",
+        "1625658248",
+        "1656731780",
+        "1993716793",
+        "2004881597",
+        "2005725110",
+        "2103239853",
+        "2131212920",
+        "2155299787",
+        "2611392607",
+        "2611506938"
+    ]
+}

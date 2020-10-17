@@ -1,0 +1,56 @@
+{
+    "id": "1535644492",
+    "title": "Ad hoc star join query processing in cluster architectures",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Josep Aguilar-saborit",
+            "id": "157654181",
+            "org": "Computer Architecture Department, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Victor Muntes-Mulero",
+            "id": "269041426",
+            "org": "Computer Architecture Department, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        },
+        {
+            "name": "Calisto Zuzarte",
+            "id": "2139751229",
+            "org": "IBM Toronto Lab., Markham, ON, Canada#TAB#"
+        },
+        {
+            "name": "Josep-lluis Larriba-pey",
+            "id": "2105659415",
+            "org": "Computer Architecture Department, Universitat Politecnica de Catalunya, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Data mining",
+        "Hash join",
+        "Database",
+        "Star schema",
+        "Query plan",
+        "Joins",
+        "Data structure",
+        "Fact table",
+        "Data warehouse"
+    ],
+    "references": [
+        "1507617809",
+        "1952220400",
+        "1982945449",
+        "1994573527",
+        "1997020216",
+        "2043934800",
+        "2054170837",
+        "2072764742",
+        "2111967617",
+        "2123845384",
+        "2140646908",
+        "2153485419",
+        "2285725925"
+    ]
+}

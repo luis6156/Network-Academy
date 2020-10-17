@@ -1,0 +1,35 @@
+{
+    "id": "1581666899",
+    "title": "Idea: Automatic Security Testing for Web Applications",
+    "venue": "engineering secure software and systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Thanh-Binh Dao",
+            "id": "2332255865",
+            "org": "Dept. of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Etsuya Shibayama",
+            "id": "2288040265",
+            "org": "Information Technology Center, The University of Tokyo, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Test data",
+        "Computer science",
+        "Test data generation",
+        "Web application security",
+        "Computer security",
+        "Manual testing",
+        "Secure coding",
+        "Code coverage",
+        "SQL injection",
+        "Security testing"
+    ],
+    "references": [
+        "1511560695",
+        "2001693166",
+        "2111742136"
+    ]
+}

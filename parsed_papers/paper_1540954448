@@ -1,0 +1,48 @@
+{
+    "id": "1540954448",
+    "title": "Adaptive Parallelism for OpenMP Task Parallel Programs",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Alex Scherer",
+            "id": "2234247722",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Thomas R. Gross",
+            "id": "2764078041",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Willy Zwaenepoel",
+            "id": "2290999210",
+            "org": "Rice University"
+        }
+    ],
+    "fields_of_study": [
+        "Idle",
+        "Parallel computing",
+        "Process state",
+        "Computation",
+        "Multi-user",
+        "Data parallelism",
+        "Distributed computing",
+        "Garbage collection",
+        "Computer science",
+        "Task parallelism",
+        "Optimizing compiler",
+        "Real-time computing"
+    ],
+    "references": [
+        "1517343420",
+        "1541631323",
+        "2046920165",
+        "2086794688",
+        "2107050493",
+        "2129064252",
+        "2138180780",
+        "2141688512",
+        "2152788758"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "1429241971",
+    "title": "Control-flow bending: on the effectiveness of control-flow integrity",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Nicholas Carlini",
+            "id": "1606335232",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Antonio Barresi",
+            "id": "2104193114",
+            "org": "ETH Zurich#TAB#"
+        },
+        {
+            "name": "Mathias Payer",
+            "id": "2305760116",
+            "org": "Purdue University#TAB#"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Thomas R. Gross",
+            "id": "2112219004",
+            "org": "ETH Zurich#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow",
+        "Vulnerability",
+        "Computer science",
+        "Control-flow integrity",
+        "Implementation",
+        "Computer security",
+        "Memory corruption",
+        "Internet privacy",
+        "Arbitrary code execution"
+    ],
+    "references": [
+        "1112477",
+        "70478248",
+        "1477563924",
+        "1563300346",
+        "1631846088",
+        "1655226010",
+        "1748464847",
+        "1823377586",
+        "1825457006",
+        "1968002620",
+        "1969501726",
+        "1989060313",
+        "1993736952",
+        "1996931407",
+        "2015083179",
+        "2022292029",
+        "2062340141",
+        "2074943483",
+        "2081768685",
+        "2087191048",
+        "2098806455",
+        "2105842205",
+        "2109219878",
+        "2114030344",
+        "2117798902",
+        "2121579803",
+        "2122757982",
+        "2123436168",
+        "2124360577",
+        "2131821445",
+        "2133592286",
+        "2138517425",
+        "2148686658",
+        "2155851497",
+        "2159216827",
+        "2162800072",
+        "2397986719"
+    ]
+}

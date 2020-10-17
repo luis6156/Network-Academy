@@ -1,0 +1,54 @@
+{
+    "id": "1530959454",
+    "title": "Formal verification of coalescing graph-coloring register allocation",
+    "venue": "european symposium on programming",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sandrine Blazy",
+            "id": "2618548387",
+            "org": "IRISA - Universite Rennes 1#TAB#"
+        },
+        {
+            "name": "Benoit Robillard",
+            "id": "1976539611",
+            "org": "CEDRIC - ENSIIE#TAB#"
+        },
+        {
+            "name": "Andrew W. Appel",
+            "id": "2120329599",
+            "org": "Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Chordal graph",
+        "Formal verification",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Computer science",
+        "Caml",
+        "Compiler",
+        "Implementation",
+        "Register allocation",
+        "Graph coloring",
+        "Correctness",
+        "Programming language"
+    ],
+    "references": [
+        "1494199306",
+        "1499965630",
+        "1552921094",
+        "1556566737",
+        "1578075389",
+        "1579150457",
+        "1594381772",
+        "1717757824",
+        "2044636417",
+        "2059758866",
+        "2129695855",
+        "2131150448",
+        "2142550124",
+        "2160633550",
+        "2167822297"
+    ]
+}

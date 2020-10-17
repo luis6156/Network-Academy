@@ -1,0 +1,44 @@
+{
+    "id": "154649636",
+    "title": "Hartigan's K-means versus Lloyd's K-means: is it time for a change?",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Noam Slonim",
+            "id": "680292426",
+            "org": "IBM Haifa Research Lab, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Ehud Aharoni",
+            "id": "2051566845",
+            "org": "IBM Haifa Research Lab, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Koby Crammer",
+            "id": "2239053892",
+            "org": "Dept. Elec. Engineering, The Technion, Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Partition (number theory)",
+        "k-means clustering",
+        "Maxima and minima",
+        "Bregman divergence",
+        "Cluster analysis",
+        "Heuristic",
+        "Lloyd's algorithm",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1611682757",
+        "1916116059",
+        "2010425028",
+        "2033387072",
+        "2096765209",
+        "2110400879",
+        "2120887445",
+        "2150593711"
+    ]
+}

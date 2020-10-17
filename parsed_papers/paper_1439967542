@@ -1,0 +1,71 @@
+{
+    "id": "1439967542",
+    "title": "All your biases belong to us: breaking RC4 in WPA-TKIP and TLS",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Mathy Vanhoef",
+            "id": "2077495110",
+            "org": "KU Leuven#TAB#"
+        },
+        {
+            "name": "Frank Piessens",
+            "id": "233250515",
+            "org": "KU Leuven#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Transport Layer Security",
+        "Keystream",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Network packet",
+        "RC4",
+        "Temporal Key Integrity Protocol",
+        "Internet privacy",
+        "Plaintext"
+    ],
+    "references": [
+        "38939213",
+        "39401898",
+        "181628467",
+        "1120573609",
+        "1427983509",
+        "1495368944",
+        "1500414598",
+        "1533182289",
+        "1556597491",
+        "1566979565",
+        "1589335325",
+        "1608372408",
+        "1789460706",
+        "1802872314",
+        "1815744145",
+        "1835780626",
+        "1966819490",
+        "1969467786",
+        "1975344666",
+        "2023397252",
+        "2036520688",
+        "2052366538",
+        "2077099041",
+        "2079117167",
+        "2095489381",
+        "2101678831",
+        "2114197583",
+        "2129630219",
+        "2139985879",
+        "2142009997",
+        "2142081526",
+        "2144724363",
+        "2149072083",
+        "2149237395",
+        "2158739533",
+        "2160609613",
+        "2163005041",
+        "2291769357"
+    ]
+}

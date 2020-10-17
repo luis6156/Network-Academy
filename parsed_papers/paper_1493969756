@@ -1,0 +1,35 @@
+{
+    "id": "1493969756",
+    "title": "Collision free hash functions and public key signature schemes",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "Aarhus University, Inst. of Math., Ny Munkegade, Aarhus C, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "SHA-2",
+        "Discrete mathematics",
+        "Computer science",
+        "Hash chain",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "SWIFFT",
+        "Hash function",
+        "Merkle signature scheme",
+        "Collision resistance"
+    ],
+    "references": [
+        "1512372863",
+        "1541421768",
+        "1543503103",
+        "2099188893",
+        "2151413173",
+        "2164284862",
+        "2166457424"
+    ]
+}

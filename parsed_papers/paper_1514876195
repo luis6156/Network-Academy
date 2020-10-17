@@ -1,0 +1,49 @@
+{
+    "id": "1514876195",
+    "title": "Fast Approximation of Support Vector Kernel Expansions, and an Interpretation of Clustering as Approximation in Feature Spaces",
+    "venue": "Mustererkennung 1998, 20. DAGM-Symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Bernhard Scholkopf",
+            "id": "297432538",
+            "org": "Department Empirical Inference, Max Planck Institute for Biological Cybernetics, Max Planck Society"
+        },
+        {
+            "name": "Alexander J. Smola",
+            "id": "1972291593",
+            "org": "GMD FIRST"
+        },
+        {
+            "name": "Phil Knirsch",
+            "id": "2544302491",
+            "org": "Department Human Perception, Cognition and Action, Max Planck Institute for Biological Cybernetics, Max Planck Society"
+        },
+        {
+            "name": "Christopher J. C. Burges",
+            "id": "2599687992",
+            "org": "Lucent Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Kernel principal component analysis",
+        "String kernel",
+        "Kernel embedding of distributions",
+        "Kernel method",
+        "Variable kernel density estimation",
+        "Polynomial kernel",
+        "Radial basis function kernel",
+        "Mathematical optimization",
+        "Tree kernel"
+    ],
+    "references": [
+        "26816478",
+        "854322902",
+        "2055522016",
+        "2087347434",
+        "2137235295",
+        "2140095548",
+        "2147800946"
+    ]
+}

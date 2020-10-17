@@ -1,0 +1,77 @@
+{
+    "id": "1575351678",
+    "title": "Parametric verification of address space separation",
+    "venue": "principles of security and trust",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jason Franklin",
+            "id": "2101901438",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Sagar Chaki",
+            "id": "2112745185",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Anupam Datta",
+            "id": "2147094257",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Jonathan M. McCune",
+            "id": "2304896318",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Amit Vasudevan",
+            "id": "2119280436",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Paging",
+        "Hypervisor",
+        "Theoretical computer science",
+        "Address space",
+        "Computer science",
+        "Distributed computing",
+        "Shadow",
+        "Kripke structure",
+        "Model checking",
+        "Data structure",
+        "Real-time computing",
+        "Virtual machine"
+    ],
+    "references": [
+        "55413947",
+        "1532374416",
+        "1536946401",
+        "1552024587",
+        "1556566737",
+        "1561112849",
+        "1561867409",
+        "1583551426",
+        "1589760516",
+        "1797192225",
+        "1966856316",
+        "2014942166",
+        "2036526834",
+        "2091161634",
+        "2101118268",
+        "2109943697",
+        "2110425399",
+        "2118341398",
+        "2128423558",
+        "2129182823",
+        "2131726714",
+        "2136310957",
+        "2141509697",
+        "2150210903",
+        "2166438839",
+        "2172060561",
+        "2203657859",
+        "2340735175"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1508616138",
+    "title": "Idea: using system level testing for revealing SQL injection-related error message information leaks",
+    "venue": "international conference on engineering secure software and systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ben H. Smith",
+            "id": "2135422364",
+            "org": "Computer Science Department, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Laurie Williams",
+            "id": "2175749388",
+            "org": "Computer Science Department, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Andrew Austin",
+            "id": "2237177559",
+            "org": "Computer Science Department, North Carolina State University, Raleigh, NC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Test-driven development",
+        "Data Transformation Services",
+        "Computer science",
+        "Stored procedure",
+        "User-defined function",
+        "Autocommit",
+        "Unit testing",
+        "Database",
+        "SQL",
+        "SQL injection"
+    ],
+    "references": [
+        "1505465226",
+        "1598083179",
+        "1967446222",
+        "2001693166",
+        "2015004885",
+        "2047314534",
+        "2107263745",
+        "2137856385",
+        "2138827327"
+    ]
+}

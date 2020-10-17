@@ -1,0 +1,76 @@
+{
+    "id": "1501525194",
+    "title": "MPI on bluegene/L: Designing an efficient general purpose messaging solution for a large cellular system",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "George S. Almasi",
+            "id": "593384113",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Charles J. Archer",
+            "id": "2620519798",
+            "org": "IBM Systems Group"
+        },
+        {
+            "name": "Jose G. Castanos",
+            "id": "2038065852",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Manish Gupta",
+            "id": "2114032439",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Xavier Martorell",
+            "id": "2155127561",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Jose E. Moreira",
+            "id": "2194395691",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "Silvius Rus",
+            "id": "2140449495",
+            "org": "Texas A&M University"
+        },
+        {
+            "name": "Brian R. Toonen",
+            "id": "255533804",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Cellular architecture",
+        "Tree network",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Cache coherence",
+        "Message passing",
+        "Grid network",
+        "System on a chip",
+        "Software architecture"
+    ],
+    "references": [
+        "153274108",
+        "1560511712",
+        "1574170635",
+        "1967800745",
+        "1971952282",
+        "2032798968",
+        "2154207621",
+        "2155066383"
+    ]
+}

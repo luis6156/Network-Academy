@@ -1,0 +1,75 @@
+{
+    "id": "1682131187",
+    "title": "Policy-sealed data: a new abstraction for building trusted cloud services",
+    "venue": "usenix security symposium",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Nuno Santos",
+            "id": "2102832296",
+            "org": "MPI-SWS#TAB#"
+        },
+        {
+            "name": "Rodrigo Rodrigues",
+            "id": "2121681675",
+            "org": "CITI, Universidade Nova de Lisboa#TAB#"
+        },
+        {
+            "name": "Krishna P. Gummadi",
+            "id": "1982116827",
+            "org": "MPI-SWS#TAB#"
+        },
+        {
+            "name": "Stefan Saroiu",
+            "id": "2232173907",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Trusted Computing",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Abstraction",
+        "Key management",
+        "Internet privacy",
+        "Cloud computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "51639561",
+        "192814132",
+        "1493595615",
+        "1504669610",
+        "1543993937",
+        "1593156791",
+        "1686749489",
+        "1729172517",
+        "1922956467",
+        "1966825932",
+        "1978183200",
+        "2029349492",
+        "2043501224",
+        "2050529434",
+        "2072633121",
+        "2083228150",
+        "2083547349",
+        "2099613071",
+        "2108072891",
+        "2108255910",
+        "2114189125",
+        "2115175416",
+        "2119028650",
+        "2128159601",
+        "2131726714",
+        "2135228299",
+        "2136310957",
+        "2140911579",
+        "2146244799",
+        "2160612883",
+        "2165005140",
+        "2166004296",
+        "2167804035"
+    ]
+}

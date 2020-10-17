@@ -1,0 +1,39 @@
+{
+    "id": "1600293489",
+    "title": "Overture: An Object-Oriented Framework for Solving Partial Differential Equations",
+    "venue": "conference on scientific computing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "David L. Brown",
+            "id": "2276272043",
+            "org": "Los Alamos National Laboratory, CIC-19 MS 13256"
+        },
+        {
+            "name": "William D. Henshaw",
+            "id": "2785785026",
+            "org": "Los Alamos National Laboratory, CIC-19 MS 13256"
+        },
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2656001890",
+            "org": "Los Alamos National Laboratory, CIC-19 MS 13256"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Operator (computer programming)",
+        "Object-oriented programming",
+        "Adaptive mesh refinement",
+        "Theoretical computer science",
+        "Ranging",
+        "Discrete mathematics",
+        "Grid",
+        "Parallel array",
+        "Data structure",
+        "Mesh generation"
+    ],
+    "references": [
+        "1507805857"
+    ]
+}

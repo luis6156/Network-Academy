@@ -1,0 +1,47 @@
+{
+    "id": "1741599357",
+    "title": "A practical single-register wait-free mutual exclusion algorithm on asynchronous networks",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hyungsoo Jung",
+            "id": "2140287793",
+            "org": "School of Computer Science and Engineering, Seoul National University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Heon Young Yeom",
+            "id": "2073048984",
+            "org": "School of Computer Science and Engineering, Seoul National University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Critical section",
+        "Algorithm",
+        "Suzuki-Kasami algorithm",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Maekawa's algorithm",
+        "Mutual exclusion",
+        "Synchronizer",
+        "Distributed algorithm",
+        "Brooks-Iyengar algorithm"
+    ],
+    "references": [
+        "1814330927",
+        "1839084475",
+        "2001738739",
+        "2034343921",
+        "2053934158",
+        "2054278856",
+        "2054987727",
+        "2056472034",
+        "2069278684",
+        "2085407655",
+        "2124129198",
+        "2147275437",
+        "2187800381",
+        "2611515161"
+    ]
+}

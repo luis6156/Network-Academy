@@ -1,0 +1,56 @@
+{
+    "id": "1513011684",
+    "title": "Analytical estimation of completion times of mixed NewReno and Tahoe TCP connections over single and multiple bottleneck networks",
+    "venue": "global communications conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "E. Alessio",
+            "id": "2651829160",
+            "org": "Dipt. di Elettronica, Politecnico di Torino, Italy"
+        },
+        {
+            "name": "A. Garetto",
+            "id": "2699229531",
+            "org": "Dipartimento di Elettronica - Politecnico di Torino"
+        },
+        {
+            "name": "R. Lo Cigno",
+            "id": "1323312950",
+            "org": "Dipartimento di Elettronica - Politecnico di Torino"
+        },
+        {
+            "name": "A. Meo",
+            "id": "2478838217",
+            "org": "Dipartimento di Elettronica - Politecnico di Torino"
+        },
+        {
+            "name": "A.A. Marsan",
+            "id": "2715379657",
+            "org": "Dipartimento di Elettronica - Politecnico di Torino"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Computer science",
+        "Distributed computing",
+        "TCP tuning",
+        "H-TCP",
+        "TCP hole punching",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Queueing theory",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1655636840",
+        "1867970377",
+        "2103312864",
+        "2105761946",
+        "2114897494",
+        "2115459263",
+        "2124478678",
+        "2141405301"
+    ]
+}

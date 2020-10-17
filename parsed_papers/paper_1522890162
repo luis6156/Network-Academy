@@ -1,0 +1,42 @@
+{
+    "id": "1522890162",
+    "title": "Using Remote Access Histories for Thread Scheduling in Distributed Shared Memory Systems",
+    "venue": "international symposium on distributed computing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Assaf Schuster",
+            "id": "2135728993",
+            "org": "Technion"
+        },
+        {
+            "name": "Lea Shalev",
+            "id": "1948321537",
+            "org": "IBM R&D Center"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Memory hierarchy",
+        "Locality",
+        "Interleaved memory",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Memory model",
+        "Real-time computing"
+    ],
+    "references": [
+        "1982731142",
+        "2000667311",
+        "2001890294",
+        "2021804287",
+        "2072201530",
+        "2110899698",
+        "2123496720",
+        "2159202007",
+        "2168505046"
+    ]
+}

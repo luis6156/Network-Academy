@@ -1,0 +1,49 @@
+{
+    "id": "1494623905",
+    "title": "The Performance Impact of Granularity Control and Functional Parallelism",
+    "venue": "languages and compilers for parallel computing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Jose E. Moreira",
+            "id": "2194395691",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Dale Schouten",
+            "id": "2274657854",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Constantine D. Polychronopoulos",
+            "id": "2301418095",
+            "org": "University of Illinois at Urbana-Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Data parallelism",
+        "Scheduling (computing)",
+        "Granularity",
+        "Dynamic priority scheduling",
+        "Parallel processing",
+        "Task parallelism",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1966938284",
+        "1978980371",
+        "1994464372",
+        "2021084015",
+        "2040836178",
+        "2050241504",
+        "2069765416",
+        "2121746715",
+        "2142899035",
+        "2156605713",
+        "2165904264"
+    ]
+}

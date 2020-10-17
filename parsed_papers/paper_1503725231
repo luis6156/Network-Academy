@@ -1,0 +1,42 @@
+{
+    "id": "1503725231",
+    "title": "Cryptanalysis of the Modified Version of the Hash Function Proposed at PKC'98",
+    "venue": "fast software encryption",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Daewan Han",
+            "id": "2106702061",
+            "org": "National Security Research Institute"
+        },
+        {
+            "name": "Sangwoo Park",
+            "id": "2169109665",
+            "org": "National Security Research Institute"
+        },
+        {
+            "name": "Seongtaek Chee",
+            "id": "2119796974",
+            "org": "National Security Research Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1660562555",
+        "1670558497",
+        "1767494015",
+        "1851023053",
+        "2098801947"
+    ]
+}

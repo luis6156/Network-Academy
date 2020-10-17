@@ -1,0 +1,44 @@
+{
+    "id": "1792764119",
+    "title": "TCP splice application layer proxy performance",
+    "venue": "Journal of High Speed Networks",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "David Aaron Maltz",
+            "id": "2776478614",
+            "org": "IBM"
+        },
+        {
+            "name": "Pravin Bhagwat",
+            "id": "2798299708",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Packet forwarding",
+        "Throughput",
+        "Zeta-TCP",
+        "Application layer",
+        "Computer science",
+        "TCP global synchronization",
+        "SOCKS",
+        "Computer network",
+        "splice",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1709767083",
+        "1714781699",
+        "1721316154",
+        "1798223019",
+        "2101964937",
+        "2111673261",
+        "2119705782",
+        "2126637115",
+        "2128778470",
+        "2151200745",
+        "2169505235"
+    ]
+}

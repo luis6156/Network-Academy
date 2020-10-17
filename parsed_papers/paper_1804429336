@@ -1,0 +1,54 @@
+{
+    "id": "1804429336",
+    "title": "Certificate revocation release policies",
+    "venue": "Journal of Computer Security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Nan Hu",
+            "id": "2140706338",
+            "org": "School of Information Systems, Singapore Management University, 178902 Singapore. E-mails: {hunan, cyma, yjli}@smu.edu.sg#TAB#"
+        },
+        {
+            "name": "Giri Kumar Tayi",
+            "id": "96976259",
+            "org": "School of Business, State University of New York at Albany, Albany, NY 12222, USA. E-mail: g.tayi@albany.edu#TAB#"
+        },
+        {
+            "name": "Chengyu Ma",
+            "id": "2493500117",
+            "org": "School of Information Systems, Singapore Management University, 178902 Singapore. E-mails: {hunan, cyma, yjli}@smu.edu.sg#TAB#"
+        },
+        {
+            "name": "Yingjiu Li",
+            "id": "2263273413",
+            "org": "(Correspd. E-mail: yjli@smu.edu.sg) School of Information Systems, Singapore Management University, 178902 Singapore. E-mails: {hunan, cyma, yjli}@smu.edu.sg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Certificate signing request",
+        "Implicit certificate",
+        "Self-signed certificate",
+        "Root certificate",
+        "Computer science",
+        "X.509",
+        "Public key certificate",
+        "Computer security",
+        "Online Certificate Status Protocol",
+        "Certification path validation algorithm"
+    ],
+    "references": [
+        "1502896015",
+        "1504393564",
+        "1528787622",
+        "1867508839",
+        "2006097813",
+        "2008524185",
+        "2018439061",
+        "2022423003",
+        "2089934546",
+        "2103702580",
+        "2140298579",
+        "2160878415"
+    ]
+}

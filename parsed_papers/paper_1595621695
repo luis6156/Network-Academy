@@ -1,0 +1,46 @@
+{
+    "id": "1595621695",
+    "title": "Revisiting the Paxos Algorithm",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Roberto De Prisco",
+            "id": "2182328828",
+            "org": "MIT Laboratory for Computer Science"
+        },
+        {
+            "name": "Butler W. Lampson",
+            "id": "1785551945",
+            "org": "MIT Laboratory for Computer Science"
+        },
+        {
+            "name": "Nancy A. Lynch",
+            "id": "2180706138",
+            "org": "MIT Laboratory for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Timed automaton",
+        "Consensus",
+        "Computer science",
+        "Distributed computing",
+        "Raft",
+        "Correctness",
+        "Paxos",
+        "Distributed algorithm",
+        "Generation time"
+    ],
+    "references": [
+        "1552521662",
+        "2003214215",
+        "2070941848",
+        "2072730741",
+        "2075854425",
+        "2133943294",
+        "2138949781",
+        "2158987725",
+        "2611515161"
+    ]
+}

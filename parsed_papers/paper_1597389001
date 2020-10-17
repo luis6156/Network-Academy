@@ -1,0 +1,42 @@
+{
+    "id": "1597389001",
+    "title": "Evolvable Pattern Implementations Need Generic Aspects",
+    "venue": "european conference on object-oriented programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gunter Kniesel",
+            "id": "729669163",
+            "org": "University of Bonn"
+        },
+        {
+            "name": "Tobias Rho",
+            "id": "2140223330",
+            "org": "University of Bonn"
+        },
+        {
+            "name": "Stefan Hanenberg",
+            "id": "637368604",
+            "org": "University of Duisburg-Essen"
+        }
+    ],
+    "fields_of_study": [
+        "State pattern",
+        "Distributed design patterns",
+        "Theoretical computer science",
+        "Specification pattern",
+        "Computer science",
+        "Software design pattern",
+        "Module pattern",
+        "Adapter pattern",
+        "Architectural pattern",
+        "Code refactoring"
+    ],
+    "references": [
+        "1549128618",
+        "2096012235",
+        "2097964082",
+        "2153887189",
+        "2295517865"
+    ]
+}

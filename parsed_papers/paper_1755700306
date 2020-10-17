@@ -1,0 +1,35 @@
+{
+    "id": "1755700306",
+    "title": "Speculation et auto-stabilisation",
+    "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Swan Dubois",
+            "id": "2125905918",
+            "org": "LPD, EPFL"
+        },
+        {
+            "name": "Rachid Guerraoui",
+            "id": "115057321",
+            "org": "LPD, EPFL"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speculation",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Mutual exclusion",
+        "Dijkstra's algorithm",
+        "Real-time computing",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1555629290",
+        "1989240036",
+        "2056209062",
+        "2111132249"
+    ]
+}

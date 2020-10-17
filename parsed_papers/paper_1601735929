@@ -1,0 +1,47 @@
+{
+    "id": "1601735929",
+    "title": "Slinky: static linking reloaded",
+    "venue": "usenix annual technical conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Christian S. Collberg",
+            "id": "321147201",
+            "org": "Department of Computer Science, University of Arizona, Tucson, AZ#TAB#"
+        },
+        {
+            "name": "John H. Hartman",
+            "id": "2114123774",
+            "org": "Department of Computer Science, University of Arizona, Tucson, AZ#TAB#"
+        },
+        {
+            "name": "Sridivya Babu",
+            "id": "2274803880",
+            "org": "Department of Computer Science, University of Arizona, Tucson, AZ#TAB#"
+        },
+        {
+            "name": "Sharath K. Udupa",
+            "id": "2284287282",
+            "org": "Department of Computer Science, University of Arizona, Tucson, AZ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "Memory footprint",
+        "Linux kernel",
+        "Executable",
+        "Computer science",
+        "Real-time computing"
+    ],
+    "references": [
+        "137089333",
+        "1576397915",
+        "2034711041",
+        "2056980397",
+        "2079029390",
+        "2083469471",
+        "2084445812",
+        "2121542813"
+    ]
+}

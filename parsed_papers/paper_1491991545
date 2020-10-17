@@ -1,0 +1,48 @@
+{
+    "id": "1491991545",
+    "title": "A generic security API for symmetric key management on cryptographic devices",
+    "venue": "european symposium on research in computer security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Veronique Cortier",
+            "id": "492607290",
+            "org": "LORIA, CNRS & INRIA#TAB#"
+        },
+        {
+            "name": "Graham Steel",
+            "id": "2462626393",
+            "org": "Laboratoire Specification et Verification, CNRS & INRIA & ENS de Cachan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Brute-force attack",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Cryptographic key types",
+        "Computer security",
+        "Key encapsulation",
+        "Key management",
+        "Security association",
+        "Static key"
+    ],
+    "references": [
+        "203757321",
+        "1514302123",
+        "1597184376",
+        "2053014980",
+        "2077836579",
+        "2088258634",
+        "2097913369",
+        "2118778876",
+        "2121247918",
+        "2125030112",
+        "2126272901",
+        "2139017685",
+        "2153921791",
+        "2154209904",
+        "2166027506"
+    ]
+}

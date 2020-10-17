@@ -1,0 +1,55 @@
+{
+    "id": "1702434361",
+    "title": "Parallel garbage collection for shared memory multiprocessors",
+    "venue": "JVM'01 Proceedings of the 2001 Symposium on JavaTM Virtual Machine Research and Technology Symposium - Volume 1",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Christine H. Flood",
+            "id": "2106155720",
+            "org": "Sun Microsystems Laboratories#TAB#"
+        },
+        {
+            "name": "David L. Detlefs",
+            "id": "2796801011",
+            "org": "Sun Microsystems Laboratories#TAB#"
+        },
+        {
+            "name": "Nir Shavit",
+            "id": "2071581749",
+            "org": "Tel-Aviv University#TAB#"
+        },
+        {
+            "name": "Xiaolan Zhang",
+            "id": "2775962363",
+            "org": "Harvard University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Object graph",
+        "Tracing",
+        "Multiprocessing",
+        "Dynamic load testing",
+        "Work stealing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1509600745",
+        "1583464938",
+        "1987079491",
+        "1993621349",
+        "2016559894",
+        "2062372058",
+        "2098147619",
+        "2104055277",
+        "2158525816",
+        "2158738500",
+        "2160068354",
+        "2165971729"
+    ]
+}

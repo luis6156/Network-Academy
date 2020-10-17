@@ -1,0 +1,43 @@
+{
+    "id": "1570719569",
+    "title": "A new incremental maintenance algorithm of data cube",
+    "venue": "granular computing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hongsong Li",
+            "id": "2308231270",
+            "org": "Dept. of Computer Sci. and Tech., Northern Jiaotong University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Houkuan Huang",
+            "id": "2121310202",
+            "org": "Dept. of Computer Sci. and Tech., Northern Jiaotong University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Youfang Lin",
+            "id": "2639173210",
+            "org": "Dept. of Computer Sci. and Tech., Northern Jiaotong University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Source data",
+        "Algorithm",
+        "Aggregate function",
+        "Pattern recognition",
+        "Computer science",
+        "Materialized view",
+        "Fact table",
+        "Data warehouse",
+        "Data cube",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1648759563",
+        "2100758984",
+        "2103201239",
+        "2118260817",
+        "2134791164",
+        "2248652221"
+    ]
+}

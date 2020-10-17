@@ -1,0 +1,50 @@
+{
+    "id": "1489350638",
+    "title": "An analysis of the Hermes8 stream ciphers",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Steve Babbage",
+            "id": "2028739841",
+            "org": "Vodafone Group R&D, Newbury, United Kingdom#TAB#"
+        },
+        {
+            "name": "Carlos Cid",
+            "id": "2109016628",
+            "org": "Royal Holloway, University of London, Egham, United Kingdom#TAB#"
+        },
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "IAIK, Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Havard Raddum",
+            "id": "2799164584",
+            "org": "Dept. of Informatics, The University of Bergen, Bergen, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "eSTREAM",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "Computer science",
+        "Distributed computing",
+        "Two-square cipher",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Substitution cipher",
+        "Kasiski examination"
+    ],
+    "references": [
+        "1494217786",
+        "1513711442",
+        "1528065150",
+        "1605172243",
+        "1660562555",
+        "2407640776",
+        "2470249535"
+    ]
+}

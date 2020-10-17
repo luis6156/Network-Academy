@@ -1,0 +1,87 @@
+{
+    "id": "1508235239",
+    "title": "Survey of parallel and distributed volume rendering: revisited",
+    "venue": "international conference on computational science and its applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jiawan Zhang",
+            "id": "2148914699",
+            "org": "IBM Computer Technology Center, Department of Computer Science, Tianjin University, Tianjin, P.R.China#TAB#"
+        },
+        {
+            "name": "Jizhou Sun",
+            "id": "2130529548",
+            "org": "IBM Computer Technology Center, Department of Computer Science, Tianjin University, Tianjin, P.R.China#TAB#"
+        },
+        {
+            "name": "Zhou Jin",
+            "id": "2311877344",
+            "org": "IBM Computer Technology Center, Department of Computer Science, Tianjin University, Tianjin, P.R.China#TAB#"
+        },
+        {
+            "name": "Yi Zhang",
+            "id": "2435974311",
+            "org": "IBM Computer Technology Center, Department of Computer Science, Tianjin University, Tianjin, P.R.China#TAB#"
+        },
+        {
+            "name": "Qi Zhai",
+            "id": "2143056415",
+            "org": "School of Material Science and Engineering, Tianjin University, Tianjin, P.R.China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel rendering",
+        "Parallel computing",
+        "Volume rendering",
+        "Tiled rendering",
+        "Graphics pipeline",
+        "Computer science",
+        "Implementation",
+        "Sorting",
+        "Parallel algorithm",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "3730339",
+        "1500211582",
+        "1515148206",
+        "1537987160",
+        "1725558581",
+        "1900430555",
+        "1923981117",
+        "1939185068",
+        "1967491684",
+        "1974600473",
+        "1975481332",
+        "1991383796",
+        "2004453135",
+        "2027804456",
+        "2037434661",
+        "2038284325",
+        "2053255208",
+        "2055322921",
+        "2060898754",
+        "2087736751",
+        "2089078191",
+        "2096270637",
+        "2107002723",
+        "2109764355",
+        "2110592240",
+        "2114611229",
+        "2133420504",
+        "2133638798",
+        "2136261905",
+        "2138867322",
+        "2142906515",
+        "2147425328",
+        "2153416272",
+        "2153615563",
+        "2155425232",
+        "2156343066",
+        "2161728632",
+        "2163693079",
+        "2168688858",
+        "2170700376"
+    ]
+}

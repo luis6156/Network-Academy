@@ -1,0 +1,64 @@
+{
+    "id": "1590740917",
+    "title": "Aspect-Oriented Programming of Sparse Matrix Code",
+    "venue": "conference on scientific computing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "John Irwin",
+            "id": "2478528530",
+            "org": "Xerox Palo Alto Research Center"
+        },
+        {
+            "name": "Jean-Marc Loingtier",
+            "id": "2119882054",
+            "org": "Xerox Palo Alto Research Center"
+        },
+        {
+            "name": "John R. Gilbert",
+            "id": "2125747468",
+            "org": "Xerox Palo Alto Research Center"
+        },
+        {
+            "name": "Gregor Kiczales",
+            "id": "562619066",
+            "org": "Xerox Palo Alto Research Center"
+        },
+        {
+            "name": "John Lamping",
+            "id": "1763576553",
+            "org": "Xerox Palo Alto Research Center"
+        },
+        {
+            "name": "Anurag Mendhekar",
+            "id": "2577906926",
+            "org": "Xerox Palo Alto Research Center"
+        },
+        {
+            "name": "Tatiana Shpeisman",
+            "id": "2280077202",
+            "org": "Xerox Palo Alto Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Object-oriented programming",
+        "Theoretical computer science",
+        "Abstract syntax tree",
+        "Computer science",
+        "Distributed computing",
+        "Numerical stability",
+        "Functional programming",
+        "Separation of concerns",
+        "Aspect-oriented programming",
+        "External Data Representation"
+    ],
+    "references": [
+        "1506342804",
+        "2025043404",
+        "2038205735",
+        "2093992309",
+        "2138363365",
+        "2147542748"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1681426122",
+    "title": "Performance isolation and fairness for multi-tenant cloud storage",
+    "venue": "operating systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "David Shue",
+            "id": "2025237250",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Michael J. Freedman",
+            "id": "2144033718",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Anees Shaikh",
+            "id": "2159437462",
+            "org": "IBM TJ Watson Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Cloud storage",
+        "Robustness (computer science)",
+        "Temporal isolation among virtual machines",
+        "Real-time computing",
+        "Skew"
+    ],
+    "references": [
+        "16408702",
+        "69713013",
+        "1517941185",
+        "1569184546",
+        "1594675213",
+        "1861377444",
+        "1890643295",
+        "1970623666",
+        "1971326463",
+        "1981393723",
+        "1985229168",
+        "2014369282",
+        "2071314114",
+        "2097831241",
+        "2097882016",
+        "2104171511",
+        "2108203093",
+        "2112486185",
+        "2113551315",
+        "2125860023",
+        "2130531694",
+        "2137240782",
+        "2142851547",
+        "2154203494",
+        "2162986857",
+        "2163961697",
+        "2165663045",
+        "2170357877",
+        "2273138441"
+    ]
+}

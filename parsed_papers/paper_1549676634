@@ -1,0 +1,65 @@
+{
+    "id": "1549676634",
+    "title": "Real-time heuristic search with a priority queue",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "D. Chris Rayner",
+            "id": "2232709251",
+            "org": "University of Alberta, Department of Computing Science, Edmonton, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Katherine Davison",
+            "id": "2315212974",
+            "org": "University of Alberta, Department of Computing Science, Edmonton, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Vadim Bulitko",
+            "id": "1998260123",
+            "org": "University of Alberta, Department of Computing Science, Edmonton, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Kenneth O. Anderson",
+            "id": "2617340619",
+            "org": "University of Alberta, Department of Computing Science, Edmonton, Alberta, Canada#TAB#"
+        },
+        {
+            "name": "Jieshan Lu",
+            "id": "2491753677",
+            "org": "University of Alberta, Department of Computing Science, Edmonton, Alberta, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Incremental heuristic search",
+        "Combinatorial search",
+        "Computer science",
+        "Iterative deepening depth-first search",
+        "Beam stack search",
+        "Best-first search",
+        "Fringe search",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1666476",
+        "1503924110",
+        "1578897462",
+        "1672367318",
+        "1969483458",
+        "2009533501",
+        "2021061679",
+        "2048226872",
+        "2068898235",
+        "2122128939",
+        "2140471031",
+        "2141208494",
+        "2145089737",
+        "2155710497",
+        "2160835717",
+        "2167353639",
+        "2294319407"
+    ]
+}

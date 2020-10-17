@@ -1,0 +1,78 @@
+{
+    "id": "1508077776",
+    "title": "Public-Key Encryption Schemes with Auxiliary Inputs",
+    "venue": "theory of cryptography conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yevgeniy Dodis",
+            "id": "1259442811",
+            "org": "New York University"
+        },
+        {
+            "name": "Shafi Goldwasser",
+            "id": "1728759264",
+            "org": "MIT and Weizmann Institute, USA"
+        },
+        {
+            "name": "Yael Tauman Kalai",
+            "id": "64276155",
+            "org": "Microsoft Research, USA"
+        },
+        {
+            "name": "Chris Peikert",
+            "id": "1249250080",
+            "org": "Georgia Institute of Technology"
+        },
+        {
+            "name": "Vinod Vaikuntanathan",
+            "id": "330291328",
+            "org": "IBM Research"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Key distribution",
+        "Computer science",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Attribute-based encryption",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "111085860",
+        "236432643",
+        "1489262079",
+        "1541483074",
+        "1547517307",
+        "1573157032",
+        "1588518948",
+        "1592625985",
+        "1604454960",
+        "1606729219",
+        "1819824216",
+        "1949164874",
+        "1996360405",
+        "2003647955",
+        "2020981190",
+        "2038761522",
+        "2058785578",
+        "2061949491",
+        "2096290348",
+        "2101803085",
+        "2124218043",
+        "2133701468",
+        "2138474025",
+        "2144560442",
+        "2147436724",
+        "2165111290",
+        "2167236842",
+        "2169985476",
+        "2520195611",
+        "2570008916",
+        "2607627035"
+    ]
+}

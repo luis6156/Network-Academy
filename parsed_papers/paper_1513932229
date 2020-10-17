@@ -1,0 +1,42 @@
+{
+    "id": "1513932229",
+    "title": "Design, implementation, and verification of an adaptable processor in lava HDL",
+    "venue": "applied reconfigurable computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Stefan Schulze",
+            "id": "2723822641",
+            "org": "NEMONOS GmbH, Hamburg, Germany#TAB#"
+        },
+        {
+            "name": "Sergei Sawitzki",
+            "id": "2475556562",
+            "org": "FH Wedel, University of Applied Sciences, Wedel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Design flow",
+        "Parallel computing",
+        "VHDL",
+        "Computer architecture",
+        "Computer science",
+        "Instruction set",
+        "Coprocessor",
+        "Von Neumann architecture",
+        "Hardware description language",
+        "Lava"
+    ],
+    "references": [
+        "1486842216",
+        "1523648047",
+        "2028922196",
+        "2042269206",
+        "2049600101",
+        "2133697335",
+        "2152540097",
+        "2165099691",
+        "2316014563"
+    ]
+}

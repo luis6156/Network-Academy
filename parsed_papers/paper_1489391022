@@ -1,0 +1,73 @@
+{
+    "id": "1489391022",
+    "title": "NuSMV 2: An OpenSource Tool for Symbolic Model Checking",
+    "venue": "computer aided verification",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "ITC-IRST, Trento, Italy"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie Mellon University, Pittsburgh, USA"
+        },
+        {
+            "name": "Enrico Giunchiglia",
+            "id": "37482302",
+            "org": "DIST -- Universita di Genova, Genova, Italy"
+        },
+        {
+            "name": "Fausto Giunchiglia",
+            "id": "164943294",
+            "org": "Universita di Trento, Trento, Italy"
+        },
+        {
+            "name": "Marco Pistore",
+            "id": "2408543465",
+            "org": "ITC-IRST, Trento, Italy"
+        },
+        {
+            "name": "Marco Roveri",
+            "id": "1957840925",
+            "org": "ITC-IRST, Trento, Italy"
+        },
+        {
+            "name": "Roberto Sebastiani",
+            "id": "2150132257",
+            "org": "Universita di Trento, Trento, Italy"
+        },
+        {
+            "name": "Armando Tacchella",
+            "id": "2010564482",
+            "org": "DIST -- Universita di Genova, Genova, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Symbolic computation",
+        "Computer science",
+        "Constraint satisfaction",
+        "Business process reengineering",
+        "Symbolic trajectory evaluation",
+        "Model checking",
+        "Finite-state machine",
+        "Programming language"
+    ],
+    "references": [
+        "1490969264",
+        "1536007121",
+        "1589982562",
+        "1594518690",
+        "1787074469",
+        "1875326570",
+        "2001289891",
+        "2100404896",
+        "2142785340",
+        "2160493209",
+        "2168029386"
+    ]
+}

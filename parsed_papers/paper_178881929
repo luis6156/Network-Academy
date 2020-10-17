@@ -1,0 +1,50 @@
+{
+    "id": "178881929",
+    "title": "Public key cryptography in sensor networks--revisited",
+    "venue": "security of ad hoc and sensor networks",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Gunnar Gaubatz",
+            "id": "2003514342",
+            "org": "Department of Electrical & Computer Engineering, Worcester Polytechnic Institute, Worcester, MA#TAB#"
+        },
+        {
+            "name": "Jens-Peter Kaps",
+            "id": "2048725792",
+            "org": "Department of Electrical & Computer Engineering, Worcester Polytechnic Institute, Worcester, MA#TAB#"
+        },
+        {
+            "name": "Berk Sunar",
+            "id": "662498110",
+            "org": "Department of Electrical & Computer Engineering, Worcester Polytechnic Institute, Worcester, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Cryptography",
+        "Key distribution",
+        "Computer science",
+        "NTRUEncrypt",
+        "Sensor node",
+        "Wireless sensor network",
+        "Embedded system",
+        "Message authentication code",
+        "Computer network",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1493856790",
+        "1584008964",
+        "1660562555",
+        "1675339804",
+        "1996360405",
+        "2033751220",
+        "2122405304",
+        "2127949150",
+        "2134539886",
+        "2140372921",
+        "2141888128",
+        "2286477783"
+    ]
+}

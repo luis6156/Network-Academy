@@ -1,0 +1,79 @@
+{
+    "id": "1551979920",
+    "title": "Failure detectors encapsulate fairness",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Scott M. Pike",
+            "id": "2049821829",
+            "org": "Dept. of Computer Science and Engineering, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Srikanth Sastry",
+            "id": "2160816351",
+            "org": "Dept. of Computer Science and Engineering, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Jennifer L. Welch",
+            "id": "2133412819",
+            "org": "Dept. of Computer Science and Engineering, Texas A&M University, College Station, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Systems modeling",
+        "Computation",
+        "Computer science",
+        "Detector",
+        "Distributed computing",
+        "Hierarchy",
+        "Asynchronous system",
+        "Synchronism",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1498847204",
+        "1508359906",
+        "1538367796",
+        "1553485915",
+        "1590586151",
+        "1870079585",
+        "1921499670",
+        "1964729314",
+        "1968135156",
+        "1969718746",
+        "1985091167",
+        "2003214215",
+        "2004688613",
+        "2033005483",
+        "2035362408",
+        "2038719275",
+        "2038924034",
+        "2060265887",
+        "2075897969",
+        "2076907329",
+        "2077240273",
+        "2084460003",
+        "2099752472",
+        "2102226439",
+        "2102854658",
+        "2104613200",
+        "2105360160",
+        "2111760136",
+        "2114902889",
+        "2124617909",
+        "2133718851",
+        "2133943294",
+        "2137288833",
+        "2139006777",
+        "2147428580",
+        "2148050579",
+        "2154420584",
+        "2156655498",
+        "2161768528",
+        "2166765530",
+        "2484808976"
+    ]
+}

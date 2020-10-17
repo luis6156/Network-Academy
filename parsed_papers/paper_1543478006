@@ -1,0 +1,56 @@
+{
+    "id": "1543478006",
+    "title": "Context-Based Prefetch for Implementing Objects on Relations",
+    "venue": "very large data bases",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Philip A. Bernstein",
+            "id": "2304774990",
+            "org": "Microsoft"
+        },
+        {
+            "name": "Shankar Pal",
+            "id": "2100855357",
+            "org": "Microsoft Corporation|One Microsoft Way"
+        },
+        {
+            "name": "David R. Shutt",
+            "id": "2164795365",
+            "org": "Microsoft Corporation|One Microsoft Way"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Object-relational impedance mismatch",
+        "Asynchronous communication",
+        "Computer science",
+        "Instruction prefetch",
+        "Distributed computing",
+        "Database",
+        "Exploit",
+        "Object-based spatial database"
+    ],
+    "references": [
+        "54838500",
+        "1490418046",
+        "1519885749",
+        "1569650328",
+        "1668373982",
+        "1977101058",
+        "1994163561",
+        "2001657718",
+        "2004526591",
+        "2048845959",
+        "2075315426",
+        "2093369250",
+        "2101908735",
+        "2107572660",
+        "2123975697",
+        "2125030020",
+        "2133232641",
+        "2147139455",
+        "2159765281",
+        "2610296873"
+    ]
+}

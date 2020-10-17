@@ -1,0 +1,41 @@
+{
+    "id": "1649901946",
+    "title": "Practical automated detection of stealthy portscans",
+    "venue": "Journal of Computer Security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Stuart Staniford",
+            "id": "1969189354",
+            "org": "Silicon Defence, 513 2nd Street, Eureka, CA#TAB#"
+        },
+        {
+            "name": "James A. Hoagland",
+            "id": "2310290032",
+            "org": "Silicon Defence, 513 2nd Street, Eureka, CA#TAB#"
+        },
+        {
+            "name": "Joseph M. Mcalerney",
+            "id": "1398944011",
+            "org": "Silicon Defence, 513 2nd Street, Eureka, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Heuristics",
+        "Computer science",
+        "False positive paradox",
+        "Network packet",
+        "Intrusion detection system",
+        "Real-time computing",
+        "Simulated annealing",
+        "Intrusion",
+        "Detector"
+    ],
+    "references": [
+        "8376609",
+        "1674877186",
+        "2117002131",
+        "2148275477"
+    ]
+}

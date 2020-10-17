@@ -1,0 +1,71 @@
+{
+    "id": "1581073174",
+    "title": "High-Performance Concurrent Error Detection Scheme for AES Hardware",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Akashi Satoh",
+            "id": "2110212166",
+            "org": "Research Center for Information Security, National Institute of Advanced Industrial Science and Technology (AIST), Sotokanda, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Takeshi Sugawara",
+            "id": "2150185876",
+            "org": "Graduate School of Information Sciences, Tohoku University, Sendai, Japan#TAB#"
+        },
+        {
+            "name": "Naofumi Homma",
+            "id": "2120252268",
+            "org": "Graduate School of Information Sciences, Tohoku University, Sendai, Japan#TAB#"
+        },
+        {
+            "name": "Takafumi Aoki",
+            "id": "2103882778",
+            "org": "Graduate School of Information Sciences, Tohoku University, Sendai, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "CMOS",
+        "Computer hardware",
+        "Block cipher",
+        "Parallel computing",
+        "Cycles per instruction",
+        "Standard cell",
+        "Computer science",
+        "Encryption",
+        "Real-time computing",
+        "Error detection and correction"
+    ],
+    "references": [
+        "94002110",
+        "172000273",
+        "1495121609",
+        "1537875328",
+        "1570043360",
+        "1583816927",
+        "1734836454",
+        "1836039892",
+        "2013185880",
+        "2104003712",
+        "2110162979",
+        "2110676682",
+        "2110941647",
+        "2111725598",
+        "2112244944",
+        "2112284176",
+        "2112800903",
+        "2117947592",
+        "2122742911",
+        "2128838689",
+        "2131080192",
+        "2132646199",
+        "2135632173",
+        "2136090606",
+        "2145991688",
+        "2147694198",
+        "2154667225",
+        "2158893069",
+        "2170489924"
+    ]
+}

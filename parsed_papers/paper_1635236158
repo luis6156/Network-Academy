@@ -1,0 +1,39 @@
+{
+    "id": "1635236158",
+    "title": "Automatic lock insertion in concurrent programs",
+    "venue": "formal methods in computer-aided design",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Vineet Kahlon",
+            "id": "128685082",
+            "org": "NEC Labs, Princeton, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Computer science",
+        "Deadlock",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Mutual exclusion",
+        "Concurrency control",
+        "Correctness",
+        "Readers-writer lock",
+        "Atomicity",
+        "Real-time computing"
+    ],
+    "references": [
+        "1553634681",
+        "1575599371",
+        "1587449012",
+        "1923082132",
+        "1927382928",
+        "1977108582",
+        "2011430815",
+        "2038216124",
+        "2138567239",
+        "2169611673",
+        "2293756656"
+    ]
+}

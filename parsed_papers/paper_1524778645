@@ -1,0 +1,37 @@
+{
+    "id": "1524778645",
+    "title": "Analysis of Linux Scheduling with VAMPIR",
+    "venue": "international conference on computational science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Michael Kluge",
+            "id": "2121435400",
+            "org": "Technische Universitat Dresden, Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang E. Nagel",
+            "id": "2167805270",
+            "org": "Technische Universitat Dresden, Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Multi-core processor",
+        "Linux kernel",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Real-time computing",
+        "User space",
+        "Kernel (linear algebra)",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1566403276",
+        "2025436225",
+        "2165864564"
+    ]
+}

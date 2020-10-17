@@ -1,0 +1,46 @@
+{
+    "id": "1606151586",
+    "title": "An Integrated Record&Replay Mechanism for Nondeterministic Message Passing Programs",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dieter Kranzlmuller",
+            "id": "2321599603",
+            "org": "Johannes Kepler University Linz"
+        },
+        {
+            "name": "Christian Schaubschlager",
+            "id": "6543756",
+            "org": "Johannes Kepler University Linz"
+        },
+        {
+            "name": "Jens Volkert",
+            "id": "2017665327",
+            "org": "Johannes Kepler University Linz"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Message passing",
+        "Race condition",
+        "Instrumentation",
+        "Real-time computing",
+        "Debugging"
+    ],
+    "references": [
+        "3665002",
+        "52746826",
+        "162227438",
+        "1482342976",
+        "1848162185",
+        "1877496576",
+        "1973501242",
+        "2006774019",
+        "2026960328",
+        "2108078705"
+    ]
+}

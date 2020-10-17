@@ -1,0 +1,39 @@
+{
+    "id": "1604304084",
+    "title": "SPA-Based Adaptive Chosen-Ciphertext Attack on RSA Implementation",
+    "venue": "public key cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Roman Novak",
+            "id": "2140417717",
+            "org": "Jozef Stefan Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive chosen-ciphertext attack",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Computer security",
+        "Digital signature",
+        "Power analysis",
+        "Information leakage",
+        "Computer network",
+        "Public-key cryptography",
+        "Smart card",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1506530330",
+        "1510418153",
+        "1563937974",
+        "1584975026",
+        "1613874182",
+        "1660562555",
+        "1664808737",
+        "1996360405",
+        "2154909745",
+        "2170489924"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "159135798",
+    "title": "Reduce-by-feedback: timing resistant and DPA-aware modular multiplication plus: how to break RSA by DPA",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Michael Vielhaber",
+            "id": "1991366976",
+            "org": "Hochschule Bremerhaven, FB2, Bremerhaven, Germany,Instituto de Matematicas, Universidad Austral de Chile, Valdivia, Chile#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multiplexer",
+        "Adder",
+        "Parallel computing",
+        "Kochanski multiplication",
+        "Computer science",
+        "Power analysis",
+        "Static timing analysis",
+        "AND gate",
+        "Modular arithmetic",
+        "Timing attack"
+    ],
+    "references": [
+        "1587481360",
+        "1593401740",
+        "1601639357",
+        "1664808737",
+        "1786490218",
+        "2100347417",
+        "2130423410",
+        "2144047299",
+        "2154909745",
+        "2166022727"
+    ]
+}

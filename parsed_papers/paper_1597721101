@@ -1,0 +1,37 @@
+{
+    "id": "1597721101",
+    "title": "A Concurrent Time-Stamp Scheme which is Linear in Time and Space",
+    "venue": "international workshop on distributed algorithms",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Amos Israeli",
+            "id": "2103657699",
+            "org": "Technion"
+        },
+        {
+            "name": "Meir Pinhasov",
+            "id": "2286433805",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Timestamp",
+        "Spacetime",
+        "Two-way communication",
+        "Computer science",
+        "Distributed computing",
+        "Abstraction"
+    ],
+    "references": [
+        "1993805917",
+        "2039397270",
+        "2043801088",
+        "2055317155",
+        "2056740525",
+        "2062297396",
+        "2070908350",
+        "2105336351"
+    ]
+}

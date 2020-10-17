@@ -1,0 +1,101 @@
+{
+    "id": "1524244278",
+    "title": "Scalability and parallelization of Monte-Carlo tree search",
+    "venue": "annual conference on computers",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Amine Bourki",
+            "id": "297819326",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Guillaume Maurice Jean-Bernard Chaslot",
+            "id": "2675877245",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Matthieu Coulm",
+            "id": "299527396",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Vincent Danjean",
+            "id": "60520170",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Hassen Doghmen",
+            "id": "1229969",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Jean-Baptiste Hoock",
+            "id": "244608757",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Thomas Herault",
+            "id": "177990261",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Arpad Rimmel",
+            "id": "330734849",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Fabien Teytaud",
+            "id": "282657274",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Olivier Teytaud",
+            "id": "154712921",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Paul Vayssiere",
+            "id": "2139466604",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        },
+        {
+            "name": "Ziqin Yu",
+            "id": "2339064797",
+            "org": "TAO, Inria, LRI, UMR, CNRS, Univ. Paris-Sud, Orsay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Monte Carlo tree search",
+        "Message passing",
+        "Spite",
+        "Monte Carlo method",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1487385582",
+        "1494093857",
+        "1504507577",
+        "1528097685",
+        "1536318067",
+        "1548403904",
+        "1573483709",
+        "1602245058",
+        "1603772156",
+        "1625390266",
+        "1714211023",
+        "2006565216",
+        "2020135152",
+        "2079942837",
+        "2108464053",
+        "2155625359",
+        "2156361796",
+        "2158858912"
+    ]
+}

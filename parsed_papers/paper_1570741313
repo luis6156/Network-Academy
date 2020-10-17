@@ -1,0 +1,51 @@
+{
+    "id": "1570741313",
+    "title": "A Byte-Based Guess and Determine Attack on SOSEMANUK",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Xiutao Feng",
+            "id": "2149379315",
+            "org": "Institute of Software, Chinese Academy of Sciences"
+        },
+        {
+            "name": "Jun Liu",
+            "id": "2654222647",
+            "org": "Institute of Software, Chinese Academy of Sciences"
+        },
+        {
+            "name": "Zhaocun Zhou",
+            "id": "2568646669",
+            "org": "Institute of Software, Chinese Academy of Sciences"
+        },
+        {
+            "name": "Chuankun Wu",
+            "id": "2705960929",
+            "org": "Institute of Software, Chinese Academy of Sciences"
+        },
+        {
+            "name": "Dengguo Feng",
+            "id": "2100868817",
+            "org": "Institute of Software, Chinese Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "eSTREAM",
+        "Byte",
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Computer science",
+        "Key (cryptography)",
+        "Stream cipher",
+        "SOSEMANUK"
+    ],
+    "references": [
+        "1513645801",
+        "1628083612",
+        "1822563368",
+        "2134253938",
+        "2172632525"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1535569416",
+    "title": "Using MPI Communication Patterns to Guide Source Code Transformations",
+    "venue": "international conference on computational science",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Robert Preissl",
+            "id": "52795971",
+            "org": "CASC, Lawrence Livermore National Laboratory, USA and GUP, Johannes Kepler University Linz, Austria/Europe#TAB#"
+        },
+        {
+            "name": "Martin Schulz",
+            "id": "2122506644",
+            "org": "CASC, Lawrence Livermore National Laboratory, USA#TAB#"
+        },
+        {
+            "name": "Dieter Kranzlmuller",
+            "id": "2321599603",
+            "org": "GUP, Johannes Kepler University Linz, Austria/Europe#TAB#"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "CASC, Lawrence Livermore National Laboratory, USA#TAB#"
+        },
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2126332795",
+            "org": "CASC, Lawrence Livermore National Laboratory, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Redundant code",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "KPI-driven code analysis",
+        "Unreachable code",
+        "Code generation",
+        "Static program analysis"
+    ],
+    "references": [
+        "122364089",
+        "1490452695",
+        "1969215126",
+        "1990061958",
+        "2092483417",
+        "2146346985",
+        "2152486057"
+    ]
+}

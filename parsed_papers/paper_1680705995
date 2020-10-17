@@ -1,0 +1,68 @@
+{
+    "id": "1680705995",
+    "title": "An Empirical Study of QBF Encodings: from Treewidth Estimation to Useful Preprocessing",
+    "venue": "Fundamenta Informaticae",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Luca Pulina",
+            "id": "2778218173",
+            "org": "(Correspd.) Dipartimento di Informatica, Sistemistica e Telematica, Universita di Genova, Viale Causa, 13 - 16145 Genova, Italy. luca.pulina@unige.it; armando.tacchella@unige.it#TAB#"
+        },
+        {
+            "name": "Armando Tacchella",
+            "id": "2010564482",
+            "org": "Dipartimento di Informatica, Sistemistica e Telematica, Universita di Genova, Viale Causa, 13 - 16145 Genova, Italy. luca.pulina@unige.it; armando.tacchella@unige.it#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Syntax",
+        "Mathematics",
+        "Empirical research",
+        "Treewidth",
+        "Discrete mathematics",
+        "Automated reasoning",
+        "Combinatorics",
+        "Graph",
+        "Preprocessor"
+    ],
+    "references": [
+        "5383638",
+        "69475820",
+        "99828349",
+        "1482661140",
+        "1483522989",
+        "1494899888",
+        "1496518193",
+        "1505368563",
+        "1512793391",
+        "1513165874",
+        "1514067536",
+        "1521034429",
+        "1548827561",
+        "1558152194",
+        "1560318357",
+        "1569833048",
+        "1572445670",
+        "1579221659",
+        "1579668958",
+        "1582966111",
+        "1593443951",
+        "1628915153",
+        "1991477862",
+        "1998084650",
+        "2005573219",
+        "2013951121",
+        "2029448190",
+        "2034674470",
+        "2062897452",
+        "2104749823",
+        "2108447646",
+        "2108530105",
+        "2110992886",
+        "2149441048",
+        "2165930340",
+        "2336629689",
+        "2500559057"
+    ]
+}

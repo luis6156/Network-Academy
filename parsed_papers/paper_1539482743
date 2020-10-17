@@ -1,0 +1,54 @@
+{
+    "id": "1539482743",
+    "title": "Efficient Elliptic Curve Exponentiation Using Mixed Coordinates",
+    "venue": "international cryptology conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Henri Cohen",
+            "id": "2628995597",
+            "org": "Universit\"e Bordeaux I"
+        },
+        {
+            "name": "Atsuko Miyaji",
+            "id": "1454195615",
+            "org": "Matsushita Electric Industrial Co., Ltd."
+        },
+        {
+            "name": "Takatoshi Ono",
+            "id": "2134676542",
+            "org": "Matsushita Information Systems Research Laboratory Nagoya Co., Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Montgomery curve",
+        "Mathematics",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1496801598",
+        "1507106163",
+        "1521787982",
+        "1529013801",
+        "1560768562",
+        "1584579923",
+        "1584722274",
+        "1798342512",
+        "1979485530",
+        "1981455414",
+        "1996360405",
+        "2003736153",
+        "2028358228",
+        "2046569422",
+        "2108834246",
+        "2115840814",
+        "2161531038"
+    ]
+}

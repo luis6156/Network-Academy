@@ -1,0 +1,53 @@
+{
+    "id": "1582599909",
+    "title": "Non-determinism in deductive databases",
+    "venue": "international conference on deductive and object-oriented databases",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Fosca Giannotti",
+            "id": "1205765909",
+            "org": "CNUCE-CNR"
+        },
+        {
+            "name": "Dino Pedreschi",
+            "id": "7769909",
+            "org": "Universita di Pisa"
+        },
+        {
+            "name": "Domenico Sacca",
+            "id": "2155445851",
+            "org": "Universita della Calabria"
+        },
+        {
+            "name": "Carlo Zaniolo",
+            "id": "2028117853",
+            "org": "MCC"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Negation",
+        "Algorithm",
+        "Computer science",
+        "Datalog",
+        "Implementation",
+        "Determinism",
+        "Closed-world assumption",
+        "Database",
+        "Database theory",
+        "Horn clause"
+    ],
+    "references": [
+        "1528738961",
+        "1541178746",
+        "1579386619",
+        "1602838351",
+        "1672891595",
+        "1970629906",
+        "2099043173",
+        "2105905502",
+        "2128770734",
+        "2134054571"
+    ]
+}

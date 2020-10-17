@@ -1,0 +1,84 @@
+{
+    "id": "1709799883",
+    "title": "A general scalable and elastic matching service for content-based publish/subscribe systems",
+    "venue": "Concurrency and Computation: Practice and Experience",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Xingkong Ma",
+            "id": "2117370380",
+            "org": "Science and Technology on Parallel and Distributed Processing Laboratory, College of Computer, National University of Defense Technology, Changsha, Hunan, 410073, China#TAB#"
+        },
+        {
+            "name": "Yijie Wang",
+            "id": "2128663999",
+            "org": "Science and Technology on Parallel and Distributed Processing Laboratory, College of Computer, National University of Defense Technology, Changsha, Hunan, 410073, China#TAB#"
+        },
+        {
+            "name": "Xiaoqiang Pei",
+            "id": "2171196570",
+            "org": "Science and Technology on Parallel and Distributed Processing Laboratory, College of Computer, National University of Defense Technology, Changsha, Hunan, 410073, China#TAB#"
+        },
+        {
+            "name": "Xiaoyong Li",
+            "id": "2707011283",
+            "org": "Science and Technology on Parallel and Distributed Processing Laboratory, College of Computer, National University of Defense Technology, Changsha, Hunan, 410073, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Throughput",
+        "Parallel computing",
+        "Generality",
+        "Computer science",
+        "Distributed computing",
+        "Server",
+        "Software deployment",
+        "Publication",
+        "Real-time computing",
+        "Elastic matching",
+        "Cloud computing"
+    ],
+    "references": [
+        "79646937",
+        "89691598",
+        "1492552531",
+        "1504375684",
+        "1676083726",
+        "1902401793",
+        "1971435796",
+        "1977629236",
+        "2009912142",
+        "2020765652",
+        "2025404341",
+        "2027402731",
+        "2027675779",
+        "2029467255",
+        "2031132532",
+        "2038562061",
+        "2087946700",
+        "2097673300",
+        "2097943705",
+        "2098931293",
+        "2105984507",
+        "2107233660",
+        "2111195164",
+        "2112365485",
+        "2112581266",
+        "2116641234",
+        "2118428193",
+        "2122269925",
+        "2133528042",
+        "2137899328",
+        "2138830906",
+        "2146444625",
+        "2151107368",
+        "2153704625",
+        "2154740912",
+        "2160146501",
+        "2162651847",
+        "2166454918",
+        "2167898414",
+        "2170735098"
+    ]
+}

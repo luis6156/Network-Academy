@@ -1,0 +1,51 @@
+{
+    "id": "1503492529",
+    "title": "Security Flaws in an Efficient Pseudo-Random Number Generator for Low-Power Environments",
+    "venue": "international workshop on security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Pedro Peris-Lopez",
+            "id": "58417693",
+            "org": "Delft University of Technology"
+        },
+        {
+            "name": "Julio C. Hernandez-Castro",
+            "id": "2009976263",
+            "org": "Buckingham Building, Lion Terrace"
+        },
+        {
+            "name": "Juan E. Tapiador",
+            "id": "2892887291",
+            "org": "University of York, Heslington"
+        },
+        {
+            "name": "Enrique San Millan",
+            "id": "2165625518",
+            "org": "University Carlos III of Madrid"
+        },
+        {
+            "name": "Jan C. A. van der Lubbe",
+            "id": "1369284431",
+            "org": "Delft University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Pseudorandom number generator",
+        "Rekeying",
+        "Cryptanalysis",
+        "Computer science",
+        "Timer",
+        "Forward secrecy",
+        "Computer security",
+        "Wireless sensor network",
+        "Randomness",
+        "Real-time computing"
+    ],
+    "references": [
+        "1520258924",
+        "1591147293",
+        "1989129498",
+        "2017769244"
+    ]
+}

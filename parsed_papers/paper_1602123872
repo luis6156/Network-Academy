@@ -1,0 +1,60 @@
+{
+    "id": "1602123872",
+    "title": "MADIS: a slim middleware for database replication",
+    "venue": "european conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Luis Irun-Briz",
+            "id": "1968476822",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Hendrik Decker",
+            "id": "2600423479",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Ruben de Juan-Marin",
+            "id": "294250301",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Francisco Castro-Company",
+            "id": "1608102785",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        },
+        {
+            "name": "Jose Enrique Armendariz-Inigo",
+            "id": "160609645",
+            "org": "Dpto. de Matematica e Informatica, Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "Francesc D. Munoz-Escoi",
+            "id": "2089263920",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database schema",
+        "Replication (computing)",
+        "Computer science",
+        "On the fly",
+        "Distributed computing",
+        "Metadata",
+        "Database",
+        "Middleware",
+        "Architecture"
+    ],
+    "references": [
+        "163910826",
+        "1496236417",
+        "1533863182",
+        "1545155892",
+        "1574797275",
+        "1584817583",
+        "1955276477",
+        "2111586962",
+        "2168104306"
+    ]
+}

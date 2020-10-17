@@ -1,0 +1,75 @@
+{
+    "id": "1473091178",
+    "title": "How Could a Flash Cache Degrade Database Performance Rather Than Improve It? Lessons to be Learnt from Multi-Tiered Storage",
+    "venue": "2nd Workshop on Interactions of NVM/Flash with Operating Systems and Workloads (INFLOW 14)",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Hyojun Kim",
+            "id": "2776731445",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Ioannis Koltsidas",
+            "id": "820494046",
+            "org": "IBM Research Zurich"
+        },
+        {
+            "name": "Nikolas Ioannou",
+            "id": "2689584651",
+            "org": "IBM Research Zurich"
+        },
+        {
+            "name": "Sangeetha Seshadri",
+            "id": "2145590491",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Paul Muench",
+            "id": "2610888650",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Clement L. Dickey",
+            "id": "2122979717",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Lawrence Chiu",
+            "id": "2166656913",
+            "org": "IBM Almaden Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Scalability",
+        "Flashcache",
+        "Database tuning",
+        "Throughput",
+        "Online transaction processing",
+        "Data migration",
+        "Population",
+        "Operating system",
+        "Engineering"
+    ],
+    "references": [
+        "41212852",
+        "162515996",
+        "1512730440",
+        "1578858535",
+        "1741509911",
+        "1860107648",
+        "2009072424",
+        "2038619757",
+        "2043213682",
+        "2065685496",
+        "2072853307",
+        "2088242618",
+        "2092426103",
+        "2144570882",
+        "2147504831",
+        "2162031809",
+        "2166109463",
+        "2172424112"
+    ]
+}

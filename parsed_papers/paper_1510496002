@@ -1,0 +1,90 @@
+{
+    "id": "1510496002",
+    "title": "Availability in globally distributed storage systems",
+    "venue": "operating systems design and implementation",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daniel Ford",
+            "id": "2708238344",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Francois Labelle",
+            "id": "2780803790",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Florentina I. Popovici",
+            "id": "2762122932",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Murray Stokely",
+            "id": "2034876272",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Van-Anh Truong",
+            "id": "1993895950",
+            "org": "Dept. of Industrial Engineering and Operations Research, Columbia University and Google, Inc.#TAB#"
+        },
+        {
+            "name": "Luiz Andre Barroso",
+            "id": "2023575095",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Carrie Grimes",
+            "id": "2097672446",
+            "org": "Google, Inc.#TAB#"
+        },
+        {
+            "name": "Sean Quinlan",
+            "id": "2097339912",
+            "org": "Google, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Information repository",
+        "Software",
+        "Converged storage",
+        "Distributed computing",
+        "Data availability",
+        "Computer science",
+        "Server",
+        "Cloud storage",
+        "Distributed data store",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "116003029",
+        "1532517595",
+        "1606172465",
+        "1822772607",
+        "1836955865",
+        "1891640176",
+        "1945970356",
+        "2001276096",
+        "2019208548",
+        "2023502337",
+        "2043719859",
+        "2115599946",
+        "2119565742",
+        "2120396387",
+        "2122249806",
+        "2122430864",
+        "2123438830",
+        "2123491250",
+        "2125165932",
+        "2125646999",
+        "2136417515",
+        "2161234420",
+        "2166289093",
+        "2167434739",
+        "2405200838",
+        "2583233440",
+        "2624304035"
+    ]
+}

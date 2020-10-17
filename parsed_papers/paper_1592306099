@@ -1,0 +1,53 @@
+{
+    "id": "1592306099",
+    "title": "Linear vs Polynomial Constraints in Database Query Languages",
+    "venue": "principles and practice of constraint programming",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Foto N. Afrati",
+            "id": "2022488008",
+            "org": "National Technical University of Athens"
+        },
+        {
+            "name": "Stavros S. Cosmadakis",
+            "id": "12112317",
+            "org": "New York University"
+        },
+        {
+            "name": "Stephane Grumbach",
+            "id": "678811558",
+            "org": "I.N.R.I.A."
+        },
+        {
+            "name": "Gabriel M. Kuper",
+            "id": "2074153871",
+            "org": "ECRC"
+        }
+    ],
+    "fields_of_study": [
+        "Real number",
+        "Discrete mathematics",
+        "Computer science",
+        "Relational calculus",
+        "Boolean conjunctive query",
+        "Query language",
+        "Database",
+        "Database theory",
+        "Sargable",
+        "Mathematical optimization",
+        "Query optimization",
+        "Polynomial"
+    ],
+    "references": [
+        "312222261",
+        "1481001647",
+        "1498119955",
+        "1591469816",
+        "1596887828",
+        "1834331905",
+        "1869322803",
+        "2105505307",
+        "2294495175"
+    ]
+}

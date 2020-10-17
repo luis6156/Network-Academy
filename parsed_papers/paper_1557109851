@@ -1,0 +1,47 @@
+{
+    "id": "1557109851",
+    "title": "A time-cognizant dynamic crash recovery scheme suitable for distributed real-time main memory databases",
+    "venue": "autonomic and trusted computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yingyuan Xiao",
+            "id": "2710774959",
+            "org": "Department of Computer Science and Engineering, Tianjin University of Technology, Tianjin, P.R. China#TAB#"
+        },
+        {
+            "name": "Yunsheng Liu",
+            "id": "2146752141",
+            "org": "Software College, Huazhong University of Science and Technology, Wuhan, Hubei, P.R. China#TAB#"
+        },
+        {
+            "name": "Xiangyang Chen",
+            "id": "2492231117",
+            "org": "School of Computer Science and Engineering, Wuhan Institute of Technology, Wuhan, Hubei, P.R. China#TAB#"
+        },
+        {
+            "name": "Xiaofeng Liu",
+            "id": "2439906095",
+            "org": "Software College, Huazhong University of Science and Technology, Wuhan, Hubei, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Logging",
+        "Crash",
+        "Database machine",
+        "Downtime",
+        "Computer science",
+        "Transaction processing",
+        "Login",
+        "Database",
+        "Distributed memory",
+        "Concurrency",
+        "Real-time computing"
+    ],
+    "references": [
+        "1514763803",
+        "1522931342",
+        "2020082738",
+        "2041113301"
+    ]
+}

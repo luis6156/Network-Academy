@@ -1,0 +1,41 @@
+{
+    "id": "1553510179",
+    "title": "Cryptanalysis of RSA with private key d less than N 0:292",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Glenn Durfee",
+            "id": "2224511752",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Exponent",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Triangular matrix",
+        "Inverse problem",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Linear combination"
+    ],
+    "references": [
+        "1494684815",
+        "1496432887",
+        "1550863203",
+        "1996360405",
+        "2085856764",
+        "2101040389",
+        "2119873454",
+        "2166780626"
+    ]
+}

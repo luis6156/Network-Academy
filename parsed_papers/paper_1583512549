@@ -1,0 +1,53 @@
+{
+    "id": "1583512549",
+    "title": "An improved 2d colonic polyp segmentation framework based on gradient vector flow deformable model",
+    "venue": "international conference on medical imaging and augmented reality",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Dongqing Chen",
+            "id": "2305524085",
+            "org": "Computer Vision and Image Processing (CVIP) Lab, Department of Electrical and Computer Engineering, University of Louisville, Louisville, KY.#TAB#"
+        },
+        {
+            "name": "M. Sabry Hassouna",
+            "id": "575854630",
+            "org": "Computer Vision and Image Processing (CVIP) Lab, Department of Electrical and Computer Engineering, University of Louisville, Louisville, KY.#TAB#"
+        },
+        {
+            "name": "Aly A. Farag",
+            "id": "2106570123",
+            "org": "Computer Vision and Image Processing (CVIP) Lab, Department of Electrical and Computer Engineering, University of Louisville, Louisville, KY.#TAB#"
+        },
+        {
+            "name": "Robert Falk",
+            "id": "2108383398",
+            "org": "Department of Medial Imaging, Jewish Hospital, Louisville, KY.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Principal curvature",
+        "Mathematics",
+        "Segmentation",
+        "Computer vision",
+        "Active contour model",
+        "Fuzzy logic",
+        "Computed Tomography Colonography",
+        "Vector flow",
+        "Scale-space segmentation",
+        "Sphericity",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1515923768",
+        "1576655571",
+        "2038839211",
+        "2086921140",
+        "2104095591",
+        "2106705035",
+        "2110955233",
+        "2115242586",
+        "2125685777",
+        "2145803225"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1489411336",
+    "title": "Analyzing Context-Free Grammars Using an Incremental SAT Solver",
+    "venue": "international colloquium on automata languages and programming",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Roland Axelsson",
+            "id": "2129945945",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat, Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Keijo Heljanko",
+            "id": "322560430",
+            "org": "Department of Information and Computer Science, Helsinki University of Technology (TKK), Finland#TAB#"
+        },
+        {
+            "name": "Martin Lange",
+            "id": "2460768416",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat, Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Context-free language",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Undecidable problem",
+        "Combinatorics",
+        "Propositional calculus",
+        "Propositional formula",
+        "Correctness",
+        "Boolean satisfiability problem",
+        "Context-free grammar"
+    ],
+    "references": [
+        "1542386705",
+        "1586668623",
+        "1970961429",
+        "1972613240",
+        "2047709539",
+        "2077255765",
+        "2105747683",
+        "2137811792",
+        "2142785340",
+        "2163032283"
+    ]
+}

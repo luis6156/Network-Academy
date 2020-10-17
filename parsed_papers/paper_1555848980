@@ -1,0 +1,42 @@
+{
+    "id": "1555848980",
+    "title": "Transparent checkpointing for applications with graphical user interfaces",
+    "venue": "international service availability symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jan-Thomas Czornack",
+            "id": "2307774291",
+            "org": "Technische Universitat Munchen, Lehrstuhl fur Rechnertechnik und Rechnerorganisation#TAB#"
+        },
+        {
+            "name": "Carsten Trinitis",
+            "id": "2233889641",
+            "org": "Technische Universitat Munchen, Lehrstuhl fur Rechnertechnik und Rechnerorganisation#TAB#"
+        },
+        {
+            "name": "Max Walter",
+            "id": "2135798079",
+            "org": "Technische Universitat Munchen, Lehrstuhl fur Rechnertechnik und Rechnerorganisation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Implementation",
+        "Latency (engineering)",
+        "Server",
+        "Dependability",
+        "Usability",
+        "Real-time computing",
+        "CPU cache",
+        "Graphical user interface",
+        "User interface"
+    ],
+    "references": [
+        "50252182",
+        "1520339130",
+        "1537929875",
+        "2171453084",
+        "2293400840"
+    ]
+}

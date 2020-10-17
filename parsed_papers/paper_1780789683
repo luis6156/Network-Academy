@@ -1,0 +1,41 @@
+{
+    "id": "1780789683",
+    "title": "Exploiting Data Locality on Scalable Shared Memory Machines with Data Parallel Programs",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Siegfried Benkner",
+            "id": "329203016",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Thomas Brandes",
+            "id": "2314113078",
+            "org": "German National Research Center for Information Technology (GMD)"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "High Performance Fortran",
+        "Execution model",
+        "Non-uniform memory access",
+        "Distributed memory",
+        "Fortran"
+    ],
+    "references": [
+        "1553607999",
+        "1837558792",
+        "1978381867",
+        "2035256749",
+        "2085809150",
+        "2096598152",
+        "2112743548"
+    ]
+}

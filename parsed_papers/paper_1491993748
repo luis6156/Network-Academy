@@ -1,0 +1,40 @@
+{
+    "id": "1491993748",
+    "title": "Efficient Compile-Time Garbage Collection for Arbitrary Data Structures",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Markus Mohnen",
+            "id": "1049558102",
+            "org": "Aachen University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Evaluation strategy",
+        "Compile time",
+        "Computer science",
+        "Garbage collection",
+        "Denotational semantics",
+        "Abstract interpretation",
+        "Heap (data structure)",
+        "Strictness analysis",
+        "Correctness",
+        "Programming language"
+    ],
+    "references": [
+        "1504459879",
+        "1512248102",
+        "1519452123",
+        "1537394154",
+        "1603787199",
+        "1966981171",
+        "1967544098",
+        "1980142751",
+        "2005907808",
+        "2047793578",
+        "2093229225",
+        "2094631165",
+        "2208923056"
+    ]
+}

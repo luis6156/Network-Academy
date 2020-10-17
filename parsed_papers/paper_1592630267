@@ -1,0 +1,48 @@
+{
+    "id": "1592630267",
+    "title": "Strong authentication protocol for RFID tag using SHA-1 hash algorithm",
+    "venue": "international conference on computational science and its applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jin-Oh Jeon",
+            "id": "2138815965",
+            "org": "Dept. of Computer Engineering, Anyang University, Anyang-Shi, Kyonggi-Do, Korea#TAB#"
+        },
+        {
+            "name": "Su-Bong Ryu",
+            "id": "2154201435",
+            "org": "Dept. of Computer Engineering, Anyang University, Anyang-Shi, Kyonggi-Do, Korea#TAB#"
+        },
+        {
+            "name": "Sang-Jo Park",
+            "id": "2128082346",
+            "org": "School of General Education, Hoseo University, Asan, Chungnam, Korea#TAB#"
+        },
+        {
+            "name": "Min-Sup Kang",
+            "id": "2145067642",
+            "org": "Dept. of Computer Engineering, Anyang University, Anyang-Shi, Kyonggi-Do, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data Authentication Algorithm",
+        "Port Control Protocol",
+        "Authentication protocol",
+        "Protected Extensible Authentication Protocol",
+        "Computer science",
+        "Otway-Rees protocol",
+        "Challenge-Handshake Authentication Protocol",
+        "Internetwork protocol",
+        "Computer network",
+        "Lightweight Extensible Authentication Protocol"
+    ],
+    "references": [
+        "1483027441",
+        "1549300373",
+        "2106169428",
+        "2112137829",
+        "2167654758",
+        "2396931916"
+    ]
+}

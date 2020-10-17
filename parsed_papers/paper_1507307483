@@ -1,0 +1,37 @@
+{
+    "id": "1507307483",
+    "title": "Priority Consistency in Protocol Architecture",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Clifford W. Mercer",
+            "id": "2047238776",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Hideyuki Tokuda",
+            "id": "2583824008",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Context switch",
+        "Response time",
+        "Computer science",
+        "Priority inversion",
+        "Scheduling (computing)",
+        "General Inter-ORB Protocol",
+        "Priority ceiling protocol",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "1703500428",
+        "2058736839",
+        "2134323418",
+        "2141547999",
+        "2160293203"
+    ]
+}

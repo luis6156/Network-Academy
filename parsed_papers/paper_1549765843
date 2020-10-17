@@ -1,0 +1,46 @@
+{
+    "id": "1549765843",
+    "title": "Relaxed DPLL Search for MaxSAT",
+    "venue": "theory and applications of satisfiability testing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Lukas Kroc",
+            "id": "1589095292",
+            "org": "Department of Computer Science, Cornell University, Ithaca, U.S.A. 14853-7501#TAB#"
+        },
+        {
+            "name": "Ashish Sabharwal",
+            "id": "2232198255",
+            "org": "Department of Computer Science, Cornell University, Ithaca, U.S.A. 14853-7501#TAB#"
+        },
+        {
+            "name": "Bart Selman",
+            "id": "1966117383",
+            "org": "Department of Computer Science, Cornell University, Ithaca, U.S.A. 14853-7501#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Bottleneck",
+        "Unit propagation",
+        "Small number",
+        "DPLL algorithm",
+        "Satisfiability",
+        "Maximum satisfiability problem",
+        "Local search (optimization)",
+        "Solver",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1497380692",
+        "1509089938",
+        "1546338010",
+        "1559357575",
+        "1586677474",
+        "2140138589",
+        "2141037672"
+    ]
+}

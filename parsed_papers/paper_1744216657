@@ -1,0 +1,79 @@
+{
+    "id": "1744216657",
+    "title": "Key-Alternating ciphers in a provable setting: encryption using a small number of public permutations",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "KU Leuven and IBBT, Belgium#TAB#"
+        },
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Gregor Leander",
+            "id": "2036774799",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "John P. Steinberger",
+            "id": "2123433928",
+            "org": "Tsinghua University, China#TAB#"
+        },
+        {
+            "name": "Elmar Tischhauser",
+            "id": "258294349",
+            "org": "KU Leuven and IBBT, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Block size",
+        "Theoretical computer science",
+        "Cipher",
+        "Small number",
+        "Discrete mathematics",
+        "Encryption",
+        "Related-key attack",
+        "Permutation",
+        "Provable security"
+    ],
+    "references": [
+        "1482922493",
+        "1497481941",
+        "1507705751",
+        "1515595447",
+        "1523982624",
+        "1540875416",
+        "1545249138",
+        "1597699498",
+        "1602941974",
+        "1605116544",
+        "1607372077",
+        "1875601660",
+        "1894646615",
+        "1978695162",
+        "1985969574",
+        "2024729203",
+        "2027701442",
+        "2045479946",
+        "2064939672",
+        "2077300005",
+        "2120464016",
+        "2128514748",
+        "2133371372",
+        "2137326899",
+        "2141124495",
+        "2147436504"
+    ]
+}

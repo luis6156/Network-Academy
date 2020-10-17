@@ -1,0 +1,50 @@
+{
+    "id": "1586513648",
+    "title": "Read/Write based fast-path transformation for FCFS mutual exclusion",
+    "venue": "conference on current trends in theory and practice of informatics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Prasad Jayanti",
+            "id": "2000404277",
+            "org": "Department of Computer Science, Dartmouth College, Hanover, NH#TAB#"
+        },
+        {
+            "name": "Srdjan Petrovic",
+            "id": "2139806995",
+            "org": "Department of Computer Science, Dartmouth College, Hanover, NH#TAB#"
+        },
+        {
+            "name": "Neha Narula",
+            "id": "2111780276",
+            "org": "Google Inc., Mountain View, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Critical section",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Fast path"
+    ],
+    "references": [
+        "1814330927",
+        "1850405760",
+        "1979464238",
+        "2001738739",
+        "2030333832",
+        "2053934158",
+        "2054987727",
+        "2069278684",
+        "2070908350",
+        "2094104092",
+        "2119162981",
+        "2124129198",
+        "2145602816",
+        "2158583060",
+        "2166071597",
+        "2170523074",
+        "2220375753"
+    ]
+}

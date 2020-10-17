@@ -1,0 +1,47 @@
+{
+    "id": "1483869398",
+    "title": "An optimizing Prolog compiler",
+    "venue": "conference on logic programming",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Hideaki Komatsu",
+            "id": "2115381187",
+            "org": "IBM Tokyo Research Laboratory"
+        },
+        {
+            "name": "Naoyuki Tamura",
+            "id": "2004240429",
+            "org": "IBM Tokyo Research Laboratory"
+        },
+        {
+            "name": "Yasuo Asakawa",
+            "id": "2104408939",
+            "org": "IBM Tokyo Research Laboratory"
+        },
+        {
+            "name": "Toshiaki Kurokawa",
+            "id": "2651598634",
+            "org": "IBM Tokyo Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Computer architecture",
+        "Compiler",
+        "Functional compiler",
+        "Computer science",
+        "Compiler construction",
+        "Compiler correctness",
+        "Software portability",
+        "Optimizing compiler",
+        "Virtual machine",
+        "Prolog",
+        "Programming language"
+    ],
+    "references": [
+        "113772595",
+        "1576113161",
+        "1975681120",
+        "2116446217"
+    ]
+}

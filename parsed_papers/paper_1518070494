@@ -1,0 +1,54 @@
+{
+    "id": "1518070494",
+    "title": "Symmetric data objects and remote memory access communication for fortran-95 applications",
+    "venue": "european conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jarek Nieplocha",
+            "id": "2056935207",
+            "org": "Pacific Northwest National Laboratory, Richland, WA#TAB#"
+        },
+        {
+            "name": "Doug Baxter",
+            "id": "2294829548",
+            "org": "Pacific Northwest National Laboratory, Richland, WA#TAB#"
+        },
+        {
+            "name": "Vinod Tipparaju",
+            "id": "2762540024",
+            "org": "Pacific Northwest National Laboratory, Richland, WA#TAB#"
+        },
+        {
+            "name": "Craig Rasmunssen",
+            "id": "2539509118",
+            "org": "Los Alamos National Laboratory, Los Alamos, NM#TAB#"
+        },
+        {
+            "name": "Robert W. Numrich",
+            "id": "1137708357",
+            "org": "Minnesota Supercomputing Institute, University of Minnesota, Minneapolis, MN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Input/output",
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "Server",
+        "Message passing",
+        "Operating system",
+        "Data structure",
+        "SHMEM",
+        "Fortran",
+        "Multigrid method"
+    ],
+    "references": [
+        "1595141187",
+        "1751637436",
+        "1861151562",
+        "2151227241",
+        "2154514674"
+    ]
+}

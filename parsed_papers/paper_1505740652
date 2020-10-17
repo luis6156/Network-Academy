@@ -1,0 +1,39 @@
+{
+    "id": "1505740652",
+    "title": "An Algebraic Deductive Database Managing a Mass of Rule Clauses",
+    "venue": "IWDM",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Tadashi Ohmori",
+            "id": "2776179310",
+            "org": "University of Tokyo"
+        },
+        {
+            "name": "Hidehiko Tanaka",
+            "id": "2149292659",
+            "org": "University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Relational algebra",
+        "Computer science",
+        "Deductive database",
+        "Algebraic number",
+        "Unification",
+        "Horn clause",
+        "Query optimization"
+    ],
+    "references": [
+        "81313682",
+        "1487591965",
+        "1589804498",
+        "1590269280",
+        "1594124711",
+        "2027276583",
+        "2116070819",
+        "2128248543",
+        "2156951049"
+    ]
+}

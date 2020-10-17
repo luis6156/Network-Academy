@@ -1,0 +1,46 @@
+{
+    "id": "1596302688",
+    "title": "Using comparison of parallel phoneme probability streams for OOV word detection",
+    "venue": "european signal processing conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Tamara Tosic",
+            "id": "1963882495",
+            "org": "IDIAP Research Institute, Centre du Parc, Av. des Pres-Beudin 20, 1920 Martigny, Switzerland"
+        },
+        {
+            "name": "Mathew Magimai.-Doss",
+            "id": "2156853148",
+            "org": "IDIAP Research Institute, Centre du Parc, Av. des Pres-Beudin 20, 1920 Martigny, Switzerland"
+        },
+        {
+            "name": "Hynek Hermansky",
+            "id": "316105680",
+            "org": "IDIAP Research Institute, Centre du Parc, Av. des Pres-Beudin 20, 1920 Martigny, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "STREAMS",
+        "Vocabulary",
+        "Acoustic model",
+        "Computer science",
+        "Pattern recognition",
+        "Euclidean distance",
+        "Speech recognition",
+        "Posterior probability",
+        "Distance measures",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "88309612",
+        "1501139663",
+        "1802155944",
+        "2095635999",
+        "2113540630",
+        "2120889539",
+        "2134659216",
+        "2168198053"
+    ]
+}

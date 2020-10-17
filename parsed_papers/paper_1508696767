@@ -1,0 +1,49 @@
+{
+    "id": "1508696767",
+    "title": "FPGA Implementation of Elliptic Curve Point Multiplication over GF(2191)",
+    "venue": "information security and assurance",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Sameh M. Shohdy",
+            "id": "2650856220",
+            "org": "Computer science department, faculty of computers and information, Menoufiya University, Shebin Elkom, Egypt 32511#TAB#"
+        },
+        {
+            "name": "Ashraf El-Sisi",
+            "id": "2780338275",
+            "org": "Computer science department, faculty of computers and information, Menoufiya University, Shebin Elkom, Egypt 32511#TAB#"
+        },
+        {
+            "name": "Nabil A. Ismail",
+            "id": "2472264725",
+            "org": "Computer science department, faculty of computers and information, Menoufiya University, Shebin Elkom, Egypt 32511#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Scalar multiplication",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Multiplication",
+        "Multiplication algorithm",
+        "Hardware acceleration",
+        "Architecture"
+    ],
+    "references": [
+        "1490476950",
+        "1498718992",
+        "1508480110",
+        "1522228241",
+        "1947125001",
+        "2059168043",
+        "2119688981",
+        "2122372222",
+        "2139813613",
+        "2142158237",
+        "2286477783"
+    ]
+}

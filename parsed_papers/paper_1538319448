@@ -1,0 +1,64 @@
+{
+    "id": "1538319448",
+    "title": "File system logging versus clustering: a performance comparison",
+    "venue": "usenix annual technical conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Margo I. Seltzer",
+            "id": "2337629383",
+            "org": "Harvard University#TAB#"
+        },
+        {
+            "name": "Keith A. Smith",
+            "id": "2149125339",
+            "org": "Harvard University#TAB#"
+        },
+        {
+            "name": "Hari Balakrishnan",
+            "id": "1998464616",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Jacqueline Chang",
+            "id": "2673688768",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Sara McMains",
+            "id": "1541164888",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Venkata N. Padmanabhan",
+            "id": "2039246148",
+            "org": "University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Transaction processing",
+        "Fragmentation (computing)",
+        "Megabyte",
+        "File system fragmentation",
+        "Cluster analysis",
+        "File Control Block",
+        "File system",
+        "Real-time computing",
+        "Clock rate"
+    ],
+    "references": [
+        "24973626",
+        "159438323",
+        "201248661",
+        "1595924276",
+        "2005373714",
+        "2007415020",
+        "2028080565",
+        "2108183412",
+        "2114167330",
+        "2151843600",
+        "2171352284"
+    ]
+}

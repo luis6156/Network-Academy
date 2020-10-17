@@ -1,0 +1,51 @@
+{
+    "id": "1536085039",
+    "title": "Ciphertext-Auditable public key encryption",
+    "venue": "international workshop on security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Satoshi Hada",
+            "id": "2099806477",
+            "org": "Tokyo Research Laboratory, IBM Research, Yamato, Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "id": "2138196911",
+            "org": "Dept. of Computer Science and Communication Engineering, Kyushu University, Hakozaki, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malleability",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Plaintext-aware encryption",
+        "Semantic security",
+        "Key clustering",
+        "Ciphertext indistinguishability",
+        "Deterministic encryption",
+        "Ciphertext",
+        "Attribute-based encryption",
+        "Internet privacy"
+    ],
+    "references": [
+        "19955532",
+        "1479681406",
+        "1516512945",
+        "1526778951",
+        "1532874975",
+        "1570996766",
+        "1591569222",
+        "1718722133",
+        "1959449166",
+        "2052267638",
+        "2073210531",
+        "2101803085",
+        "2104578476",
+        "2108834246",
+        "2110740499",
+        "2139033758",
+        "2159339434"
+    ]
+}

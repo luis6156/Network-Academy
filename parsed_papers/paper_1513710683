@@ -1,0 +1,89 @@
+{
+    "id": "1513710683",
+    "title": "Avoiding file system micromanagement with range writes",
+    "venue": "operating systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ashok Anand",
+            "id": "2017061156",
+            "org": "University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Sayandeep Sen",
+            "id": "2632988806",
+            "org": "University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Andrew Krioukov",
+            "id": "2050591641",
+            "org": "U.C. Berkeley and University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Florentina I. Popovici",
+            "id": "1275514534",
+            "org": "Google and University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Aditya Akella",
+            "id": "2286288562",
+            "org": "University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Andrea C. Arpaci-Dusseau",
+            "id": "1979388515",
+            "org": "University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Remzi H. Arpaci-Dusseau",
+            "id": "74145742",
+            "org": "University of Wisconsin, Madison#TAB#"
+        },
+        {
+            "name": "Suman Banerjee",
+            "id": "2126070833",
+            "org": "University of Wisconsin, Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unix file types",
+        "Computer science",
+        "Distributed computing",
+        "Versioning file system",
+        "Stub file",
+        "File Control Block",
+        "Journaling file system",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "Computer file",
+        "Real-time computing"
+    ],
+    "references": [
+        "59613816",
+        "195637256",
+        "1538319448",
+        "1607828542",
+        "1841617228",
+        "1966938284",
+        "1977804217",
+        "2005373714",
+        "2007415020",
+        "2012728257",
+        "2017563980",
+        "2041516144",
+        "2068689036",
+        "2070834743",
+        "2100100130",
+        "2108183412",
+        "2114167330",
+        "2124349089",
+        "2131746365",
+        "2140815597",
+        "2146841776",
+        "2156605713",
+        "2164155474",
+        "2165848246",
+        "2168395296",
+        "2171352284"
+    ]
+}

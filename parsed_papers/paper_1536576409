@@ -1,0 +1,49 @@
+{
+    "id": "1536576409",
+    "title": "Model checking almost all paths can be less expensive than checking all paths",
+    "venue": "foundations of software technology and theoretical computer science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Matthias Schmalz",
+            "id": "1938094007",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Hagen Volzer",
+            "id": "1747272225",
+            "org": "IBM Zurich Research Laboratory, Switzerland#TAB#"
+        },
+        {
+            "name": "Daniele Varacca",
+            "id": "2626903025",
+            "org": "PPS, CNRS & Univ. Paris 7, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Operator (computer programming)",
+        "Algorithm",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Temporal logic",
+        "Combinatorics",
+        "Symbolic trajectory evaluation",
+        "Model checking",
+        "Linear temporal logic",
+        "Abstraction model checking"
+    ],
+    "references": [
+        "189948524",
+        "1641346184",
+        "1800185629",
+        "1907047740",
+        "1972203711",
+        "1975657455",
+        "2003227046",
+        "2090398333",
+        "2098000194",
+        "2165161585"
+    ]
+}

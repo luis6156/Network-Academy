@@ -1,0 +1,67 @@
+{
+    "id": "1576429010",
+    "title": "On using network RAM as a non-volatile buffer",
+    "venue": "Cluster Computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Dionisios N. Pnevmatikatos",
+            "id": "253584020",
+            "org": "Institute of Computer Science (ICS), Foundation for Research & Technology - Hellas (FORTH), P.O. Box 1385, GR-711 10 Heraklion, Crete, Greece#TAB#"
+        },
+        {
+            "name": "Evangelos P. Markatos",
+            "id": "1973983982",
+            "org": "Institute of Computer Science (ICS), Foundation for Research & Technology - Hellas (FORTH), P.O. Box 1385, GR-711 10 Heraklion, Crete, Greece#TAB#"
+        },
+        {
+            "name": "Grigorios Magklis",
+            "id": "1964134465",
+            "org": "Institute of Computer Science (ICS), Foundation for Research & Technology - Hellas (FORTH), P.O. Box 1385, GR-711 10 Heraklion, Crete, Greece#TAB#"
+        },
+        {
+            "name": "Sotiris Ioannidis",
+            "id": "2024597755",
+            "org": "Institute of Computer Science (ICS), Foundation for Research & Technology - Hellas (FORTH), P.O. Box 1385, GR-711 10 Heraklion, Crete, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Disk buffer",
+        "Write combining",
+        "Memory buffer register",
+        "Asynchronous communication",
+        "Stable storage",
+        "Computer science",
+        "Write buffer",
+        "Write once read many",
+        "Operating system",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1556689684",
+        "1573783702",
+        "1933235436",
+        "2006803879",
+        "2007415020",
+        "2012643955",
+        "2012728257",
+        "2025413686",
+        "2035606364",
+        "2039573521",
+        "2070761976",
+        "2077967211",
+        "2088221489",
+        "2098462981",
+        "2107460938",
+        "2110468472",
+        "2124213351",
+        "2144329343",
+        "2147853062",
+        "2151666023",
+        "2151745115",
+        "2154207621",
+        "2154817671",
+        "2155323584"
+    ]
+}

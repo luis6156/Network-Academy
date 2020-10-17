@@ -1,0 +1,51 @@
+{
+    "id": "1602210665",
+    "title": "Combination of disjoint theories: beyond decidability",
+    "venue": "international joint conference on automated reasoning",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Pascal Fontaine",
+            "id": "2227931120",
+            "org": "Universite de Lorraine & LORIA, Nancy, France#TAB#"
+        },
+        {
+            "name": "Stephan Merz",
+            "id": "2097000653",
+            "org": "INRIA Nancy & LORIA, Nancy, France#TAB#"
+        },
+        {
+            "name": "Christoph Weidenbach",
+            "id": "2148585361",
+            "org": "Max-Planck-Institut fur Informatik, Saarbrucken, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Discrete mathematics",
+        "Completeness (statistics)",
+        "Combinatorics",
+        "Disjoint sets",
+        "Satisfiability modulo theories",
+        "Decidability",
+        "Atomic formula"
+    ],
+    "references": [
+        "29327042",
+        "49135663",
+        "1481397690",
+        "1535925611",
+        "1536511644",
+        "1543051890",
+        "1550776561",
+        "1559664284",
+        "1586677474",
+        "1747570770",
+        "1978356133",
+        "2056350513",
+        "2086822130",
+        "2096967940",
+        "2164778826"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1597130819",
+    "title": "Observations on MPI-2 support for hybrid master/slave applications in dynamic and heterogeneous environments",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Claudia Leopold",
+            "id": "2108921055",
+            "org": "Research Group Programming Languages/Methodologies, University of Kassel, Kassel, Germany#TAB#"
+        },
+        {
+            "name": "Michael Suss",
+            "id": "1973708906",
+            "org": "Research Group Programming Languages/Methodologies, University of Kassel, Kassel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Malleability",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Master/slave",
+        "Message Passing Interface",
+        "Multiprocessing",
+        "Message passing",
+        "Virtual machine"
+    ],
+    "references": [
+        "1496507101",
+        "1963882433",
+        "1977495263",
+        "2014594876",
+        "2082659044",
+        "2140085532",
+        "2152438456",
+        "2161292693",
+        "2165863720"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "147129824",
+    "title": "Automatic quantification of cache side-channels",
+    "venue": "computer aided verification",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Boris Kopf",
+            "id": "2137841054",
+            "org": "IMDEA Software Institute, Spain#TAB#"
+        },
+        {
+            "name": "Laurent Mauborgne",
+            "id": "283318887",
+            "org": "IMDEA Software Institute, Spain#TAB#"
+        },
+        {
+            "name": "Martin Ochoa",
+            "id": "2137939656",
+            "org": "Siemens AG, Germany, TU Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Algorithm",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "Pipeline burst cache",
+        "Real-time computing",
+        "Cache pollution",
+        "Cache invalidation"
+    ],
+    "references": [
+        "111085860",
+        "1483547755",
+        "1488058190",
+        "1515906028",
+        "1518995377",
+        "1523982624",
+        "1549794385",
+        "1592889082",
+        "1664808737",
+        "1740185811",
+        "1821583647",
+        "1997775274",
+        "1998955763",
+        "2037851672",
+        "2043100293",
+        "2062066235",
+        "2097151854",
+        "2101171610",
+        "2107691219",
+        "2108104925",
+        "2109510636",
+        "2111552846",
+        "2116660249",
+        "2116877149",
+        "2119966192",
+        "2128255161",
+        "2131019288",
+        "2132064685",
+        "2132524091",
+        "2133701468",
+        "2147436337",
+        "2149517094",
+        "2166293920",
+        "2167136065",
+        "2172060328",
+        "2194223632"
+    ]
+}

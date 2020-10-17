@@ -1,0 +1,74 @@
+{
+    "id": "1581657066",
+    "title": "Combining performance aspects of irregular gauss-seidel via sparse tiling",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Michelle Mills Strout",
+            "id": "2134248491",
+            "org": "University of California, San Diego, CA#TAB#"
+        },
+        {
+            "name": "Larry Carter",
+            "id": "2108575298",
+            "org": "University of California, San Diego, CA#TAB#"
+        },
+        {
+            "name": "Jeanne Ferrante",
+            "id": "2706396683",
+            "org": "University of California, San Diego, CA#TAB#"
+        },
+        {
+            "name": "Jonathan Freeman",
+            "id": "2479478010",
+            "org": "University of California, San Diego, CA#TAB#"
+        },
+        {
+            "name": "Barbara Kreaseck",
+            "id": "2040231712",
+            "org": "University of California, San Diego, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Shared memory",
+        "Locality",
+        "Computer science",
+        "Data parallelism",
+        "Task parallelism",
+        "Iterative method",
+        "Multigrid method",
+        "Gauss-Seidel method"
+    ],
+    "references": [
+        "1513554765",
+        "1545258949",
+        "1549556853",
+        "1550210730",
+        "1554991828",
+        "1561247983",
+        "1568928125",
+        "1574030978",
+        "1605308404",
+        "1968347730",
+        "1968628974",
+        "1989935593",
+        "1993464114",
+        "2028914463",
+        "2040314537",
+        "2042629708",
+        "2068810256",
+        "2078900897",
+        "2100173406",
+        "2108315152",
+        "2108730477",
+        "2112397379",
+        "2119609467",
+        "2127201837",
+        "2169282672",
+        "2296218291"
+    ]
+}

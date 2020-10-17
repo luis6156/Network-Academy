@@ -1,0 +1,45 @@
+{
+    "id": "1603184524",
+    "title": "Detecting DDoS attacks based on multi-stream fused HMM in source-end network",
+    "venue": "cryptology and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jian Kang",
+            "id": "2695983620",
+            "org": "Department of Computer Science & Technology, Jilin University, Changchun, China#TAB#"
+        },
+        {
+            "name": "Yuan Zhang",
+            "id": "2655174354",
+            "org": "Department of Computer Science & Technology, Jilin University, Changchun, China#TAB#"
+        },
+        {
+            "name": "Jiu-Bin Ju",
+            "id": "2668065064",
+            "org": "Department of Computer Science & Technology, Jilin University, Changchun, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Internet Protocol",
+        "Port (computer networking)",
+        "Denial-of-service attack",
+        "Computer science",
+        "Markov model",
+        "CUSUM",
+        "Computer security",
+        "Hidden Markov model",
+        "IP header"
+    ],
+    "references": [
+        "1486402922",
+        "1537659559",
+        "1547297097",
+        "1563061804",
+        "2081357650",
+        "2103743127",
+        "2105020570",
+        "2152239535"
+    ]
+}

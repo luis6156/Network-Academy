@@ -1,0 +1,44 @@
+{
+    "id": "1528184058",
+    "title": "Cryptanalysis of some Hash Functions based on Block Ciphers and Codes",
+    "venue": "Informatica (slovenia)",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hongjun Wu",
+            "id": "2442325342",
+            "org": "Agency for Science, Technology and Research"
+        },
+        {
+            "name": "Feng Bao",
+            "id": "2311384390",
+            "org": "Laboratories for Information Technology"
+        },
+        {
+            "name": "Robert Huijie Deng",
+            "id": "2683292197",
+            "org": "Laboratories for Information Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "Block code",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Computer science",
+        "Residual block termination",
+        "Differential cryptanalysis",
+        "CBC-MAC",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1488885050",
+        "1547537489",
+        "1591971100",
+        "1872065828",
+        "2098801947",
+        "2136823479"
+    ]
+}

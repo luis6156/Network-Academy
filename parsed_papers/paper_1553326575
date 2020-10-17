@@ -1,0 +1,57 @@
+{
+    "id": "1553326575",
+    "title": "Speeding up HMM decoding and training by exploiting sequence repetitions",
+    "venue": "combinatorial pattern matching",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Shay Mozes",
+            "id": "2251920059",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Oren Weimann",
+            "id": "253684725",
+            "org": "MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Michal Ziv-Ukelson",
+            "id": "196949780",
+            "org": "School of Computer Science, Tel-Aviv University, Tel-Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speedup",
+        "Byte pair encoding",
+        "Discrete mathematics",
+        "Decoding methods",
+        "Pattern recognition",
+        "Computer science",
+        "Hidden Markov model",
+        "Soft output Viterbi algorithm",
+        "Viterbi algorithm",
+        "Dynamic programming",
+        "Iterative Viterbi decoding",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1480106357",
+        "1810603836",
+        "1968063294",
+        "1979740015",
+        "1991133427",
+        "2000528559",
+        "2008803097",
+        "2026893402",
+        "2034479113",
+        "2049170719",
+        "2049231620",
+        "2056208131",
+        "2062202510",
+        "2062657631",
+        "2077770566",
+        "2096552453",
+        "2135905685"
+    ]
+}

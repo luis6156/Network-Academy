@@ -1,0 +1,85 @@
+{
+    "id": "1788078288",
+    "title": "Proving Termination and Memory Safety for Programs with Pointer Arithmetic",
+    "venue": "international joint conference on automated reasoning",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Thomas Stroder",
+            "id": "2087070251",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Jurgen Giesl",
+            "id": "1990999863",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Marc Brockschmidt",
+            "id": "2027911405",
+            "org": "Microsoft Research Cambridge"
+        },
+        {
+            "name": "Florian Frohn",
+            "id": "2074587852",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Carsten Fuhs",
+            "id": "2079757691",
+            "org": "University College London"
+        },
+        {
+            "name": "Jera Hensel",
+            "id": "2153662500",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Peter Schneider-Kamp",
+            "id": "2057487994",
+            "org": "University of Southern Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Gas meter prover",
+        "Theoretical computer science",
+        "Algorithm",
+        "Pointer (computer programming)",
+        "Integer",
+        "Memory safety",
+        "Computer science",
+        "Symbolic execution",
+        "Transition system",
+        "Graph",
+        "Open problem"
+    ],
+    "references": [
+        "108605113",
+        "188927585",
+        "1480909796",
+        "1495368328",
+        "1500350535",
+        "1505537169",
+        "1506927614",
+        "1521216227",
+        "1524622503",
+        "1542502949",
+        "1556566737",
+        "1581674879",
+        "1598565505",
+        "1996245589",
+        "2003383232",
+        "2013252208",
+        "2043100293",
+        "2096096565",
+        "2112350720",
+        "2114695797",
+        "2147263168",
+        "2153185479",
+        "2194223632",
+        "2258703518",
+        "2397741058",
+        "2398337394",
+        "2401605286"
+    ]
+}

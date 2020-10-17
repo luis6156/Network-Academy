@@ -1,0 +1,44 @@
+{
+    "id": "1505422848",
+    "title": "Everything in NP can be argued in perfect zero-knowledge in a bounded number of rounds",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Gilles Brassard",
+            "id": "2041502760",
+            "org": "Universite de Montreal"
+        },
+        {
+            "name": "Claude Crepeau",
+            "id": "2293660417",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "IBM T.J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Gas meter prover",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Zero-knowledge proof",
+        "Bounded function",
+        "Cheating"
+    ],
+    "references": [
+        "1484603737",
+        "1494965429",
+        "1498590645",
+        "1502416796",
+        "1970606468",
+        "1979215153",
+        "2099188893",
+        "2119436952",
+        "2151433956"
+    ]
+}

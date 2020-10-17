@@ -1,0 +1,37 @@
+{
+    "id": "1532176935",
+    "title": "FaCT and DLP",
+    "venue": "theorem proving with analytic tableaux and related methods",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Ian Horrocks",
+            "id": "2010142017",
+            "org": "University of Manchester"
+        },
+        {
+            "name": "Peter F. Patel-Schneider",
+            "id": "64760803",
+            "org": "Bell Labs Research"
+        }
+    ],
+    "fields_of_study": [
+        "Embedding",
+        "Algorithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Backjumping",
+        "Description logic",
+        "Knowledge representation and reasoning",
+        "Preprocessor",
+        "Subset and superset",
+        "Backtracking",
+        "Common Lisp"
+    ],
+    "references": [
+        "1512262469",
+        "1514356467",
+        "1575501166",
+        "2296369602"
+    ]
+}

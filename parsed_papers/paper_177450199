@@ -1,0 +1,39 @@
+{
+    "id": "177450199",
+    "title": "Scheduling DAGs on a Bounded Number of Processors.",
+    "venue": "parallel and distributed processing techniques and applications",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Honbo Zhou",
+            "id": "2130862627",
+            "org": "Department of Computer Science|University of Zurich|Oak Ridge National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Gang scheduling",
+        "Multiprocessor scheduling",
+        "Deadline-monotonic scheduling",
+        "Stride scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1969750929",
+        "2011762053",
+        "2019356799",
+        "2031415642",
+        "2057108708",
+        "2060983467",
+        "2073684463",
+        "2077073639",
+        "2089265778",
+        "2118396891",
+        "2158598102"
+    ]
+}

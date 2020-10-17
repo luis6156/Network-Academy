@@ -1,0 +1,51 @@
+{
+    "id": "154833777",
+    "title": "BUBBLE TREE DRAWING ALGORITHM",
+    "venue": "international conference on computer vision and graphics",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sebastien Grivet",
+            "id": "2095406118",
+            "org": "LaBRI-Universite Bordeaux 1, 351 Cours de la Liberation"
+        },
+        {
+            "name": "David Auber",
+            "id": "2098528998",
+            "org": "LaBRI-Universite Bordeaux 1, 351 Cours de la Liberation"
+        },
+        {
+            "name": "Jean-Philippe Domenger",
+            "id": "1989180910",
+            "org": "LaBRI-Universite Bordeaux 1, 351 Cours de la Liberation"
+        },
+        {
+            "name": "Guy Melancon",
+            "id": "2779206936",
+            "org": "LIRMM Montepellier"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Computer science",
+        "Planar",
+        "Combinatorics",
+        "Bubble",
+        "Trade-off",
+        "Angular resolution",
+        "Force-directed graph drawing"
+    ],
+    "references": [
+        "1589019160",
+        "1589110483",
+        "1968305696",
+        "2045012623",
+        "2086050593",
+        "2091548089",
+        "2102664288",
+        "2106588364",
+        "2146362647",
+        "2155351266",
+        "2171409252"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "123670719",
+    "title": "Exact dependence analysis for increased communication overlap",
+    "venue": "EuroMPI'12 Proceedings of the 19th European conference on Recent Advances in the Message Passing Interface",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Simone Pellegrini",
+            "id": "2098790856",
+            "org": "Institute of Informatics, University of Innsbruck, Austria#TAB#"
+        },
+        {
+            "name": "Torsten Hoefler",
+            "id": "262156611",
+            "org": "University of Illinois at Urbana-Champaign, IL, USA, Department of Computer Science, ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "Institute of Informatics, University of Innsbruck, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computation",
+        "Compiler",
+        "Computer science",
+        "Dependence analysis",
+        "Tracing",
+        "Stencil code",
+        "Message passing",
+        "Frameworks supporting the polyhedral model",
+        "Programmer"
+    ],
+    "references": [
+        "1494930385",
+        "1510543252",
+        "1534946390",
+        "1558370006",
+        "1559603603",
+        "1598202309",
+        "1992122785",
+        "2002505081",
+        "2007962166",
+        "2071110673",
+        "2100808563",
+        "2132777761",
+        "2136434791",
+        "2141083862",
+        "2152419477"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1538914263",
+    "title": "Performance of HECC coprocessors using inversion-free formulae",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Thomas J. Wollinger",
+            "id": "249014504",
+            "org": "Escrypt GmbH - Embedded Security, Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Guido Bertoni",
+            "id": "2106307877",
+            "org": "STMicroelectronics - Advanced System Technology - Agrate B., Milano, Italy#TAB#"
+        },
+        {
+            "name": "Luca Breveglieri",
+            "id": "2183519221",
+            "org": "Politecnico di Milano, Italy#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Communication Security Group (COSY), Ruhr-Universitaet Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Adder",
+        "Field-programmable gate array",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Hyperelliptic curve",
+        "Coprocessor",
+        "Cryptosystem",
+        "Hardware architecture",
+        "Affine transformation"
+    ],
+    "references": [
+        "124206397",
+        "1480030470",
+        "1550761406",
+        "2075054028",
+        "2153226320",
+        "2157087936",
+        "2169338409"
+    ]
+}

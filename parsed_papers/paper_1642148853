@@ -1,0 +1,65 @@
+{
+    "id": "1642148853",
+    "title": "CT-NOR: representing and reasoning about events in continuous time",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Aleksander Simma",
+            "id": "2502677955",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Moises Goldszmidt",
+            "id": "2609187939",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "John MacCormick",
+            "id": "2302713297",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Paul Barham",
+            "id": "2296249340",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Richard Black",
+            "id": "2104764447",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Rebecca Isaacs",
+            "id": "2118758609",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Richard Mortier",
+            "id": "2063134401",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Timestamp",
+        "Statistical hypothesis testing",
+        "Computer science",
+        "Data mining",
+        "Expectation-maximization algorithm",
+        "Distributed Computing Environment",
+        "Change detection",
+        "Generative model",
+        "Discretization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "29314987",
+        "1814939520",
+        "1817561967",
+        "1870960778",
+        "2101736851",
+        "2127577941",
+        "2159080219"
+    ]
+}

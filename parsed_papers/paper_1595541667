@@ -1,0 +1,50 @@
+{
+    "id": "1595541667",
+    "title": "Secret sharing and perfect zero knowledge",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "A. De Santis",
+            "id": "2170680913",
+            "org": "Univ. di Salerno, Italy#TAB#"
+        },
+        {
+            "name": "G. Di Crescenzo",
+            "id": "2798576641",
+            "org": "Univ. di Salerno, Italy#TAB#"
+        },
+        {
+            "name": "Giuseppe Persiano",
+            "id": "2291003365",
+            "org": "Univ. di Catania, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Mathematics",
+        "Theoretical computer science",
+        "Access structure",
+        "Cryptographic protocol",
+        "Discrete mathematics",
+        "Verifiable secret sharing",
+        "Homomorphic secret sharing",
+        "Secret sharing",
+        "Shamir's Secret Sharing",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1489837396",
+        "1494965429",
+        "1536808194",
+        "1539572409",
+        "1568436295",
+        "1970588133",
+        "1970606468",
+        "2051250911",
+        "2077202644",
+        "2088023978",
+        "2137883105",
+        "2141420453"
+    ]
+}

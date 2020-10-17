@@ -1,0 +1,81 @@
+{
+    "id": "1604847925",
+    "title": "Running MAP Inference on Million Node Graphical Models: A High Performance Computing Perspective",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Chen Jin",
+            "id": "2151364674",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Qiang Fu",
+            "id": "2293941420",
+            "org": "University of Minnesota Duluth"
+        },
+        {
+            "name": "Huahua Wang",
+            "id": "2143868435",
+            "org": "University of Minnesota Duluth"
+        },
+        {
+            "name": "William Hendrix",
+            "id": "2140799759",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Zhengzhang Chen",
+            "id": "2132666618",
+            "org": "Northwestern University"
+        },
+        {
+            "name": "Ankit Agrawal",
+            "id": "2160807299",
+            "org": "Electrical Engineering and Computer Science"
+        },
+        {
+            "name": "Arindam Banerjee",
+            "id": "2037585042",
+            "org": "Computer Science and Engineering"
+        },
+        {
+            "name": "Alok N. Choudhary",
+            "id": "2147783234",
+            "org": "Electrical Engineering and Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Theoretical computer science",
+        "Variational message passing",
+        "Computer science",
+        "Distributed computing",
+        "Variable elimination",
+        "Message Passing Interface",
+        "Inference",
+        "Belief propagation",
+        "Message passing",
+        "Graphical model"
+    ],
+    "references": [
+        "1606878652",
+        "1996425101",
+        "1996540180",
+        "2020999234",
+        "2022191808",
+        "2065030431",
+        "2100726809",
+        "2107628405",
+        "2108619558",
+        "2120340025",
+        "2137813581",
+        "2140666719",
+        "2143524933",
+        "2164278908",
+        "2164918853",
+        "2170616854",
+        "2229674747",
+        "2402011568"
+    ]
+}

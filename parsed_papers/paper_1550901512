@@ -1,0 +1,76 @@
+{
+    "id": "1550901512",
+    "title": "Correlation-Resistant Storage via Keyword-Searchable Encryption.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Lucas Ballard",
+            "id": "2152188672",
+            "org": "Johns Hopkins University"
+        },
+        {
+            "name": "Matthew Green",
+            "id": "2248595014",
+            "org": "Johns Hopkins University"
+        },
+        {
+            "name": "Breno de Medeiros",
+            "id": "2113431149",
+            "org": "Florida State University"
+        },
+        {
+            "name": "Fabian Monrose",
+            "id": "126037460",
+            "org": "Johns Hopkins University"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Theoretical computer science",
+        "Client-side encryption",
+        "40-bit encryption",
+        "Computer science",
+        "Key Wrap",
+        "Probabilistic encryption",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "On-the-fly encryption"
+    ],
+    "references": [
+        "8287904",
+        "24235014",
+        "36535589",
+        "150498788",
+        "233279079",
+        "1549244102",
+        "1551910192",
+        "1553083934",
+        "1571104860",
+        "1599446772",
+        "1637905077",
+        "1663493649",
+        "1836365731",
+        "1973264053",
+        "1992402139",
+        "2060770809",
+        "2070030672",
+        "2079257806",
+        "2083631211",
+        "2101458679",
+        "2104210894",
+        "2112842125",
+        "2117797270",
+        "2121133177",
+        "2133579007",
+        "2137664544",
+        "2147587452",
+        "2147929033",
+        "2161214567",
+        "2164988972",
+        "2172174332",
+        "2174507869",
+        "2405015683",
+        "2408113483"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1602748186",
+    "title": "Robust recovery of the epipolar geometry for an uncalibrated stereo rig",
+    "venue": "european conference on computer vision",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Rachid Deriche",
+            "id": "2257569313",
+            "org": "INRIA, Sophia-Antipolis Cedex, France"
+        },
+        {
+            "name": "Zhengyou Zhang",
+            "id": "2129474304",
+            "org": "INRIA, Sophia-Antipolis Cedex, France"
+        },
+        {
+            "name": "Quang-Tuan Luong",
+            "id": "2028266199",
+            "org": "INRIA, Sophia-Antipolis Cedex, France"
+        },
+        {
+            "name": "Olivier D. Faugeras",
+            "id": "2424167939",
+            "org": "INRIA, Sophia-Antipolis Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Image rectification",
+        "Computer vision",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Real image",
+        "Epipolar geometry",
+        "Correlation",
+        "Fundamental matrix (computer vision)",
+        "Parametrization",
+        "Curvature",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1533512546",
+        "2111308925",
+        "2149749462",
+        "2150253101"
+    ]
+}

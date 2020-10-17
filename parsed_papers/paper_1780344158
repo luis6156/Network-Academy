@@ -1,0 +1,41 @@
+{
+    "id": "1780344158",
+    "title": "Scalability Analysis of the SPEC OpenMP Benchmarks on Large-Scale Shared Memory Multiprocessors",
+    "venue": "international conference on computational science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Karl Furlinger",
+            "id": "2584666772",
+            "org": "Lehrstuhl fur Rechnertechnik und Rechnerorganisation, Institut fur Informatik, Technische Universitat Munchen, and Innovative Computing Laboratory, Department of Computer Scien ...#TAB#"
+        },
+        {
+            "name": "Michael Gerndt",
+            "id": "32167922",
+            "org": "Lehrstuhl fur Rechnertechnik und Rechnerorganisation, Institut fur Informatik, Technische Universitat Munchen,#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "Innovative Computing Laboratory, Department of Computer Science, University of Tennessee,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Computer science",
+        "Multiprocessing",
+        "Cache-only memory architecture",
+        "Spec#"
+    ],
+    "references": [
+        "52311198",
+        "1779971361",
+        "1986874495",
+        "1999752372",
+        "2126913665",
+        "2144433126"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "1414493865",
+    "title": "Erasure Coding & Read/Write Separation in Flash Storage.",
+    "venue": "2nd Workshop on Interactions of NVM/Flash with Operating Systems and Workloads (INFLOW 14)",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Dimitris Skourtis",
+            "id": "272421374",
+            "org": "University of California, Santa Cruz"
+        },
+        {
+            "name": "Dimitris Achlioptas",
+            "id": "324519408",
+            "org": "University of California, Santa Cruz"
+        },
+        {
+            "name": "Noah Watkins",
+            "id": "2183587688",
+            "org": "University of California, Santa Cruz"
+        },
+        {
+            "name": "Carlos Maltzahn",
+            "id": "2065892297",
+            "org": "University of California, Santa Cruz"
+        },
+        {
+            "name": "Scott A. Brandt",
+            "id": "2581968944",
+            "org": "University of California, Santa Cruz"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer data storage",
+        "Encoding (memory)",
+        "Parallel computing",
+        "Redundancy (engineering)",
+        "Decoding methods",
+        "Computation",
+        "Scaling",
+        "Computer science",
+        "Erasure code"
+    ],
+    "references": [
+        "154253821",
+        "162515996",
+        "330091898",
+        "1537045696",
+        "1560722379",
+        "1836955865",
+        "2012753240",
+        "2066529295",
+        "2097490816",
+        "2100343205",
+        "2105951957",
+        "2106436364",
+        "2109706326",
+        "2125914539",
+        "2138744797",
+        "2142886360",
+        "2154809801",
+        "2165068957",
+        "2294497304"
+    ]
+}

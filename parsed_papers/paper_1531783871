@@ -1,0 +1,50 @@
+{
+    "id": "1531783871",
+    "title": "Face recognition via the overlapping energy histogram",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ronny Tjahyadi",
+            "id": "2150037285",
+            "org": "Department of Computing, Curtin University of Technology, WA, Australia#TAB#"
+        },
+        {
+            "name": "Wanquan Liu",
+            "id": "2122340056",
+            "org": "Department of Computing, Curtin University of Technology, WA, Australia#TAB#"
+        },
+        {
+            "name": "Senjian An",
+            "id": "2117399963",
+            "org": "Department of Computing, Curtin University of Technology, WA, Australia#TAB#"
+        },
+        {
+            "name": "Svetha Venkatesh",
+            "id": "2146461601",
+            "org": "Department of Computing, Curtin University of Technology, WA, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Eigenface",
+        "Discrete cosine transform",
+        "Pattern recognition",
+        "Computer science",
+        "Facial recognition system",
+        "Histogram matching",
+        "Histogram",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1498915505",
+        "1989702938",
+        "2031614119",
+        "2096582331",
+        "2102544846",
+        "2105994593",
+        "2135463994",
+        "2144305858",
+        "2166297642"
+    ]
+}

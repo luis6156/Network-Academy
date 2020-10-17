@@ -1,0 +1,44 @@
+{
+    "id": "1575939710",
+    "title": "Global fixed-priority scheduling of arbitrary-deadline sporadic task systems",
+    "venue": "international conference of distributed computing and networking",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sanjoy K. Baruah",
+            "id": "2145728887",
+            "org": "The University of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "Nathan Fisher",
+            "id": "2132252503",
+            "org": "Wayne State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Priority inversion",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "194244820",
+        "1485093219",
+        "1782286926",
+        "2023380008",
+        "2064207294",
+        "2090557530",
+        "2127467256",
+        "2135559191",
+        "2154754551",
+        "2401670574",
+        "2511799288"
+    ]
+}

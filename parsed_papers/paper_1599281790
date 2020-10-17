@@ -1,0 +1,41 @@
+{
+    "id": "1599281790",
+    "title": "Encrypting virtual memory",
+    "venue": "usenix security symposium",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Niels Provos",
+            "id": "2893167616",
+            "org": "Center for Information Technology Integration, University of Michigan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Filesystem-level encryption",
+        "Keyfile",
+        "Client-side encryption",
+        "Disk encryption",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Probabilistic encryption",
+        "Multiple encryption",
+        "On-the-fly encryption",
+        "Internet privacy"
+    ],
+    "references": [
+        "1484422715",
+        "1519885491",
+        "1546885574",
+        "1569885018",
+        "1578184507",
+        "1585275552",
+        "1602293460",
+        "1622463472",
+        "1994386233",
+        "2054481902",
+        "2098721736",
+        "2159339961",
+        "2159608022"
+    ]
+}

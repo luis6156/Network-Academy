@@ -1,0 +1,87 @@
+{
+    "id": "1808974695",
+    "title": "OpenGRASP: a toolkit for robot grasping simulation",
+    "venue": "simulation modeling and programming for autonomous robots",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Beatriz Leon",
+            "id": "2140342120",
+            "org": "Universitat Jaume I, Robotic Intelligence Laboratory, Castellon, Spain#TAB#"
+        },
+        {
+            "name": "Stefan Ulbrich",
+            "id": "2566422086",
+            "org": "Karlsruhe Institute of Technology, Institute for Anthropomatics, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Rosen Diankov",
+            "id": "2138770993",
+            "org": "Carnegie Mellon University, Institute for Robotics#TAB#"
+        },
+        {
+            "name": "Gustavo Puche",
+            "id": "2274373205",
+            "org": "Universitat Jaume I, Robotic Intelligence Laboratory, Castellon, Spain#TAB#"
+        },
+        {
+            "name": "Markus Przybylski",
+            "id": "2141317030",
+            "org": "Karlsruhe Institute of Technology, Institute for Anthropomatics, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Antonio Morales",
+            "id": "2114793346",
+            "org": "Universitat Jaume I, Robotic Intelligence Laboratory, Castellon, Spain#TAB#"
+        },
+        {
+            "name": "Tamim Asfour",
+            "id": "1047662447",
+            "org": "Karlsruhe Institute of Technology, Institute for Anthropomatics, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Sami Moisio",
+            "id": "2171766078",
+            "org": "Lappeenranta University of Technology, Centre of Computational Engineering and Integrated Design, Finland#TAB#"
+        },
+        {
+            "name": "Jeannette Bohg",
+            "id": "66685338",
+            "org": "Royal Institute of Technology, Computer Vision and Active Vision Laboratory, Stockholm, Sweden#TAB#"
+        },
+        {
+            "name": "James J. Kuffner",
+            "id": "2338421302",
+            "org": "Carnegie Mellon University, Institute for Robotics#TAB#"
+        },
+        {
+            "name": "Rudiger Dillmann",
+            "id": "1305265972",
+            "org": "Karlsruhe Institute of Technology, Institute for Anthropomatics, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Motion planning",
+        "Computer science",
+        "Robotics",
+        "Interoperability",
+        "Mobile robot",
+        "Extensibility",
+        "GRASP",
+        "Modular design",
+        "Architecture",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1483650263",
+        "1510186039",
+        "1968361210",
+        "1982059295",
+        "2018613909",
+        "2093334045",
+        "2101205555",
+        "2143909231",
+        "2540104143"
+    ]
+}

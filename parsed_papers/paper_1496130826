@@ -1,0 +1,48 @@
+{
+    "id": "1496130826",
+    "title": "View materialization vs. indexing: balancing space constraints in data warehouse design",
+    "venue": "conference on advanced information systems engineering",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stefano Rizzi",
+            "id": "2152794630",
+            "org": "DEIS, University of Bologna, Bologna, Italy#TAB#"
+        },
+        {
+            "name": "Ettore Saltarelli",
+            "id": "1993638536",
+            "org": "DEIS, University of Bologna, Bologna, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Warehouse",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Workload",
+        "A* search algorithm",
+        "Materialized view",
+        "Fact table",
+        "Data warehouse"
+    ],
+    "references": [
+        "110145033",
+        "135413625",
+        "1488870204",
+        "1520432709",
+        "1538267625",
+        "1975968096",
+        "2071009745",
+        "2111967617",
+        "2113888164",
+        "2114712170",
+        "2122816893",
+        "2123209274",
+        "2132729409",
+        "2140646908",
+        "2143401113",
+        "2285725925"
+    ]
+}

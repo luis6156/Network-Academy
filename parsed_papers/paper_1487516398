@@ -1,0 +1,48 @@
+{
+    "id": "1487516398",
+    "title": "An efficient multipath forwarding method",
+    "venue": "international conference on computer communications",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Johnny Chen",
+            "id": "2132655759",
+            "org": "Dept. of Comput. Sci., Rice Univ., Houston, TX, USA"
+        },
+        {
+            "name": "Peter Druschel",
+            "id": "62967857",
+            "org": "Department of Computer Science|Rice University"
+        },
+        {
+            "name": "Devika Subramanian",
+            "id": "2164919627",
+            "org": "Department of Computer Science|Rice University"
+        }
+    ],
+    "fields_of_study": [
+        "Multipath routing",
+        "Static routing",
+        "Routing table",
+        "Computer science",
+        "Distributed computing",
+        "Destination-Sequenced Distance Vector routing",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "DSRFLOW",
+        "Virtual routing and forwarding",
+        "Equal-cost multi-path routing"
+    ],
+    "references": [
+        "1970139083",
+        "1985893635",
+        "2036178473",
+        "2052455426",
+        "2067036994",
+        "2109982221",
+        "2119257015",
+        "2120667224",
+        "2146569905",
+        "2159101227"
+    ]
+}

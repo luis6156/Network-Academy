@@ -1,0 +1,69 @@
+{
+    "id": "1795601689",
+    "title": "N-Party encrypted diffie-hellman key exchange using different passwords",
+    "venue": "applied cryptography and network security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jin Wook Byun",
+            "id": "2145550294",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2791883365",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key exchange",
+        "Key distribution",
+        "Session key",
+        "Distributed computing",
+        "Computer science",
+        "Forward secrecy",
+        "Computer security",
+        "Encrypted key exchange",
+        "TLS-SRP",
+        "Diffie-Hellman key exchange",
+        "Computer network",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "203500824",
+        "1495266644",
+        "1496418770",
+        "1499073821",
+        "1504634919",
+        "1516161674",
+        "1523413446",
+        "1526070463",
+        "1527077352",
+        "1535147830",
+        "1542059364",
+        "1576213068",
+        "1595293097",
+        "1602484190",
+        "1604454960",
+        "1837822405",
+        "1855223286",
+        "1866147697",
+        "1977251372",
+        "1981689534",
+        "2001788001",
+        "2026364737",
+        "2052267638",
+        "2082969166",
+        "2083744087",
+        "2124371582",
+        "2124926080",
+        "2131123432",
+        "2132648536",
+        "2133432179",
+        "2134475940",
+        "2149093588",
+        "2154671641",
+        "2157604883",
+        "2180842237"
+    ]
+}

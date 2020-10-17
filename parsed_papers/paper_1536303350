@@ -1,0 +1,40 @@
+{
+    "id": "1536303350",
+    "title": "jMoped: a java bytecode checker based on moped",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dejvuth Suwimonteerabuth",
+            "id": "2712282",
+            "org": "Institut fur Formale Methoden der Informatik, Universitat Stuttgart#TAB#"
+        },
+        {
+            "name": "Stefan Schwoon",
+            "id": "2093354067",
+            "org": "Institut fur Formale Methoden der Informatik, Universitat Stuttgart#TAB#"
+        },
+        {
+            "name": "Javier Esparza",
+            "id": "2123449190",
+            "org": "Institut fur Formale Methoden der Informatik, Universitat Stuttgart#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java Modeling Language",
+        "Java",
+        "Java bytecode",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Java concurrency",
+        "strictfp",
+        "Java API for XML-based RPC",
+        "Programming language"
+    ],
+    "references": [
+        "1500983737",
+        "1514446453",
+        "2101936540"
+    ]
+}

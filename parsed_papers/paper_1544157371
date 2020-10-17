@@ -1,0 +1,38 @@
+{
+    "id": "1544157371",
+    "title": "improved cryptanalysis of RC5",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Eyal Kushilevitz",
+            "id": "307687659",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Interpolation attack",
+        "Block cipher",
+        "Theoretical computer science",
+        "Algorithm",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1500356409",
+        "1553595359",
+        "1979802565",
+        "2148317523",
+        "2234576048"
+    ]
+}

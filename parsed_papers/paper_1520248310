@@ -1,0 +1,50 @@
+{
+    "id": "1520248310",
+    "title": "Unioning of the buffer cache and journaling layers with non-volatile memory",
+    "venue": "file and storage technologies",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Eunji Lee",
+            "id": "2304870267",
+            "org": "Ewha University#TAB#"
+        },
+        {
+            "name": "Hyokyung Bahn",
+            "id": "2058360075",
+            "org": "Ewha University#TAB#"
+        },
+        {
+            "name": "Sam H. Noh",
+            "id": "2571969136",
+            "org": "Hongik University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Disk buffer",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Computer science",
+        "Write buffer",
+        "ext4",
+        "Journaling file system",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "135447215",
+        "1564523715",
+        "2048588974",
+        "2083544890",
+        "2102449048",
+        "2129679884",
+        "2132929952",
+        "2135393827",
+        "2154817671",
+        "2157808045",
+        "2161678437",
+        "2168968494"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1533608182",
+    "title": "A weak key class of XTEA for a related-key rectangle attack",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Eunjin Lee",
+            "id": "2160915039",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Deukjo Hong",
+            "id": "2226421921",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Center for Information Security Technologies (CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Weak key",
+        "Rectangle",
+        "XTEA",
+        "Key (lock)"
+    ],
+    "references": [
+        "52191336",
+        "1498785007",
+        "1502924772",
+        "1515958737",
+        "1516699468",
+        "1518406241",
+        "1540066842",
+        "1575389912",
+        "1596744447",
+        "1629301835",
+        "1870015754",
+        "1871986277",
+        "1991897749"
+    ]
+}

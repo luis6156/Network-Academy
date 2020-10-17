@@ -1,0 +1,44 @@
+{
+    "id": "140098791",
+    "title": "Instance independent concurrency control for semistructured databases",
+    "venue": "SEBD 2003",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stijn Dekeyser",
+            "id": "1854485238",
+            "org": "University of Antwerp"
+        },
+        {
+            "name": "Jan Hidders",
+            "id": "146950338",
+            "org": "University of Antwerp"
+        },
+        {
+            "name": "Jan Paredaens",
+            "id": "1999579305",
+            "org": "University of Antwerp"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "XML Schema Editor",
+        "Multiversion concurrency control",
+        "Serializability",
+        "XML validation",
+        "XML database",
+        "Computer science",
+        "Efficient XML Interchange",
+        "Database",
+        "XML framework"
+    ],
+    "references": [
+        "1496148388",
+        "1535627680",
+        "1545155892",
+        "1883046886",
+        "1974153654",
+        "2007144560",
+        "2130668300"
+    ]
+}

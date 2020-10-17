@@ -1,0 +1,77 @@
+{
+    "id": "1495802359",
+    "title": "Zeno: eventually consistent Byzantine-fault tolerance",
+    "venue": "networked systems design and implementation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Atul Singh",
+            "id": "2584884269",
+            "org": "MPI-SWS and Rice University#TAB#"
+        },
+        {
+            "name": "Pedro Fonseca",
+            "id": "2097498543",
+            "org": "MPI-SWS#TAB#"
+        },
+        {
+            "name": "Petr Kuznetsov",
+            "id": "2130191743",
+            "org": "TU Berlin, Deutsche Telekom Laboratories#TAB#"
+        },
+        {
+            "name": "Rodrigo Rodrigues",
+            "id": "2121681675",
+            "org": "MPI-SWS#TAB#"
+        },
+        {
+            "name": "Petros Maniatis",
+            "id": "1992922445",
+            "org": "Intel Research Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Linearizability",
+        "Computer science",
+        "Distributed computing",
+        "Liveness",
+        "State machine replication",
+        "Strong consistency",
+        "Byzantine fault tolerance",
+        "Eventual consistency",
+        "High availability",
+        "Real-time computing",
+        "Finite-state machine"
+    ],
+    "references": [
+        "201372435",
+        "1515932031",
+        "2050731094",
+        "2053903896",
+        "2068986758",
+        "2074250816",
+        "2077304190",
+        "2095135670",
+        "2101939036",
+        "2114349788",
+        "2115806861",
+        "2117260615",
+        "2119164809",
+        "2119565742",
+        "2121510533",
+        "2122465391",
+        "2125374545",
+        "2125530623",
+        "2126087831",
+        "2126789306",
+        "2129467152",
+        "2139359217",
+        "2144553078",
+        "2147524598",
+        "2153704625",
+        "2173213060",
+        "2295541535",
+        "2610308737",
+        "2611515161"
+    ]
+}

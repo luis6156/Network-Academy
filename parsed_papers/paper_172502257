@@ -1,0 +1,48 @@
+{
+    "id": "172502257",
+    "title": "vIC: interrupt coalescing for virtual machine storage device IO",
+    "venue": "usenix annual technical conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Irfan Ahmad",
+            "id": "2167449976",
+            "org": "VMware, Inc., Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Ajay Gulati",
+            "id": "2154241030",
+            "org": "VMware, Inc., Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Ali Jose Mashtizadeh",
+            "id": "2251601281",
+            "org": "VMware, Inc., Palo Alto, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interrupt",
+        "Advanced Programmable Interrupt Controller",
+        "Computer science",
+        "Interrupt latency",
+        "Storage hypervisor",
+        "Embedded system",
+        "Interrupt priority level",
+        "Interrupt handler",
+        "Real-time computing",
+        "Interrupt coalescing",
+        "Programmable Interrupt Controller"
+    ],
+    "references": [
+        "1594675213",
+        "1754333881",
+        "1988558338",
+        "1991376651",
+        "2033476545",
+        "2039997795",
+        "2082615565",
+        "2101550192",
+        "2136621416",
+        "2145574464"
+    ]
+}

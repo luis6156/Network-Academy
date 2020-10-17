@@ -1,0 +1,55 @@
+{
+    "id": "1508946495",
+    "title": "Automated Segmentation of Sulcal Regions",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Maryam E. Rettmann",
+            "id": "2278279320",
+            "org": "The Johns Hopkins University"
+        },
+        {
+            "name": "Chenyang Xu",
+            "id": "2165724187",
+            "org": "The Johns Hopkins University"
+        },
+        {
+            "name": "Dzung L. Pham",
+            "id": "2098146076",
+            "org": "The Johns Hopkins University"
+        },
+        {
+            "name": "Jerry L. Prince",
+            "id": "2152659900",
+            "org": "The Johns Hopkins University"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Active contour model",
+        "Depth map",
+        "Region growing",
+        "Thresholding",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1512538053",
+        "1563323257",
+        "1576655571",
+        "1585251385",
+        "1870947790",
+        "2002134117",
+        "2017019080",
+        "2047525800",
+        "2104095591",
+        "2107165478",
+        "2152815777",
+        "2154906251",
+        "2293404936"
+    ]
+}

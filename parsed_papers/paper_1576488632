@@ -1,0 +1,79 @@
+{
+    "id": "1576488632",
+    "title": "Exploiting Collisions in Addition Chain-Based Exponentiation Algorithms Using a Single Trace",
+    "venue": "the cryptographers' track at the rsa conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Neil Hanley",
+            "id": "2169342213",
+            "org": "Queen's University Belfast, NIScience Park"
+        },
+        {
+            "name": "HeeSeok Kim",
+            "id": "2574440572",
+            "org": "Korea Institute of Science and Technology Information"
+        },
+        {
+            "name": "Michael Tunstall",
+            "id": "2793695609",
+            "org": "Cryptography Research, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Ephemeral key",
+        "Algorithm",
+        "Exponentiation",
+        "Scalar multiplication",
+        "Theoretical computer science",
+        "Distributed computing",
+        "Collision attack",
+        "Public-key cryptography",
+        "Adversary",
+        "Addition chain"
+    ],
+    "references": [
+        "60689211",
+        "155292398",
+        "1486711257",
+        "1497481941",
+        "1498044825",
+        "1507823573",
+        "1522337283",
+        "1531102506",
+        "1532398039",
+        "1539482743",
+        "1558378922",
+        "1565369953",
+        "1573054466",
+        "1576317854",
+        "1582598608",
+        "1583456310",
+        "1584260451",
+        "1591503962",
+        "1660562555",
+        "1786490218",
+        "1787704365",
+        "1832880052",
+        "1851940358",
+        "1996360405",
+        "2038871335",
+        "2047683864",
+        "2047699398",
+        "2090769756",
+        "2096133993",
+        "2105374413",
+        "2108558890",
+        "2111978877",
+        "2127059139",
+        "2132513685",
+        "2151163104",
+        "2151279347",
+        "2154290215",
+        "2154909745",
+        "2396192564",
+        "2525966718"
+    ]
+}

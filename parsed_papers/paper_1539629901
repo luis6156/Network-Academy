@@ -1,0 +1,42 @@
+{
+    "id": "1539629901",
+    "title": "OpenFlow: Why latency does matter",
+    "venue": "integrated network management",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Kevin Phemius",
+            "id": "2088368669",
+            "org": "Thales Commun. & Security, Paris, France"
+        },
+        {
+            "name": "Mathieu Bouet",
+            "id": "1998943234",
+            "org": "Thales Commun. & Security, Paris, France"
+        }
+    ],
+    "fields_of_study": [
+        "Packet forwarding",
+        "Routing control plane",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Control theory",
+        "Bandwidth (signal processing)",
+        "Forwarding plane",
+        "Computer network",
+        "Real-time computing",
+        "OpenFlow",
+        "Situated"
+    ],
+    "references": [
+        "85890223",
+        "1609755472",
+        "1697123834",
+        "1769222792",
+        "1982421724",
+        "2112673532",
+        "2118577620",
+        "2147118406"
+    ]
+}

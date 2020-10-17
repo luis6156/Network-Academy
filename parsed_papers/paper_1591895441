@@ -1,0 +1,44 @@
+{
+    "id": "1591895441",
+    "title": "Multiset collision attacks on reduced-round SNOW 3G and SNOW 3G [?]",
+    "venue": "applied cryptography and network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxembourg#TAB#"
+        },
+        {
+            "name": "Deike Priemuth-Schmid",
+            "id": "139661778",
+            "org": "University of Luxembourg#TAB#"
+        },
+        {
+            "name": "Bin Zhang",
+            "id": "2706517568",
+            "org": "University of Luxembourg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cipher",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Computer security",
+        "Snow",
+        "Multiset",
+        "Stream cipher attack",
+        "Collision attack",
+        "Initialization",
+        "Collision"
+    ],
+    "references": [
+        "85295516",
+        "1598162711",
+        "1601186343",
+        "2061323203",
+        "2172632525",
+        "2614997035"
+    ]
+}

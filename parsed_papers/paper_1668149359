@@ -1,0 +1,83 @@
+{
+    "id": "1668149359",
+    "title": "Improved impossible differential attacks on large-block rijndael",
+    "venue": "international conference on information security and cryptology",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Qingju Wang",
+            "id": "2619601369",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China,ESAT/COSIC and iMinds, KU Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Dawu Gu",
+            "id": "2145276306",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "ESAT/COSIC and iMinds, KU Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Ya Liu",
+            "id": "2617649879",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China#TAB#"
+        },
+        {
+            "name": "Jiazhe Chen",
+            "id": "2126160519",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, School of Mathematics, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Andrey Bogdanov",
+            "id": "2119924529",
+            "org": "Department of Mathematics, Technical University of Denmark, Denmark#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "XSL attack",
+        "Interpolation attack",
+        "Byte",
+        "Theoretical computer science",
+        "Block cipher",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Impossible differential cryptanalysis"
+    ],
+    "references": [
+        "18798069",
+        "45309531",
+        "85295516",
+        "1493204363",
+        "1496829145",
+        "1499192168",
+        "1501856114",
+        "1506585282",
+        "1513957952",
+        "1537240837",
+        "1539178658",
+        "1541703086",
+        "1545756401",
+        "1554865288",
+        "1556212265",
+        "1568817903",
+        "1571067952",
+        "1587120902",
+        "1597699498",
+        "1637140211",
+        "1794421227",
+        "1798672631",
+        "1868228027",
+        "1902962512",
+        "1974355178",
+        "2079047661",
+        "2109265351",
+        "2114163226",
+        "2135084554",
+        "2400656724",
+        "2514781489",
+        "2585139507"
+    ]
+}

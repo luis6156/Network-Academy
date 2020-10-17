@@ -1,0 +1,51 @@
+{
+    "id": "1519656149",
+    "title": "Image-Based Rendering from Uncalibrated Lightfields with Scalable Geometry",
+    "venue": "Proceedings of the 10th International Workshop on Theoretical Foundations of Computer Vision: Multi-Image Analysis",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Reinhard Koch",
+            "id": "2128502969",
+            "org": "Christian-Albrechts-Universitat Kiel"
+        },
+        {
+            "name": "Benno Heigl",
+            "id": "2176767162",
+            "org": "Universitat Erlangen-Nurnberg"
+        },
+        {
+            "name": "Marc Pollefeys",
+            "id": "2198039525",
+            "org": "K.U. Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Camera resectioning",
+        "Computer graphics (images)",
+        "Artificial intelligence",
+        "3D rendering",
+        "Tiled rendering",
+        "Rendering (computer graphics)",
+        "Computer vision",
+        "Camera auto-calibration",
+        "Image-based modeling and rendering",
+        "Alternate frame rendering",
+        "Geography",
+        "Real-time rendering"
+    ],
+    "references": [
+        "1482517735",
+        "1489405158",
+        "1528329704",
+        "1548828277",
+        "1549739843",
+        "1573617947",
+        "1975078815",
+        "2063366997",
+        "2111169574",
+        "2134211982",
+        "2151285962",
+        "2294985758"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1556574299",
+    "title": "Scalability Evaluation of Barrier Algorithms for OpenMP",
+    "venue": "international workshop on openmp",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ramachandra C. Nanjegowda",
+            "id": "2068566376",
+            "org": "Computer Science Department, University of Houston, Houston, USA 77004#TAB#"
+        },
+        {
+            "name": "Oscar R. Hernandez",
+            "id": "2096724422",
+            "org": "Computer Science Department, University of Houston, Houston, USA 77004#TAB#"
+        },
+        {
+            "name": "Barbara M. Chapman",
+            "id": "2142555485",
+            "org": "Computer Science Department, University of Houston, Houston, USA 77004#TAB#"
+        },
+        {
+            "name": "Haoqiang Jin",
+            "id": "2104896089",
+            "org": "NASA Ames Research Center, Moffett Field, CA 94035#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Runtime library",
+        "Parallel computing",
+        "Computer architecture",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Implementation",
+        "Multiprocessing",
+        "Distributed shared memory",
+        "Busy waiting"
+    ],
+    "references": [
+        "1748643750",
+        "1999752372",
+        "2118880662",
+        "2133557963",
+        "2164303766"
+    ]
+}

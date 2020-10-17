@@ -1,0 +1,37 @@
+{
+    "id": "1607753411",
+    "title": "Language modeling by variable length sequences: theoretical formulation and evaluation of multigrams",
+    "venue": "international conference on acoustics, speech, and signal processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Sabine Deligne",
+            "id": "2339316295",
+            "org": "Telecom Paris, France"
+        },
+        {
+            "name": "Frederic Bimbot",
+            "id": "2582504230",
+            "org": "Telecom Paris, France"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Mathematics",
+        "Perplexity",
+        "Estimation theory",
+        "Vocabulary",
+        "Pattern recognition",
+        "Expectation-maximization algorithm",
+        "Test set",
+        "Rule-based machine translation",
+        "Iterative method",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1601046647",
+        "2084531783",
+        "2093555081"
+    ]
+}

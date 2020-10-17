@@ -1,0 +1,39 @@
+{
+    "id": "1588792978",
+    "title": "Solving Consensus Using Chandra-Toueg's Unreliable Failure Detectors: A General Quorum-Based Approach",
+    "venue": "international symposium on distributed computing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Achour Mostefaoui",
+            "id": "2230868641",
+            "org": "IRISA"
+        },
+        {
+            "name": "Michel Raynal",
+            "id": "2300628387",
+            "org": "IRISA"
+        }
+    ],
+    "fields_of_study": [
+        "Failure detector",
+        "Crash",
+        "Consensus",
+        "Asynchronous communication",
+        "Detector",
+        "Chandra-Toueg consensus algorithm",
+        "Distributed computing",
+        "Computer science",
+        "Real-time computing"
+    ],
+    "references": [
+        "1599874886",
+        "1913853498",
+        "2035362408",
+        "2051619017",
+        "2055954295",
+        "2077240273",
+        "2133943294",
+        "2155168782"
+    ]
+}

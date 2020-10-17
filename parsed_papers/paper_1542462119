@@ -1,0 +1,66 @@
+{
+    "id": "1542462119",
+    "title": "IntPatch: automatically fix integer-overflow-to-buffer-overflow vulnerability at compile-time",
+    "venue": "european symposium on research in computer security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Chao Zhang",
+            "id": "2662809797",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Tielei Wang",
+            "id": "2110459679",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Tao Wei",
+            "id": "2581995918",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Yu Chen",
+            "id": "2776234132",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        },
+        {
+            "name": "Wei Zou",
+            "id": "2686418746",
+            "org": "Institute of Computer Science and Technology, Peking University, Key Laboratory of Network and Software Security Assurance, Peking University, Ministry of Education#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Test suite",
+        "Compile time",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Vulnerability management",
+        "Computer security",
+        "Integer overflow",
+        "Buffer overflow",
+        "Software security assurance",
+        "Secure coding",
+        "Real-time computing"
+    ],
+    "references": [
+        "1112477",
+        "127238549",
+        "1506510492",
+        "1531991464",
+        "1536898727",
+        "1588398995",
+        "1710734607",
+        "1963569294",
+        "1982205631",
+        "1988847661",
+        "2009489720",
+        "2096449544",
+        "2130908989",
+        "2132897303",
+        "2153185479",
+        "2156268601",
+        "2293624369"
+    ]
+}

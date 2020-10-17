@@ -1,0 +1,47 @@
+{
+    "id": "1491460145",
+    "title": "Fault-Tolerant Shared Memory Simulations",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Petra Berenbrink",
+            "id": "255601933",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Friedhelm Meyer auf der Heide",
+            "id": "203814045",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Volker Stemann",
+            "id": "225933255",
+            "org": "University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory module",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Flat memory model"
+    ],
+    "references": [
+        "1529311266",
+        "1705934845",
+        "1968634435",
+        "1981107357",
+        "1984164247",
+        "2043047774",
+        "2060298990",
+        "2066015450",
+        "2086604416",
+        "2118123396"
+    ]
+}

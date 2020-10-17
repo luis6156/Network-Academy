@@ -1,0 +1,56 @@
+{
+    "id": "1596903624",
+    "title": "Compositionality in Real-Time Shared Variable Concurrency",
+    "venue": "FTRTFT '96 Proceedings of the 4th International Symposium on Formal Techniques in Real-Time and Fault-Tolerant Systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Frank S. de Boer",
+            "id": "2182928395",
+            "org": "Rijks Universiteit Utrecht Department of Computer Science P.O. Box 80.089 3508 TB Utrecht The Netherlands P.O. Box 80.089 3508 TB Utrecht The Netherlands"
+        },
+        {
+            "name": "H. Tej",
+            "id": "2701441678",
+            "org": "Christian-Albrechts-Universitat zu Kiel"
+        },
+        {
+            "name": "Willem P. de Roever",
+            "id": "2659041210",
+            "org": "Christian-Albrechts-Universitat zu Kiel Institut fur Informatik und Praktische Mathematik II Preusserstrasse 1-9 24105 Kiel Germany Preusserstrasse 1-9 24105 Kiel Germany"
+        },
+        {
+            "name": "M. van Hulst",
+            "id": "2311736586",
+            "org": "Lucent Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Distributed concurrency control",
+        "Concurrency",
+        "Principle of compositionality",
+        "Timestamp-based concurrency control"
+    ],
+    "references": [
+        "130102441",
+        "199947708",
+        "1492571724",
+        "1494649006",
+        "1534850143",
+        "1566733033",
+        "1566814846",
+        "1778175466",
+        "1875492031",
+        "2011694130",
+        "2081938726",
+        "2090551028",
+        "2102314608",
+        "2166071597"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1510520642",
+    "title": "An ASM specification of C# threads and the .NET memory model",
+    "venue": "CTIT technical reports series",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Robert F. Stark",
+            "id": "2745713932",
+            "org": "ETH Zurich"
+        },
+        {
+            "name": "Egon Borger",
+            "id": "2026252948",
+            "org": "Universita di Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Join-pattern",
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer science",
+        "Abstract machine",
+        "Abstract interpretation",
+        "Multiprocessing",
+        "Memory model",
+        "Concurrency",
+        "Operational semantics"
+    ],
+    "references": [
+        "1853368733",
+        "1969402593",
+        "2006674970",
+        "2102731275",
+        "2155244944"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1573758861",
+    "title": "Commit Scope Control in Nested Transactions",
+    "venue": "extending database technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Qiming Chen",
+            "id": "2105637293",
+            "org": "HP Laboratories"
+        },
+        {
+            "name": "Umeshwar Dayal",
+            "id": "689294964",
+            "org": "HP Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Nested transaction",
+        "Ancestor",
+        "Commit",
+        "Computer science",
+        "Compensating transaction",
+        "Distributed transaction",
+        "Database",
+        "Concurrency",
+        "Atomicity",
+        "Database transaction"
+    ],
+    "references": [
+        "1515932031",
+        "1638372782",
+        "2159718730",
+        "2171166363"
+    ]
+}

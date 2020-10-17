@@ -1,0 +1,54 @@
+{
+    "id": "1512771024",
+    "title": "On the Design and Optimization of a Quantum Polynomial-Time Attack on Elliptic Curve Cryptography",
+    "venue": "theory of quantum computation, communication, and cryptography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Donny Cheung",
+            "id": "2166134608",
+            "org": "Department of Computer Science, and Institute for Quantum Information Science, University of Calgary, Calgary, Canada T2N 1N4#TAB#"
+        },
+        {
+            "name": "Dmitri Maslov",
+            "id": "1709798017",
+            "org": "Department of Combinatorics and Optimization, and Institute for Quantum Computing, University of Waterloo, Waterloo, Canada N2L 3G1#TAB#"
+        },
+        {
+            "name": "Jimson Mathew",
+            "id": "2125698074",
+            "org": "Department of Computer Science, University of Bristol, Bristol, UK BS8 1UB#TAB#"
+        },
+        {
+            "name": "Dhiraj K. Pradhan",
+            "id": "2097985012",
+            "org": "Department of Computer Science, University of Bristol, Bristol, UK BS8 1UB#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Edwards curve",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Mathematical analysis",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1554799384",
+        "1587576127",
+        "1646041669",
+        "1860992226",
+        "2111310412",
+        "2135205181",
+        "2137147061",
+        "2139192386",
+        "2149204794",
+        "2153973094",
+        "2159862444"
+    ]
+}

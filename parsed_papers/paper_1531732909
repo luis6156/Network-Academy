@@ -1,0 +1,63 @@
+{
+    "id": "1531732909",
+    "title": "FPGA Analysis Tool: High-Level Flows for Low-Level Design Analysis in Reconfigurable Computing",
+    "venue": "applied reconfigurable computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Krzysztof Kepa",
+            "id": "2131086395",
+            "org": "Bio-Inspired Electronics and Reconfigurable Computing Group, Dept.of Electronic Engineering, National University of Ireland, Galway, Ireland#TAB#"
+        },
+        {
+            "name": "Fearghal Morgan",
+            "id": "2128601360",
+            "org": "Bio-Inspired Electronics and Reconfigurable Computing Group, Dept.of Electronic Engineering, National University of Ireland, Galway, Ireland#TAB#"
+        },
+        {
+            "name": "Krzysztof Kosciuszkiewicz",
+            "id": "2432334389",
+            "org": "Bio-Inspired Electronics and Reconfigurable Computing Group, Dept.of Electronic Engineering, National University of Ireland, Galway, Ireland#TAB#"
+        },
+        {
+            "name": "Lars Braun",
+            "id": "2308483801",
+            "org": "Institut fur Technik der Informationsverarbeitung (ITIV), Universitat Karlsruhe (TH), Germany#TAB#"
+        },
+        {
+            "name": "Michael Hubner",
+            "id": "2145996750",
+            "org": "Institut fur Technik der Informationsverarbeitung (ITIV), Universitat Karlsruhe (TH), Germany#TAB#"
+        },
+        {
+            "name": "Jurgen Becker",
+            "id": "2096062985",
+            "org": "Institut fur Technik der Informationsverarbeitung (ITIV), Universitat Karlsruhe (TH), Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Electronic design automation",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Computer architecture",
+        "Place and route",
+        "Netlist",
+        "Computer science",
+        "FPGA prototype",
+        "Design tool",
+        "Reconfigurable computing",
+        "Real-time computing",
+        "Modular design"
+    ],
+    "references": [
+        "1741636081",
+        "2020254467",
+        "2021705882",
+        "2110186061",
+        "2122711125",
+        "2129487136",
+        "2149899545",
+        "2162245332",
+        "2170267084"
+    ]
+}

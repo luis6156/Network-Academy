@@ -1,0 +1,53 @@
+{
+    "id": "1704392916",
+    "title": "Ten notes on equal-processing-time scheduling",
+    "venue": "A Quarterly Journal of Operations Research",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Philippe Baptiste",
+            "id": "2005494572",
+            "org": "UMR CNRS, HenDiaSyC, Universite de Technologie, Compiegne CX, France"
+        },
+        {
+            "name": "Peter Brucker",
+            "id": "2195049592",
+            "org": "FB Mathematik/Informatik, Universitat Osnabruck, Osnabruck, Germany"
+        },
+        {
+            "name": "Sigrid Knust",
+            "id": "1973559094",
+            "org": "FB Mathematik/Informatik, Universitat Osnabruck, Osnabruck, Germany"
+        },
+        {
+            "name": "Vadim G. Timkovsky",
+            "id": "2303747400",
+            "org": "CGI Group Inc., Toronto, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1527017525",
+        "1595494000",
+        "1964198588",
+        "1972077325",
+        "1975442866",
+        "2022498940",
+        "2073377450",
+        "2076906849",
+        "2114451849",
+        "2126734353"
+    ]
+}

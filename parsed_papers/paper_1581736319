@@ -1,0 +1,45 @@
+{
+    "id": "1581736319",
+    "title": "Sequential Monte Carlo methods for Bayesian elliptic inverse problems",
+    "venue": "Statistics and Computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Alexandros Beskos",
+            "id": "1776718037",
+            "org": "Department of Statistical Science, University College London, London, UK WC1E 7HB#TAB#"
+        },
+        {
+            "name": "Ajay Jasra",
+            "id": "1977909497",
+            "org": "Department of Statistics & Applied Probability, National University of Singapore, Singapore, Singapore 117546#TAB#"
+        },
+        {
+            "name": "Ege A. Muzaffer",
+            "id": "2512684725",
+            "org": "Department of Statistics & Applied Probability, National University of Singapore, Singapore, Singapore 117546#TAB#"
+        },
+        {
+            "name": "Andrew M. Stuart",
+            "id": "2142565773",
+            "org": "Department of Mathematics, University of Warwick, Coventry, UK CV4 7AL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hybrid Monte Carlo",
+        "Mathematics",
+        "Particle filter",
+        "Markov chain Monte Carlo",
+        "Monte Carlo method",
+        "Quantum Monte Carlo",
+        "Elliptic partial differential equation",
+        "Inverse problem",
+        "Monte Carlo molecular modeling",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1512208174",
+        "1513873506",
+        "1978588246"
+    ]
+}

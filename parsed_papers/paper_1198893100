@@ -1,0 +1,54 @@
+{
+    "id": "1198893100",
+    "title": "Optimizing Task Parallelism with Library-Semantics-Aware Compilation",
+    "venue": "european conference on parallel processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Peter Thoman",
+            "id": "783461622",
+            "org": "University of Innsbruck"
+        },
+        {
+            "name": "Stefan Moosbrugger",
+            "id": "1959997362",
+            "org": "University of Innsbruck"
+        },
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "University of Innsbruck"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Runtime library",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Computer science",
+        "Compiler",
+        "Data parallelism",
+        "Implicit parallelism",
+        "Task parallelism",
+        "Runtime system"
+    ],
+    "references": [
+        "161813961",
+        "1536852470",
+        "1561299197",
+        "1969132748",
+        "1971391208",
+        "1988054754",
+        "2012994302",
+        "2045437441",
+        "2101132897",
+        "2104861744",
+        "2116581888",
+        "2121893797",
+        "2124556751",
+        "2132117132",
+        "2149663533",
+        "2171046571",
+        "2611598995"
+    ]
+}

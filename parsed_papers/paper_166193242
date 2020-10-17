@@ -1,0 +1,82 @@
+{
+    "id": "166193242",
+    "title": "Database semantics recovery through analysis of dynamic SQL statements",
+    "venue": "Journal on Data Semantics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Anthony Cleve",
+            "id": "2796539135",
+            "org": "Faculty of Computer Science, PReCISE Research Center, University of Namur, Belgium and Department of Information and Communication Sciences, Universite Libre de Bruxelles, Belgium#TAB#"
+        },
+        {
+            "name": "Jean-Roch Meurisse",
+            "id": "1983392519",
+            "org": "Department of Education and Technology, University of Namur, Belgium#TAB#"
+        },
+        {
+            "name": "Jean-Luc Hainaut",
+            "id": "2063859579",
+            "org": "Faculty of Computer Science, PReCISE Research Center, University of Namur, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Database schema",
+        "Data definition language",
+        "Semi-structured model",
+        "Computer science",
+        "Data mining",
+        "Database model",
+        "Conceptual schema",
+        "Autocommit",
+        "Database",
+        "Schema migration",
+        "Embedded SQL"
+    ],
+    "references": [
+        "101052423",
+        "1492005537",
+        "1517231072",
+        "1521935994",
+        "1534315740",
+        "1536359071",
+        "1564240089",
+        "1572893408",
+        "1586441963",
+        "1610570299",
+        "1646278814",
+        "1887012070",
+        "1964312191",
+        "1977276173",
+        "1977683474",
+        "1998046157",
+        "2007653859",
+        "2014369090",
+        "2023687813",
+        "2032396198",
+        "2063970868",
+        "2076967043",
+        "2093633481",
+        "2098161545",
+        "2102952102",
+        "2104499736",
+        "2111273637",
+        "2118676972",
+        "2123401614",
+        "2126880266",
+        "2127972622",
+        "2131467114",
+        "2141966805",
+        "2143568707",
+        "2144349823",
+        "2149343370",
+        "2149938198",
+        "2152980152",
+        "2154243265",
+        "2154897437",
+        "2156712528",
+        "2159328231",
+        "2165467455",
+        "2616824902"
+    ]
+}

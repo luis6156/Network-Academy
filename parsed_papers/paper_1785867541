@@ -1,0 +1,74 @@
+{
+    "id": "1785867541",
+    "title": "Improving the complexity of index calculus algorithms in elliptic curves over binary fields",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jean-Charles Faugere",
+            "id": "2002696396",
+            "org": "Centre Paris-Rocquencourt, PolSys Project-team CNRS, UMR 7606, LIP6, UPMC, Universite Paris 06, LIP6, INRIA, Paris, Cedex 5, France#TAB#"
+        },
+        {
+            "name": "Ludovic Perret",
+            "id": "2163354396",
+            "org": "Centre Paris-Rocquencourt, PolSys Project-team CNRS, UMR 7606, LIP6, UPMC, Universite Paris 06, LIP6, INRIA, Paris, Cedex 5, France#TAB#"
+        },
+        {
+            "name": "Christophe Petit",
+            "id": "2222142713",
+            "org": "UCL Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Guenael Renault",
+            "id": "2776839209",
+            "org": "Centre Paris-Rocquencourt, PolSys Project-team CNRS, UMR 7606, LIP6, UPMC, Universite Paris 06, LIP6, INRIA, Paris, Cedex 5, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Index calculus algorithm",
+        "Mathematics",
+        "Algorithm",
+        "Grobner basis",
+        "Discrete mathematics",
+        "Linear subspace",
+        "Elliptic curve cryptography",
+        "Algebraic number",
+        "Elliptic curve",
+        "Calculus",
+        "Polynomial",
+        "Heuristic"
+    ],
+    "references": [
+        "19807878",
+        "135409917",
+        "1482131745",
+        "1485481031",
+        "1524190946",
+        "1560603711",
+        "1565956864",
+        "1566154368",
+        "1569499052",
+        "1592482282",
+        "1602770810",
+        "1821087317",
+        "1849802011",
+        "1955298066",
+        "1986124084",
+        "2003736153",
+        "2006504364",
+        "2010865943",
+        "2056307179",
+        "2077870553",
+        "2083052384",
+        "2088091599",
+        "2091260227",
+        "2093643075",
+        "2099172492",
+        "2117819179",
+        "2140863255",
+        "2147436724",
+        "2160886236",
+        "2166362740"
+    ]
+}

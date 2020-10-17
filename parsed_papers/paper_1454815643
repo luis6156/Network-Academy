@@ -1,0 +1,89 @@
+{
+    "id": "1454815643",
+    "title": "EASEAndroid: automatic policy analysis and refinement for security enhanced android via large-scale semi-supervised learning",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ruowen Wang",
+            "id": "2610543188",
+            "org": "Samsung KNOX R&D, Samsung Research America and Department of Computer Science, NC State University#TAB#"
+        },
+        {
+            "name": "William Enck",
+            "id": "1999189064",
+            "org": "Department of Computer Science, NC State University#TAB#"
+        },
+        {
+            "name": "Douglas S. Reeves",
+            "id": "2743205499",
+            "org": "Department of Computer Science, NC State University#TAB#"
+        },
+        {
+            "name": "Xinwen Zhang",
+            "id": "2117662806",
+            "org": "Samsung KNOX R&D, Samsung Research America#TAB#"
+        },
+        {
+            "name": "Peng Ning",
+            "id": "1998006409",
+            "org": "Samsung KNOX R&D, Samsung Research America and Department of Computer Science, NC State University#TAB#"
+        },
+        {
+            "name": "Dingbang Xu",
+            "id": "2720754421",
+            "org": "Samsung KNOX R&D, Samsung Research America#TAB#"
+        },
+        {
+            "name": "Wu Zhou",
+            "id": "2170363358",
+            "org": "Samsung KNOX R&D, Samsung Research America#TAB#"
+        },
+        {
+            "name": "Ahmed M. Azab",
+            "id": "2127219309",
+            "org": "Samsung KNOX R&D, Samsung Research America#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Knowledge base",
+        "Computer science",
+        "Data mining",
+        "Policy analysis",
+        "Computer security",
+        "Audit",
+        "Database",
+        "Android (operating system)",
+        "Semi-supervised learning"
+    ],
+    "references": [
+        "109911468",
+        "112576630",
+        "154231405",
+        "1479807131",
+        "1512387364",
+        "1551848773",
+        "1561900021",
+        "1618548847",
+        "1680392829",
+        "1967804596",
+        "1975197166",
+        "1988691348",
+        "2016424329",
+        "2016753842",
+        "2025115771",
+        "2040234252",
+        "2053343487",
+        "2088480117",
+        "2095881341",
+        "2097921974",
+        "2121239173",
+        "2125011234",
+        "2132138019",
+        "2132655161",
+        "2143492458",
+        "2163643194",
+        "2168872572",
+        "2405120356"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "1751158197",
+    "title": "dmcG: a distributed symbolic model checker based on GreatSPN",
+    "venue": "applications and theory of petri nets",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Alexandre Hamez",
+            "id": "1752593222",
+            "org": "Universite P. & M. Curie, LIP6, CNRS, UMR, Paris cedex 05, France#TAB#"
+        },
+        {
+            "name": "Fabrice Kordon",
+            "id": "2473416698",
+            "org": "Universite P. & M. Curie, LIP6, CNRS, UMR, Paris cedex 05, France#TAB#"
+        },
+        {
+            "name": "Yann Thierry-Mieg",
+            "id": "201051893",
+            "org": "Universite P. & M. Curie, LIP6, CNRS, UMR, Paris cedex 05, France#TAB#"
+        },
+        {
+            "name": "Fabrice Legond-Aubry",
+            "id": "2317935139",
+            "org": "Universite P. & M. Curie, LIP6, CNRS, UMR, Paris cedex 05, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Speedup",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "State space",
+        "Microarchitecture",
+        "Real-time computing",
+        "Exploit",
+        "Model checking",
+        "Software architecture"
+    ],
+    "references": [
+        "107427404",
+        "224698694",
+        "1521283428",
+        "1548575501",
+        "1557417437",
+        "1560229484",
+        "1718783241",
+        "1996242413",
+        "2100555704",
+        "2116020886",
+        "2136877520",
+        "2150401902",
+        "2150896797"
+    ]
+}

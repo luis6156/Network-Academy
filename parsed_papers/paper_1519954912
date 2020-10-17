@@ -1,0 +1,40 @@
+{
+    "id": "1519954912",
+    "title": "Smart-Card Implementation of Elliptic Curve Cryptography and DPA-Type Attacks",
+    "venue": "smart card research and advanced application conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Curve25519",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Elliptic curve Diffie-Hellman",
+        "Computer security",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Power analysis",
+        "Elliptic curve"
+    ],
+    "references": [
+        "1482850715",
+        "1503689022",
+        "1560768562",
+        "1565369953",
+        "1664808737",
+        "1712428406",
+        "1897761346",
+        "2104841597",
+        "2106876320",
+        "2108558890",
+        "2125637679",
+        "2154909745",
+        "2612208439"
+    ]
+}

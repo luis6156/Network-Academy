@@ -1,0 +1,40 @@
+{
+    "id": "1521788351",
+    "title": "Wagner's attack on a secure CRT-RSA algorithm reconsidered",
+    "venue": "workshop on fault diagnosis and tolerance in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Johannes Blomer",
+            "id": "138736257",
+            "org": "Institute for Computer Science, Paderborn University, Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Martin Otto",
+            "id": "2106919588",
+            "org": "Corporate Technology CT IC3, Siemens AG, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Algorithm",
+        "Process calculus",
+        "Computer science",
+        "Distributed computing",
+        "Concurrency",
+        "Fault tolerance",
+        "Fault model"
+    ],
+    "references": [
+        "131409819",
+        "1495447492",
+        "1554128539",
+        "1560093457",
+        "2026436569",
+        "2066425771",
+        "2067706455",
+        "2117317147",
+        "2155441237"
+    ]
+}

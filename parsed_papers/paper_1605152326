@@ -1,0 +1,47 @@
+{
+    "id": "1605152326",
+    "title": "The Value Flow Graph: A Program Representation for Optimal Program Transformations",
+    "venue": "european symposium on programming",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Bernhard Steffen",
+            "id": "2063423718",
+            "org": "University of Aarhus"
+        },
+        {
+            "name": "Jens Knoop",
+            "id": "2273773887",
+            "org": "Christian-Albrechts-Universitat"
+        },
+        {
+            "name": "Oliver Ruthing",
+            "id": "2307935106",
+            "org": "Christian-Albrechts-Universitat"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Theoretical computer science",
+        "Computer science",
+        "Herbrand interpretation",
+        "Program transformation",
+        "Control flow analysis",
+        "Semantic equivalence",
+        "Data-flow analysis",
+        "Partial redundancy elimination",
+        "Imperative programming",
+        "Programming language"
+    ],
+    "references": [
+        "1816611236",
+        "1968787980",
+        "2007558402",
+        "2010452422",
+        "2020889342",
+        "2025554746",
+        "2087086761",
+        "2118866757",
+        "2124153277"
+    ]
+}

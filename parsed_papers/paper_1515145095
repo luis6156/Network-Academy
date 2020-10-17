@@ -1,0 +1,50 @@
+{
+    "id": "1515145095",
+    "title": "Affine registration of diffusion tensor MR images",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mika Pollari",
+            "id": "2294371880",
+            "org": "Laboratory of Biomedical Engineering, Helsinki University of Technology, HUT, Finland#TAB#"
+        },
+        {
+            "name": "Tuomas Neuvonen",
+            "id": "2296320158",
+            "org": "Department of Clinical Neurophysiology, Helsinki University Central Hospital, HUS, Finland#TAB#"
+        },
+        {
+            "name": "Jyrki Lotjonen",
+            "id": "2804450954",
+            "org": "VTT Information Technology, Tampere, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Mathematics",
+        "Normalization (statistics)",
+        "Computer vision",
+        "Diffusion MRI",
+        "Fractional anisotropy",
+        "Affine transformation",
+        "Similarity measure",
+        "Magnitude (mathematics)",
+        "Mathematical optimization",
+        "Mutual information",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526085390",
+        "1949070191",
+        "1968663451",
+        "2048083280",
+        "2074888367",
+        "2094682431",
+        "2097047986",
+        "2105456967",
+        "2117290619",
+        "2140696117",
+        "2785362948"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1603731243",
+    "title": "The portable batch scheduler and the maui scheduler on linux clusters",
+    "venue": "ALS'00 Proceedings of the 4th annual Linux Showcase & Conference - Volume 4",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Brett M. Bode",
+            "id": "2168161180",
+            "org": "Scalable Computing Laboratory, Ames Laboratory, DOE, Ames, IA#TAB#"
+        },
+        {
+            "name": "David M. Halstead",
+            "id": "2640961201",
+            "org": "Scalable Computing Laboratory, Ames Laboratory, DOE, Ames, IA#TAB#"
+        },
+        {
+            "name": "Ricky A. Kendall",
+            "id": "2139716558",
+            "org": "Scalable Computing Laboratory, Ames Laboratory, DOE, Ames, IA#TAB#"
+        },
+        {
+            "name": "Zhou Lei",
+            "id": "2607249501",
+            "org": "Scalable Computing Laboratory, Ames Laboratory, DOE, Ames, IA#TAB#"
+        },
+        {
+            "name": "David Jackson",
+            "id": "2477322551",
+            "org": "Maui High Performance Computing Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Job queue",
+        "Portable Batch System",
+        "Many-task computing",
+        "Deadline scheduler",
+        "Job scheduler",
+        "Computer science",
+        "Scheduling (computing)",
+        "Embedded system",
+        "Scheduler activations",
+        "Operating system",
+        "Computer cluster"
+    ],
+    "references": [
+        "2022950330"
+    ]
+}

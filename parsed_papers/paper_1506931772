@@ -1,0 +1,61 @@
+{
+    "id": "1506931772",
+    "title": "Related-Key attacks on DDP based ciphers: CIKS-128 and CIKS-128H",
+    "venue": "international conference on cryptology in india",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Youngdai Ko",
+            "id": "2810596296",
+            "org": "Information Security Team, LG CNS, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Changhoon Lee",
+            "id": "2809353927",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "Department of Mathematics, University of Seoul, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation attack",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "S-box",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "798366527",
+        "1487581663",
+        "1502924772",
+        "1516699468",
+        "1535895762",
+        "1542982892",
+        "1546907539",
+        "1556251672",
+        "1582964775",
+        "1871986277",
+        "1964723977",
+        "1979802565",
+        "1984275283",
+        "2040022851"
+    ]
+}

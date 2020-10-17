@@ -1,0 +1,46 @@
+{
+    "id": "1558685020",
+    "title": "Security analysis of Bloom filter-based iris biometric template protection",
+    "venue": "international conference on biometrics",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Julien Bringer",
+            "id": "2130881351",
+            "org": "Morpho Issy-les-Moulineaux, France"
+        },
+        {
+            "name": "Constance Morel",
+            "id": "2113570667",
+            "org": "Morpho Issy-les-Moulineaux, France"
+        },
+        {
+            "name": "Christian Rathgeb",
+            "id": "1995385031",
+            "org": "da/sec - Biometrics and Internet Security Research Group, Hochschule Darmstadt, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Hamming distance",
+        "Pattern recognition",
+        "Computer science",
+        "Bloom filter",
+        "Template",
+        "Biometrics",
+        "Security analysis",
+        "Exploit",
+        "Iris recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1504113980",
+        "1991266632",
+        "2041942569",
+        "2090078053",
+        "2129905915",
+        "2156289864",
+        "2160242612",
+        "2160687222",
+        "2171431911"
+    ]
+}

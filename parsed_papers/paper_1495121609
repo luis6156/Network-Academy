@@ -1,0 +1,41 @@
+{
+    "id": "1495121609",
+    "title": "Differential fault analysis on AES key schedule and some countermeasures",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Chien-Ning Chen",
+            "id": "2250618734",
+            "org": "Laboratory of Cryptography and Information Security, Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C.#TAB#"
+        },
+        {
+            "name": "Sung-Ming Yen",
+            "id": "2103270851",
+            "org": "Laboratory of Cryptography and Information Security, Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Key schedule",
+        "Cryptanalysis",
+        "Countermeasure",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Distributed computing",
+        "Differential fault analysis",
+        "Fault model"
+    ],
+    "references": [
+        "1504927043",
+        "1537875328",
+        "1556212265",
+        "1601440354",
+        "1613874182",
+        "1664808737",
+        "1926480282",
+        "2110941647",
+        "2154909745",
+        "2170489924"
+    ]
+}

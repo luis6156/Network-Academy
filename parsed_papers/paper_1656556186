@@ -1,0 +1,49 @@
+{
+    "id": "1656556186",
+    "title": "Encoding Linear Constraints with Implication Chains to CNF",
+    "venue": "principles and practice of constraint programming",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ignasi Abio",
+            "id": "2065904386",
+            "org": "NICTA, Canberra, Australia#TAB#"
+        },
+        {
+            "name": "Valentin Mayer-Eichberger",
+            "id": "723199326",
+            "org": "NICTA, Canberra, Australia and University of New South Wales, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "NICTA, Canberra, Australia and University of Melbourne, Melbourne, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cardinality",
+        "Mathematics",
+        "Encoding (memory)",
+        "Discrete mathematics",
+        "Binary decision diagram",
+        "Sorting network",
+        "Mathematical optimization",
+        "Boolean data type",
+        "Constraint (mathematics)"
+    ],
+    "references": [
+        "54305883",
+        "977056441",
+        "1479859531",
+        "1480909796",
+        "1492234230",
+        "1586677474",
+        "1775468415",
+        "1950282396",
+        "2059035667",
+        "2116758077",
+        "2137108108",
+        "2144842698",
+        "2266256879"
+    ]
+}

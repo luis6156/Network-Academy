@@ -1,0 +1,50 @@
+{
+    "id": "1554858845",
+    "title": "Linear cryptanalysis of the TSC family of stream ciphers",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Frederic Muller",
+            "id": "2165156849",
+            "org": "DCSSI Crypto Lab, PARIS-07 SP#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2524111462",
+            "org": "DCSSI Crypto Lab, PARIS-07 SP#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation attack",
+        "Theoretical computer science",
+        "Integral cryptanalysis",
+        "Discrete mathematics",
+        "Computer science",
+        "Boomerang attack",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Linear cryptanalysis",
+        "Correlation attack"
+    ],
+    "references": [
+        "1699105",
+        "1481503769",
+        "1486719429",
+        "1505994399",
+        "1516636971",
+        "1548007815",
+        "1555297234",
+        "1571317543",
+        "1572961947",
+        "1591147293",
+        "1602293460",
+        "1964723977",
+        "1979198062",
+        "2112492615",
+        "2130943734",
+        "2154271831",
+        "2171096220"
+    ]
+}

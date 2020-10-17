@@ -1,0 +1,58 @@
+{
+    "id": "107414966",
+    "title": "Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling",
+    "venue": "leveraging applications of formal methods",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Georg Gori",
+            "id": "2506178513",
+            "org": "University of Technology, Graz, Austria"
+        },
+        {
+            "name": "Einar Broch Johnsen",
+            "id": "1923830530",
+            "org": "University of Oslo"
+        },
+        {
+            "name": "Rudolf Schlatte",
+            "id": "1155925581",
+            "org": "University of Oslo"
+        },
+        {
+            "name": "Volker Stolz",
+            "id": "1925871413",
+            "org": "University of Oslo"
+        }
+    ],
+    "fields_of_study": [
+        "Asynchronous communication",
+        "Asynchronous method invocation",
+        "Erlang (programming language)",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Distributed computing",
+        "Computer science",
+        "Synchronization",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "120748129",
+        "125251596",
+        "1500859230",
+        "1544451484",
+        "1557052422",
+        "1604442026",
+        "1977142620",
+        "1984201573",
+        "2033745581",
+        "2086042104",
+        "2098400709",
+        "2107080624",
+        "2122122720",
+        "2148195254",
+        "2194223632"
+    ]
+}

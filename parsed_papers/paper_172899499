@@ -1,0 +1,52 @@
+{
+    "id": "172899499",
+    "title": "Analysis of reduced-SHAvite-3-256 v2",
+    "venue": "fast software encryption",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Marine Minier",
+            "id": "2170245978",
+            "org": "Universite de Lyon, INRIA, CITI, France#TAB#"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2524111462",
+            "org": "Nanyang Technological University, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Rebound attack",
+        "Theoretical computer science",
+        "Key schedule",
+        "Algorithm",
+        "Cipher",
+        "Cryptanalysis",
+        "Computer science",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "SHA-3"
+    ],
+    "references": [
+        "91031763",
+        "1154108706",
+        "1521253015",
+        "1548701190",
+        "1574947811",
+        "1603433154",
+        "1656731780",
+        "1788434476",
+        "1881701375",
+        "1902962512",
+        "2052267638",
+        "2089916326",
+        "2103239853",
+        "2136320902",
+        "2234576048"
+    ]
+}

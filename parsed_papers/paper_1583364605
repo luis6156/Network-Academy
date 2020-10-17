@@ -1,0 +1,52 @@
+{
+    "id": "1583364605",
+    "title": "Evaluation of an Adaptive Scheduling Strategy for Master-Worker Applications on Clusters of Workstations",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Elisa Heymann",
+            "id": "2136455458",
+            "org": "Universitat Autonoma de Barcelona"
+        },
+        {
+            "name": "Miquel A. Senar",
+            "id": "2161352230",
+            "org": "Universitat Autonoma de Barcelona"
+        },
+        {
+            "name": "Emilio Luque",
+            "id": "2126325555",
+            "org": "Universitat Autonoma de Barcelona"
+        },
+        {
+            "name": "Miron Livny",
+            "id": "228437624",
+            "org": "University of Wisconsin- Madison"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Resource efficiency",
+        "Speedup",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Real-time computing",
+        "Workstation",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "69137203",
+        "1482593380",
+        "1842876248",
+        "2004593585",
+        "2007390700",
+        "2123761655",
+        "2161292693",
+        "2162232794"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1526111926",
+    "title": "PathFinder: A Tool for Design Exploration",
+    "venue": "computer aided verification",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Shoham Ben-David",
+            "id": "1964367244",
+            "org": "IBM Research Laboratory in Haifa, Israel"
+        },
+        {
+            "name": "Anna Gringauze",
+            "id": "253123586",
+            "org": "IBM Research Laboratory in Haifa, Israel"
+        },
+        {
+            "name": "Baruch Sterin",
+            "id": "2307751832",
+            "org": "IBM Research Laboratory in Haifa, Israel"
+        },
+        {
+            "name": "Yaron Wolfsthal",
+            "id": "228266996",
+            "org": "IBM Research Laboratory in Haifa, Israel"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Software development",
+        "Computer science",
+        "Pathfinder",
+        "Partial trace",
+        "Exploit",
+        "Model checking",
+        "Timing diagram",
+        "Debugging"
+    ],
+    "references": [
+        "1600581889",
+        "2144026067"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1485923049",
+    "title": "Diagnosing errors in dbc programs using constraint programming",
+    "venue": "CAEPIA'05 Proceedings of the 11th Spanish association conference on Current Topics in Artificial Intelligence",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "R. Ceballos",
+            "id": "2071186473",
+            "org": "Departamento de Lenguajes y Sistemas Informaticos, Universidad de Sevilla, Spain#TAB#"
+        },
+        {
+            "name": "Rafael M. Gasca",
+            "id": "2051348084",
+            "org": "Departamento de Lenguajes y Sistemas Informaticos, Universidad de Sevilla, Spain#TAB#"
+        },
+        {
+            "name": "C. Del Valle",
+            "id": "2141541835",
+            "org": "Departamento de Lenguajes y Sistemas Informaticos, Universidad de Sevilla, Spain#TAB#"
+        },
+        {
+            "name": "Diana Borrego",
+            "id": "2048010815",
+            "org": "Departamento de Lenguajes y Sistemas Informaticos, Universidad de Sevilla, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Redundant code",
+        "Intentional programming",
+        "Source code",
+        "Computer science",
+        "Unreachable code",
+        "Constraint programming",
+        "Code generation",
+        "Real-time computing",
+        "Design by contract"
+    ],
+    "references": [
+        "74506535",
+        "1537770910",
+        "2003116861",
+        "2010666111",
+        "2036196659",
+        "2052363833",
+        "2101811680",
+        "2154606260",
+        "2293624369"
+    ]
+}

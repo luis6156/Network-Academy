@@ -1,0 +1,46 @@
+{
+    "id": "1821583647",
+    "title": "Trace-driven cache attacks on AES (short paper)",
+    "venue": "international conference on information and communication security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Onur Aciicmez",
+            "id": "301415581",
+            "org": "School of EECS, Oregon State University, Corvallis, OR#TAB#"
+        },
+        {
+            "name": "Cetin Kaya Koc",
+            "id": "2057074609",
+            "org": "School of EECS, Oregon State University, Corvallis, OR#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cryptography",
+        "Cache algorithms",
+        "Side channel attack",
+        "Computer science",
+        "Distributed computing",
+        "Cryptosystem",
+        "Timing attack",
+        "CPU cache"
+    ],
+    "references": [
+        "1488058190",
+        "1496265857",
+        "1592889082",
+        "1664808737",
+        "1890449996",
+        "1972622169",
+        "1994390420",
+        "1998955763",
+        "2011257923",
+        "2064399009",
+        "2107691219",
+        "2110429202",
+        "2126132644",
+        "2131202839",
+        "2132064685"
+    ]
+}

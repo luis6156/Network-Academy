@@ -1,0 +1,105 @@
+{
+    "id": "1437323374",
+    "title": "NV-Tree: reducing consistency cost for NVM-based single level systems",
+    "venue": "file and storage technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jun Yang",
+            "id": "2306949014",
+            "org": "Data Storage Institute, A-STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Qingsong Wei",
+            "id": "2649954252",
+            "org": "Data Storage Institute, A-STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Cheng Chen",
+            "id": "2602599161",
+            "org": "Data Storage Institute, A-STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Chundong Wang",
+            "id": "2179227774",
+            "org": "Data Storage Institute, A-STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Khai Leong Yong",
+            "id": "1989234679",
+            "org": "Data Storage Institute, A-STAR, Singapore#TAB#"
+        },
+        {
+            "name": "Bingsheng He",
+            "id": "2893741089",
+            "org": "Nanyang Technological University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Parallel computing",
+        "Computer science",
+        "Tree structure",
+        "Data consistency",
+        "NVDIMM",
+        "Memory controller",
+        "Data structure",
+        "Real-time computing"
+    ],
+    "references": [
+        "142764049",
+        "175046419",
+        "179608396",
+        "204981196",
+        "1412006679",
+        "1474183241",
+        "1520248310",
+        "1567210335",
+        "1822909891",
+        "1887230574",
+        "1972388231",
+        "1985229168",
+        "1987072014",
+        "1987201308",
+        "1992755462",
+        "2001030943",
+        "2009404871",
+        "2015194563",
+        "2016561680",
+        "2017513064",
+        "2023834387",
+        "2048588974",
+        "2057567813",
+        "2093181487",
+        "2098578880",
+        "2100343205",
+        "2105271931",
+        "2109631432",
+        "2113637091",
+        "2116435146",
+        "2117917070",
+        "2124306283",
+        "2125914539",
+        "2125941968",
+        "2130301020",
+        "2133204656",
+        "2135393827",
+        "2135894590",
+        "2137227672",
+        "2137267093",
+        "2147041723",
+        "2147539449",
+        "2150662965",
+        "2154322583",
+        "2157808045",
+        "2158347038",
+        "2161694911",
+        "2162121187",
+        "2162288748",
+        "2165832195",
+        "2166905397",
+        "2171724053",
+        "2398564056",
+        "2610308442"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "1560461246",
+    "title": "Generating combinatorial test cases by efficient SAT encodings suitable for CDCL SAT solvers",
+    "venue": "international conference on logic programming",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Mutsunori Banbara",
+            "id": "99608674",
+            "org": "Information Science and Technology Center, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Haruki Matsunaka",
+            "id": "2043480738",
+            "org": "Graduate School of System Informatics, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Naoyuki Tamura",
+            "id": "2004240429",
+            "org": "Information Science and Technology Center, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Katsumi Inoue",
+            "id": "2236397478",
+            "org": "National Institute of Informatics, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unit propagation",
+        "Test case",
+        "Algorithm",
+        "Computer science",
+        "Combinatorial design",
+        "Boolean satisfiability problem",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "50835235",
+        "160447551",
+        "1481936172",
+        "1505825550",
+        "1518705996",
+        "1523628030",
+        "1538681263",
+        "1542386705",
+        "1550483759",
+        "1582328334",
+        "1586677474",
+        "1667614912",
+        "1773554800",
+        "1894930292",
+        "1964454841",
+        "1986964870",
+        "1995563955",
+        "2022088719",
+        "2025672288",
+        "2030455524",
+        "2065341612",
+        "2067633747",
+        "2094071977",
+        "2122796178",
+        "2128676540",
+        "2132878464",
+        "2138024783",
+        "2156411624",
+        "2161718603",
+        "2164783223",
+        "2171570823",
+        "2501112583",
+        "2605289564"
+    ]
+}

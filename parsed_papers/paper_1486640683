@@ -1,0 +1,44 @@
+{
+    "id": "1486640683",
+    "title": "Protocols Using Anonymous Connections: Mobile Applications",
+    "venue": "international workshop on security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Michael G. Reed",
+            "id": "2127460327",
+            "org": "Naval Research Laboratory"
+        },
+        {
+            "name": "Paul F. Syverson",
+            "id": "2051205022",
+            "org": "Naval Research Laboratory"
+        },
+        {
+            "name": "David M. Goldschlag",
+            "id": "735586330",
+            "org": "Naval Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Public infrastructure",
+        "Cryptography",
+        "Universal composability",
+        "Key distribution",
+        "Computer science",
+        "Communications protocol",
+        "Cryptographic protocol",
+        "Encryption",
+        "Computer security",
+        "Computer network",
+        "Internet privacy",
+        "Covert channel"
+    ],
+    "references": [
+        "1588201288",
+        "1606058619",
+        "2103647628",
+        "2109453700",
+        "2123735079"
+    ]
+}

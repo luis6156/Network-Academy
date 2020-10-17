@@ -1,0 +1,68 @@
+{
+    "id": "1555220698",
+    "title": "NetReview: detecting when interdomain routing goes wrong",
+    "venue": "networked systems design and implementation",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Andreas Haeberlen",
+            "id": "25222087",
+            "org": "Max Planck Institute for Software Systems and Rice University#TAB#"
+        },
+        {
+            "name": "Ioannis C. Avramopoulos",
+            "id": "2277526995",
+            "org": "Deutsche Telekom Laboratories#TAB#"
+        },
+        {
+            "name": "Jennifer Rexford",
+            "id": "1998722161",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Peter Druschel",
+            "id": "62967857",
+            "org": "Max Planck Institute for Software Systems#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multipath routing",
+        "Routing protocol",
+        "Static routing",
+        "Interior Gateway Routing Protocol",
+        "Computer science",
+        "Distributed computing",
+        "Default-free zone",
+        "Enhanced Interior Gateway Routing Protocol",
+        "Wireless Routing Protocol",
+        "Computer network",
+        "Real-time computing",
+        "Equal-cost multi-path routing"
+    ],
+    "references": [
+        "1625214948",
+        "1786926183",
+        "1811828243",
+        "1895802953",
+        "1967656199",
+        "1986240373",
+        "2003590000",
+        "2095349709",
+        "2096186938",
+        "2098756065",
+        "2100415265",
+        "2113344319",
+        "2115974339",
+        "2116021422",
+        "2116236383",
+        "2125258707",
+        "2131053137",
+        "2138370688",
+        "2142065670",
+        "2145721479",
+        "2150336242",
+        "2162260997",
+        "2162695692",
+        "2162877415"
+    ]
+}

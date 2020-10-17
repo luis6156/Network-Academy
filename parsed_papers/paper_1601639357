@@ -1,0 +1,53 @@
+{
+    "id": "1601639357",
+    "title": "Power analysis by exploiting chosen message and internal collisions - vulnerability of checking mechanism for RSA-Decryption",
+    "venue": "international conference on progress in cryptology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sung-Ming Yen",
+            "id": "2103270851",
+            "org": "Laboratory of Cryptography and Information Security (LCIS), Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C.#TAB#"
+        },
+        {
+            "name": "Wei-Chih Lien",
+            "id": "2126392956",
+            "org": "Laboratory of Cryptography and Information Security (LCIS), Dept of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C.#TAB#"
+        },
+        {
+            "name": "SangJae Moon",
+            "id": "2106509025",
+            "org": "School of Electronic and Electrical Engineering, Kyungpook National University, Taegu, Korea#TAB#"
+        },
+        {
+            "name": "Jae-Cheol Ha",
+            "id": "2110501458",
+            "org": "Dept of Computer and Information, Korea Nazarene University, Choong Nam, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Electronic countermeasure",
+        "Side channel attack",
+        "Cryptanalysis",
+        "Countermeasure",
+        "Computer science",
+        "Distributed computing",
+        "Power analysis",
+        "Cryptosystem",
+        "Smart card"
+    ],
+    "references": [
+        "1498044825",
+        "1521664783",
+        "1532398039",
+        "1552695147",
+        "1565369953",
+        "1582598608",
+        "1660562555",
+        "1996360405",
+        "2104841597",
+        "2108834246",
+        "2154909745"
+    ]
+}

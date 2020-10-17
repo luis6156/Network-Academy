@@ -1,0 +1,81 @@
+{
+    "id": "1511292109",
+    "title": "Runtime Monitoring and Dynamic Reconfiguration for Intrusion Detection Systems",
+    "venue": "recent advances in intrusion detection",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Rehak",
+            "id": "1982586455",
+            "org": "Department of Cybernetics, Czech Technical University, Prague#TAB#"
+        },
+        {
+            "name": "Eugen Staab",
+            "id": "2174343229",
+            "org": "Faculty of Science, Technology and Communication, University of Luxembourg, Luxembourg#TAB#"
+        },
+        {
+            "name": "Volker Fusenig",
+            "id": "218715590",
+            "org": "Faculty of Science, Technology and Communication, University of Luxembourg, Luxembourg#TAB#"
+        },
+        {
+            "name": "Michal Pechoucek",
+            "id": "271166979",
+            "org": "Department of Cybernetics, Czech Technical University, Prague#TAB#"
+        },
+        {
+            "name": "Martin Grill",
+            "id": "2119444354",
+            "org": "CESNET, z. s. p. o., Prague, Czech Republic and Department of Cybernetics, Czech Technical University, Prague#TAB#"
+        },
+        {
+            "name": "Jan Stiborek",
+            "id": "2420888488",
+            "org": "Department of Cybernetics, Czech Technical University, Prague#TAB#"
+        },
+        {
+            "name": "Karel Bartos",
+            "id": "2128455305",
+            "org": "CESNET, z. s. p. o., Prague, Czech Republic and Department of Cybernetics, Czech Technical University, Prague#TAB#"
+        },
+        {
+            "name": "Thomas Engel",
+            "id": "2113617402",
+            "org": "Faculty of Science, Technology and Communication, University of Luxembourg, Luxembourg#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "NetFlow",
+        "Computer science",
+        "Computer security",
+        "Threat model",
+        "Disjunctive normal form",
+        "Anomaly detection",
+        "Intrusion detection system",
+        "Control reconfiguration",
+        "Attack tree",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "1534477342",
+        "1553257641",
+        "1615207448",
+        "1684452600",
+        "1763961826",
+        "1793238094",
+        "2060907774",
+        "2083911205",
+        "2102827395",
+        "2108593230",
+        "2114645751",
+        "2121805588",
+        "2150847526",
+        "2152384991",
+        "2157578436",
+        "2164210932",
+        "2168269628",
+        "2169662797"
+    ]
+}

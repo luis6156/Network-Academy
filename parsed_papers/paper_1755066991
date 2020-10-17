@@ -1,0 +1,36 @@
+{
+    "id": "1755066991",
+    "title": "Cryptanalysis of the A5/1 GSM Stream Cipher",
+    "venue": "international conference on progress in cryptology",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion - Israel Institute of Technology"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Technion - Israel Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Running key cipher",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Two-square cipher",
+        "Stream cipher",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Null cipher"
+    ],
+    "references": [
+        "1527570981",
+        "1544956979",
+        "1554090281",
+        "2158376794"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1650977141",
+    "title": "Performance Analysis and Parallel Implementation of Dedicated Hash Functions",
+    "venue": "international cryptology conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Junko Nakajima",
+            "id": "1974280691",
+            "org": "Mitsubishi Electric Corporation"
+        },
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Mitsubishi Electric Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Computer science",
+        "Scheduling (computing)",
+        "Whirlpool",
+        "MMX",
+        "Software performance testing",
+        "Hash function",
+        "MD5",
+        "Pentium"
+    ],
+    "references": [
+        "1549620015",
+        "2090135172",
+        "2098801947",
+        "2104633167",
+        "2131128671",
+        "2133044762",
+        "2157047743"
+    ]
+}

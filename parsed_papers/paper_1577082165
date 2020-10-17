@@ -1,0 +1,53 @@
+{
+    "id": "1577082165",
+    "title": "Persistent Immutable Shared Abstractions",
+    "venue": "Proceedings of the US/Japan Workshop on Parallel Symbolic Computing: Languages, Systems, and Applications",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Benny Yih",
+            "id": "2642546005",
+            "org": "University of Utah"
+        },
+        {
+            "name": "Mark R. Swanson",
+            "id": "2134980616",
+            "org": "University of Utah"
+        },
+        {
+            "name": "Robert R. Kessler",
+            "id": "2087817292",
+            "org": "University of Utah"
+        }
+    ],
+    "fields_of_study": [
+        "Message format",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Persistent data structure",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Concurrency",
+        "Atomicity",
+        "Lisp",
+        "Database transaction"
+    ],
+    "references": [
+        "121653828",
+        "1529003149",
+        "1595893739",
+        "1765208181",
+        "1967998883",
+        "1983587324",
+        "2005132320",
+        "2070968176",
+        "2086906616",
+        "2090296076",
+        "2093614431",
+        "2095389035",
+        "2113878270",
+        "2125919750",
+        "2399030774"
+    ]
+}

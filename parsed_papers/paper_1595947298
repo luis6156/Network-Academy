@@ -1,0 +1,34 @@
+{
+    "id": "1595947298",
+    "title": "Layering SHMEM on Top of MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Lars Paul Huse",
+            "id": "1986415264",
+            "org": "Scali AS"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Porting",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Parallel processing",
+        "Message passing",
+        "Virtual address space",
+        "Operating system",
+        "SHMEM"
+    ],
+    "references": [
+        "1529327506",
+        "1541547953",
+        "1597869082",
+        "1846703755",
+        "1860999749",
+        "2106500842",
+        "2541014599"
+    ]
+}

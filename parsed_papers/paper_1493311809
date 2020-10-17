@@ -1,0 +1,47 @@
+{
+    "id": "1493311809",
+    "title": "Interlocking control by distributed signal boxes: design and verification with the SPIN model checker",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stylianos Basagiannis",
+            "id": "7321571",
+            "org": "Department of Informatics, Aristotle University of Thessaloniki, Thessaloniki, Greece#TAB#"
+        },
+        {
+            "name": "Panagiotis Katsaros",
+            "id": "2181261424",
+            "org": "Department of Informatics, Aristotle University of Thessaloniki, Thessaloniki, Greece#TAB#"
+        },
+        {
+            "name": "Andrew Pombortsis",
+            "id": "2094577138",
+            "org": "Department of Informatics, Aristotle University of Thessaloniki, Thessaloniki, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Rendezvous",
+        "Computer science",
+        "Distributed computing",
+        "Liveness",
+        "State space",
+        "SPIN model checker",
+        "Correctness",
+        "Formal methods",
+        "Model checking",
+        "Real-time computing"
+    ],
+    "references": [
+        "1481316450",
+        "1594330404",
+        "1686001811",
+        "1769954818",
+        "1867495292",
+        "1985665832",
+        "2051356522",
+        "2115309705",
+        "2155155771"
+    ]
+}

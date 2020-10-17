@@ -1,0 +1,75 @@
+{
+    "id": "1579147384",
+    "title": "PACMan: coordinated memory caching for parallel jobs",
+    "venue": "networked systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ganesh Ananthanarayanan",
+            "id": "2108780062",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Ali Ghodsi",
+            "id": "1884851915",
+            "org": "University of California, Berkeley and KTH, Sweden#TAB#"
+        },
+        {
+            "name": "Andrew Wang",
+            "id": "2476404900",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Dhruba Borthakur",
+            "id": "2018219830",
+            "org": "Facebook#TAB#"
+        },
+        {
+            "name": "Srikanth Kandula",
+            "id": "2089120598",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Scott Shenker",
+            "id": "719828399",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Ion Stoica",
+            "id": "2161479384",
+            "org": "University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "Analytics",
+        "Real-time computing",
+        "The Internet"
+    ],
+    "references": [
+        "200298483",
+        "1480953729",
+        "1491490998",
+        "1606894208",
+        "1918432491",
+        "1993484402",
+        "2025413686",
+        "2040402865",
+        "2094469165",
+        "2098935637",
+        "2100830825",
+        "2107460938",
+        "2110104287",
+        "2113288530",
+        "2119400430",
+        "2122465391",
+        "2136390693",
+        "2144518192",
+        "2163961697",
+        "2173213060",
+        "2189465200"
+    ]
+}

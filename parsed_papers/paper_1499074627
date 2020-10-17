@@ -1,0 +1,37 @@
+{
+    "id": "1499074627",
+    "title": "Finding collisions on a one-way street: Can secure hash functions be based on general assumptions?",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Daniel R. Simon",
+            "id": "2523988512",
+            "org": "Microsoft Research, One Microsoft Way, Redmond, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Hash chain",
+        "Security of cryptographic hash functions",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "Collision resistance"
+    ],
+    "references": [
+        "1493969756",
+        "1549228503",
+        "1552695147",
+        "1596576235",
+        "1600432225",
+        "1912765942",
+        "2011095011",
+        "2052267638"
+    ]
+}

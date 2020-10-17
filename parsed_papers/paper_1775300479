@@ -1,0 +1,91 @@
+{
+    "id": "1775300479",
+    "title": "Hardware Accelerator for the Tate Pairing in Characteristic Three Based on Karatsuba-Ofman Multipliers",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Luc Beuchat",
+            "id": "1981725373",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan 305-8573#TAB#"
+        },
+        {
+            "name": "Jeremie Detrey",
+            "id": "2559496073",
+            "org": "CACAO project-team, LORIA, INRIA Nancy - Grand Est, Villers-les-Nancy Cedex, France 54602#TAB#"
+        },
+        {
+            "name": "Nicolas Estibals",
+            "id": "165336779",
+            "org": "CACAO project-team, LORIA, INRIA Nancy - Grand Est, Villers-les-Nancy Cedex, France 54602#TAB#"
+        },
+        {
+            "name": "Eiji Okamoto",
+            "id": "2022219673",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan 305-8573#TAB#"
+        },
+        {
+            "name": "Francisco Rodriguez-Henriquez",
+            "id": "727884664",
+            "org": "Computer Science Department, Centro de Investigacion y de Estudios Avanzados del IPN, Mexico City, Mexico 07300#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parallel computing",
+        "VHDL",
+        "Cryptographic protocol",
+        "Computer science",
+        "Pairing",
+        "Coprocessor",
+        "Karatsuba algorithm",
+        "Tate pairing",
+        "Hardware acceleration",
+        "Architecture"
+    ],
+    "references": [
+        "178954070",
+        "934125151",
+        "1495266644",
+        "1518871948",
+        "1523205079",
+        "1532836984",
+        "1541610148",
+        "1548839370",
+        "1551800379",
+        "1553083934",
+        "1569128338",
+        "1592773427",
+        "1610688607",
+        "1637905077",
+        "1650411492",
+        "1905774212",
+        "1990220158",
+        "1997533678",
+        "1998368731",
+        "2001180707",
+        "2007876915",
+        "2032767749",
+        "2055083041",
+        "2058038200",
+        "2067913138",
+        "2086042811",
+        "2095355300",
+        "2097493047",
+        "2111310412",
+        "2116492304",
+        "2117596926",
+        "2119803016",
+        "2125467055",
+        "2128139403",
+        "2152924492",
+        "2154918509",
+        "2157452115",
+        "2159538959",
+        "2159892543",
+        "2164262733",
+        "2167006969",
+        "2296489817",
+        "2785449841"
+    ]
+}

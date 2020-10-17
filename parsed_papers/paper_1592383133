@@ -1,0 +1,49 @@
+{
+    "id": "1592383133",
+    "title": "OS support for a commodity database on PC clusters: distributed devices vs. distributed file systems",
+    "venue": "australasian database conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Felix Rauch",
+            "id": "2332537459",
+            "org": "Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Thomas M. Stricker",
+            "id": "275961911",
+            "org": "Swiss Federal Institute of Technology, Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "Replication (computing)",
+        "Computer science",
+        "RAID",
+        "Distributed lock manager",
+        "Database",
+        "Self-certifying File System",
+        "File system",
+        "Architecture",
+        "Distributed File System"
+    ],
+    "references": [
+        "80878036",
+        "1502623940",
+        "1502833055",
+        "1566254535",
+        "1600328410",
+        "1996734687",
+        "2005373714",
+        "2034636852",
+        "2071009745",
+        "2102061396",
+        "2104210894",
+        "2105321788",
+        "2115655618",
+        "2121133177",
+        "2124288146",
+        "2127896314",
+        "2147504831"
+    ]
+}

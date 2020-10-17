@@ -1,0 +1,65 @@
+{
+    "id": "145730745",
+    "title": "Fast and Robust 3-D MRI Brain Structure Segmentation",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Michael Wels",
+            "id": "2138753032",
+            "org": "Chair of Pattern Recognition, Department of Computer Science, University Erlangen-Nuremberg, Germany and Siemens CT SE5 SCR2, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Yefeng Zheng",
+            "id": "2110607565",
+            "org": "Integrated Data Systems, Siemens Corporate Research, Princeton, USA#TAB#"
+        },
+        {
+            "name": "Gustavo Carneiro",
+            "id": "2421819643",
+            "org": "Institute for Systems and Robotics, Electrical and Computer Engineering Department, Technical University of Lisbon, Portugal#TAB#"
+        },
+        {
+            "name": "Martin Huber",
+            "id": "2251568077",
+            "org": "Siemens CT SE5 SCR2, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Joachim Hornegger",
+            "id": "51092151",
+            "org": "Chair of Pattern Recognition, Department of Computer Science, University Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Dorin Comaniciu",
+            "id": "2054682710",
+            "org": "Integrated Data Systems, Siemens Corporate Research, Princeton, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Computer vision",
+        "Pattern recognition",
+        "Linear subspace",
+        "Subspace topology",
+        "Curse of dimensionality",
+        "Shape parameter",
+        "Haar-like features",
+        "Parameter space",
+        "Robustness (computer science)",
+        "Discriminative model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1549970203",
+        "1607449463",
+        "2000439270",
+        "2038952578",
+        "2101689475",
+        "2119310235",
+        "2126043693",
+        "2126064438",
+        "2144556767",
+        "2146514558",
+        "2158837149"
+    ]
+}

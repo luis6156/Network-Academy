@@ -1,0 +1,42 @@
+{
+    "id": "1528968435",
+    "title": "Semantic-Free Referencing in Linked Distributed Systems",
+    "venue": "international workshop on peer-to-peer systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hari Balakrishnan",
+            "id": "1998464616",
+            "org": "Laboratory for Computer Science"
+        },
+        {
+            "name": "Scott Shenker",
+            "id": "719828399",
+            "org": "ICSI Center for Internet Research (ICIR)"
+        },
+        {
+            "name": "Michael Walfish",
+            "id": "2048602404",
+            "org": "Laboratory for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Hash table",
+        "Directory service",
+        "Administrative domain",
+        "Computer science",
+        "Distributed computing",
+        "Distributed hash table",
+        "The Internet",
+        "Architecture",
+        "SOAP"
+    ],
+    "references": [
+        "1494946454",
+        "1563315162",
+        "1952358266",
+        "2011839272",
+        "2137382266"
+    ]
+}

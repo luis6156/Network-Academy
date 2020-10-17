@@ -1,0 +1,53 @@
+{
+    "id": "1507635209",
+    "title": "Rate-Based Resource Allocation Models for Embedded Systems",
+    "venue": "embedded software",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kevin Jeffay",
+            "id": "245701148",
+            "org": "University of North Carolina at Chapel Hill"
+        },
+        {
+            "name": "Steve Goddard",
+            "id": "2047816979",
+            "org": "University of Nebraska - Lincoln"
+        }
+    ],
+    "fields_of_study": [
+        "Priority inheritance",
+        "Resource allocation",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Embedded system",
+        "Priority ceiling protocol",
+        "Rate-monotonic scheduling",
+        "Real-time computing"
+    ],
+    "references": [
+        "1485093219",
+        "1499464098",
+        "1611475125",
+        "1911718429",
+        "2064207294",
+        "2073440460",
+        "2111068086",
+        "2111087562",
+        "2119809695",
+        "2131205565",
+        "2134935059",
+        "2139995534",
+        "2140710806",
+        "2145149850",
+        "2146398836",
+        "2154814482",
+        "2166440675",
+        "2171469656",
+        "2176566884"
+    ]
+}

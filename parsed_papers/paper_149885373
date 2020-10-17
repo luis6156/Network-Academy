@@ -1,0 +1,54 @@
+{
+    "id": "149885373",
+    "title": "Impossible differential cryptanalysis of the lightweight block ciphers TEA, XTEA and HIGHT",
+    "venue": "international conference on cryptology in africa",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jiazhe Chen",
+            "id": "2797552474",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, School of Mathematics, Shandong University, Jinan, China, ESAT/COSIC and IBBT, KU Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Meiqin Wang",
+            "id": "2251995558",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, School of Mathematics, Shandong University, Jinan, China, ESAT/COSIC and IBBT, KU Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "ESAT/COSIC and IBBT, KU Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Algorithm",
+        "Brute-force search",
+        "Impossible differential cryptanalysis",
+        "XTEA",
+        "Feistel cipher"
+    ],
+    "references": [
+        "1486719429",
+        "1488496268",
+        "1498785007",
+        "1502608166",
+        "1502924772",
+        "1503378629",
+        "1516699468",
+        "1522919234",
+        "1533608182",
+        "1541703086",
+        "1546907539",
+        "1554594656",
+        "1568206444",
+        "1575389912",
+        "1577355432",
+        "1916689065",
+        "2116723762",
+        "2132271754",
+        "2153946919",
+        "2408744439"
+    ]
+}

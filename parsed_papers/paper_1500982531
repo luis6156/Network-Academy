@@ -1,0 +1,47 @@
+{
+    "id": "1500982531",
+    "title": "SCALASCA Parallel Performance Analyses of SPEC MPI2007 Applications",
+    "venue": "spec international performance evaluation workshop",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Zoltan Szebenyi",
+            "id": "2273789822",
+            "org": "Julich Supercomputing Centre, Forschungszentrum Julich GmbH, Germany and Aachen Institute for Advanced Study in Computational Engineering Science, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Brian J. N. Wylie",
+            "id": "2675025197",
+            "org": "Julich Supercomputing Centre, Forschungszentrum Julich GmbH, Germany#TAB#"
+        },
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "Julich Supercomputing Centre, Forschungszentrum Julich GmbH, Germany and Aachen Institute for Advanced Study in Computational Engineering Science, RWTH Aachen University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Point-to-point",
+        "Parallel computing",
+        "Computer science",
+        "Message passing",
+        "Spec#",
+        "Performance improvement",
+        "Fortran"
+    ],
+    "references": [
+        "9763237",
+        "153244122",
+        "1555873941",
+        "1565161847",
+        "1595929435",
+        "1779971361",
+        "1780344158",
+        "1950832899",
+        "1969215126",
+        "2080128705",
+        "2126913665",
+        "2218864152"
+    ]
+}

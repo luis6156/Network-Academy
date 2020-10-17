@@ -1,0 +1,47 @@
+{
+    "id": "1497014977",
+    "title": "Known Plaintext Correlation Attack against RC5",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Atsuko Miyaji",
+            "id": "1454195615",
+            "org": "Japan Advanced Institute of Science and Technology"
+        },
+        {
+            "name": "Masao Nonaka",
+            "id": "2171990726",
+            "org": "Japan Advanced Institute of Science and Technology"
+        },
+        {
+            "name": "Yoshinori Takii",
+            "id": "2670689546",
+            "org": "Japan Air Self Defense Force"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "XSL attack",
+        "Interpolation attack",
+        "Chi-square test",
+        "Mathematics",
+        "Algorithm",
+        "Discrete mathematics",
+        "Statistics",
+        "Linear cryptanalysis",
+        "Known-plaintext attack",
+        "Chosen-ciphertext attack",
+        "Correlation attack"
+    ],
+    "references": [
+        "1492016609",
+        "1500356409",
+        "1544157371",
+        "1553595359",
+        "1560537307",
+        "1584582385",
+        "1660562555",
+        "2108808929"
+    ]
+}

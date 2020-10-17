@@ -1,0 +1,87 @@
+{
+    "id": "1515175581",
+    "title": "An incremental and layered procedure for the satisfiability of linear arithmetic logic",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marco Bozzano",
+            "id": "2160184347",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Roberto Bruttomesso",
+            "id": "1918427700",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Tommi A. Junttila",
+            "id": "2068236630",
+            "org": "Helsinki University of Technology, Finland#TAB#"
+        },
+        {
+            "name": "Peter van Rossum",
+            "id": "1163235715",
+            "org": "ITC-IRST, Povo, Trento, Italy#TAB#"
+        },
+        {
+            "name": "Stephan Schulz",
+            "id": "1988624275",
+            "org": "University of Verona, Verona, Italy#TAB#"
+        },
+        {
+            "name": "Roberto Sebastiani",
+            "id": "2150132257",
+            "org": "Universita di Trento, Povo, Trento, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Boolean algebra",
+        "Constraint satisfaction",
+        "Backjumping",
+        "Linear logic",
+        "Propositional variable",
+        "Arithmetic",
+        "Boolean function",
+        "Conjunctive normal form"
+    ],
+    "references": [
+        "56814239",
+        "1489527380",
+        "1490156001",
+        "1512564652",
+        "1518705996",
+        "1532176935",
+        "1534716074",
+        "1543209374",
+        "1571054242",
+        "1582571943",
+        "1589982562",
+        "1747583082",
+        "1780472831",
+        "1923495615",
+        "1948299783",
+        "1949482742",
+        "2016321606",
+        "2048051309",
+        "2074792936",
+        "2094530979",
+        "2100126165",
+        "2108637261",
+        "2115207428",
+        "2119190805",
+        "2142785340",
+        "2148680350",
+        "2157821202",
+        "2259817465",
+        "2890068598"
+    ]
+}

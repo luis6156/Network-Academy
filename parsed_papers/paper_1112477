@@ -1,0 +1,79 @@
+{
+    "id": "1112477",
+    "title": "Non-control-data attacks are realistic threats",
+    "venue": "usenix security symposium",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Shuo Chen",
+            "id": "2152672761",
+            "org": "Center for Reliable and High Performance Computing, Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Jun Xu",
+            "id": "2664713669",
+            "org": "Department of Computer Science, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Emre Can Sezer",
+            "id": "2146216389",
+            "org": "Department of Computer Science, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Prachi Gauriar",
+            "id": "337201273",
+            "org": "Department of Computer Science, North Carolina State University, Raleigh, NC#TAB#"
+        },
+        {
+            "name": "Ravishankar K. Iyer",
+            "id": "2115084254",
+            "org": "Center for Reliable and High Performance Computing, Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Telnet",
+        "Security bug",
+        "Control flow",
+        "Computer science",
+        "Computer security",
+        "Server",
+        "Attack patterns",
+        "File Transfer Protocol",
+        "Memory corruption",
+        "Internet privacy",
+        "The Internet"
+    ],
+    "references": [
+        "34732858",
+        "123548525",
+        "1535713556",
+        "1545927878",
+        "1546149892",
+        "1565113942",
+        "1580723402",
+        "1655226010",
+        "1825457006",
+        "1832277845",
+        "1941427975",
+        "1947347140",
+        "2066425771",
+        "2068444955",
+        "2090181646",
+        "2098010707",
+        "2100666033",
+        "2102362134",
+        "2102970979",
+        "2103919170",
+        "2106649514",
+        "2108860402",
+        "2123886726",
+        "2128217000",
+        "2135143063",
+        "2137569638",
+        "2140611647",
+        "2146455667",
+        "2150277819",
+        "2167332015",
+        "2170715115"
+    ]
+}

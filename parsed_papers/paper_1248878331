@@ -1,0 +1,48 @@
+{
+    "id": "1248878331",
+    "title": "Efficiently storing virtual machine backups",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Stephen Smaldone",
+            "id": "1999289152",
+            "org": "Backup Recovery Systems Division, EMC Corporation#TAB#"
+        },
+        {
+            "name": "Grant Wallace",
+            "id": "2286689323",
+            "org": "Backup Recovery Systems Division, EMC Corporation#TAB#"
+        },
+        {
+            "name": "Windsor W. Hsu",
+            "id": "2104350463",
+            "org": "Backup Recovery Systems Division, EMC Corporation#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Incremental backup",
+        "Scalability",
+        "Backup software",
+        "Virtualization",
+        "Computer science",
+        "Distributed computing",
+        "Data loss",
+        "Data deduplication",
+        "Backup",
+        "Virtual machine",
+        "Real-time computing"
+    ],
+    "references": [
+        "5335935",
+        "22807665",
+        "200233886",
+        "1576397915",
+        "1971212200",
+        "1977591152",
+        "2073370301",
+        "2136290019",
+        "2138061848",
+        "2234398779"
+    ]
+}

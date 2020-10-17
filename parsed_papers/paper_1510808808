@@ -1,0 +1,56 @@
+{
+    "id": "1510808808",
+    "title": "A performance study of a dual Xeon-Phi cluster for the forward modelling of gravitational fields",
+    "venue": "Scientific Programming",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Maricela Arroyo",
+            "id": "2133945575",
+            "org": "ABACUS-CINVESTAV-IPN, Mexico City, DF, Mexico#TAB#"
+        },
+        {
+            "name": "Carlos Couder-Castaneda",
+            "id": "2273064168",
+            "org": "ABACUS-CINVESTAV-IPN, Mexico City, DF, Mexico and Centro de Desarrollo Aeroespacial del Instituto Politecnico Nacional, Belisario Dominguez, Mexico City, DF, Mexico#TAB#"
+        },
+        {
+            "name": "Alfredo Trujillo-Alcantara",
+            "id": "2566235055",
+            "org": "Escuela Superior de Fisica y Matematicas, Av. Instituto Politecnico Nacional Edificio, Unidad Profesional Adolfo Lopez Mateos, Mexico City, DF, Mexico and Instituto Mexica ...#TAB#"
+        },
+        {
+            "name": "Israel Enrique Herrera-Diaz",
+            "id": "1970703998",
+            "org": "Department of Industrial Engineering, Campus Celaya-Salvatierra, University of Guanajuato, Mutualismo Colonia Suiza, Celaya, Gto, Mexico#TAB#"
+        },
+        {
+            "name": "Nain Vera-Chavez",
+            "id": "2563481085",
+            "org": "Instituto Mexicano del Petroleo, Eje Central Lazaro Cardenas, Mexico City, DF, Mexico#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Parallel computing",
+        "Xeon Phi",
+        "Multi-core processor",
+        "Computer science",
+        "Control theory",
+        "Coprocessor",
+        "Interconnection",
+        "CPU cache",
+        "Architecture"
+    ],
+    "references": [
+        "1503508068",
+        "1569358350",
+        "1888316275",
+        "1977825676",
+        "1984222112",
+        "1984320938",
+        "2032401773",
+        "2141596547",
+        "2269751313"
+    ]
+}

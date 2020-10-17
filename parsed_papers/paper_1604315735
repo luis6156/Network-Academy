@@ -1,0 +1,51 @@
+{
+    "id": "1604315735",
+    "title": "Synchronization fault cryptanalysis for breaking a5/1",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marcin Gomulkiewicz",
+            "id": "2093954229",
+            "org": "Wroclaw University of Technology#TAB#"
+        },
+        {
+            "name": "Miroslaw Kutylowski",
+            "id": "181516391",
+            "org": "Wroclaw University of Technology#TAB#"
+        },
+        {
+            "name": "Heinrich Theodor Vierhaus",
+            "id": "2044564895",
+            "org": "Brandenburg University of Technology, Cottbus#TAB#"
+        },
+        {
+            "name": "Pawel Wlaz",
+            "id": "2066942646",
+            "org": "Lublin University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Keyspace",
+        "Keystream",
+        "Cryptanalysis",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "GSM",
+        "Random number generation",
+        "Shift register"
+    ],
+    "references": [
+        "1531434127",
+        "1544956979",
+        "1554090281",
+        "1571721593",
+        "1755066991",
+        "1994959057",
+        "2110941647",
+        "2122442616",
+        "2170489924"
+    ]
+}

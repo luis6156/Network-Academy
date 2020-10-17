@@ -1,0 +1,49 @@
+{
+    "id": "1514445979",
+    "title": "An implementation of parallel 3-d FFT using short vector SIMD instructions on clusters of PCs",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Daisuke Takahashi",
+            "id": "2156780583",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        },
+        {
+            "name": "Taisuke Boku",
+            "id": "184900542",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Twiddle factor",
+        "SSE2",
+        "Parallel computing",
+        "SIMD",
+        "Streaming SIMD Extensions",
+        "Computer science",
+        "Cooley-Tukey FFT algorithm",
+        "Fast Fourier transform",
+        "Xeon",
+        "Loop nest optimization"
+    ],
+    "references": [
+        "1563748761",
+        "1756320466",
+        "1820775600",
+        "2015352249",
+        "2045836768",
+        "2058645184",
+        "2096070062",
+        "2102182691",
+        "2127391977",
+        "2138289268",
+        "2160337867",
+        "2171641226"
+    ]
+}

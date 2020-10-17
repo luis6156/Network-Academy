@@ -1,0 +1,39 @@
+{
+    "id": "1498160656",
+    "title": "A bit-vector algorithm for computing Levenshtein and Damerau edit distances",
+    "venue": "prague stringology conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Heikki Hyyro",
+            "id": "1214632151",
+            "org": "University of Tampere, Department of Computer and Information Sciences, 33014 University of Tampere, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Word (computer architecture)",
+        "Bit array",
+        "Algorithm",
+        "Damerau-Levenshtein distance",
+        "Discrete mathematics",
+        "Jaro-Winkler distance",
+        "String-to-string correction problem",
+        "Combinatorics",
+        "Wagner-Fischer algorithm",
+        "Edit distance",
+        "Approximate string matching"
+    ],
+    "references": [
+        "1529203176",
+        "1529615245",
+        "1970026646",
+        "2011632873",
+        "2016219933",
+        "2032377275",
+        "2045821558",
+        "2066792529",
+        "2100751585",
+        "2130200371"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1461516026",
+    "title": "The Price of Security: A Detailed Comparison of the TLS Handshake Performance on Embedded Devices When Using Elliptic Curve Cryptography and RSA",
+    "venue": "international conference on e business",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Manuel Koschuch",
+            "id": "2403897223",
+            "org": "University of Applied Science"
+        },
+        {
+            "name": "Matthias Hudler",
+            "id": "2100703857",
+            "org": "University of Applied Science"
+        },
+        {
+            "name": "Michael Kruger",
+            "id": "2775891592",
+            "org": "University of Applied Science"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Symmetric-key algorithm",
+        "Ephemeral key",
+        "Cipher",
+        "Transport Layer Security",
+        "Mutual authentication",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Elliptic curve cryptography"
+    ],
+    "references": [
+        "1506716105",
+        "1510930713",
+        "1681507753",
+        "1978098791",
+        "2121268634",
+        "2152124765",
+        "2286477783"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "1577201909",
+    "title": "Ray-driven dynamic working set rendering: For complex volume scene graphs involving large point clouds",
+    "venue": "The Visual Computer",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Chisnall",
+            "id": "1227104805",
+            "org": "University of Wales Swansea, Department of Computer Science, SA2 8PP, Swansea, UK#TAB#"
+        },
+        {
+            "name": "Min Chen",
+            "id": "2571495213",
+            "org": "University of Wales Swansea, Department of Computer Science, SA2 8PP, Swansea, UK#TAB#"
+        },
+        {
+            "name": "Charles D. Hansen",
+            "id": "2059591427",
+            "org": "University of Utah, School of Computing, 84112, Salt Lake City, UT, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Theoretical computer science",
+        "Computer vision",
+        "Octree",
+        "Rendering (computer graphics)",
+        "Out-of-core algorithm",
+        "Computer science",
+        "Ray tracing (graphics)",
+        "Point cloud",
+        "Scene graph",
+        "Working set",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "148241340",
+        "1493143135",
+        "1503421060",
+        "1753524162",
+        "1964661732",
+        "2014281764",
+        "2027195462",
+        "2030511969",
+        "2069860025",
+        "2097967318",
+        "2113634802",
+        "2114844286",
+        "2115019302",
+        "2120645069",
+        "2122677795",
+        "2127307450",
+        "2127674791",
+        "2128012088",
+        "2142098074",
+        "2144205107",
+        "2145341950",
+        "2145644890",
+        "2151005058",
+        "2152508418",
+        "2154310673",
+        "2154707273",
+        "2155328339",
+        "2156343066",
+        "2158037930",
+        "2158994814",
+        "2165558283",
+        "2171712884",
+        "2218415840",
+        "2244686166",
+        "2293779956",
+        "2540436876"
+    ]
+}

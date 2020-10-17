@@ -1,0 +1,105 @@
+{
+    "id": "1038736503",
+    "title": "Multi-scale deep networks and regression forests for direct bi-ventricular volume estimation.",
+    "venue": "Medical Image Analysis",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Xiantong Zhen",
+            "id": "2789755911",
+            "org": "The University of Western Ontario, London, ON, Canada"
+        },
+        {
+            "name": "Zhijie Wang",
+            "id": "2289374679",
+            "org": "GE Healthcare, London, ON, Canada"
+        },
+        {
+            "name": "Ali Islam",
+            "id": "2114616761",
+            "org": "St. Joseph's Health Care, London, ON, Canada"
+        },
+        {
+            "name": "Mousumi Bhaduri",
+            "id": "2337342732",
+            "org": "London Healthcare Sciences Centre, London, ON, Canada"
+        },
+        {
+            "name": "Ian Chan",
+            "id": "2226310194",
+            "org": "London Healthcare Sciences Centre, London, ON, Canada"
+        },
+        {
+            "name": "Shuo Li",
+            "id": "2679813363",
+            "org": "The University of Western Ontario, London, ON, Canada"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Random forest",
+        "Regression",
+        "Pattern recognition",
+        "Computer science",
+        "Ground truth",
+        "Direct methods",
+        "Discriminant",
+        "Cross-validation",
+        "Feature learning",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "22040386",
+        "44815768",
+        "1504423256",
+        "1548358100",
+        "1573412753",
+        "1901581672",
+        "1915761309",
+        "1954309418",
+        "1971404788",
+        "1978984797",
+        "1987512289",
+        "1989986853",
+        "1991598519",
+        "1992802857",
+        "2033297424",
+        "2036109700",
+        "2037513725",
+        "2041313113",
+        "2042084395",
+        "2047291883",
+        "2050067493",
+        "2059589342",
+        "2060280062",
+        "2066364337",
+        "2069816479",
+        "2084783417",
+        "2097819905",
+        "2101689475",
+        "2108735112",
+        "2109791802",
+        "2110798204",
+        "2116064496",
+        "2125337786",
+        "2130325614",
+        "2133257461",
+        "2136922672",
+        "2143345254",
+        "2148516227",
+        "2149309532",
+        "2157012957",
+        "2160379265",
+        "2161969291",
+        "2163605009",
+        "2163922914",
+        "2169279485",
+        "2169805405",
+        "2172174689",
+        "2214916291",
+        "2295452827",
+        "2618530766",
+        "2759597524"
+    ]
+}

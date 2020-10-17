@@ -1,0 +1,63 @@
+{
+    "id": "1533665904",
+    "title": "Tuning blocked array layouts to exploit memory hierarchy in SMT architectures",
+    "venue": "panhellenic conference on informatics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Evangelia Athanasaki",
+            "id": "1923785347",
+            "org": "School of Electrical and Computer Engineering, Computing Systems Laboratory, National Technical University of Athens#TAB#"
+        },
+        {
+            "name": "Kornilios Kourtis",
+            "id": "2011633553",
+            "org": "School of Electrical and Computer Engineering, Computing Systems Laboratory, National Technical University of Athens#TAB#"
+        },
+        {
+            "name": "Nikos Anastopoulos",
+            "id": "1959313276",
+            "org": "School of Electrical and Computer Engineering, Computing Systems Laboratory, National Technical University of Athens#TAB#"
+        },
+        {
+            "name": "Nectarios Koziris",
+            "id": "329544955",
+            "org": "School of Electrical and Computer Engineering, Computing Systems Laboratory, National Technical University of Athens#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Loop interchange",
+        "Cache algorithms",
+        "Parallel computing",
+        "Cache coloring",
+        "Computer science",
+        "Page cache",
+        "Cache pollution",
+        "Cache-oblivious algorithm",
+        "Loop nest optimization",
+        "Real-time computing"
+    ],
+    "references": [
+        "1555915743",
+        "1562841074",
+        "1979632109",
+        "1991501286",
+        "2020505145",
+        "2078845975",
+        "2098220211",
+        "2099242001",
+        "2108315152",
+        "2115237803",
+        "2116493917",
+        "2117395866",
+        "2119609467",
+        "2121380786",
+        "2122418911",
+        "2128145051",
+        "2158158791",
+        "2158737060",
+        "2159309967",
+        "2166346826"
+    ]
+}

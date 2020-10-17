@@ -1,0 +1,76 @@
+{
+    "id": "1439899078",
+    "title": "New Security Proof for the Boneh-Boyen IBE: Tight Reduction in Unbounded Multi-challenge Security",
+    "venue": "international conference on information and communication security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Nuttapong Attrapadung",
+            "id": "374441298",
+            "org": "National Institute of Advanced Industrial Science and Technology AIST, Chiyoda-ku, Japan#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "National Institute of Advanced Industrial Science and Technology AIST, Chiyoda-ku, Japan#TAB#"
+        },
+        {
+            "name": "Shota Yamada",
+            "id": "2117736510",
+            "org": "National Institute of Advanced Industrial Science and Technology AIST, Chiyoda-ku, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Concrete security",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Parameterized complexity",
+        "Public-key cryptography",
+        "Adversary"
+    ],
+    "references": [
+        "148801026",
+        "154883872",
+        "199192073",
+        "1484751769",
+        "1499733894",
+        "1499766499",
+        "1508647588",
+        "1510795740",
+        "1522101599",
+        "1523567567",
+        "1537360597",
+        "1545508641",
+        "1546774120",
+        "1560474949",
+        "1563217018",
+        "1569083856",
+        "1576892942",
+        "1584795124",
+        "1592092778",
+        "1603068992",
+        "1684724692",
+        "1797206029",
+        "2038761522",
+        "2046871034",
+        "2086042811",
+        "2086298846",
+        "2087000693",
+        "2097834299",
+        "2102090397",
+        "2114296987",
+        "2117685508",
+        "2117797270",
+        "2122973102",
+        "2124218043",
+        "2141462088",
+        "2152688060",
+        "2211075457",
+        "2235014515",
+        "2238048589",
+        "2282650164",
+        "2610275508"
+    ]
+}

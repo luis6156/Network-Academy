@@ -1,0 +1,56 @@
+{
+    "id": "1548636811",
+    "title": "Memory Conscious Scheduling for Cluster-based NUMA Multiprocessors",
+    "venue": "The Journal of Supercomputing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Takahiro Koita",
+            "id": "729508164",
+            "org": "Nara Institute of Science and Technology, Takayama-cho 8916-5, Ikoma, Nara, 630-0101, Japantakahi-ks@aist-nara.ac.jp#TAB#"
+        },
+        {
+            "name": "Tetsuro Katayama",
+            "id": "2302686871",
+            "org": "Nara Institute of Science and Technology, Takayama-cho 8916-5, Ikoma, Nara, 630-0101, Japankats@aist-nara.ac.jp#TAB#"
+        },
+        {
+            "name": "Keizo Saisho",
+            "id": "1663052356",
+            "org": "Nara Institute of Science and Technology, Takayama-cho 8916-5, Ikoma, Nara, 630-0101, Japansais@aist-nara.ac.jp#TAB#"
+        },
+        {
+            "name": "Akira Fukuda",
+            "id": "2098236533",
+            "org": "Nara Institute of Science and Technology, Takayama-cho 8916-5, Ikoma, Nara, 630-0101, Japanfukudas@aist-nara.ac.jp#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Non-uniform memory access",
+        "Cache-only memory architecture",
+        "Page fault"
+    ],
+    "references": [
+        "1581786807",
+        "1606855382",
+        "1933350557",
+        "1968504700",
+        "1989336110",
+        "2017802925",
+        "2074983412",
+        "2079746131",
+        "2094587335",
+        "2108187310",
+        "2131886407",
+        "2140455011",
+        "2157632164",
+        "2166695723",
+        "2166874382"
+    ]
+}

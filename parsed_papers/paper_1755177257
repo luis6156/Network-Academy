@@ -1,0 +1,75 @@
+{
+    "id": "1755177257",
+    "title": "Anytime Hybrid Best-First Search with tree decomposition for weighted CSP",
+    "venue": "principles and practice of constraint programming",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "David Allouche",
+            "id": "1771777630",
+            "org": "MIAT, UR-875, INRA, Castanet Tolosan, France#TAB#"
+        },
+        {
+            "name": "Simon de Givry",
+            "id": "2069351345",
+            "org": "MIAT, UR-875, INRA, Castanet Tolosan, France#TAB#"
+        },
+        {
+            "name": "Georgios Katsirelos",
+            "id": "2575951161",
+            "org": "MIAT, UR-875, INRA, Castanet Tolosan, France#TAB#"
+        },
+        {
+            "name": "Thomas Schiex",
+            "id": "21858160",
+            "org": "MIAT, UR-875, INRA, Castanet Tolosan, France#TAB#"
+        },
+        {
+            "name": "Matthias Zytnicki",
+            "id": "2251106317",
+            "org": "MIAT, UR-875, INRA, Castanet Tolosan, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Combinatorial optimization",
+        "Beam stack search",
+        "Optimization problem",
+        "Anytime algorithm",
+        "Tree decomposition",
+        "Best-first search",
+        "Backtracking",
+        "Mathematical optimization",
+        "Upper and lower bounds",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "46786713",
+        "54850713",
+        "91781137",
+        "103975088",
+        "137179583",
+        "198893173",
+        "325136039",
+        "1507841763",
+        "1527745059",
+        "1548566480",
+        "1646038686",
+        "1683857393",
+        "1866098434",
+        "1885913205",
+        "1988443389",
+        "2011292059",
+        "2029448190",
+        "2035601288",
+        "2108687116",
+        "2111175290",
+        "2138319640",
+        "2144931885",
+        "2154055561",
+        "2161076907",
+        "2336629689",
+        "2403489339"
+    ]
+}

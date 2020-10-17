@@ -1,0 +1,35 @@
+{
+    "id": "1489195210",
+    "title": "Weak Keys of Reduced-Round PRESENT for Linear Cryptanalysis",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Kenji Ohkuma",
+            "id": "2163935491",
+            "org": "Corporate R & D Center, Toshiba Corporation, and IT Security Center, Information-technology Promotion Agency, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Weak key",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "1533392870",
+        "1542500920",
+        "1581134854",
+        "1583224622",
+        "1734967783",
+        "1894646615",
+        "1964723977",
+        "2158562395"
+    ]
+}

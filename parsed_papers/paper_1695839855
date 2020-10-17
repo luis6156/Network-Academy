@@ -1,0 +1,42 @@
+{
+    "id": "1695839855",
+    "title": "A model for I/O in equational languages with don''t care non-determinism",
+    "venue": "workshop on specification of abstract data types joint with compass workshop on recent trends in data type specification",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "H. R. Walters",
+            "id": "1981369144",
+            "org": "CWI"
+        },
+        {
+            "name": "J. F. Th. Kamperman",
+            "id": "688076918",
+            "org": "CWI"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Semantics",
+        "Reduction strategy",
+        "Algorithm",
+        "Input/output",
+        "Abstract family of languages",
+        "Determinism",
+        "Functional programming",
+        "Concurrent logic programming",
+        "Programming language",
+        "Rewriting"
+    ],
+    "references": [
+        "100098737",
+        "1513315908",
+        "2025846768",
+        "2053384008",
+        "2078944436",
+        "2152944474",
+        "2156876717",
+        "2160013706",
+        "2568353413"
+    ]
+}

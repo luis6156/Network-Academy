@@ -1,0 +1,52 @@
+{
+    "id": "1669099564",
+    "title": "Parameter Reduction in Grammar-Compressed Trees",
+    "venue": "joint european conferences on theory and practice of software",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Markus Lohrey",
+            "id": "41766548",
+            "org": "Institut fur Informatik, Universitat Leipzig, Germany#TAB#"
+        },
+        {
+            "name": "Sebastian Maneth",
+            "id": "69805596",
+            "org": "NICTA and University of New South Wales, Australia#TAB#"
+        },
+        {
+            "name": "Manfred Schmidt-Schauss",
+            "id": "455990245",
+            "org": "Institut fur Informatik, Johann Wolfgang Goethe-Universitat Frankfurt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Indexed grammar",
+        "Algorithm",
+        "K-ary tree",
+        "Tree automaton",
+        "L-attributed grammar",
+        "Discrete mathematics",
+        "Computer science",
+        "Tree-adjoining grammar",
+        "Regular tree grammar",
+        "Context-sensitive grammar",
+        "Context-free grammar"
+    ],
+    "references": [
+        "160847359",
+        "1491846504",
+        "1510722254",
+        "1521552748",
+        "2068249429",
+        "2087945397",
+        "2131807903",
+        "2132524091",
+        "2143237826",
+        "2148149459",
+        "2148506544",
+        "2165128972",
+        "2167567138",
+        "2538148032"
+    ]
+}

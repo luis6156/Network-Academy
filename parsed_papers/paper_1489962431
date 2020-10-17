@@ -1,0 +1,45 @@
+{
+    "id": "1489962431",
+    "title": "Supporting cache locality optimization with a toolset",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Institut fur Technische Informatik, Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Computer science",
+        "Distributed computing",
+        "Cache coloring",
+        "Uniprocessor system",
+        "Pipeline burst cache",
+        "Cache pollution",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "1510522826",
+        "1568498636",
+        "1623282124",
+        "1991707635",
+        "2028903194",
+        "2104115699",
+        "2106961628",
+        "2109226653",
+        "2112858958",
+        "2119042753",
+        "2144081294"
+    ]
+}

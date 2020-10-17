@@ -1,0 +1,38 @@
+{
+    "id": "1603331866",
+    "title": "Simplified OAEP for the RSA and Rabin Functions",
+    "venue": "international cryptology conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Optimal asymmetric encryption padding",
+        "Theoretical computer science",
+        "Malleability",
+        "Discrete mathematics",
+        "Padding oracle attack",
+        "Padding",
+        "Trapdoor function",
+        "Random oracle",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1511943692",
+        "1516512945",
+        "1552695147",
+        "1561907855",
+        "1580599221",
+        "1589176872",
+        "1660562555",
+        "2002930326",
+        "2052267638",
+        "2101040389"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": "1520834210",
+    "title": "Precomputed radiance transfer for dynamic scenes taking into account light interreflection",
+    "venue": "eurographics symposium on rendering techniques",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kei Iwasaki",
+            "id": "2097469827",
+            "org": "Wakayama University#TAB#"
+        },
+        {
+            "name": "Yoshinori Dobashi",
+            "id": "2011463846",
+            "org": "Hokkaido University#TAB#"
+        },
+        {
+            "name": "Fujiichi Yoshimoto",
+            "id": "2071723720",
+            "org": "Wakayama University#TAB#"
+        },
+        {
+            "name": "Tomoyuki Nishita",
+            "id": "2173005782",
+            "org": "The University of Tokyo#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Global illumination",
+        "Computer graphics (images)",
+        "Photon mapping",
+        "Rendering equation",
+        "Basis function",
+        "Rendering (computer graphics)",
+        "Computer vision",
+        "Precomputed Radiance Transfer",
+        "Computer science",
+        "Irradiance",
+        "Computer graphics",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1538719472",
+        "1597943453",
+        "1974442306",
+        "1974644415",
+        "1975809426",
+        "1977116206",
+        "1983123786",
+        "1986090753",
+        "1990611446",
+        "1991613798",
+        "2000861327",
+        "2000928589",
+        "2007716752",
+        "2008769701",
+        "2010589269",
+        "2017273781",
+        "2023237845",
+        "2025161287",
+        "2026173400",
+        "2027509884",
+        "2036586752",
+        "2036750154",
+        "2052843220",
+        "2053727973",
+        "2061802791",
+        "2076669957",
+        "2103004774",
+        "2111999986",
+        "2138624212",
+        "2153314920",
+        "2158149834",
+        "2164369380",
+        "2165608046",
+        "2245169112"
+    ]
+}

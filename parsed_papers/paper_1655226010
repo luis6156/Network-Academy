@@ -1,0 +1,79 @@
+{
+    "id": "1655226010",
+    "title": "StackGuard: automatic adaptive detection and prevention of buffer-overflow attacks",
+    "venue": "usenix security symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Crispin Cowan",
+            "id": "2151486281",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Calton Pu",
+            "id": "2117427889",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Dave Maier",
+            "id": "2662491195",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Heather Hintony",
+            "id": "2292051277",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology and Ryerson Polytechnic University#TAB#"
+        },
+        {
+            "name": "Jonathan Walpole",
+            "id": "2062312280",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Peat Bakke",
+            "id": "2632660172",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Steve Beattie",
+            "id": "2137267308",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Aaron Grier",
+            "id": "2137505907",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Perry Wagle",
+            "id": "2024285646",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        },
+        {
+            "name": "Qian Zhang",
+            "id": "2305387954",
+            "org": "Department of Computer Science and Engineering, Oregon Graduate Institute of Science & Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Address space layout randomization",
+        "Return-oriented programming",
+        "Shellcode",
+        "Computer science",
+        "Compiler",
+        "Computer security",
+        "Buffer overflow",
+        "Heap overflow",
+        "Buffer overflow protection",
+        "Stack buffer overflow"
+    ],
+    "references": [
+        "1483652549",
+        "2002934700",
+        "2078655808",
+        "2095629885",
+        "2106861521",
+        "2111817346",
+        "2152166906"
+    ]
+}

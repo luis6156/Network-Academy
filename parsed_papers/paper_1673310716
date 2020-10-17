@@ -1,0 +1,53 @@
+{
+    "id": "1673310716",
+    "title": "A density-based algorithm for discovering clusters in large spatial databases with noise",
+    "venue": "knowledge discovery and data mining",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Martin Ester",
+            "id": "2067196623",
+            "org": "Ludwig Maximilian University of Munich"
+        },
+        {
+            "name": "Hans-Peter Kriegel",
+            "id": "1919135125",
+            "org": "Institute for Computer Science|University of Munich"
+        },
+        {
+            "name": "Jiirg Sander",
+            "id": "2431394096",
+            "org": "Institute for Computer Science|University of Munich"
+        },
+        {
+            "name": "Xiaowei Xu",
+            "id": "2645375510",
+            "org": "Institute for Computer Science|University of Munich"
+        }
+    ],
+    "fields_of_study": [
+        "SUBCLU",
+        "Algorithm",
+        "Computer science",
+        "Data mining",
+        "CURE data clustering algorithm",
+        "Data stream clustering",
+        "Determining the number of clusters in a data set",
+        "Complete-linkage clustering",
+        "Cluster analysis",
+        "Database",
+        "OPTICS algorithm",
+        "DBSCAN",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1575476631",
+        "1971784203",
+        "1991688557",
+        "2101103738",
+        "2101616188",
+        "2124199440",
+        "2151135734"
+    ]
+}

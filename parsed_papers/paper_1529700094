@@ -1,0 +1,48 @@
+{
+    "id": "1529700094",
+    "title": "A Distributed Implementation of Flat Concurrent Prolog on Multi-Transputer Environments",
+    "venue": "Proceedings of the First International ACPC Conference on Parallel Computation",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Uwe Glasser",
+            "id": "2781019232",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "G. Hannesen",
+            "id": "2331666364",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "M. Karcher",
+            "id": "2633077799",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Georg Lehrenfeld",
+            "id": "250776711",
+            "org": "University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Futures and promises",
+        "Transputer",
+        "Computer architecture",
+        "Computer science",
+        "Concurrent object-oriented programming",
+        "Concurrent constraint logic programming",
+        "Concurrent logic programming",
+        "Deadlock prevention algorithms",
+        "Prolog",
+        "Logic programming"
+    ],
+    "references": [
+        "71255559",
+        "1595663182",
+        "1597939266",
+        "2005774723",
+        "2053384008",
+        "2110425399"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1547909858",
+    "title": "A programming language interface to describe transformations and code generation",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Gabe Rudy",
+            "id": "2123425572",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Malik Murtaza Khan",
+            "id": "2151290137",
+            "org": "USC, Information Sciences Institute, Marina del Rey, CA#TAB#"
+        },
+        {
+            "name": "Mary W. Hall",
+            "id": "2125314167",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Chun Chen",
+            "id": "2303761552",
+            "org": "School of Computing, University of Utah, Salt Lake City, UT#TAB#"
+        },
+        {
+            "name": "Jacqueline Chame",
+            "id": "318460044",
+            "org": "USC, Information Sciences Institute, Marina del Rey, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Parallel computing",
+        "Computer architecture",
+        "Source code",
+        "Computer science",
+        "Functional compiler",
+        "Compiler",
+        "Loop-invariant code motion",
+        "Object code",
+        "Code generation",
+        "Dead code elimination",
+        "Programming language"
+    ],
+    "references": [
+        "1537323515",
+        "1545258949",
+        "1623282124",
+        "1762731526",
+        "1779740778",
+        "1844404537",
+        "1973359136",
+        "1981404401",
+        "2017862255",
+        "2030859425",
+        "2038543880",
+        "2042629708",
+        "2046351222",
+        "2049919788",
+        "2058502494",
+        "2063249715",
+        "2069738303",
+        "2071110673",
+        "2076848169",
+        "2077960035",
+        "2108315152",
+        "2112502633",
+        "2119609467",
+        "2121546953",
+        "2129232868",
+        "2138007781",
+        "2152506070",
+        "2158626113",
+        "2159309967",
+        "2170634604",
+        "2252549844"
+    ]
+}

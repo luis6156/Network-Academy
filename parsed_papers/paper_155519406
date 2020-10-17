@@ -1,0 +1,54 @@
+{
+    "id": "155519406",
+    "title": "Scheduling Open-Nested Transactions in Distributed Transactional Memory",
+    "venue": "international conference on coordination models and languages",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Junwhan Kim",
+            "id": "2114637671",
+            "org": "Virginia Tech"
+        },
+        {
+            "name": "Roberto Palmieri",
+            "id": "2152815918",
+            "org": "Virginia Tech"
+        },
+        {
+            "name": "Binoy Ravindran",
+            "id": "2048844354",
+            "org": "Virginia Tech"
+        }
+    ],
+    "fields_of_study": [
+        "Commitment ordering",
+        "Parallel computing",
+        "Commit",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Transactional memory",
+        "Lock (computer science)",
+        "Concurrency control",
+        "Software transactional memory",
+        "Database transaction"
+    ],
+    "references": [
+        "1511442367",
+        "1857380652",
+        "1980499862",
+        "1993179651",
+        "2006156072",
+        "2030689196",
+        "2036987653",
+        "2044555065",
+        "2047791971",
+        "2054449815",
+        "2095935151",
+        "2097447543",
+        "2120193195",
+        "2127397782",
+        "2129458440",
+        "2165791323"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1523495671",
+    "title": "CoMon: An architecture for coordinated caching and cache-aware routing in CCN",
+    "venue": "consumer communications and networking conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Hani Salah",
+            "id": "2153515091",
+            "org": "TU Darmstadt, Germany"
+        },
+        {
+            "name": "Thorsten Strufe",
+            "id": "114296580",
+            "org": "TU Dresden, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Network topology",
+        "Cache algorithms",
+        "Smart Cache",
+        "Cache coloring",
+        "Distributed computing",
+        "Computer science",
+        "Server",
+        "Computer network",
+        "Cache invalidation",
+        "Architecture"
+    ],
+    "references": [
+        "326128841",
+        "1560486077",
+        "1564544031",
+        "1568573326",
+        "1584952474",
+        "1963591592",
+        "1967108490",
+        "1969184015",
+        "1982636234",
+        "1983860569",
+        "1984778122",
+        "2014952121",
+        "2016779681",
+        "2029842577",
+        "2041542784",
+        "2045828497",
+        "2050670657",
+        "2069343813",
+        "2111180164",
+        "2122642161",
+        "2130124274",
+        "2148662748",
+        "2164284397",
+        "2177058407"
+    ]
+}

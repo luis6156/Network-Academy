@@ -1,0 +1,35 @@
+{
+    "id": "1607206152",
+    "title": "The knapsack hash function proposed at Crypto'89 can be broken",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Paul Camion",
+            "id": "1997531653",
+            "org": "INRIA, Le Chesnay Cedex, France#TAB#"
+        },
+        {
+            "name": "Jacques Patarin",
+            "id": "2115493875",
+            "org": "INRIA, Le Chesnay Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Primary clustering",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "1522255819",
+        "1594840082"
+    ]
+}

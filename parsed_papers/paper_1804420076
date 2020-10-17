@@ -1,0 +1,40 @@
+{
+    "id": "1804420076",
+    "title": "Analysis of SNOW 3G [?] resynchronization mechanism",
+    "venue": "international conference on security and cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "LACS, University of Luxembourg, Rue Richard Coudenhove-Kalergi 6, Luxembourg, Luxembourg"
+        },
+        {
+            "name": "Deike Priemuth-Schmid",
+            "id": "139661778",
+            "org": "LACS, University of Luxembourg, Rue Richard Coudenhove-Kalergi 6, Luxembourg, Luxembourg"
+        },
+        {
+            "name": "Bin Zhang",
+            "id": "2706517568",
+            "org": "LACS, University of Luxembourg, Rue Richard Coudenhove-Kalergi 6, Luxembourg, Luxembourg"
+        }
+    ],
+    "fields_of_study": [
+        "Keystream",
+        "Cryptanalysis",
+        "Computer science",
+        "Stream cipher",
+        "Snow",
+        "Computer security",
+        "Linear system",
+        "Linear feedback shift register",
+        "Modular design"
+    ],
+    "references": [
+        "1598162711",
+        "1601186343",
+        "2172632525",
+        "2614997035"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1485309584",
+    "title": "Loop parallelization: revisiting framework of unimodular transformations",
+    "venue": "euromicro workshop on parallel and distributed processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Jordi Torres",
+            "id": "2319678950",
+            "org": "Dept. of Comput. Archit., Univ. Politecnica de Catalunya, Barcelona, Spain"
+        },
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "Dept. of Comput. Archit., Univ. Politecnica de Catalunya, Barcelona, Spain"
+        },
+        {
+            "name": "Jesus Labarta",
+            "id": "2099554632",
+            "org": "Dept. of Comput. Archit., Univ. Politecnica de Catalunya, Barcelona, Spain"
+        },
+        {
+            "name": "Mateo Valero",
+            "id": "2134649964",
+            "org": "Dept. of Comput. Archit., Univ. Politecnica de Catalunya, Barcelona, Spain"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Loop inversion",
+        "Computer science",
+        "Loop fusion",
+        "Scalable parallelism",
+        "Degree of parallelism",
+        "Polytope model",
+        "Loop fission",
+        "Loop nest optimization",
+        "Loop tiling"
+    ],
+    "references": [
+        "1595858234",
+        "1605700408",
+        "1968124998",
+        "2011771274",
+        "2018119051",
+        "2063249715",
+        "2093602329",
+        "2140480361",
+        "2152191070",
+        "2152506070",
+        "2158165467"
+    ]
+}

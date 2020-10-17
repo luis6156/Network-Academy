@@ -1,0 +1,53 @@
+{
+    "id": "1412160721",
+    "title": "Erasure code with shingled local parity groups for efficient recovery from multiple disk failures",
+    "venue": "hot topics in system dependability",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Takeshi Miyamae",
+            "id": "2295409930",
+            "org": "Fujitsu Laboratories Ltd.#TAB#"
+        },
+        {
+            "name": "Takanori Nakao",
+            "id": "2122281137",
+            "org": "Fujitsu Laboratories Ltd.#TAB#"
+        },
+        {
+            "name": "Kensuke Shiozawa",
+            "id": "2295229052",
+            "org": "Fujitsu Laboratories Ltd.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Software",
+        "Computer science",
+        "Object storage",
+        "Durability",
+        "Erasure code",
+        "User requirements document",
+        "Parity (mathematics)",
+        "Real-time computing",
+        "Digital content"
+    ],
+    "references": [
+        "154253821",
+        "330091898",
+        "1510496002",
+        "1999984505",
+        "2029467255",
+        "2039915451",
+        "2069984009",
+        "2090637674",
+        "2099837838",
+        "2109706326",
+        "2111324462",
+        "2119565742",
+        "2119738171",
+        "2138744797",
+        "2147504831",
+        "2147527217"
+    ]
+}

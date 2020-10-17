@@ -1,0 +1,48 @@
+{
+    "id": "1567306564",
+    "title": "Automated test case generation with SMT-solving and abstract interpretation",
+    "venue": "nasa formal methods",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jan Peleska",
+            "id": "6818022",
+            "org": "Department of Mathematics and Computer Science, University of Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Elena Vorobev",
+            "id": "2633370920",
+            "org": "Department of Mathematics and Computer Science, University of Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Florian Lapschies",
+            "id": "200013571",
+            "org": "Department of Mathematics and Computer Science, University of Bremen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model-based testing",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "State space",
+        "Test data generation",
+        "Reactive system",
+        "Abstract interpretation",
+        "Bounded function",
+        "Model checking"
+    ],
+    "references": [
+        "1481397690",
+        "1531103278",
+        "1536892048",
+        "1556566737",
+        "1919297764",
+        "2043100293",
+        "2061097805",
+        "2098156778",
+        "2113159073",
+        "2129395888",
+        "2155180508"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1513787550",
+    "title": "ERINDALE: A Polynomial Based Hashing Algorithm",
+    "venue": "IWCC '09 Proceedings of the 2nd International Workshop on Coding and Cryptology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "V. Kumar Murty",
+            "id": "2065513211",
+            "org": "Department of Mathematics, University of Toronto, Toronto, Canada M5S 2E4#TAB#"
+        },
+        {
+            "name": "Nikolajs Volkovs",
+            "id": "715033438",
+            "org": "GANITA Lab, Department of Mathematical and Computational Sciences, University of Toronto at Mississauga, Mississauga, Canada L5L 1C6#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "K-independent hashing",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Rolling hash",
+        "Computer science",
+        "Quadratic probing",
+        "Hash function",
+        "SWIFFT",
+        "Linear hashing",
+        "Double hashing",
+        "Dynamic perfect hashing"
+    ],
+    "references": [
+        "81015123",
+        "109531601",
+        "1549228503",
+        "1596576235",
+        "1600432225",
+        "1660562555",
+        "2103239853"
+    ]
+}

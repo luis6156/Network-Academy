@@ -1,0 +1,63 @@
+{
+    "id": "181099296",
+    "title": "Differential Cryptanalysis of Keccak Variants",
+    "venue": "IMACC 2013 Proceedings of the 14th IMA International Conference on Cryptography and Coding - Volume 8308",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Stefan Kolbl",
+            "id": "2797958323",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Tomislav Nad",
+            "id": "2041655269",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Martin Schlaffer",
+            "id": "2159898291",
+            "org": "IAIK, Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Collision attack",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptographic hash function",
+        "Differential cryptanalysis",
+        "SHA-3",
+        "Skein",
+        "JH",
+        "Hash function",
+        "Permutation"
+    ],
+    "references": [
+        "5981243",
+        "97535163",
+        "124034723",
+        "156355313",
+        "1521253015",
+        "1533979572",
+        "1553650484",
+        "1590269592",
+        "1599137217",
+        "1629301835",
+        "1800808134",
+        "1827281946",
+        "1915866835",
+        "2094445407",
+        "2099250555",
+        "2103239853",
+        "2162996307",
+        "2177399963",
+        "2593312089",
+        "2593463031",
+        "2611506938"
+    ]
+}

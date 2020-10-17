@@ -1,0 +1,42 @@
+{
+    "id": "1529873969",
+    "title": "Using Frankenstein's Creature Paradigm to Build a Patient Specific Atlas",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Olivier Commowick",
+            "id": "1843887209",
+            "org": "CRL, Children's Hospital Boston - Harvard Medical School,#TAB#"
+        },
+        {
+            "name": "Simon K. Warfield",
+            "id": "2141164367",
+            "org": "CRL, Children's Hospital Boston - Harvard Medical School,#TAB#"
+        },
+        {
+            "name": "Gregoire Malandain",
+            "id": "2172723547",
+            "org": "INRIA Sophia Antipolis - Asclepios Team, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Image registration",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Radiographic Image Enhancement",
+        "Atlas (anatomy)",
+        "Region of interest",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1517839093",
+        "1579576867",
+        "1777631236",
+        "2021189280",
+        "2079158221",
+        "2148347694"
+    ]
+}

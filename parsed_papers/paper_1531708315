@@ -1,0 +1,39 @@
+{
+    "id": "1531708315",
+    "title": "Transaction Groups: A Model for Controlling Cooperative Transactions",
+    "venue": "international workshop on persistent object systems",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Mary F. Fernandez",
+            "id": "2108487891",
+            "org": "Brown University"
+        },
+        {
+            "name": "Stanley B. Zdonik",
+            "id": "431165649",
+            "org": "Brown University"
+        }
+    ],
+    "fields_of_study": [
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Compensating transaction",
+        "Distributed transaction",
+        "Serialization",
+        "Distributed object",
+        "Correctness",
+        "Schedule",
+        "Database transaction"
+    ],
+    "references": [
+        "1497115611",
+        "1570983218",
+        "1595151077",
+        "1608443514",
+        "1967133810",
+        "1986920147",
+        "2092639071"
+    ]
+}

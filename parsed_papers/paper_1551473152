@@ -1,0 +1,48 @@
+{
+    "id": "1551473152",
+    "title": "A Synchronous Model for Multi-Party Computation and the Incompleteness of Oblivious Transfer.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Dennis Hofheinz",
+            "id": "2311125173",
+            "org": "Fakultat fur Informatik|Universitat Karlsruhe"
+        },
+        {
+            "name": "Jorn Muller-Quade",
+            "id": "135566254",
+            "org": "Fakultat fur Informatik|Universitat Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Oblivious transfer",
+        "Cryptographic protocol",
+        "Asynchronous communication",
+        "Computation",
+        "Abort",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Computer science",
+        "Adversary"
+    ],
+    "references": [
+        "15825508",
+        "1482955764",
+        "1499934958",
+        "1537539847",
+        "1570025561",
+        "1601458649",
+        "1610501009",
+        "1867273832",
+        "1997859100",
+        "2058014492",
+        "2113085788",
+        "2119708968",
+        "2133217174",
+        "2142222275",
+        "2161670619",
+        "2612252926"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1561276826",
+    "title": "Numerical Simulations of Unsteady Shock Wave Interactions Using SaC and Fortran-90",
+    "venue": "parallel computing technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Daniel Rolls",
+            "id": "2087902198",
+            "org": "Department of Computer Science, University of Hertfordshire, UK AL10 9AB#TAB#"
+        },
+        {
+            "name": "Carl Joslin",
+            "id": "2125927184",
+            "org": "Department of Computer Science, University of Hertfordshire, UK AL10 9AB#TAB#"
+        },
+        {
+            "name": "Alexei Kudryavtsev",
+            "id": "2680666776",
+            "org": "Institute of Theoretical and Applied Mechanics RAS SB, Novosibirsk, Russia 630090#TAB#"
+        },
+        {
+            "name": "Sven-Bodo Scholz",
+            "id": "2006924737",
+            "org": "Department of Computer Science, University of Hertfordshire, UK AL10 9AB#TAB#"
+        },
+        {
+            "name": "Alexander V. Shafarenko",
+            "id": "2048025547",
+            "org": "Department of Computer Science, University of Hertfordshire, UK AL10 9AB#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Porting",
+        "Computational fluid dynamics",
+        "Computational science",
+        "Computer science",
+        "Mach wave",
+        "Shock wave",
+        "Euler system",
+        "Fortran",
+        "Computer simulation"
+    ],
+    "references": [
+        "1481713193",
+        "1498134579",
+        "1530872699",
+        "1533844215",
+        "1623282124",
+        "2158094629",
+        "2164120929",
+        "2402997152"
+    ]
+}

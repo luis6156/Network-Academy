@@ -1,0 +1,42 @@
+{
+    "id": "1589297806",
+    "title": "Using Non-blocking I/O Operations in High Performance Computing to Reduce Execution Times",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "David Buettner",
+            "id": "2290239262",
+            "org": "Ruprecht-Karls-Universitat Heidelberg, Heidelberg, Germany 69120#TAB#"
+        },
+        {
+            "name": "Julian M. Kunkel",
+            "id": "2153299110",
+            "org": "Ruprecht-Karls-Universitat Heidelberg, Heidelberg, Germany 69120#TAB#"
+        },
+        {
+            "name": "Thomas Ludwig",
+            "id": "2246251359",
+            "org": "Ruprecht-Karls-Universitat Heidelberg, Heidelberg, Germany 69120#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Real-time computing",
+        "Benchmarking",
+        "Component-based software engineering",
+        "Programmer"
+    ],
+    "references": [
+        "42305685",
+        "150529979",
+        "1544734742",
+        "1969215126",
+        "2053885966",
+        "2134439087",
+        "2138723837"
+    ]
+}

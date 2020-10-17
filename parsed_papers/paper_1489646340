@@ -1,0 +1,47 @@
+{
+    "id": "1489646340",
+    "title": "A system level implementation of Rijndael on a memory-slot based FPGA card",
+    "venue": "field-programmable technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dennis K. Y. Tong",
+            "id": "2365709195",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, China"
+        },
+        {
+            "name": "Pui Sze Lo",
+            "id": "2229570080",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, China"
+        },
+        {
+            "name": "Kin-Hong Lee",
+            "id": "2098143020",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, China"
+        },
+        {
+            "name": "Philip Heng Wai Leong",
+            "id": "2149635049",
+            "org": "Dept. of Comput. Sci. & Eng., Chinese Univ. of Hong Kong, China"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Megabit",
+        "Streaming SIMD Extensions",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Encryption",
+        "AES implementations",
+        "Pentium",
+        "Reconfigurable computing"
+    ],
+    "references": [
+        "170872169",
+        "1487268209",
+        "2102550826",
+        "2117013296",
+        "2145881907"
+    ]
+}

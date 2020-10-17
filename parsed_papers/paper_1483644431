@@ -1,0 +1,47 @@
+{
+    "id": "1483644431",
+    "title": "A Comparative Study of Performance of AES Final Candidates Using FPGAs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Andreas Dandalis",
+            "id": "299532143",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Viktor K. Prasanna",
+            "id": "2088826626",
+            "org": "University of Southern California"
+        },
+        {
+            "name": "Jose D. P. Rolim",
+            "id": "2251734776",
+            "org": "Centre Universitaire d'Informatique, Universite de Geneve"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Throughput",
+        "Parallel computing",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "On-time performance",
+        "Latency (engineering)",
+        "Twofish",
+        "Performance metric",
+        "AES implementations",
+        "Real-time computing"
+    ],
+    "references": [
+        "170872169",
+        "211970832",
+        "1522297845",
+        "2117013296",
+        "2117254353",
+        "2119131949",
+        "2132443425",
+        "2169333805",
+        "2885816077"
+    ]
+}

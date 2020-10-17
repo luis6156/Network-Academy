@@ -1,0 +1,45 @@
+{
+    "id": "1519459837",
+    "title": "Cache Remapping to Improve the Performance of Tiled Algorithms",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kristof Beyls",
+            "id": "149857333",
+            "org": "University of Ghent Department of Electronics and Information Systems St.-Pietersnieuwstraat 41 B-9000 Gent Belgium"
+        },
+        {
+            "name": "Erik H. D'Hollander",
+            "id": "2249398125",
+            "org": "University of Ghent Department of Electronics and Information Systems St.-Pietersnieuwstraat 41 B-9000 Gent Belgium"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Snoopy cache",
+        "Real-time computing",
+        "Cache pollution",
+        "MESIF protocol",
+        "Cache invalidation"
+    ],
+    "references": [
+        "65279919",
+        "1549015660",
+        "1562841074",
+        "2098220211",
+        "2112980698",
+        "2116493917",
+        "2119609467",
+        "2131771728",
+        "2156275124",
+        "2158158791",
+        "2159309967",
+        "2169282672"
+    ]
+}

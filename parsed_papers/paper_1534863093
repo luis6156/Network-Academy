@@ -1,0 +1,35 @@
+{
+    "id": "1534863093",
+    "title": "On the Importance of Tuning in Incremental View Maintenance: An Experience Case Study",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Kevin O'Gorman",
+            "id": "2029822045",
+            "org": "University of California Department of Computer Science Santa Barbara CA 93106"
+        },
+        {
+            "name": "Divyakant Agrawal",
+            "id": "2169544959",
+            "org": "University of California Department of Computer Science Santa Barbara CA 93106"
+        },
+        {
+            "name": "Amr El Abbadi",
+            "id": "2120785847",
+            "org": "University of California Department of Computer Science Santa Barbara CA 93106"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "Database",
+        "SQL",
+        "Data warehouse",
+        "Materialized view"
+    ],
+    "references": [
+        "1598358745",
+        "1648759563"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1758440352",
+    "title": "Full-round differential attack on TWIS block cipher",
+    "venue": "workshop on information security applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Bozhan Su",
+            "id": "2123245575",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China and Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China and Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China and Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Yanjun Li",
+            "id": "2166923499",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China and Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Computer science",
+        "Two-square cipher",
+        "Stream cipher",
+        "CLEFIA",
+        "Substitution-permutation network",
+        "3-Way"
+    ],
+    "references": [
+        "60103823",
+        "1512497838",
+        "1522919234",
+        "1556212265",
+        "1569252980",
+        "1596841000",
+        "1629301835",
+        "1894646615",
+        "2064501361"
+    ]
+}

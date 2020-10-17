@@ -1,0 +1,50 @@
+{
+    "id": "1606683253",
+    "title": "A low-footprint java-to-native compilation scheme using formal methods",
+    "venue": "smart card research and advanced application conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Alexandre Courbot",
+            "id": "283153208",
+            "org": "POPS Research Group, IRCICA/LIFL, Univ. Lille 1, INRIA futurs, France#TAB#"
+        },
+        {
+            "name": "Mariela Pavlova",
+            "id": "2164652110",
+            "org": "Everest Research Group, INRIA Sophia-Antipolis, France#TAB#"
+        },
+        {
+            "name": "Gilles Grimaud",
+            "id": "1909015218",
+            "org": "POPS Research Group, IRCICA/LIFL, Univ. Lille 1, INRIA futurs, France#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Vandewalle",
+            "id": "2071993634",
+            "org": "Gemplus Systems Research Labs, La Ciotat, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Java Modeling Language",
+        "Java",
+        "Parallel computing",
+        "Java bytecode",
+        "Tracing just-in-time compilation",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Native Image Generator",
+        "Programming language"
+    ],
+    "references": [
+        "1486696980",
+        "1508742040",
+        "1555634152",
+        "1976433634",
+        "1996781759",
+        "2007333538",
+        "2054399553"
+    ]
+}

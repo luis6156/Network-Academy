@@ -1,0 +1,91 @@
+{
+    "id": "1545681762",
+    "title": "VCC: A Practical System for Verifying Concurrent C",
+    "venue": "theorem proving in higher order logics",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ernie Cohen",
+            "id": "2166020432",
+            "org": "Microsoft Corporation, Redmond, USA#TAB#"
+        },
+        {
+            "name": "Markus Dahlweid",
+            "id": "1107874526",
+            "org": "European Microsoft Innovation Center, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Mark A. Hillebrand",
+            "id": "2052599737",
+            "org": "German Research Center for Artificial Intelligence (DFKI), Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Dirk Leinenbach",
+            "id": "1239198714",
+            "org": "German Research Center for Artificial Intelligence (DFKI), Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Michal Moskal",
+            "id": "2167147844",
+            "org": "European Microsoft Innovation Center, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Santen",
+            "id": "1261179062",
+            "org": "European Microsoft Innovation Center, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Wolfram Schulte",
+            "id": "2115070196",
+            "org": "Microsoft Research, Redmond, USA#TAB#"
+        },
+        {
+            "name": "Stephan Tobies",
+            "id": "2781344914",
+            "org": "European Microsoft Innovation Center, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Theoretical computer science",
+        "Separation logic",
+        "Computer science",
+        "Mathematical proof",
+        "Correctness",
+        "Counterexample",
+        "Page table",
+        "Architecture"
+    ],
+    "references": [
+        "30213274",
+        "1480909796",
+        "1498831343",
+        "1555179958",
+        "1556566737",
+        "1594381772",
+        "1606177908",
+        "1667182944",
+        "1819989006",
+        "1878117615",
+        "1937179622",
+        "1965662337",
+        "1993836075",
+        "2027168655",
+        "2058200237",
+        "2066157470",
+        "2090551028",
+        "2100855196",
+        "2100878175",
+        "2115969864",
+        "2121405115",
+        "2121707639",
+        "2132761501",
+        "2137628566",
+        "2138652462",
+        "2140865947",
+        "2141080699",
+        "2144738461",
+        "2194223632",
+        "2504100651"
+    ]
+}

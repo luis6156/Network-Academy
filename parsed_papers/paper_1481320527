@@ -1,0 +1,36 @@
+{
+    "id": "1481320527",
+    "title": "Gracefully adding negation and disjunction to Prolog",
+    "venue": "international conference on logic programming",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "David Poole",
+            "id": "2066970836",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Randy Goebel",
+            "id": "2127323036",
+            "org": "University of Waterloo"
+        }
+    ],
+    "fields_of_study": [
+        "Negation as failure",
+        "Generality",
+        "Algorithm",
+        "Negation",
+        "Computer science",
+        "Prolog",
+        "Horn clause",
+        "Proof procedure"
+    ],
+    "references": [
+        "144460285",
+        "1514729613",
+        "1530765221",
+        "1558779675",
+        "1983382292",
+        "2100738443"
+    ]
+}

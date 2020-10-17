@@ -1,0 +1,50 @@
+{
+    "id": "1759918341",
+    "title": "The importance of \"good\" key scheduling schemes (how to make a secure DES scheme with <=48 bits keys?)",
+    "venue": "international cryptology conference",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Philips Research Laboratory Brussels"
+        },
+        {
+            "name": "Yvo Desmedt",
+            "id": "2094917606",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Marc Davio",
+            "id": "2159629160",
+            "org": "Philips Research Laboratory Brussels"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Encryption",
+        "Database",
+        "Cryptosystem",
+        "Key management",
+        "Public-key cryptography",
+        "Key size"
+    ],
+    "references": [
+        "1587315281",
+        "1660192523",
+        "1811643413",
+        "1872315398",
+        "1991374982",
+        "1996360405",
+        "2012646342",
+        "2047925852",
+        "2122096983",
+        "2138109426",
+        "2164284862"
+    ]
+}

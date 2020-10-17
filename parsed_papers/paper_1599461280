@@ -1,0 +1,42 @@
+{
+    "id": "1599461280",
+    "title": "Concurrency Control in Nested Transactions with Enhanced Lock Models for KBMSs",
+    "venue": "database and expert systems applications",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Fernando de Ferreira Rezende",
+            "id": "2307141832",
+            "org": "University of Kaiserslautern"
+        },
+        {
+            "name": "Theo Harder",
+            "id": "2121721308",
+            "org": "University of Kaiserslautern"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Knowledge sharing",
+        "Computer science",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Optimistic concurrency control",
+        "Database",
+        "Real-time computing",
+        "Concurrency",
+        "Concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "25120074",
+        "160090773",
+        "1545155892",
+        "1600790452",
+        "1972741547",
+        "1991199257",
+        "2016509842",
+        "2156529936"
+    ]
+}

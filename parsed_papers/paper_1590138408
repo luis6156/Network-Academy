@@ -1,0 +1,49 @@
+{
+    "id": "1590138408",
+    "title": "Pathologic region detection algorithm for prostate ultrasonic image based on PCNN",
+    "venue": "FAW'07 Proceedings of the 1st annual international conference on Frontiers in algorithmics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Beidou Zhang",
+            "id": "2148269115",
+            "org": "School of Information Science & Engineering, Lanzhou University, Lanzhou, China#TAB#"
+        },
+        {
+            "name": "Yide Ma",
+            "id": "2135582472",
+            "org": "School of Information Science & Engineering, Lanzhou University, Lanzhou, China#TAB#"
+        },
+        {
+            "name": "Dongmei Lin",
+            "id": "2310844540",
+            "org": "School of Information Science & Engineering, Lanzhou University, Lanzhou, China#TAB#"
+        },
+        {
+            "name": "Liwen Zhang",
+            "id": "2500679483",
+            "org": "B-Ultrasonic room of People's Hospital of Gansu Province, Lanzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Connected-component labeling",
+        "Algorithm",
+        "Computer vision",
+        "Closing (morphology)",
+        "Speckle pattern",
+        "Region growing",
+        "Ultrasonic sensor",
+        "Image segmentation",
+        "Geography",
+        "Pixel",
+        "Region of interest",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1517725903",
+        "1528733273",
+        "1788989147",
+        "2032843526",
+        "2149959126"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1578216787",
+    "title": "A Parallel Functional Database on GRIP",
+    "venue": "glasgow workshop on functional programming",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Gert Akerholt",
+            "id": "284693059",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Kevin Hammond",
+            "id": "2133455440",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Simon L. Peyton Jones",
+            "id": "2142246817",
+            "org": "Glasgow University"
+        },
+        {
+            "name": "Philip W. Trinder",
+            "id": "2643127156",
+            "org": "Glasgow University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Instruction cycle",
+        "Computer science",
+        "Garbage collection",
+        "Multiprocessing",
+        "Graph reduction",
+        "Persistent data structure",
+        "Database",
+        "Distributed memory",
+        "Functional programming",
+        "Architecture"
+    ],
+    "references": [
+        "1507693023",
+        "1524657130",
+        "1543641760",
+        "1545487527",
+        "1978718408",
+        "1999139350",
+        "2013689024",
+        "2015770401",
+        "2074767330",
+        "2080427212",
+        "2090247159",
+        "2161531345",
+        "2165697584",
+        "2171922437"
+    ]
+}

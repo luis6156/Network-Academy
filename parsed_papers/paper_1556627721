@@ -1,0 +1,72 @@
+{
+    "id": "1556627721",
+    "title": "Reliable orchestration of distributed MPI-Applications in a UNICORE-Based grid with MetaMPICH and metascheduling",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Boris Bierbaum",
+            "id": "2169968640",
+            "org": "Chair for Operating Systems, RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Carsten Clauss",
+            "id": "2143624783",
+            "org": "Chair for Operating Systems, RWTH Aachen University, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Eickermann",
+            "id": "2081121751",
+            "org": "Central Institute for Applied Mathematics, Research Centre Julich, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Lidia Kirtchakova",
+            "id": "2176119808",
+            "org": "Central Institute for Applied Mathematics, Research Centre Julich, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Arnold Krechel",
+            "id": "2690145257",
+            "org": "Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Stephan Springstubbe",
+            "id": "2462508467",
+            "org": "Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Oliver Waldrich",
+            "id": "84700319",
+            "org": "Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Ziegler",
+            "id": "2292028617",
+            "org": "Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Quality of service",
+        "Grid",
+        "Message Passing Interface",
+        "Distributed memory",
+        "Middleware",
+        "Orchestration (computing)",
+        "Distributed algorithm"
+    ],
+    "references": [
+        "1498641465",
+        "1603868614",
+        "1663942731",
+        "1996254287",
+        "2077783617",
+        "2080139289",
+        "2081612620",
+        "2145882792",
+        "2146538660"
+    ]
+}

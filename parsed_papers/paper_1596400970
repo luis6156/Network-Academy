@@ -1,0 +1,66 @@
+{
+    "id": "1596400970",
+    "title": "Implementing Efficient Dynamic Formal Verification Methods for MPI Programs",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sarvani S. Vakkalanka",
+            "id": "2116403269",
+            "org": "School of Computing, Univ. of Utah, Salt Lake City, USA UT 84112#TAB#"
+        },
+        {
+            "name": "Michael Delisi",
+            "id": "2169629487",
+            "org": "School of Computing, Univ. of Utah, Salt Lake City, USA UT 84112#TAB#"
+        },
+        {
+            "name": "Ganesh Gopalakrishnan",
+            "id": "2129100051",
+            "org": "School of Computing, Univ. of Utah, Salt Lake City, USA UT 84112#TAB#"
+        },
+        {
+            "name": "Robert M. Kirby",
+            "id": "2309436987",
+            "org": "School of Computing, Univ. of Utah, Salt Lake City, USA UT 84112#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Math. and Comp. Sci. Div., Argonne Nat. Lab., Argonne, USA IL 60439#TAB#"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Dept. of Computer Sci., Univ. of Illinois, Urbana, Illinois, USA 61801#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nondeterministic algorithm",
+        "Formal verification",
+        "Wildcard",
+        "Distributed computing",
+        "Computer science",
+        "Interleaving",
+        "Out-of-order execution",
+        "Communication source",
+        "Exploit",
+        "Real-time computing",
+        "Partial order reduction"
+    ],
+    "references": [
+        "36206023",
+        "1507330041",
+        "1529671387",
+        "1797994689",
+        "1969215126",
+        "1978562726",
+        "2065675749",
+        "2089427110",
+        "2118437239",
+        "2149871224",
+        "2161957670",
+        "2169870841",
+        "2340735175"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1815010250",
+    "title": "Watched literals for constraint propagation in minion",
+    "venue": "principles and practice of constraint programming",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ian P. Gent",
+            "id": "2192614943",
+            "org": "School of Computer Science, University of St Andrews, St Andrews, Fife, UK#TAB#"
+        },
+        {
+            "name": "Christopher Jefferson",
+            "id": "2118814867",
+            "org": "Oxford University Computing Laboratory, University of Oxford, Oxford, UK#TAB#"
+        },
+        {
+            "name": "Ian Miguel",
+            "id": "2161544986",
+            "org": "School of Computer Science, University of St Andrews, St Andrews, Fife, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Constraint graph",
+        "Discrete mathematics",
+        "Binary constraint",
+        "Constraint satisfaction",
+        "Constraint learning",
+        "Hybrid algorithm (constraint satisfaction)",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Mathematical optimization",
+        "Minion"
+    ],
+    "references": [
+        "61564718",
+        "1490489754",
+        "1518705996",
+        "1573625270",
+        "1592840579",
+        "1598380601",
+        "1823248434",
+        "2067273780",
+        "2091984336",
+        "2099980081",
+        "2142785340",
+        "2147442986"
+    ]
+}

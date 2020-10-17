@@ -1,0 +1,52 @@
+{
+    "id": "1505867833",
+    "title": "Lightweight lexical closures for legitimate execution stack access",
+    "venue": "compiler construction",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Masahiro Yasugi",
+            "id": "1992295251",
+            "org": "Graduate School of Informatics, Kyoto University, Japan#TAB#"
+        },
+        {
+            "name": "Tasuku Hiraishi",
+            "id": "2156920234",
+            "org": "Graduate School of Informatics, Kyoto University, Japan#TAB#"
+        },
+        {
+            "name": "Taiichi Yuasa",
+            "id": "2125312814",
+            "org": "Graduate School of Informatics, Kyoto University, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested function",
+        "Closure (computer programming)",
+        "Intermediate language",
+        "Call stack",
+        "Garbage collection",
+        "Compiler",
+        "Computer science",
+        "Multithreading",
+        "Real-time computing",
+        "Programming language",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "80304154",
+        "1505725463",
+        "1517749753",
+        "1538992328",
+        "1976573773",
+        "2005907808",
+        "2064723869",
+        "2068042411",
+        "2072725684",
+        "2074072975",
+        "2121433585",
+        "2139031153",
+        "2149663533",
+        "2150419332"
+    ]
+}

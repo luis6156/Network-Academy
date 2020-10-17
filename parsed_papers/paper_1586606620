@@ -1,0 +1,42 @@
+{
+    "id": "1586606620",
+    "title": "Triangulation for points on lines",
+    "venue": "european conference on computer vision",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Adrien Bartoli",
+            "id": "2143337824",
+            "org": "LASMEA - CNRS, Universite Blaise Pascal, Clermont-Ferrand, France#TAB#"
+        },
+        {
+            "name": "Jean-Thierry Lapreste",
+            "id": "1975620565",
+            "org": "LASMEA - CNRS, Universite Blaise Pascal, Clermont-Ferrand, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Pinhole camera model",
+        "Triangulation (computer vision)",
+        "Triangulation (social science)",
+        "Point set triangulation",
+        "Delaunay triangulation",
+        "Minimum-weight triangulation",
+        "Bowyer-Watson algorithm",
+        "Bundle adjustment",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1541642243",
+        "1564161204",
+        "1570383443",
+        "1977075681",
+        "2015440410",
+        "2110464994",
+        "2116951336",
+        "2134923139",
+        "2157876708",
+        "2161220183"
+    ]
+}

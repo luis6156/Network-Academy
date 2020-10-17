@@ -1,0 +1,60 @@
+{
+    "id": "1554048570",
+    "title": "Building the Minimal DFA for the Set of all Subwords of a Word On-line in Linear Time",
+    "venue": "international colloquium on automata, languages and programming",
+    "year": 1984,
+    "authors": [
+        {
+            "name": "Anselm Blumer",
+            "id": "2041363645",
+            "org": "University of Denver"
+        },
+        {
+            "name": "J. Blumer",
+            "id": "2155242002",
+            "org": "University of Denver"
+        },
+        {
+            "name": "Andrzej Ehrenfeucht",
+            "id": "2676440377",
+            "org": "University of Denver"
+        },
+        {
+            "name": "David Haussler",
+            "id": "2051598476",
+            "org": "University of Denver"
+        },
+        {
+            "name": "Ross M. McConnell",
+            "id": "2146168848",
+            "org": "University of Denver"
+        }
+    ],
+    "fields_of_study": [
+        "Deterministic finite automaton",
+        "Mathematics",
+        "Discrete mathematics",
+        "DFA minimization",
+        "Powerset construction",
+        "Buchi automaton",
+        "Combinatorics",
+        "Deterministic automaton",
+        "Directed acyclic word graph",
+        "Two-way deterministic finite automaton",
+        "Nondeterministic finite automaton"
+    ],
+    "references": [
+        "48952935",
+        "1985108724",
+        "2004052044",
+        "2017661493",
+        "2024145045",
+        "2045713755",
+        "2054801208",
+        "2099964107",
+        "2121252285",
+        "2134826720",
+        "2155512447",
+        "2533248932"
+    ]
+}

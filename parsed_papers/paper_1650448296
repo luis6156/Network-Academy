@@ -1,0 +1,54 @@
+{
+    "id": "1650448296",
+    "title": "Group Commit Timers and High Volume Transaction Systems",
+    "venue": "high performance transaction systems workshop",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Pat Helland",
+            "id": "2705712973",
+            "org": "Tandem Computers, Inc."
+        },
+        {
+            "name": "Harald Sammer",
+            "id": "1995698094",
+            "org": "Tandem Computers, Inc."
+        },
+        {
+            "name": "Jim Lyon",
+            "id": "2303867258",
+            "org": "Tandem Computers, Inc."
+        },
+        {
+            "name": "Richard Carr",
+            "id": "2709897413",
+            "org": "Tandem Computers, Inc."
+        },
+        {
+            "name": "Phil Garrett",
+            "id": "2597400628",
+            "org": "Tandem Computers, Inc."
+        },
+        {
+            "name": "Andreas Reuter",
+            "id": "2103240375",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "Three-phase commit protocol",
+        "Response time",
+        "Commit",
+        "Computer science",
+        "Distributed computing",
+        "Compensating transaction",
+        "X/Open XA",
+        "Graph",
+        "Distributed transaction",
+        "Database transaction"
+    ],
+    "references": [
+        "11669818",
+        "1491227338"
+    ]
+}

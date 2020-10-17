@@ -1,0 +1,52 @@
+{
+    "id": "1523751874",
+    "title": "A SAT-based version space algorithm for acquiring constraint satisfaction problems",
+    "venue": "european conference on machine learning",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Christian Bessiere",
+            "id": "2168734674",
+            "org": "LIRMM, CNRS / U. Montpellier, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Remi Coletta",
+            "id": "2076805333",
+            "org": "LIRMM, CNRS / U. Montpellier, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Frederic Koriche",
+            "id": "678975278",
+            "org": "LIRMM, CNRS / U. Montpellier, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Barry O'Sullivan",
+            "id": "2117866204",
+            "org": "Cork Constraint Computation Centre, University College Cork, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Algorithm",
+        "Computer science",
+        "Constraint satisfaction",
+        "Constraint learning",
+        "Hybrid algorithm (constraint satisfaction)",
+        "AC-3 algorithm",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Backtracking"
+    ],
+    "references": [
+        "79937874",
+        "1565049539",
+        "1570605737",
+        "1776181708",
+        "1994022788",
+        "2009207944",
+        "2011992362",
+        "2046359621",
+        "2056229702",
+        "2118646752"
+    ]
+}

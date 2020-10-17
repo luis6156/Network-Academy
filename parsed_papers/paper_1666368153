@@ -1,0 +1,45 @@
+{
+    "id": "1666368153",
+    "title": "Speeding up constrained path solvers with a reachability propagator",
+    "venue": "principles and practice of constraint programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Luis Quesada",
+            "id": "2142871158",
+            "org": "Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Peter Van Roy",
+            "id": "2115478106",
+            "org": "Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Yves Deville",
+            "id": "1223747355",
+            "org": "Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Propagator",
+        "Mathematics",
+        "Directed graph",
+        "Hamiltonian path problem",
+        "Discrete mathematics",
+        "Reachability",
+        "Combinatorics",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "106605499",
+        "109225361",
+        "1518369453",
+        "1652823179",
+        "1967565181",
+        "2085716817",
+        "2127595379",
+        "2164279585",
+        "2166279570",
+        "2337098149"
+    ]
+}

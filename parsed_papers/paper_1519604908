@@ -1,0 +1,64 @@
+{
+    "id": "1519604908",
+    "title": "Organ Segmentation with Level Sets Using Local Shape and Appearance Priors",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Timo Kohlberger",
+            "id": "2810472328",
+            "org": "Siemens Corporate Research, Imaging and Visualization Dept., Princeton, USA#TAB#"
+        },
+        {
+            "name": "M. Gokhan Uzunbas",
+            "id": "2306388827",
+            "org": "Siemens Corporate Research, Imaging and Visualization Dept., Princeton, USA#TAB#"
+        },
+        {
+            "name": "Christopher V. Alvino",
+            "id": "2161715291",
+            "org": "Siemens Corporate Research, Imaging and Visualization Dept., Princeton, USA#TAB#"
+        },
+        {
+            "name": "Timor Kadir",
+            "id": "2571771149",
+            "org": "Siemens Healthcare Molecular Imaging, Oxford, UK#TAB#"
+        },
+        {
+            "name": "Daniel Slosman",
+            "id": "2316932001",
+            "org": "Clinic Generale-Beaulieu, Geneva, Switzerland#TAB#"
+        },
+        {
+            "name": "Gareth Funka-Lea",
+            "id": "2049291688",
+            "org": "Siemens Corporate Research, Imaging and Visualization Dept., Princeton, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Prior probability",
+        "Level set",
+        "Scale-space segmentation",
+        "Curvature",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1575366245",
+        "1577022771",
+        "1850470120",
+        "2038952578",
+        "2116040950",
+        "2147484997",
+        "2153431772",
+        "2155343350",
+        "2158362736",
+        "2164715129",
+        "2167064299",
+        "2337319582",
+        "2427881153"
+    ]
+}

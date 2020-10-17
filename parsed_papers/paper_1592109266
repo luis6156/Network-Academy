@@ -1,0 +1,47 @@
+{
+    "id": "1592109266",
+    "title": "Formal Security Proofs for a Signature Scheme with Partial Message Recovery",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Daniel Richard L. Brown",
+            "id": "2764895232",
+            "org": "Certicom Research"
+        },
+        {
+            "name": "Donald Byron Johnson",
+            "id": "2618259286",
+            "org": "Certicom Research"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cipher",
+        "Discrete mathematics",
+        "ElGamal encryption",
+        "Hash function",
+        "Message authentication code",
+        "Merkle signature scheme",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1487958904",
+        "1600697683",
+        "1851910379",
+        "1972792640",
+        "2002930326",
+        "2052267638",
+        "2080302839",
+        "2101803085",
+        "2149827608",
+        "2151748484",
+        "2162653919",
+        "2164988972",
+        "2166462813",
+        "2785603340"
+    ]
+}

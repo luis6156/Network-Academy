@@ -1,0 +1,32 @@
+{
+    "id": "1607372077",
+    "title": "New Structure of Block Ciphers with Provable Security against Differential and Linear Cryptanalysis",
+    "venue": "fast software encryption",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Mitsubishi Electric Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation attack",
+        "Integral cryptanalysis",
+        "Theoretical computer science",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1575149347",
+        "1978695162",
+        "2024729203",
+        "2027325533",
+        "2137326899"
+    ]
+}

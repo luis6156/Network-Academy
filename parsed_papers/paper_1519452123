@@ -1,0 +1,34 @@
+{
+    "id": "1519452123",
+    "title": "Abstract Interpretation of Polymorphic Functions",
+    "venue": "glasgow workshop on functional programming",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Gebreselassie Baraki",
+            "id": "664525589",
+            "org": "University of Glasgow"
+        },
+        {
+            "name": "John Hughes",
+            "id": "2101652549",
+            "org": "University of Glasgow"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Algorithm",
+        "Program analysis",
+        "Abstract interpretation",
+        "Strictness analysis",
+        "Polymorphism (computer science)"
+    ],
+    "references": [
+        "1512248102",
+        "1537394154",
+        "1555100187",
+        "1855771754",
+        "2025033165",
+        "2093541252"
+    ]
+}

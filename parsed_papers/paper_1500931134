@@ -1,0 +1,41 @@
+{
+    "id": "1500931134",
+    "title": "InterACT: An Interactive Theorem and Completeness Prover for Algebraic Specifications with Conditional Equation",
+    "venue": "workshop on specification of abstract data types joint with compass workshop on recent trends in data type specification",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Marcus Klar",
+            "id": "2132438747",
+            "org": "Fraunhofer-Institut fur Software- und Systemtechnik ISST"
+        },
+        {
+            "name": "Robert Geisler",
+            "id": "2234139513",
+            "org": "Technische Universitat Berlin"
+        },
+        {
+            "name": "Felix Cornelius",
+            "id": "2690717416",
+            "org": "Technische Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Gas meter prover",
+        "Proof assistant",
+        "Software system",
+        "Real algebraic geometry",
+        "Discrete mathematics",
+        "Formal specification",
+        "Algebraic specification",
+        "Computer science",
+        "Algebraic number",
+        "Formal methods"
+    ],
+    "references": [
+        "1487811209",
+        "1543115413",
+        "1971240548",
+        "2103005030"
+    ]
+}

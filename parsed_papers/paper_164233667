@@ -1,0 +1,49 @@
+{
+    "id": "164233667",
+    "title": "Training restricted boltzmann machines with multi-tempering: harnessing parallelization",
+    "venue": "international conference on artificial neural networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Philemon Brakel",
+            "id": "2125896688",
+            "org": "Department of Electronics and Information Systems, Ghent University, Gent, Belgium#TAB#"
+        },
+        {
+            "name": "Sander Dieleman",
+            "id": "2020844714",
+            "org": "Department of Electronics and Information Systems, Ghent University, Gent, Belgium#TAB#"
+        },
+        {
+            "name": "Benjamin Schrauwen",
+            "id": "2122775887",
+            "org": "Department of Electronics and Information Systems, Ghent University, Gent, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Restricted Boltzmann machine",
+        "Boltzmann machine",
+        "Parallel computing",
+        "Machine learning",
+        "Computer science",
+        "Markov chain Monte Carlo",
+        "MNIST database",
+        "Parallel tempering",
+        "Artificial neural network",
+        "Deep belief network",
+        "Mathematical optimization",
+        "Deep learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "193851967",
+        "1513873506",
+        "2072128103",
+        "2096192494",
+        "2099939455",
+        "2116064496",
+        "2116825644",
+        "2136922672",
+        "2150529939"
+    ]
+}

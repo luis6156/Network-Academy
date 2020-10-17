@@ -1,0 +1,52 @@
+{
+    "id": "1523021320",
+    "title": "A lazy snapshot algorithm with eager validation",
+    "venue": "international symposium on distributed computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Torvald Riegel",
+            "id": "2059224865",
+            "org": "Dresden University of Technology, Dresden, Germany#TAB#"
+        },
+        {
+            "name": "Pascal Felber",
+            "id": "2777282838",
+            "org": "University of Neuchatel, Neuchatel, Switzerland#TAB#"
+        },
+        {
+            "name": "Christof Fetzer",
+            "id": "2005970894",
+            "org": "Dresden University of Technology, Dresden, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Commit",
+        "Computer science",
+        "Distributed computing",
+        "Transaction processing",
+        "Distributed transaction",
+        "Snapshot algorithm",
+        "Infinite loop",
+        "Real-time computing",
+        "Software transactional memory",
+        "Database transaction"
+    ],
+    "references": [
+        "1542975293",
+        "1580087508",
+        "1759214032",
+        "1988800505",
+        "2084130915",
+        "2094222793",
+        "2101939036",
+        "2103087173",
+        "2105055683",
+        "2108204150",
+        "2113010030",
+        "2117917070",
+        "2126501440",
+        "2167282885"
+    ]
+}

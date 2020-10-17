@@ -1,0 +1,117 @@
+{
+    "id": "1602086557",
+    "title": "ECC2K-130 on NVIDIA GPUs",
+    "venue": "international conference on cryptology in india",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daniel J. Bernstein",
+            "id": "2572778377",
+            "org": "University of Illinois at Chicago"
+        },
+        {
+            "name": "Hsieh Chung Chen",
+            "id": "2576699312",
+            "org": "Academia Sinica"
+        },
+        {
+            "name": "Chen Mou Cheng",
+            "id": "2835488352",
+            "org": "National Taiwan University"
+        },
+        {
+            "name": "Tanja Lange",
+            "id": "2159450135",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "Ruben Niederhagen",
+            "id": "2002043149",
+            "org": "National Taiwan University"
+        },
+        {
+            "name": "Peter Schwabe",
+            "id": "2306640565",
+            "org": "Eindhoven University of Technology"
+        },
+        {
+            "name": "Bo-Yin Yang",
+            "id": "2112375272",
+            "org": "Academia Sinica"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Discrete logarithm",
+        "Computation",
+        "Computer science",
+        "Finite field arithmetic",
+        "Elliptic curve cryptography",
+        "CUDA",
+        "Elliptic curve",
+        "Floating point"
+    ],
+    "references": [
+        "19807878",
+        "1485488667",
+        "1492069598",
+        "1492112689",
+        "1500599925",
+        "1506559511",
+        "1516512945",
+        "1525538022",
+        "1536729852",
+        "1548516269",
+        "1549217965",
+        "1552510908",
+        "1552695147",
+        "1565658545",
+        "1567501709",
+        "1569499052",
+        "1573563287",
+        "1578627459",
+        "1579684562",
+        "1583637740",
+        "1583871653",
+        "1585199054",
+        "1587531623",
+        "1589176872",
+        "1594742286",
+        "1607264302",
+        "1618439507",
+        "1628272610",
+        "1652057085",
+        "1743771216",
+        "1768233326",
+        "1821087317",
+        "1831008849",
+        "1841201355",
+        "1871739018",
+        "1878784868",
+        "1906691896",
+        "1932252878",
+        "1978927998",
+        "2006504364",
+        "2008272678",
+        "2011039300",
+        "2048142198",
+        "2078581514",
+        "2083052384",
+        "2088673889",
+        "2093643075",
+        "2095823805",
+        "2119129032",
+        "2126186557",
+        "2127075094",
+        "2141143262",
+        "2156279885",
+        "2171599245",
+        "2226721830",
+        "2397252632",
+        "2403185010",
+        "2803288297",
+        "2891430605"
+    ]
+}

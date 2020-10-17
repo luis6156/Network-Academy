@@ -1,0 +1,51 @@
+{
+    "id": "1559986905",
+    "title": "Security analysis of smartphone point-of-sale systems",
+    "venue": "WOOT'12 Proceedings of the 6th USENIX conference on Offensive Technologies",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "WesLee Frisby",
+            "id": "2484636627",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Benjamin Moench",
+            "id": "2285247218",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Benjamin Recht",
+            "id": "2018227268",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Thomas Ristenpart",
+            "id": "197246800",
+            "org": "University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Payment card",
+        "Upload",
+        "Dongle",
+        "Software",
+        "Firmware",
+        "Key (cryptography)",
+        "Encryption",
+        "Embedded system",
+        "Engineering",
+        "Point of sale"
+    ],
+    "references": [
+        "9827866",
+        "87210284",
+        "1963971515",
+        "1971497680",
+        "2089775132",
+        "2101799521",
+        "2142145056",
+        "2144271133",
+        "2294170611"
+    ]
+}

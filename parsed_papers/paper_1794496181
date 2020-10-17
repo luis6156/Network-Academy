@@ -1,0 +1,64 @@
+{
+    "id": "1794496181",
+    "title": "Parallel Job Scheduling under Dynamic Workloads",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Eitan Frachtenberg",
+            "id": "86554823",
+            "org": "Los Alamos National Laboratory (LANL)"
+        },
+        {
+            "name": "Dror G. Feitelson",
+            "id": "2137277626",
+            "org": "The Hebrew University"
+        },
+        {
+            "name": "Juan C. Fernandez",
+            "id": "2141412950",
+            "org": "Los Alamos National Laboratory (LANL)"
+        },
+        {
+            "name": "Fabrizio Petrini",
+            "id": "2190729344",
+            "org": "Los Alamos National Laboratory (LANL)"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Gang scheduling",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Coscheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1491499128",
+        "1540239946",
+        "1589576271",
+        "1596277129",
+        "1599248213",
+        "1661854482",
+        "1968504700",
+        "2029804882",
+        "2045271686",
+        "2055228661",
+        "2061048015",
+        "2094526959",
+        "2100445737",
+        "2104994660",
+        "2112168774",
+        "2142404721",
+        "2150074609",
+        "2151080836",
+        "2153848178",
+        "2170305808"
+    ]
+}

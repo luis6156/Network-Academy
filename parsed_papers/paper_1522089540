@@ -1,0 +1,67 @@
+{
+    "id": "1522089540",
+    "title": "Verifying pointer and string analyses with region type systems",
+    "venue": "international conference on logic programming",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Lennart Beringer",
+            "id": "2115573779",
+            "org": "Department of Computer Science, Princeton University, Princeton, New Jersey#TAB#"
+        },
+        {
+            "name": "Robert Grabowski",
+            "id": "2046141450",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat, Munchen, Germany#TAB#"
+        },
+        {
+            "name": "Martin Hofmann",
+            "id": "2241022127",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat, Munchen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Pointer swizzling",
+        "Pointer analysis",
+        "Theoretical computer science",
+        "Algorithm",
+        "Pointer (computer programming)",
+        "Escape analysis",
+        "Computer science",
+        "Tagged pointer",
+        "Smart pointer",
+        "Function pointer",
+        "Opaque pointer",
+        "Programming language"
+    ],
+    "references": [
+        "1489500452",
+        "1533004102",
+        "1544023751",
+        "1809751277",
+        "1898597206",
+        "2026097537",
+        "2033348393",
+        "2038677544",
+        "2046137117",
+        "2069482167",
+        "2075309900",
+        "2087875803",
+        "2102917576",
+        "2106553898",
+        "2125357166",
+        "2131135493",
+        "2133608633",
+        "2148306578",
+        "2151360539",
+        "2151562310",
+        "2154332114",
+        "2154847114",
+        "2156268601",
+        "2158600037",
+        "2162544703",
+        "2167696897",
+        "2168986107",
+        "2689640124"
+    ]
+}

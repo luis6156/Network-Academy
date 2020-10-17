@@ -1,0 +1,72 @@
+{
+    "id": "1774977605",
+    "title": "Automatically tuned FFTs for bluegene/l's double FPU",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Franz Franchetti",
+            "id": "131649368",
+            "org": "Institute for Analysis and Scientific Computing, Vienna University of Technology, Wien, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Kral",
+            "id": "2129748880",
+            "org": "Institute for Analysis and Scientific Computing, Vienna University of Technology, Wien, Austria#TAB#"
+        },
+        {
+            "name": "Juergen Lorenz",
+            "id": "2153120343",
+            "org": "Institute for Analysis and Scientific Computing, Vienna University of Technology, Wien, Austria#TAB#"
+        },
+        {
+            "name": "Markus Puschel",
+            "id": "2071532528",
+            "org": "Dept. of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Christoph W. Ueberhuber",
+            "id": "1984981406",
+            "org": "Institute for Analysis and Scientific Computing, Vienna University of Technology, Wien, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supercomputer",
+        "Parallel computing",
+        "SIMD",
+        "Vectorization (mathematics)",
+        "Computer science",
+        "Very long instruction word",
+        "Fast Fourier transform",
+        "Code generation",
+        "Floating point",
+        "Performance tuning"
+    ],
+    "references": [
+        "1465881795",
+        "1518911419",
+        "1547830536",
+        "1555087507",
+        "1563748761",
+        "1624897526",
+        "1820775600",
+        "1866830630",
+        "1911642140",
+        "1964031104",
+        "2035443650",
+        "2037929850",
+        "2042409850",
+        "2059056208",
+        "2072277531",
+        "2096070062",
+        "2111394443",
+        "2117091874",
+        "2127391977",
+        "2139827696",
+        "2140080674",
+        "2147423491",
+        "2163491234",
+        "2164197394",
+        "2171641226"
+    ]
+}

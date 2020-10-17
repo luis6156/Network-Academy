@@ -1,0 +1,50 @@
+{
+    "id": "1515470696",
+    "title": "Memory-based particle filter for tracking objects with large variation in pose and appearance",
+    "venue": "european conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dan Mikami",
+            "id": "2036839166",
+            "org": "NTT Communication and Science Laboratories#TAB#"
+        },
+        {
+            "name": "Kazuhiro Otsuka",
+            "id": "2126293821",
+            "org": "NTT Communication and Science Laboratories#TAB#"
+        },
+        {
+            "name": "Junji Yamato",
+            "id": "2259564889",
+            "org": "NTT Communication and Science Laboratories#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Active appearance model",
+        "Particle filter",
+        "Computer vision",
+        "Computer science",
+        "Eye tracking",
+        "Prior probability",
+        "Probabilistic logic",
+        "Posterior probability",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1493372482",
+        "1505078033",
+        "1509031088",
+        "2022144605",
+        "2081841744",
+        "2092626375",
+        "2125858574",
+        "2132103241",
+        "2139047213",
+        "2140687824",
+        "2143715815",
+        "2146507038",
+        "2156880591",
+        "2613779721"
+    ]
+}

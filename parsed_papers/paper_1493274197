@@ -1,0 +1,41 @@
+{
+    "id": "1493274197",
+    "title": "Effectiveness of Parallelizing the ILOG-CPLEX Mixed Integer Optimizer in the PUBB2 Framework",
+    "venue": "european conference on parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yuji Shinano",
+            "id": "2432602462",
+            "org": "Tokyo University of Agriculture and Technology"
+        },
+        {
+            "name": "Tetsuya Fujie",
+            "id": "2171009303",
+            "org": "Kobe University of Commerce"
+        },
+        {
+            "name": "Yuusuke Kounoike",
+            "id": "2047882929",
+            "org": "Tokyo University of Agriculture and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "Integer programming",
+        "Computer science",
+        "Scratch",
+        "Implementation",
+        "Callback",
+        "Computer experiment",
+        "Branch and cut",
+        "Solver"
+    ],
+    "references": [
+        "1593376002",
+        "2001619061",
+        "2010211888",
+        "2130970357"
+    ]
+}

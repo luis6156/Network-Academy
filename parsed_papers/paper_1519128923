@@ -1,0 +1,85 @@
+{
+    "id": "1519128923",
+    "title": "Multiview random forest of local experts combining RGB and LIDAR data for pedestrian detection",
+    "venue": "ieee intelligent vehicles symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Alejandro Gonzalez",
+            "id": "2140769264",
+            "org": "Autonomous University of Barcelona"
+        },
+        {
+            "name": "Gabriel Villalonga",
+            "id": "2162660423",
+            "org": "Autonomous University of Barcelona"
+        },
+        {
+            "name": "Jiaolong Xu",
+            "id": "2156964747",
+            "org": "Computer Vision Center"
+        },
+        {
+            "name": "David Vazquez",
+            "id": "2127378106",
+            "org": "Autonomous University of Barcelona"
+        },
+        {
+            "name": "Jaume Amores",
+            "id": "2114004335",
+            "org": "Computer Vision Center"
+        },
+        {
+            "name": "Antonio M. Lopez",
+            "id": "2120839902",
+            "org": "Autonomous University of Barcelona"
+        }
+    ],
+    "fields_of_study": [
+        "Pedestrian detection",
+        "Random forest",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Convolutional neural network",
+        "Lidar",
+        "RGB color model",
+        "Detector",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "115232434",
+        "626667024",
+        "1536864910",
+        "1545641654",
+        "1966456026",
+        "1979016362",
+        "1994213117",
+        "1995444699",
+        "2013039598",
+        "2016936259",
+        "2020105253",
+        "2031454541",
+        "2033547469",
+        "2034779469",
+        "2071292299",
+        "2082609813",
+        "2083342768",
+        "2089815405",
+        "2102792607",
+        "2110226160",
+        "2115471590",
+        "2121955477",
+        "2122853526",
+        "2129818882",
+        "2135931458",
+        "2139479830",
+        "2145142957",
+        "2158688659",
+        "2159386181",
+        "2161969291",
+        "2163352848",
+        "2168356304",
+        "2548197316"
+    ]
+}

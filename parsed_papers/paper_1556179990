@@ -1,0 +1,46 @@
+{
+    "id": "1556179990",
+    "title": "A comparative study of concurrency control methods in B-trees",
+    "venue": "Proceedings of the VLSI Algorithms and Architectures, Aegean Worksho on Computing",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Alexandros Biliris",
+            "id": "2810120583",
+            "org": "Boston University"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Concurrency control",
+        "Distributed concurrency control",
+        "Timestamp-based concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "1496615748",
+        "1500492709",
+        "1539221976",
+        "1997643098",
+        "2014200189",
+        "2021615496",
+        "2023304911",
+        "2030689196",
+        "2033584818",
+        "2035150708",
+        "2057391254",
+        "2068521017",
+        "2108179552",
+        "2133386065",
+        "2152812436",
+        "2160722990",
+        "2161694911",
+        "2168262674",
+        "2431458507"
+    ]
+}

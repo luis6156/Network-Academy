@@ -1,0 +1,67 @@
+{
+    "id": "11356556",
+    "title": "A new scan attack on RSA in presence of industrial countermeasures",
+    "venue": "international workshop constructive side-channel analysis and secure design",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jean Da Rolt",
+            "id": "2171269599",
+            "org": "LIRMM, Universite Montpellier II /CNRS UMR 5506, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Amitabh Das",
+            "id": "2122945566",
+            "org": "ESAT/COSIC, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Giorgio Di Natale",
+            "id": "1964646347",
+            "org": "LIRMM, Universite Montpellier II /CNRS UMR 5506, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Marie-Lise Flottes",
+            "id": "821829480",
+            "org": "LIRMM, Universite Montpellier II /CNRS UMR 5506, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Bruno Rouzeyre",
+            "id": "2343263545",
+            "org": "LIRMM, Universite Montpellier II /CNRS UMR 5506, Montpellier, France#TAB#"
+        },
+        {
+            "name": "Ingrid Verbauwhede",
+            "id": "2044881251",
+            "org": "ESAT/COSIC, Katholieke Universiteit Leuven, Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Side channel attack",
+        "Countermeasure",
+        "Implementation",
+        "Design for testing",
+        "Scenario testing",
+        "Computer security",
+        "Cryptosystem",
+        "Public-key cryptography",
+        "Real-time computing",
+        "Engineering"
+    ],
+    "references": [
+        "1627397376",
+        "1664227763",
+        "1992008051",
+        "2062658790",
+        "2101863706",
+        "2101900253",
+        "2116881166",
+        "2130468378",
+        "2137298573",
+        "2139009001",
+        "2141624968",
+        "2141715577",
+        "2142537526",
+        "2146689260"
+    ]
+}

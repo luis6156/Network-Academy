@@ -1,0 +1,54 @@
+{
+    "id": "1553541524",
+    "title": "Efficient Locking and Caching of Data in the Multisystem Shard Disks Transaction Environment",
+    "venue": "extending database technology",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "C. Mohan",
+            "id": "2411984561",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Inderpal Narang",
+            "id": "2311819533",
+            "org": "IBM Almaden Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "Lock (computer science)",
+        "Cache coherence",
+        "Database",
+        "MESIF protocol"
+    ],
+    "references": [
+        "679924",
+        "1526124194",
+        "1574944490",
+        "1587711102",
+        "1600074786",
+        "1990367337",
+        "1998718301",
+        "2023186718",
+        "2030724661",
+        "2047073551",
+        "2055964373",
+        "2060914533",
+        "2089706179",
+        "2095562348",
+        "2103709927",
+        "2115001014",
+        "2119764129",
+        "2123101474",
+        "2144375084",
+        "2145157543",
+        "2150021464",
+        "2162871137"
+    ]
+}

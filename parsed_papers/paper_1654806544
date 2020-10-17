@@ -1,0 +1,38 @@
+{
+    "id": "1654806544",
+    "title": "The Interpolation Attack on Block Ciphers",
+    "venue": "fast software encryption",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Thomas Jakobsen",
+            "id": "2344298237",
+            "org": "Technical University of Denmark"
+        },
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Interpolation attack",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "Discrete mathematics",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Linear cryptanalysis",
+        "Kasiski examination"
+    ],
+    "references": [
+        "1964723977",
+        "1979802565",
+        "2027325533",
+        "2120464016",
+        "2234576048"
+    ]
+}

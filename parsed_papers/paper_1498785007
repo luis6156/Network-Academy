@@ -1,0 +1,54 @@
+{
+    "id": "1498785007",
+    "title": "Differential Cryptanalysis of TEA and XTEA",
+    "venue": "international conference on information security and cryptology",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies(CIST) Korea University"
+        },
+        {
+            "name": "Deukjo Hong",
+            "id": "2226421921",
+            "org": "Center for Information Security Technologies(CIST) Korea University"
+        },
+        {
+            "name": "Youngdai Ko",
+            "id": "2811026017",
+            "org": "Center for Information Security Technologies(CIST) Korea University"
+        },
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Center for Information Security Technologies(CIST) Korea University"
+        },
+        {
+            "name": "Wonil Lee",
+            "id": "2810585056",
+            "org": "Center for Information Security Technologies(CIST) Korea University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies(CIST) Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "XTEA",
+        "Truncated differential cryptanalysis",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "1516699468",
+        "1575389912",
+        "1629301835",
+        "2234576048"
+    ]
+}

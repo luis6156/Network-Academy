@@ -1,0 +1,62 @@
+{
+    "id": "1506680903",
+    "title": "A large scale key-value store based on range-key skip graph and its applications",
+    "venue": "database systems for advanced applications",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Susumu Takeuchi",
+            "id": "2805076465",
+            "org": "National Institute of Information and Communications Technology, Japan#TAB#"
+        },
+        {
+            "name": "Jun Shinomiya",
+            "id": "1227117080",
+            "org": "School of Engineering, Osaka University, Japan#TAB#"
+        },
+        {
+            "name": "Toru Shiraki",
+            "id": "2027883788",
+            "org": "Graduate School of Information Science and Technology, Osaka University, Japan#TAB#"
+        },
+        {
+            "name": "Yoshimasa Ishi",
+            "id": "2190894712",
+            "org": "Graduate School of Information Science and Technology, Osaka University, Japan#TAB#"
+        },
+        {
+            "name": "Yuuichi Teranishi",
+            "id": "1266328178",
+            "org": "National Institute of Information and Communications Technology, Japan#TAB#"
+        },
+        {
+            "name": "Mikio Yoshida",
+            "id": "2429382634",
+            "org": "BBR Inc., Japan#TAB#"
+        },
+        {
+            "name": "Shinji Shimojo",
+            "id": "2163779019",
+            "org": "National Institute of Information and Communications Technology, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Skip graph",
+        "Computer science",
+        "PlanetLab",
+        "Database",
+        "Distributed data store",
+        "Range query (data structures)",
+        "Overlay network",
+        "Associative array"
+    ],
+    "references": [
+        "1574082713",
+        "1601568537",
+        "2070991879",
+        "2118428193",
+        "2119245106",
+        "2163498454",
+        "2293292771"
+    ]
+}

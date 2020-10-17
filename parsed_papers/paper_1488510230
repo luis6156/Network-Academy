@@ -1,0 +1,51 @@
+{
+    "id": "1488510230",
+    "title": "Buffer losses vs. deadline violations for ABR traffic in an ATM switch: A computational approach",
+    "venue": "Telecommunication Systems",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Meera Balakrishnan",
+            "id": "2289884984",
+            "org": "Bell Labs, Lucent Technologies, Naperville, USA 60566#TAB#"
+        },
+        {
+            "name": "Antonio Puliafito",
+            "id": "2202315035",
+            "org": "Instituto di Informatica, Universita di Catania, Catania, Italy 95125#TAB#"
+        },
+        {
+            "name": "Kishor S. Trivedi",
+            "id": "2108293768",
+            "org": "Department of Electrical and Computer Engineering, Duke University, Durham, USA 27708-0291#TAB#"
+        },
+        {
+            "name": "Yannis Viniotis",
+            "id": "687317970",
+            "org": "Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, USA 27695#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Integrated Services Digital Network",
+        "Computer science",
+        "Operating point",
+        "Poisson distribution",
+        "Bandwidth (signal processing)",
+        "Stochastic Petri net",
+        "Variable bitrate",
+        "Computer network",
+        "Real-time computing",
+        "Queueing theory",
+        "Markovian arrival process"
+    ],
+    "references": [
+        "2032400141",
+        "2066906122",
+        "2073440460",
+        "2119239145",
+        "2141684667",
+        "2146430517",
+        "2149248364",
+        "2176566884"
+    ]
+}

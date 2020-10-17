@@ -1,0 +1,46 @@
+{
+    "id": "1503483059",
+    "title": "Formal aspects of querying RDF databases",
+    "venue": "international semantic web conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Claudio Gutierrez",
+            "id": "2106576185",
+            "org": "Department of Computer Science, Universidad de Chile#TAB#"
+        },
+        {
+            "name": "Carlos A. Hurtado",
+            "id": "2307795220",
+            "org": "Department of Computer Science, Universidad de Chile#TAB#"
+        },
+        {
+            "name": "Alberto O. Mendelzon",
+            "id": "1969282344",
+            "org": "Department of Computer Science, University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Data mining",
+        "RDF/XML",
+        "Query language",
+        "Query by Example",
+        "RDF query language",
+        "Database",
+        "RDF Schema",
+        "SPARQL",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1558832481",
+        "1583295953",
+        "1799456667",
+        "1911479129",
+        "2073279331",
+        "2084987750",
+        "2111459849",
+        "2112647999"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "1445387515",
+    "title": "Finding unknown malice in 10 seconds: mass vetting for new threats at the Google-play scale",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Kai Chen",
+            "id": "2311430221",
+            "org": "State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences and Indiana University, Bloomington#TAB#"
+        },
+        {
+            "name": "Peng Wang",
+            "id": "2545540772",
+            "org": "Indiana University, Bloomington#TAB#"
+        },
+        {
+            "name": "Yeonjoon Lee",
+            "id": "2171907196",
+            "org": "Indiana University, Bloomington#TAB#"
+        },
+        {
+            "name": "XiaoFeng Wang",
+            "id": "2126067721",
+            "org": "Indiana University, Bloomington#TAB#"
+        },
+        {
+            "name": "Nan Zhang",
+            "id": "2604153947",
+            "org": "Indiana University, Bloomington#TAB#"
+        },
+        {
+            "name": "Heqing Huang",
+            "id": "2111453272",
+            "org": "College of IST, Penn State University#TAB#"
+        },
+        {
+            "name": "Wei Zou",
+            "id": "2718981098",
+            "org": "State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences#TAB#"
+        },
+        {
+            "name": "Peng Liu",
+            "id": "2428201908",
+            "org": "College of IST, Penn State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "World Wide Web",
+        "Malware",
+        "Vetting",
+        "Code reuse",
+        "Program analysis",
+        "Computer science",
+        "Repackaging",
+        "Computer security",
+        "Android (operating system)",
+        "Stream processing",
+        "Internet privacy"
+    ],
+    "references": [
+        "34283345",
+        "81879861",
+        "183494281",
+        "1535984709",
+        "1562646198",
+        "1578479379",
+        "1583484179",
+        "1865564993",
+        "1910686388",
+        "1963971515",
+        "1971497680",
+        "1974649417",
+        "1985686072",
+        "1988036170",
+        "2038165128",
+        "2041276426",
+        "2064038877",
+        "2071072485",
+        "2084939909",
+        "2088479623",
+        "2089735638",
+        "2090534521",
+        "2104495462",
+        "2125011234",
+        "2127723417",
+        "2147048465",
+        "2148397566",
+        "2164539435",
+        "2166743230",
+        "2334842536",
+        "2399891510"
+    ]
+}

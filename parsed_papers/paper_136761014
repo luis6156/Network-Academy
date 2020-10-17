@@ -1,0 +1,56 @@
+{
+    "id": "136761014",
+    "title": "Efficient Network-Based Enforcement of Data Access Rights",
+    "venue": "international conference on security and cryptography",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Paul Giura",
+            "id": "2076860659",
+            "org": "AT&T Security Research Center"
+        },
+        {
+            "name": "Vladimir Kolesnikov",
+            "id": "2469209240",
+            "org": "Bell Labs"
+        },
+        {
+            "name": "Aris Tentes",
+            "id": "1983723227",
+            "org": "New York University"
+        },
+        {
+            "name": "Yevgeniy Vahlis",
+            "id": "273228002",
+            "org": "Bionym"
+        }
+    ],
+    "fields_of_study": [
+        "Data access",
+        "Computer science",
+        "Bloom filter",
+        "Computer security",
+        "Enforcement",
+        "The Internet",
+        "Computer network",
+        "SQL injection"
+    ],
+    "references": [
+        "88678960",
+        "1479727008",
+        "1502708590",
+        "1551279437",
+        "1574845526",
+        "1648477960",
+        "1993704367",
+        "2001154722",
+        "2019514876",
+        "2122823095",
+        "2123479684",
+        "2123845384",
+        "2124260419",
+        "2146828512",
+        "2167122335",
+        "2170496240"
+    ]
+}

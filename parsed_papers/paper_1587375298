@@ -1,0 +1,53 @@
+{
+    "id": "1587375298",
+    "title": "The F# asynchronous programming model",
+    "venue": "practical aspects of declarative languages",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Don Syme",
+            "id": "2136386745",
+            "org": "Microsoft Research, Cambridge, United Kingdom#TAB#"
+        },
+        {
+            "name": "Tomas Petricek",
+            "id": "2768354566",
+            "org": "Faculty of Mathematics and Physics, Charles University in Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Dmitry Lomov",
+            "id": "31961473",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Join-pattern",
+        "Control flow",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Reactive programming",
+        "Asynchronous communication",
+        "Asynchronous method invocation",
+        "Computer science",
+        "Programming paradigm",
+        "Programming domain",
+        "Programming language",
+        "Inversion of control"
+    ],
+    "references": [
+        "1569805491",
+        "1581908531",
+        "1584322803",
+        "1976194690",
+        "2021978684",
+        "2031491316",
+        "2081938726",
+        "2088675571",
+        "2123914565",
+        "2124831391",
+        "2133051483",
+        "2135523252",
+        "2137235328",
+        "2168075869"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1606857374",
+    "title": "Classification approach towards ranking and sorting problems",
+    "venue": "european conference on machine learning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Shyamsundar Rajaram",
+            "id": "2276591163",
+            "org": "University of Illinois, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Ashutosh Garg",
+            "id": "2154246039",
+            "org": "IBM Almaden Research Center, San Jose, CA#TAB#"
+        },
+        {
+            "name": "Xiang Sean Zhou",
+            "id": "2420712277",
+            "org": "Siemens Corporate Research, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Thomas S. Huang",
+            "id": "2149631809",
+            "org": "University of Illinois, Urbana, IL#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multiclass classification",
+        "Synthetic data",
+        "Computer science",
+        "Ground truth",
+        "Ordinal regression",
+        "Ranking",
+        "Ranking SVM",
+        "Sorting",
+        "Data structure",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1550469973",
+        "1585159768",
+        "1734803745",
+        "1964357740",
+        "1979601782",
+        "1997855593",
+        "2129113961",
+        "2138584058",
+        "2142646165",
+        "2171541062"
+    ]
+}

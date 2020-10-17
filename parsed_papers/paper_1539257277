@@ -1,0 +1,45 @@
+{
+    "id": "1539257277",
+    "title": "Automata-Theoretic Analysis of Bit-Split Languages for Packet Scanning",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ryan Dixon",
+            "id": "2100319834",
+            "org": "Department of Computer Science, University of California, Santa Barbara,#TAB#"
+        },
+        {
+            "name": "Omer Egecioglu",
+            "id": "2079103255",
+            "org": "Department of Computer Science, University of California, Santa Barbara,#TAB#"
+        },
+        {
+            "name": "Timothy Sherwood",
+            "id": "2130284388",
+            "org": "Department of Computer Science, University of California, Santa Barbara,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Homomorphic encryption",
+        "String searching algorithm",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Aho-Corasick string matching algorithm",
+        "Regular language",
+        "Network packet",
+        "Correctness",
+        "Intrusion detection system"
+    ],
+    "references": [
+        "1621186777",
+        "1674877186",
+        "2099964107",
+        "2106062486",
+        "2134684274",
+        "2137786570",
+        "2147228424",
+        "2178663527"
+    ]
+}

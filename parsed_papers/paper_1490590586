@@ -1,0 +1,49 @@
+{
+    "id": "1490590586",
+    "title": "The repeat offender problem: a mechanism for supporting dynamic-sized lock-free data structures",
+    "venue": "international symposium on distributed computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Maurice Herlihy",
+            "id": "2068258939",
+            "org": "Computer Science Department, Brown University, Providence, RI#TAB#"
+        },
+        {
+            "name": "Victor Luchangco",
+            "id": "2685443099",
+            "org": "Sun Microsystems Laboratories, Burlington, MA#TAB#"
+        },
+        {
+            "name": "Mark Moir",
+            "id": "2648964153",
+            "org": "Sun Microsystems Laboratories, Burlington, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Allocator",
+        "Compare-and-swap",
+        "Distributed computing",
+        "Memory management",
+        "Correctness",
+        "Non-blocking algorithm",
+        "Data structure"
+    ],
+    "references": [
+        "1980247023",
+        "1981393723",
+        "1990254861",
+        "1992427547",
+        "1993301893",
+        "2009098105",
+        "2013021588",
+        "2054739713",
+        "2062678317",
+        "2127976210",
+        "2166115541"
+    ]
+}

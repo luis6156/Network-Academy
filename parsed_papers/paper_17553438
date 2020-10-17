@@ -1,0 +1,46 @@
+{
+    "id": "17553438",
+    "title": "About the XL algorithm over GF(2)",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "342533692",
+            "org": "CP8 Crypto Lab, Louveciennes Cedex, France#TAB#"
+        },
+        {
+            "name": "Jacques Patarin",
+            "id": "2115493875",
+            "org": "CP8 Crypto Lab, Louveciennes Cedex, France and PRiSM, University of Versailles, Versailles Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GF(2)",
+        "Mathematics",
+        "Block cipher",
+        "System of linear equations",
+        "Lattice (order)",
+        "Discrete mathematics",
+        "NTRUSign",
+        "Finite field",
+        "Random oracle"
+    ],
+    "references": [
+        "1489617931",
+        "1496801598",
+        "1573095851",
+        "1576982162",
+        "1583871653",
+        "1592441913",
+        "1675339804",
+        "1821087317",
+        "1979740015",
+        "2011039300",
+        "2039811877",
+        "2077244027",
+        "2123147311",
+        "2135124252",
+        "2286477783"
+    ]
+}

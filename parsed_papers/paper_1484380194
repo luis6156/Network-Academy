@@ -1,0 +1,62 @@
+{
+    "id": "1484380194",
+    "title": "Implementing database replication protocols based on O2PL in a middleware architecture",
+    "venue": "DBA'06 Proceedings of the 24th IASTED international conference on Database and applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "J.E. Armendariz",
+            "id": "2805590853",
+            "org": "Dpto. de Matematica e Informatica, Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "J. R. Juarez",
+            "id": "2118185996",
+            "org": "Dpto. de Matematica e Informatica, Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "Jose Ramon Garitagoitia",
+            "id": "2038494290",
+            "org": "Dpto. de Matematica e Informatica, Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "J. R. Gonzalez de Mendivil",
+            "id": "1485089301",
+            "org": "Dpto. de Matematica e Informatica, Universidad Publica de Navarra, Pamplona, Spain#TAB#"
+        },
+        {
+            "name": "Francesc D. Munoz-Escoi",
+            "id": "2089263920",
+            "org": "Instituto Tecnologico de Informatica, Universidad Politecnica de Valencia, Valencia, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Two-phase commit protocol",
+        "Replication (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Data consistency",
+        "Real-time computing",
+        "Middleware",
+        "Deadlock prevention algorithms",
+        "Deadlock",
+        "Architecture",
+        "Database transaction"
+    ],
+    "references": [
+        "1545155892",
+        "1580521276",
+        "1602123872",
+        "1988311692",
+        "2060361043",
+        "2108350817",
+        "2111586962",
+        "2112161048",
+        "2112187863",
+        "2117917070",
+        "2126249379",
+        "2131751093",
+        "2156320870",
+        "2165900899"
+    ]
+}

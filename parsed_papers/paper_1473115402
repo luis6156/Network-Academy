@@ -1,0 +1,53 @@
+{
+    "id": "1473115402",
+    "title": "Trash day: coordinating garbage collection in distributed systems",
+    "venue": "hot topics in operating systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Martin Maas",
+            "id": "2251181534",
+            "org": "Oracle Labs, Cambridge and University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "Tim Harris",
+            "id": "2124464945",
+            "org": "Oracle Labs, Cambridge#TAB#"
+        },
+        {
+            "name": "Krste Asanovic",
+            "id": "677108321",
+            "org": "University of California, Berkeley#TAB#"
+        },
+        {
+            "name": "John Kubiatowicz",
+            "id": "695789049",
+            "org": "University of California, Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Java",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Workload",
+        "Runtime system",
+        "Spark (mathematics)",
+        "Real-time computing",
+        "Cloud computing"
+    ],
+    "references": [
+        "1419077817",
+        "1746258828",
+        "1929960381",
+        "1985229168",
+        "2064091303",
+        "2087946700",
+        "2131975293",
+        "2153704625",
+        "2156580773",
+        "2163961697",
+        "2256219868"
+    ]
+}

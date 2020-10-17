@@ -1,0 +1,64 @@
+{
+    "id": "1576317854",
+    "title": "Collision-Based Power Analysis of Modular Exponentiation Using Chosen-Message Pairs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Naofumi Homma",
+            "id": "2120252268",
+            "org": "Graduate School of Information Sciences, Tohoku University,#TAB#"
+        },
+        {
+            "name": "Atsushi Miyamoto",
+            "id": "2306874676",
+            "org": "Graduate School of Information Sciences, Tohoku University,#TAB#"
+        },
+        {
+            "name": "Takafumi Aoki",
+            "id": "2103882778",
+            "org": "Graduate School of Information Sciences, Tohoku University,#TAB#"
+        },
+        {
+            "name": "Akashi Satoh",
+            "id": "2110212166",
+            "org": "National Institute of Advanced Industrial Science and Technology,#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Weizmann Institute of Science,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Side channel attack",
+        "PowerPC",
+        "Exponentiation",
+        "Computer science",
+        "Sliding window protocol",
+        "Power analysis",
+        "Jitter",
+        "Modular exponentiation",
+        "Collision"
+    ],
+    "references": [
+        "1522337283",
+        "1536508214",
+        "1548524713",
+        "1563765474",
+        "1565369953",
+        "1584950990",
+        "1587481360",
+        "1593401740",
+        "1601639357",
+        "1604304084",
+        "1660562555",
+        "1664808737",
+        "1786490218",
+        "2148862943",
+        "2149209089",
+        "2154909745"
+    ]
+}

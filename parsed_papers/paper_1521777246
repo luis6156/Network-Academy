@@ -1,0 +1,68 @@
+{
+    "id": "1521777246",
+    "title": "Light-Weight Instruction Set Extensions for Bit-Sliced Cryptography",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Philipp Grabher",
+            "id": "2037072807",
+            "org": "Department of Computer Science, University of Bristol, Bristol, U.K. BS8 1UB#TAB#"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Department of Computer Science, University of Bristol, Bristol, U.K. BS8 1UB#TAB#"
+        },
+        {
+            "name": "Dan Page",
+            "id": "2894300787",
+            "org": "Department of Computer Science, University of Bristol, Bristol, U.K. BS8 1UB#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Block cipher",
+        "Lookup table",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Cryptographic hash function",
+        "Computer science",
+        "Instruction set",
+        "Hash function",
+        "MDC-2"
+    ],
+    "references": [
+        "43543470",
+        "1488058190",
+        "1490070390",
+        "1490350907",
+        "1539473506",
+        "1548516269",
+        "1549342296",
+        "1556212265",
+        "1558515754",
+        "1580282812",
+        "1603169531",
+        "1894646615",
+        "2014767615",
+        "2033629016",
+        "2034841960",
+        "2101286902",
+        "2106181459",
+        "2111578721",
+        "2120653360",
+        "2121268634",
+        "2124993670",
+        "2125136249",
+        "2131014680",
+        "2131202839",
+        "2132280197",
+        "2133032731",
+        "2145206281",
+        "2149174385",
+        "2163769417",
+        "2164100802"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1521407587",
+    "title": "ChunkStash: speeding up inline storage deduplication using flash memory",
+    "venue": "usenix annual technical conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Biplob Debnath",
+            "id": "2125605224",
+            "org": "University of Minnesota, Twin Cities#TAB#"
+        },
+        {
+            "name": "Sudipta Sengupta",
+            "id": "2104281610",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Jin Li",
+            "id": "2604450505",
+            "org": "Microsoft Research, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Parallel computing",
+        "Flash memory",
+        "Indexation",
+        "Cuckoo hashing",
+        "Computer science",
+        "Backup",
+        "Bloom filter",
+        "Data deduplication",
+        "Hash function",
+        "Real-time computing"
+    ],
+    "references": [
+        "24740120",
+        "69510097",
+        "174289249",
+        "200233886",
+        "1486947867",
+        "1513366578",
+        "1576397915",
+        "1599186236",
+        "1838765419",
+        "1929726975",
+        "1967930269",
+        "1969126835",
+        "1993284846",
+        "2018763861",
+        "2043759906",
+        "2054711061",
+        "2056980397",
+        "2099316199",
+        "2099753358",
+        "2107745473",
+        "2112479717",
+        "2113689712",
+        "2119764208",
+        "2125499854",
+        "2133394135",
+        "2141048674",
+        "2165068957"
+    ]
+}

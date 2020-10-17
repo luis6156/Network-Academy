@@ -1,0 +1,57 @@
+{
+    "id": "178506002",
+    "title": "An OpenMP Extension Library for Memory Affinity",
+    "venue": "international workshop on openmp",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Dirk Schmidl",
+            "id": "2147731199",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Tim Cramer",
+            "id": "2158251953",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Christian Terboven",
+            "id": "1093591045",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Dieter an Mey",
+            "id": "2146642270",
+            "org": "RWTH Aachen University"
+        },
+        {
+            "name": "Matthias S. Muller",
+            "id": "2295117714",
+            "org": "RWTH Aachen University"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Supercomputer",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Abstraction",
+        "Correctness",
+        "Initialization",
+        "Memory access pattern"
+    ],
+    "references": [
+        "1813111",
+        "57312308",
+        "1501770295",
+        "1519490651",
+        "1589529336",
+        "1598206477",
+        "1993223688",
+        "2037244283",
+        "2084903759",
+        "2100720297",
+        "2171119362"
+    ]
+}

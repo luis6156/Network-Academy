@@ -1,0 +1,42 @@
+{
+    "id": "1504927043",
+    "title": "A simple power-analysis (SPA) attack on implementations of the AES key expansion",
+    "venue": "international conference on information security and cryptology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Stefan Mangard",
+            "id": "339490103",
+            "org": "Institute for Applied Information Processing and Communications, Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Key space",
+        "Computer security",
+        "Power analysis",
+        "AES implementations",
+        "Information leakage",
+        "Real-time computing",
+        "Smart card",
+        "Hamming weight"
+    ],
+    "references": [
+        "1487268209",
+        "1503689022",
+        "1506530330",
+        "1510418153",
+        "1512062395",
+        "1602453119",
+        "1657240689",
+        "2112244944",
+        "2135430020",
+        "2145829971",
+        "2145881907",
+        "2154909745",
+        "2163020747"
+    ]
+}

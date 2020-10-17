@@ -1,0 +1,53 @@
+{
+    "id": "1565579953",
+    "title": "The Cryptanalysis of Reduced-Round SMS4",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jonathan Etrog",
+            "id": "2718544327",
+            "org": "Orange Labs, Issy les Moulineaux Cedex 9, France 92794#TAB#"
+        },
+        {
+            "name": "Matthew J. B. Robshaw",
+            "id": "2758137483",
+            "org": "Orange Labs, Issy les Moulineaux Cedex 9, France 92794#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Boomerang attack",
+        "Two-square cipher",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "32121401",
+        "106587005",
+        "150724439",
+        "1486933817",
+        "1493062108",
+        "1500356409",
+        "1522397945",
+        "1537206908",
+        "1542500920",
+        "1556727271",
+        "1583224622",
+        "1701060964",
+        "1732514021",
+        "1894646615",
+        "1964723977",
+        "1979802565",
+        "2091612798",
+        "2095699455",
+        "2136016758",
+        "2137326899",
+        "2802560047"
+    ]
+}

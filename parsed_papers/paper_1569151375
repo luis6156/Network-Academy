@@ -1,0 +1,45 @@
+{
+    "id": "1569151375",
+    "title": "The Implementation of One-Sided Communications for WMPI II",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Tiago R. Baptista",
+            "id": "2468129218",
+            "org": "Universidade de Coimbra - PoloII"
+        },
+        {
+            "name": "Hernani Pedroso",
+            "id": "2560559249",
+            "org": "Critical Software, S.A."
+        },
+        {
+            "name": "Joao Gabriel Silva",
+            "id": "2136798047",
+            "org": "Universidade de Coimbra - PoloII"
+        }
+    ],
+    "fields_of_study": [
+        "Shared memory",
+        "Models of communication",
+        "Computer science",
+        "Distributed computing",
+        "Remote operation",
+        "Message Passing Interface",
+        "Message passing",
+        "Teleoperation",
+        "Synchronization",
+        "Operating system",
+        "Workstation"
+    ],
+    "references": [
+        "1482230935",
+        "1490143818",
+        "1521244776",
+        "1529327506",
+        "1555194772",
+        "2081612620",
+        "2117815739"
+    ]
+}

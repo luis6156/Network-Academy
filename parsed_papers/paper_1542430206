@@ -1,0 +1,45 @@
+{
+    "id": "1542430206",
+    "title": "Efficient and Fresh Cerification",
+    "venue": "public key cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Irene Gassko",
+            "id": "1209165355",
+            "org": "Lucent Technologies"
+        },
+        {
+            "name": "Peter S. Gemmell",
+            "id": "2307558930",
+            "org": "University of New Mexico"
+        },
+        {
+            "name": "Philip D. MacKenzie",
+            "id": "2167787271",
+            "org": "Information Sciences Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Implicit certificate",
+        "Self-signed certificate",
+        "Root certificate",
+        "Computer science",
+        "Distributed computing",
+        "Public key certificate",
+        "Revocation list",
+        "Computer security",
+        "X.509",
+        "Chain of trust",
+        "Online Certificate Status Protocol"
+    ],
+    "references": [
+        "85931313",
+        "1566345534",
+        "1983762057",
+        "1995841147",
+        "2010507480",
+        "2156186849",
+        "2160878415"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "1718337629",
+    "title": "Oblivious Hashing: A Stealthy Software Integrity Verification Primitive",
+    "venue": "information hiding",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Yuqun Chen",
+            "id": "2133886827",
+            "org": "One Microsoft Way"
+        },
+        {
+            "name": "Ramwarathnam Venkatesan",
+            "id": "2575938565",
+            "org": "One Microsoft Way"
+        },
+        {
+            "name": "Matthew Cary",
+            "id": "2104066227",
+            "org": "University of Washington"
+        },
+        {
+            "name": "Ruoming Pang",
+            "id": "2635636880",
+            "org": "Princeton University"
+        },
+        {
+            "name": "Saurabh Sinha",
+            "id": "2777775824",
+            "org": "University of Washington"
+        },
+        {
+            "name": "Mariusz H. Jakubowski",
+            "id": "2129281761",
+            "org": "One Microsoft Way"
+        }
+    ],
+    "fields_of_study": [
+        "Tamper resistance",
+        "Code segment",
+        "Theoretical computer science",
+        "Software",
+        "Abstract syntax tree",
+        "Computation",
+        "Computer science",
+        "Hash function",
+        "Message authentication code",
+        "Software verification"
+    ],
+    "references": [
+        "32654648",
+        "1489356009",
+        "1580417272",
+        "1660562555",
+        "1798077826",
+        "1980280740",
+        "1996839061",
+        "2002032317",
+        "2084641398",
+        "2094694686",
+        "2126851641",
+        "2146567535",
+        "2168881238",
+        "2294022756",
+        "2500662076"
+    ]
+}

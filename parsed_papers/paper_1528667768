@@ -1,0 +1,65 @@
+{
+    "id": "1528667768",
+    "title": "Abstract Specification of the UBIFS File System for Flash Memory",
+    "venue": "formal methods",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Andreas Schierl",
+            "id": "2171214875",
+            "org": "Lehrstuhl fur Softwaretechnik und Programmiersprachen, Universitat Augsburg, Augsburg, Germany D-86135#TAB#"
+        },
+        {
+            "name": "Gerhard Schellhorn",
+            "id": "123694094",
+            "org": "Lehrstuhl fur Softwaretechnik und Programmiersprachen, Universitat Augsburg, Augsburg, Germany D-86135#TAB#"
+        },
+        {
+            "name": "Dominik Haneberg",
+            "id": "2014379138",
+            "org": "Lehrstuhl fur Softwaretechnik und Programmiersprachen, Universitat Augsburg, Augsburg, Germany D-86135#TAB#"
+        },
+        {
+            "name": "Wolfgang Reif",
+            "id": "2139633246",
+            "org": "Lehrstuhl fur Softwaretechnik und Programmiersprachen, Universitat Augsburg, Augsburg, Germany D-86135#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unix file types",
+        "inode pointer structure",
+        "Computer science",
+        "Versioning file system",
+        "Flash memory emulator",
+        "Flash file system",
+        "Database",
+        "JFFS2",
+        "File Control Block",
+        "Self-certifying File System",
+        "Real-time computing"
+    ],
+    "references": [
+        "171448486",
+        "1506765424",
+        "1512094049",
+        "1513812962",
+        "1519644068",
+        "1521216227",
+        "1526091374",
+        "1549208137",
+        "1585290860",
+        "1852929912",
+        "1853368733",
+        "1969402593",
+        "1989688706",
+        "2020395879",
+        "2076790613",
+        "2099753358",
+        "2106540440",
+        "2109607881",
+        "2123183457",
+        "2159181605",
+        "2166230870",
+        "2404941243"
+    ]
+}

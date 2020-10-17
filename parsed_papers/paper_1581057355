@@ -1,0 +1,49 @@
+{
+    "id": "1581057355",
+    "title": "Memory Coherence in a Distributed Persistent Storage Architecture",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Peter Brossler",
+            "id": "2044410662",
+            "org": "Universitat Bremen"
+        },
+        {
+            "name": "Bernd Freisleben",
+            "id": "1455706920",
+            "org": "Technische Hochschule Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Paging",
+        "Computer science",
+        "Distributed computing",
+        "Persistent object store",
+        "Synchronizing",
+        "Memory coherence",
+        "Distributed shared memory",
+        "Concurrency",
+        "Cache-only memory architecture",
+        "Computer network",
+        "Virtual memory"
+    ],
+    "references": [
+        "109538535",
+        "1485326035",
+        "1552743650",
+        "1680399761",
+        "2005318605",
+        "2044902313",
+        "2048071586",
+        "2100198355",
+        "2106626405",
+        "2113012239",
+        "2134119432",
+        "2142849519",
+        "2144884804",
+        "2154840756",
+        "2163796873",
+        "2168368830"
+    ]
+}

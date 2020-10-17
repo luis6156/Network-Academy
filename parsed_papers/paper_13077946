@@ -1,0 +1,71 @@
+{
+    "id": "13077946",
+    "title": "Linear fault analysis of block ciphers",
+    "venue": "applied cryptography and network security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Zhiqiang Liu",
+            "id": "2674232880",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Dawu Gu",
+            "id": "2145276306",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Ya Liu",
+            "id": "2617649879",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Wei Li",
+            "id": "2718484388",
+            "org": "School of Computer Science and Technology, Donghua University, Shanghai, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Interpolation attack",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "S-box",
+        "Computer science",
+        "Computer security",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Stream cipher attack",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "89002490",
+        "94435019",
+        "1493755219",
+        "1495121609",
+        "1537875328",
+        "1542020576",
+        "1564295073",
+        "1566796882",
+        "1588952639",
+        "1599252161",
+        "1629301835",
+        "1651633114",
+        "1890449996",
+        "1964723977",
+        "1991897749",
+        "2019000615",
+        "2050244992",
+        "2091612798",
+        "2110162979",
+        "2110941647",
+        "2111725598",
+        "2112284176",
+        "2113394987",
+        "2131080192",
+        "2151136913",
+        "2170489924",
+        "2408480825",
+        "2610935322"
+    ]
+}

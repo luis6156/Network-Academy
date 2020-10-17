@@ -1,0 +1,39 @@
+{
+    "id": "1782386758",
+    "title": "Efficient identity based proxy-signcryption schemes with forward security and public verifiability",
+    "venue": "international conference on networking",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Meng Wang",
+            "id": "2658958676",
+            "org": "School of Computer Science and Technology#TAB#"
+        },
+        {
+            "name": "Hui Li",
+            "id": "2324750492",
+            "org": "School of Telecommunications Engineering, Xidian University, Xi'an, P.R. China#TAB#"
+        },
+        {
+            "name": "Zhijing Liu",
+            "id": "2662376750",
+            "org": "School of Computer Science and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Signcryption",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Forward secrecy",
+        "Verifiable secret sharing",
+        "Secure channel"
+    ],
+    "references": [
+        "1510433380",
+        "1516634197",
+        "1541661930",
+        "2148437174",
+        "2396431933"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "127725952",
+    "title": "Trading Correctness for Privacy in Unconditional Multi-Party Computation (Extended Abstract)",
+    "venue": "international cryptology conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Matthias Fitzi",
+            "id": "188791285",
+            "org": "Department of Computer Science|Swiss Federal Institute of Technology"
+        },
+        {
+            "name": "Martin Hirt",
+            "id": "2162104603",
+            "org": "Department of Computer Science|Swiss Federal Institute of Technology"
+        },
+        {
+            "name": "Ueli Maurer",
+            "id": "2068596995",
+            "org": "Swiss Federal Institute of Technology (ETH), Zurich Department of Computer Science CH-8092 Zurich Switzerland CH-8092 Zurich Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computation",
+        "Computer science",
+        "Verifiable secret sharing",
+        "Correctness",
+        "Secure two-party computation",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "44936433",
+        "1867048327",
+        "1990304797",
+        "2009432965",
+        "2019616576",
+        "2036133214",
+        "2073346043",
+        "2092148937",
+        "2096430557",
+        "2096604262",
+        "2103761955",
+        "2120510885",
+        "2141420453",
+        "2150307013",
+        "2153921496",
+        "2154654620",
+        "2169127491"
+    ]
+}

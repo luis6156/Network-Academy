@@ -1,0 +1,100 @@
+{
+    "id": "1014926417",
+    "title": "Tuning GaussSieve for Speed",
+    "venue": "international conference on progress in cryptology",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Robert Fitzpatrick",
+            "id": "2158556470",
+            "org": "Academia Sinica"
+        },
+        {
+            "name": "Christian H. Bischof",
+            "id": "2055603077",
+            "org": "Institute for Scientific Computing, TU Darmstadt"
+        },
+        {
+            "name": "Johannes A. Buchmann",
+            "id": "1552168940",
+            "org": "TU Darmstadt"
+        },
+        {
+            "name": "Ozgur Dagdelen",
+            "id": "2189638204",
+            "org": "TU Darmstadt"
+        },
+        {
+            "name": "Florian Gopfert",
+            "id": "2006947723",
+            "org": "TU Darmstadt"
+        },
+        {
+            "name": "Artur Mariano",
+            "id": "2113051729",
+            "org": "Institute for Scientific Computing, TU Darmstadt"
+        },
+        {
+            "name": "Bo-Yin Yang",
+            "id": "2112375272",
+            "org": "Academia Sinica"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Enumeration",
+        "Lattice (order)",
+        "Reference implementation",
+        "Cryptosystem",
+        "Heuristic",
+        "Mathematical optimization",
+        "Lattice problem"
+    ],
+    "references": [
+        "22242098",
+        "65754961",
+        "80562455",
+        "118688756",
+        "998470930",
+        "1533298133",
+        "1544588077",
+        "1572157978",
+        "1755231286",
+        "1766548092",
+        "1845765495",
+        "1846749144",
+        "1971053947",
+        "1985671681",
+        "1989510734",
+        "2007712808",
+        "2012589104",
+        "2017523273",
+        "2018985768",
+        "2021907057",
+        "2027423568",
+        "2039702262",
+        "2040996999",
+        "2050689197",
+        "2051096402",
+        "2053594556",
+        "2087439183",
+        "2104208424",
+        "2106129384",
+        "2119236453",
+        "2130161679",
+        "2131880243",
+        "2131924466",
+        "2132724317",
+        "2139587243",
+        "2139761368",
+        "2139890752",
+        "2143514931",
+        "2154625773",
+        "2155178472",
+        "2159183015",
+        "2165004618",
+        "2167607041",
+        "2216359073"
+    ]
+}

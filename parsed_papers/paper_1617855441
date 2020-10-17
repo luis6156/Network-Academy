@@ -1,0 +1,45 @@
+{
+    "id": "1617855441",
+    "title": "Estimating the computational cost of logic programs",
+    "venue": "static analysis symposium",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Saumya K. Debray",
+            "id": "2087087990",
+            "org": "The University of Arizona"
+        },
+        {
+            "name": "P. Lopez Garcia",
+            "id": "2143466932",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Manuel V. Hermenegildo",
+            "id": "2268913824",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Nai-Wei Lin",
+            "id": "2672896082",
+            "org": "National Chung Cheng University"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Compiler",
+        "Granularity",
+        "Program transformation",
+        "Query optimization",
+        "Cost estimate",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1583075038",
+        "1605391485",
+        "1975943297",
+        "2012069736",
+        "2092371432"
+    ]
+}

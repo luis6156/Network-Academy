@@ -1,0 +1,55 @@
+{
+    "id": "1510441611",
+    "title": "An Algorithm for Automatic Detection of Loop Indices for Communication Overlapping",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Kazuaki Ishizaki",
+            "id": "2020264740",
+            "org": "IBM Tokyo Research Laboratory"
+        },
+        {
+            "name": "Hideaki Komatsu",
+            "id": "2115381187",
+            "org": "IBM Tokyo Research Laboratory"
+        },
+        {
+            "name": "Toshio Nakatani",
+            "id": "2017921709",
+            "org": "IBM Tokyo Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Loop interchange",
+        "Parallel computing",
+        "Algorithm",
+        "Loop inversion",
+        "Computer science",
+        "Distributed computing",
+        "Loop fusion",
+        "Loop splitting",
+        "Loop dependence analysis",
+        "Loop fission",
+        "Loop nest optimization",
+        "Real-time computing",
+        "Loop tiling"
+    ],
+    "references": [
+        "1527965259",
+        "1974470587",
+        "1988433362",
+        "2014033064",
+        "2038543880",
+        "2041482856",
+        "2112482891",
+        "2118735733",
+        "2119609467",
+        "2126338559",
+        "2142032243",
+        "2152506070",
+        "2152706734",
+        "2169071493",
+        "2170659171"
+    ]
+}

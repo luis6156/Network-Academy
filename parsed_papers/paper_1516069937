@@ -1,0 +1,52 @@
+{
+    "id": "1516069937",
+    "title": "Memory Management Techniques for Gang Scheduling",
+    "venue": "european conference on parallel processing",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "William Leinberger",
+            "id": "2002344080",
+            "org": "Army High Performance Computing and Research Center"
+        },
+        {
+            "name": "George Karypis",
+            "id": "219814910",
+            "org": "Army High Performance Computing and Research Center"
+        },
+        {
+            "name": "Vipin Kumar",
+            "id": "2161062602",
+            "org": "Army High Performance Computing and Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer multitasking",
+        "Interleaved memory",
+        "Gang scheduling",
+        "Job stream",
+        "Distributed computing",
+        "Memory management",
+        "Computer science",
+        "Uniform memory access",
+        "Distributed memory",
+        "Flat memory model"
+    ],
+    "references": [
+        "1487076132",
+        "1541858096",
+        "1545357179",
+        "1548019789",
+        "1585314083",
+        "1589576271",
+        "1964102716",
+        "2018007365",
+        "2072547926",
+        "2106293656",
+        "2117170988",
+        "2142404721",
+        "2170305808",
+        "2489559643"
+    ]
+}

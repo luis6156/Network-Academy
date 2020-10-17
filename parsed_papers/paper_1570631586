@@ -1,0 +1,79 @@
+{
+    "id": "1570631586",
+    "title": "An empirical investigation into path divergences for concolic execution using CREST",
+    "venue": "Security and Communication Networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ting Chen",
+            "id": "2883476692",
+            "org": "Institute of Big Data Security, Big Data Research Center, University of Electronic Science and Technology of China, Chengdu, China#TAB#"
+        },
+        {
+            "name": "Xiaodong Lin",
+            "id": "2129991588",
+            "org": "Faculty of Business and Information Technology, University of Ontario Institute of Technology, Oshawa, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Jin Huang",
+            "id": "2718297716",
+            "org": "Institute of Big Data Security, Big Data Research Center, University of Electronic Science and Technology of China, Chengdu, China#TAB#"
+        },
+        {
+            "name": "Abel Bacchus",
+            "id": "1997201438",
+            "org": "Faculty of Business and Information Technology, University of Ontario Institute of Technology, Oshawa, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Xiaosong Zhang",
+            "id": "2892837130",
+            "org": "Institute of Big Data Security, Big Data Research Center, University of Electronic Science and Technology of China, Chengdu, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Concolic testing",
+        "Empirical research",
+        "Test suite",
+        "Software",
+        "Program analysis",
+        "Countermeasure",
+        "Computer science",
+        "Completeness (statistics)",
+        "Soundness",
+        "Computer security"
+    ],
+    "references": [
+        "34311366",
+        "116894366",
+        "157156687",
+        "944802673",
+        "1480909796",
+        "1514350292",
+        "1604682921",
+        "1640714309",
+        "1710734607",
+        "1992485833",
+        "2002479196",
+        "2016094683",
+        "2017741580",
+        "2029121206",
+        "2048854494",
+        "2074273322",
+        "2096449544",
+        "2101512909",
+        "2107089133",
+        "2109092649",
+        "2109596254",
+        "2110311336",
+        "2115666255",
+        "2133612077",
+        "2136978836",
+        "2137530017",
+        "2138788987",
+        "2144123593",
+        "2154336465",
+        "2155539595",
+        "2161963160",
+        "2163499368"
+    ]
+}

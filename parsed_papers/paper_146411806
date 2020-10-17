@@ -1,0 +1,81 @@
+{
+    "id": "146411806",
+    "title": "Efficient password authenticated key exchange via oblivious transfer",
+    "venue": "public key cryptography",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ran Canetti",
+            "id": "687553606",
+            "org": "Tel Aviv University, Israel,Boston University#TAB#"
+        },
+        {
+            "name": "Dana Dachman-Soled",
+            "id": "72226276",
+            "org": "Microsoft Research New England#TAB#"
+        },
+        {
+            "name": "Vinod Vaikuntanathan",
+            "id": "330291328",
+            "org": "University of Toronto, Canada#TAB#"
+        },
+        {
+            "name": "Hoeteck Wee",
+            "id": "2156391733",
+            "org": "George Washington University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Oblivious transfer",
+        "Theoretical computer science",
+        "Factoring",
+        "Computer science",
+        "Password",
+        "Hash function",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "124221785",
+        "203500824",
+        "1495266644",
+        "1499934958",
+        "1503670812",
+        "1513096110",
+        "1516161674",
+        "1521253015",
+        "1528984509",
+        "1536074886",
+        "1537652141",
+        "1538909282",
+        "1551076855",
+        "1552333418",
+        "1572330878",
+        "1604454960",
+        "1611372029",
+        "1759759811",
+        "1773254929",
+        "1840749574",
+        "1979280691",
+        "1998784354",
+        "2033535959",
+        "2043188413",
+        "2078110310",
+        "2091020476",
+        "2095841131",
+        "2096939478",
+        "2101803085",
+        "2110804296",
+        "2113698290",
+        "2117307660",
+        "2117966590",
+        "2124926080",
+        "2130513648",
+        "2134475940",
+        "2138187106",
+        "2147436724",
+        "2152783950",
+        "2165111290",
+        "2167236842",
+        "2170220035"
+    ]
+}

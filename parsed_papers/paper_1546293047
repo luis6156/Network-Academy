@@ -1,0 +1,45 @@
+{
+    "id": "1546293047",
+    "title": "Fault tolerant anonymous channel",
+    "venue": "international conference on information and communication security",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Wakaha Ogata",
+            "id": "2058530354",
+            "org": "Himeji Institute of Technology"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Kazue Sako",
+            "id": "2151356658",
+            "org": "NEC Corporation"
+        },
+        {
+            "name": "Kazunori Takatani",
+            "id": "2275901702",
+            "org": "Himeji Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Communication channel",
+        "Mix network",
+        "Secret sharing",
+        "Computer network",
+        "Public-key cryptography",
+        "Fault tolerance"
+    ],
+    "references": [
+        "1663438288",
+        "2103647628",
+        "2168970529",
+        "2225180329"
+    ]
+}

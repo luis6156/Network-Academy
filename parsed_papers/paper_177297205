@@ -1,0 +1,76 @@
+{
+    "id": "177297205",
+    "title": "A unified approximate nearest neighbor search scheme by combining data structure and hashing",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Debing Zhang",
+            "id": "2097018285",
+            "org": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Genmao Yang",
+            "id": "2127090214",
+            "org": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Yao Hu",
+            "id": "2148141898",
+            "org": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Zhongming Jin",
+            "id": "2103608000",
+            "org": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Deng Cai",
+            "id": "2141500565",
+            "org": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        },
+        {
+            "name": "Xiaofei He",
+            "id": "2157503142",
+            "org": "State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Hash table",
+        "2-choice hashing",
+        "Computer science",
+        "Locality-sensitive hashing",
+        "Best bin first",
+        "Cover tree",
+        "Ball tree",
+        "Dynamic perfect hashing",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "17346433",
+        "1502916507",
+        "1627400044",
+        "1969241115",
+        "1992371516",
+        "2002844383",
+        "2024668293",
+        "2038276547",
+        "2067766814",
+        "2070074980",
+        "2074668987",
+        "2084363474",
+        "2099253838",
+        "2101562895",
+        "2118190603",
+        "2121713321",
+        "2122196799",
+        "2125378448",
+        "2128017662",
+        "2151103935",
+        "2171790913",
+        "2251864938",
+        "2292992741"
+    ]
+}

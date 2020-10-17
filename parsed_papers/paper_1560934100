@@ -1,0 +1,114 @@
+{
+    "id": "1560934100",
+    "title": "Towards a new distributed programming environment (CORDS)",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Jacob Slonim",
+            "id": "2100142661",
+            "org": "IBM Toronto Laboratory#TAB#"
+        },
+        {
+            "name": "Patrick J. Finnigan",
+            "id": "1249836351",
+            "org": "IBM Toronto Laboratory#TAB#"
+        },
+        {
+            "name": "Alberto Mendelson",
+            "id": "2072181559",
+            "org": "The University of Toronto#TAB#"
+        },
+        {
+            "name": "Toby J. Teorey",
+            "id": "2296287382",
+            "org": "The University of Michigan#TAB#"
+        },
+        {
+            "name": "Michael Anthony Bauer",
+            "id": "2194745422",
+            "org": "The University of Western Ontario#TAB#"
+        },
+        {
+            "name": "Paul Larson",
+            "id": "2342484835",
+            "org": "The University of Waterloo#TAB#"
+        },
+        {
+            "name": "Richard A. McBride",
+            "id": "2118435311",
+            "org": "The University of South Dakota#TAB#"
+        },
+        {
+            "name": "Yechiam Yemini",
+            "id": "2278076677",
+            "org": "Columbia University#TAB#"
+        },
+        {
+            "name": "Shaula Yemini",
+            "id": "2023329341",
+            "org": "IBM T. J. Watson Research Center, White Plains, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "DCE/RPC",
+        "Distributed algorithm",
+        "Distributed design patterns",
+        "Replication (computing)",
+        "Computer science",
+        "Middleware (distributed applications)",
+        "Distributed computing",
+        "Distributed concurrency control",
+        "Distributed object",
+        "Distributed System Security Architecture",
+        "Real-time computing"
+    ],
+    "references": [
+        "19830081",
+        "27245156",
+        "38717541",
+        "1485145428",
+        "1518817891",
+        "1522437708",
+        "1526163409",
+        "1569340163",
+        "1596968663",
+        "1724270112",
+        "1793782290",
+        "1893656880",
+        "1965105464",
+        "1968210840",
+        "1971708293",
+        "1973723007",
+        "1990896482",
+        "1992709202",
+        "1996422234",
+        "1997520998",
+        "2001438822",
+        "2019169732",
+        "2024385413",
+        "2038394915",
+        "2044590882",
+        "2050105321",
+        "2050622951",
+        "2052915895",
+        "2064650227",
+        "2070343246",
+        "2080468603",
+        "2093534044",
+        "2097526822",
+        "2102187481",
+        "2111720488",
+        "2112557722",
+        "2112648314",
+        "2119388734",
+        "2119558812",
+        "2135884941",
+        "2139037311",
+        "2142570346",
+        "2155001461",
+        "2155996966",
+        "2156762091",
+        "2163340868"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": "1557386039",
+    "title": "InterWeave: A Middleware System for Distributed Shared State",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "DeQing Chen",
+            "id": "2110169718",
+            "org": "University of Rochester"
+        },
+        {
+            "name": "Sandhya Dwarkadas",
+            "id": "19214967",
+            "org": "University of Rochester"
+        },
+        {
+            "name": "Srinivasan Parthasarathy",
+            "id": "2106796124",
+            "org": "University of Rochester"
+        },
+        {
+            "name": "Eduardo Pinheiro",
+            "id": "2799045899",
+            "org": "University of Rochester"
+        },
+        {
+            "name": "Michael L. Scott",
+            "id": "2122926523",
+            "org": "University of Rochester"
+        }
+    ],
+    "fields_of_study": [
+        "Critical section",
+        "Parallel computing",
+        "Release consistency",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Runtime system",
+        "Middleware",
+        "Timestamping",
+        "Remote procedure call"
+    ],
+    "references": [
+        "1498488995",
+        "1545893079",
+        "1757698436",
+        "1966287843",
+        "1973241464",
+        "1973501242",
+        "1978126256",
+        "1991494135",
+        "1992801171",
+        "2021804287",
+        "2025478843",
+        "2026015769",
+        "2061031304",
+        "2064526036",
+        "2068458655",
+        "2077400393",
+        "2082173519",
+        "2095090099",
+        "2098111776",
+        "2100665041",
+        "2103190863",
+        "2104848902",
+        "2111996486",
+        "2116001007",
+        "2121134342",
+        "2125267672",
+        "2126128624",
+        "2126356880",
+        "2133373086",
+        "2133766356",
+        "2135032959",
+        "2144171353",
+        "2145021036",
+        "2147342997",
+        "2154249608",
+        "2157079925",
+        "2163758100",
+        "2165365531",
+        "2176864362",
+        "2293608804",
+        "2295517818",
+        "2610296873"
+    ]
+}

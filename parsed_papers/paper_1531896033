@@ -1,0 +1,36 @@
+{
+    "id": "1531896033",
+    "title": "Near-optimal placement of MPI processes on hierarchical NUMA architectures",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Emmanuel Jeannot",
+            "id": "211912977",
+            "org": "LaBRI and INRIA Bordeaux Sud-Ouest#TAB#"
+        },
+        {
+            "name": "Guillaume Mercier",
+            "id": "2275528104",
+            "org": "LaBRI and INRIA Bordeaux Sud-Ouest and Institut Polytechnique de Bordeaux#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory hierarchy",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Architecture"
+    ],
+    "references": [
+        "1756027381",
+        "1789125946",
+        "1969215126",
+        "1969923711",
+        "2005851418",
+        "2094605327",
+        "2131239319",
+        "2159213417"
+    ]
+}

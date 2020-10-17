@@ -1,0 +1,72 @@
+{
+    "id": "1561636111",
+    "title": "The Traveling Salesrep Problem, Edge Assembly Crossover, and 2-opt",
+    "venue": "parallel problem solving from nature",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jean-Paul Watson",
+            "id": "2104243157",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "Charlie Ross",
+            "id": "2096480978",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "V. Eisele",
+            "id": "2565538423",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "J. Denton",
+            "id": "2703674778",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "Jose Bins",
+            "id": "1985403584",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "C. Guerra",
+            "id": "2424430902",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "L. Darrell Whitley",
+            "id": "1911861534",
+            "org": "Colorado State University"
+        },
+        {
+            "name": "Adele E. Howe",
+            "id": "2111752460",
+            "org": "Colorado State University"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Crossover",
+        "EAX mode",
+        "Computer science",
+        "Combinatorial optimization",
+        "Local search (optimization)",
+        "Population",
+        "2-opt",
+        "Genetic algorithm",
+        "Travelling salesman problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "54221576",
+        "161573364",
+        "1514048016",
+        "1528149415",
+        "1542631934",
+        "1604975506",
+        "2117396900",
+        "2142130292",
+        "2163528881"
+    ]
+}

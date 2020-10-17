@@ -1,0 +1,50 @@
+{
+    "id": "1563423869",
+    "title": "A Model-Based Framework for Security Policy Specification, Deployment and Testing",
+    "venue": "model driven engineering languages and systems",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "T. Mouelhi",
+            "id": "2776973474",
+            "org": "IT- Telecom Bretagne, France#TAB#"
+        },
+        {
+            "name": "Franck Fleurey",
+            "id": "2030045634",
+            "org": "SINTEF, Norway#TAB#"
+        },
+        {
+            "name": "Benoit Baudry",
+            "id": "2059819287",
+            "org": "INRIA/IRISA, France#TAB#"
+        },
+        {
+            "name": "Yves Le Traon",
+            "id": "2893067248",
+            "org": "IT- Telecom Bretagne, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Application security",
+        "Reliability engineering",
+        "Computer science",
+        "Role-based access control",
+        "Systems engineering",
+        "Software security assurance",
+        "Security policy",
+        "XACML",
+        "Fault injection",
+        "Fault model"
+    ],
+    "references": [
+        "1486178352",
+        "1524147119",
+        "2049695835",
+        "2097680452",
+        "2139983434",
+        "2140890531",
+        "2154765153"
+    ]
+}

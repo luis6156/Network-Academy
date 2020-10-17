@@ -1,0 +1,53 @@
+{
+    "id": "1644579816",
+    "title": "New level-3 BLAS kernels for cholesky factorization",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Fred G. Gustavson",
+            "id": "2077030820",
+            "org": "IBM Research, Emeritus, USA, Umea University, Sweden#TAB#"
+        },
+        {
+            "name": "Jerzy Wasniewski",
+            "id": "1860091609",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Jose R. Herrero",
+            "id": "2128317003",
+            "org": "Universitat Politecnica de Catalunya, BarcelonaTech, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cholesky decomposition",
+        "Factorization",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Source code",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Basic Linear Algebra Subprograms",
+        "Fortran",
+        "Linear algebra"
+    ],
+    "references": [
+        "44020937",
+        "1502159912",
+        "1504931814",
+        "1522470213",
+        "1571254452",
+        "1584723861",
+        "1986334759",
+        "1988457600",
+        "1994962371",
+        "2002257715",
+        "2026237859",
+        "2028122240",
+        "2042975873",
+        "2045960334",
+        "2124661136",
+        "2166737459"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "1524407627",
+    "title": "Rectangle Attacks on 49-Round SHACAL-1",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Technion"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Cryptography",
+        "Block cipher",
+        "SHACAL",
+        "Mathematics",
+        "Theoretical computer science",
+        "NESSIE",
+        "Rectangle",
+        "Hash function",
+        "Key size"
+    ],
+    "references": [
+        "52191336",
+        "1481366493",
+        "1518406241",
+        "1540066842",
+        "1870015754",
+        "1979802565",
+        "2095675261",
+        "2170677368"
+    ]
+}

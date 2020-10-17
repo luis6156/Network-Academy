@@ -1,0 +1,62 @@
+{
+    "id": "1728860260",
+    "title": "Integrating high-level optimizations in a production compiler: design and implementation experience",
+    "venue": "compiler construction",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Somnath Ghosh",
+            "id": "2293634527",
+            "org": "Intel(r) Compiler Laboratory, Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Abhay S. Kanhere",
+            "id": "2084638834",
+            "org": "Intel(r) Compiler Laboratory, Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Rakesh Krishnaiyer",
+            "id": "2227888367",
+            "org": "Intel(r) Compiler Laboratory, Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Dattatraya Kulkarni",
+            "id": "2119840752",
+            "org": "Intel(r) Compiler Laboratory, Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Wei Li",
+            "id": "2713007694",
+            "org": "Intel(r) Compiler Laboratory, Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "Chu-Cheow Lim",
+            "id": "2696238201",
+            "org": "Intel(r) Compiler Laboratory, Intel Corporation, Santa Clara, CA#TAB#"
+        },
+        {
+            "name": "John L. Ng",
+            "id": "2405409556",
+            "org": "Intel(r) Compiler Laboratory, Intel Corporation, Santa Clara, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Itanium",
+        "Computer architecture",
+        "Computer science",
+        "Compiler",
+        "Compiler construction",
+        "Floating point"
+    ],
+    "references": [
+        "1494930385",
+        "1595858234",
+        "1976058961",
+        "2068562880",
+        "2095950905",
+        "2112482891",
+        "2114067856",
+        "2157758640"
+    ]
+}

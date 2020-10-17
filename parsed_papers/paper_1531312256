@@ -1,0 +1,55 @@
+{
+    "id": "1531312256",
+    "title": "Flexible Data Cubes for Online Aggregation",
+    "venue": "international conference on database theory",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Mirek Riedewald",
+            "id": "2128393815",
+            "org": "University of California"
+        },
+        {
+            "name": "Divyakant Agrawal",
+            "id": "2169544959",
+            "org": "University of California"
+        },
+        {
+            "name": "Amr El Abbadi",
+            "id": "2716532057",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Online analytical processing",
+        "Speedup",
+        "Computer science",
+        "Curse of dimensionality",
+        "Correctness",
+        "Online aggregation",
+        "MOLAP",
+        "Range query (data structures)",
+        "Data cube"
+    ],
+    "references": [
+        "1504598991",
+        "1517994583",
+        "1534133247",
+        "1538267625",
+        "1577196345",
+        "1976590378",
+        "1998244781",
+        "2007625694",
+        "2036560106",
+        "2045604576",
+        "2071425575",
+        "2092103580",
+        "2103201239",
+        "2113888164",
+        "2114712170",
+        "2126652202",
+        "2143401113",
+        "2614663664"
+    ]
+}

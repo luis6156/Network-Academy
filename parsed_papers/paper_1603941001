@@ -1,0 +1,40 @@
+{
+    "id": "1603941001",
+    "title": "Redux: A Dynamic Dataflow Tracer",
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nicholas Nethercote",
+            "id": "2278577441",
+            "org": "Computer Laboratory, University of Cambridge, Cambridge, United Kingdom"
+        },
+        {
+            "name": "Alan Mycroft",
+            "id": "163000670",
+            "org": "Computer Laboratory, University of Cambridge, Cambridge, United Kingdom"
+        }
+    ],
+    "fields_of_study": [
+        "Program slicing",
+        "Theoretical computer science",
+        "Computation",
+        "Computer science",
+        "Tracing",
+        "Graph",
+        "System call",
+        "Dataflow",
+        "Redux",
+        "Programming language",
+        "Debugging"
+    ],
+    "references": [
+        "1514171102",
+        "1984248430",
+        "1984846967",
+        "2038856365",
+        "2047229718",
+        "2092483417",
+        "2129192659"
+    ]
+}

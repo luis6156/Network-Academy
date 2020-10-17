@@ -1,0 +1,75 @@
+{
+    "id": "1608052467",
+    "title": "The design and implementation of O2, an object-oriented database system",
+    "venue": "International Workshop on Object-Oriented Database Systems",
+    "year": 1988,
+    "authors": [
+        {
+            "name": "Francois Bancilhon",
+            "id": "2618040421",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Gilles Barbedette",
+            "id": "2659630805",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Veronique Benzaken",
+            "id": "2776796468",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Claude Delobel",
+            "id": "2777983257",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Sophie Gamerman",
+            "id": "2023575594",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Christophe Lecluse",
+            "id": "317744942",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Patrick Pfeffer",
+            "id": "2664486424",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Philippe Richard",
+            "id": "2098852082",
+            "org": "BP 105, France"
+        },
+        {
+            "name": "Fernando Velez",
+            "id": "2174081453",
+            "org": "BP 105, France"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented design",
+        "Database tuning",
+        "Database schema",
+        "Database model",
+        "Component-oriented database",
+        "Computer science",
+        "Physical data model",
+        "Database",
+        "Database design",
+        "Architecture"
+    ],
+    "references": [
+        "1770006921",
+        "2027657506",
+        "2036862988",
+        "2061031304",
+        "2145452360",
+        "2156508954",
+        "2173184982",
+        "2686043342"
+    ]
+}

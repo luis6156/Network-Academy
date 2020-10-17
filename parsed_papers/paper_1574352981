@@ -1,0 +1,48 @@
+{
+    "id": "1574352981",
+    "title": "Using Multithreading for the Automatic Load Balancing of Adaptive Finite Element Meshes",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gerd Heber",
+            "id": "2266159718",
+            "org": "University of Delaware"
+        },
+        {
+            "name": "Rupak Biswas",
+            "id": "2135397521",
+            "org": "MRJ"
+        },
+        {
+            "name": "Parimala Thulasiraman",
+            "id": "373078722",
+            "org": "University of Delaware"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "University of Delaware"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Finite element method",
+        "Workload",
+        "Multithreading",
+        "Runtime system",
+        "Adaptive algorithm",
+        "Computational geometry",
+        "Mesh generation",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1819476060",
+        "1896968490",
+        "1984872340",
+        "2083085226",
+        "2109189514",
+        "2122146970"
+    ]
+}

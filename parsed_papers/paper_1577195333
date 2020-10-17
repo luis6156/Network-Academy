@@ -1,0 +1,70 @@
+{
+    "id": "1577195333",
+    "title": "Many-Threaded Differential Evolution on the GPU",
+    "venue": "Massively Parallel Evolutionary Computation on GPGPUs",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Pavel Kromer",
+            "id": "2099256648",
+            "org": "IT4Innovations, VSB - Technical University of Ostrava"
+        },
+        {
+            "name": "Jan Platos",
+            "id": "1203227207",
+            "org": "IT4Innovations, VSB - Technical University of Ostrava"
+        },
+        {
+            "name": "Vaclav Snasel",
+            "id": "139560512",
+            "org": "IT4Innovations, VSB - Technical University of Ostrava"
+        },
+        {
+            "name": "Ajith Abraham",
+            "id": "2345075623",
+            "org": "IT4Innovations, VSB - Technical University of Ostrava"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Multi-core processor",
+        "Computer science",
+        "FLOPS",
+        "Differential evolution",
+        "Giga-",
+        "CUDA",
+        "Data structure",
+        "Architecture",
+        "Metaheuristic"
+    ],
+    "references": [
+        "1480464059",
+        "1527837582",
+        "1556043300",
+        "1586603169",
+        "1595159159",
+        "1607768087",
+        "1824313915",
+        "1963923057",
+        "1997527098",
+        "2002759390",
+        "2003755947",
+        "2025397485",
+        "2063980384",
+        "2066158608",
+        "2088059588",
+        "2089419496",
+        "2105432038",
+        "2107795961",
+        "2123969596",
+        "2139820193",
+        "2141179376",
+        "2147450326",
+        "2149065651",
+        "2150400602",
+        "2157371713",
+        "2272121543",
+        "2482669504"
+    ]
+}

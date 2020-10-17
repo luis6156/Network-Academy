@@ -1,0 +1,70 @@
+{
+    "id": "1566543257",
+    "title": "On the Insecurity of the Fiat-Shamir Signatures with Iterative Hash Functions",
+    "venue": "provable security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Eiichiro Fujisaki",
+            "id": "2894957720",
+            "org": "NTT, Tokyo, Japan 180-8585#TAB#"
+        },
+        {
+            "name": "Ryo Nishimaki",
+            "id": "1894605581",
+            "org": "NTT, Tokyo, Japan 180-8585#TAB#"
+        },
+        {
+            "name": "Keisuke Tanaka",
+            "id": "2165706190",
+            "org": "Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, Tokyo, Japan 152-8552#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash chain",
+        "Hash function",
+        "Hash filter",
+        "SWIFFT",
+        "Double hashing",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "299586966",
+        "1489642236",
+        "1495266644",
+        "1526778951",
+        "1526993157",
+        "1532874975",
+        "1549228503",
+        "1558423924",
+        "1559365371",
+        "1566256504",
+        "1589034595",
+        "1600032982",
+        "1600432225",
+        "1604454960",
+        "1689385595",
+        "1939171670",
+        "2002919335",
+        "2002930326",
+        "2052267638",
+        "2097638666",
+        "2099783882",
+        "2120154759",
+        "2126661026",
+        "2137923131",
+        "2151413173",
+        "2152688060",
+        "2153825963",
+        "2156912159",
+        "2159339434",
+        "2166462813",
+        "2169194339",
+        "2403237970"
+    ]
+}

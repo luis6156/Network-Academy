@@ -1,0 +1,49 @@
+{
+    "id": "1604746990",
+    "title": "A Reputation System to Increase MIX-Net Reliability",
+    "venue": "information hiding",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Roger Dingledine",
+            "id": "2046591593",
+            "org": "Reputation Technologies, Inc"
+        },
+        {
+            "name": "Michael J. Freedman",
+            "id": "2144033718",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "David Hopwood",
+            "id": "2709401407",
+            "org": "Independent consultant"
+        },
+        {
+            "name": "David Molnar",
+            "id": "2479599456",
+            "org": "Harvard University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Reputation system",
+        "Correctness",
+        "Systems design",
+        "Client"
+    ],
+    "references": [
+        "1516512945",
+        "1551436681",
+        "1566461722",
+        "1887037345",
+        "1932868796",
+        "2103647628",
+        "2108668142",
+        "2295017432"
+    ]
+}

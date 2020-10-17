@@ -1,0 +1,48 @@
+{
+    "id": "1587934423",
+    "title": "FPGA implementation of hopfield networks for systems identification",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hafida Boumeridja",
+            "id": "2396899078",
+            "org": "Departamento de Tecnologia Electronica, Universidad de Malaga, Spain#TAB#"
+        },
+        {
+            "name": "Miguel Atencia",
+            "id": "2034629753",
+            "org": "Departamento de Matematica Aplicada, Universidad de Malaga, Malaga, Spain#TAB#"
+        },
+        {
+            "name": "Gonzalo Joya",
+            "id": "2127143398",
+            "org": "Departamento de Tecnologia Electronica, Universidad de Malaga, Spain#TAB#"
+        },
+        {
+            "name": "F. Sandoval",
+            "id": "2119311098",
+            "org": "Departamento de Tecnologia Electronica, Universidad de Malaga, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System identification",
+        "Simulation",
+        "Hopfield network",
+        "VHDL",
+        "Register-transfer level",
+        "Dynamical systems theory",
+        "Computer science",
+        "Distributed computing",
+        "Control theory",
+        "Artificial neural network",
+        "Real-time computing",
+        "Hardware description language"
+    ],
+    "references": [
+        "117987027",
+        "1524093576",
+        "1597293530",
+        "2128299841"
+    ]
+}

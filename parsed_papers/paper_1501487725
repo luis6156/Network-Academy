@@ -1,0 +1,46 @@
+{
+    "id": "1501487725",
+    "title": "Improved related-key boomerang attacks on round-reduced threefish-512",
+    "venue": "information security practice and experience",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jiazhe Chen",
+            "id": "2628488035",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Keting Jia",
+            "id": "2644413635",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Threefish",
+        "Mathematics",
+        "Key-recovery attack",
+        "Block size",
+        "Block cipher",
+        "Theoretical computer science",
+        "Boomerang attack",
+        "Computer security",
+        "Slide attack",
+        "Hash function",
+        "Skein"
+    ],
+    "references": [
+        "52191336",
+        "106392311",
+        "1503389453",
+        "1504341594",
+        "1515958737",
+        "1540066842",
+        "1590269592",
+        "1656731780",
+        "1866609797",
+        "1870015754",
+        "1979802565",
+        "2103239853",
+        "2611506938"
+    ]
+}

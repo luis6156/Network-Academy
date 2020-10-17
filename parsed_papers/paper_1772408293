@@ -1,0 +1,63 @@
+{
+    "id": "1772408293",
+    "title": "A multichannel Markov random field approach for automated segmentation of breast cancer tumor in DCE-MRI data using kinetic observation model",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ahmed Bilal Ashraf",
+            "id": "2143182921",
+            "org": "The University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Sara Gavenonis",
+            "id": "2087664892",
+            "org": "The University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Dania Daye",
+            "id": "2061729091",
+            "org": "The University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Carolyn Mies",
+            "id": "2167519616",
+            "org": "The University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Michael Feldman",
+            "id": "2098105531",
+            "org": "The University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Mark A. Rosen",
+            "id": "2422113678",
+            "org": "The University of Pennsylvania, Philadelphia, PA#TAB#"
+        },
+        {
+            "name": "Despina Kontos",
+            "id": "2021321568",
+            "org": "The University of Pennsylvania, Philadelphia, PA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Correlation coefficient",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Linear prediction",
+        "Markov random field",
+        "Markov chain",
+        "Conditional independence",
+        "Random field",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1599270913",
+        "2104095591",
+        "2104125540",
+        "2136573752"
+    ]
+}

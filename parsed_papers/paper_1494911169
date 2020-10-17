@@ -1,0 +1,54 @@
+{
+    "id": "1494911169",
+    "title": "A generic method for secure Sbox implementation",
+    "venue": "workshop on information security applications",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Emmanuel Prouff",
+            "id": "50202740",
+            "org": "Oberthur Card Systems, Nanterre Cedex, France#TAB#"
+        },
+        {
+            "name": "Matthieu Rivain",
+            "id": "2323075243",
+            "org": "University of Luxembourg, Faculty of Sciences, Technology and Communication, Luxembourg and Oberthur Card Systems, Nanterre Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Software",
+        "Heuristics",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Computer security",
+        "Power analysis",
+        "Cryptosystem",
+        "AES implementations"
+    ],
+    "references": [
+        "1482353292",
+        "1503689022",
+        "1506890909",
+        "1512062395",
+        "1515909117",
+        "1522181683",
+        "1548656471",
+        "1562542037",
+        "1569151289",
+        "1748081333",
+        "1897761346",
+        "2066425771",
+        "2096133993",
+        "2127752881",
+        "2144952508",
+        "2145829971",
+        "2149019291",
+        "2163432699",
+        "2170478686",
+        "2612208439"
+    ]
+}

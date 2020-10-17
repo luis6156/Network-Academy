@@ -1,0 +1,75 @@
+{
+    "id": "1714058014",
+    "title": "Certificateless KEM and hybrid signcryption schemes revisited",
+    "venue": "information security practice and experience",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "S. Sharmila Deva Selvi",
+            "id": "2139518972",
+            "org": "Theoretical Computer Science Lab, Department of Computer Science and Engineering, Indian Institute of Technology Madras, India#TAB#"
+        },
+        {
+            "name": "S. Sree Vivek",
+            "id": "2170226917",
+            "org": "Theoretical Computer Science Lab, Department of Computer Science and Engineering, Indian Institute of Technology Madras, India#TAB#"
+        },
+        {
+            "name": "C. Pandu Rangan",
+            "id": "2304742061",
+            "org": "Theoretical Computer Science Lab, Department of Computer Science and Engineering, Indian Institute of Technology Madras, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Signcryption",
+        "Cryptography",
+        "Theoretical computer science",
+        "Computer science",
+        "Computer security",
+        "Certificateless cryptography",
+        "Hybrid cryptosystem",
+        "Random oracle",
+        "Public-key cryptography",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "68013446",
+        "1480306048",
+        "1486255205",
+        "1489428282",
+        "1491611975",
+        "1495266644",
+        "1510433380",
+        "1516634197",
+        "1524651855",
+        "1569083856",
+        "1591524234",
+        "1592092778",
+        "1599446772",
+        "1604454960",
+        "1606669319",
+        "1655958391",
+        "1669988844",
+        "1760090598",
+        "1832688593",
+        "1970067670",
+        "1990448153",
+        "1991914881",
+        "2050773464",
+        "2060411097",
+        "2087811006",
+        "2100833413",
+        "2103627472",
+        "2103647628",
+        "2145721479",
+        "2148437174",
+        "2149864260",
+        "2156186849",
+        "2157679418",
+        "2162823500",
+        "2163674653",
+        "2246508371",
+        "2493686639"
+    ]
+}

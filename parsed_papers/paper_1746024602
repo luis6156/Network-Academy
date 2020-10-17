@@ -1,0 +1,57 @@
+{
+    "id": "1746024602",
+    "title": "Efficient constructions of variable-input-length block ciphers",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sarvar Patel",
+            "id": "2125066154",
+            "org": "Lucent Technologies#TAB#"
+        },
+        {
+            "name": "Zulfikar Ramzan",
+            "id": "2777617213",
+            "org": "DoCoMo Communications Laboratories#TAB#"
+        },
+        {
+            "name": "Ganapathy Subramanian Sundaram",
+            "id": "2489548834",
+            "org": "Lucent Technologies#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Ciphertext stealing",
+        "Transposition cipher",
+        "Discrete mathematics",
+        "Residual block termination",
+        "Stream cipher",
+        "Triple DES",
+        "CBC-MAC",
+        "Substitution-permutation network",
+        "Pseudorandom permutation"
+    ],
+    "references": [
+        "1511186238",
+        "1528724153",
+        "1538319178",
+        "1544859938",
+        "1549228503",
+        "1552165081",
+        "1578627459",
+        "1966364100",
+        "1981670729",
+        "1985263989",
+        "1985623009",
+        "2022521688",
+        "2052207834",
+        "2077300005",
+        "2117362057",
+        "2122984309",
+        "2138992486",
+        "2148555789",
+        "2568739026",
+        "2583867362"
+    ]
+}

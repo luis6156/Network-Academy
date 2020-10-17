@@ -1,0 +1,48 @@
+{
+    "id": "1605310998",
+    "title": "Data Consistency in Hard Real-Time Systems.",
+    "venue": "Informatica (slovenia)",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Neil C. Audsley",
+            "id": "2095764548",
+            "org": "Real-Time Systems Group|Department of Computer Science|University of York"
+        },
+        {
+            "name": "Alan Burns",
+            "id": "2344101015",
+            "org": "Real-Time Systems Group|Department of Computer Science|University of York"
+        },
+        {
+            "name": "Mike F. Richardson",
+            "id": "2114430981",
+            "org": "Real-Time Systems Group|Department of Computer Science|University of York"
+        },
+        {
+            "name": "Andy J. Wellings",
+            "id": "2200599847",
+            "org": "Real-Time Systems Group|Department of Computer Science|University of York"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential consistency",
+        "Computer science",
+        "Distributed computing",
+        "Data consistency",
+        "Concurrency control",
+        "Systems design",
+        "Real-time computing",
+        "Consistency model"
+    ],
+    "references": [
+        "1485093219",
+        "1991199257",
+        "1992044086",
+        "2007769799",
+        "2025597900",
+        "2060098605",
+        "2110427107",
+        "2112848343"
+    ]
+}

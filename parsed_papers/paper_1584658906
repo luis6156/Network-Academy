@@ -1,0 +1,41 @@
+{
+    "id": "1584658906",
+    "title": "Understanding Memory Management in Prolog Systems",
+    "venue": "international conference on logic programming",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Luis Fernando Castro",
+            "id": "2160692977",
+            "org": "SUNY at Stony Brook"
+        },
+        {
+            "name": "Vitor Santos Costa",
+            "id": "2104007874",
+            "org": "Universidade Federaldo Rio de Janeiro"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Stack (abstract data type)",
+        "Memory management",
+        "Garbage",
+        "Manual memory management",
+        "Prolog",
+        "Backtracking",
+        "Memory leak"
+    ],
+    "references": [
+        "1480567662",
+        "1571035569",
+        "1583464938",
+        "1786127122",
+        "2005058894",
+        "2040704129",
+        "2155247860",
+        "2612962685"
+    ]
+}

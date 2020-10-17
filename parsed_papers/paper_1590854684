@@ -1,0 +1,56 @@
+{
+    "id": "1590854684",
+    "title": "An Overview of HAL",
+    "venue": "principles and practice of constraint programming",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Bart Demoen",
+            "id": "713720536",
+            "org": "K.U.Leuven"
+        },
+        {
+            "name": "Maria J. Garcia de la Banda",
+            "id": "1997738564",
+            "org": "Monash University"
+        },
+        {
+            "name": "Warwick Harvey",
+            "id": "2100156535",
+            "org": "Monash University"
+        },
+        {
+            "name": "Kim Marriott",
+            "id": "2139022045",
+            "org": "Monash University"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "University of Melbourne"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Constraint satisfaction problem",
+        "Theoretical computer science",
+        "Computer science",
+        "Constraint satisfaction",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Backtracking"
+    ],
+    "references": [
+        "76250598",
+        "197330948",
+        "1493144449",
+        "1586826229",
+        "1982243747",
+        "2008533943",
+        "2060498389",
+        "2079333278",
+        "2612229240"
+    ]
+}

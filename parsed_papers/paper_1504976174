@@ -1,0 +1,76 @@
+{
+    "id": "1504976174",
+    "title": "HeapTherapy: An Efficient End-to-End Solution against Heap Buffer Overflows",
+    "venue": "dependable systems and networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Qiang Zeng",
+            "id": "2251003839",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        },
+        {
+            "name": "Mingyi Zhao",
+            "id": "2104023260",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        },
+        {
+            "name": "Peng Liu",
+            "id": "2428201908",
+            "org": "Pennsylvania State Univ., University Park, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Exploit",
+        "Software bug",
+        "Computer science",
+        "Distributed computing",
+        "Heartbleed",
+        "Heap (data structure)",
+        "Buffer overflow",
+        "Spec#",
+        "Heap overflow",
+        "Real-time computing"
+    ],
+    "references": [
+        "1499992849",
+        "1502476232",
+        "1520941164",
+        "1525451871",
+        "1535713556",
+        "1545927878",
+        "1579850852",
+        "1655226010",
+        "1878544538",
+        "1946775303",
+        "1977325135",
+        "2010990718",
+        "2081768685",
+        "2102970979",
+        "2108860402",
+        "2109219878",
+        "2110137598",
+        "2112736324",
+        "2117115928",
+        "2119055825",
+        "2121579803",
+        "2123886726",
+        "2130745898",
+        "2136651729",
+        "2136938453",
+        "2139165932",
+        "2140073981",
+        "2140147547",
+        "2144300381",
+        "2154795299",
+        "2156858199",
+        "2157575657",
+        "2165100126",
+        "2165952552",
+        "2167332015",
+        "2171906256",
+        "2171938395",
+        "2399284314"
+    ]
+}

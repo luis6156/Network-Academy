@@ -1,0 +1,42 @@
+{
+    "id": "1488916099",
+    "title": "True random number generators secure in a changing environment",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Boaz Barak",
+            "id": "2199786071",
+            "org": "Weizmann Institute of Science"
+        },
+        {
+            "name": "Ronen Shaltiel",
+            "id": "264828671",
+            "org": "Weizmann Institute of Science"
+        },
+        {
+            "name": "Eran Tromer",
+            "id": "349649168",
+            "org": "Weizmann Institute of Science"
+        }
+    ],
+    "fields_of_study": [
+        "Statistical distance",
+        "Mathematics",
+        "Randomness extractor",
+        "Theoretical computer science",
+        "Hash function",
+        "Distributed computing",
+        "Randomness tests",
+        "Random number generation",
+        "Uniform distribution (continuous)",
+        "Adversary",
+        "Entropy (information theory)"
+    ],
+    "references": [
+        "1977568210",
+        "1985623009",
+        "2060474153",
+        "2114924587"
+    ]
+}

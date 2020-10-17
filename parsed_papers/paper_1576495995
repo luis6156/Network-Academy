@@ -1,0 +1,35 @@
+{
+    "id": "1576495995",
+    "title": "Differential cryptanalysis of feal and N-hash",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "The Weizmann Institute of Science, Department of Applied Mathematics and Computer Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "The Weizmann Institute of Science, Department of Applied Mathematics and Computer Science, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "FEAL",
+        "Piling-up lemma",
+        "Impossible differential cryptanalysis",
+        "Boomerang attack",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "N-Hash"
+    ],
+    "references": [
+        "1629301835",
+        "2128856149"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1544002045",
+    "title": "Cyclic allocation of two-dimensional data",
+    "venue": "international conference on data engineering",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Sunil Prabhakar",
+            "id": "2119765128",
+            "org": "Dept. of Comput. Sci., California Univ., Santa Barbara, CA, USA"
+        },
+        {
+            "name": "Khaled A. S. Abdel-Ghaffar",
+            "id": "2042379700",
+            "org": "University of California at Santa Barbara"
+        },
+        {
+            "name": "Divyakant Agrawal",
+            "id": "2169544959",
+            "org": "University of California at Santa Barbara"
+        },
+        {
+            "name": "A. El Abbadi",
+            "id": "2055247794",
+            "org": "University of California at Santa Barbara"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Data mining",
+        "Database",
+        "Static memory allocation"
+    ],
+    "references": [
+        "1546065898",
+        "2041989747",
+        "2052695126",
+        "2075280207",
+        "2151367350",
+        "2165184718"
+    ]
+}

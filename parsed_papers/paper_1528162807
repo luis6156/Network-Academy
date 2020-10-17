@@ -1,0 +1,51 @@
+{
+    "id": "1528162807",
+    "title": "JToe: a Java API for object exchange",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Serge Chaumette",
+            "id": "376985178",
+            "org": "Laboratoire Bordelais de Recherche en Informatique, Universite Bordeaux 1, 351, cours de la Liberation, 33405 Talence Cedex, France"
+        },
+        {
+            "name": "Pascal Grange",
+            "id": "2697471481",
+            "org": "Laboratoire Bordelais de Recherche en Informatique, Universite Bordeaux 1, 351, cours de la Liberation, 33405 Talence Cedex, France"
+        },
+        {
+            "name": "B. Metrot",
+            "id": "2402406029",
+            "org": "Laboratoire Bordelais de Recherche en Informatique, Universite Bordeaux 1, 351, cours de la Liberation, 33405 Talence Cedex, France"
+        },
+        {
+            "name": "Pierre Vigneras",
+            "id": "129414126",
+            "org": "Laboratoire Bordelais de Recherche en Informatique, Universite Bordeaux 1, 351, cours de la Liberation, 33405 Talence Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Parallel computing",
+        "Generics in Java",
+        "Computer science",
+        "BasicCard",
+        "Java annotation",
+        "Java concurrency",
+        "Application programming interface",
+        "Database",
+        "strictfp",
+        "Java API for XML-based RPC",
+        "Programming language"
+    ],
+    "references": [
+        "1543243188",
+        "1595141187",
+        "1988336128",
+        "2067748597",
+        "2102710209",
+        "2148773869",
+        "2166169060"
+    ]
+}

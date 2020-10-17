@@ -1,0 +1,67 @@
+{
+    "id": "1626210897",
+    "title": "Metadata considered harmful ... to deduplication",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Xing Lin",
+            "id": "2378762752",
+            "org": "University of Utah#TAB#"
+        },
+        {
+            "name": "Fred Douglis",
+            "id": "202340837",
+            "org": "EMC Corp.#TAB#"
+        },
+        {
+            "name": "Jim Li",
+            "id": "2274419240",
+            "org": "EMC Corp.#TAB#"
+        },
+        {
+            "name": "Xudong Li",
+            "id": "2703256404",
+            "org": "Nankai University#TAB#"
+        },
+        {
+            "name": "Robert Ricci",
+            "id": "2121971940",
+            "org": "University of Utah#TAB#"
+        },
+        {
+            "name": "Stephen Smaldone",
+            "id": "1999289152",
+            "org": "EMC Corp.#TAB#"
+        },
+        {
+            "name": "Grant Wallace",
+            "id": "2286689323",
+            "org": "EMC Corp.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Considered harmful",
+        "Data deduplication",
+        "Metadata",
+        "Database",
+        "Information retrieval",
+        "File format"
+    ],
+    "references": [
+        "22807665",
+        "24740120",
+        "69510097",
+        "120798314",
+        "178328500",
+        "200233886",
+        "1248878331",
+        "1901266868",
+        "1971212200",
+        "2056980397",
+        "2158935814",
+        "2408052048"
+    ]
+}

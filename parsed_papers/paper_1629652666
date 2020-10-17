@@ -1,0 +1,69 @@
+{
+    "id": "1629652666",
+    "title": "A solution to the network challenges of data recovery in erasure-coded distributed storage systems: a study on the Facebook warehouse cluster",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "K. V. Rashmi",
+            "id": "1658661947",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Nihar B. Shah",
+            "id": "2116323195",
+            "org": "UC Berkeley#TAB#"
+        },
+        {
+            "name": "Dikang Gu",
+            "id": "2171679408",
+            "org": "Facebook#TAB#"
+        },
+        {
+            "name": "Hairong Kuang",
+            "id": "2310257455",
+            "org": "Facebook#TAB#"
+        },
+        {
+            "name": "Dhruba Borthakur",
+            "id": "2018219830",
+            "org": "Facebook#TAB#"
+        },
+        {
+            "name": "Kannan Ramchandran",
+            "id": "2205924584",
+            "org": "UC Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data recovery",
+        "Terabyte",
+        "Missing data",
+        "Computer science",
+        "Distributed computing",
+        "Erasure",
+        "Erasure code",
+        "Distributed data store",
+        "Storage efficiency",
+        "Computer network",
+        "Distributed File System"
+    ],
+    "references": [
+        "154253821",
+        "330091898",
+        "1510496002",
+        "1529946666",
+        "1836955865",
+        "2061649200",
+        "2114708944",
+        "2119087823",
+        "2119565742",
+        "2138744797",
+        "2141222886",
+        "2150777202",
+        "2154063365",
+        "2158646168",
+        "2161234420",
+        "2166552352"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1581724641",
+    "title": "Fast real-time job selection with resource constraints under earliest deadline first",
+    "venue": "international conference on embedded computer systems architectures modeling and simulation",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sangchul Han",
+            "id": "2156204975",
+            "org": "School of Electrical Engineering and Computer Science, Seoul National University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Moonju Park",
+            "id": "2161310458",
+            "org": "Mobile Hanset R&D Center, LG Electronics, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Yookun Cho",
+            "id": "2138978747",
+            "org": "School of Electrical Engineering and Computer Science, Seoul National University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Job queue",
+        "Selection algorithm",
+        "Job scheduler",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Real-time computing",
+        "Rate-monotonic scheduling",
+        "Least slack time scheduling"
+    ],
+    "references": [
+        "1513961946",
+        "1797271790",
+        "1983252028",
+        "2093100591",
+        "2103402149",
+        "2160293203"
+    ]
+}

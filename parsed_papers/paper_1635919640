@@ -1,0 +1,40 @@
+{
+    "id": "1635919640",
+    "title": "A Suite of Analysis Tools Based on a General Purpose Abstract Interpreter",
+    "venue": "compiler construction",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Thomas E. Cheatham",
+            "id": "2097530982",
+            "org": "Harvard University"
+        },
+        {
+            "name": "Haiming Gao",
+            "id": "2277010060",
+            "org": "Harvard University"
+        },
+        {
+            "name": "Dan C. Stefanescu",
+            "id": "1994038685",
+            "org": "Harvard University"
+        }
+    ],
+    "fields_of_study": [
+        "Interpreter",
+        "Computer science",
+        "Abstract interpretation",
+        "Lambda calculus",
+        "Suite",
+        "Call site",
+        "Programming language"
+    ],
+    "references": [
+        "2004971560",
+        "2005958145",
+        "2043100293",
+        "2045271686",
+        "2068711880",
+        "2161044171"
+    ]
+}

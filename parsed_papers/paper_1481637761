@@ -1,0 +1,43 @@
+{
+    "id": "1481637761",
+    "title": "Design and automatic code generation of a two-dimensional fast cosine transform for SIMD DSP architectures",
+    "venue": "european signal processing conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Arne Lehmann",
+            "id": "2628141671",
+            "org": "Vodafone Chair for Mobile Communications, Technische Universitat Dresden, 01062, Germany"
+        },
+        {
+            "name": "Juan Pablo Robelly",
+            "id": "2513114741",
+            "org": "Vodafone Chair for Mobile Communications, Technische Universitat Dresden, 01062, Germany"
+        },
+        {
+            "name": "Gerhard P. Fettweis",
+            "id": "2184435702",
+            "org": "Vodafone Chair for Mobile Communications, Technische Universitat Dresden, 01062, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete cosine transform",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Lapped transform",
+        "Discrete Fourier transform (general)",
+        "Discrete Fourier transform",
+        "Fast Fourier transform",
+        "Code generation",
+        "Multidimensional signal processing",
+        "Multilinear algebra"
+    ],
+    "references": [
+        "1577420679",
+        "1993363272",
+        "2019764548",
+        "2089086379",
+        "2109184386"
+    ]
+}

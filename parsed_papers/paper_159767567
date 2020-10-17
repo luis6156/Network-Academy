@@ -1,0 +1,74 @@
+{
+    "id": "159767567",
+    "title": "Prior-Based automatic segmentation of the carotid artery lumen in TOF MRA (PASCAL)",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jana Hutter",
+            "id": "2109072393",
+            "org": "Pattern Recognition Lab, University Erlangen-Nuremberg, Germany, School of Advanced Optical Technologies, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Hannes G. Hofmann",
+            "id": "2172279957",
+            "org": "Pattern Recognition Lab, University Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Robert Grimm",
+            "id": "2184256396",
+            "org": "Pattern Recognition Lab, University Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Andreas Greiser",
+            "id": "1944934803",
+            "org": "Siemens Healthcare, Magnetic Resonance, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Marc Saake",
+            "id": "1323712879",
+            "org": "Department of Neuroradiology, University Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Joachim Hornegger",
+            "id": "51092151",
+            "org": "Pattern Recognition Lab, University Erlangen-Nuremberg, Germany, School of Advanced Optical Technologies, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Arnd Dorfler",
+            "id": "1959577728",
+            "org": "Department of Neuroradiology, University Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Peter Schmitt",
+            "id": "2073238581",
+            "org": "Siemens Healthcare, Magnetic Resonance, Erlangen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Magnetic resonance angiography",
+        "Segmentation",
+        "Pattern recognition",
+        "Computer science",
+        "Computed tomography angiography",
+        "Artery",
+        "Radiology",
+        "Blood flow",
+        "Mean squared error",
+        "Level set",
+        "Nuclear medicine",
+        "Lumen (unit)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1519716300",
+        "1554799555",
+        "1580174329",
+        "1715198911",
+        "1979393293",
+        "2027343742",
+        "2051914121",
+        "2127890285",
+        "2141675768"
+    ]
+}

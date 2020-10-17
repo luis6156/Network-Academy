@@ -1,0 +1,55 @@
+{
+    "id": "1587449012",
+    "title": "Reasoning about threads communicating via locks",
+    "venue": "computer aided verification",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Vineet Kahlon",
+            "id": "128685082",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Franjo Ivancic",
+            "id": "1733004998",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        },
+        {
+            "name": "Aarti Gupta",
+            "id": "2129619966",
+            "org": "NEC Labs America, Princeton, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Readers-writers problem",
+        "Monitor",
+        "Algorithm",
+        "Process (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Java concurrency",
+        "Concurrency",
+        "Concurrent data structure",
+        "Green threads"
+    ],
+    "references": [
+        "298244054",
+        "1493367105",
+        "1529785310",
+        "1556566737",
+        "1557750304",
+        "1589224558",
+        "1605985842",
+        "1968552123",
+        "2039549168",
+        "2060345611",
+        "2065675749",
+        "2076933173",
+        "2080573945",
+        "2081431431",
+        "2160520283",
+        "2164496154",
+        "2171480813"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "137391248",
+    "title": "Runtime I/O re-routing + throttling on HPC storage",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Qing Liu",
+            "id": "2424226668",
+            "org": "Computer Science and Mathematics Division, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Norbert Podhorszki",
+            "id": "259421104",
+            "org": "Computer Science and Mathematics Division, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Jeremy Logan",
+            "id": "2137370292",
+            "org": "Computer Science and Mathematics Division, Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Scott Klasky",
+            "id": "2009084615",
+            "org": "Computer Science and Mathematics Division, Oak Ridge National Laboratory#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Storage area network",
+        "Massively parallel",
+        "Throughput",
+        "Parallel computing",
+        "Input/output",
+        "Converged storage",
+        "Distributed computing",
+        "Computer science",
+        "Limiting",
+        "Bandwidth throttling"
+    ],
+    "references": [
+        "1799077473",
+        "2039373661",
+        "2041937524",
+        "2065044274",
+        "2081726556",
+        "2108183412",
+        "2138182839",
+        "2156599987"
+    ]
+}

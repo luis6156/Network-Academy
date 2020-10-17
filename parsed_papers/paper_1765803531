@@ -1,0 +1,41 @@
+{
+    "id": "1765803531",
+    "title": "Weak keys for IDEA",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Joan Daemen",
+            "id": "2022183134",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Rene Govaerts",
+            "id": "2037293133",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Joos Vandewalle",
+            "id": "1964643177",
+            "org": "Katholieke Univ. Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Cipher",
+        "Key schedule",
+        "Discrete mathematics",
+        "Weak key",
+        "Key space",
+        "Related-key attack",
+        "Differential cryptanalysis",
+        "Key clustering"
+    ],
+    "references": [
+        "1518393264",
+        "1605116544",
+        "1629301835",
+        "1978695162"
+    ]
+}

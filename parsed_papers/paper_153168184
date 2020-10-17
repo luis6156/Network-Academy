@@ -1,0 +1,56 @@
+{
+    "id": "153168184",
+    "title": "Distributed Checkpointing on Clusters with Dynamic Striping and Staggering",
+    "venue": "grid computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hai Jin",
+            "id": "2168417342",
+            "org": "Huazhong University of Science and Technology"
+        },
+        {
+            "name": "Kai Hwang",
+            "id": "2612957084",
+            "org": "University of Southern California"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel I/O",
+        "Parallel computing",
+        "Data striping",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "RAID",
+        "Cluster Node",
+        "Rollback",
+        "Control reconfiguration",
+        "Real-time computing",
+        "Bottleneck"
+    ],
+    "references": [
+        "1537929875",
+        "1965724639",
+        "2019680442",
+        "2027753868",
+        "2030907583",
+        "2035402076",
+        "2037730929",
+        "2048894106",
+        "2056658101",
+        "2095764366",
+        "2100970777",
+        "2112563440",
+        "2125776594",
+        "2131053137",
+        "2149619434",
+        "2152705922",
+        "2152844070",
+        "2153986526",
+        "2157960977",
+        "2159272546",
+        "2164507994",
+        "2296772319"
+    ]
+}

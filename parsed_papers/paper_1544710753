@@ -1,0 +1,41 @@
+{
+    "id": "1544710753",
+    "title": "An Efficient Method for Controlling Access in Object-Oriented Databases",
+    "venue": "conference information and communication technology",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Woochun Jun",
+            "id": "2159814393",
+            "org": "Seoul National University of Education"
+        },
+        {
+            "name": "Le Gruenwald",
+            "id": "2188709943",
+            "org": "University of Oklahoma"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Object-oriented programming",
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Double-checked locking",
+        "Database",
+        "Concurrency control"
+    ],
+    "references": [
+        "149857224",
+        "1485212512",
+        "1533048705",
+        "1545155892",
+        "1568977225",
+        "1583169995",
+        "1991199257",
+        "2021367188",
+        "2141634129",
+        "2159992382",
+        "2160017790"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1597272946",
+    "title": "IND-CCA Public Key Schemes Equivalent to Factoring n=pq",
+    "venue": "public key cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Wakaha Ogata",
+            "id": "2058530354",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Toshihiko Matsuo",
+            "id": "2104585996",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Shuichi Makishima",
+            "id": "2395932969",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Adaptive chosen-ciphertext attack",
+        "Prime number",
+        "Discrete mathematics",
+        "Encryption",
+        "Cryptosystem",
+        "Ciphertext indistinguishability",
+        "Random oracle",
+        "Public-key cryptography",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1490653284",
+        "1515702129",
+        "1516512945",
+        "1529862094",
+        "1594742286",
+        "1607264302",
+        "1871739018",
+        "2052267638",
+        "2101803085",
+        "2132172731",
+        "2167989228"
+    ]
+}

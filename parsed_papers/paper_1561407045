@@ -1,0 +1,82 @@
+{
+    "id": "1561407045",
+    "title": "Intrusion-resilient public-key encryption",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yevgeniy Dodis",
+            "id": "1259442811",
+            "org": "Department of Computer Science, New York University#TAB#"
+        },
+        {
+            "name": "Matthew K. Franklin",
+            "id": "2306237498",
+            "org": "Department of Computer Science, University of California, Davis#TAB#"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Department of Computer Science, University of Maryland, College Park#TAB#"
+        },
+        {
+            "name": "Atsuko Miyaji",
+            "id": "1454195615",
+            "org": "Department of Computer Science, University of California, Davis and Japan Advanced Institute of Science and Technology#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Symmetric-key algorithm",
+        "Pseudorandom number generator",
+        "Theoretical computer science",
+        "Computer science",
+        "Sponge function",
+        "Pseudorandom function family",
+        "Encryption",
+        "Message authentication code",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "83939942",
+        "1481068248",
+        "1498063506",
+        "1507814913",
+        "1512388984",
+        "1532140623",
+        "1540442590",
+        "1576314536",
+        "1578627459",
+        "1579435243",
+        "1585977625",
+        "1588301088",
+        "1607264302",
+        "1838876034",
+        "1994386233",
+        "2009432965",
+        "2011550196",
+        "2046871034",
+        "2072813709",
+        "2085759780",
+        "2086042811",
+        "2096024255",
+        "2098721736",
+        "2117362057",
+        "2125591151",
+        "2131300413",
+        "2139172211",
+        "2149847764",
+        "2161195863",
+        "2164284862",
+        "2165214731",
+        "2402135123",
+        "2585529823",
+        "2605928589",
+        "2610275508"
+    ]
+}

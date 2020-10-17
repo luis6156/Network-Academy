@@ -1,0 +1,45 @@
+{
+    "id": "1593120037",
+    "title": "Lessons Learned Implementing User-Level Failure Mitigation in MPICH",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Wesley Bland",
+            "id": "2436704100",
+            "org": "Math. & Comput. Sci. Div., Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Huiwei Lu",
+            "id": "2232255257",
+            "org": "Math. & Comput. Sci. Div., Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Sangmin Seo",
+            "id": "2776910534",
+            "org": "Math. & Comput. Sci. Div., Argonne Nat. Lab., Argonne, IL, USA"
+        },
+        {
+            "name": "Pavan Balaji",
+            "id": "1990703395",
+            "org": "Math. & Comput. Sci. Div., Argonne Nat. Lab., Argonne, IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "MPICH",
+        "Computer science",
+        "Distributed computing",
+        "Reference implementation",
+        "Message passing",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "170768260",
+        "1576341769",
+        "1993660990",
+        "2037208432",
+        "2171007672"
+    ]
+}

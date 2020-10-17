@@ -1,0 +1,34 @@
+{
+    "id": "1518016640",
+    "title": "Cunf: A Tool for Unfolding and Verifying Petri Nets with Read arcs",
+    "venue": "automated technology for verification and analysis",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Cesar Rodriguez",
+            "id": "2207125945",
+            "org": "LSV (ENS Cachan & CNRS & INRIA)"
+        },
+        {
+            "name": "Stefan Schwoon",
+            "id": "2893412910",
+            "org": "LSV (ENS Cachan & CNRS & INRIA)"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Interleaving",
+        "Petri net",
+        "Arc (geometry)"
+    ],
+    "references": [
+        "1518705996",
+        "1604167937",
+        "1636538849",
+        "1756000016",
+        "1975899067",
+        "2099620341"
+    ]
+}

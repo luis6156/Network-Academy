@@ -1,0 +1,51 @@
+{
+    "id": "171551482",
+    "title": "A generic tool for tracing executions back to a DSML's operational semantics",
+    "venue": "european conference on modelling foundations and applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Benoit Combemale",
+            "id": "200783772",
+            "org": "University of Rennes 1, IRISA, Rennes, France#TAB#"
+        },
+        {
+            "name": "Laure Gonnord",
+            "id": "268028548",
+            "org": "LIFL-UMR CNRS/USTL 8022, INRIA Lille-Nord Europe, Villeneuve d'Ascq, France#TAB#"
+        },
+        {
+            "name": "Vlad Rusu",
+            "id": "2252077257",
+            "org": "LIFL-UMR CNRS/USTL 8022, INRIA Lille-Nord Europe, Villeneuve d'Ascq, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Model transformation",
+        "Semantics",
+        "Domain-specific modeling",
+        "Software development",
+        "Computer science",
+        "Tracing",
+        "Model checking",
+        "Code generation",
+        "Operational semantics",
+        "Programming language"
+    ],
+    "references": [
+        "170618791",
+        "1517759046",
+        "1521216227",
+        "1602025489",
+        "1978613757",
+        "1982313944",
+        "1985964670",
+        "1990228414",
+        "2056245653",
+        "2066015890",
+        "2100696165",
+        "2102716483",
+        "2130779417",
+        "2158395308"
+    ]
+}

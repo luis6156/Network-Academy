@@ -1,0 +1,49 @@
+{
+    "id": "1549027255",
+    "title": "Parallel smith-waterman algorithm for local DNA comparison in a cluster of workstations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Azzedine Boukerche",
+            "id": "2306621260",
+            "org": "SITE, University of Ottawa, Canada#TAB#"
+        },
+        {
+            "name": "Alba Cristina Magalhaes Alves de Melo",
+            "id": "2113630558",
+            "org": "Department of Computer Science, University of Brasilia (UnB)#TAB#"
+        },
+        {
+            "name": "Mauricio Ayala-Rincon",
+            "id": "82005399",
+            "org": "Department of Mathematics, University of Brasilia (UnB)#TAB#"
+        },
+        {
+            "name": "Thomas Mailleux Santana",
+            "id": "2169675049",
+            "org": "Department of Computer Science, University of Brasilia (UnB)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Heuristics",
+        "Computer science",
+        "Distributed computing",
+        "Smith-Waterman algorithm",
+        "Distributed shared memory",
+        "Algorithmics",
+        "Parallel algorithm",
+        "Workstation"
+    ],
+    "references": [
+        "1518911419",
+        "1578711114",
+        "1589993665",
+        "1602846425",
+        "2046793036",
+        "2083432626",
+        "2125854927",
+        "2156524063",
+        "2162744351"
+    ]
+}

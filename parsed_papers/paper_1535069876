@@ -1,0 +1,53 @@
+{
+    "id": "1535069876",
+    "title": "Round Security and Super-Pseudorandomness of MISTY Type Structure",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Tetsu Iwata",
+            "id": "2130303538",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Tomonobu Yoshino",
+            "id": "2682975143",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Tomohiro Yuasa",
+            "id": "2116927562",
+            "org": "Tokyo Institute of Technology"
+        },
+        {
+            "name": "Kaoru Kurosawa",
+            "id": "1646480596",
+            "org": "Tokyo Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Mathematics",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Random permutation",
+        "Differential cryptanalysis",
+        "Hash function",
+        "Linear cryptanalysis",
+        "Random function"
+    ],
+    "references": [
+        "116725534",
+        "1504217304",
+        "1540875416",
+        "1552402248",
+        "1607372077",
+        "1972464518",
+        "1985623009",
+        "2027325533",
+        "2052207834",
+        "2077300005",
+        "2147503428"
+    ]
+}

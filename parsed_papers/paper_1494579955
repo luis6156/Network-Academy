@@ -1,0 +1,46 @@
+{
+    "id": "1494579955",
+    "title": "An effective branch-and-bound algorithm for convex quadratic integer programming",
+    "venue": "integer programming and combinatorial optimization",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Christoph Buchheim",
+            "id": "1566347147",
+            "org": "Fakultat fur Mathematik, Technische Universitat Dortmund, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Alberto Caprara",
+            "id": "1999354336",
+            "org": "DEIS, Universita di Bologna, Bologna, Italy#TAB#"
+        },
+        {
+            "name": "Andrea Lodi",
+            "id": "1991672571",
+            "org": "DEIS, Universita di Bologna, Bologna, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Quadratic programming",
+        "Discrete mathematics",
+        "Integer programming",
+        "Nonlinear programming",
+        "Branch and price",
+        "Branch and cut",
+        "Convex optimization",
+        "Proper convex function",
+        "Quadratically constrained quadratic program",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "10952428",
+        "1570949702",
+        "1852828099",
+        "2026289804",
+        "2086391028",
+        "2126483728",
+        "2155654110",
+        "2170213261"
+    ]
+}

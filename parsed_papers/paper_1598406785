@@ -1,0 +1,42 @@
+{
+    "id": "1598406785",
+    "title": "On efficient storing and processing of long aggregate lists",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marcin Gorawski",
+            "id": "1793965813",
+            "org": "Institute of Computer Science, Silesian University of Technology, Gliwice, Poland#TAB#"
+        },
+        {
+            "name": "Rafal Malczok",
+            "id": "223765300",
+            "org": "Institute of Computer Science, Silesian University of Technology, Gliwice, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Search engine indexing",
+        "Self-organizing list",
+        "Page",
+        "Database",
+        "List update problem",
+        "Materialized view",
+        "Data warehouse",
+        "Knowledge extraction"
+    ],
+    "references": [
+        "110145033",
+        "139058378",
+        "1496130826",
+        "1538267625",
+        "1546365363",
+        "1975968096",
+        "2114712170",
+        "2132729409",
+        "2143401113"
+    ]
+}

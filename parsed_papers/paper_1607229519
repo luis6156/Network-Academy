@@ -1,0 +1,85 @@
+{
+    "id": "1607229519",
+    "title": "Structure and Performance of a Dependency Language Model",
+    "venue": "conference of the international speech communication association",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ciprian Chelba",
+            "id": "2198452902",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "David M. Engle",
+            "id": "2015685304",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Frederick Jelinek",
+            "id": "2019534230",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Victor M. Jimenez",
+            "id": "2780691747",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Sanjeev Khudanpur",
+            "id": "1996119148",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Lidia Mangu",
+            "id": "1968887576",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Harry Printz",
+            "id": "2757636007",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Eric Sven Ristad",
+            "id": "2484080118",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Ronald Rosenfeld",
+            "id": "2396008703",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Andreas Stolcke",
+            "id": "684032073",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Dekai Wu",
+            "id": "2171266881",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Bigram",
+        "Language model",
+        "Word grammar",
+        "Generative grammar",
+        "Link grammar",
+        "Pattern recognition",
+        "Computer science",
+        "Dependency graph",
+        "Speech recognition",
+        "Cache language model",
+        "Dependency grammar",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1671203680",
+        "1773803948",
+        "1996903695",
+        "2096175520",
+        "2102439588",
+        "2110882317"
+    ]
+}

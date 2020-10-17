@@ -1,0 +1,71 @@
+{
+    "id": "1567270145",
+    "title": "A Discriminative Model-Constrained Graph Cuts Approach to Fully Automated Pediatric Brain Tumor Segmentation in 3-D MRI",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Michael Wels",
+            "id": "2138753032",
+            "org": "Chair of Pattern Recognition, University Erlangen-Nuremberg, Germany and Siemens, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Gustavo Carneiro",
+            "id": "2421819643",
+            "org": "Siemens Corporate Research, IDS, Princeton, USA#TAB#"
+        },
+        {
+            "name": "Alexander Aplas",
+            "id": "189958780",
+            "org": "Institute of Radiology, University Medical Center, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Martin Huber",
+            "id": "2251568077",
+            "org": "Siemens, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Joachim Hornegger",
+            "id": "51092151",
+            "org": "Chair of Pattern Recognition, University Erlangen-Nuremberg, Germany#TAB#"
+        },
+        {
+            "name": "Dorin Comaniciu",
+            "id": "2054682710",
+            "org": "Siemens Corporate Research, IDS, Princeton, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Cut",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Markov random field",
+        "Probabilistic logic",
+        "Voxel",
+        "Scale-space segmentation",
+        "Boosting (machine learning)",
+        "Discriminative model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1516550558",
+        "1567335130",
+        "1569432948",
+        "1604642298",
+        "1833820394",
+        "1995642009",
+        "2090653043",
+        "2104671481",
+        "2113137767",
+        "2119300483",
+        "2132358780",
+        "2136573752",
+        "2144556767",
+        "2146514558",
+        "2160109814",
+        "2160367227",
+        "2584202779"
+    ]
+}

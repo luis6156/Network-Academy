@@ -1,0 +1,66 @@
+{
+    "id": "1559170227",
+    "title": "An Algorithm for Incremental Nearest Neighbor Search in High-Dimensional Data Spaces",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Dong-Ho Lee",
+            "id": "2637864564",
+            "org": "OOPSLA Laboratory|School of Computer Science and Engineering|Seoul National University"
+        },
+        {
+            "name": "Hyung-Dong Lee",
+            "id": "2655329176",
+            "org": "OOPSLA Laboratory|School of Computer Science and Engineering|Seoul National University"
+        },
+        {
+            "name": "Ilhwan Choi",
+            "id": "2417837916",
+            "org": "OOPSLA Laboratory|School of Computer Science and Engineering|Seoul National University"
+        },
+        {
+            "name": "Hyoung-Joo Kim",
+            "id": "2114420611",
+            "org": "Seoul National University"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Mathematics",
+        "Fixed-radius near neighbors",
+        "Algorithm",
+        "Pattern recognition",
+        "Nearest neighbor graph",
+        "Best bin first",
+        "Cover tree",
+        "Ball tree",
+        "R-tree",
+        "Large margin nearest neighbor",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "29246612",
+        "1672197616",
+        "1770616178",
+        "1972635511",
+        "1975830550",
+        "1977944418",
+        "1990111898",
+        "2000830496",
+        "2046144220",
+        "2066799613",
+        "2068272887",
+        "2068520194",
+        "2091503252",
+        "2104128006",
+        "2108908993",
+        "2118269922",
+        "2133542527",
+        "2145725688",
+        "2155776210",
+        "2165558283",
+        "2238624099"
+    ]
+}

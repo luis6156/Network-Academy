@@ -1,0 +1,57 @@
+{
+    "id": "1265224911",
+    "title": "On Limitations and Alternatives of Privacy-Preserving Cryptographic Protocols for Genomic Data",
+    "venue": "international workshop on security",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Tadanori Teruya",
+            "id": "2086294945",
+            "org": "Information Technology Research Institute, National Institute of Advanced Industrial Science and Technology, Koto-ku, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Koji Nuida",
+            "id": "2225964867",
+            "org": "Information Technology Research Institute, National Institute of Advanced Industrial Science and Technology, Koto-ku, Tokyo, Japan and JST PRESTO, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kana Shimizu",
+            "id": "2160005378",
+            "org": "Biotechnology Research Institute for Drug Discovery, National Institute of Advanced Industrial Science and Technology, Koto-ku, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "Information Technology Research Institute, National Institute of Advanced Industrial Science and Technology, Koto-ku, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Homomorphic encryption",
+        "Oblivious transfer",
+        "Genome",
+        "Cryptographic protocol",
+        "Computer science",
+        "Computer security",
+        "Message authentication code",
+        "Internet privacy"
+    ],
+    "references": [
+        "11539944",
+        "88105200",
+        "1582659671",
+        "1586481148",
+        "1592393009",
+        "1822223425",
+        "2021694961",
+        "2056556714",
+        "2084652510",
+        "2087135382",
+        "2108834246",
+        "2128906841",
+        "2137147061",
+        "2154654620",
+        "2162930105",
+        "2166971704",
+        "2286477783"
+    ]
+}

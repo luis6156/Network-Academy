@@ -1,0 +1,44 @@
+{
+    "id": "1580181578",
+    "title": "Efficient Sharing of Many Secrets",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Carlo Blundo",
+            "id": "1854929514",
+            "org": "Universita di Salerno"
+        },
+        {
+            "name": "Alfredo De Santis",
+            "id": "1931511623",
+            "org": "Universita di Salerno"
+        },
+        {
+            "name": "Ugo Vaccaro",
+            "id": "54027764",
+            "org": "Universita di Salerno"
+        }
+    ],
+    "fields_of_study": [
+        "Access structure",
+        "Computer science",
+        "Distributed computing",
+        "Proactive secret sharing",
+        "Homomorphic secret sharing",
+        "Verifiable secret sharing",
+        "Secret sharing",
+        "Upper and lower bounds",
+        "Secure multi-party computation"
+    ],
+    "references": [
+        "1529027305",
+        "1590395676",
+        "1990304797",
+        "2088023978",
+        "2093673286",
+        "2099000090",
+        "2141420453",
+        "2159401786"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1523052755",
+    "title": "Improving TCP throughput and fairness over multi-rate IEEE 802.11 wireless LANs",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Seon-Don Lee",
+            "id": "2340284869",
+            "org": "Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea#TAB#"
+        },
+        {
+            "name": "Dong-Hee Kwon",
+            "id": "2168616700",
+            "org": "Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea#TAB#"
+        },
+        {
+            "name": "Woo-Jae Kim",
+            "id": "2149384786",
+            "org": "Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea#TAB#"
+        },
+        {
+            "name": "Young-Joo Suh",
+            "id": "2159282584",
+            "org": "Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "Maximum throughput scheduling",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1489058467",
+        "1831194759",
+        "1884389603",
+        "2003531160",
+        "2063220716",
+        "2101659471",
+        "2109653824",
+        "2121133509",
+        "2123071925",
+        "2753542457"
+    ]
+}

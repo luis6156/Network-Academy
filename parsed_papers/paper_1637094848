@@ -1,0 +1,77 @@
+{
+    "id": "1637094848",
+    "title": "Supervised single-microphone multi-talker speech separation with conditional random fields",
+    "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yu Ting Yeung",
+            "id": "2138380777",
+            "org": "Stanley Ho Big Data Decision Analytics Research Centre, The Chinese University of Hong Kong, Hong Kong, China and Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong, China"
+        },
+        {
+            "name": "Tan Lee",
+            "id": "2123125285",
+            "org": "Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong, SAR of China"
+        },
+        {
+            "name": "Cheung-Chi Leung",
+            "id": "2142906054",
+            "org": "Human Language Technology Department, Institute for Infocomm Research, Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Mel-frequency cepstrum",
+        "Estimation theory",
+        "Pattern recognition",
+        "Computer science",
+        "Supervised learning",
+        "Markov model",
+        "Hidden Markov model",
+        "Conditional random field",
+        "Statistical inference",
+        "Speech recognition",
+        "Speech processing",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "174003511",
+        "185399533",
+        "1528056001",
+        "1560512119",
+        "1967896185",
+        "1989954041",
+        "2029414441",
+        "2031647436",
+        "2036245667",
+        "2069681747",
+        "2086725969",
+        "2087334523",
+        "2096920988",
+        "2098678088",
+        "2100966557",
+        "2102804087",
+        "2103135337",
+        "2103945478",
+        "2105644991",
+        "2105892554",
+        "2109886546",
+        "2120340025",
+        "2127851351",
+        "2130322773",
+        "2132038425",
+        "2134807719",
+        "2138939691",
+        "2147880316",
+        "2150142469",
+        "2150415460",
+        "2152463966",
+        "2156515921",
+        "2156615793",
+        "2163614729",
+        "2168793898",
+        "2403697053",
+        "2405589348"
+    ]
+}

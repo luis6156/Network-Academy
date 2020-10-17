@@ -1,0 +1,53 @@
+{
+    "id": "1592854643",
+    "title": "New Elliptic Curve Multi-scalar Multiplication Algorithm for a Pair of Integers to Resist SPA",
+    "venue": "information security and cryptology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Duo Liu",
+            "id": "2672326938",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Email: bat@mail.tsinghua.edu.cn, Beijing, Peoples Republic of China 100084#TAB#"
+        },
+        {
+            "name": "Zhiyong Tan",
+            "id": "2126064892",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Email: bat@mail.tsinghua.edu.cn, Beijing, Peoples Republic of China 100084#TAB#"
+        },
+        {
+            "name": "Yiqi Dai",
+            "id": "2103773542",
+            "org": "Department of Computer Science and Technology, Tsinghua University, Email: bat@mail.tsinghua.edu.cn, Beijing, Peoples Republic of China 100084#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Modular elliptic curve",
+        "Algorithm",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Scalar multiplication",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Jacobian curve",
+        "Elliptic curve",
+        "Multiplication",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1501115028",
+        "1517614257",
+        "1540529576",
+        "1565369953",
+        "1575893707",
+        "1602189784",
+        "1613874182",
+        "1664808737",
+        "1712428406",
+        "2002932355",
+        "2003736153",
+        "2105374413",
+        "2106876320",
+        "2154909745",
+        "2155244510",
+        "2166362740"
+    ]
+}

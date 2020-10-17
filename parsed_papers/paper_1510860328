@@ -1,0 +1,53 @@
+{
+    "id": "1510860328",
+    "title": "Enhancing symbolic execution method with a taint layer",
+    "venue": "ieee international conference on advanced computational intelligence",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jinxin Ma",
+            "id": "2166584491",
+            "org": "China Information Technology Security Evaluation Center, Beijing, China"
+        },
+        {
+            "name": "Tao Zhang",
+            "id": "2439422000",
+            "org": "China Information Technology Security Evaluation Center, Beijing, China"
+        },
+        {
+            "name": "Puhan Zhang",
+            "id": "2685490001",
+            "org": "China Information Technology Security Evaluation Center, Beijing, China"
+        }
+    ],
+    "fields_of_study": [
+        "Concolic testing",
+        "Theoretical computer science",
+        "Computer science",
+        "Binary number",
+        "Symbolic execution",
+        "Computational intelligence",
+        "Symbolic trajectory evaluation",
+        "Data-flow analysis",
+        "Code coverage",
+        "Bottleneck"
+    ],
+    "references": [
+        "127238549",
+        "157156687",
+        "1710734607",
+        "1970005004",
+        "1975430109",
+        "1976878954",
+        "1990425317",
+        "1992967823",
+        "2028170982",
+        "2089560940",
+        "2095551048",
+        "2128128820",
+        "2133612077",
+        "2137530017",
+        "2147118954",
+        "2153185479"
+    ]
+}

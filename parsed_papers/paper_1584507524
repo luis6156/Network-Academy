@@ -1,0 +1,51 @@
+{
+    "id": "1584507524",
+    "title": "GpH and Eden: Comparing two parallel functional languages on a Beowulf cluster",
+    "venue": "Selected papers from the 2nd Scottish Functional Programming Workshop (SFP00)",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hans-Wolfgang Loidl",
+            "id": "2016028299",
+            "org": "Department of Computing and Electrical Engineering|Heriot-Watt University"
+        },
+        {
+            "name": "Ulrike Klusik",
+            "id": "249251696",
+            "org": "Department of Computer Science|Marburg University"
+        },
+        {
+            "name": "Kevin Hammond",
+            "id": "2133455440",
+            "org": "University of Marburg"
+        },
+        {
+            "name": "Rita Loogen",
+            "id": "67920613",
+            "org": "Department of Computer Science|Marburg University"
+        },
+        {
+            "name": "Philip W. Trinder",
+            "id": "2176607212",
+            "org": "Department of Computing and Electrical Engineering|Heriot-Watt University"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Speedup",
+        "Symbolic computation",
+        "Compiler",
+        "Haskell",
+        "Computer science",
+        "Implementation",
+        "Implicit parallelism",
+        "Functional programming"
+    ],
+    "references": [
+        "1502523938",
+        "1983587116",
+        "2011324058",
+        "2151574744"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1633864791",
+    "title": "ROSoClingo: A ROS package for ASP-based robot control.",
+    "venue": "arXiv: Robotics",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Benjamin Andres",
+            "id": "2157865629",
+            "org": "University of Potsdam"
+        },
+        {
+            "name": "Philipp Obermeier",
+            "id": "2279346086",
+            "org": "University of Potsdam"
+        },
+        {
+            "name": "Orkunt Sabuncu",
+            "id": "2056255868",
+            "org": "University of Potsdam"
+        },
+        {
+            "name": "Torsten Schaub",
+            "id": "2167873233",
+            "org": "University of Potsdam"
+        },
+        {
+            "name": "David Rajaratnam",
+            "id": "2133487882",
+            "org": "University of New South Wales"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "Robot",
+        "Solver",
+        "Robot control",
+        "Answer set programming",
+        "Knowledge representation and reasoning",
+        "Higher-level cognitive functions",
+        "Middleware",
+        "Cognitive robotics",
+        "Engineering"
+    ],
+    "references": [
+        "88050112",
+        "1501758783",
+        "1530356415",
+        "1772789695",
+        "1854253636",
+        "2032560235",
+        "2045474169",
+        "2108378528",
+        "2143602574",
+        "2294857246"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1618079205",
+    "title": "NLC-2 graph recognition and isomorphism",
+    "venue": "workshop on graph theoretic concepts in computer science",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Vincent Limouzy",
+            "id": "2057647005",
+            "org": "LIAFA, Univ. Paris Diderot#TAB#"
+        },
+        {
+            "name": "Fabien de Montgolfier",
+            "id": "334612902",
+            "org": "LIAFA, Univ. Paris Diderot#TAB#"
+        },
+        {
+            "name": "Michael Rao",
+            "id": "2104843944",
+            "org": "LIAFA, Univ. Paris Diderot#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Reverse-delete algorithm",
+        "Discrete mathematics",
+        "1-planar graph",
+        "Combinatorics",
+        "Shortest Path Faster Algorithm",
+        "Suurballe's algorithm",
+        "Induced subgraph isomorphism problem",
+        "Graph isomorphism",
+        "Hopcroft-Karp algorithm",
+        "Graph canonization"
+    ],
+    "references": [
+        "1490732918",
+        "1984545818",
+        "1994887153",
+        "1996198939",
+        "2026807383",
+        "2035344492",
+        "2062584330",
+        "2095224160",
+        "2103191280",
+        "2152099080",
+        "2170633983"
+    ]
+}

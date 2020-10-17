@@ -1,0 +1,54 @@
+{
+    "id": "1521015940",
+    "title": "Exploiting coding theory for collision attacks on SHA-1",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        },
+        {
+            "name": "Vincent Rijmen",
+            "id": "1973703345",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "SHA-1",
+        "Algorithm",
+        "Cryptanalysis",
+        "Theoretical computer science",
+        "Computer science",
+        "Coding theory",
+        "Collision attack",
+        "Hash function",
+        "Collision",
+        "Collision resistance"
+    ],
+    "references": [
+        "155049767",
+        "1533979572",
+        "1536493828",
+        "1542068190",
+        "1563149761",
+        "1570866738",
+        "1590269592",
+        "1656731780",
+        "2093465763",
+        "2095675261",
+        "2099250555",
+        "2103239853",
+        "2130238828",
+        "2133252868",
+        "2135759164",
+        "2611506938"
+    ]
+}

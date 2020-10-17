@@ -1,0 +1,72 @@
+{
+    "id": "1792904922",
+    "title": "A comparative evaluation of two algorithms for Windows Registry Anomaly Detection",
+    "venue": "Journal of Computer Security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Salvatore J. Stolfo",
+            "id": "2021877992",
+            "org": "Department of Computer Science, Columbia University, New York, NY 10027, USA E-mail: {sal,fapap,eeskin,heller,shlomo,kmsvore}@cs.columbia.edu#TAB#"
+        },
+        {
+            "name": "Frank Apap",
+            "id": "338132977",
+            "org": "Department of Computer Science, Columbia University, New York, NY 10027, USA E-mail: {sal,fapap,eeskin,heller,shlomo,kmsvore}@cs.columbia.edu#TAB#"
+        },
+        {
+            "name": "Eleazar Eskin",
+            "id": "642640030",
+            "org": "Department of Computer Science, Columbia University, New York, NY 10027, USA E-mail: {sal,fapap,eeskin,heller,shlomo,kmsvore}@cs.columbia.edu#TAB#"
+        },
+        {
+            "name": "Katherine A. Heller",
+            "id": "2158760032",
+            "org": "Department of Computer Science, Columbia University, New York, NY 10027, USA E-mail: {sal,fapap,eeskin,heller,shlomo,kmsvore}@cs.columbia.edu#TAB#"
+        },
+        {
+            "name": "Shlomo Hershkop",
+            "id": "1481904776",
+            "org": "Department of Computer Science, Columbia University, New York, NY 10027, USA E-mail: {sal,fapap,eeskin,heller,shlomo,kmsvore}@cs.columbia.edu#TAB#"
+        },
+        {
+            "name": "Andrew Honig",
+            "id": "2143722315",
+            "org": "Department of Computer Science, Columbia University, New York, NY 10027, USA E-mail: {sal,fapap,eeskin,heller,shlomo,kmsvore}@cs.columbia.edu#TAB#"
+        },
+        {
+            "name": "Krysta M. Svore",
+            "id": "1996400553",
+            "org": "Department of Computer Science, Columbia University, New York, NY 10027, USA E-mail: {sal,fapap,eeskin,heller,shlomo,kmsvore}@cs.columbia.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Algorithm",
+        "Computer science",
+        "Windows Registry",
+        "Real-time computing",
+        "Intrusion detection system",
+        "Anomaly detection",
+        "Anomaly-based intrusion detection system",
+        "Support vector machine",
+        "Microsoft Windows",
+        "Kernel (statistics)"
+    ],
+    "references": [
+        "1543388142",
+        "1647135810",
+        "1881151120",
+        "1884606608",
+        "2012403472",
+        "2012568697",
+        "2086469601",
+        "2113958614",
+        "2122325692",
+        "2125735062",
+        "2129860818",
+        "2132870739",
+        "2142638723",
+        "2150847526"
+    ]
+}

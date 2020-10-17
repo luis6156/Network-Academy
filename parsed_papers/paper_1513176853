@@ -1,0 +1,54 @@
+{
+    "id": "1513176853",
+    "title": "Solving non-clausal formulas with DPLL search",
+    "venue": "principles and practice of constraint programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christian Thiffault",
+            "id": "1895938738",
+            "org": "Department of Computer Science, University of Toronto, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Fahiem Bacchus",
+            "id": "683375407",
+            "org": "Department of Computer Science, University of Toronto, Toronto, Ontario, Canada#TAB#"
+        },
+        {
+            "name": "Toby Walsh",
+            "id": "2156731892",
+            "org": "Cork Constraint Computation Center, University College Cork, Ireland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Boolean circuit",
+        "DPLL algorithm",
+        "Discrete mathematics",
+        "Constraint satisfaction",
+        "Conjunctive normal form",
+        "Propositional calculus",
+        "Propositional formula",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "60032993",
+        "1503773079",
+        "1518211069",
+        "1577460141",
+        "1580970166",
+        "1822257500",
+        "1999997889",
+        "2057361103",
+        "2061876041",
+        "2096307462",
+        "2109577721",
+        "2117188169",
+        "2142785340",
+        "2146662253",
+        "2156358952",
+        "2610670194"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1412006679",
+    "title": "All file systems are not created equal: on the complexity of crafting crash-consistent applications",
+    "venue": "operating systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Thanumalayan Sankaranarayana Pillai",
+            "id": "2111107550",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Vijay Chidambaram",
+            "id": "2235419822",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Ramnatthan Alagappan",
+            "id": "2280692994",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Samer Al-Kiswany",
+            "id": "325046544",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Andrea C. Arpaci-Dusseau",
+            "id": "1979388515",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Remzi H. Arpaci-Dusseau",
+            "id": "74145742",
+            "org": "University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Crash",
+        "Virtualization",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Persistence (computer science)",
+        "Control system",
+        "Correctness",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "19204414",
+        "135447215",
+        "195676583",
+        "1423003888",
+        "1522974305",
+        "1569931149",
+        "1977804217",
+        "1995626000",
+        "2009404871",
+        "2030689875",
+        "2053200599",
+        "2093793584",
+        "2096659083",
+        "2097589646",
+        "2100100130",
+        "2108183412",
+        "2114167330",
+        "2115600841",
+        "2119738171",
+        "2127914251",
+        "2135652458",
+        "2138555106",
+        "2150176148",
+        "2157808045",
+        "2159779511",
+        "2169379483",
+        "2171352284",
+        "2412976325"
+    ]
+}

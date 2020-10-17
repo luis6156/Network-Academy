@@ -1,0 +1,50 @@
+{
+    "id": "163795935",
+    "title": "Java Bytecode Dependence Analysis for Secure Information Flow",
+    "venue": "International Journal of Network Security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Gaowei Bian",
+            "id": "2172024077",
+            "org": "Department of Information Systems|Graduate School of Information Systems|University of Electro-Communications"
+        },
+        {
+            "name": "Ken Nakayama",
+            "id": "2299031532",
+            "org": "Department of Information Systems|Graduate School of Information Systems|University of Electro-Communications"
+        },
+        {
+            "name": "Yoshitake Kobayashi",
+            "id": "2241874037",
+            "org": "Department of Information Systems|Graduate School of Information Systems|University of Electro-Communications"
+        },
+        {
+            "name": "Mamoru Maekawa",
+            "id": "1966324005",
+            "org": "Department of Information Systems|Graduate School of Information Systems|University of Electro-Communications"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Java bytecode",
+        "Computer science",
+        "Bytecode",
+        "Dependence analysis",
+        "Database",
+        "Information sensitivity",
+        "Information flow (information theory)"
+    ],
+    "references": [
+        "1553357069",
+        "1577894784",
+        "1982303263",
+        "2030957448",
+        "2094873755",
+        "2122049982",
+        "2129278597",
+        "2143360726",
+        "2149143260",
+        "2150174204"
+    ]
+}

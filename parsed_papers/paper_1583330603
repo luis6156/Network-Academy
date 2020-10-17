@@ -1,0 +1,37 @@
+{
+    "id": "1583330603",
+    "title": "Bias-Variance Error Bounds for Temporal Difference Updates",
+    "venue": "conference on learning theory",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael J. Kearns",
+            "id": "2118586410",
+            "org": "AT&T"
+        },
+        {
+            "name": "Satinder P. Singh",
+            "id": "2102570927",
+            "org": "AT&T"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Markov decision process",
+        "Asymptote",
+        "Upper and lower bounds",
+        "Random walk",
+        "Exponential growth",
+        "Statistics",
+        "Reinforcement learning",
+        "Temporal difference learning",
+        "Mathematical optimization",
+        "Rate of convergence"
+    ],
+    "references": [
+        "1716849269",
+        "2100677568",
+        "2121863487",
+        "2122701159"
+    ]
+}

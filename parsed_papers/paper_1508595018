@@ -1,0 +1,42 @@
+{
+    "id": "1508595018",
+    "title": "Consistent multi-view reconstruction from epipolar geometries with outliers",
+    "venue": "scandinavian conference on image analysis",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Daniel Martinec",
+            "id": "2683467809",
+            "org": "Center for Machine Perception, Department of Cybernetics, Faculty of Elec. Eng., Czech Technical University in Prague, Praha, Czech Republic#TAB#"
+        },
+        {
+            "name": "Tomas Pajdla",
+            "id": "1996122094",
+            "org": "Center for Machine Perception, Department of Cybernetics, Faculty of Elec. Eng., Czech Technical University in Prague, Praha, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "RANSAC",
+        "Mathematics",
+        "Computer vision",
+        "Outlier",
+        "Pattern recognition",
+        "Matrix (mathematics)",
+        "Estimator",
+        "Epipolar geometry",
+        "Anomaly detection",
+        "Fundamental matrix (computer vision)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1543549646",
+        "1577953480",
+        "1844023063",
+        "1943001502",
+        "2099612189",
+        "2124404372",
+        "2132726652",
+        "2138835141"
+    ]
+}

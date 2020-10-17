@@ -1,0 +1,120 @@
+{
+    "id": "1476041289",
+    "title": "TAO: Facebook's distributed data store for the social graph",
+    "venue": "usenix annual technical conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Nathan Bronson",
+            "id": "2117330368",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Zach Amsden",
+            "id": "2054313153",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "George Cabrera",
+            "id": "2105421348",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Prasad Chakka",
+            "id": "661033240",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Peter Dimov",
+            "id": "2164533625",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Hui Ding",
+            "id": "2307825088",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Jack Ferris",
+            "id": "2130194684",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Anthony Giardullo",
+            "id": "2077661741",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Sachin Kulkarni",
+            "id": "2235498649",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Harry C. Li",
+            "id": "2717751115",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Mark Marchukov",
+            "id": "1981796287",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Dmitri Petrov",
+            "id": "2491801710",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Lovro Puzar",
+            "id": "346880643",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Yee Jiun Song",
+            "id": "2708258365",
+            "org": "Facebook, Inc.#TAB#"
+        },
+        {
+            "name": "Venkateshwaran Venkataramani",
+            "id": "2631050699",
+            "org": "Facebook, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Data model",
+        "Computer science",
+        "Petabyte",
+        "Workload",
+        "Database",
+        "Data type",
+        "Distributed data store",
+        "Social graph"
+    ],
+    "references": [
+        "12688243",
+        "1494215701",
+        "1497412888",
+        "1785664926",
+        "1969925795",
+        "1976986662",
+        "2013409485",
+        "2020765652",
+        "2041315700",
+        "2074871523",
+        "2095223744",
+        "2098935637",
+        "2112564224",
+        "2118428193",
+        "2130923111",
+        "2144631484",
+        "2149623556",
+        "2150013559",
+        "2153704625",
+        "2161730338",
+        "2163059190",
+        "2167898414",
+        "2170616854",
+        "2341655714",
+        "2624304035"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1585369853",
+    "title": "A New Side-Channel Attack on RSA Prime Generation",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Thomas Finke",
+            "id": "2671643710",
+            "org": "Bundesamt fur Sicherheit in der Informationstechnik (BSI), Bonn, Germany 53175#TAB#"
+        },
+        {
+            "name": "Max Gebhardt",
+            "id": "2145483986",
+            "org": "Bundesamt fur Sicherheit in der Informationstechnik (BSI), Bonn, Germany 53175#TAB#"
+        },
+        {
+            "name": "Werner Schindler",
+            "id": "2141506873",
+            "org": "Bundesamt fur Sicherheit in der Informationstechnik (BSI), Bonn, Germany 53175#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD2",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Prime (order theory)",
+        "Power analysis",
+        "Exploit",
+        "Timing attack",
+        "Chosen-ciphertext attack",
+        "Key generation"
+    ],
+    "references": [
+        "1498019180",
+        "1498896551",
+        "1529687384",
+        "1557625911",
+        "1584759454",
+        "1587481360",
+        "1660562555",
+        "1664808737",
+        "2095828831",
+        "2101040389",
+        "2154909745"
+    ]
+}

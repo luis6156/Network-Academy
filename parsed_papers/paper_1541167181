@@ -1,0 +1,58 @@
+{
+    "id": "1541167181",
+    "title": "A multilevel compressed sparse row format for efficient sparse computations on multicore processors",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Humayun Kabir",
+            "id": "2310603329",
+            "org": "Department of Computer Science & Engineering, The Pennsylvania State Univeristy, University Park, Pennsylvania 16802"
+        },
+        {
+            "name": "Joshua Dennis Booth",
+            "id": "2304095463",
+            "org": "Department of Computer Science & Engineering, The Pennsylvania State Univeristy, University Park, Pennsylvania 16802"
+        },
+        {
+            "name": "Padma Raghavan",
+            "id": "2149154657",
+            "org": "Department of Computer Science & Engineering, The Pennsylvania State Univeristy, University Park, Pennsylvania 16802"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Test suite",
+        "Parallel computing",
+        "Multi-core processor",
+        "Computer science",
+        "Matrix (mathematics)",
+        "Distributed computing",
+        "Sparse approximation",
+        "Data structure",
+        "CPU cache",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1518969538",
+        "1884140786",
+        "1964212255",
+        "1965351873",
+        "1980714869",
+        "1987393840",
+        "2007943571",
+        "2035080386",
+        "2048986308",
+        "2072806558",
+        "2099116730",
+        "2111667319",
+        "2114977680",
+        "2115934858",
+        "2126004407",
+        "2142496304",
+        "2147743629",
+        "2165504907",
+        "2167573667",
+        "2170079961"
+    ]
+}

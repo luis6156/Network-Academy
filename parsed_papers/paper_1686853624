@@ -1,0 +1,49 @@
+{
+    "id": "1686853624",
+    "title": "SAS-Based authenticated key agreement",
+    "venue": "public key cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Sylvain Pasini",
+            "id": "1980719983",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Serge Vaudenay",
+            "id": "22805272",
+            "org": "EPFL, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet Protocol",
+        "Authentication protocol",
+        "Universal composability",
+        "Computer science",
+        "Distributed computing",
+        "Commitment scheme",
+        "Key-agreement protocol",
+        "Diffie-Hellman key exchange",
+        "Public-key cryptography",
+        "Provable security"
+    ],
+    "references": [
+        "1511186238",
+        "1541777936",
+        "1542059364",
+        "1563880518",
+        "1567649542",
+        "1572503422",
+        "1604454960",
+        "1877498291",
+        "1891543496",
+        "1981670729",
+        "1996360405",
+        "2002930326",
+        "2102523268",
+        "2119177715",
+        "2156186849",
+        "2165111290",
+        "2517548216"
+    ]
+}

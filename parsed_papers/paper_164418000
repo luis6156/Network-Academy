@@ -1,0 +1,50 @@
+{
+    "id": "164418000",
+    "title": "Separating wheat from the chaff: a deployable approach to counter spam",
+    "venue": "conference on steps to reducing unwanted traffic on internet",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Youngsang Shin",
+            "id": "2140497357",
+            "org": "Computer Science Dept., Indiana University, Bloomington, IN#TAB#"
+        },
+        {
+            "name": "Minaxi Gupta",
+            "id": "2313239660",
+            "org": "Computer Science Dept., Indiana University, Bloomington, IN#TAB#"
+        },
+        {
+            "name": "Rob Henderson",
+            "id": "2690065941",
+            "org": "Computer Science Dept., Indiana University, Bloomington, IN#TAB#"
+        },
+        {
+            "name": "Aaron Emigh",
+            "id": "2286115913",
+            "org": "Radix Labs., Incline Village, NV#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Spamming",
+        "Computer science",
+        "Computer security",
+        "Server",
+        "Email address harvesting",
+        "Email bomb",
+        "Email authentication",
+        "DomainKeys Identified Mail",
+        "Internet privacy",
+        "Opt-in email",
+        "Spam and Open Relay Blocking System"
+    ],
+    "references": [
+        "76311454",
+        "79425310",
+        "131546376",
+        "302610822",
+        "1521505907",
+        "1562137067",
+        "2113801833"
+    ]
+}

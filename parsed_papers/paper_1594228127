@@ -1,0 +1,44 @@
+{
+    "id": "1594228127",
+    "title": "Litmus: running tests against hardware",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jade Alglave",
+            "id": "76926217",
+            "org": "INRIA and Oxford University#TAB#"
+        },
+        {
+            "name": "Luc Maranget",
+            "id": "78376069",
+            "org": "INRIA, France"
+        },
+        {
+            "name": "Susmit Sarkar",
+            "id": "2130034569",
+            "org": "University of Cambridge#TAB#"
+        },
+        {
+            "name": "Peter Sewell",
+            "id": "2083541332",
+            "org": "University of Cambridge#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Computer hardware",
+        "Theoretical computer science",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Ingredient"
+    ],
+    "references": [
+        "1545792627",
+        "1808398105",
+        "1995825057",
+        "2085773946",
+        "2169832991"
+    ]
+}

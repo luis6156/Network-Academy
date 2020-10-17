@@ -1,0 +1,46 @@
+{
+    "id": "1602284866",
+    "title": "Characterization of OpenMP applications on the infiniband-based distributed virtual shared memory system",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Inho Park",
+            "id": "2120756555",
+            "org": "Department of ECE, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seon Wook Kim",
+            "id": "2180943733",
+            "org": "Department of ECE, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Kyung Hyun Park",
+            "id": "2105082942",
+            "org": "ETRI, Taejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "Multiprocessing",
+        "Distributed shared memory",
+        "Programming paradigm",
+        "Architecture",
+        "Direct memory access"
+    ],
+    "references": [
+        "1664707389",
+        "1964092730",
+        "2084903759",
+        "2110965295",
+        "2129691304",
+        "2138180780",
+        "2138212562",
+        "2144614730"
+    ]
+}

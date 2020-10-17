@@ -1,0 +1,51 @@
+{
+    "id": "1591947371",
+    "title": "Several Implementations of Persistent Pointers in a Memory-Mapped I/O Environment",
+    "venue": "database and expert systems applications",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Masayoshi Aritsugi",
+            "id": "65960912",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Keiichi Teramoto",
+            "id": "2520715455",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Guangyi Bai",
+            "id": "2117219725",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Akifumi Makinouchi",
+            "id": "2480810473",
+            "org": "Kyushu University"
+        }
+    ],
+    "fields_of_study": [
+        "Pointer (computer programming)",
+        "Computer science",
+        "Persistence (computer science)",
+        "Memory-mapped I/O",
+        "Database",
+        "Swizzling",
+        "Object-relational mapping",
+        "Virtual memory",
+        "Architecture",
+        "Page fault"
+    ],
+    "references": [
+        "1591470086",
+        "1600074786",
+        "1807162426",
+        "1995917378",
+        "2001657718",
+        "2025194432",
+        "2138605640",
+        "2148646082",
+        "2160460372"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1625144041",
+    "title": "Implementing Memoization in a Streaming XQuery Processor",
+    "venue": "international xml database symposium",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Yanlei Diao",
+            "id": "2245676595",
+            "org": "BEA Systems"
+        },
+        {
+            "name": "Daniela Florescu",
+            "id": "2061024894",
+            "org": "BEA Systems"
+        },
+        {
+            "name": "Donald Kossmann",
+            "id": "2242617642",
+            "org": "BEA Systems"
+        },
+        {
+            "name": "Michael J. Carey",
+            "id": "2157114695",
+            "org": "BEA Systems"
+        },
+        {
+            "name": "Michael J. Franklin",
+            "id": "2523407221",
+            "org": "University of California at Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "XQuery",
+        "XML",
+        "Computer science",
+        "Data mining",
+        "Memoization",
+        "Workload",
+        "Database",
+        "Information system",
+        "Runtime system",
+        "Path expression",
+        "CPU cache"
+    ],
+    "references": [
+        "1532788724",
+        "1606100597",
+        "1969937393",
+        "2038176938",
+        "2041770008",
+        "2058978608",
+        "2098416578",
+        "2105232714",
+        "2117242430",
+        "2122816893",
+        "2158237121"
+    ]
+}

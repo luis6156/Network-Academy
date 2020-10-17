@@ -1,0 +1,52 @@
+{
+    "id": "1587927411",
+    "title": "Authentication for paranoids: multi-party secret handshakes",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Stanislaw Jarecki",
+            "id": "1760644356",
+            "org": "Computer Science Department, University of California, Irvine#TAB#"
+        },
+        {
+            "name": "Jihye Kim",
+            "id": "2263118933",
+            "org": "Computer Science Department, University of California, Irvine#TAB#"
+        },
+        {
+            "name": "Gene Tsudik",
+            "id": "465425324",
+            "org": "Computer Science Department, University of California, Irvine#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Group key",
+        "Authentication protocol",
+        "Key distribution",
+        "Computer science",
+        "Computer security",
+        "Secure communication",
+        "Homomorphic secret sharing",
+        "Secret sharing",
+        "Challenge-Handshake Authentication Protocol",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "285691425",
+        "1500015301",
+        "1517333100",
+        "1646354800",
+        "1709517452",
+        "1977251372",
+        "2007585617",
+        "2007909731",
+        "2039268893",
+        "2064958915",
+        "2102091280",
+        "2128947829",
+        "2136757778",
+        "2166462813",
+        "2463765601"
+    ]
+}

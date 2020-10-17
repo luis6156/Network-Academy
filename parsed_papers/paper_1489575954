@@ -1,0 +1,47 @@
+{
+    "id": "1489575954",
+    "title": "Security of Reduced Version of the Block Cipher Camellia against Truncated and Impossible Differential Cryptanalysis",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Makoto Sugita",
+            "id": "2476477992",
+            "org": "NTT Corporation"
+        },
+        {
+            "name": "Kazukuni Kobara",
+            "id": "1988414654",
+            "org": "The University of Tokyo"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "The University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Integral cryptanalysis",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Truncated differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "158047812",
+        "1488537309",
+        "1500584382",
+        "1528065150",
+        "1554500429",
+        "1629301835",
+        "1660562555",
+        "1978695162",
+        "2027325533",
+        "2115355035"
+    ]
+}

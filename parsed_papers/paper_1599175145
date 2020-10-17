@@ -1,0 +1,119 @@
+{
+    "id": "1599175145",
+    "title": "PRINCE: a low-latency block cipher for pervasive computing applications",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Julia Borghoff",
+            "id": "1250482674",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Anne Canteaut",
+            "id": "300269431",
+            "org": "Technical University of Denmark, Denmark, INRIA, France#TAB#"
+        },
+        {
+            "name": "Tim Guneysu",
+            "id": "1977790142",
+            "org": "Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Elif Bilge Kavun",
+            "id": "2062544466",
+            "org": "Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Miroslav Knezevic",
+            "id": "2134570868",
+            "org": "NXP Semiconductors, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Gregor Leander",
+            "id": "2036774799",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Ventzislav Nikov",
+            "id": "2113011208",
+            "org": "NXP Semiconductors, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "2607524346",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Peter Maria Franciscus Rombouts",
+            "id": "2127022756",
+            "org": "NXP Semiconductors, Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Soren S. Thomsen",
+            "id": "2151455423",
+            "org": "Technical University of Denmark, Denmark#TAB#"
+        },
+        {
+            "name": "Tolga Yalcin",
+            "id": "2467593619",
+            "org": "Ruhr-University Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cipher",
+        "Transposition cipher",
+        "Running key cipher",
+        "Block cipher mode of operation",
+        "Computer science",
+        "Triple DES",
+        "CBC-MAC",
+        "Substitution-permutation network",
+        "Null cipher"
+    ],
+    "references": [
+        "40376036",
+        "153516704",
+        "1482922493",
+        "1511842436",
+        "1515595447",
+        "1518716055",
+        "1522919234",
+        "1525447969",
+        "1527031884",
+        "1569252980",
+        "1573222895",
+        "1573944628",
+        "1575062508",
+        "1607874478",
+        "1774261413",
+        "1801417685",
+        "1810232834",
+        "1886321933",
+        "1894646615",
+        "1944544385",
+        "1959383191",
+        "2064939672",
+        "2076397729",
+        "2085797166",
+        "2092583284",
+        "2096218735",
+        "2141124495",
+        "2163466490",
+        "2182153974",
+        "2247832471",
+        "2340541605",
+        "2513781444"
+    ]
+}

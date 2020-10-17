@@ -1,0 +1,52 @@
+{
+    "id": "1794401605",
+    "title": "Improved algorithms for the global cardinality constraint",
+    "venue": "principles and practice of constraint programming",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Claude-Guy Quimper",
+            "id": "2047989551",
+            "org": "University of Waterloo, Waterloo, Canad#TAB#"
+        },
+        {
+            "name": "Alejandro Lopez-Ortiz",
+            "id": "1382709",
+            "org": "University of Waterloo, Waterloo, Canad#TAB#"
+        },
+        {
+            "name": "Peter van Beek",
+            "id": "2118765137",
+            "org": "University of Waterloo, Waterloo, Canad#TAB#"
+        },
+        {
+            "name": "Alexander Golynski",
+            "id": "1976471367",
+            "org": "University of Waterloo, Waterloo, Canad#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cardinality",
+        "Mathematics",
+        "Constraint satisfaction problem",
+        "Algorithm",
+        "Discrete mathematics",
+        "Time constant",
+        "Constraint satisfaction",
+        "Cardinal number",
+        "Variables",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "49079529",
+        "1500703516",
+        "1564509380",
+        "1617230687",
+        "1977545325",
+        "2005924051",
+        "2022088719",
+        "2157529519",
+        "2164279585",
+        "2175178858"
+    ]
+}

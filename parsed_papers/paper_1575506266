@@ -1,0 +1,69 @@
+{
+    "id": "1575506266",
+    "title": "External memory breadth-first search with delayed duplicate detection on the GPU",
+    "venue": "MoChArt'10 Proceedings of the 6th international conference on Model checking and artificial intelligence",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Stefan Edelkamp",
+            "id": "396772149",
+            "org": "TZI, Universitat Bremen, Germany#TAB#"
+        },
+        {
+            "name": "Damian Sulewski",
+            "id": "310980748",
+            "org": "TZI, Universitat Bremen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Auxiliary memory",
+        "Computer hardware",
+        "Parallel computing",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Memory management",
+        "Memory map",
+        "Registered memory",
+        "Flat memory model",
+        "CUDA Pinned memory"
+    ],
+    "references": [
+        "46204108",
+        "56424148",
+        "62638829",
+        "125115239",
+        "161350656",
+        "588504562",
+        "1493393458",
+        "1552405727",
+        "1556566737",
+        "1556590257",
+        "1576345759",
+        "1583487553",
+        "1643462838",
+        "1815316406",
+        "1829451333",
+        "1986843945",
+        "2013480322",
+        "2013947940",
+        "2015326607",
+        "2034614140",
+        "2101826886",
+        "2102420343",
+        "2108278982",
+        "2112117314",
+        "2113622448",
+        "2126557249",
+        "2127766448",
+        "2133287458",
+        "2136877520",
+        "2141389982",
+        "2158027086",
+        "2158209170",
+        "2160675239",
+        "2163622833",
+        "2166799707",
+        "2172004025"
+    ]
+}

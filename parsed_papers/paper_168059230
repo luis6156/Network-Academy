@@ -1,0 +1,50 @@
+{
+    "id": "168059230",
+    "title": "SLAM: SLice And Merge - Effective Test Generation for Large Systems",
+    "venue": "haifa verification conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Tali Rabetti",
+            "id": "2119231314",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Ronny Morad",
+            "id": "1991464638",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Alex Goryachev",
+            "id": "2154226394",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Wisam Kadry",
+            "id": "1878720510",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Richard D. Peterson",
+            "id": "2442514909",
+            "org": "IBM Systems & Technology Group"
+        }
+    ],
+    "fields_of_study": [
+        "Reuse",
+        "Functional verification",
+        "Slicing",
+        "Computer science",
+        "Merge (version control)",
+        "Scenario testing",
+        "System model",
+        "Inefficiency",
+        "Real-time computing"
+    ],
+    "references": [
+        "1514254291",
+        "1566072248",
+        "2129537436",
+        "2136357775"
+    ]
+}

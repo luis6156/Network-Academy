@@ -1,0 +1,53 @@
+{
+    "id": "129227187",
+    "title": "Biclique cryptanalysis of reduced-round piccolo block cipher",
+    "venue": "information security practice and experience",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yanfeng Wang",
+            "id": "2612478789",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China and Graduate University of Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Xiaoli Yu",
+            "id": "2303611080",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Block cipher",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "Cryptanalysis",
+        "Computer science",
+        "Computer security",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Key size"
+    ],
+    "references": [
+        "41296744",
+        "45372631",
+        "153516704",
+        "1487353416",
+        "1512497838",
+        "1515595447",
+        "1607874478",
+        "1853704432",
+        "1894646615",
+        "1897454360",
+        "1991374982",
+        "1997025789",
+        "2092583284",
+        "2141124495",
+        "2520671133"
+    ]
+}

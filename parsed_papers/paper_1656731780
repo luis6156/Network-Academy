@@ -1,0 +1,47 @@
+{
+    "id": "1656731780",
+    "title": "Finding collisions in the full SHA-1",
+    "venue": "international cryptology conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Yiqun Lisa Yin",
+            "id": "2631989964",
+            "org": "Independent Security Consultant, Greenwich, CT#TAB#"
+        },
+        {
+            "name": "Hongbo Yu",
+            "id": "2427311814",
+            "org": "Shandong University, Jinan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Secure Hash Standard",
+        "SHA-2",
+        "Computer science",
+        "Hash function",
+        "Collision attack",
+        "MDC-2",
+        "Double hashing",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "1533979572",
+        "1563149761",
+        "1590269592",
+        "2095675261",
+        "2103239853",
+        "2130238828",
+        "2131212920",
+        "2133252868",
+        "2135759164",
+        "2611506938"
+    ]
+}

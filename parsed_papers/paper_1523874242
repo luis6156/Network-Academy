@@ -1,0 +1,41 @@
+{
+    "id": "1523874242",
+    "title": "Improving Immunity of Feistel Ciphers against Differential Cryptanalysis by Using Multiple MDS Matrices",
+    "venue": "fast software encryption",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Taizo Shirai",
+            "id": "2019168893",
+            "org": "Ubiquitous Technology Laboratories, Sony Corporation"
+        },
+        {
+            "name": "Kyoji Shibutani",
+            "id": "2107718852",
+            "org": "Ubiquitous Technology Laboratories, Sony Corporation"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Block cipher",
+        "Cryptography",
+        "Mathematics",
+        "Design strategy",
+        "Key schedule",
+        "Discrete mathematics",
+        "Matrix (mathematics)",
+        "Feistel cipher",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "1488537309",
+        "1489027369",
+        "1527415121",
+        "1534818369",
+        "1556212265",
+        "1629301835",
+        "1877793656",
+        "2115355035",
+        "2234576048"
+    ]
+}

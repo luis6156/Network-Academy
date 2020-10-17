@@ -1,0 +1,47 @@
+{
+    "id": "109951691",
+    "title": "Static detection of security vulnerabilities in scripting languages",
+    "venue": "usenix security symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yichen Xie",
+            "id": "2100556900",
+            "org": "Stanford University#TAB#"
+        },
+        {
+            "name": "Alex Aiken",
+            "id": "2067453598",
+            "org": "Stanford University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HTML scripting",
+        "Static analysis",
+        "Computer science",
+        "Server-side scripting",
+        "Granularity",
+        "Computer security",
+        "Database",
+        "Web application",
+        "Scripting language",
+        "Cross-site scripting",
+        "Architecture"
+    ],
+    "references": [
+        "1505465226",
+        "1511560695",
+        "1600965014",
+        "1809751277",
+        "1963954367",
+        "1983142587",
+        "2003751975",
+        "2006591097",
+        "2055886480",
+        "2106972913",
+        "2141179168",
+        "2156268601",
+        "2158600037",
+        "2170830071"
+    ]
+}

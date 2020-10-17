@@ -1,0 +1,76 @@
+{
+    "id": "1513733176",
+    "title": "Solving a 676-bit discrete logarithm problem in GF(3 6n )",
+    "venue": "public key cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Takuya Hayashi",
+            "id": "2311587008",
+            "org": "Graduate School of Mathematics, Kyushu University, Fukuoka, Japan#TAB#"
+        },
+        {
+            "name": "Naoyuki Shinohara",
+            "id": "1983490959",
+            "org": "Information Security Research Center, National Institute of Information and Communications Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Lihua Wang",
+            "id": "2659772312",
+            "org": "Information Security Research Center, National Institute of Information and Communications Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Shin'ichiro Matsuo",
+            "id": "2872874578",
+            "org": "Information Security Research Center, National Institute of Information and Communications Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Masaaki Shirase",
+            "id": "314566324",
+            "org": "School of Systems Information Science, Future University Hakodate, Hokkaido, Japan#TAB#"
+        },
+        {
+            "name": "Tsuyoshi Takagi",
+            "id": "2051837146",
+            "org": "Graduate School of Mathematics, Kyushu University, Fukuoka, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Discrete logarithm",
+        "Discrete mathematics",
+        "Pairing",
+        "Prime (order theory)",
+        "Cryptosystem",
+        "Finite field",
+        "Elliptic curve",
+        "Function field sieve"
+    ],
+    "references": [
+        "1482131745",
+        "1490004710",
+        "1502078890",
+        "1515353552",
+        "1535758889",
+        "1565956864",
+        "1575579066",
+        "1578625033",
+        "1764621781",
+        "1852294339",
+        "1859838991",
+        "1969728959",
+        "2049845673",
+        "2053148809",
+        "2055083041",
+        "2056307179",
+        "2071483197",
+        "2086042811",
+        "2092705148",
+        "2111310412",
+        "2112842125",
+        "2125467055",
+        "2150637835",
+        "2161214567"
+    ]
+}

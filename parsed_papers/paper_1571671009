@@ -1,0 +1,79 @@
+{
+    "id": "1571671009",
+    "title": "MV3: a new word based stream cipher using rapid mixing and revolving buffers",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Institute of Mathematics, The Hebrew University, Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Stephen D. Miller",
+            "id": "2153876507",
+            "org": "Institute of Mathematics, The Hebrew University, Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Ilya Mironov",
+            "id": "2139677914",
+            "org": "Microsoft Research, Mountain View, CA#TAB#"
+        },
+        {
+            "name": "Ramarathnam Venkatesan",
+            "id": "2126319880",
+            "org": "Microsoft Research, 1 Microsoft Way, Redmond, WA 98052, Cryptography, Security and Algorithms Group, Microsoft Research India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Theoretical computer science",
+        "Cycles per byte",
+        "Running key cipher",
+        "Block cipher mode of operation",
+        "Cipher",
+        "Computer science",
+        "Weak key",
+        "Stream cipher",
+        "Computer security",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "122794230",
+        "1481503769",
+        "1482588765",
+        "1486719429",
+        "1520563459",
+        "1527570981",
+        "1531434127",
+        "1534385083",
+        "1554090281",
+        "1560023496",
+        "1563880518",
+        "1572961947",
+        "1602293460",
+        "1619204927",
+        "1983355906",
+        "1992626439",
+        "2002945582",
+        "2015880590",
+        "2027528470",
+        "2047037526",
+        "2050179204",
+        "2057648657",
+        "2098689873",
+        "2101626510",
+        "2103910180",
+        "2105451999",
+        "2114197583",
+        "2115141985",
+        "2123460950",
+        "2130943734",
+        "2139964991",
+        "2151074078",
+        "2154271831",
+        "2162442687",
+        "2593949227",
+        "2786219742"
+    ]
+}

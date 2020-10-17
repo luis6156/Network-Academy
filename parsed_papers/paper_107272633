@@ -1,0 +1,36 @@
+{
+    "id": "107272633",
+    "title": "Escaping the event loop: an alternative control structure for multi-threaded GUIs",
+    "venue": "Proceedings of the IFIP TC2/WG2.7 Working Conference on Engineering for Human-Computer Interaction",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "M. Fuchs",
+            "id": "2632064697",
+            "org": "West Virginia University"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Event loop",
+        "Source code",
+        "Programming style",
+        "Reactive programming",
+        "Compiler",
+        "Computer science",
+        "Callback",
+        "Continuation-passing style",
+        "Programming language"
+    ],
+    "references": [
+        "107372140",
+        "138405048",
+        "1580664042",
+        "1963572625",
+        "2047869411",
+        "2060805543",
+        "2091249323",
+        "2110425399",
+        "2156268797"
+    ]
+}

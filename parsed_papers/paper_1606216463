@@ -1,0 +1,71 @@
+{
+    "id": "1606216463",
+    "title": "An optimized hardware architecture for the montgomery multiplication algorithm",
+    "venue": "public key cryptography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Miaoqing Huang",
+            "id": "2169336182",
+            "org": "The George Washington University, Washington, DC#TAB#"
+        },
+        {
+            "name": "Kris Gaj",
+            "id": "211296065",
+            "org": "George Mason University, Fairfax, VA#TAB#"
+        },
+        {
+            "name": "Soonhak Kwon",
+            "id": "2160164031",
+            "org": "Sungkyunkwan University, Suwon, Korea#TAB#"
+        },
+        {
+            "name": "Tarek A. El-Ghazawi",
+            "id": "727931705",
+            "org": "The George Washington University, Washington, DC#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Most significant bit",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Algorithm",
+        "Computer architecture",
+        "Computer science",
+        "Latency (engineering)",
+        "Cryptosystem",
+        "Hardware architecture",
+        "Architecture",
+        "Operand"
+    ],
+    "references": [
+        "1503267625",
+        "1519490952",
+        "1520260307",
+        "1542020576",
+        "1560088258",
+        "1573314286",
+        "1583871653",
+        "1588952639",
+        "1625386361",
+        "1627303988",
+        "1660562555",
+        "1676521748",
+        "1760131440",
+        "1762100969",
+        "1834108205",
+        "1849095083",
+        "1996360405",
+        "2095140504",
+        "2110122313",
+        "2118738175",
+        "2136870067",
+        "2137147061",
+        "2140850958",
+        "2147015565",
+        "2147881062",
+        "2151163104"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1584896380",
+    "title": "Differential attack on message authentication codes",
+    "venue": "international cryptology conference",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "Nippon Telegraph and Telephone Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Watermarking attack",
+        "Challenge-response authentication",
+        "Length extension attack",
+        "Computer science",
+        "Reflection attack",
+        "Ciphertext indistinguishability",
+        "Computer network",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1486933817",
+        "1493566387",
+        "1493969756",
+        "1527545029",
+        "1553753418",
+        "1567569629",
+        "1576495995",
+        "1580459019",
+        "1629301835",
+        "1964723977"
+    ]
+}

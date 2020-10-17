@@ -1,0 +1,43 @@
+{
+    "id": "1537077670",
+    "title": "A Binary Rewriting Defense Against Stack based Buffer Overflow Attacks.",
+    "venue": "usenix annual technical conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Manish Prasad",
+            "id": "2503297001",
+            "org": "SUNY StonyBrook"
+        },
+        {
+            "name": "Tzi-cker Chiueh",
+            "id": "2112199241",
+            "org": "Computer Science Department|State University of New York at Stony Brook"
+        }
+    ],
+    "fields_of_study": [
+        "Telnet",
+        "Parallel computing",
+        "Binary translation",
+        "Source code",
+        "Compiler",
+        "Computer science",
+        "Buffer overflow",
+        "Internet security",
+        "Portable Executable",
+        "Real-time computing",
+        "Stack buffer overflow"
+    ],
+    "references": [
+        "1499992849",
+        "1546149892",
+        "1655226010",
+        "1941166084",
+        "1990717911",
+        "2040183246",
+        "2047226031",
+        "2098984303",
+        "2102039064",
+        "2117115928"
+    ]
+}

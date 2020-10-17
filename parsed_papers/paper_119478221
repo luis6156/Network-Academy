@@ -1,0 +1,78 @@
+{
+    "id": "119478221",
+    "title": "Case Study: Using Transactions in Memcached",
+    "venue": "Transactional Memory",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Michael F. Spear",
+            "id": "2084531348",
+            "org": "Lehigh University"
+        },
+        {
+            "name": "Wenjia Ruan",
+            "id": "2128280960",
+            "org": "Lehigh University"
+        },
+        {
+            "name": "Yujie Liu",
+            "id": "2097780324",
+            "org": "Lehigh University"
+        },
+        {
+            "name": "Trilok Vyas",
+            "id": "1989059349",
+            "org": "Lehigh University"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Critical section",
+        "Transactional memory",
+        "Distributed computing",
+        "Computer science",
+        "Reference counting",
+        "Synchronization"
+    ],
+    "references": [
+        "1554388936",
+        "1828747228",
+        "1963520590",
+        "1979330015",
+        "1988800505",
+        "2002804304",
+        "2039296153",
+        "2041559024",
+        "2061863279",
+        "2072544773",
+        "2090011393",
+        "2094222793",
+        "2103933790",
+        "2105055683",
+        "2106669882",
+        "2109065830",
+        "2119653453",
+        "2122621236",
+        "2124644142",
+        "2128585185",
+        "2129460677",
+        "2129990308",
+        "2130392506",
+        "2132229133",
+        "2132484060",
+        "2141222493",
+        "2144570651",
+        "2149089882",
+        "2150732552",
+        "2155500238",
+        "2158947256",
+        "2163654949",
+        "2165791323",
+        "2166266685",
+        "2167598841",
+        "2167729440",
+        "2168163009",
+        "2340530615",
+        "2617898613"
+    ]
+}

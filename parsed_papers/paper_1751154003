@@ -1,0 +1,49 @@
+{
+    "id": "1751154003",
+    "title": "Efficient pairing computation on Elliptic curves in Hessian form",
+    "venue": "international conference on information security and cryptology",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Haihua Gu",
+            "id": "2603238410",
+            "org": "Computer Science and Engineering Department, Shanghai Jiao Tong University, Shanghai, P.R. China and Shanghai Huahong Integrated Circuit Co., Ltd., Shanghai,P.R. China#TAB#"
+        },
+        {
+            "name": "Dawu Gu",
+            "id": "2145276306",
+            "org": "Shanghai Huahong Integrated Circuit Co., Ltd., Shanghai,P.R. China#TAB#"
+        },
+        {
+            "name": "Wenlu Xie",
+            "id": "2141198508",
+            "org": "Computer Science and Engineering Department, Shanghai Jiao Tong University, Shanghai, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Supersingular elliptic curve",
+        "Mathematics",
+        "Counting points on elliptic curves",
+        "Edwards curve",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Elliptic divisibility sequence",
+        "Schoof's algorithm",
+        "Tate pairing"
+    ],
+    "references": [
+        "1508480110",
+        "1810472045",
+        "1838435525",
+        "1838876034",
+        "1843096854",
+        "1845108744",
+        "1990220158",
+        "1998368731",
+        "2006921752",
+        "2086042811",
+        "2117596926",
+        "2136692073"
+    ]
+}

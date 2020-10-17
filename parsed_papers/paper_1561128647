@@ -1,0 +1,42 @@
+{
+    "id": "1561128647",
+    "title": "Parallel checkpoint/recovery on cluster of IA-64 computers",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Youhui Zhang",
+            "id": "2146760830",
+            "org": "Department of Computer Science, Tsinghua Univ., Beijing, P.R.C#TAB#"
+        },
+        {
+            "name": "Dongsheng Wang",
+            "id": "2807612925",
+            "org": "Department of Computer Science, Tsinghua Univ., Beijing, P.R.C#TAB#"
+        },
+        {
+            "name": "Weimin Zheng",
+            "id": "2137330571",
+            "org": "Department of Computer Science, Tsinghua Univ., Beijing, P.R.C#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Cluster Node",
+        "IA-64",
+        "Message passing",
+        "Rollback",
+        "Parallel running",
+        "Control reconfiguration",
+        "Parallel algorithm",
+        "Operating system",
+        "High availability"
+    ],
+    "references": [
+        "1490419689",
+        "1537929875",
+        "2100970777"
+    ]
+}

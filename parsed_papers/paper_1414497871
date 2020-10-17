@@ -1,0 +1,56 @@
+{
+    "id": "1414497871",
+    "title": "A Low Data Complexity Attack on the GMR-2 Cipher Used in the Satellite Phones",
+    "venue": "fast software encryption",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Ruilin Li",
+            "id": "2619613143",
+            "org": "National University of Defense Technology"
+        },
+        {
+            "name": "Heng Li",
+            "id": "2305729331",
+            "org": "National University of Defence Technology"
+        },
+        {
+            "name": "Chao Li",
+            "id": "2638168104",
+            "org": "National University of Defence Technology"
+        },
+        {
+            "name": "Bing Sun",
+            "id": "2677678854",
+            "org": "National University of Defence Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cipher",
+        "Algorithm",
+        "Running key cipher",
+        "Transposition cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Theoretical computer science",
+        "Computer science",
+        "Stream cipher",
+        "Slide attack",
+        "Differential cryptanalysis",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "10072121",
+        "1495460021",
+        "1554090281",
+        "1570741313",
+        "1571721593",
+        "1575000443",
+        "1576797895",
+        "1755066991",
+        "1838677899",
+        "2095156129",
+        "2102096888",
+        "2129048695",
+        "2406652305"
+    ]
+}

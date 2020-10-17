@@ -1,0 +1,70 @@
+{
+    "id": "1546907539",
+    "title": "Key-Schedule Cryptoanalysis of IDEA, G-DES, GOST, SAFER, and Triple-DES",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "U.C. Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "Computer science",
+        "Boomerang attack",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Triple DES",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "63301953",
+        "134961700",
+        "1481631217",
+        "1482084358",
+        "1486901420",
+        "1495580669",
+        "1500356409",
+        "1500382400",
+        "1519885491",
+        "1523702841",
+        "1527545029",
+        "1527701244",
+        "1543271574",
+        "1562280314",
+        "1580171445",
+        "1590873771",
+        "1597936869",
+        "1764401387",
+        "1978695162",
+        "1979802565",
+        "1985969574",
+        "1991897749",
+        "2000646727",
+        "2008272678",
+        "2067999695",
+        "2072707905",
+        "2081451319",
+        "2103910180",
+        "2126671064",
+        "2155099317",
+        "2159339961",
+        "2610935322"
+    ]
+}

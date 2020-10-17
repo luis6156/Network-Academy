@@ -1,0 +1,79 @@
+{
+    "id": "1547150711",
+    "title": "Efficient multimethods in a single dispatch language",
+    "venue": "european conference on object oriented programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Brian Foote",
+            "id": "2286285811",
+            "org": "Dept. of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "Ralph E. Johnson",
+            "id": "2159634021",
+            "org": "Dept. of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL#TAB#"
+        },
+        {
+            "name": "James Noble",
+            "id": "2103426042",
+            "org": "School of Mathematical and Computing Sciences, Victoria University of Wellington, Wellington, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Visitor pattern",
+        "Object-oriented programming",
+        "Software development",
+        "Multiple inheritance",
+        "Computer science",
+        "Metaobject",
+        "Virtual machine",
+        "Programming language",
+        "Smalltalk"
+    ],
+    "references": [
+        "39710449",
+        "176999978",
+        "238861864",
+        "1495126004",
+        "1500250067",
+        "1506052820",
+        "1525643703",
+        "1538574252",
+        "1564310313",
+        "1579555714",
+        "1587166076",
+        "1609546211",
+        "1610570299",
+        "1770006921",
+        "1989258377",
+        "1993318777",
+        "2012031603",
+        "2015600092",
+        "2016460392",
+        "2018501701",
+        "2027416917",
+        "2030611910",
+        "2034993345",
+        "2045723688",
+        "2053636547",
+        "2055691648",
+        "2055970549",
+        "2078434561",
+        "2082514774",
+        "2091703106",
+        "2095219277",
+        "2095839043",
+        "2116793756",
+        "2122692581",
+        "2124734282",
+        "2133786491",
+        "2136682657",
+        "2144015080",
+        "2163832616",
+        "2164621667",
+        "2168287017",
+        "2171351846",
+        "2611598995"
+    ]
+}

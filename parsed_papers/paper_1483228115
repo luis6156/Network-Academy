@@ -1,0 +1,57 @@
+{
+    "id": "1483228115",
+    "title": "How to reconcile event-based performance analysis with tasking in OpenMP",
+    "venue": "international workshop on openmp",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daniel Lorenz",
+            "id": "2117850890",
+            "org": "Julich Supercomputing Centre, Forschungszentrum Julich, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Mohr",
+            "id": "1982081693",
+            "org": "Julich Supercomputing Centre, Forschungszentrum Julich, Germany#TAB#"
+        },
+        {
+            "name": "Christian Rossel",
+            "id": "2136429838",
+            "org": "Julich Supercomputing Centre, Forschungszentrum Julich, Germany#TAB#"
+        },
+        {
+            "name": "Dirk Schmidl",
+            "id": "2147731199",
+            "org": "Dept. of Computer Science, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Felix Wolf",
+            "id": "2230333684",
+            "org": "Julich Supercomputing Centre, Forschungszentrum Julich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Identifier",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Performance metric",
+        "Task parallelism",
+        "Concurrency",
+        "Instrumentation",
+        "Real-time computing"
+    ],
+    "references": [
+        "22005222",
+        "1508462451",
+        "1538073575",
+        "1570952358",
+        "1727936048",
+        "1858951234",
+        "1902894026",
+        "2136434791",
+        "2152419477"
+    ]
+}

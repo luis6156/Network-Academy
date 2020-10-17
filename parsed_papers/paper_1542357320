@@ -1,0 +1,39 @@
+{
+    "id": "1542357320",
+    "title": "An implementation of parallel 1-D FFT using SSE3 instructions on dual-core processors",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daisuke Takahashi",
+            "id": "2156780583",
+            "org": "Graduate School of Systems and Information Engineering, University of Tsukuba, Tsukuba, Ibaraki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Twiddle factor",
+        "SSE2",
+        "Parallel computing",
+        "Computer architecture",
+        "Streaming SIMD Extensions",
+        "Computer science",
+        "Cooley-Tukey FFT algorithm",
+        "SSE3",
+        "Fast Fourier transform",
+        "Xeon",
+        "Hyper-threading"
+    ],
+    "references": [
+        "1489894178",
+        "1518911419",
+        "1563748761",
+        "1603868614",
+        "1820775600",
+        "2045836768",
+        "2102182691",
+        "2127391977",
+        "2138289268",
+        "2160337867",
+        "2171641226"
+    ]
+}

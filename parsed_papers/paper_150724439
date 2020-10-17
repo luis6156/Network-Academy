@@ -1,0 +1,66 @@
+{
+    "id": "150724439",
+    "title": "Analysis of the SMS4 block cipher",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Fen Liu",
+            "id": "2660489294",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wen Ji",
+            "id": "2673096452",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Lei Hu",
+            "id": "2145762831",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Jintai Ding",
+            "id": "2135465465",
+            "org": "Department of Mathematical Sciences, University of Cincinnati, Cincinnati, OH#TAB#"
+        },
+        {
+            "name": "Shuwang Lv",
+            "id": "2710442320",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Andrei Pyshkin",
+            "id": "1971992527",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Ralf-Philipp Weinmann",
+            "id": "2147515735",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Theoretical computer science",
+        "Rail fence cipher",
+        "Transposition cipher",
+        "Running key cipher",
+        "Computer science",
+        "Distributed computing",
+        "Two-square cipher",
+        "Slide attack",
+        "Triple DES",
+        "CBC-MAC"
+    ],
+    "references": [
+        "1489021826",
+        "1492604485",
+        "1494217786",
+        "1587120902",
+        "1591620981",
+        "1676521748",
+        "2047404283",
+        "2109265351"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "1753041631",
+    "title": "An evaluation of per-chip nonuniform frequency scaling on multicores",
+    "venue": "usenix annual technical conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Xiao Zhang",
+            "id": "2140566233",
+            "org": "Department of Computer Science, University of Rochester#TAB#"
+        },
+        {
+            "name": "Kai Shen",
+            "id": "2166079265",
+            "org": "Department of Computer Science, University of Rochester#TAB#"
+        },
+        {
+            "name": "Sandhya Dwarkadas",
+            "id": "19214967",
+            "org": "Department of Computer Science, University of Rochester#TAB#"
+        },
+        {
+            "name": "Rongrong Zhong",
+            "id": "2043720903",
+            "org": "Department of Computer Science, University of Rochester#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Voltage",
+        "CPU power dissipation",
+        "Parallel computing",
+        "Chip",
+        "Computer science",
+        "CPU shielding",
+        "Frequency scaling",
+        "Real-time computing"
+    ],
+    "references": [
+        "43148069",
+        "1971879981",
+        "2001986196",
+        "2010082999",
+        "2064359039",
+        "2101903894",
+        "2105585248",
+        "2116175063",
+        "2123889672",
+        "2134807578",
+        "2154596969",
+        "2165747713"
+    ]
+}

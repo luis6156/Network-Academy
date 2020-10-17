@@ -1,0 +1,67 @@
+{
+    "id": "1590255507",
+    "title": "Parallax: Implicit Code Integrity Verification Using Return-Oriented Programming",
+    "venue": "dependable systems and networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Dennis Andriesse",
+            "id": "1985263506",
+            "org": "Syst. & Network Security Group, VU Univ. Amsterdam, Amsterdam, Netherlands"
+        },
+        {
+            "name": "Herbert Bos",
+            "id": "2269201832",
+            "org": "Syst. & Network Security Group, VU Univ. Amsterdam, Amsterdam, Netherlands"
+        },
+        {
+            "name": "Asia Slowinska",
+            "id": "210846225",
+            "org": "Syst. & Network Security Group, VU Univ. Amsterdam, Amsterdam, Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Redundant code",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Unreachable code",
+        "Loop-invariant code motion",
+        "Self-modifying code",
+        "Code bloat",
+        "Code generation",
+        "Real-time computing"
+    ],
+    "references": [
+        "17195072",
+        "70478248",
+        "1523450724",
+        "1631846088",
+        "1718337629",
+        "1953268564",
+        "1981033991",
+        "1996931407",
+        "2022292029",
+        "2047181172",
+        "2052897520",
+        "2060276266",
+        "2066784081",
+        "2084641398",
+        "2089560940",
+        "2099382052",
+        "2102166619",
+        "2103380811",
+        "2109219878",
+        "2123436168",
+        "2138517425",
+        "2144882558",
+        "2148888468",
+        "2158389625",
+        "2159059513",
+        "2161404565",
+        "2161992906",
+        "2162800072",
+        "2166462894"
+    ]
+}

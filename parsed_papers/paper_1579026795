@@ -1,0 +1,45 @@
+{
+    "id": "1579026795",
+    "title": "Least-Squares Policy Iteration: Bias-Variance Trade-off in Control Problems",
+    "venue": "international conference on machine learning",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Christophe Thiery",
+            "id": "2098466011",
+            "org": "LORIA - INRIA Lorraine - Campus Scientifique - BP 239, 54506 Vand?uvre-les-Nancy CEDEX - FRANCE"
+        },
+        {
+            "name": "Bruno Scherrer",
+            "id": "1735999048",
+            "org": "LORIA - INRIA Lorraine - Campus Scientifique - BP 239, 54506 Vand?uvre-les-Nancy CEDEX - FRANCE"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Preconditioner",
+        "Markov decision process",
+        "Discrete mathematics",
+        "Arnoldi iteration",
+        "Least squares",
+        "Modified Richardson iteration",
+        "Bellman equation",
+        "Mathematical optimization",
+        "Power iteration",
+        "Fixed-point iteration"
+    ],
+    "references": [
+        "1507222174",
+        "1537100889",
+        "1580425441",
+        "1583330603",
+        "2072931156",
+        "2075268401",
+        "2109330238",
+        "2121863487",
+        "2122689259",
+        "2130005627",
+        "2132351269",
+        "2165418472"
+    ]
+}

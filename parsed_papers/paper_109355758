@@ -1,0 +1,62 @@
+{
+    "id": "109355758",
+    "title": "VMAD: an advanced dynamic program analysis and instrumentation framework",
+    "venue": "compiler construction",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Alexandra Jimborean",
+            "id": "14454603",
+            "org": "INRIA Nancy-Grand Est (CAMUS), LSIIT, University of Strasbourg, CNRS, France#TAB#"
+        },
+        {
+            "name": "Luis Mastrangelo",
+            "id": "2018294364",
+            "org": "INRIA Nancy-Grand Est (CAMUS), LSIIT, University of Strasbourg, CNRS, France#TAB#"
+        },
+        {
+            "name": "Vincent Loechner",
+            "id": "121541012",
+            "org": "INRIA Nancy-Grand Est (CAMUS), LSIIT, University of Strasbourg, CNRS, France#TAB#"
+        },
+        {
+            "name": "Philippe Clauss",
+            "id": "2049982228",
+            "org": "INRIA Nancy-Grand Est (CAMUS), LSIIT, University of Strasbourg, CNRS, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Profiling (computer programming)",
+        "Profile-guided optimization",
+        "Compile time",
+        "Computer science",
+        "Dependence analysis",
+        "Runtime verification",
+        "Dynamic program analysis",
+        "Runtime system",
+        "Instrumentation (computer programming)",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1562406586",
+        "1664707389",
+        "1991591392",
+        "2000873501",
+        "2008313934",
+        "2009741116",
+        "2034761517",
+        "2052897520",
+        "2066118135",
+        "2076485607",
+        "2077324087",
+        "2095063920",
+        "2102638156",
+        "2102674270",
+        "2134633067",
+        "2150602145",
+        "2153510998",
+        "2156597205",
+        "2250315017"
+    ]
+}

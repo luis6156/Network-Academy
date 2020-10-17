@@ -1,0 +1,54 @@
+{
+    "id": "1776480121",
+    "title": "A greedy randomized adaptive search procedure applied to the clustering problem as an initialization process using K-Means as a local search procedure",
+    "venue": "Journal of Intelligent and Fuzzy Systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Jose Ramon Cano",
+            "id": "2141290861",
+            "org": "Department of Software Engineering, University of Huelva, 21071 La Rabida (Huelva), Spain. E-mail: Jose.cano@diesia.uhu.es#TAB#"
+        },
+        {
+            "name": "Oscar Cordon",
+            "id": "155549070",
+            "org": "Department of Computer Science and A.I., University of Granada, 18071-Granada, Spain. E-mail: {ocordon,herrera}@decsai.ugr.es#TAB#"
+        },
+        {
+            "name": "Francisco Herrera",
+            "id": "2141382980",
+            "org": "Department of Computer Science and A.I., University of Granada, 18071-Granada, Spain. E-mail: {ocordon,herrera}@decsai.ugr.es#TAB#"
+        },
+        {
+            "name": "Luciano Sanchez",
+            "id": "2113078863",
+            "org": "Department of Computer Science, University of Oviedo, Oviedo, Spain. E-mail: luciano@lsi.uniovi.es#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "k-means clustering",
+        "Local search (optimization)",
+        "Probabilistic logic",
+        "Cluster analysis",
+        "Best-first search",
+        "Initialization",
+        "GRASP",
+        "Greedy randomized adaptive search procedure",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1980317569",
+        "2054467888",
+        "2057691548",
+        "2071965987",
+        "2080847832",
+        "2085801246",
+        "2089040534",
+        "2090275183",
+        "2103868202",
+        "2155687169"
+    ]
+}

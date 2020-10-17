@@ -1,0 +1,36 @@
+{
+    "id": "1711031530",
+    "title": "Transparent network security policy enforcement",
+    "venue": "usenix annual technical conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Angelos D. Keromytis",
+            "id": "299775663",
+            "org": "Distributed Systems Lab, University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Jason L. Wright",
+            "id": "2131304721",
+            "org": "Network Security Technologies, Inc. (NETSEC)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network Access Control",
+        "Network security policy",
+        "SPNEGO",
+        "Distributed computing",
+        "Computer science",
+        "Security information and event management",
+        "Security service",
+        "Internet security",
+        "Security Parameter Index",
+        "Computer network",
+        "Security through obscurity"
+    ],
+    "references": [
+        "178189088",
+        "1686269893",
+        "2138381338"
+    ]
+}

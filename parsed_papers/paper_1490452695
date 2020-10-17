@@ -1,0 +1,38 @@
+{
+    "id": "1490452695",
+    "title": "A Source-To-Source Architecture for User-Defined Optimizations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Markus Schordan",
+            "id": "263008081",
+            "org": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "name": "Daniel J. Quinlan",
+            "id": "2126332795",
+            "org": "Lawrence Livermore National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Source code",
+        "Abstract syntax tree",
+        "Distributed computing",
+        "Functional compiler",
+        "Attribute grammar",
+        "Program transformation",
+        "Compiler",
+        "Computer science",
+        "Compiler correctness",
+        "Architecture"
+    ],
+    "references": [
+        "1556566737",
+        "1870914935",
+        "2059696856",
+        "2112569315",
+        "2114876932"
+    ]
+}

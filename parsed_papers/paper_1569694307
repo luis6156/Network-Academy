@@ -1,0 +1,38 @@
+{
+    "id": "1569694307",
+    "title": "GAMMA and MPI/GAMMA on Gigabit Ethernet",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Giuseppe Ciaccio",
+            "id": "2006973719",
+            "org": "DISI Universita di Genova"
+        },
+        {
+            "name": "Giovanni Chiola",
+            "id": "2710410917",
+            "org": "DISI Universita di Genova"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "ATA over Ethernet",
+        "Jumbo frame",
+        "Ethernet over PDH",
+        "Embedded system",
+        "Ethernet over SDH",
+        "Gigabit Ethernet",
+        "Computer network",
+        "Synchronous Ethernet",
+        "Myrinet",
+        "Ethernet Powerlink"
+    ],
+    "references": [
+        "163003819",
+        "1553727810",
+        "1560511712",
+        "2065414935"
+    ]
+}

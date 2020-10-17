@@ -1,0 +1,45 @@
+{
+    "id": "1591254981",
+    "title": "An off-policy natural policy gradient method for a partial observable Markov decision process",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yutaka Nakamura",
+            "id": "2162785732",
+            "org": "Nara Institute of Science and Technology#TAB#"
+        },
+        {
+            "name": "Takeshi Mori",
+            "id": "2116541190",
+            "org": "Nara Institute of Science and Technology#TAB#"
+        },
+        {
+            "name": "Shin Ishii",
+            "id": "2063114072",
+            "org": "Nara Institute of Science and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Markov decision process",
+        "Optimal control",
+        "Q-learning",
+        "Gradient method",
+        "Markov process",
+        "Reinforcement learning",
+        "Observable",
+        "Exploit",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1557073320",
+        "1600046456",
+        "2119333483",
+        "2121863487",
+        "2130801532",
+        "2169572888"
+    ]
+}

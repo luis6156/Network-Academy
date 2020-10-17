@@ -1,0 +1,42 @@
+{
+    "id": "1493089500",
+    "title": "SAM: Simple API for Object-Oriented Code Metrics",
+    "venue": "international conference on software reuse",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Adam Edelman",
+            "id": "2110870485",
+            "org": "Northern Virginia Center, Virginia Polytechnic Institute and State University, Virginia, USA 22043#TAB#"
+        },
+        {
+            "name": "William B. Frakes",
+            "id": "147044506",
+            "org": "Northern Virginia Center, Virginia Polytechnic Institute and State University, Virginia, USA 22043#TAB#"
+        },
+        {
+            "name": "Charles W. Lillie",
+            "id": "2627383136",
+            "org": "Northern Virginia Center, Virginia Polytechnic Institute and State University, Virginia, USA 22043#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Source lines of code",
+        "Object-oriented programming",
+        "Theoretical computer science",
+        "Software metric",
+        "Software inspection",
+        "Computer science",
+        "Database",
+        "Parsing"
+    ],
+    "references": [
+        "1571254960",
+        "1964962870",
+        "1984899089",
+        "2074315105",
+        "2090402260",
+        "2093148929",
+        "2395522013"
+    ]
+}

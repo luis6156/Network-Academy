@@ -1,0 +1,118 @@
+{
+    "id": "1791587242",
+    "title": "C-store: a column-oriented DBMS",
+    "venue": "very large data bases",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Michael Stonebraker",
+            "id": "1998938290",
+            "org": "MIT CSAIL, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Daniel J. Abadi",
+            "id": "2170206103",
+            "org": "MIT CSAIL, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Adam Batkin",
+            "id": "2357561535",
+            "org": "Brandeis University, Waltham, MA#TAB#"
+        },
+        {
+            "name": "Xuedong Chen",
+            "id": "2283538061",
+            "org": "UMass Boston, Boston, MA#TAB#"
+        },
+        {
+            "name": "Mitch Cherniack",
+            "id": "2003519162",
+            "org": "Brandeis University, Waltham, MA#TAB#"
+        },
+        {
+            "name": "Miguel Ferreira",
+            "id": "2227876091",
+            "org": "MIT CSAIL, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Edmond Lau",
+            "id": "2153542774",
+            "org": "MIT CSAIL, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Amerson Lin",
+            "id": "2250844167",
+            "org": "MIT CSAIL, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Samuel Madden",
+            "id": "2139913828",
+            "org": "MIT CSAIL, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Elizabeth J. O'Neil",
+            "id": "2154033516",
+            "org": "UMass Boston, Boston, MA#TAB#"
+        },
+        {
+            "name": "Patrick E. O'Neil",
+            "id": "2136822424",
+            "org": "UMass Boston, Boston, MA#TAB#"
+        },
+        {
+            "name": "Alex Rasin",
+            "id": "2856571886",
+            "org": "Brown University, Providence, RI#TAB#"
+        },
+        {
+            "name": "Nga Tran",
+            "id": "2125841382",
+            "org": "Brandeis University, Waltham, MA#TAB#"
+        },
+        {
+            "name": "Stanley B. Zdonik",
+            "id": "431165649",
+            "org": "Brown University, Providence, RI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Indexation",
+        "Snapshot isolation",
+        "Tree structure",
+        "Data mining",
+        "Computer science",
+        "Bitmap index",
+        "Database",
+        "High availability",
+        "Sargable",
+        "Relational database management system",
+        "Architecture"
+    ],
+    "references": [
+        "144943406",
+        "1497285001",
+        "1510397861",
+        "1515932031",
+        "1975577269",
+        "1993819379",
+        "1997020216",
+        "2010413210",
+        "2044240774",
+        "2063601856",
+        "2068739275",
+        "2080427212",
+        "2103201239",
+        "2103412498",
+        "2104954161",
+        "2111967617",
+        "2117917070",
+        "2124851765",
+        "2129652681",
+        "2151834759",
+        "2158237121",
+        "2164049396",
+        "2170357877",
+        "2285725925",
+        "2341510490"
+    ]
+}

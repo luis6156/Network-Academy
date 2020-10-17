@@ -1,0 +1,50 @@
+{
+    "id": "1481962261",
+    "title": "Challenge-eesponse based RFID authentication protocol for distributed database environment",
+    "venue": "international workshop on security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Keunwoo Rhee",
+            "id": "2125869678",
+            "org": "Information and Communication Security Lab, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        },
+        {
+            "name": "Jin Kwak",
+            "id": "2308965103",
+            "org": "Information and Communication Security Lab, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        },
+        {
+            "name": "Seungjoo Kim",
+            "id": "2139158536",
+            "org": "Information Security and Cryptology Lab, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        },
+        {
+            "name": "Dongho Won",
+            "id": "2127395087",
+            "org": "Information and Communication Security Lab, School of Information and Communication Engineering, Sungkyunkwan University, Gyeonggi-do, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Authentication protocol",
+        "Computer science",
+        "Distributed computing",
+        "SSLIOP",
+        "Computer security",
+        "General Inter-ORB Protocol",
+        "Wide Mouth Frog protocol",
+        "Reflection attack",
+        "Protocol spoofing",
+        "Challenge-Handshake Authentication Protocol",
+        "Otway-Rees protocol"
+    ],
+    "references": [
+        "1549300373",
+        "1913505164",
+        "2036534296",
+        "2092583284",
+        "2112137829",
+        "2151783055",
+        "2167654758"
+    ]
+}

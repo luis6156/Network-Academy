@@ -1,0 +1,57 @@
+{
+    "id": "1531011076",
+    "title": "Flexible and Optimized IDL Compilation for Distributed Applications",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Eric Eide",
+            "id": "2089674887",
+            "org": "University of Utah"
+        },
+        {
+            "name": "Jay Lepreau",
+            "id": "156243902",
+            "org": "University of Utah"
+        },
+        {
+            "name": "James L. Simister",
+            "id": "2058789089",
+            "org": "University of Utah"
+        }
+    ],
+    "fields_of_study": [
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "Marshalling",
+        "Message passing",
+        "Optimizing compiler",
+        "Middleware",
+        "Code bloat",
+        "Real-time computing",
+        "Dead code elimination",
+        "Remote procedure call"
+    ],
+    "references": [
+        "19830081",
+        "1556689684",
+        "1659340666",
+        "1791522999",
+        "2001376924",
+        "2012643955",
+        "2015785281",
+        "2087884088",
+        "2098111776",
+        "2098815550",
+        "2106035061",
+        "2115696550",
+        "2122960384",
+        "2125606443",
+        "2128883551",
+        "2141253292",
+        "2143120180",
+        "2155066383",
+        "2164719334"
+    ]
+}

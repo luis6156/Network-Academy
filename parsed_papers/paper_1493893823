@@ -1,0 +1,91 @@
+{
+    "id": "1493893823",
+    "title": "DryadLINQ: a system for general-purpose distributed data-parallel computing using a high-level language",
+    "venue": "operating systems design and implementation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yuan Yu",
+            "id": "2170786782",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Michael Isard",
+            "id": "2894555549",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Dennis Fetterly",
+            "id": "1992570377",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Mihai Budiu",
+            "id": "2324400913",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Ulfar Erlingsson",
+            "id": "691809822",
+            "org": "Reykjavik University, Iceland#TAB#"
+        },
+        {
+            "name": "Pradeep Kumar Gunda",
+            "id": "2068293816",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Jon Currey",
+            "id": "2045911459",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Byte",
+        "Parallel computing",
+        "High-level programming language",
+        "Compiler",
+        "Computer science",
+        "Language Integrated Query",
+        "sort",
+        "Database",
+        "SQL",
+        "Programming paradigm",
+        "Data model"
+    ],
+    "references": [
+        "1577169013",
+        "1642148853",
+        "1685540640",
+        "1975278491",
+        "1975731516",
+        "1987872267",
+        "1989152133",
+        "1997020216",
+        "1999321073",
+        "2008750849",
+        "2063281504",
+        "2080427212",
+        "2098935637",
+        "2100830825",
+        "2104861744",
+        "2112101330",
+        "2119400430",
+        "2119714163",
+        "2121054697",
+        "2122465391",
+        "2126583885",
+        "2136952952",
+        "2138237427",
+        "2139086035",
+        "2146917903",
+        "2154894831",
+        "2160329451",
+        "2171922437",
+        "2172143128",
+        "2173213060",
+        "2436525433",
+        "2624304035",
+        "2766000922"
+    ]
+}

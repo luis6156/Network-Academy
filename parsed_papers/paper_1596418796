@@ -1,0 +1,65 @@
+{
+    "id": "1596418796",
+    "title": "An Abstraction Algorithm for the Verification of Level-Sensitive Latch-Based Netlists",
+    "venue": "formal methods",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jason R. Baumgartner",
+            "id": "2016139738",
+            "org": "IBM Enterprise Systems Group, Austin, Texas 78758, USA. jasonb@austin.ibm.com#TAB#"
+        },
+        {
+            "name": "Tamir Heyman",
+            "id": "2617281497",
+            "org": "IBM Haifa Research Laboratory, Haifa, Israel. tamirh@cs.technion.ac.il#TAB#"
+        },
+        {
+            "name": "Vigyan Singhal",
+            "id": "2095411425",
+            "org": "Tempus Fugit, Inc., Fremont, California 94538, USA. vigyan@tempusf.com#TAB#"
+        },
+        {
+            "name": "Adnan Aziz",
+            "id": "2139108221",
+            "org": "The University of Texas, Austin, Texas 78712, USA. adnan@ece.utexas.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "High-level verification",
+        "Formal equivalence checking",
+        "Theoretical computer science",
+        "Algorithm",
+        "Netlist",
+        "State variable",
+        "Computer science",
+        "CTL*",
+        "Combinational logic",
+        "Model checking",
+        "Real-time computing",
+        "Abstraction model checking"
+    ],
+    "references": [
+        "1503973138",
+        "1520942064",
+        "1585286906",
+        "1600581889",
+        "1662204117",
+        "1955890204",
+        "1990183105",
+        "2001953066",
+        "2004306067",
+        "2009965218",
+        "2029266474",
+        "2087656024",
+        "2090220859",
+        "2117189826",
+        "2117812659",
+        "2135517247",
+        "2141725526",
+        "2149479807",
+        "2156036190",
+        "2172034979",
+        "2504421574"
+    ]
+}

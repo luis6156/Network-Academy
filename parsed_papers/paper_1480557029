@@ -1,0 +1,43 @@
+{
+    "id": "1480557029",
+    "title": "One time passwords in everything (OPIE): experiences with building and using stronger authentication",
+    "venue": "usenix security symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Daniel L. McDonald",
+            "id": "2437016635",
+            "org": "U.S. Naval Research Laboratory, Washington, DC#TAB#"
+        },
+        {
+            "name": "Randall J. Atkinson",
+            "id": "2708868207",
+            "org": "U.S. Naval Research Laboratory, Washington, DC#TAB#"
+        },
+        {
+            "name": "Craig Metz",
+            "id": "2342839817",
+            "org": "Kaman Sciences Corporation, Alexandria, Virginia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Cryptography",
+        "Computer access control",
+        "Computer science",
+        "Software distribution",
+        "Computer security",
+        "Software deployment",
+        "Password",
+        "One-time password",
+        "Usability",
+        "Authentication"
+    ],
+    "references": [
+        "2004310915",
+        "2113446256",
+        "2146749986",
+        "2282318976",
+        "2774071578"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "1502186288",
+    "title": "MR image segmentation using phase information and a novel multiscale scheme",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Pierrick Bourgeat",
+            "id": "2069138963",
+            "org": "BioMedIA Lab, Autonomous Systems Laboratory, CSIRO ICT Centre, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Jurgen Fripp",
+            "id": "1973781812",
+            "org": "BioMedIA Lab, Autonomous Systems Laboratory, CSIRO ICT Centre, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Peter Stanwell",
+            "id": "1391573943",
+            "org": "Institute for Magnetic Resonance Research, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Saadallah Ramadan",
+            "id": "2174607086",
+            "org": "Institute for Magnetic Resonance Research, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Sebastien Ourselin",
+            "id": "2045358941",
+            "org": "BioMedIA Lab, Autonomous Systems Laboratory, CSIRO ICT Centre, Sydney, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Image segmentation",
+        "Segmentation-based object categorization",
+        "Support vector machine",
+        "Pixel",
+        "Magnitude (mathematics)",
+        "Feature extraction",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1552802478",
+        "1590730397",
+        "1608700414",
+        "1870947790",
+        "1984391336",
+        "2111727749",
+        "2115004465",
+        "2123410556",
+        "2147168995",
+        "2153635508",
+        "2153810084"
+    ]
+}

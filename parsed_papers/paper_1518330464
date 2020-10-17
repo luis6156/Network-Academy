@@ -1,0 +1,46 @@
+{
+    "id": "1518330464",
+    "title": "Scalable database replication through dynamic multiversioning",
+    "venue": "conference of the centre for advanced studies on collaborative research",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kaloian Manassiev",
+            "id": "334770482",
+            "org": "Department of Computer Science, University of Toronto, Canada#TAB#"
+        },
+        {
+            "name": "Cristiana Amza",
+            "id": "2107834659",
+            "org": "Department of Electrical and Computer Engineering, University of Toronto, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Timestamp-based concurrency control",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Multi-master replication",
+        "Distributed computing",
+        "Computer science",
+        "Optimistic concurrency control",
+        "Concurrency control",
+        "Distributed concurrency control",
+        "Real-time computing"
+    ],
+    "references": [
+        "301824129",
+        "1483586365",
+        "1502623940",
+        "1545155892",
+        "1549404527",
+        "1555114514",
+        "1586956242",
+        "1648820737",
+        "1935402982",
+        "2070761976",
+        "2102203034",
+        "2138180780",
+        "2143876821"
+    ]
+}

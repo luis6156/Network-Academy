@@ -1,0 +1,55 @@
+{
+    "id": "1590185363",
+    "title": "A Formal Study of Slicing for Multi-threaded Programs with JVM Concurrency Primitives",
+    "venue": "static analysis symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "John Hatcliff",
+            "id": "1981077923",
+            "org": "Kansas State University"
+        },
+        {
+            "name": "James C. Corbett",
+            "id": "2778760017",
+            "org": "University of Hawaii"
+        },
+        {
+            "name": "Matthew B. Dwyer",
+            "id": "2156583880",
+            "org": "Kansas State University"
+        },
+        {
+            "name": "Stefan Sokolowski",
+            "id": "2699950742",
+            "org": "Kansas State University"
+        },
+        {
+            "name": "Hongjun Zheng",
+            "id": "2307059619",
+            "org": "Kansas State University"
+        }
+    ],
+    "fields_of_study": [
+        "Program slicing",
+        "Real time Java",
+        "Java Modeling Language",
+        "Theoretical computer science",
+        "Java",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Java concurrency",
+        "strictfp",
+        "Programming language"
+    ],
+    "references": [
+        "17979383",
+        "1512687743",
+        "2008860182",
+        "2114067856",
+        "2115309705",
+        "2158569306",
+        "2293624369"
+    ]
+}

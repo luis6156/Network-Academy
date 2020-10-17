@@ -1,0 +1,52 @@
+{
+    "id": "1582105055",
+    "title": "A Survey of Distributed Garbage Collection Techniques",
+    "venue": "international symposium on memory management",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "David Plainfosse",
+            "id": "2627460252",
+            "org": "ILOG"
+        },
+        {
+            "name": "Marc Shapiro",
+            "id": "2274888956",
+            "org": "Projet SOR, INRIA, Le Chesnay Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "cons",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Garbage collection",
+        "Tracing",
+        "Uniprocessor system",
+        "Reference counting",
+        "Race condition",
+        "Garbage",
+        "Data structure",
+        "Real-time computing"
+    ],
+    "references": [
+        "1516778075",
+        "1552730607",
+        "1568808662",
+        "1579270891",
+        "1690796504",
+        "1876014853",
+        "1965917732",
+        "1973501242",
+        "2000475900",
+        "2031707629",
+        "2050083119",
+        "2051555484",
+        "2055593834",
+        "2073671722",
+        "2118098427",
+        "2128943038",
+        "2295484512",
+        "2611598995"
+    ]
+}

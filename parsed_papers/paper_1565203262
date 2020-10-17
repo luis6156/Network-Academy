@@ -1,0 +1,45 @@
+{
+    "id": "1565203262",
+    "title": "A new network anomaly detection technique based on per-flow and per-service statistics",
+    "venue": "computational intelligence and security",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Yuji Waizumi",
+            "id": "239518708",
+            "org": "Graduate School of Information Sciences(GSIS), Tohoku University, Sendai, Miyagi, Japan#TAB#"
+        },
+        {
+            "name": "Daisuke Kudo",
+            "id": "2551715402",
+            "org": "DAI NIPPON PRINTING CO., LTD., Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Nei Kato",
+            "id": "2167296418",
+            "org": "Graduate School of Information Sciences(GSIS), Tohoku University, Sendai, Miyagi, Japan#TAB#"
+        },
+        {
+            "name": "Yoshiaki Nemoto",
+            "id": "2805352364",
+            "org": "Graduate School of Information Sciences(GSIS), Tohoku University, Sendai, Miyagi, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network security",
+        "Computer science",
+        "Statistics",
+        "Network simulation",
+        "Traffic flow",
+        "Network management",
+        "Intrusion detection system",
+        "Anomaly detection",
+        "Histogram"
+    ],
+    "references": [
+        "1506072753",
+        "1542723081",
+        "2108601876",
+        "2162240407"
+    ]
+}

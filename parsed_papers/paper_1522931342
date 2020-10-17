@@ -1,0 +1,57 @@
+{
+    "id": "1522931342",
+    "title": "Data Placement, Logging and Recovery in Real-Time Active Databases",
+    "venue": "ARTDB",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Rajendran M. Sivasankaran",
+            "id": "2054267733",
+            "org": "University of Massachusetts"
+        },
+        {
+            "name": "Krithi Ramamritham",
+            "id": "323797451",
+            "org": "University of Massachusetts"
+        },
+        {
+            "name": "John A. Stankovic",
+            "id": "2030977062",
+            "org": "University of Massachusetts"
+        },
+        {
+            "name": "Donald F. Towsley",
+            "id": "2177075905",
+            "org": "University of Massachusetts"
+        }
+    ],
+    "fields_of_study": [
+        "Transaction processing system",
+        "Systems modeling",
+        "Memory hierarchy",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Transaction processing",
+        "Concurrency control",
+        "Database",
+        "Active database",
+        "Real-time computing",
+        "Database transaction"
+    ],
+    "references": [
+        "1573217167",
+        "1574895192",
+        "1855065956",
+        "1991036250",
+        "2010053008",
+        "2016580249",
+        "2044667076",
+        "2107320858",
+        "2115001014",
+        "2121941088",
+        "2156496641",
+        "2168262126",
+        "2169450010"
+    ]
+}

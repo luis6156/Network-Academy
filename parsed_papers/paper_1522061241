@@ -1,0 +1,55 @@
+{
+    "id": "1522061241",
+    "title": "An efficient compression code for text databases",
+    "venue": "european conference on information retrieval",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Nieves R. Brisaboa",
+            "id": "2224363331",
+            "org": "Database Lab., Univ. da Coruna, Facultade de Informatica, A Coruna, Spain#TAB#"
+        },
+        {
+            "name": "Eva Lorenzo Iglesias",
+            "id": "2256913299",
+            "org": "Computer Science Dept., Univ. de Vigo, Escola Superior de Enxeneria Informatica, Ourense, Spain#TAB#"
+        },
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "Dept. of Computer Science, Univ. de Chile, Santiago, Chile#TAB#"
+        },
+        {
+            "name": "Jose R. Parama",
+            "id": "19588099",
+            "org": "Database Lab., Univ. da Coruna, Facultade de Informatica, A Coruna, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "String searching algorithm",
+        "Theoretical computer science",
+        "Redundancy (engineering)",
+        "Decoding methods",
+        "Vocabulary",
+        "Computer science",
+        "Huffman coding",
+        "Canonical Huffman code",
+        "Database",
+        "Prefix code",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1499930986",
+        "1515839227",
+        "1546738280",
+        "1555278369",
+        "1660390307",
+        "2013849299",
+        "2036407715",
+        "2096900278",
+        "2107745473",
+        "2122962290",
+        "2135494327",
+        "2180258973"
+    ]
+}

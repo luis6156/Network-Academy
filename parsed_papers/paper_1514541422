@@ -1,0 +1,68 @@
+{
+    "id": "1514541422",
+    "title": "Reconfigurable distributed storage for dynamic networks",
+    "venue": "international conference on principles of distributed systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gregory V. Chockler",
+            "id": "246127052",
+            "org": "CSAIL, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Seth Gilbert",
+            "id": "2142599983",
+            "org": "CSAIL, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Vincent Gramoli",
+            "id": "2104034072",
+            "org": "Dep. of Comp. Sci. and Eng., University of Connecticut, Storrs, CT#TAB#"
+        },
+        {
+            "name": "Peter M. Musial",
+            "id": "2036929430",
+            "org": "Dep. of Comp. Sci. and Eng., University of Connecticut, Storrs, CT#TAB#"
+        },
+        {
+            "name": "Alexander A. Shvartsman",
+            "id": "700708846",
+            "org": "CSAIL, Massachusetts Institute of Technology, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Instability",
+        "Computer science",
+        "Distributed computing",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Correctness",
+        "Paxos",
+        "Control reconfiguration",
+        "Distributed data store",
+        "Distributed algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "1552576519",
+        "1587246893",
+        "1865730475",
+        "2065180040",
+        "2066015450",
+        "2075854425",
+        "2094489280",
+        "2096866619",
+        "2107779152",
+        "2110765100",
+        "2112104979",
+        "2114387290",
+        "2131929623",
+        "2133516173",
+        "2138949781",
+        "2142849519",
+        "2155806575",
+        "2176216463",
+        "2336977579",
+        "2611515161"
+    ]
+}

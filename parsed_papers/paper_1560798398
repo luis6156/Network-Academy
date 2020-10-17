@@ -1,0 +1,68 @@
+{
+    "id": "1560798398",
+    "title": "Cryptanalysis on HMAC/NMAC-MD5 and MD5-MAC",
+    "venue": "international cryptology conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Center for Advanced Study, Tsinghua University, Beijing, China 100084 and Key Laboratory of Cryptographic Technology and Information Security, Ministry of Education, Shandong University, Jinan, Ch ...#TAB#"
+        },
+        {
+            "name": "Hongbo Yu",
+            "id": "2427311814",
+            "org": "Center for Advanced Study, Tsinghua University, Beijing, China 100084#TAB#"
+        },
+        {
+            "name": "Wei Wang",
+            "id": "2671840795",
+            "org": "Key Laboratory of Cryptographic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100#TAB#"
+        },
+        {
+            "name": "Haina Zhang",
+            "id": "2104955436",
+            "org": "Key Laboratory of Cryptographic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100#TAB#"
+        },
+        {
+            "name": "Tao Zhan",
+            "id": "2673830943",
+            "org": "Shandong University, Jinan, China 250100#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "Cryptanalysis",
+        "Computer science",
+        "Key (lock)",
+        "Distinguishing attack",
+        "Random function",
+        "MD5"
+    ],
+    "references": [
+        "9162323",
+        "1513113529",
+        "1513711610",
+        "1550771246",
+        "1566273181",
+        "1590269592",
+        "1656731780",
+        "1866609797",
+        "2011095011",
+        "2043711803",
+        "2103239853",
+        "2107165730",
+        "2130238828",
+        "2131212920",
+        "2131300413",
+        "2134518741",
+        "2134615993",
+        "2135759164",
+        "2172433705",
+        "2399310879",
+        "2525619314",
+        "2531150596",
+        "2611506938"
+    ]
+}

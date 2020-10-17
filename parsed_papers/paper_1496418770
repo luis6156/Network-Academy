@@ -1,0 +1,66 @@
+{
+    "id": "1496418770",
+    "title": "Weaknesses of a Password-Authenticated Key Exchange Protocol between Clients with Different Passwords",
+    "venue": "applied cryptography and network security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Shuhong Wang",
+            "id": "2893002608",
+            "org": "Peking University"
+        },
+        {
+            "name": "Jie Wang",
+            "id": "2893565713",
+            "org": "Peking University"
+        },
+        {
+            "name": "Maozhi Xu",
+            "id": "2699793357",
+            "org": "Peking University"
+        }
+    ],
+    "fields_of_study": [
+        "Authentication protocol",
+        "Key exchange",
+        "Cryptographic protocol",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Oakley protocol",
+        "Key-agreement protocol",
+        "Otway-Rees protocol",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "203500824",
+        "1503670812",
+        "1526491104",
+        "1529024636",
+        "1542059364",
+        "1543794512",
+        "1573328890",
+        "1579646980",
+        "1593324857",
+        "1595054995",
+        "1595293097",
+        "1602484190",
+        "1837822405",
+        "1981689534",
+        "1994386233",
+        "2091020476",
+        "2111443676",
+        "2124371582",
+        "2124432603",
+        "2128758858",
+        "2132648536",
+        "2133432179",
+        "2146749986",
+        "2149786941",
+        "2157604883",
+        "2160224003",
+        "2167006959",
+        "2170220035"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "1507020338",
+    "title": "memCUDA: map device memory to host memory on GPGPU platform",
+    "venue": "network and parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Hai Jin",
+            "id": "2168417342",
+            "org": "Services Computing Technology and System Lab, Cluster and Grid Computing Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Bo Li",
+            "id": "2690949694",
+            "org": "Services Computing Technology and System Lab, Cluster and Grid Computing Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Ran Zheng",
+            "id": "2103622246",
+            "org": "Services Computing Technology and System Lab, Cluster and Grid Computing Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Qin Zhang",
+            "id": "2591352434",
+            "org": "Services Computing Technology and System Lab, Cluster and Grid Computing Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Wenbing Ao",
+            "id": "2505155635",
+            "org": "Services Computing Technology and System Lab, Cluster and Grid Computing Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Overlay",
+        "Computer science",
+        "Uniform memory access",
+        "Memory segmentation",
+        "Memory management",
+        "Memory map",
+        "Conventional memory",
+        "Flat memory model",
+        "CUDA Pinned memory"
+    ],
+    "references": [
+        "1502558230",
+        "1517684295",
+        "1537323515",
+        "1623282124",
+        "1992851788",
+        "2032309817",
+        "2063160743",
+        "2123372783",
+        "2139935536",
+        "2151406013",
+        "2153492376",
+        "2170634604"
+    ]
+}

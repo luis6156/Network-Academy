@@ -1,0 +1,45 @@
+{
+    "id": "1503064432",
+    "title": "Curbing Junk E-Mail via Secure Classification",
+    "venue": "financial cryptography",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Eran Gabber",
+            "id": "223632183",
+            "org": "Bell Laboratories"
+        },
+        {
+            "name": "Markus Jakobsson",
+            "id": "2057643108",
+            "org": "Bell Laboratories"
+        },
+        {
+            "name": "Yossi Matias",
+            "id": "1874579918",
+            "org": "Bell Laboratories"
+        },
+        {
+            "name": "Alain J. Mayer",
+            "id": "2611376370",
+            "org": "Bell Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "User agent",
+        "Backward compatibility",
+        "Adversarial system",
+        "Hash function",
+        "Random oracle",
+        "Adversary"
+    ],
+    "references": [
+        "1506796649",
+        "1510273591",
+        "2032800234"
+    ]
+}

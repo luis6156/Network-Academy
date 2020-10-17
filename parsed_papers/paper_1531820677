@@ -1,0 +1,80 @@
+{
+    "id": "1531820677",
+    "title": "The program counter security model: automatic detection and removal of control-flow side channel attacks",
+    "venue": "international conference on information security and cryptology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "David Molnar",
+            "id": "2001305480",
+            "org": "UC-Berkeley#TAB#"
+        },
+        {
+            "name": "Matt Piotrowski",
+            "id": "2284738676",
+            "org": "UC-Berkeley#TAB#"
+        },
+        {
+            "name": "David Schultz",
+            "id": "2075901417",
+            "org": "MIT#TAB#"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "UC-Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Source code",
+        "Computer science",
+        "Timing attack",
+        "Program transformation",
+        "Computer security",
+        "Program counter",
+        "Real-time computing",
+        "Provable security",
+        "Covert channel"
+    ],
+    "references": [
+        "89293479",
+        "130371449",
+        "236432643",
+        "1510418153",
+        "1511943692",
+        "1518301672",
+        "1542297244",
+        "1560519124",
+        "1565369953",
+        "1569151289",
+        "1584292534",
+        "1586278430",
+        "1592625985",
+        "1592889082",
+        "1613874182",
+        "1664808737",
+        "1809974132",
+        "1890449996",
+        "1988374166",
+        "1997775274",
+        "2099137371",
+        "2107089133",
+        "2107691219",
+        "2112284176",
+        "2122049982",
+        "2148862943",
+        "2154616952",
+        "2154909745",
+        "2155938490",
+        "2157828581",
+        "2159840470",
+        "2166093784",
+        "2169239906",
+        "2293552385",
+        "2530218835",
+        "2612208439"
+    ]
+}

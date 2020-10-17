@@ -1,0 +1,53 @@
+{
+    "id": "1482823068",
+    "title": "Probabilistic packet filtering model to protect web server from DDoS attacks",
+    "venue": "network and parallel computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jungtaek Seo",
+            "id": "2126361023",
+            "org": "National Security Research Institute, Daejeon, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Cheolho Lee",
+            "id": "2141337710",
+            "org": "National Security Research Institute, Daejeon, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Jungtae Kim",
+            "id": "2295486052",
+            "org": "Graduate School of Information and Communication, Ajou University, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Taeshik Shon",
+            "id": "2092121144",
+            "org": "CIST, KOREA University, Seoul, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Jongsub Moon",
+            "id": "2097599302",
+            "org": "CIST, KOREA University, Seoul, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Computer science",
+        "Distributed computing",
+        "Random early detection",
+        "Trinoo",
+        "Server",
+        "Web server",
+        "Network packet",
+        "Application layer DDoS attack",
+        "Computer network",
+        "The Internet"
+    ],
+    "references": [
+        "1486542739",
+        "1524600321",
+        "1967612926",
+        "2157157130",
+        "2158733823"
+    ]
+}

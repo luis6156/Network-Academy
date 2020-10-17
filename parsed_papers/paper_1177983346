@@ -1,0 +1,92 @@
+{
+    "id": "1177983346",
+    "title": "Comparing design approaches for elliptic curve point multiplication over GF ( 2 k ) with polynomial basis representation",
+    "venue": "Microprocessors and Microsystems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Apostolos P. Fournaris",
+            "id": "2892673679",
+            "org": "Computer Informatics Engineering Dpt., Technological Educational Institute of Western Greece, Greece#TAB#"
+        },
+        {
+            "name": "Ioannis Zafeirakis",
+            "id": "761816377",
+            "org": "Electrical and Computer Engineering Dpt, University of Patras, Rio Campus 26500, Greece#TAB#"
+        },
+        {
+            "name": "Paris Kitsos",
+            "id": "2591406150",
+            "org": "Computer Informatics Engineering Dpt., Technological Educational Institute of Western Greece, Greece#TAB#"
+        },
+        {
+            "name": "Odysseas G. Koufopavlou",
+            "id": "125314923",
+            "org": "Electrical and Computer Engineering Dpt, University of Patras, Rio Campus 26500, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GF(2)",
+        "Parallel computing",
+        "Side channel attack",
+        "Very-large-scale integration",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Operation",
+        "Elliptic curve cryptography",
+        "Hardware acceleration",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "60689211",
+        "124286720",
+        "1522228241",
+        "1523099545",
+        "1527877608",
+        "1532398039",
+        "1575893707",
+        "1582598608",
+        "1583456310",
+        "1587576127",
+        "1590505641",
+        "1601639357",
+        "1773872090",
+        "1790731608",
+        "1947125001",
+        "1985137218",
+        "1990334072",
+        "1994429123",
+        "2001180707",
+        "2002871885",
+        "2006512828",
+        "2025568631",
+        "2028826090",
+        "2038884834",
+        "2043641200",
+        "2044568130",
+        "2052621483",
+        "2060746229",
+        "2065112768",
+        "2070626323",
+        "2079129615",
+        "2081934516",
+        "2082081063",
+        "2085540322",
+        "2093610370",
+        "2096133993",
+        "2097601417",
+        "2111459803",
+        "2114878372",
+        "2122152825",
+        "2133814675",
+        "2138169871",
+        "2138433464",
+        "2141841663",
+        "2149204794",
+        "2149568614",
+        "2150782829",
+        "2154909745",
+        "2610933481"
+    ]
+}

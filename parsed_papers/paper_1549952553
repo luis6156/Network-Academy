@@ -1,0 +1,34 @@
+{
+    "id": "1549952553",
+    "title": "Code generation in bouclettes.",
+    "venue": "euromicro workshop on parallel and distributed processing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Pierre Boulet",
+            "id": "2070475994",
+            "org": "Laboratoire de l'Informatique du Parallelisme | Ecole Normale Superieure de Lyon"
+        },
+        {
+            "name": "Michele Dion",
+            "id": "2170536741",
+            "org": "Laboratoire de l'Informatique du Parallelisme | Ecole Normale Superieure de Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Dead code",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Code generation",
+        "Fortran"
+    ],
+    "references": [
+        "1528152663",
+        "1548778012",
+        "1983427062",
+        "2041294870",
+        "2156172744"
+    ]
+}

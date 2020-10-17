@@ -1,0 +1,33 @@
+{
+    "id": "1519885491",
+    "title": "Key management in an encrypting file system",
+    "venue": "usenix summer technical conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Matt Blaze",
+            "id": "2794083866",
+            "org": "AT&T Bell Laboratories#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Keyfile",
+        "Key exchange",
+        "On-the-fly encryption",
+        "Computer science",
+        "Cryptographic key types",
+        "Computer security",
+        "Key escrow",
+        "Key encapsulation",
+        "Key management",
+        "Static key"
+    ],
+    "references": [
+        "1533021744",
+        "1996360405",
+        "2146749986",
+        "2156186849",
+        "2159339961",
+        "2407933944"
+    ]
+}

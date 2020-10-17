@@ -1,0 +1,56 @@
+{
+    "id": "1616582327",
+    "title": "A work stealing scheduler for parallel loops on shared cache multicores",
+    "venue": "european conference on parallel processing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Marc Tchiboukdjian",
+            "id": "2332937293",
+            "org": "INRIA - LIG#TAB#"
+        },
+        {
+            "name": "Vincent Danjean",
+            "id": "60520170",
+            "org": "INRIA - LIG#TAB#"
+        },
+        {
+            "name": "Thierry Gautier",
+            "id": "2059405868",
+            "org": "INRIA - LIG#TAB#"
+        },
+        {
+            "name": "Fabien Le Mentec",
+            "id": "2002502768",
+            "org": "INRIA - LIG#TAB#"
+        },
+        {
+            "name": "Bruno Raffin",
+            "id": "140422703",
+            "org": "INRIA - LIG#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache algorithms",
+        "Parallel computing",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "Snoopy cache",
+        "Distributed computing",
+        "Uniform memory access",
+        "Cache pollution",
+        "Cache-oblivious algorithm",
+        "MESIF protocol",
+        "Real-time computing"
+    ],
+    "references": [
+        "1869975848",
+        "1912043041",
+        "1965351873",
+        "2029891792",
+        "2113941519",
+        "2149211280",
+        "2168102371"
+    ]
+}

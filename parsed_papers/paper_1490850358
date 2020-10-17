@@ -1,0 +1,30 @@
+{
+    "id": "1490850358",
+    "title": "Specification of the Unix File System: A Comparative Case Study",
+    "venue": "algebraic methodology and software technology",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Maritta Heisel",
+            "id": "2557299791",
+            "org": "Technische Universitat Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "fstab",
+        "Everything is a file",
+        "TMPDIR",
+        "File descriptor",
+        "Unix file types",
+        "Computer science",
+        "Unix filesystem",
+        "Database",
+        "Single UNIX Specification",
+        "Unix architecture",
+        "Programming language"
+    ],
+    "references": [
+        "2136202785",
+        "2176805572"
+    ]
+}

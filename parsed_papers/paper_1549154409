@@ -1,0 +1,63 @@
+{
+    "id": "1549154409",
+    "title": "LiveDM: kernel malware analysis with un-tampered and temporal views of dynamic kernel memory",
+    "venue": "recent advances in intrusion detection",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Junghwan Rhee",
+            "id": "2153089702",
+            "org": "Purdue University and CERIAS#TAB#"
+        },
+        {
+            "name": "Ryan Riley",
+            "id": "2396163602",
+            "org": "Qatar University#TAB#"
+        },
+        {
+            "name": "Dongyan Xu",
+            "id": "2133101947",
+            "org": "Purdue University and CERIAS#TAB#"
+        },
+        {
+            "name": "Xuxian Jiang",
+            "id": "2101920419",
+            "org": "North Carolina State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "sysfs",
+        "Graph kernel",
+        "Computer science",
+        "Kernel virtual address space",
+        "Malware analysis",
+        "Kernel method",
+        "Memory map",
+        "Configfs",
+        "Real-time computing",
+        "Tree kernel"
+    ],
+    "references": [
+        "94181602",
+        "103986934",
+        "161166442",
+        "173413620",
+        "182734301",
+        "1522250664",
+        "1549813142",
+        "1641762327",
+        "1775664482",
+        "2005907808",
+        "2029224396",
+        "2065566278",
+        "2078944436",
+        "2105204459",
+        "2106270115",
+        "2126220112",
+        "2139949621",
+        "2146431583",
+        "2151200195",
+        "2154426165",
+        "2162800072"
+    ]
+}

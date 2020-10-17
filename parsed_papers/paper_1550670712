@@ -1,0 +1,39 @@
+{
+    "id": "1550670712",
+    "title": "Design of a minimum-rate predictor and its application to lossless image coding",
+    "venue": "european signal processing conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Ichiro Matsuda",
+            "id": "2893004953",
+            "org": "Dept. of Electrical Engineering, Science University of Tokyo, 2641 Yamazaki Noda-shi, Chiba Prefecture, 278-8510, Japan"
+        },
+        {
+            "name": "Hirofumi Mori",
+            "id": "2150633408",
+            "org": "Dept. of Electrical Engineering, Science University of Tokyo, 2641 Yamazaki Noda-shi, Chiba Prefecture, 278-8510, Japan"
+        },
+        {
+            "name": "Susumu Itoh",
+            "id": "2114693474",
+            "org": "Dept. of Electrical Engineering, Science University of Tokyo, 2641 Yamazaki Noda-shi, Chiba Prefecture, 278-8510, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Shannon-Fano coding",
+        "Context-adaptive variable-length coding",
+        "Context-adaptive binary arithmetic coding",
+        "Harmonic Vector Excitation Coding",
+        "Entropy encoding",
+        "Tunstall coding",
+        "Variable-length code",
+        "Mathematical optimization",
+        "Coding tree unit"
+    ],
+    "references": [
+        "2158347320",
+        "2170565466"
+    ]
+}

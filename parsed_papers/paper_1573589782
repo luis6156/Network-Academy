@@ -1,0 +1,37 @@
+{
+    "id": "1573589782",
+    "title": "A Formal Proof of the Deadline Driven Scheduler",
+    "venue": "international symposium organized jointly with working group provably correct systems on formal techniques in real time and fault tolerant systems",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Zheng Yuhua",
+            "id": "2672516615",
+            "org": "The United Nations University"
+        },
+        {
+            "name": "Chaochen Zhou",
+            "id": "2628685472",
+            "org": "The United Nations University International Institute for Software Technology P.O.Box 3058 Macau P.O.Box 3058 Macau"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Formal proof",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Duration calculus",
+        "Correctness",
+        "Formal methods",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing"
+    ],
+    "references": [
+        "1750187267",
+        "2038569232",
+        "2075282326",
+        "2167467151"
+    ]
+}

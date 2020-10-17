@@ -1,0 +1,67 @@
+{
+    "id": "1607393381",
+    "title": "Reentrant Readers-Writers: A Case Study Combining Model Checking with Theorem Proving",
+    "venue": "formal methods for industrial critical systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Bernard van Gastel",
+            "id": "1989183749",
+            "org": "Institute for Computing and Information Sciences, Radboud University Nijmegen, Nijmegen, The Netherlands 6525 AJ#TAB#"
+        },
+        {
+            "name": "Leonard Lensink",
+            "id": "2029450984",
+            "org": "Institute for Computing and Information Sciences, Radboud University Nijmegen, Nijmegen, The Netherlands 6525 AJ#TAB#"
+        },
+        {
+            "name": "Sjaak Smetsers",
+            "id": "1964664483",
+            "org": "Institute for Computing and Information Sciences, Radboud University Nijmegen, Nijmegen, The Netherlands 6525 AJ#TAB#"
+        },
+        {
+            "name": "Marko C. J. D. van Eekelen",
+            "id": "2024566924",
+            "org": "Institute for Computing and Information Sciences, Radboud University Nijmegen, Nijmegen, The Netherlands 6525 AJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Critical section",
+        "Computer science",
+        "Symbolic execution",
+        "Lock (computer science)",
+        "Reentrancy",
+        "Correctness",
+        "Model checking",
+        "Deadlock",
+        "Automated theorem proving"
+    ],
+    "references": [
+        "125251596",
+        "143291542",
+        "1522978085",
+        "1534850143",
+        "1555745065",
+        "1556566737",
+        "1583645201",
+        "1593428110",
+        "1777881387",
+        "1825148885",
+        "1945466999",
+        "1964064807",
+        "2000947342",
+        "2049764332",
+        "2054554282",
+        "2067611638",
+        "2106192381",
+        "2114800129",
+        "2115309705",
+        "2128804846",
+        "2135274583",
+        "2145098440",
+        "2158209653",
+        "2167699088",
+        "2171480813"
+    ]
+}

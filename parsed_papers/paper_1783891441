@@ -1,0 +1,64 @@
+{
+    "id": "1783891441",
+    "title": "Noncollective communicator creation in MPI",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "James Dinan",
+            "id": "2051044942",
+            "org": "Argonne National Laboratory, Argonne, Illinois#TAB#"
+        },
+        {
+            "name": "Sriram Krishnamoorthy",
+            "id": "1973854216",
+            "org": "Pacific Northwest National Laboratory, Richland, Washington#TAB#"
+        },
+        {
+            "name": "Pavan Balaji",
+            "id": "1990703395",
+            "org": "Argonne National Laboratory, Argonne, Illinois#TAB#"
+        },
+        {
+            "name": "Jeff R. Hammond",
+            "id": "2174198211",
+            "org": "Argonne National Laboratory, Argonne, Illinois#TAB#"
+        },
+        {
+            "name": "Manojkumar Krishnan",
+            "id": "2157967220",
+            "org": "Pacific Northwest National Laboratory, Richland, Washington#TAB#"
+        },
+        {
+            "name": "Vinod Tipparaju",
+            "id": "2762540024",
+            "org": "Oak Ridge National Laboratory, Oak Ridge, Tennessee#TAB#"
+        },
+        {
+            "name": "Abhinav Vishnu",
+            "id": "1184334124",
+            "org": "Pacific Northwest National Laboratory, Richland, Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Process group",
+        "Computation",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Markov chain Monte Carlo",
+        "Computer science",
+        "Use case",
+        "Real-time computing",
+        "Petascale computing",
+        "Fault tolerance",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1506364729",
+        "1531705689",
+        "1861151562",
+        "1969215126",
+        "2082659044",
+        "2095760405"
+    ]
+}

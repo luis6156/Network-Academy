@@ -1,0 +1,45 @@
+{
+    "id": "1587407860",
+    "title": "ssmail: Opportunistic Encryption in sendmail",
+    "venue": "usenix large installation systems administration conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Damian Bentley",
+            "id": "2278990158",
+            "org": "Australian National University#TAB#"
+        },
+        {
+            "name": "Gregory G. Rose",
+            "id": "2145324050",
+            "org": "QUALCOMM Australia#TAB#"
+        },
+        {
+            "name": "Tara Whalen",
+            "id": "2662414004",
+            "org": "Communications Research Centre Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Email encryption",
+        "Keyfile",
+        "40-bit encryption",
+        "Client-side encryption",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Link encryption",
+        "56-bit encryption",
+        "On-the-fly encryption"
+    ],
+    "references": [
+        "1485200701",
+        "1578184507",
+        "1783743032",
+        "2081642714",
+        "2126098610",
+        "2150110061",
+        "2156186849",
+        "2234353095"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "1488986397",
+    "title": "CacheAudit: a tool for the static analysis of cache side channels",
+    "venue": "usenix security symposium",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Goran Doychev",
+            "id": "2678702986",
+            "org": "IMDEA Software Institute#TAB#"
+        },
+        {
+            "name": "Dominik Feld",
+            "id": "2280254201",
+            "org": "Saarland University#TAB#"
+        },
+        {
+            "name": "Boris Kopf",
+            "id": "2137841054",
+            "org": "IMDEA Software Institute#TAB#"
+        },
+        {
+            "name": "Laurent Mauborgne",
+            "id": "283318887",
+            "org": "IMDEA Software Institute#TAB#"
+        },
+        {
+            "name": "Jan Reineke",
+            "id": "1972005776",
+            "org": "Saarland University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Cache",
+        "Cache algorithms",
+        "Theoretical computer science",
+        "Executable",
+        "Static analysis",
+        "Cache coloring",
+        "Distributed computing",
+        "Computer science",
+        "Computer security",
+        "Cache-oblivious algorithm",
+        "Cache invalidation"
+    ],
+    "references": [
+        "147129824",
+        "1515906028",
+        "1523982624",
+        "1549794385",
+        "1565879960",
+        "1584476834",
+        "1664808737",
+        "1766580128",
+        "1992291252",
+        "1997775274",
+        "2014764321",
+        "2037851672",
+        "2043100293",
+        "2044110501",
+        "2062066235",
+        "2097151854",
+        "2101171610",
+        "2108104925",
+        "2109510636",
+        "2111552846",
+        "2116877149",
+        "2117550587",
+        "2119028650",
+        "2119966192",
+        "2122049982",
+        "2133701468",
+        "2137224681",
+        "2144219822",
+        "2147436337",
+        "2151071112",
+        "2154909745",
+        "2166293920",
+        "2167208487",
+        "2172060328"
+    ]
+}

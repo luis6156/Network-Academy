@@ -1,0 +1,53 @@
+{
+    "id": "163470805",
+    "title": "Run-through stabilization: an MPI proposal for process fault tolerance",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Joshua Hursey",
+            "id": "1513549892",
+            "org": "Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Richard L. Graham",
+            "id": "2239366155",
+            "org": "Oak Ridge National Laboratory#TAB#"
+        },
+        {
+            "name": "Greg Bronevetsky",
+            "id": "211849072",
+            "org": "Lawrence Livermore National Laboratory#TAB#"
+        },
+        {
+            "name": "Darius Buntinas",
+            "id": "3647825",
+            "org": "Argonne National Laboratory#TAB#"
+        },
+        {
+            "name": "Howard Pritchard",
+            "id": "2142379386",
+            "org": "Cray, Inc.#TAB#"
+        },
+        {
+            "name": "David Georged Solt",
+            "id": "2525655429",
+            "org": "Hewlett-Packard#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Point-to-point",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Software fault tolerance",
+        "Fault tolerance"
+    ],
+    "references": [
+        "2033579026",
+        "2036641664",
+        "2083613288",
+        "2133943294"
+    ]
+}

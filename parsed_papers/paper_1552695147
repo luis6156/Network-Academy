@@ -1,0 +1,47 @@
+{
+    "id": "1552695147",
+    "title": "Optimal asymmetric encryption",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Mihir Bellare",
+            "id": "2052950829",
+            "org": "IBM T.J. Watson Research Center"
+        },
+        {
+            "name": "Phillip Rogaway",
+            "id": "2106597688",
+            "org": "University of California at Davis"
+        }
+    ],
+    "fields_of_study": [
+        "SHA-2",
+        "Discrete mathematics",
+        "Cryptographic hash function",
+        "Computer science",
+        "Hash chain",
+        "Plaintext-aware encryption",
+        "Collision attack",
+        "Hash function",
+        "Chosen-ciphertext attack",
+        "MDC-2"
+    ],
+    "references": [
+        "1569930334",
+        "1646354800",
+        "1970606468",
+        "1979215153",
+        "1996360405",
+        "2010507480",
+        "2025897091",
+        "2027528470",
+        "2052267638",
+        "2073210531",
+        "2085759780",
+        "2122984309",
+        "2137883105",
+        "2151413173",
+        "2164284862"
+    ]
+}

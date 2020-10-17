@@ -1,0 +1,52 @@
+{
+    "id": "1799077473",
+    "title": "Gecko: a contention-oblivious design for cloud storage",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ji-Yong Shin",
+            "id": "2157632340",
+            "org": "Cornell University#TAB#"
+        },
+        {
+            "name": "Mahesh Balakrishnan",
+            "id": "1999331212",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Lakshmi Ganesh",
+            "id": "2810051475",
+            "org": "UT Austin#TAB#"
+        },
+        {
+            "name": "Tudor Marian",
+            "id": "1842451847",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Hakim Weatherspoon",
+            "id": "186019731",
+            "org": "Cornell University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Log structure",
+        "Computer science",
+        "Cleaning (activity)",
+        "Embedded system",
+        "Cloud storage",
+        "Disk array",
+        "Operating system"
+    ],
+    "references": [
+        "142764049",
+        "1538319448",
+        "2023714872",
+        "2025371316",
+        "2079369525",
+        "2108183412",
+        "2159679396"
+    ]
+}

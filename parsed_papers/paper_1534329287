@@ -1,0 +1,49 @@
+{
+    "id": "1534329287",
+    "title": "An O(n 2 log n) time algorithm for computing shortest paths amidst growing discs in the plane",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Anil Maheshwari",
+            "id": "2154897350",
+            "org": "Carleton University, Ottawa, ON, Canada#TAB#"
+        },
+        {
+            "name": "Doron Nussbaum",
+            "id": "2171715724",
+            "org": "Carleton University, Ottawa, ON, Canada#TAB#"
+        },
+        {
+            "name": "Jorg-Rudiger Sack",
+            "id": "2059118299",
+            "org": "Carleton University, Ottawa, ON, Canada#TAB#"
+        },
+        {
+            "name": "Jiehua Yi",
+            "id": "2109156966",
+            "org": "Carleton University, Ottawa, ON, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Shortest path problem",
+        "Algorithm",
+        "Yen's algorithm",
+        "Discrete mathematics",
+        "Binary logarithm",
+        "Combinatorics",
+        "Tangent",
+        "K shortest path routing",
+        "Voronoi diagram",
+        "Shortest Path Faster Algorithm",
+        "Constrained Shortest Path First",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1589443075",
+        "1845390921",
+        "1994987092",
+        "2141968974"
+    ]
+}

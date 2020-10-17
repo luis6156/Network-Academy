@@ -1,0 +1,81 @@
+{
+    "id": "1602642926",
+    "title": "Java bytecode verification for @NonNull types",
+    "venue": "compiler construction",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Chris Male",
+            "id": "2148111323",
+            "org": "Victoria University of Wellington, NZ#TAB#"
+        },
+        {
+            "name": "David J. Pearce",
+            "id": "2126043016",
+            "org": "Victoria University of Wellington, NZ#TAB#"
+        },
+        {
+            "name": "Alex Potanin",
+            "id": "1973305793",
+            "org": "Victoria University of Wellington, NZ#TAB#"
+        },
+        {
+            "name": "Constantine Dymnikov",
+            "id": "96416628",
+            "org": "Victoria University of Wellington, NZ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Java bytecode",
+        "Generics in Java",
+        "Computer science",
+        "Java annotation",
+        "Bytecode",
+        "Java concurrency",
+        "Scala",
+        "strictfp",
+        "Programming language"
+    ],
+    "references": [
+        "1479696786",
+        "1501401133",
+        "1536119593",
+        "1557543533",
+        "1567014300",
+        "1599366842",
+        "1608862494",
+        "1654262235",
+        "1874950958",
+        "1948625797",
+        "1963569294",
+        "1970759612",
+        "1978692906",
+        "1982205631",
+        "1993836075",
+        "2022443117",
+        "2025672027",
+        "2044735058",
+        "2065088439",
+        "2066980498",
+        "2075309900",
+        "2076090418",
+        "2078314687",
+        "2091909330",
+        "2093094052",
+        "2102389857",
+        "2108827856",
+        "2113238444",
+        "2125044336",
+        "2128347075",
+        "2132613704",
+        "2140144076",
+        "2148755014",
+        "2153006094",
+        "2156268601",
+        "2159377125",
+        "2168441850",
+        "2194223632",
+        "2465715726"
+    ]
+}

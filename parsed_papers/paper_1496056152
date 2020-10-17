@@ -1,0 +1,30 @@
+{
+    "id": "1496056152",
+    "title": "Time-Optimal Gossip in Noncombining 2-D Tori with Constant Buffers",
+    "venue": "european conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Michal Soch",
+            "id": "2521487679",
+            "org": "Czech Technical University"
+        },
+        {
+            "name": "Pavel Tvrdik",
+            "id": "678871097",
+            "org": "Czech Technical University"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Models of communication",
+        "Computer science",
+        "Distributed computing",
+        "Gossip",
+        "Torus"
+    ],
+    "references": [
+        "69204502",
+        "1533435262"
+    ]
+}

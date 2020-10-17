@@ -1,0 +1,35 @@
+{
+    "id": "1797288984",
+    "title": "Entropy-based Pruning of Backoff Language Models",
+    "venue": "arXiv: Computation and Language",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Andreas Stolcke",
+            "id": "684032073",
+            "org": "Speech Technology And Research Laboratory|SRI International"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Pruning",
+        "Training set",
+        "Perplexity",
+        "Pattern recognition",
+        "Computer science",
+        "Binary entropy function",
+        "Maximum entropy probability distribution",
+        "Kullback-Leibler divergence",
+        "Heuristic",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "32217939",
+        "1757803263",
+        "1903115690",
+        "2134237567",
+        "2157140289",
+        "2162995740"
+    ]
+}

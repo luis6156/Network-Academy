@@ -1,0 +1,41 @@
+{
+    "id": "149964843",
+    "title": "Differential Attacks against the Helix Stream Cipher",
+    "venue": "fast software encryption",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Frederic Muller",
+            "id": "2165156849",
+            "org": "DCSSI Crypto Lab"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Block cipher mode of operation",
+        "Running key cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Transposition cipher",
+        "Computer science",
+        "Distributed computing",
+        "Stream cipher",
+        "Telecommunications",
+        "Related-key attack",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "68530891",
+        "1504341594",
+        "1556597491",
+        "1596153847",
+        "1793240080",
+        "1866349918",
+        "2030944258",
+        "2103910180",
+        "2105451999",
+        "2115141985",
+        "2133065964",
+        "2145227448",
+        "2152723805"
+    ]
+}

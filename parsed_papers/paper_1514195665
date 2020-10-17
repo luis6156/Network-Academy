@@ -1,0 +1,45 @@
+{
+    "id": "1514195665",
+    "title": "Throughput Evaluation and Enhancement of TCP Clients in Wi-Fi Hot Spots",
+    "venue": "wireless on demand network systems and service",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Raffaele Bruno",
+            "id": "2137615239",
+            "org": "Italian National Research Council (CNR)"
+        },
+        {
+            "name": "Marco Conti",
+            "id": "1964468254",
+            "org": "Italian National Research Council (CNR)"
+        },
+        {
+            "name": "Enrico Gregori",
+            "id": "2148812019",
+            "org": "Italian National Research Council (CNR)"
+        }
+    ],
+    "fields_of_study": [
+        "Zeta-TCP",
+        "Computer science",
+        "H-TCP",
+        "TCP tuning",
+        "TCP acceleration",
+        "TCP hole punching",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Compound TCP"
+    ],
+    "references": [
+        "1489058467",
+        "1538556499",
+        "1896822992",
+        "2068136956",
+        "2111579580",
+        "2121149549",
+        "2154017671",
+        "2162598825"
+    ]
+}

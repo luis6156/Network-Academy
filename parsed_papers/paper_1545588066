@@ -1,0 +1,55 @@
+{
+    "id": "1545588066",
+    "title": "Automatic Analysis of the Left Ventricle in the Time Sequences of 3D Echo-Cardiographic Images",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Olivier Gerard",
+            "id": "2135754298",
+            "org": "LEP - Philips Research"
+        },
+        {
+            "name": "Maxim Fradkin",
+            "id": "2200713046",
+            "org": "LEP - Philips Research"
+        },
+        {
+            "name": "A. Collet Billon",
+            "id": "1975531269",
+            "org": "LEP - Philips Research"
+        },
+        {
+            "name": "M. Jacob",
+            "id": "2497749771",
+            "org": "LEP - Philips Research"
+        },
+        {
+            "name": "J. M. Rouet",
+            "id": "2697295617",
+            "org": "LEP - Philips Research"
+        },
+        {
+            "name": "S. Makram-Ebeid",
+            "id": "2714509496",
+            "org": "LEP - Philips Research"
+        }
+    ],
+    "fields_of_study": [
+        "Ejection fraction",
+        "Ventricle",
+        "Segmentation",
+        "Computer vision",
+        "3D ultrasound",
+        "Pattern recognition",
+        "Computer science",
+        "Reproducibility",
+        "Heart motion",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1565722771",
+        "1597553206",
+        "2104095591"
+    ]
+}

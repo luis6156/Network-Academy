@@ -1,0 +1,55 @@
+{
+    "id": "1504403282",
+    "title": "An Analytical Study on TCP-friendly Congestion Control for Multimedia Streams",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Wei Wu",
+            "id": "2710048162",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Yong Ren",
+            "id": "2639257936",
+            "org": "Tsinghua University"
+        },
+        {
+            "name": "Xiuming Shan",
+            "id": "2641891089",
+            "org": "Tsinghua University"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "TCP Westwood plus",
+        "Computer science",
+        "Distributed computing",
+        "Random early detection",
+        "CUBIC TCP",
+        "TCP tuning",
+        "H-TCP",
+        "Fairness measure",
+        "TCP Friendly Rate Control",
+        "Multimedia"
+    ],
+    "references": [
+        "1804414343",
+        "1987497363",
+        "1994717387",
+        "1995173604",
+        "2037710455",
+        "2100948257",
+        "2124478678",
+        "2126880366",
+        "2129348840",
+        "2133638675",
+        "2147524058",
+        "2153857052",
+        "2158700277",
+        "2158733823",
+        "2163093107",
+        "2167370536",
+        "2753542457"
+    ]
+}

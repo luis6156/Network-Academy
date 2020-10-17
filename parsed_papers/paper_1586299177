@@ -1,0 +1,63 @@
+{
+    "id": "1586299177",
+    "title": "IP Generation for an FPGA-Based Audio DAC Sigma-Delta Converter",
+    "venue": "field-programmable logic and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ralf Ludewig",
+            "id": "2325606620",
+            "org": "Darmstadt University of Technology"
+        },
+        {
+            "name": "Oliver Soffke",
+            "id": "199325053",
+            "org": "Darmstadt University of Technology"
+        },
+        {
+            "name": "Peter Zipf",
+            "id": "1973058041",
+            "org": "Darmstadt University of Technology"
+        },
+        {
+            "name": "Manfred Glesner",
+            "id": "2106105596",
+            "org": "Darmstadt University of Technology"
+        },
+        {
+            "name": "Kong-Pang Pun",
+            "id": "2120936703",
+            "org": "Chinese University of Hong Kong"
+        },
+        {
+            "name": "Kuen Hung Tsoi",
+            "id": "2034044398",
+            "org": "Chinese University of Hong Kong"
+        },
+        {
+            "name": "Kin-Hong Lee",
+            "id": "2098143020",
+            "org": "Chinese University of Hong Kong"
+        },
+        {
+            "name": "Philip Heng Wai Leong",
+            "id": "2149635049",
+            "org": "Chinese University of Hong Kong"
+        }
+    ],
+    "fields_of_study": [
+        "System-level simulation",
+        "Field-programmable gate array",
+        "VHDL",
+        "Circuit design",
+        "Noise shaping",
+        "Sampling (signal processing)",
+        "Computer science",
+        "Delta-sigma modulation",
+        "Real-time computing",
+        "Hardware description language"
+    ],
+    "references": [
+        "1568218683"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1496744100",
+    "title": "Brief announcement: weak synchrony models and failure detectors for message passing (k-)set agreement",
+    "venue": "international symposium on distributed computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Martin Biely",
+            "id": "1572262402",
+            "org": "Technische Universitat Wien, Embedded Computing Systems Group#TAB#"
+        },
+        {
+            "name": "Peter Robinson",
+            "id": "2584668178",
+            "org": "Technische Universitat Wien, Embedded Computing Systems Group#TAB#"
+        },
+        {
+            "name": "Ulrich Schmid",
+            "id": "2159209983",
+            "org": "Technische Universitat Wien, Embedded Computing Systems Group#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Message broker",
+        "Shared memory",
+        "Consensus",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Distributed shared memory",
+        "Message passing",
+        "Asynchronous system",
+        "Impossibility",
+        "Real-time computing"
+    ],
+    "references": [
+        "1541073742",
+        "1605178721",
+        "1959452368",
+        "1967487759",
+        "1969718746",
+        "1990904669",
+        "2035362408",
+        "2077240273",
+        "2148050579"
+    ]
+}

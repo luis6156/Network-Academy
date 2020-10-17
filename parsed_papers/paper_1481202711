@@ -1,0 +1,48 @@
+{
+    "id": "1481202711",
+    "title": "Improving tor using a TCP-over-DTLS tunnel",
+    "venue": "usenix security symposium",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Joel Reardon",
+            "id": "2111500736",
+            "org": "Google Switzerland GmbH, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Ian Goldberg",
+            "id": "2113410603",
+            "org": "University of Waterloo, Waterloo, ON, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "Multiplexing",
+        "Transport Layer Security",
+        "Computer science",
+        "Computer network",
+        "Latency (engineering)",
+        "Computer security",
+        "Datagram Transport Layer Security",
+        "Network packet",
+        "TCP Friendly Rate Control",
+        "The Internet"
+    ],
+    "references": [
+        "1545050218",
+        "1558317064",
+        "1570771725",
+        "1655958391",
+        "1838112905",
+        "1996497509",
+        "2101890615",
+        "2103647628",
+        "2126193037",
+        "2127295197",
+        "2149864260",
+        "2150248082",
+        "2153156723",
+        "2153486199",
+        "2539957464"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1509518159",
+    "title": "Nonlinear equivalence of stream ciphers",
+    "venue": "fast software encryption",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Sondre Ronjom",
+            "id": "2679847192",
+            "org": "Crypto Technology Group, Norwegian National Security Authority, Baerum, Norway#TAB#"
+        },
+        {
+            "name": "Carlos Cid",
+            "id": "2109016628",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block size",
+        "Cipher",
+        "Key schedule",
+        "Discrete mathematics",
+        "Stream cipher",
+        "Avalanche effect",
+        "T-function",
+        "Differential cryptanalysis",
+        "Correlation attack"
+    ],
+    "references": [
+        "1699105",
+        "187705024",
+        "1494217786",
+        "1573159156",
+        "1660562555",
+        "1676521748",
+        "1888861700",
+        "2147765341",
+        "2154271831"
+    ]
+}

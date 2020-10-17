@@ -1,0 +1,63 @@
+{
+    "id": "1582451000",
+    "title": "Large system performance of SPEC OMP benchmark suites",
+    "venue": "International Journal of Parallel Programming",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Hideki Saito",
+            "id": "2166471874",
+            "org": "Intel Corporation, SC12-301, 3601 Juliette Lane, Santa Clara, California#TAB#"
+        },
+        {
+            "name": "Greg Gaertner",
+            "id": "2091371882",
+            "org": "Hewlett-Packard Corporation#TAB#"
+        },
+        {
+            "name": "Wesley B. Jones",
+            "id": "2139650825",
+            "org": "National Renewable Energy Lab.#TAB#"
+        },
+        {
+            "name": "Rudolf Eigenmann",
+            "id": "2075111996",
+            "org": "Purdue University#TAB#"
+        },
+        {
+            "name": "Hidetoshi Iwashita",
+            "id": "2173646810",
+            "org": "Fujitsu Limited#TAB#"
+        },
+        {
+            "name": "Ron Lieberman",
+            "id": "2464633766",
+            "org": "Hewlett-Packard Corporation#TAB#"
+        },
+        {
+            "name": "G. Matthijs van Waveren",
+            "id": "2127812145",
+            "org": "Fujitsu European Centre for IT Limited#TAB#"
+        },
+        {
+            "name": "Brian Whitney",
+            "id": "2145322050",
+            "org": "Sun Microsystems#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Supercomputer",
+        "Parallel computing",
+        "Computer architecture",
+        "SDET",
+        "Shared memory",
+        "Computer science",
+        "Benchmark (computing)",
+        "Spec#"
+    ],
+    "references": [
+        "1664707389",
+        "2126913665"
+    ]
+}

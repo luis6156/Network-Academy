@@ -1,0 +1,53 @@
+{
+    "id": "1517562114",
+    "title": "Collisions are not incidental: a compression function exploiting discrete geometry",
+    "venue": "theory of cryptography conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Dimitar Jetchev",
+            "id": "2048136608",
+            "org": "Laboratory for Cryptologic Algorithms, EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Onur Ozen",
+            "id": "2047715420",
+            "org": "Laboratory for Cryptologic Algorithms, EPFL, Switzerland#TAB#"
+        },
+        {
+            "name": "Martijn Stam",
+            "id": "2110137027",
+            "org": "Department of Computer Science, University of Bristol, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete geometry",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Compression (physics)",
+        "Mathematical proof",
+        "Finite field",
+        "Hash function",
+        "Adversary",
+        "Random function",
+        "Collision resistance"
+    ],
+    "references": [
+        "782032341",
+        "1480951587",
+        "1524660258",
+        "1547189451",
+        "1547537489",
+        "1562517519",
+        "1565415113",
+        "1581083284",
+        "1604454960",
+        "1863270349",
+        "2007585625",
+        "2140596630",
+        "2145006563",
+        "2147436724",
+        "2158554251"
+    ]
+}

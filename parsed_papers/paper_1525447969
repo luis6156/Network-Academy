@@ -1,0 +1,41 @@
+{
+    "id": "1525447969",
+    "title": "Small scale variants of the AES",
+    "venue": "fast software encryption",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Carlos Cid",
+            "id": "2109016628",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey, UK#TAB#"
+        },
+        {
+            "name": "Sean Murphy",
+            "id": "2136292641",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey, UK#TAB#"
+        },
+        {
+            "name": "Matthew J. B. Robshaw",
+            "id": "2809246992",
+            "org": "Information Security Group, Royal Holloway, University of London, Egham, Surrey, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Theoretical computer science",
+        "System of linear equations",
+        "Cryptanalysis",
+        "Symbolic computation",
+        "Discrete mathematics",
+        "Computer science"
+    ],
+    "references": [
+        "1542020576",
+        "1556212265",
+        "1588952639",
+        "1676521748",
+        "1992471085",
+        "2074364083"
+    ]
+}

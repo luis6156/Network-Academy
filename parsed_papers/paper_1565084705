@@ -1,0 +1,58 @@
+{
+    "id": "1565084705",
+    "title": "Non-randomness of the full 4 and 5-pass HAVAL",
+    "venue": "international workshop on security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Hirotaka Yoshida",
+            "id": "2105707368",
+            "org": ",Systems Development Laboratory, Hitachi, Ltd., Yokohama, Japan#TAB#"
+        },
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Christophe De Canniere",
+            "id": "2038466276",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Joseph Lano",
+            "id": "2145353776",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Dept. ESAT/SCD-COSIC, Katholieke Universiteit Leuven, Leuven-Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HAVAL",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "Fowler-Noll-Vo hash function",
+        "Computer science",
+        "Hash function",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1491388917",
+        "1504695911",
+        "1549228503",
+        "1597600164",
+        "1660562555",
+        "1851023053",
+        "1978695162",
+        "1979802565",
+        "2109721530",
+        "2163466490",
+        "2172433705"
+    ]
+}

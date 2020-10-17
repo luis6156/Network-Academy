@@ -1,0 +1,42 @@
+{
+    "id": "1607525463",
+    "title": "QUARTZ, 128-Bit Long Digital Signatures",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jacques Patarin",
+            "id": "2703701658",
+            "org": "Bull CP8"
+        },
+        {
+            "name": "Nicolas T. Courtois",
+            "id": "342533692",
+            "org": "Bull CP8"
+        },
+        {
+            "name": "Louis Goubin",
+            "id": "300917408",
+            "org": "Bull CP8"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "NESSIE",
+        "Computer science",
+        "Brute-force search",
+        "Encryption",
+        "Multivariate cryptography",
+        "Digital signature",
+        "Public-key cryptography",
+        "Merkle signature scheme",
+        "Ring signature"
+    ],
+    "references": [
+        "1569499052",
+        "1583871653",
+        "1628272610",
+        "1821087317",
+        "2029631600"
+    ]
+}

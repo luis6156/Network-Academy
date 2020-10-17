@@ -1,0 +1,33 @@
+{
+    "id": "1531374985",
+    "title": "A framework to specify database update views for Prolog",
+    "venue": "international symposium on programming language implementation and logic programming",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Egon Boerger",
+            "id": "1138895626",
+            "org": "Dip. di Informatica Universita di Pisa Cso Italia 40"
+        },
+        {
+            "name": "Bart Demoen",
+            "id": "713720536",
+            "org": "Dept. Computer Science Celestijnenlaan 200A B-3001 Leuven Belgium"
+        }
+    ],
+    "fields_of_study": [
+        "Formal specification",
+        "Prolog",
+        "Computer science",
+        "Database",
+        "Subset and superset",
+        "Programming language"
+    ],
+    "references": [
+        "165938396",
+        "235921957",
+        "1479704934",
+        "1573153978",
+        "1836997725"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1522228241",
+    "title": "Fast Multiplication on Elliptic Curves over GF(2m) without Precomputation",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Julio Lopez",
+            "id": "2521472753",
+            "org": "University of Waterloo"
+        },
+        {
+            "name": "Ricardo Dahab",
+            "id": "2003780168",
+            "org": "State University of Campinas"
+        }
+    ],
+    "fields_of_study": [
+        "Supersingular elliptic curve",
+        "Lenstra elliptic curve factorization",
+        "Theoretical computer science",
+        "Algorithm",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Computer science",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Schoof's algorithm",
+        "Counting points on elliptic curves"
+    ],
+    "references": [
+        "1507106163",
+        "1529013801",
+        "1560768562",
+        "1634503271",
+        "1660562555",
+        "1989258293",
+        "2003736153",
+        "2013613544",
+        "2043926312",
+        "2099317248",
+        "2115840814",
+        "2139192386"
+    ]
+}

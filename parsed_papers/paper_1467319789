@@ -1,0 +1,44 @@
+{
+    "id": "1467319789",
+    "title": "Improving Key Recovery to 784 and 799 Rounds of Trivium Using Optimized Cube Attacks",
+    "venue": "fast software encryption",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Pierre-Alain Fouque",
+            "id": "2049865666",
+            "org": "Rennes 1 University"
+        },
+        {
+            "name": "Thomas Vannet",
+            "id": "2631085934",
+            "org": "NTT Secure Platform Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Theoretical computer science",
+        "Speedup",
+        "Cryptanalysis",
+        "Computer science",
+        "Brute-force search",
+        "Distributed computing",
+        "Stream cipher",
+        "Initialization",
+        "Cube attack",
+        "Polynomial"
+    ],
+    "references": [
+        "97949831",
+        "1561363170",
+        "1572847050",
+        "1585475679",
+        "1766812168",
+        "1838677899",
+        "2033361557",
+        "2139739788",
+        "2153971105",
+        "2160494425",
+        "2164455525"
+    ]
+}

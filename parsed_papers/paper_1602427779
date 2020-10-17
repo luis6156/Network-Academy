@@ -1,0 +1,67 @@
+{
+    "id": "1602427779",
+    "title": "Space Efficient Hash Tables with Worst Case Constant Access Time",
+    "venue": "symposium on theoretical aspects of computer science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Dimitris Fotakis",
+            "id": "2111231380",
+            "org": "Max-Planck-Institut fur Informatik"
+        },
+        {
+            "name": "Rasmus Pagh",
+            "id": "1864519460",
+            "org": "IT University of Copenhagen"
+        },
+        {
+            "name": "Peter Sanders",
+            "id": "2056122262",
+            "org": "Max-Planck-Institut fur Informatik"
+        },
+        {
+            "name": "Paul G. Spirakis",
+            "id": "2095693323",
+            "org": "Computer Technology Institute (CTI)"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Hash table",
+        "Dynamic perfect hashing",
+        "Hopscotch hashing",
+        "Discrete mathematics",
+        "Cuckoo hashing",
+        "Combinatorics",
+        "Hash function",
+        "Linear hashing",
+        "Double hashing",
+        "Open addressing"
+    ],
+    "references": [
+        "1536684706",
+        "1663077732",
+        "1972041007",
+        "1977917282",
+        "1986970296",
+        "1996406922",
+        "1997988698",
+        "2032384657",
+        "2040401241",
+        "2047619746",
+        "2055175657",
+        "2059271645",
+        "2068291854",
+        "2077229436",
+        "2082162447",
+        "2095595785",
+        "2117535598",
+        "2126401469",
+        "2142702167",
+        "2157529519",
+        "2164322063",
+        "2165621523",
+        "2170732565",
+        "2420766135"
+    ]
+}

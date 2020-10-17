@@ -1,0 +1,44 @@
+{
+    "id": "1801811551",
+    "title": "Reducing the cost for non-blocking in atomic commitment",
+    "venue": "international conference on distributed computing systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Rachid Guerraoui",
+            "id": "115057321",
+            "org": "Dept. d'Inf., Ecole Polytech. Federale de Lausanne, Switzerland"
+        },
+        {
+            "name": "Mikel Larrea",
+            "id": "2096753435",
+            "org": "Dept. d'Inf., Ecole Polytech. Federale de Lausanne, Switzerland"
+        },
+        {
+            "name": "Andre Schiper",
+            "id": "2016580195",
+            "org": "Dept. d'Inf., Ecole Polytech. Federale de Lausanne, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Three-phase commit protocol",
+        "Broadcasting (networking)",
+        "Atomic commit",
+        "Commit",
+        "Two-phase commit protocol",
+        "Computer science",
+        "Distributed computing",
+        "Abort",
+        "Liveness",
+        "Asynchronous system",
+        "Computer network",
+        "Real-time computing"
+    ],
+    "references": [
+        "1599874886",
+        "2024645712",
+        "2070941848",
+        "2133943294",
+        "2158987725"
+    ]
+}

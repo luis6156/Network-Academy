@@ -1,0 +1,43 @@
+{
+    "id": "1516639380",
+    "title": "Optimization of queries invoking views by query tail absorption",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hanna Kozankiewicz",
+            "id": "213340943",
+            "org": "Institute of Computer Sciences of the Polish Academy of Sciences, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Krzysztof Stencel",
+            "id": "674901608",
+            "org": "Institute of Informatics, Warsaw University, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Kazimierz Subieta",
+            "id": "2642181901",
+            "org": "Institute of Computer Sciences of the Polish Academy of Sciences, Warsaw, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Query expansion",
+        "View",
+        "Web query classification",
+        "Distributed computing",
+        "Computer science",
+        "Query language",
+        "RDF query language",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1579402786",
+        "1602204773",
+        "1978619679",
+        "2102387332",
+        "2103920867",
+        "2149131462"
+    ]
+}

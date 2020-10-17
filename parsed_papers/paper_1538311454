@@ -1,0 +1,53 @@
+{
+    "id": "1538311454",
+    "title": "Efficient Implementation of Multiresolution Triangle Strips",
+    "venue": "international conference on computational science",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Oscar Belmonte",
+            "id": "2403064393",
+            "org": "Universitat Jaume I"
+        },
+        {
+            "name": "Inmaculada Remolar",
+            "id": "234613143",
+            "org": "Universitat Jaume I"
+        },
+        {
+            "name": "Jose Ribelles",
+            "id": "14361365",
+            "org": "Universitat Jaume I"
+        },
+        {
+            "name": "Miguel Chover",
+            "id": "1938765101",
+            "org": "Universitat Jaume I"
+        },
+        {
+            "name": "Marcos Fernandez",
+            "id": "2171714520",
+            "org": "Universitat de Valencia"
+        }
+    ],
+    "fields_of_study": [
+        "Polygon",
+        "Mathematics",
+        "Polygon mesh",
+        "Discrete mathematics",
+        "Triangle fan",
+        "Triangle mesh",
+        "Multiresolution analysis",
+        "Triangle strip",
+        "Progressive meshes",
+        "Mesh generation"
+    ],
+    "references": [
+        "1529405077",
+        "1999355997",
+        "2042948670",
+        "2052789583",
+        "2235901111",
+        "2293404936"
+    ]
+}

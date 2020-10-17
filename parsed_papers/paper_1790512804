@@ -1,0 +1,41 @@
+{
+    "id": "1790512804",
+    "title": "A Distributed Render Farm System for Animation Production",
+    "venue": "international conference on entertainment computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jiali Yao",
+            "id": "2339286721",
+            "org": "State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China 310058#TAB#"
+        },
+        {
+            "name": "Zhigeng Pan",
+            "id": "2138839063",
+            "org": "State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China 310058#TAB#"
+        },
+        {
+            "name": "Hongxin Zhang",
+            "id": "2676986010",
+            "org": "State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China 310058#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel rendering",
+        "Animation",
+        "Speedup",
+        "Rendering (computer graphics)",
+        "Tiled rendering",
+        "Render farm",
+        "Computer science",
+        "Multiple Render Targets",
+        "Alternate frame rendering",
+        "Real-time computing"
+    ],
+    "references": [
+        "1518911419",
+        "1563919487",
+        "1991027350",
+        "2142863519"
+    ]
+}

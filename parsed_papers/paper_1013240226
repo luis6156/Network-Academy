@@ -1,0 +1,68 @@
+{
+    "id": "1013240226",
+    "title": "Reducing file system tail latencies with Chopper",
+    "venue": "file and storage technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jun He",
+            "id": "2278517065",
+            "org": "Department of Computer Sciences, University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Duy Nguyen",
+            "id": "2427566480",
+            "org": "Department of Statistics, University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Andrea C. Arpaci-Dusseau",
+            "id": "1979388515",
+            "org": "Department of Computer Sciences, University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Remzi H. Arpaci-Dusseau",
+            "id": "74145742",
+            "org": "Department of Computer Sciences, University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Latin hypercube sampling",
+        "Data access",
+        "Computer science",
+        "Allocator",
+        "ext4",
+        "File system",
+        "Real-time computing",
+        "Chopper"
+    ],
+    "references": [
+        "14875769",
+        "162515996",
+        "1545344643",
+        "1564774435",
+        "1677118421",
+        "1820403722",
+        "1822146434",
+        "1971212200",
+        "1982063824",
+        "1995790197",
+        "1999984505",
+        "2007415020",
+        "2008626182",
+        "2009404871",
+        "2034636852",
+        "2036804147",
+        "2038669746",
+        "2067182386",
+        "2103110737",
+        "2106436364",
+        "2119565742",
+        "2124877509",
+        "2159081928",
+        "2160127232",
+        "2168395296",
+        "2184628147",
+        "2412976325"
+    ]
+}

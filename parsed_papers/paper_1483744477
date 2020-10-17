@@ -1,0 +1,51 @@
+{
+    "id": "1483744477",
+    "title": "Efficient Detection of Vacuity in ACTL Formulas",
+    "venue": "computer aided verification",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Ilan Beer",
+            "id": "2126025634",
+            "org": "IBM Science and Technology"
+        },
+        {
+            "name": "Shoham Ben-David",
+            "id": "1964367244",
+            "org": "IBM Science and Technology"
+        },
+        {
+            "name": "Cindy Eisner",
+            "id": "2082756683",
+            "org": "IBM Science and Technology"
+        },
+        {
+            "name": "Yoav Rodeh",
+            "id": "333587676",
+            "org": "IBM Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Witness",
+        "Mathematics",
+        "Formal verification",
+        "Truth value",
+        "Algorithm",
+        "Satisfiability",
+        "Discrete mathematics",
+        "Temporal logic",
+        "CTL*",
+        "Propositional calculus",
+        "Atomic formula"
+    ],
+    "references": [
+        "1482286370",
+        "1501731334",
+        "1583165871",
+        "1604627363",
+        "2009965218",
+        "2100112273",
+        "2132055325",
+        "2141725526"
+    ]
+}

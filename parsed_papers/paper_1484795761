@@ -1,0 +1,49 @@
+{
+    "id": "1484795761",
+    "title": "Collision search attack for 53-step HAS-160",
+    "venue": "international conference on information security and cryptology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Hong-Su Cho",
+            "id": "2821389332",
+            "org": "Graduate School of Information Security, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangwoo Park",
+            "id": "2169109665",
+            "org": "National Security Research Institute, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Soo Hak Sung",
+            "id": "2167045751",
+            "org": "Department of Computing information & mathematics, Paichai University, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Aaram Yun",
+            "id": "2135582997",
+            "org": "National Security Research Institute, Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD2",
+        "Theoretical computer science",
+        "Birthday attack",
+        "SHA-2",
+        "Computer science",
+        "Collision",
+        "HAS-160",
+        "Collision attack",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "1528559652",
+        "1590269592",
+        "1656731780",
+        "1955677211",
+        "2103239853",
+        "2131212920",
+        "2611506938"
+    ]
+}

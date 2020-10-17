@@ -1,0 +1,51 @@
+{
+    "id": "117117299",
+    "title": "On the Relevance of Total-Order Broadcast Implementations in Replicated Software Transactional Memories",
+    "venue": "multicore software engineering performance and tools",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Tiago M. Vale",
+            "id": "2114301358",
+            "org": "Departamento de Informatica and CITI, Universidade Nova de Lisboa, Portugal#TAB#"
+        },
+        {
+            "name": "Ricardo J. Dias",
+            "id": "2105889155",
+            "org": "Departamento de Informatica and CITI, Universidade Nova de Lisboa, Portugal#TAB#"
+        },
+        {
+            "name": "Joao Lourenco",
+            "id": "1989309387",
+            "org": "Departamento de Informatica and CITI, Universidade Nova de Lisboa, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Software",
+        "Transactional memory",
+        "Compiler",
+        "Distributed computing",
+        "Computer science",
+        "Dependability",
+        "Real-time computing",
+        "Atomic broadcast",
+        "Software transactional memory",
+        "Database transaction"
+    ],
+    "references": [
+        "57312308",
+        "1542975293",
+        "1556981576",
+        "1598033051",
+        "1974218776",
+        "2097447543",
+        "2107071953",
+        "2129446346",
+        "2130264930",
+        "2133289645",
+        "2156801877",
+        "2163654949",
+        "2168104306"
+    ]
+}

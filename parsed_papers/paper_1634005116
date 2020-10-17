@@ -1,0 +1,65 @@
+{
+    "id": "1634005116",
+    "title": "Cryptanalysis of Tav-128 Hash Function",
+    "venue": "international conference on cryptology in india",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Ashish Kumar",
+            "id": "2621762379",
+            "org": "Indian Institute of Technology"
+        },
+        {
+            "name": "Somitra Kumar Sanadhya",
+            "id": "1824041100",
+            "org": "Indraprastha Institute of Information Technology-Delhi"
+        },
+        {
+            "name": "Praveen Gauravaram",
+            "id": "2014998713",
+            "org": "Technical University of Denmark"
+        },
+        {
+            "name": "Masoumeh Safkhani",
+            "id": "262141893",
+            "org": "Iran University of Science and Technology"
+        },
+        {
+            "name": "Majid Naderi",
+            "id": "2134914127",
+            "org": "Iran University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "SHA-2",
+        "Computer science",
+        "Hash function",
+        "Hash chain",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "MDC-2",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "1481962261",
+        "1514141030",
+        "1524252123",
+        "1533007301",
+        "1549228503",
+        "1562434331",
+        "1600432225",
+        "1601321736",
+        "1660562555",
+        "1845145297",
+        "1894646615",
+        "2100382206",
+        "2106698019",
+        "2112137829",
+        "2115893326",
+        "2136920297",
+        "2151783055",
+        "2153018583"
+    ]
+}

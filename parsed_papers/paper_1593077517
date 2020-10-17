@@ -1,0 +1,64 @@
+{
+    "id": "1593077517",
+    "title": "Rician Noise Removal by Non-Local Means Filtering for Low Signal-to-Noise Ratio MRI: Applications to DT-MRI",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Nicolas Wiest-Daessle",
+            "id": "2133726603",
+            "org": "INRIA, VisAGeS Project-Team, Rennes, France F-35042 and INSERM, U746, Rennes, France F-35042 and University of Rennes I, CNRS, UMR 6074, IRISA, Rennes, France F-35042#TAB#"
+        },
+        {
+            "name": "Sylvain Prima",
+            "id": "2721883893",
+            "org": "INRIA, VisAGeS Project-Team, Rennes, France F-35042 and INSERM, U746, Rennes, France F-35042 and University of Rennes I, CNRS, UMR 6074, IRISA, Rennes, France F-35042#TAB#"
+        },
+        {
+            "name": "Pierrick Coupe",
+            "id": "2052140126",
+            "org": "INRIA, VisAGeS Project-Team, Rennes, France F-35042 and INSERM, U746, Rennes, France F-35042 and University of Rennes I, CNRS, UMR 6074, IRISA, Rennes, France F-35042#TAB#"
+        },
+        {
+            "name": "Sean Patrick Morrissey",
+            "id": "2589637764",
+            "org": "INRIA, VisAGeS Project-Team, Rennes, France F-35042 and INSERM, U746, Rennes, France F-35042 and University of Rennes I, CNRS, UMR 6074, IRISA, Rennes, France F-35042 and CHU, University Hospital ...#TAB#"
+        },
+        {
+            "name": "Christian Barillot",
+            "id": "2136579810",
+            "org": "INRIA, VisAGeS Project-Team, Rennes, France F-35042 and INSERM, U746, Rennes, France F-35042 and University of Rennes I, CNRS, UMR 6074, IRISA, Rennes, France F-35042#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Computer vision",
+        "Pattern recognition",
+        "Rician fading",
+        "Peak signal-to-noise ratio",
+        "Non-local means",
+        "Signal-to-noise ratio",
+        "Filter (signal processing)",
+        "Diffusion MRI",
+        "Fractional anisotropy",
+        "Angular resolution",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1598557217",
+        "1661703005",
+        "1777631236",
+        "1867481500",
+        "1983496390",
+        "2017492739",
+        "2026366832",
+        "2031251087",
+        "2044348280",
+        "2073660032",
+        "2113590595",
+        "2136396015",
+        "2142592339",
+        "2148459430",
+        "2152699382"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1572593217",
+    "title": "GrGen: a fast SPO-based graph rewriting tool",
+    "venue": "international conference on graph transformation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Rubino Geiss",
+            "id": "2097818252",
+            "org": "Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Gernot Veit Batz",
+            "id": "1270245315",
+            "org": "Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Daniel Grund",
+            "id": "2158774744",
+            "org": "Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Sebastian Hack",
+            "id": "2150951780",
+            "org": "Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Adam Szalkowski",
+            "id": "1842162585",
+            "org": "Universitat Karlsruhe (TH), Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "GrGen",
+        "Discrete mathematics",
+        "Computer science",
+        "Abstract semantic graph",
+        "Matching (graph theory)",
+        "Combinatorics",
+        "Graph rewriting",
+        "Optimization problem",
+        "Clique-width",
+        "Rewriting"
+    ],
+    "references": [
+        "1504988257",
+        "1506257272",
+        "1665726835",
+        "1706136589",
+        "2011039300",
+        "2108383522",
+        "2139212997",
+        "2161806321"
+    ]
+}

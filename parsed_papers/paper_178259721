@@ -1,0 +1,62 @@
+{
+    "id": "178259721",
+    "title": "PaxStore : A Distributed Key Value Storage System",
+    "venue": "network and parallel computing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Zhipeng Tan",
+            "id": "2142339012",
+            "org": "Huazhong University of Science and Technology"
+        },
+        {
+            "name": "Yongxing Dang",
+            "id": "2397457223",
+            "org": "Huazhong University of Science and Technology"
+        },
+        {
+            "name": "Jianliang Sun",
+            "id": "2402554547",
+            "org": "Huazhong University of Science and Technology"
+        },
+        {
+            "name": "Wei Zhou",
+            "id": "2639805589",
+            "org": "Huazhong University of Science and Technology"
+        },
+        {
+            "name": "Dan Feng",
+            "id": "2112861373",
+            "org": "Huazhong University of Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer data storage",
+        "Replica",
+        "Computer science",
+        "Distributed computing",
+        "Queue",
+        "Network partition",
+        "Strong consistency",
+        "Paxos",
+        "Leader election"
+    ],
+    "references": [
+        "192446467",
+        "1524103123",
+        "1701489392",
+        "1953135125",
+        "2043934800",
+        "2087946700",
+        "2104332750",
+        "2121133177",
+        "2125776579",
+        "2130923111",
+        "2135934107",
+        "2143149536",
+        "2153704625",
+        "2167100431",
+        "2249200448"
+    ]
+}

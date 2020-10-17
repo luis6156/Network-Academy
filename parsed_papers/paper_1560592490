@@ -1,0 +1,48 @@
+{
+    "id": "1560592490",
+    "title": "Blind differential cryptanalysis for enhanced power attacks",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Helena Handschuh",
+            "id": "1756865753",
+            "org": "Spansion, Levallois-Perret Cedex, France#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven, Dept. Electrical Engineering, ESAT, COSIC, Leuven-Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Key schedule",
+        "Two-square cipher",
+        "Related-key attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Slide attack",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "54412699",
+        "154749848",
+        "1479755794",
+        "1488058190",
+        "1497892245",
+        "1503689022",
+        "1548656471",
+        "1564536482",
+        "1569151289",
+        "1584896380",
+        "1602453119",
+        "1629301835",
+        "1771708738",
+        "1897761346",
+        "2154909745",
+        "2612208439"
+    ]
+}

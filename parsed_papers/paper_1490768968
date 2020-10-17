@@ -1,0 +1,70 @@
+{
+    "id": "1490768968",
+    "title": "Hinge-loss Markov random fields: convex inference for structured prediction",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Stephen H. Bach",
+            "id": "2096343230",
+            "org": "Computer Science Dept., University of Maryland, College Park, MD#TAB#"
+        },
+        {
+            "name": "Bert Huang",
+            "id": "2121178673",
+            "org": "Computer Science Dept., University of Maryland, College Park, MD#TAB#"
+        },
+        {
+            "name": "Ben London",
+            "id": "2170576845",
+            "org": "Computer Science Dept., University of Maryland, College Park, MD#TAB#"
+        },
+        {
+            "name": "Lise Getoor",
+            "id": "1984940772",
+            "org": "Computer Science Dept., University of Maryland, College Park, MD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Structured prediction",
+        "Variable elimination",
+        "Markov random field",
+        "Graphical model",
+        "Markov chain",
+        "Approximate inference",
+        "Variable-order Markov model",
+        "Hinge loss",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "164001702",
+        "1500188831",
+        "1535439311",
+        "1561023189",
+        "1606878652",
+        "1977970897",
+        "1990494141",
+        "2008652694",
+        "2031248101",
+        "2040370888",
+        "2085040216",
+        "2101705355",
+        "2105644991",
+        "2117354486",
+        "2120340025",
+        "2127345773",
+        "2140538501",
+        "2142241599",
+        "2153959628",
+        "2158863086",
+        "2158924272",
+        "2162723805",
+        "2164278908",
+        "2229674747",
+        "2399803916",
+        "2403004111"
+    ]
+}

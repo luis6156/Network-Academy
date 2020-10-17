@@ -1,0 +1,49 @@
+{
+    "id": "1482228399",
+    "title": "Static analyzer of vicious executables (SAVE)",
+    "venue": "annual computer security applications conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Andrew H. Sung",
+            "id": "2117566670",
+            "org": "Dept. of Comput. Sci., New Mexico Tech., Socorro, NM, USA"
+        },
+        {
+            "name": "Jianyun Xu",
+            "id": "2103469527",
+            "org": "Dept. of Comput. Sci., New Mexico Tech., Socorro, NM, USA"
+        },
+        {
+            "name": "Patrick Chavez",
+            "id": "2345518448",
+            "org": "Dept. of Comput. Sci., New Mexico Tech., Socorro, NM, USA"
+        },
+        {
+            "name": "Srinivas Mukkamala",
+            "id": "2051527372",
+            "org": "Dept. of Comput. Sci., New Mexico Tech., Socorro, NM, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Reverse engineering",
+        "Computer virus",
+        "Software",
+        "Computer science",
+        "Sandbox (software development)",
+        "Computer security",
+        "Cryptovirology",
+        "Software security assurance",
+        "Real-time computing",
+        "Cyber-collection"
+    ],
+    "references": [
+        "1544837488",
+        "1549458400",
+        "1952910495",
+        "2023955403",
+        "2146567535",
+        "2165069015"
+    ]
+}

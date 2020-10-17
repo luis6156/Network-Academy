@@ -1,0 +1,55 @@
+{
+    "id": "1548779692",
+    "title": "Consensus Clustering: A Resampling-Based Method for Class Discovery and Visualization of Gene Expression Microarray Data",
+    "venue": "Machine Learning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stefano Monti",
+            "id": "2142065382",
+            "org": "Whitehead Institute/MIT Center for Genome Research, One Kendall Square, Cambridge, MA-02139, USA. smonti@genome.wi.mit.edu#TAB#"
+        },
+        {
+            "name": "Pablo Tamayo",
+            "id": "2299855335",
+            "org": "Whitehead Institute/MIT Center for Genome Research, One Kendall Square, Cambridge, MA-02139, USA. tamayo@genome.wi.mit.edu#TAB#"
+        },
+        {
+            "name": "Jill P. Mesirov",
+            "id": "148926794",
+            "org": "Whitehead Institute/MIT Center for Genome Research, One Kendall Square, Cambridge, MA-02139, USA. mesirov@genome.wi.mit.edu#TAB#"
+        },
+        {
+            "name": "Todd R. Golub",
+            "id": "1997993096",
+            "org": "Whitehead Institute/MIT Center for Genome Research, One Kendall Square, Cambridge, MA-02139, USA. golub@genome.wi.mit.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "k-means clustering",
+        "Gene chip analysis",
+        "Pattern recognition",
+        "Computer science",
+        "Biclustering",
+        "Determining the number of clusters in a data set",
+        "Cluster analysis",
+        "Consensus clustering",
+        "Clustering high-dimensional data",
+        "Correlation clustering",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1524704912",
+        "1567331820",
+        "1971784203",
+        "1999345637",
+        "2051526030",
+        "2103991913",
+        "2122599407",
+        "2127912512",
+        "2131456395",
+        "2146261447",
+        "2146646206"
+    ]
+}

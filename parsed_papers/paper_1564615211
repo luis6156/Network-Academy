@@ -1,0 +1,60 @@
+{
+    "id": "1564615211",
+    "title": "Infringing key authentication of an ID-based group key exchange protocol using binary key trees",
+    "venue": "international conference on knowledge-based and intelligent information and engineering systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Junghyun Nam",
+            "id": "2222295587",
+            "org": "Department of Computer Science, Konkuk University, Korea#TAB#"
+        },
+        {
+            "name": "Juryon Paik",
+            "id": "2136476768",
+            "org": "Department of Computer Engineering, Sungkyunkwan University, Korea#TAB#"
+        },
+        {
+            "name": "Youngsook Lee",
+            "id": "2620075944",
+            "org": "Department of Computer Engineering, Sungkyunkwan University, Korea#TAB#"
+        },
+        {
+            "name": "Jin Kwak",
+            "id": "2673670907",
+            "org": "Department of Information Security, Soonchunhyang University, Korea#TAB#"
+        },
+        {
+            "name": "Ung Mo Kim",
+            "id": "2100746464",
+            "org": "Department of Computer Engineering, Sungkyunkwan University, Korea#TAB#"
+        },
+        {
+            "name": "Dongho Won",
+            "id": "2127395087",
+            "org": "Department of Computer Engineering, Sungkyunkwan University, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Security association",
+        "Key distribution",
+        "Computer science",
+        "Group Domain of Interpretation",
+        "Computer network",
+        "Oakley protocol",
+        "Key-agreement protocol",
+        "Otway-Rees protocol",
+        "Pre-shared key",
+        "Interlock protocol"
+    ],
+    "references": [
+        "1569083856",
+        "1709517452",
+        "1969397765",
+        "1977251372",
+        "2007909731",
+        "2131664217",
+        "2133186418",
+        "2493686639"
+    ]
+}

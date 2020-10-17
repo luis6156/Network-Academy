@@ -1,0 +1,42 @@
+{
+    "id": "1661043365",
+    "title": "Automatic resource management using an adaptive parallelism environment",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "David Wangerin",
+            "id": "2159210046",
+            "org": "Dept. of Inf. & Comput. Sci., California Univ., Irvine, CA, USA"
+        },
+        {
+            "name": "Isaac D. Scherson",
+            "id": "2119493630",
+            "org": "Dept. of Inf. & Comput. Sci., California Univ., Irvine, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Speedup",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Computer multitasking",
+        "Task parallelism",
+        "Synchronization",
+        "Real-time computing",
+        "MIMD",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1505432604",
+        "1531426550",
+        "1609529814",
+        "2033571435",
+        "2068376568",
+        "2127160061",
+        "2141688512",
+        "2161669039"
+    ]
+}

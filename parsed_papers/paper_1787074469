@@ -1,0 +1,60 @@
+{
+    "id": "1787074469",
+    "title": "Symbolic Model Checking without BDDs",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Armin Biere",
+            "id": "2242438494",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "Istituto per la Ricerca Scientifica e Tecnologica (IRST)"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Yunshan Zhu",
+            "id": "2130671571",
+            "org": "Carnegie Mellon University"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Algorithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Binary decision diagram",
+        "Bounded function",
+        "Symbolic trajectory evaluation",
+        "Kripke structure",
+        "Model checking",
+        "Symbolic programming",
+        "Abstraction model checking"
+    ],
+    "references": [
+        "185167655",
+        "1501731334",
+        "1511155470",
+        "1538995403",
+        "1540180960",
+        "1573354578",
+        "1600919542",
+        "1605860778",
+        "1975657455",
+        "2003227046",
+        "2062897452",
+        "2080267935",
+        "2080593426",
+        "2090398333",
+        "2114092850",
+        "2135613306"
+    ]
+}

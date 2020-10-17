@@ -1,0 +1,60 @@
+{
+    "id": "1700991880",
+    "title": "Efficiently measuring bandwidth at all time scales",
+    "venue": "networked systems design and implementation",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Frank Uyeda",
+            "id": "2154490881",
+            "org": "U.C. San Diego#TAB#"
+        },
+        {
+            "name": "Luca Foschini",
+            "id": "2264288836",
+            "org": "U.C. Santa Barbara#TAB#"
+        },
+        {
+            "name": "Fred Baker",
+            "id": "2519764248",
+            "org": "Cisco#TAB#"
+        },
+        {
+            "name": "Subhash Suri",
+            "id": "2133221332",
+            "org": "U.C. Santa Barbara#TAB#"
+        },
+        {
+            "name": "George Varghese",
+            "id": "2040462121",
+            "org": "U.C. San Diego#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "dBm",
+        "Byte",
+        "Linux kernel",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Bandwidth (signal processing)",
+        "Megabyte",
+        "Network packet",
+        "Real-time computing",
+        "Gigabit"
+    ],
+    "references": [
+        "65853127",
+        "1965972569",
+        "2025970444",
+        "2055090023",
+        "2118414100",
+        "2122070456",
+        "2133581580",
+        "2148588185",
+        "2159048618",
+        "2160830750",
+        "2163404313",
+        "2164740236"
+    ]
+}

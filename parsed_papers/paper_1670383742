@@ -1,0 +1,52 @@
+{
+    "id": "1670383742",
+    "title": "Weaknesses in current RSA signature schemes",
+    "venue": "international conference on information security and cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Juliane Kramer",
+            "id": "2161933956",
+            "org": "Security in Telecommunications, Technische Universitat Berlin and Deutsche Telekom Innovation Laboratories, Germany#TAB#"
+        },
+        {
+            "name": "Dmitry Nedospasov",
+            "id": "341955035",
+            "org": "Security in Telecommunications, Technische Universitat Berlin and Deutsche Telekom Innovation Laboratories, Germany#TAB#"
+        },
+        {
+            "name": "Jean-Pierre Seifert",
+            "id": "2228949119",
+            "org": "Security in Telecommunications, Technische Universitat Berlin and Deutsche Telekom Innovation Laboratories, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Modular exponentiation",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Computer science",
+        "PKCS",
+        "Padding",
+        "Computer security",
+        "Proof of concept",
+        "Public-key cryptography",
+        "Real-time computing",
+        "Smart card",
+        "PKCS #1"
+    ],
+    "references": [
+        "1520407944",
+        "1536508214",
+        "1587481360",
+        "1593401740",
+        "1601639357",
+        "1660562555",
+        "1664808737",
+        "1724890242",
+        "1904156444",
+        "2154909745",
+        "2166022727",
+        "2175377689",
+        "2402373326"
+    ]
+}

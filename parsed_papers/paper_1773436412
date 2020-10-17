@@ -1,0 +1,58 @@
+{
+    "id": "1773436412",
+    "title": "Algebraic side-channel attacks beyond the hamming weight leakage model",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yossef Oren",
+            "id": "2627822722",
+            "org": "Cryptography and Network Security Lab., School of Electrical Engineering, Tel-Aviv University, Ramat Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Mathieu Renauld",
+            "id": "2091924704",
+            "org": "Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Francois-Xavier Standaert",
+            "id": "2085610964",
+            "org": "Crypto Group, Universite catholique de Louvain, Louvain-la-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Avishai Wool",
+            "id": "2064532066",
+            "org": "Cryptography and Network Security Lab., School of Electrical Engineering, Tel-Aviv University, Ramat Aviv, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "System of linear equations",
+        "Side channel attack",
+        "Satisfiability",
+        "Cryptanalysis",
+        "Distributed computing",
+        "Exploit",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Hamming weight"
+    ],
+    "references": [
+        "204345549",
+        "1504927043",
+        "1532325895",
+        "1562542037",
+        "1600693085",
+        "1794592934",
+        "1796231437",
+        "1803499338",
+        "1894646615",
+        "2004513455",
+        "2014328192",
+        "2018373732",
+        "2150892302",
+        "2173228034",
+        "2584285084"
+    ]
+}

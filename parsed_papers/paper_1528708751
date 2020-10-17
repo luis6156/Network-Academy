@@ -1,0 +1,34 @@
+{
+    "id": "1528708751",
+    "title": "A disjoint set algorithm for the watershed transform",
+    "venue": "european signal processing conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Arnold Meijster",
+            "id": "1088542956",
+            "org": "University of Groningen, Institute for Mathematics and Computing Science, P.O. Box 800, 9700 AV Groningen, The Netherlands"
+        },
+        {
+            "name": "Jos B. T. M. Roerdink",
+            "id": "323429155",
+            "org": "University of Groningen, Institute for Mathematics and Computing Science, P.O. Box 800, 9700 AV Groningen, The Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Watershed",
+        "Algorithm",
+        "Computer vision",
+        "Computer science",
+        "Image segmentation",
+        "Disjoint sets",
+        "Top-hat transform",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510191041",
+        "2025818287",
+        "2124260943"
+    ]
+}

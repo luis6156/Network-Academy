@@ -1,0 +1,65 @@
+{
+    "id": "1604334575",
+    "title": "Side channel cryptanalysis on SEED",
+    "venue": "workshop on information security applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "HyungSo Yoo",
+            "id": "2167991840",
+            "org": "School of Electrical Engineering and Computer Science, Kyungpook National Univ., Daegu, Korea#TAB#"
+        },
+        {
+            "name": "ChangKyun Kim",
+            "id": "2165207663",
+            "org": "School of Electrical Engineering and Computer Science, Kyungpook National Univ., Daegu, Korea#TAB#"
+        },
+        {
+            "name": "Jae-Cheol Ha",
+            "id": "2110501458",
+            "org": "Division of Information Science, Korea Nazarene Univ., Cheonan, Choongnam, Korea#TAB#"
+        },
+        {
+            "name": "SangJae Moon",
+            "id": "2106509025",
+            "org": "School of Electrical Engineering and Computer Science, Kyungpook National Univ., Daegu, Korea#TAB#"
+        },
+        {
+            "name": "Il-Hwan Park",
+            "id": "2345841311",
+            "org": "National Security Research Institute, Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Watermarking attack",
+        "Block cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Computer security",
+        "Related-key attack",
+        "Triple DES",
+        "Key whitening",
+        "Stream cipher attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1495447492",
+        "1527545029",
+        "1537875328",
+        "1563765474",
+        "1565369953",
+        "1566283016",
+        "1569151289",
+        "1573054466",
+        "1994959057",
+        "2008588888",
+        "2016562955",
+        "2110941647",
+        "2141469508",
+        "2145991688",
+        "2148862943",
+        "2154909745",
+        "2155441237",
+        "2170489924"
+    ]
+}

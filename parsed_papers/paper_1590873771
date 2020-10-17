@@ -1,0 +1,35 @@
+{
+    "id": "1590873771",
+    "title": "A Key-schedule Weakness in SAFER K-64",
+    "venue": "international cryptology conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2797586071",
+            "org": "Ecole Normale Superieure"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Byte",
+        "Theoretical computer science",
+        "Key schedule",
+        "Computer science",
+        "Encryption",
+        "SAFER",
+        "Chosen-plaintext attack",
+        "Key (lock)",
+        "Hash function"
+    ],
+    "references": [
+        "1531810027",
+        "1543271574",
+        "1547537489",
+        "1564295073",
+        "1597936869",
+        "1606884796",
+        "1926480282",
+        "1991897749"
+    ]
+}

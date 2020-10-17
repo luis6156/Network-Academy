@@ -1,0 +1,75 @@
+{
+    "id": "1792894036",
+    "title": "CoVisor: a compositional hypervisor for software-defined networks",
+    "venue": "networked systems design and implementation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Xin Jin",
+            "id": "2598385656",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Jennifer Gossels",
+            "id": "2599017198",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "Jennifer Rexford",
+            "id": "1998722161",
+            "org": "Princeton University#TAB#"
+        },
+        {
+            "name": "David Walker",
+            "id": "2161850330",
+            "org": "Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Software-defined networking",
+        "Hypervisor",
+        "Computer science",
+        "Distributed computing",
+        "Control theory",
+        "Network packet",
+        "Default gateway",
+        "Computer network",
+        "Real-time computing",
+        "OpenFlow",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "80075259",
+        "85890223",
+        "148964820",
+        "158224344",
+        "1577170445",
+        "1590488181",
+        "1698388015",
+        "1994926493",
+        "2007346406",
+        "2020021266",
+        "2035216204",
+        "2036114538",
+        "2059670140",
+        "2098081907",
+        "2099657323",
+        "2102090846",
+        "2106863923",
+        "2112320294",
+        "2112867573",
+        "2115546448",
+        "2119706632",
+        "2126822952",
+        "2136930733",
+        "2137826183",
+        "2139751271",
+        "2143377393",
+        "2146657832",
+        "2147802358",
+        "2150574682",
+        "2160234338",
+        "2164905748"
+    ]
+}

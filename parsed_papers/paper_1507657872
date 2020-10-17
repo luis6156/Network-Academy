@@ -1,0 +1,80 @@
+{
+    "id": "1507657872",
+    "title": "Stork: package management for distributed VM environments",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Justin Cappos",
+            "id": "2006892651",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "Scott M. Baker",
+            "id": "2101599901",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "Jeremy Plichta",
+            "id": "2576807633",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "Duy Nyugen",
+            "id": "2278613326",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "Jason Hardies",
+            "id": "2279934051",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "Matt Borgard",
+            "id": "2276400161",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "Jeffry Johnston",
+            "id": "2437203310",
+            "org": "University of Arizona#TAB#"
+        },
+        {
+            "name": "John H. Hartman",
+            "id": "2114123774",
+            "org": "University of Arizona#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Stork",
+        "Computer science",
+        "PlanetLab",
+        "Virtual machine",
+        "Temporal isolation among virtual machines",
+        "Real-time computing",
+        "Download"
+    ],
+    "references": [
+        "77328139",
+        "1512273652",
+        "1527961683",
+        "1558573344",
+        "1559801425",
+        "1576397915",
+        "1978855656",
+        "2005373714",
+        "2006816934",
+        "2010365467",
+        "2032775246",
+        "2047452782",
+        "2084445812",
+        "2098931293",
+        "2100100130",
+        "2104112849",
+        "2115457697",
+        "2119565742",
+        "2121542813",
+        "2131726714",
+        "2155444313"
+    ]
+}

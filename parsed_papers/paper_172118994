@@ -1,0 +1,59 @@
+{
+    "id": "172118994",
+    "title": "An enhanced differential cache attack on CLEFIA for large cache lines",
+    "venue": "international conference on cryptology in india",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Chester Rebeiro",
+            "id": "2057146102",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur, India#TAB#"
+        },
+        {
+            "name": "Rishabh Poddar",
+            "id": "2138795242",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur, India#TAB#"
+        },
+        {
+            "name": "Amit Datta",
+            "id": "2778737667",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur, India#TAB#"
+        },
+        {
+            "name": "Debdeep Mukhopadhyay",
+            "id": "2150698662",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Computer science",
+        "Feistel cipher",
+        "Real-time computing",
+        "CLEFIA",
+        "Cache-oblivious algorithm",
+        "Cache invalidation",
+        "Timing attack",
+        "CPU cache"
+    ],
+    "references": [
+        "1253017325",
+        "1488058190",
+        "1489027369",
+        "1569252980",
+        "1585169827",
+        "1592889082",
+        "1821583647",
+        "1830378742",
+        "1890449996",
+        "1994390420",
+        "2001162307",
+        "2103289002",
+        "2126132644",
+        "2132064685",
+        "2400244522",
+        "2525966718"
+    ]
+}

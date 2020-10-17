@@ -1,0 +1,43 @@
+{
+    "id": "1550736872",
+    "title": "Symmetric tree replication protocol for efficient distributed storage system",
+    "venue": "international conference on computational science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sung Chune Choi",
+            "id": "2152882392",
+            "org": "School of Information and Communications Engineering, Sungkyunkwan University, Suwon, Korea#TAB#"
+        },
+        {
+            "name": "Hee Yong Youn",
+            "id": "2145152158",
+            "org": "School of Information and Communications Engineering, Sungkyunkwan University, Suwon, Korea#TAB#"
+        },
+        {
+            "name": "Joong Sup Choi",
+            "id": "2161028125",
+            "org": "Information Security Technology Division, Korea Information Security Agency, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "Two-phase commit protocol",
+        "Computer science",
+        "Distributed computing",
+        "Distributed data store",
+        "Real-time computing",
+        "Bottleneck"
+    ],
+    "references": [
+        "1570721992",
+        "1802699987",
+        "2033223918",
+        "2086107225",
+        "2100294640",
+        "2104510605",
+        "2110765100",
+        "2142849519",
+        "2147031831"
+    ]
+}

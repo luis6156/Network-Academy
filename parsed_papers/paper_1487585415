@@ -1,0 +1,52 @@
+{
+    "id": "1487585415",
+    "title": "Tailoring solver-independent constraint models: a case study with ESSENCE' and MINION",
+    "venue": "symposium on abstraction, reformulation and approximation",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Ian P. Gent",
+            "id": "2192614943",
+            "org": "School of Computer Science, University of St Andrews, UK#TAB#"
+        },
+        {
+            "name": "Ian Miguel",
+            "id": "2161544986",
+            "org": "School of Computer Science, University of St Andrews, UK#TAB#"
+        },
+        {
+            "name": "Andrea Rendl",
+            "id": "2780547017",
+            "org": "School of Computer Science, University of St Andrews, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Computer science",
+        "Constraint satisfaction",
+        "Constraint learning",
+        "Constraint logic programming",
+        "Constraint programming",
+        "Concurrent constraint logic programming",
+        "Complexity of constraint satisfaction",
+        "Mathematical optimization",
+        "Minion"
+    ],
+    "references": [
+        "47957325",
+        "61564718",
+        "80684329",
+        "1487775009",
+        "1507787362",
+        "1527952596",
+        "1564783277",
+        "1598380601",
+        "1634413251",
+        "1815010250",
+        "2127724972",
+        "2151352672",
+        "2164279585",
+        "2473127620",
+        "2611155112"
+    ]
+}

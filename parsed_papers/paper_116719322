@@ -1,0 +1,61 @@
+{
+    "id": "116719322",
+    "title": "A case for including transactions in OpenMP II: hardware transactional memory",
+    "venue": "international workshop on openmp",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Barna L. Bihari",
+            "id": "1917408085",
+            "org": "Lawrence Livermore National Laboratory#TAB#"
+        },
+        {
+            "name": "Michael Wong",
+            "id": "2111167408",
+            "org": "IBM Corporation, Canada#TAB#"
+        },
+        {
+            "name": "Amy Wang",
+            "id": "2134286715",
+            "org": "IBM Corporation, Canada#TAB#"
+        },
+        {
+            "name": "Bronis R. de Supinski",
+            "id": "302009331",
+            "org": "Lawrence Livermore National Laboratory#TAB#"
+        },
+        {
+            "name": "Wang Chen",
+            "id": "2702832471",
+            "org": "IBM Corporation, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Critical section",
+        "Parallel computing",
+        "Computer architecture",
+        "Shared memory",
+        "Transactional memory",
+        "Computer science",
+        "Transactional leadership",
+        "Language construct",
+        "Programming language specification",
+        "Modular design",
+        "Software transactional memory"
+    ],
+    "references": [
+        "1542975293",
+        "1913251249",
+        "1981393723",
+        "1983572666",
+        "2003098289",
+        "2014848592",
+        "2042082001",
+        "2045506295",
+        "2099661831",
+        "2113257448",
+        "2113751407",
+        "2134631561",
+        "2150732552"
+    ]
+}

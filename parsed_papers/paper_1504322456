@@ -1,0 +1,51 @@
+{
+    "id": "1504322456",
+    "title": "Reducing the Memory Complexity of Type-Inference Algorithms",
+    "venue": "international conference on information and communication security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "David Naccache",
+            "id": "2005500650",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Alexei Tchoulkine",
+            "id": "320566002",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Christophe Tymen",
+            "id": "71261984",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Elena Trichina",
+            "id": "2307933830",
+            "org": "University of Kuopio"
+        }
+    ],
+    "fields_of_study": [
+        "Type safety",
+        "Java",
+        "Algorithm",
+        "Mobile agent",
+        "Distributed computing",
+        "Computer science",
+        "Type inference",
+        "Abstract interpretation",
+        "Mobile code",
+        "Virtual machine",
+        "Bottleneck"
+    ],
+    "references": [
+        "1491178396",
+        "1544300973",
+        "1607529940",
+        "1633108902",
+        "2012470235",
+        "2034711041",
+        "2043100293",
+        "2114067856"
+    ]
+}

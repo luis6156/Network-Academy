@@ -1,0 +1,46 @@
+{
+    "id": "1564822866",
+    "title": "Minimizing intra-edge crossings in wiring diagrams and public transportation maps",
+    "venue": "graph drawing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Marc Benkert",
+            "id": "1970245751",
+            "org": "Department of Computer Science, Karlsruhe University, Germany#TAB#"
+        },
+        {
+            "name": "Martin Nollenburg",
+            "id": "2019808957",
+            "org": "Department of Computer Science, Karlsruhe University, Germany#TAB#"
+        },
+        {
+            "name": "Takeaki Uno",
+            "id": "2100790447",
+            "org": "National Institute of Informatics, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Alexander Wolff",
+            "id": "2213200723",
+            "org": "Department of Computer Science, Karlsruhe University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Floyd-Warshall algorithm",
+        "Wiring diagram",
+        "Traverse",
+        "Combinatorics",
+        "Graph",
+        "Bus network",
+        "Public transport",
+        "Normalization property",
+        "Dynamic programming"
+    ],
+    "references": [
+        "1513018855",
+        "2105246321",
+        "2523666152"
+    ]
+}

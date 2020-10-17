@@ -1,0 +1,51 @@
+{
+    "id": "1494213010",
+    "title": "A foundation for the replacement of pipelined physical join operators in adaptive query processing",
+    "venue": "extending database technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kwanchai Eurviriyanukul",
+            "id": "1244243503",
+            "org": "University of Manchester, Manchester, United Kingdom#TAB#"
+        },
+        {
+            "name": "Alvaro A. A. Fernandes",
+            "id": "2136578401",
+            "org": "University of Manchester, Manchester, United Kingdom#TAB#"
+        },
+        {
+            "name": "Norman W. Paton",
+            "id": "2070167002",
+            "org": "University of Manchester, Manchester, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Operator (computer programming)",
+        "Evaluation strategy",
+        "Query expansion",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Database",
+        "Sargable",
+        "Query optimization"
+    ],
+    "references": [
+        "1565494300",
+        "1571065273",
+        "1975731516",
+        "2015372451",
+        "2041563709",
+        "2109149785",
+        "2126583885",
+        "2143452574",
+        "2156720172",
+        "2158237121",
+        "2162747054",
+        "2171147420",
+        "2201552871",
+        "2203361072"
+    ]
+}

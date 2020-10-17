@@ -1,0 +1,41 @@
+{
+    "id": "1488385538",
+    "title": "Objective-Oriented Algorithm for Job Scheduling in Parallel Heterogeneous Systems",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Pham Hong Hanh",
+            "id": "2072643890",
+            "org": "National Technical University of Ukraine"
+        },
+        {
+            "name": "Valery Simonenko",
+            "id": "2047998618",
+            "org": "National Technical University of Ukraine"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Flow shop scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "177450199",
+        "1965866956",
+        "2019356799",
+        "2068442829",
+        "2105509427",
+        "2106596893",
+        "2152408640"
+    ]
+}

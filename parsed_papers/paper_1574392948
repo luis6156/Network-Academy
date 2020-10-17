@@ -1,0 +1,36 @@
+{
+    "id": "1574392948",
+    "title": "Shared Packages Through Linda",
+    "venue": "international conference on reliable software technologies",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Goran Wall",
+            "id": "2106270562",
+            "org": "Uppsala University"
+        },
+        {
+            "name": "Kristina Lundqvist",
+            "id": "1971695762",
+            "org": "Uppsala University"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Tuple space",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Compiler",
+        "Mutual exclusion",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data structure"
+    ],
+    "references": [
+        "1566461485",
+        "1700387131",
+        "2002626248",
+        "2002858468"
+    ]
+}

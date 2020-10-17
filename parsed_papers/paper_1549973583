@@ -1,0 +1,138 @@
+{
+    "id": "1549973583",
+    "title": "From research to practice: experiences engineering a production metadata database for a scale out file system",
+    "venue": "file and storage technologies",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Charles Stuart Johnson",
+            "id": "2526932485",
+            "org": "HP Labs#TAB#"
+        },
+        {
+            "name": "Kimberly Keeton",
+            "id": "1894617025",
+            "org": "HP Labs#TAB#"
+        },
+        {
+            "name": "Charles B. Morrey",
+            "id": "2154631741",
+            "org": "HP Labs#TAB#"
+        },
+        {
+            "name": "Craig A. N. Soules",
+            "id": "339513410",
+            "org": "Natero#TAB#"
+        },
+        {
+            "name": "Alistair Veitch",
+            "id": "2134703114",
+            "org": "Google#TAB#"
+        },
+        {
+            "name": "Stephen Bacon",
+            "id": "2289760534",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Oskar Y. Batuner",
+            "id": "2804796987",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Marcelo Condotta",
+            "id": "2290890921",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Hamilton de Freitas Coutinho",
+            "id": "2222834289",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Patrick J. Doyle",
+            "id": "2296565178",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Rafael Anton Eichelberger",
+            "id": "2299735253",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Hugo Kiehl",
+            "id": "2288725664",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Guilherme R. Magalhaes",
+            "id": "2803488170",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "James McEvoy",
+            "id": "2291070638",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Padmanabhan Nagarajan",
+            "id": "2803123014",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Patrick Osborne",
+            "id": "2290819166",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Joaquim Souza",
+            "id": "2317569808",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Andy Sparkes",
+            "id": "2308301457",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Mike Spitzer",
+            "id": "2306257141",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Sebastien Tandel",
+            "id": "2482501118",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Lincoln Thomas",
+            "id": "2111385408",
+            "org": "HP Storage#TAB#"
+        },
+        {
+            "name": "Sebastian Zangaro",
+            "id": "2289487441",
+            "org": "HP Storage#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Data element",
+        "Metadata modeling",
+        "Computer science",
+        "Database catalog",
+        "Metadata repository",
+        "Database",
+        "Data file",
+        "Metadata",
+        "Computer file",
+        "Meta Data Services"
+    ],
+    "references": [
+        "148271226",
+        "230099169",
+        "1529205966",
+        "2007067737",
+        "2148451663"
+    ]
+}

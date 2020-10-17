@@ -1,0 +1,65 @@
+{
+    "id": "1525980904",
+    "title": "Solving revocation with efficient update of anonymous credentials",
+    "venue": "security and cryptography for networks",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jan Camenisch",
+            "id": "2001749418",
+            "org": "IBM Research-Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Markulf Kohlweiss",
+            "id": "1520953178",
+            "org": "KU Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Claudio Soriente",
+            "id": "2054300324",
+            "org": "Universidad Politecnica de Madrid, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Credential",
+        "Blind signature",
+        "Certificate authority",
+        "Computer science",
+        "Revocation list",
+        "Computer security",
+        "Issuer",
+        "Digital credential",
+        "Revocation",
+        "Internet privacy",
+        "Direct Anonymous Attestation"
+    ],
+    "references": [
+        "1497351799",
+        "1502328873",
+        "1521092767",
+        "1538706266",
+        "1543236049",
+        "1545622906",
+        "1607188293",
+        "1754500122",
+        "1801892681",
+        "1851031742",
+        "1857474042",
+        "1885156594",
+        "1888254701",
+        "1978183200",
+        "2006921752",
+        "2031618446",
+        "2033820870",
+        "2042453293",
+        "2102632861",
+        "2132117944",
+        "2144370861",
+        "2149092448",
+        "2150399720",
+        "2153193245",
+        "2165210192",
+        "2172174332",
+        "2563302303"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1593420896",
+    "title": "Finding related entities by retrieving relations: UIUC at TREC 2009 Entity Track",
+    "venue": "text retrieval conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "V. G. Vinod Vydiswaran",
+            "id": "362793051",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Kavita Ganesan",
+            "id": "2128131365",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Yuanhua Lv",
+            "id": "2132538679",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Jing He",
+            "id": "2617871696",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "ChengXiang Zhai",
+            "id": "2152766206",
+            "org": "Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Information needs",
+        "Relationship extraction",
+        "Computer science",
+        "Data mining",
+        "Ranking",
+        "Information retrieval",
+        "Weak entity"
+    ],
+    "references": [
+        "1520377376",
+        "2004763266",
+        "2104142702",
+        "2121227244",
+        "2143952152",
+        "2166776180"
+    ]
+}

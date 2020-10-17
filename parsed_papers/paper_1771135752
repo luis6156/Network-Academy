@@ -1,0 +1,45 @@
+{
+    "id": "1771135752",
+    "title": "DiVinE Multi-Core --- A Parallel LTL Model-Checker",
+    "venue": "automated technology for verification and analysis",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jiri Barnat",
+            "id": "2111819896",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Lubos Brim",
+            "id": "1492989083",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        },
+        {
+            "name": "Petr Rockai",
+            "id": "126262084",
+            "org": "Faculty of Informatics, Masaryk University, Brno, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Multi-core processor",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Reachability",
+        "Model checking",
+        "Distributed memory",
+        "Exploit",
+        "Parallel algorithm"
+    ],
+    "references": [
+        "125115239",
+        "1503466301",
+        "1568609840",
+        "1600967790",
+        "2021433144",
+        "2136877520",
+        "2153822668",
+        "2172004025"
+    ]
+}

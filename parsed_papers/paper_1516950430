@@ -1,0 +1,64 @@
+{
+    "id": "1516950430",
+    "title": "Certified development tools implementation in objective Caml",
+    "venue": "practical aspects of declarative languages",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Bruno Pagano",
+            "id": "2073678428",
+            "org": "Esterel Technologies, Elancourt, France#TAB#"
+        },
+        {
+            "name": "Olivier Andrieu",
+            "id": "2571845266",
+            "org": "Esterel Technologies, Elancourt, France#TAB#"
+        },
+        {
+            "name": "Benjamin Canou",
+            "id": "237534901",
+            "org": "ENS Cachan, Bruz, France and Laboratoire d'informatique de Paris 6, UMR, Universite Pierre et Marie Curie, Paris 6, Paris, France#TAB#"
+        },
+        {
+            "name": "Emmanuel Chailloux",
+            "id": "141796987",
+            "org": "Laboratoire d'informatique de Paris 6, UMR, Universite Pierre et Marie Curie, Paris 6, Paris, France#TAB#"
+        },
+        {
+            "name": "Jean-Louis Colaco",
+            "id": "2584426838",
+            "org": "Siemens VDO Automotive, Toulouse, France#TAB#"
+        },
+        {
+            "name": "Thomas Moniot",
+            "id": "232426791",
+            "org": "Esterel Technologies, Elancourt, France#TAB#"
+        },
+        {
+            "name": "Philippe Wang",
+            "id": "2608781784",
+            "org": "Laboratoire d'informatique de Paris 6, UMR, Universite Pierre et Marie Curie, Paris 6, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Software development",
+        "Computer science",
+        "Caml",
+        "Abstraction layer",
+        "Real-time computing",
+        "Runtime system",
+        "Functional programming",
+        "Code coverage",
+        "Imperative programming",
+        "Programming language"
+    ],
+    "references": [
+        "1548666647",
+        "1973162794",
+        "2005907808",
+        "2039310738",
+        "2125552497",
+        "2164474969"
+    ]
+}

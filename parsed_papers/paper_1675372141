@@ -1,0 +1,64 @@
+{
+    "id": "1675372141",
+    "title": "BL-MLE: Block-Level Message-Locked Encryption for Secure Large File Deduplication",
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Rongmao Chen",
+            "id": "2243608715",
+            "org": "Centre for Computer and Information Security Research, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia"
+        },
+        {
+            "name": "Yi Mu",
+            "id": "2050318273",
+            "org": "Centre for Computer and Information Security Research, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia"
+        },
+        {
+            "name": "Guomin Yang",
+            "id": "2234215184",
+            "org": "Centre for Computer and Information Security Research, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia"
+        },
+        {
+            "name": "Fuchun Guo",
+            "id": "2419809787",
+            "org": "Centre for Computer and Information Security Research, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Filesystem-level encryption",
+        "Client-side encryption",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Data deduplication",
+        "Database",
+        "Probabilistic encryption",
+        "Cloud storage",
+        "On-the-fly encryption"
+    ],
+    "references": [
+        "37027385",
+        "44164607",
+        "69458978",
+        "89553247",
+        "319917506",
+        "1502927489",
+        "1520746637",
+        "1581001589",
+        "1603601034",
+        "1969949656",
+        "1979664098",
+        "2009191935",
+        "2020928798",
+        "2102881299",
+        "2121133177",
+        "2123069643",
+        "2145227448",
+        "2147929033",
+        "2157240622",
+        "2161214567",
+        "2165257856"
+    ]
+}

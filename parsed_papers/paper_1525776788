@@ -1,0 +1,42 @@
+{
+    "id": "1525776788",
+    "title": "On Parallel Implementations of Deterministic Finite Automata",
+    "venue": "international conference on implementation and application of automata",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jan Holub",
+            "id": "2007202250",
+            "org": "Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague, Prague 2, Czech Republic 121 35#TAB#"
+        },
+        {
+            "name": "Stanislav Stekr",
+            "id": "325125981",
+            "org": "Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague, Prague 2, Czech Republic 121 35#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Deterministic finite automaton",
+        "Parallel computing",
+        "Speedup",
+        "Quantum finite automata",
+        "DFA minimization",
+        "Computer science",
+        "Implementation",
+        "o-automaton",
+        "Pattern matching",
+        "Finite-state machine"
+    ],
+    "references": [
+        "10282080",
+        "148452712",
+        "1512086944",
+        "1547668935",
+        "2002945619",
+        "2072607050",
+        "2118296037",
+        "2143462372",
+        "2293249621",
+        "2407909453"
+    ]
+}

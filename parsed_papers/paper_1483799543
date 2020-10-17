@@ -1,0 +1,59 @@
+{
+    "id": "1483799543",
+    "title": "Distinguishing attack on secret prefix MAC instantiated with reduced SHA-1",
+    "venue": "international conference on information security and cryptology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Siyuan Qiao",
+            "id": "2708172573",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        },
+        {
+            "name": "Wei Wang",
+            "id": "2627705304",
+            "org": "School of Computer Science and Technology, Shandong University, Jinan, China and Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jina ...#TAB#"
+        },
+        {
+            "name": "Keting Jia",
+            "id": "2763065795",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Prefix",
+        "SHA-1",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Computer science",
+        "Birthday problem",
+        "Distinguishing attack",
+        "Random function",
+        "Collision"
+    ],
+    "references": [
+        "9162323",
+        "1513113529",
+        "1513711610",
+        "1546844943",
+        "1550771246",
+        "1560798398",
+        "1563149761",
+        "1566273181",
+        "1590269592",
+        "1656731780",
+        "1866609797",
+        "2011095011",
+        "2103239853",
+        "2107165730",
+        "2130238828",
+        "2131212920",
+        "2131300413",
+        "2135759164",
+        "2172433705",
+        "2399310879",
+        "2531150596",
+        "2611506938"
+    ]
+}

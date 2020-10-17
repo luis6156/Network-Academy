@@ -1,0 +1,54 @@
+{
+    "id": "1797949276",
+    "title": "A (Second) Preimage Attack on the GOST Hash Function",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Florian Mendel",
+            "id": "2139238411",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria A-8010#TAB#"
+        },
+        {
+            "name": "Norbert Pramstaller",
+            "id": "2320308370",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria A-8010#TAB#"
+        },
+        {
+            "name": "Christian Rechberger",
+            "id": "137139016",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria A-8010#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "MDC-2",
+        "Theoretical computer science",
+        "SHA-2",
+        "Hash buster",
+        "Hash chain",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "Preimage attack"
+    ],
+    "references": [
+        "81015123",
+        "124034723",
+        "1502924772",
+        "1546907539",
+        "1560301528",
+        "1561595833",
+        "1569874887",
+        "1570084506",
+        "1590269592",
+        "1656731780",
+        "1853871913",
+        "1955677211",
+        "2103239853",
+        "2163466490",
+        "2396157990",
+        "2593463031",
+        "2611506938"
+    ]
+}

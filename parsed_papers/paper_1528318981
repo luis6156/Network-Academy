@@ -1,0 +1,40 @@
+{
+    "id": "1528318981",
+    "title": "The SAC Test: A New Randomness Test, with Some Applications to PRNG Analysis",
+    "venue": "international conference on computational science and its applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Julio C. Hernandez",
+            "id": "2763144227",
+            "org": "CAPS TEAM"
+        },
+        {
+            "name": "Jose Maria Sierra",
+            "id": "2127545541",
+            "org": "Carlos III University"
+        },
+        {
+            "name": "Andre Seznec",
+            "id": "2499206852",
+            "org": "CAPS TEAM"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Pseudorandom number generator",
+        "Block size",
+        "Theoretical computer science",
+        "Computer science",
+        "Random testing",
+        "Avalanche effect",
+        "Stream cipher",
+        "Randomness tests",
+        "Randomness"
+    ],
+    "references": [
+        "1577120563",
+        "1670558497",
+        "2601560571"
+    ]
+}

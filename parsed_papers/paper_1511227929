@@ -1,0 +1,72 @@
+{
+    "id": "1511227929",
+    "title": "Segmentation by Adaptive Geodesic Active Contours",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Carl-Fredrik Westin",
+            "id": "2056879232",
+            "org": "Brigham & Women's Hospital"
+        },
+        {
+            "name": "Liana M. Lorigo",
+            "id": "1241036443",
+            "org": "MIT Artificial Intelligence Laboratory"
+        },
+        {
+            "name": "Olivier Faugeras",
+            "id": "2607666093",
+            "org": "MIT Artificial Intelligence Laboratory"
+        },
+        {
+            "name": "W. Eric L. Grimson",
+            "id": "430561134",
+            "org": "MIT Artificial Intelligence Laboratory"
+        },
+        {
+            "name": "Steven L. Dawson",
+            "id": "2108163592",
+            "org": "Mass. General Hospital"
+        },
+        {
+            "name": "Alexander Norbash",
+            "id": "2461214260",
+            "org": "Brigham & Women's Hospital"
+        },
+        {
+            "name": "Ron Kikinis",
+            "id": "908076792",
+            "org": "Brigham & Women's Hospital"
+        }
+    ],
+    "fields_of_study": [
+        "Magnetic resonance angiography",
+        "Mathematics",
+        "Computer vision",
+        "Geodesic",
+        "Pattern recognition",
+        "Active contour model",
+        "Vector field",
+        "Medical image computing",
+        "Robustness (computer science)",
+        "Image noise",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1542873368",
+        "1557102217",
+        "1788286173",
+        "1870947790",
+        "2089873510",
+        "2096320880",
+        "2104095591",
+        "2109011174",
+        "2118261413",
+        "2123220620",
+        "2134820502",
+        "2147627334",
+        "2157807469"
+    ]
+}

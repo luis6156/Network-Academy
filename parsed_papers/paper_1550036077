@@ -1,0 +1,46 @@
+{
+    "id": "1550036077",
+    "title": "Meet-in-the-Middle Preimage Attacks Against Reduced SHA-0 and SHA-1",
+    "venue": "international cryptology conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Kazumaro Aoki",
+            "id": "2437729937",
+            "org": "NTT, Tokyo, Japan 180-8585#TAB#"
+        },
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT, Tokyo, Japan 180-8585#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Hash-based message authentication code",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Collision attack",
+        "Message authentication code",
+        "Hash function",
+        "Preimage attack",
+        "Collision resistance"
+    ],
+    "references": [
+        "1499593564",
+        "1517923646",
+        "1530387410",
+        "1549518467",
+        "1568906052",
+        "1598517024",
+        "1660562555",
+        "1814882979",
+        "2098801947",
+        "2103239853",
+        "2147436724",
+        "2153971105",
+        "2396849988",
+        "2521026666"
+    ]
+}

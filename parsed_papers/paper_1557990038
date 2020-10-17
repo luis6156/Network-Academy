@@ -1,0 +1,79 @@
+{
+    "id": "1557990038",
+    "title": "Journaling versus soft updates: asynchronous meta-data protection in file systems",
+    "venue": "usenix annual technical conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Margo I. Seltzer",
+            "id": "2337629383",
+            "org": "Harvard University#TAB#"
+        },
+        {
+            "name": "Gregory R. Ganger",
+            "id": "2791808",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "M. Kirk McKusick",
+            "id": "2047675833",
+            "org": "Author and Consultant#TAB#"
+        },
+        {
+            "name": "Keith A. Smith",
+            "id": "2149125339",
+            "org": "Harvard University#TAB#"
+        },
+        {
+            "name": "Craig A. N. Soules",
+            "id": "339513410",
+            "org": "Carnegie Mellon University#TAB#"
+        },
+        {
+            "name": "Christopher A. Stein",
+            "id": "2143681500",
+            "org": "Harvard University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "System Prevalence",
+        "Unix",
+        "Synchronicity",
+        "Computer science",
+        "Versioning file system",
+        "Data consistency",
+        "Journaling file system",
+        "System call",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "24973626",
+        "140970508",
+        "146354415",
+        "201248661",
+        "1506596325",
+        "1515932031",
+        "1521116802",
+        "1538319448",
+        "1595924276",
+        "1823414211",
+        "1887863533",
+        "1985467476",
+        "1988127782",
+        "2005373714",
+        "2012728257",
+        "2025371316",
+        "2036627877",
+        "2100100130",
+        "2108183412",
+        "2114167330",
+        "2115600841",
+        "2124213351",
+        "2138594496",
+        "2138664028",
+        "2153747271",
+        "2154817671",
+        "2171352284"
+    ]
+}

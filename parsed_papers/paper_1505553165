@@ -1,0 +1,52 @@
+{
+    "id": "1505553165",
+    "title": "NestedMP: Taming Complex Configuration Space of Degree of Parallelism for Nested-Parallel Programs",
+    "venue": "international conference on parallel processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jiangzhou He",
+            "id": "2138266344",
+            "org": "Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Wenguang Chen",
+            "id": "2276304627",
+            "org": "Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China"
+        },
+        {
+            "name": "Zhizhong Tang",
+            "id": "2648896992",
+            "org": "Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "Implicit parallelism",
+        "Degree of parallelism",
+        "Task parallelism",
+        "Runtime system"
+    ],
+    "references": [
+        "106651135",
+        "226607508",
+        "1569358350",
+        "1570621506",
+        "1577067985",
+        "1579925828",
+        "1589136629",
+        "2035529706",
+        "2039304376",
+        "2104861744",
+        "2124142472",
+        "2124295435",
+        "2140438747",
+        "2786375143"
+    ]
+}

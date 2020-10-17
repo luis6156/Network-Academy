@@ -1,0 +1,43 @@
+{
+    "id": "1584579923",
+    "title": "Speeding up Elliptic Cryptosystems by Using a Signed Binary Window Method",
+    "venue": "international cryptology conference",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Kenji Koyama",
+            "id": "2143259014",
+            "org": "NTT Communication Science Laboratories, Seikacho, Kyoto, Japan"
+        },
+        {
+            "name": "Yukio Tsuruoka",
+            "id": "2634482193",
+            "org": "NTT Communication Science Laboratories, Seikacho, Kyoto, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Lenstra elliptic curve factorization",
+        "Theoretical computer science",
+        "Curve25519",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1540582803",
+        "1557014463",
+        "1570820619",
+        "1584722274",
+        "1993204154",
+        "1996360405",
+        "2081882878",
+        "2108834246",
+        "2156186849",
+        "2228496708"
+    ]
+}

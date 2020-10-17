@@ -1,0 +1,40 @@
+{
+    "id": "1502135923",
+    "title": "Small private-exponent attack on RSA with primes sharing bits",
+    "venue": "international conference on information security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yao-Dong Zhao",
+            "id": "2657342147",
+            "org": "Department of Applied Mathematics, Zhengzhou Information Engineering University, Zhengzhou, P.R. China#TAB#"
+        },
+        {
+            "name": "Wen-Feng Qi",
+            "id": "2637754878",
+            "org": "Department of Applied Mathematics, Zhengzhou Information Engineering University, Zhengzhou, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Exponent",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Least significant bit"
+    ],
+    "references": [
+        "94103598",
+        "1550863203",
+        "1606294151",
+        "1631052943",
+        "1749471906",
+        "1961022628",
+        "2062099180",
+        "2124797898",
+        "2147906334",
+        "2155578564",
+        "2156666175",
+        "2166780626",
+        "2785325490"
+    ]
+}

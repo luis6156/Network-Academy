@@ -1,0 +1,41 @@
+{
+    "id": "1511510771",
+    "title": "Symmetrical data sieving for noncontiguous i/o accesses in molecular dynamics simulations",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Maria Blanca Ibanez",
+            "id": "2136504908",
+            "org": "Departamento de Informatica, Grupo de Arquitectura de Computadores, Universidad Carlos III de Madrid, Madrid, Espana#TAB#"
+        },
+        {
+            "name": "Felix Garcia",
+            "id": "2490256314",
+            "org": "Departamento de Informatica, Grupo de Arquitectura de Computadores, Universidad Carlos III de Madrid, Madrid, Espana#TAB#"
+        },
+        {
+            "name": "Jesus Carretero",
+            "id": "2137089783",
+            "org": "Departamento de Informatica, Grupo de Arquitectura de Computadores, Universidad Carlos III de Madrid, Madrid, Espana#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Molecular dynamics",
+        "Sieve",
+        "Parallel algorithm",
+        "Virtual machine"
+    ],
+    "references": [
+        "1788554450",
+        "2078900897",
+        "2101675015",
+        "2110298485",
+        "2136260874"
+    ]
+}

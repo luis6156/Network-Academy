@@ -1,0 +1,66 @@
+{
+    "id": "1557200009",
+    "title": "Implementing a Non-Strict Functional Programming Language on a Threaded Architecture",
+    "venue": "international parallel processing symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Shigeru Kusakabe",
+            "id": "2040413981",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Kentaro Inenaga",
+            "id": "2481963457",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Makoto Amamiya",
+            "id": "2781462903",
+            "org": "Kyushu University"
+        },
+        {
+            "name": "Xinan Tang",
+            "id": "2111971057",
+            "org": "University of Delaware"
+        },
+        {
+            "name": "Andres Marquez",
+            "id": "2157109375",
+            "org": "University of Delaware"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "University of Delaware"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Compiler",
+        "Functional compiler",
+        "Computer science",
+        "Extensible programming",
+        "Implicit parallelism",
+        "Compiler correctness",
+        "First-generation programming language",
+        "Programming domain",
+        "Dynamic compilation"
+    ],
+    "references": [
+        "1542620936",
+        "1558595411",
+        "1796684637",
+        "1837073688",
+        "1896968490",
+        "1986804682",
+        "2001643736",
+        "2006090396",
+        "2039176620",
+        "2058490938",
+        "2081040934",
+        "2098815550",
+        "2104861744"
+    ]
+}

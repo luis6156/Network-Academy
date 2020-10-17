@@ -1,0 +1,54 @@
+{
+    "id": "1803225612",
+    "title": "Schedulability and Optimization Analysis for Non-preemptive Static Priority Scheduling Based on Task Utilization and Blocking Factors",
+    "venue": "euromicro conference on real-time systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Georg von der Bruggen",
+            "id": "2232084283",
+            "org": "Dept. of Inf., Tech. Univ. Dortmund, Dortmund, Germany"
+        },
+        {
+            "name": "Jian-Jia Chen",
+            "id": "2147007907",
+            "org": "Dept. of Inf., Tech. Univ. Dortmund, Dortmund, Germany"
+        },
+        {
+            "name": "Wen-Hung Huang",
+            "id": "2659837599",
+            "org": "Dept. of Inf., Tech. Univ. Dortmund, Dortmund, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Earliest deadline first scheduling",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Stride scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "117294625",
+        "194244820",
+        "1485093219",
+        "1993462908",
+        "2050243060",
+        "2056702206",
+        "2064207294",
+        "2078375802",
+        "2086748818",
+        "2100916410",
+        "2127467256",
+        "2132965669",
+        "2151110287",
+        "2166440675",
+        "2169142010"
+    ]
+}

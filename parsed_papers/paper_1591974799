@@ -1,0 +1,46 @@
+{
+    "id": "1591974799",
+    "title": "Client/Server Tradeoffs for Online Elections",
+    "venue": "public key cryptography",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ivan Damgard",
+            "id": "2682364181",
+            "org": "Aarhus University"
+        },
+        {
+            "name": "Mads Jurik",
+            "id": "2113655680",
+            "org": "Aarhus University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Client-server model",
+        "Server",
+        "Encryption",
+        "Trade-off",
+        "Voting",
+        "Commitment scheme",
+        "Adversary"
+    ],
+    "references": [
+        "44936433",
+        "1479744988",
+        "1494775996",
+        "1566461722",
+        "1600010237",
+        "1602000446",
+        "1850675439",
+        "1932868796",
+        "2004015610",
+        "2077315235",
+        "2112963602",
+        "2132172731",
+        "2138784757",
+        "2728487654"
+    ]
+}

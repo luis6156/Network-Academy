@@ -1,0 +1,65 @@
+{
+    "id": "1736627613",
+    "title": "Second Preimage Attack on 3-Pass HAVAL and Partial Key-Recovery Attacks on HMAC/NMAC-3-Pass HAVAL",
+    "venue": "fast software encryption",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Eunjin Lee",
+            "id": "2160915039",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "University of Seoul, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "HAVAL",
+        "Key-recovery attack",
+        "Byte",
+        "Hash-based message authentication code",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "1491431082",
+        "1513113529",
+        "1542068190",
+        "1550771246",
+        "1590269592",
+        "1656731780",
+        "1851023053",
+        "1866609797",
+        "1955677211",
+        "2103239853",
+        "2109721530",
+        "2130238828",
+        "2131212920",
+        "2133252868",
+        "2135759164",
+        "2172433705",
+        "2399310879",
+        "2531150596",
+        "2611506938"
+    ]
+}

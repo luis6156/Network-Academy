@@ -1,0 +1,40 @@
+{
+    "id": "1588663770",
+    "title": "Maintaining Multilevel Transaction Atomicity in MLS Database Systems with Replicated Architecture",
+    "venue": "Proceedings of the IFIP WG11.3 Working Conference on Database Security VII",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Oliver Costich",
+            "id": "2047646874",
+            "org": "Center for Secure Information Systems|George Mason University"
+        },
+        {
+            "name": "Myong H. Kang",
+            "id": "2555162340",
+            "org": "Center for Secure Information Systems|George Mason University"
+        }
+    ],
+    "fields_of_study": [
+        "Database tuning",
+        "Computer science",
+        "Distributed computing",
+        "Rollback",
+        "Database",
+        "Serialization",
+        "Distributed transaction",
+        "Atomicity",
+        "Transaction log",
+        "Architecture",
+        "Database transaction"
+    ],
+    "references": [
+        "1545155892",
+        "1550353286",
+        "1559467224",
+        "1945421838",
+        "2130688381",
+        "2132682127",
+        "2134309956"
+    ]
+}

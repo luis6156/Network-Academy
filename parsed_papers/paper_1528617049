@@ -1,0 +1,62 @@
+{
+    "id": "1528617049",
+    "title": "Statically inferring complex heap, array, and numeric invariants",
+    "venue": "static analysis symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Bill McCloskey",
+            "id": "2141026849",
+            "org": "University of California, Berkeley, CA#TAB#"
+        },
+        {
+            "name": "Thomas W. Reps",
+            "id": "341386833",
+            "org": "University of Wisconsin, Madison, WI and GrammaTech, Inc., Ithaca, NY#TAB#"
+        },
+        {
+            "name": "Mooly Sagiv",
+            "id": "1345056057",
+            "org": "Tel-Aviv University; Tel-Aviv, Israel and Stanford University, Stanford, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Transitive closure",
+        "Theoretical computer science",
+        "Computer science",
+        "First-order logic",
+        "Heap (data structure)",
+        "Reference counting",
+        "Complex data type",
+        "Data structure",
+        "Linked list"
+    ],
+    "references": [
+        "1500085611",
+        "1506323687",
+        "1508811155",
+        "1509268249",
+        "1539066757",
+        "1546036076",
+        "1556566737",
+        "1567479568",
+        "1567887689",
+        "1599830632",
+        "1600925218",
+        "1991837261",
+        "1998285060",
+        "2014764321",
+        "2061900593",
+        "2102440514",
+        "2111422217",
+        "2139401046",
+        "2140856295",
+        "2147650421",
+        "2150676690",
+        "2152686702",
+        "2153144732",
+        "2164778826",
+        "2171313158"
+    ]
+}

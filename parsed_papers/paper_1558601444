@@ -1,0 +1,55 @@
+{
+    "id": "1558601444",
+    "title": "Transactions in Stack, Fork, and Join Composite Systems",
+    "venue": "international conference on database theory",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gustavo Alonso",
+            "id": "2122271048",
+            "org": "ETH Zentrum Institute of Information Systems CH-8092 Zurich Switzerland"
+        },
+        {
+            "name": "Armin Fessler",
+            "id": "2572495882",
+            "org": "ETH Zentrum Institute of Information Systems CH-8092 Zurich Switzerland"
+        },
+        {
+            "name": "Guy Pardon",
+            "id": "1521470583",
+            "org": "ETH Zentrum Institute of Information Systems CH-8092 Zurich Switzerland"
+        },
+        {
+            "name": "Hans-Jorg Schek",
+            "id": "2050071469",
+            "org": "ETH Zentrum Institute of Information Systems CH-8092 Zurich Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed database",
+        "Computer science",
+        "Distributed computing",
+        "Concurrency control",
+        "Distributed transaction",
+        "Real-time computing",
+        "Correctness",
+        "Concurrency",
+        "Middleware",
+        "Fork (system call)",
+        "Database transaction"
+    ],
+    "references": [
+        "1527756448",
+        "1543673780",
+        "1545155892",
+        "2011672446",
+        "2034579025",
+        "2044555065",
+        "2070668231",
+        "2077591300",
+        "2091148563",
+        "2151077968",
+        "2157988385",
+        "2613214602"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1503429725",
+    "title": "BISIMULATOR: a modular tool for on-the-fly equivalence checking",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Damien Bergamini",
+            "id": "2132118469",
+            "org": "Inria Rhone-Alpes/Vasy, Montbonnot St Martin, France#TAB#"
+        },
+        {
+            "name": "Nicolas Descoubes",
+            "id": "281099003",
+            "org": "Inria Rhone-Alpes/Vasy, Montbonnot St Martin, France#TAB#"
+        },
+        {
+            "name": "Christophe Joubert",
+            "id": "2470730727",
+            "org": "Inria Rhone-Alpes/Vasy, Montbonnot St Martin, France#TAB#"
+        },
+        {
+            "name": "Radu Mateescu",
+            "id": "2159052863",
+            "org": "Inria Rhone-Alpes/Vasy, Montbonnot St Martin, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Formal equivalence checking",
+        "Software development",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "On the fly",
+        "Bisimulation",
+        "Modular design",
+        "Equivalence relation",
+        "Modulo"
+    ],
+    "references": [
+        "1483422122",
+        "1530087756",
+        "1582642570",
+        "2031924784",
+        "2159763578",
+        "2756011084"
+    ]
+}

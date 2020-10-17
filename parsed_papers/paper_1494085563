@@ -1,0 +1,48 @@
+{
+    "id": "1494085563",
+    "title": "Stochastic compositional gradient descent: algorithms for minimizing compositions of expected-value functions",
+    "venue": "Mathematical Programming",
+    "year": 2017,
+    "authors": [
+        {
+            "name": "Mengdi Wang",
+            "id": "2096829243",
+            "org": "Department of Operations Research and Financial Engineering, Princeton University, Princeton, USA#TAB#"
+        },
+        {
+            "name": "Ethan X. Fang",
+            "id": "2237481278",
+            "org": "Department of Statistics and Department of Industrial and Manufacturing Engineering, Pennsylvania State University, University Park, USA#TAB#"
+        },
+        {
+            "name": "Han Liu",
+            "id": "2614350313",
+            "org": "Department of Operations Research and Financial Engineering, Princeton University, Princeton, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Stationary point",
+        "Algorithm",
+        "Convex function",
+        "Limit point",
+        "Mathematical analysis",
+        "Convex optimization",
+        "Stochastic optimization",
+        "Expected value",
+        "Gradient descent",
+        "Mathematical optimization",
+        "Rate of convergence"
+    ],
+    "references": [
+        "1516903196",
+        "2012180727",
+        "2045744861",
+        "2073750241",
+        "2076428552",
+        "2096840748",
+        "2112269233",
+        "2125295547",
+        "2168909589"
+    ]
+}

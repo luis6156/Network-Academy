@@ -1,0 +1,50 @@
+{
+    "id": "1550927839",
+    "title": "Linear Cryptanalysis for Block Ciphers",
+    "venue": "Encyclopedia of Cryptography and Security (2nd Ed.)",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Alex Biryukov",
+            "id": "2167814525",
+            "org": "University of Luxembourg > Faculty of Science, Technology and Communication (FSTC) > Computer Science and Communications Research Unit (CSC) >"
+        },
+        {
+            "name": "Christophe De Canniere",
+            "id": "2038466276",
+            "org": "Google Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Interpolation attack",
+        "Block size",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Mod n cryptanalysis"
+    ],
+    "references": [
+        "32121401",
+        "52191336",
+        "380217570",
+        "1493062108",
+        "1495580669",
+        "1499170444",
+        "1526222424",
+        "1537206908",
+        "1542500920",
+        "1553753418",
+        "1560537307",
+        "1568642505",
+        "1862865750",
+        "1964723977",
+        "2027325533",
+        "2027701442",
+        "2057524374",
+        "2099473571"
+    ]
+}

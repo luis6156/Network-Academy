@@ -1,0 +1,67 @@
+{
+    "id": "1607393297",
+    "title": "3D Non-Local Means denoising via multi-GPU",
+    "venue": "federated conference on computer science and information systems",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Giuseppe De Palma",
+            "id": "2130670485",
+            "org": "Inst. of Biostruct. & Bioimaging, Naples, Italy"
+        },
+        {
+            "name": "Marco Comerci",
+            "id": "2061843823",
+            "org": "Inst. of Biostruct. & Bioimaging, Naples, Italy"
+        },
+        {
+            "name": "Bruno Alfano",
+            "id": "2077515266",
+            "org": "Inst. of Biostruct. & Bioimaging, Naples, Italy"
+        },
+        {
+            "name": "Salvatore Cuomo",
+            "id": "1839266063",
+            "org": "Dept. of Math. & Applic., Univ. of Naples Federico II, Naples, Italy"
+        },
+        {
+            "name": "Pasquale De Michele",
+            "id": "2135322152",
+            "org": "Dept. of Math. & Applic., Univ. of Naples Federico II, Naples, Italy"
+        },
+        {
+            "name": "Francesco Piccialli",
+            "id": "1768297600",
+            "org": "Dept. of Math. & Applic., Univ. of Naples Federico II, Naples, Italy"
+        },
+        {
+            "name": "Pasquale Borrelli",
+            "id": "2121939682",
+            "org": "Dept. of Adv. Biomed. Sci., Univ. of Naples Federico II, Naples, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Theoretical computer science",
+        "Non-local means",
+        "Computer science",
+        "Video denoising",
+        "Filter (signal processing)",
+        "Computational complexity theory",
+        "CUDA",
+        "Image processing",
+        "Architecture"
+    ],
+    "references": [
+        "1573498219",
+        "1593077517",
+        "1974438823",
+        "2056370875",
+        "2073202072",
+        "2073549551",
+        "2083609718",
+        "2105049299",
+        "2136396015",
+        "2142592339"
+    ]
+}

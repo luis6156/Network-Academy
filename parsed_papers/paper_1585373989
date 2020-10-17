@@ -1,0 +1,41 @@
+{
+    "id": "1585373989",
+    "title": "Scan-based compression of 3D mesh sequences with geometry compensation",
+    "venue": "european signal processing conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yasmine Boulfani",
+            "id": "102459194",
+            "org": "Laboratoire I3S - UMR 6070 CNRS, Universite de Nice - Sophia Antipolis, Route des Lucioles - 06903 FRANCE"
+        },
+        {
+            "name": "Marc Antonini",
+            "id": "2098945646",
+            "org": "Laboratoire I3S - UMR 6070 CNRS, Universite de Nice - Sophia Antipolis, Route des Lucioles - 06903 FRANCE"
+        }
+    ],
+    "fields_of_study": [
+        "Quantization (signal processing)",
+        "Mathematics",
+        "Lifting scheme",
+        "Geometry",
+        "Polygon mesh",
+        "Encoder",
+        "Entropy encoding",
+        "Scalar (physics)",
+        "Wavelet",
+        "Mathematical optimization",
+        "Wavelet transform"
+    ],
+    "references": [
+        "1515592087",
+        "1590549688",
+        "1602774810",
+        "2027293474",
+        "2094779965",
+        "2158675902",
+        "2160793724",
+        "2165092822"
+    ]
+}

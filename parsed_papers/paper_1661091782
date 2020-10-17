@@ -1,0 +1,41 @@
+{
+    "id": "1661091782",
+    "title": "A parallel Vlasov solver using a wavelet based adaptive mesh refinement",
+    "venue": "international conference on parallel processing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Matthieu Haefele",
+            "id": "2123176389",
+            "org": "Univ. Louis Pasteur, Strasbourg, France"
+        },
+        {
+            "name": "Guillaume Latu",
+            "id": "2184653979",
+            "org": "Univ. Louis Pasteur, Strasbourg, France"
+        },
+        {
+            "name": "Michael Gutnic",
+            "id": "2894791128",
+            "org": "Univ. Louis Pasteur, Strasbourg, France"
+        }
+    ],
+    "fields_of_study": [
+        "Adaptive mesh refinement",
+        "Wavelet transform",
+        "Partial differential equation",
+        "Computer science",
+        "Time evolution",
+        "Vlasov equation",
+        "Solver",
+        "Discretization",
+        "Mathematical optimization",
+        "Wavelet"
+    ],
+    "references": [
+        "2042940420",
+        "2047242919",
+        "2144687267",
+        "2304007466"
+    ]
+}

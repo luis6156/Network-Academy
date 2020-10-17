@@ -1,0 +1,37 @@
+{
+    "id": "1742609814",
+    "title": "Efficient Race Condition Detection for Shared-Memory Programs with Post/Wait Synchronization.",
+    "venue": "international conference on parallel processing",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Robert H. B. Netzer",
+            "id": "2474030863",
+            "org": "Computer Sciences Department|University of Wisconsin-Madison|Talbot Lab"
+        },
+        {
+            "name": "Sanjoy Ghosh",
+            "id": "2652338862",
+            "org": "Computer Sciences Department|University of Wisconsin-Madison|Talbot Lab"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "On the fly",
+        "Race condition",
+        "Synchronization"
+    ],
+    "references": [
+        "32942804",
+        "1699840672",
+        "2019611783",
+        "2034256728",
+        "2080570636",
+        "2088270410",
+        "2119417488",
+        "2170200862"
+    ]
+}

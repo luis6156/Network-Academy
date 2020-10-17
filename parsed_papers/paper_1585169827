@@ -1,0 +1,48 @@
+{
+    "id": "1585169827",
+    "title": "Cryptanalysis of CLEFIA using differential methods with cache trace patterns",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Chester Rebeiro",
+            "id": "2057146102",
+            "org": "Dept. of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India#TAB#"
+        },
+        {
+            "name": "Debdeep Mukhopadhyay",
+            "id": "2150698662",
+            "org": "Dept. of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Computer science",
+        "Pipeline burst cache",
+        "Real-time computing",
+        "Cache pollution",
+        "CLEFIA",
+        "Cache invalidation"
+    ],
+    "references": [
+        "98412359",
+        "180488756",
+        "1548516269",
+        "1592889082",
+        "1794592934",
+        "1803499338",
+        "1821583647",
+        "1994390420",
+        "1998955763",
+        "2103289002",
+        "2110429202",
+        "2112244944",
+        "2149174385",
+        "2399994123",
+        "2400244522"
+    ]
+}

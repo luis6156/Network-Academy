@@ -1,0 +1,53 @@
+{
+    "id": "1531033207",
+    "title": "Incremental False Path Elimination for Static Software Analysis",
+    "venue": "automated technology for verification and analysis",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Ansgar Fehnker",
+            "id": "329898262",
+            "org": "National ICT Australia Ltd.(NICTA), Locked Bag 6016, University of New South Wales, Sydney, Australia 1466#TAB#"
+        },
+        {
+            "name": "Ralf Huuck",
+            "id": "183418302",
+            "org": "National ICT Australia Ltd.(NICTA), Locked Bag 6016, University of New South Wales, Sydney, Australia 1466#TAB#"
+        },
+        {
+            "name": "Sean Seefried",
+            "id": "2044386903",
+            "org": "National ICT Australia Ltd.(NICTA), Locked Bag 6016, University of New South Wales, Sydney, Australia 1466#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Predicate abstraction",
+        "Software analysis pattern",
+        "Theoretical computer science",
+        "Software verification",
+        "Program analysis",
+        "False positive paradox",
+        "Computer science",
+        "Counterexample",
+        "Goanna",
+        "Static program analysis"
+    ],
+    "references": [
+        "1485200865",
+        "1529785310",
+        "1531054827",
+        "1546153726",
+        "1556566737",
+        "1559488388",
+        "1562679818",
+        "1596552075",
+        "1854239758",
+        "2098698656",
+        "2129538349",
+        "2129614355",
+        "2135566490",
+        "2136877520",
+        "2194223632",
+        "2584035095"
+    ]
+}

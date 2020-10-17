@@ -1,0 +1,55 @@
+{
+    "id": "121974122",
+    "title": "Efficient Collision Checking in Sampling-Based Motion Planning",
+    "venue": "WAFR",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Joshua Bialkowski",
+            "id": "2039832462",
+            "org": "Massachussetts Institute of Technology"
+        },
+        {
+            "name": "Sertac Karaman",
+            "id": "2256959503",
+            "org": "Massachussetts Institute of Technology"
+        },
+        {
+            "name": "Michael W. Otte",
+            "id": "2102760210",
+            "org": "Massachussetts Institute of Technology"
+        },
+        {
+            "name": "Emilio Frazzoli",
+            "id": "2281670987",
+            "org": "Massachussetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Bottleneck",
+        "Obstacle",
+        "Motion planning",
+        "Distributed computing",
+        "Voronoi diagram",
+        "Sampling (statistics)",
+        "Mathematical optimization",
+        "Upper and lower bounds",
+        "Collision",
+        "Amortized analysis"
+    ],
+    "references": [
+        "1967005434",
+        "1969519268",
+        "1971086298",
+        "2000359213",
+        "2037907469",
+        "2043528001",
+        "2107535513",
+        "2126162505",
+        "2128990851",
+        "2159722616",
+        "2165558283",
+        "2611243847"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1482481952",
+    "title": "A Low-Cost ECC Coprocessor for Smartcards",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Harald Aigner",
+            "id": "2642181925",
+            "org": "D. Swarovski & Co."
+        },
+        {
+            "name": "Holger Bock",
+            "id": "2105527576",
+            "org": "Infineon Technologies, Development Center"
+        },
+        {
+            "name": "Markus Hutter",
+            "id": "2565911992",
+            "org": "Infineon Technologies, Development Center"
+        },
+        {
+            "name": "Johannes Wolkerstorfer",
+            "id": "2017924375",
+            "org": "Graz University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "GF(2)",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Coprocessor",
+        "Elliptic curve cryptography",
+        "Affine transformation",
+        "Elliptic curve",
+        "Multiplication",
+        "Architecture"
+    ],
+    "references": [
+        "1480030470",
+        "1499231268",
+        "1522228241",
+        "1531102506",
+        "1557126506",
+        "1660562555",
+        "1790731608",
+        "1825396486",
+        "1947125001",
+        "2003736153",
+        "2013613544",
+        "2086828313",
+        "2113287980",
+        "2156497760"
+    ]
+}

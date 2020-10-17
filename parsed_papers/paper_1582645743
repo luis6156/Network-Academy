@@ -1,0 +1,68 @@
+{
+    "id": "1582645743",
+    "title": "FINGER: A novel erasure coding scheme using fine granularity blocks to improve Hadoop write and update performance",
+    "venue": "networking architecture and storages",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Pradeep Subedi",
+            "id": "2129739339",
+            "org": "Electrical and Computer Engineering, Virginia Commonwealth University, USA"
+        },
+        {
+            "name": "Ping Huang",
+            "id": "2232487705",
+            "org": "Electrical and Computer Engineering, Virginia Commonwealth University, USA"
+        },
+        {
+            "name": "Benjamin Young",
+            "id": "2224100973",
+            "org": "Electrical and Computer Engineering, Virginia Commonwealth University, USA"
+        },
+        {
+            "name": "Xubin He",
+            "id": "2163428461",
+            "org": "Electrical and Computer Engineering, Virginia Commonwealth University, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Ranging",
+        "Computer science",
+        "Granularity",
+        "Erasure code",
+        "Multithreading",
+        "Computer network",
+        "Data center",
+        "Real-time computing",
+        "Cloud computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "130792636",
+        "154253821",
+        "330091898",
+        "1482321356",
+        "1503196930",
+        "1537045696",
+        "1605552180",
+        "1825603816",
+        "1899676114",
+        "1968075755",
+        "1974401809",
+        "1980951751",
+        "2012706015",
+        "2014475896",
+        "2029467255",
+        "2074190161",
+        "2100830825",
+        "2116777751",
+        "2119565742",
+        "2119738171",
+        "2138744797",
+        "2147343704",
+        "2159416784",
+        "2173213060"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "1524094261",
+    "title": "Decision forests for tissue-specific segmentation of high-grade gliomas in multi-channel MR.",
+    "venue": "medical image computing and computer-assisted intervention",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Darko Zikic",
+            "id": "1750395602",
+            "org": "Microsoft Research Cambridge"
+        },
+        {
+            "name": "Ben Glocker",
+            "id": "1865420375",
+            "org": "Microsoft Research Cambridge"
+        },
+        {
+            "name": "Ender Konukoglu",
+            "id": "176115050",
+            "org": "Microsoft Research Cambridge"
+        },
+        {
+            "name": "Antonio Criminisi",
+            "id": "102275141",
+            "org": "Microsoft Research Cambridge"
+        },
+        {
+            "name": "Cagatay Demiralp",
+            "id": "2000216820",
+            "org": "Brown University"
+        },
+        {
+            "name": "Jamie Shotton",
+            "id": "2046931170",
+            "org": "Microsoft Research Cambridge"
+        },
+        {
+            "name": "Owen M. Thomas",
+            "id": "2170179342",
+            "org": "Cambridge University Hospitals"
+        },
+        {
+            "name": "Tilak Das",
+            "id": "2342906983",
+            "org": "Cambridge University Hospitals"
+        },
+        {
+            "name": "Raj Jena",
+            "id": "2480572093",
+            "org": "Cambridge University Hospitals"
+        },
+        {
+            "name": "Stephen J. Price",
+            "id": "2115019580",
+            "org": "Cambridge University Hospitals"
+        }
+    ],
+    "fields_of_study": [
+        "Mixture model",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Communication channel",
+        "Market segmentation",
+        "Generative model",
+        "Discriminative model",
+        "Training set",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1865761",
+        "29661792",
+        "1567270145",
+        "1597605992",
+        "2036250545",
+        "2058224795",
+        "2098056602",
+        "2123059435",
+        "2132358780",
+        "2143143237",
+        "2158327282",
+        "2171890357"
+    ]
+}

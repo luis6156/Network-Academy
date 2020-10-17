@@ -1,0 +1,85 @@
+{
+    "id": "1564449568",
+    "title": "Attribute-Based Encryption for Circuits from Multilinear Maps",
+    "venue": "international cryptology conference",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Sanjam Garg",
+            "id": "2111572205",
+            "org": "UCLA"
+        },
+        {
+            "name": "Craig Gentry",
+            "id": "2339798781",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Shai Halevi",
+            "id": "1686185850",
+            "org": "IBM Research"
+        },
+        {
+            "name": "Amit Sahai",
+            "id": "2159933393",
+            "org": "UCLA"
+        },
+        {
+            "name": "Brent Waters",
+            "id": "2131229705",
+            "org": "UT Austin"
+        }
+    ],
+    "fields_of_study": [
+        "Boolean circuit",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Functional encryption",
+        "Electronic circuit",
+        "Multilinear map",
+        "True quantified Boolean formula",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "36745501",
+        "65414435",
+        "154883872",
+        "167928972",
+        "177444027",
+        "1481965140",
+        "1498316612",
+        "1499766499",
+        "1555798333",
+        "1584795124",
+        "1596208550",
+        "1603256047",
+        "1670326208",
+        "1675339804",
+        "1682451491",
+        "1724472458",
+        "1763482972",
+        "1798609567",
+        "1976420017",
+        "2008701790",
+        "2053723853",
+        "2061949491",
+        "2085983185",
+        "2086042811",
+        "2096218735",
+        "2104863136",
+        "2108072891",
+        "2122119548",
+        "2122973102",
+        "2138001464",
+        "2161214158",
+        "2170696315",
+        "2238048589",
+        "2395690345",
+        "2397835572",
+        "2406593794",
+        "2572799557"
+    ]
+}

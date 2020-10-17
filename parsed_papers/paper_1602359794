@@ -1,0 +1,45 @@
+{
+    "id": "1602359794",
+    "title": "MPC: A Unified Parallel Runtime for Clusters of NUMA Machines",
+    "venue": "european conference on parallel processing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Marc Perache",
+            "id": "2640008529",
+            "org": "CEA/DAM Ile de France Bruyeres-le-Chatel, Arpajon Cedex F-91297#TAB#"
+        },
+        {
+            "name": "Herve Jourdren",
+            "id": "2576872286",
+            "org": "CEA/DAM Ile de France Bruyeres-le-Chatel, Arpajon Cedex F-91297#TAB#"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "Laboratoire Bordelais de Recherche en Informatique 351, Talence cedex F-33405#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SPMD",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Uniform memory access",
+        "Message Passing Interface",
+        "Non-uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Cache-only memory architecture"
+    ],
+    "references": [
+        "1561173788",
+        "1963882433",
+        "1998141415",
+        "2012993024",
+        "2105448344",
+        "2128274900",
+        "2128317922"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "1783842908",
+    "title": "A practical guide to CNNs and Fisher Vectors for image instance retrieval",
+    "venue": "Signal Processing",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Vijay Chandrasekhar",
+            "id": "2778287050",
+            "org": "Institute for Infocomm Research (A*STAR), 1 Fusionolopis Way, #21-01 Connexis, 138632 Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Jie Lin",
+            "id": "2617351187",
+            "org": "Institute for Infocomm Research (A*STAR), 1 Fusionolopis Way, #21-01 Connexis, 138632 Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Olivier Morere",
+            "id": "347429607",
+            "org": "Universite Pierre et Marie Curie (UPMC), 4 Place Jussieu, 75252 Paris, France#TAB#"
+        },
+        {
+            "name": "Hanlin Goh",
+            "id": "2806225412",
+            "org": "Institute for Infocomm Research (A*STAR), 1 Fusionolopis Way, #21-01 Connexis, 138632 Singapore, Singapore#TAB#"
+        },
+        {
+            "name": "Antoine Veillard",
+            "id": "2136967849",
+            "org": "Universite Pierre et Marie Curie (UPMC), 4 Place Jussieu, 75252 Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Visual Word",
+        "Computer science",
+        "Data set",
+        "Convolutional neural network",
+        "Contextual image classification",
+        "Image retrieval",
+        "Artificial neural network",
+        "Deep learning",
+        "Visual descriptors"
+    ],
+    "references": [
+        "204268067",
+        "1442374986",
+        "1479136381",
+        "1490587364",
+        "1524680991",
+        "1556531089",
+        "1563686443",
+        "1686810756",
+        "1950136256",
+        "1964858027",
+        "1966385142",
+        "1984309565",
+        "1989418603",
+        "1995922888",
+        "1998808035",
+        "2006002369",
+        "2012592962",
+        "2017814585",
+        "2032943964",
+        "2044284589",
+        "2045143396",
+        "2062118960",
+        "2066941820",
+        "2068562306",
+        "2071027807",
+        "2075110006",
+        "2076058164",
+        "2076145548",
+        "2093803134",
+        "2093864416",
+        "2097117768",
+        "2103924867",
+        "2108598243",
+        "2113325037",
+        "2128017662",
+        "2132926984",
+        "2134670479",
+        "2141362318",
+        "2145287260",
+        "2148114917",
+        "2151103935",
+        "2152161678",
+        "2155893237",
+        "2156547346",
+        "2163267793",
+        "2169561155",
+        "2250384498",
+        "2618530766"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "1797762004",
+    "title": "Supporting Timing Analysis by Automatic Bounding of LoopIterations",
+    "venue": "worst case execution time analysis",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Christopher A. Healy",
+            "id": "2406300821",
+            "org": "Computer Science Department, Florida State University, FL, USA#TAB#"
+        },
+        {
+            "name": "Mikael Sjodin",
+            "id": "2225792100",
+            "org": "Department of Computer Systems, Uppsala University, Sweden#TAB#"
+        },
+        {
+            "name": "Viresh Rustagi",
+            "id": "2665258394",
+            "org": "Silicon Spice, Mountain View, CA, USA#TAB#"
+        },
+        {
+            "name": "David B. Whalley",
+            "id": "2099007890",
+            "org": "Silicon Spice, Mountain View, CA, USA#TAB#"
+        },
+        {
+            "name": "Robert van Engelen",
+            "id": "2131688180",
+            "org": "Computer Science Department, Florida State University, FL, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Worst-case execution time",
+        "Spectrum analyzer",
+        "Static analysis",
+        "Computer science",
+        "Need to know",
+        "Static timing analysis",
+        "Pipeline (computing)",
+        "Exploit",
+        "Real-time computing",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1491178396",
+        "1555915743",
+        "1557490801",
+        "1561021211",
+        "1967022475",
+        "2024800288",
+        "2052271830",
+        "2065854195",
+        "2094926594",
+        "2097046319",
+        "2112482891",
+        "2141034902",
+        "2146218445",
+        "2147661183",
+        "2149052625",
+        "2154158220",
+        "2157758640",
+        "2163712520",
+        "2171518785",
+        "2504509476",
+        "2801379325"
+    ]
+}

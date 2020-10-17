@@ -1,0 +1,38 @@
+{
+    "id": "1544735678",
+    "title": "Design of key establishment protocol using one-way functions to avert insider-replay attack",
+    "venue": "international conference on information systems security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mounita Saha",
+            "id": "2305683620",
+            "org": "Department of Computer Science and Engineering, Indian institute of Technology, Kharagpur, India#TAB#"
+        },
+        {
+            "name": "Dipanwita RoyChowdhury",
+            "id": "2027574193",
+            "org": "Department of Computer Science and Engineering, Indian institute of Technology, Kharagpur, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Design elements and principles",
+        "Cryptanalysis",
+        "Cryptographic nonce",
+        "Computer science",
+        "Shared secret",
+        "Computer security",
+        "One-way function",
+        "Information system",
+        "Insider",
+        "Replay attack"
+    ],
+    "references": [
+        "1607643969",
+        "1671268155",
+        "1769455756",
+        "2085687236",
+        "2133268023",
+        "2148156724"
+    ]
+}

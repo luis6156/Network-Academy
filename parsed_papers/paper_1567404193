@@ -1,0 +1,65 @@
+{
+    "id": "1567404193",
+    "title": "Low Latency High Bandwidth Message Transfer Mechanisms for a Network Interface Plugged into a Memory Slot",
+    "venue": "Cluster Computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Noboru Tanabe",
+            "id": "2029866889",
+            "org": "TOSHIBA R & D Center, 1 Komukai-Toshiba-cho, Saiwai-ku, Kawasaki, 210-8582, Japan#TAB#"
+        },
+        {
+            "name": "Junji Yamamoto",
+            "id": "2560124482",
+            "org": "RWCP Tsukuba Research Center, Tsukuba Mitsui Building, Tsukuba, 305-0032, Japan#TAB#"
+        },
+        {
+            "name": "Hiroaki Nishi",
+            "id": "2806612033",
+            "org": "RWCP Tsukuba Research Center, Tsukuba Mitsui Building, Tsukuba, 305-0032, Japan#TAB#"
+        },
+        {
+            "name": "Tomohiro Kudoh",
+            "id": "1903269453",
+            "org": "RWCP Tsukuba Research Center, Tsukuba Mitsui Building, Tsukuba, 305-0032, Japan#TAB#"
+        },
+        {
+            "name": "Yoshihiro Hamada",
+            "id": "2054269117",
+            "org": "Tokyo University of Agriculture and Technology, Naka-cho Koganei, 184-8588, Japan#TAB#"
+        },
+        {
+            "name": "Hironori Nakajo",
+            "id": "1226422382",
+            "org": "Tokyo University of Agriculture and Technology, Naka-cho Koganei, 184-8588, Japan#TAB#"
+        },
+        {
+            "name": "Hideharu Amano",
+            "id": "2149171869",
+            "org": "Keio University, Hiyoshi Yokohama, 223-8522, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "PC133",
+        "Instruction cycle",
+        "Computer science",
+        "Conventional PCI",
+        "Network interface",
+        "Bandwidth (signal processing)",
+        "Duplex (telecommunications)",
+        "DIMM",
+        "Computer network",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "148313052",
+        "1530488840",
+        "2049479873",
+        "2103190863",
+        "2117791917",
+        "2141318181",
+        "2583967184"
+    ]
+}

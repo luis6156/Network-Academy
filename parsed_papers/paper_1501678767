@@ -1,0 +1,62 @@
+{
+    "id": "1501678767",
+    "title": "Disk Allocation for Fast Range and Nearest-Neighbor Queries",
+    "venue": "Distributed and Parallel Databases",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Sunil Prabhakar",
+            "id": "2119765128",
+            "org": "Department of Computer Sciences, Purdue University, West Lafayette, IN 47907, USA. sunil@cs.purdue.edu#TAB#"
+        },
+        {
+            "name": "Divyakant Agrawal",
+            "id": "2169544959",
+            "org": "Department of Computer Science, University of California, Santa Barbara, CA 93106, USA. agrawal@cs.ucsb.edu#TAB#"
+        },
+        {
+            "name": "Amr El Abbadi",
+            "id": "2120785847",
+            "org": "Department of Computer Science, University of California, Santa Barbara, CA 93106, USA. amr@cs.ucsb.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Parallel I/O",
+        "Computer science",
+        "Range searching",
+        "k-nearest neighbors algorithm",
+        "Limiting",
+        "Data mining",
+        "Metadata",
+        "Information retrieval",
+        "Range query (data structures)"
+    ],
+    "references": [
+        "1499049447",
+        "1509747728",
+        "1519356465",
+        "1546065898",
+        "1793284863",
+        "1968568562",
+        "1981889860",
+        "2041989747",
+        "2043494951",
+        "2050945457",
+        "2052695126",
+        "2066799613",
+        "2075280207",
+        "2096703709",
+        "2108643052",
+        "2108908993",
+        "2114270519",
+        "2118269922",
+        "2125148312",
+        "2129938590",
+        "2150661231",
+        "2151135734",
+        "2151367350",
+        "2155776210",
+        "2238624099"
+    ]
+}

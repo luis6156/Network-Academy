@@ -1,0 +1,35 @@
+{
+    "id": "1803801017",
+    "title": "An Approach to Real-time Scheduling - but is it Really a Problem for Multimedia?",
+    "venue": "network and operating system support for digital audio and video",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "Roger M. Needham",
+            "id": "2467977717",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "Akira Nakamura",
+            "id": "2439695218",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-priority pre-emptive scheduling",
+        "Priority inheritance",
+        "Computer science",
+        "Earliest deadline first scheduling",
+        "Priority inversion",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Priority ceiling protocol",
+        "Rate-monotonic scheduling",
+        "Multimedia",
+        "Real-time computing"
+    ],
+    "references": [
+        "2160293203"
+    ]
+}

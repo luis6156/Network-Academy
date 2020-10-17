@@ -1,0 +1,46 @@
+{
+    "id": "1578674049",
+    "title": "A Linear Kernel for the k-Disjoint Cycle Problem on Planar Graphs",
+    "venue": "international symposium on algorithms and computation",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Hans L. Bodlaender",
+            "id": "2288497910",
+            "org": "Department of Information and Computing Sciences, Utrecht University, Utrecht, The Netherlands 3584 CH#TAB#"
+        },
+        {
+            "name": "Eelko Penninkx",
+            "id": "2125552079",
+            "org": "Department of Information and Computing Sciences, Utrecht University, Utrecht, The Netherlands 3584 CH#TAB#"
+        },
+        {
+            "name": "Richard B. Tan",
+            "id": "2182320004",
+            "org": "Department of Information and Computing Sciences, Utrecht University, Utrecht, The Netherlands 3584 CH and Department of Computer Science, University of Sciences & Arts of Oklahoma, Chickasha, USA ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Parameterized complexity",
+        "Data reduction",
+        "Vertex cover",
+        "Planar graph",
+        "Disjoint sets",
+        "Kernel (linear algebra)",
+        "Vertex (geometry)"
+    ],
+    "references": [
+        "75155422",
+        "1491529421",
+        "1491784324",
+        "1818723348",
+        "1850475437",
+        "2083748805",
+        "2093762675",
+        "2113924317"
+    ]
+}

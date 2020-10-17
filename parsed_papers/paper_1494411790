@@ -1,0 +1,40 @@
+{
+    "id": "1494411790",
+    "title": "Partitioning approach to visualization of large graphs",
+    "venue": "graph drawing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Vladimir Batagelj",
+            "id": "2167694815",
+            "org": "FMF, Department of Mathematics, and IMFM"
+        },
+        {
+            "name": "Andrej Mrvar",
+            "id": "1998335764",
+            "org": "University of Ljubljana Kardeljeva ploscad 5"
+        },
+        {
+            "name": "Matjaz Zaversnik",
+            "id": "2123155369",
+            "org": "FMF, Department of Mathematics, and IMFM"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete mathematics",
+        "Computer science",
+        "Combinatorics",
+        "Modular decomposition",
+        "Visualization",
+        "Graph product",
+        "Graph",
+        "Adjacency matrix",
+        "Cluster analysis",
+        "Pathwidth",
+        "Connectivity"
+    ],
+    "references": [
+        "2075220720",
+        "2167482691"
+    ]
+}

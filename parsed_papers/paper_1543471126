@@ -1,0 +1,42 @@
+{
+    "id": "1543471126",
+    "title": "An Efficient Inclusion-Based Points-To Analysis for Strictly-Typed Languages",
+    "venue": "static analysis symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "John Whaley",
+            "id": "2262305730",
+            "org": "Stanford University"
+        },
+        {
+            "name": "Monica S. Lam",
+            "id": "2136170053",
+            "org": "Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Local variable",
+        "Object-oriented programming",
+        "Java",
+        "Control flow",
+        "Theoretical computer science",
+        "Dynamic dispatch",
+        "Computer science",
+        "Distributed computing",
+        "Knowledge representation and reasoning",
+        "Sparse approximation",
+        "Call graph"
+    ],
+    "references": [
+        "1974608873",
+        "2044354349",
+        "2051600169",
+        "2065088439",
+        "2069476565",
+        "2084816051",
+        "2113238444",
+        "2131135493",
+        "2171240827"
+    ]
+}

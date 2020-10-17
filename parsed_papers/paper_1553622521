@@ -1,0 +1,70 @@
+{
+    "id": "1553622521",
+    "title": "Hybrid Monitors for Concurrent Noninterference",
+    "venue": "ieee computer security foundations symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Aslan Askarov",
+            "id": "2806267953",
+            "org": "Aarhus University"
+        },
+        {
+            "name": "Stephen Chong",
+            "id": "2105167831",
+            "org": "Harvard University"
+        },
+        {
+            "name": "Heiko Mantel",
+            "id": "2141446503",
+            "org": "Technische Universitat Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Shared memory",
+        "Language-based security",
+        "Computer science",
+        "Concurrent computing",
+        "Distributed computing",
+        "Real-time computing",
+        "Synchronization (computer science)",
+        "Concurrency",
+        "Concurrency control",
+        "Covert channel"
+    ],
+    "references": [
+        "1511116625",
+        "1579441649",
+        "1725973462",
+        "1777875894",
+        "1993302007",
+        "1994197051",
+        "1997775274",
+        "2072885133",
+        "2086234010",
+        "2097833793",
+        "2099878912",
+        "2100050463",
+        "2108887121",
+        "2110263582",
+        "2116647386",
+        "2122049982",
+        "2123858370",
+        "2141126977",
+        "2145846275",
+        "2147380064",
+        "2149465027",
+        "2150174204",
+        "2151009878",
+        "2153684747",
+        "2158126684",
+        "2162283517",
+        "2165078378",
+        "2166542433",
+        "2168686464",
+        "2168753065",
+        "2171690178",
+        "2180221446"
+    ]
+}

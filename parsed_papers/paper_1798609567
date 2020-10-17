@@ -1,0 +1,65 @@
+{
+    "id": "1798609567",
+    "title": "Evaluating 2-DNF formulas on ciphertexts",
+    "venue": "theory of cryptography conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Dan Boneh",
+            "id": "201828038",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Eu-Jin Goh",
+            "id": "2097226873",
+            "org": "Computer Science Department, Stanford University, Stanford, CA#TAB#"
+        },
+        {
+            "name": "Kobbi Nissim",
+            "id": "677882550",
+            "org": "Department of Computer Science, Ben-Gurion University, Beer-Sheva, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Encryption",
+        "Plaintext-aware encryption",
+        "Verifiable secret sharing",
+        "Probabilistic encryption",
+        "Random oracle",
+        "Deterministic encryption",
+        "Private information retrieval",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "76185347",
+        "296683941",
+        "1529862094",
+        "1532836984",
+        "1541083511",
+        "1544327602",
+        "1589034595",
+        "1660562555",
+        "1983236952",
+        "1990220158",
+        "1998368731",
+        "2031714952",
+        "2043944888",
+        "2047000063",
+        "2065265824",
+        "2073346043",
+        "2086042811",
+        "2108834246",
+        "2109365902",
+        "2112138431",
+        "2132172731",
+        "2138784757",
+        "2143087446",
+        "2150307013",
+        "2154654620",
+        "2166462813",
+        "2397835572"
+    ]
+}

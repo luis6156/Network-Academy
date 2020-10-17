@@ -1,0 +1,55 @@
+{
+    "id": "1585749274",
+    "title": "Coupled Multi-shape Model and Mutual Information for Medical Image Segmentation",
+    "venue": "international conference information processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Andy Tsai",
+            "id": "2121915602",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "William M. Wells",
+            "id": "2107357764",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Clare M. Tempany",
+            "id": "1972084460",
+            "org": "Brigham and Women's Hospital, Harvard Medical School"
+        },
+        {
+            "name": "W. Eric L. Grimson",
+            "id": "430561134",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Alan S. Willsky",
+            "id": "270055802",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Pattern recognition",
+        "Active contour model",
+        "Region growing",
+        "Computer science",
+        "Image segmentation",
+        "Image texture",
+        "Segmentation-based object categorization",
+        "Minimum spanning tree-based segmentation",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1480873147",
+        "2038952578",
+        "2097109632",
+        "2097819447",
+        "2110815705",
+        "2141787796",
+        "2148107745"
+    ]
+}

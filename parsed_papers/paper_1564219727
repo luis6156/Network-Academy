@@ -1,0 +1,49 @@
+{
+    "id": "1564219727",
+    "title": "Cryptanalytic Attacks on Pseudorandom Number Generators",
+    "venue": "fast software encryption",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "John Kelsey",
+            "id": "2103161411",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "Bruce Schneier",
+            "id": "605106185",
+            "org": "Counterpane Systems"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California Berkeley"
+        },
+        {
+            "name": "Chris Hall",
+            "id": "2625580935",
+            "org": "Counterpane Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Block cipher",
+        "Pseudorandom number generator",
+        "Mathematics",
+        "Theoretical computer science",
+        "Cryptographic nonce",
+        "Initialization vector",
+        "Stream cipher",
+        "Hash function"
+    ],
+    "references": [
+        "1561485272",
+        "1607313240",
+        "1756321105",
+        "1793054443",
+        "1977568210",
+        "2026522166",
+        "2407933944"
+    ]
+}

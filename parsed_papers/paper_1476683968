@@ -1,0 +1,83 @@
+{
+    "id": "1476683968",
+    "title": "Preparing HPC Applications for Exascale: Challenges and Recommendations",
+    "venue": "network based information systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Erika Abraham",
+            "id": "2089688318",
+            "org": "RWTH Aachen Univ., Aachen, Germany"
+        },
+        {
+            "name": "Costas Bekas",
+            "id": "1990181748",
+            "org": "IBM Res., Zurich, Switzerland"
+        },
+        {
+            "name": "Ivona Brandic",
+            "id": "2044531097",
+            "org": "Vienna Univ. of Technol., Vienna, Austria"
+        },
+        {
+            "name": "Samir Genaim",
+            "id": "327210984",
+            "org": "Complutense Univ. of Madrid, Madrid, Spain"
+        },
+        {
+            "name": "Einar Broch Johnsen",
+            "id": "1923830530",
+            "org": "Dept. of Inf., Univ. of Oslo, Oslo, Norway"
+        },
+        {
+            "name": "Ivan Kondov",
+            "id": "426386712",
+            "org": "Steinbuch Centre for Comput., Karlsruhe Inst. of Technol., Karlsruhe, Germany"
+        },
+        {
+            "name": "Sabri Pllana",
+            "id": "437038843",
+            "org": "Dept. of Comput. Sci., Linnaeus Univ., Vaxjo, Sweden"
+        },
+        {
+            "name": "Achim Streit",
+            "id": "2108019135",
+            "org": "Steinbuch Centre for Comput., Karlsruhe Inst. of Technol., Karlsruhe, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Exascale computing",
+        "Porting",
+        "Autonomic computing",
+        "Conceptual framework",
+        "Computer science",
+        "Distributed computing",
+        "Exploit"
+    ],
+    "references": [
+        "56226570",
+        "134581040",
+        "561557459",
+        "1488371585",
+        "1488731993",
+        "1554208380",
+        "1555595008",
+        "1555873941",
+        "1604442026",
+        "1767162540",
+        "1880436303",
+        "1978959587",
+        "1990911977",
+        "1996092188",
+        "2014070197",
+        "2015014863",
+        "2033848632",
+        "2049591465",
+        "2075851551",
+        "2081678769",
+        "2092703362",
+        "2104727304",
+        "2105524676",
+        "2136202858"
+    ]
+}

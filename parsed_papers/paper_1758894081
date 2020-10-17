@@ -1,0 +1,36 @@
+{
+    "id": "1758894081",
+    "title": "Differential cryptanalysis of a reduced-round SEED",
+    "venue": "international workshop on security",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hitoshi Yanami",
+            "id": "1598568665",
+            "org": "Fujitsu Laboratories Ltd, Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Takeshi Shimoyama",
+            "id": "2105611034",
+            "org": "Fujitsu Laboratories Ltd, Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Block cipher",
+        "Cipher",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Computer science",
+        "Impossible differential cryptanalysis",
+        "Computer security",
+        "Higher-order differential cryptanalysis",
+        "Feistel cipher",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "1504341594",
+        "1576495995",
+        "1629301835"
+    ]
+}

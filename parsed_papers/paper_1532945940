@@ -1,0 +1,52 @@
+{
+    "id": "1532945940",
+    "title": "Improved second-order bounds for prediction with expert advice",
+    "venue": "conference on learning theory",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Nicolo Cesa-Bianchi",
+            "id": "259249205",
+            "org": "DSI, Universita di Milano, Milano, Italy#TAB#"
+        },
+        {
+            "name": "Yishay Mansour",
+            "id": "2078633956",
+            "org": "School of computer Science, Tel-Aviv University, Tel Aviv, Israel#TAB#"
+        },
+        {
+            "name": "Gilles Stoltz",
+            "id": "2150131303",
+            "org": "DMA, Ecole Normale Superieure, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Absolute value",
+        "Regret",
+        "Square (algebra)",
+        "Online algorithm",
+        "Explained sum of squares",
+        "Multi-armed bandit",
+        "Stochastic game",
+        "Mathematical optimization",
+        "Upper and lower bounds",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1529039634",
+        "1532950927",
+        "1570963478",
+        "1577927781",
+        "1964631708",
+        "1964964840",
+        "1979675141",
+        "1988790447",
+        "2009487047",
+        "2055639053",
+        "2077902449",
+        "2093825590",
+        "2161704742"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "151330154",
+    "title": "A scheduling framework that makes any disk schedulers non-work-conserving solely based on request characteristics",
+    "venue": "file and storage technologies",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Yuehai Xu",
+            "id": "2126589304",
+            "org": "ECE Department, Wayne State University, Detroit, MI#TAB#"
+        },
+        {
+            "name": "Song Jiang",
+            "id": "2168837340",
+            "org": "ECE Department, Wayne State University, Detroit, MI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "I/O scheduling",
+        "Linux kernel",
+        "Locality",
+        "Computer science",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Exploit",
+        "Disk array",
+        "Virtual machine",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "73598622",
+        "126443840",
+        "1498936153",
+        "1535185125",
+        "1569184546",
+        "1582785971",
+        "1814217792",
+        "1936365067",
+        "1989088895",
+        "1990771431",
+        "1990819515",
+        "2025153188",
+        "2043213682",
+        "2057176147",
+        "2080232995",
+        "2087000303",
+        "2094884630",
+        "2097620557",
+        "2101675015",
+        "2110298485",
+        "2124349089",
+        "2127510307",
+        "2128134963",
+        "2130954231",
+        "2131726714",
+        "2132188629",
+        "2132387139",
+        "2136423649",
+        "2140815597",
+        "2147139455",
+        "2147407897",
+        "2147853062",
+        "2149273293",
+        "2200591032"
+    ]
+}

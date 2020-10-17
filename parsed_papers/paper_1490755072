@@ -1,0 +1,62 @@
+{
+    "id": "1490755072",
+    "title": "Fast Automatic Segmentation of the Esophagus from 3D CT Data Using a Probabilistic Model",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Johannes Feulner",
+            "id": "2099458573",
+            "org": "Chair of Pattern Recognition, University of Erlangen-Nuremberg, Germany and Siemens Corporate Technology, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "S. Kevin Zhou",
+            "id": "2167740186",
+            "org": "Siemens Corporate Research, Princeton, USA#TAB#"
+        },
+        {
+            "name": "Alexander Cavallaro",
+            "id": "2138697552",
+            "org": "Radiology Institute, University Hospital Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Sascha Seifert",
+            "id": "2165955996",
+            "org": "Siemens Corporate Technology, Erlangen, Germany#TAB#"
+        },
+        {
+            "name": "Joachim Hornegger",
+            "id": "51092151",
+            "org": "Chair of Pattern Recognition, University of Erlangen-Nuremberg, Germany and Erlangen Graduate School in Advanced Optical Technologies (SAOT), Germany#TAB#"
+        },
+        {
+            "name": "Dorin Comaniciu",
+            "id": "2054682710",
+            "org": "Siemens Corporate Research, Princeton, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Factor graph",
+        "Computer vision",
+        "Pattern recognition",
+        "Computation",
+        "Computer science",
+        "Statistical model",
+        "Classifier (linguistics)",
+        "Markov chain",
+        "Scale-space segmentation",
+        "Esophagus",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1486578428",
+        "1571036400",
+        "1607908258",
+        "1660618025",
+        "1964811235",
+        "2137813581",
+        "2146514558",
+        "2169146573"
+    ]
+}

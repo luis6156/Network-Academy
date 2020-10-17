@@ -1,0 +1,62 @@
+{
+    "id": "152127602",
+    "title": "Static Integer Overflow Vulnerability Detection in Windows Binary",
+    "venue": "international workshop on security",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Yi Deng",
+            "id": "2676830845",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Yang Zhang",
+            "id": "2643739432",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Liang Cheng",
+            "id": "2609816203",
+            "org": "Chinese Academy of Sciences"
+        },
+        {
+            "name": "Xiaoshan Sun",
+            "id": "2135683245",
+            "org": "Chinese Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Intermediate language",
+        "Software",
+        "Vulnerability",
+        "Computer science",
+        "Binary number",
+        "Predicate transformer semantics",
+        "Distributed computing",
+        "Integer overflow",
+        "Dataflow",
+        "False positive rate",
+        "Real-time computing"
+    ],
+    "references": [
+        "127238549",
+        "157156687",
+        "180405853",
+        "1514171102",
+        "1530478935",
+        "1536898727",
+        "1542462119",
+        "1556566737",
+        "1568194905",
+        "1582456956",
+        "1583425800",
+        "1825457006",
+        "1912598576",
+        "2129487583",
+        "2129538349",
+        "2140611647",
+        "2142858834",
+        "2148488259",
+        "2165597437"
+    ]
+}

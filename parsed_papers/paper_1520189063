@@ -1,0 +1,68 @@
+{
+    "id": "1520189063",
+    "title": "Optimizing shared data accesses in distributed-memory X10 systems",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Jeeva Paudel",
+            "id": "1999089866",
+            "org": "Computing Sc., University of Alberta"
+        },
+        {
+            "name": "Olivier Tardieu",
+            "id": "284463012",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Jose Nelson Amarai",
+            "id": "2232079834",
+            "org": "Computing Sc., University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Partitioned global address space",
+        "Parallel computing",
+        "Speedup",
+        "Computer science",
+        "Distributed computing",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "Runtime system",
+        "Data structure",
+        "Real-time computing",
+        "Directory"
+    ],
+    "references": [
+        "51427095",
+        "1489864444",
+        "1512849962",
+        "1769402780",
+        "1807294333",
+        "1980499862",
+        "1987588924",
+        "2046736907",
+        "2059736952",
+        "2074495414",
+        "2079577430",
+        "2095760405",
+        "2097113145",
+        "2106626405",
+        "2113401164",
+        "2114489740",
+        "2126415451",
+        "2126990153",
+        "2131346374",
+        "2138180780",
+        "2138466513",
+        "2140886952",
+        "2150192991",
+        "2151032144",
+        "2153904572",
+        "2156742168",
+        "2163552442",
+        "2164552982",
+        "2171483064"
+    ]
+}

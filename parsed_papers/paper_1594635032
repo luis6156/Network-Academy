@@ -1,0 +1,48 @@
+{
+    "id": "1594635032",
+    "title": "Transparent Orthogonal Checkpointing through User-Level Pagers",
+    "venue": "international workshop on persistent object systems",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Espen Skoglund",
+            "id": "2160120411",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Christian Ceelen",
+            "id": "2277652847",
+            "org": "University of Karlsruhe"
+        },
+        {
+            "name": "Jochen Liedtke",
+            "id": "2133902515",
+            "org": "University of Karlsruhe"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Address space",
+        "Pager",
+        "Computer science",
+        "Stable storage",
+        "Distributed computing",
+        "Snapshot (computer storage)",
+        "Operating system",
+        "Page table",
+        "Kernel (linear algebra)",
+        "Page fault"
+    ],
+    "references": [
+        "157661739",
+        "1482095069",
+        "1537929875",
+        "1862835629",
+        "1968351779",
+        "2002915275",
+        "2006989942",
+        "2031032746",
+        "2057155096",
+        "2167800525"
+    ]
+}

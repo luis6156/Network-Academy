@@ -1,0 +1,43 @@
+{
+    "id": "181218937",
+    "title": "Improvement of an anagram based NIDS by reducing the storage space of bloom filters (poster abstract)",
+    "venue": "recent advances in intrusion detection",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Hugo Villanua Vega",
+            "id": "2097138202",
+            "org": "Group of Analysis, Security and Systems (GASS), Department of Software Engineering and Artificial Intelligence (DISIA), School of Computer Science, Universidad Complutense de Madrid (UCM), Madrid, ...#TAB#"
+        },
+        {
+            "name": "Jorge Maestre Vidal",
+            "id": "2141828603",
+            "org": "Group of Analysis, Security and Systems (GASS), Department of Software Engineering and Artificial Intelligence (DISIA), School of Computer Science, Universidad Complutense de Madrid (UCM), Madrid, ...#TAB#"
+        },
+        {
+            "name": "Jaime Daniel Mejia Castro",
+            "id": "2710334750",
+            "org": "Group of Analysis, Security and Systems (GASS), Department of Software Engineering and Artificial Intelligence (DISIA), School of Computer Science, Universidad Complutense de Madrid (UCM), Madrid, ...#TAB#"
+        },
+        {
+            "name": "Luis Javier Garcia Villalba",
+            "id": "2072044949",
+            "org": "Group of Analysis, Security and Systems (GASS), Department of Software Engineering and Artificial Intelligence (DISIA), School of Computer Science, Universidad Complutense de Madrid (UCM), Madrid, ...#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Anagram",
+        "Computer science",
+        "False positive paradox",
+        "Bloom filter",
+        "Computer security",
+        "Data structure",
+        "Real-time computing",
+        "Payload"
+    ],
+    "references": [
+        "1594536929",
+        "1754837781",
+        "1993284846"
+    ]
+}

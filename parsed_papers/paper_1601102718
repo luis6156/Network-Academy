@@ -1,0 +1,38 @@
+{
+    "id": "1601102718",
+    "title": "Enhancements to the linux kernel for blocking buffer overflow based attack",
+    "venue": "ALS'00 Proceedings of the 4th annual Linux Showcase & Conference - Volume 4",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Massimo Bernaschi",
+            "id": "2056910064",
+            "org": "Istituto Applicazioni del calcolo, Roma, Italy#TAB#"
+        },
+        {
+            "name": "Emanuele Gabrielli",
+            "id": "2547678643",
+            "org": "Dipartimento di Scienze dell'Informazione, Universita di Roma \"La Sapienza\", Roma, Italy#TAB#"
+        },
+        {
+            "name": "Luigi V. Mancini",
+            "id": "2255353675",
+            "org": "Dipartimento di Scienze dell'Informazione, Universita di Roma \"La Sapienza\", Roma, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Access control",
+        "Linux kernel",
+        "Computer science",
+        "System call",
+        "Buffer overflow",
+        "Unix",
+        "Operating system",
+        "Real-time computing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1618548847",
+        "1876735072"
+    ]
+}

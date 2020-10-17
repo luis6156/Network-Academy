@@ -1,0 +1,51 @@
+{
+    "id": "1534133247",
+    "title": "Space-Efficient Data Cubes for Dynamic Environments",
+    "venue": "data warehousing and knowledge discovery",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Mirek Riedewald",
+            "id": "2128393815",
+            "org": "Univ. of California"
+        },
+        {
+            "name": "Divyakant Agrawal",
+            "id": "2169544959",
+            "org": "Univ. of California"
+        },
+        {
+            "name": "Amr El Abbadi",
+            "id": "2716532057",
+            "org": "Univ. of California"
+        },
+        {
+            "name": "Renato Pajarola",
+            "id": "1975963237",
+            "org": "Univ. of California"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Response time",
+        "Speedup",
+        "Multidimensional systems",
+        "Computer science",
+        "Data mining",
+        "Distributed computing",
+        "On the fly",
+        "Database",
+        "Range query (data structures)",
+        "Data warehouse",
+        "Data cube"
+    ],
+    "references": [
+        "120802049",
+        "1504598991",
+        "1577196345",
+        "2036560106",
+        "2071425575",
+        "2103201239",
+        "2126652202"
+    ]
+}

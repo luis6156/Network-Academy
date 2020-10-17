@@ -1,0 +1,44 @@
+{
+    "id": "1516229389",
+    "title": "Set bounds and (split) set domain propagation using ROBDDs",
+    "venue": "australasian joint conference on artificial intelligence",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Peter Hawkins",
+            "id": "2164267122",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Vic., Australia#TAB#"
+        },
+        {
+            "name": "Vitaly Lagoon",
+            "id": "209666180",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Vic., Australia#TAB#"
+        },
+        {
+            "name": "Peter J. Stuckey",
+            "id": "2079669046",
+            "org": "Department of Computer Science and Software Engineering, The University of Melbourne, Vic., Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Propagator",
+        "Mathematics",
+        "Solution set",
+        "Discrete mathematics",
+        "Set function",
+        "Constraint satisfaction",
+        "Binary decision diagram",
+        "Solver",
+        "Boolean function",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1527333107",
+        "1568906217",
+        "1643203223",
+        "1982243747",
+        "2030224590",
+        "2085716817"
+    ]
+}

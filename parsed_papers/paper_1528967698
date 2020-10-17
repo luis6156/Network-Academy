@@ -1,0 +1,36 @@
+{
+    "id": "1528967698",
+    "title": "On the Resynchronization Attack",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jovan Dj. Golic",
+            "id": "1237859792",
+            "org": "Telecom Italia Lab"
+        },
+        {
+            "name": "Guglielmo Morgari",
+            "id": "220887178",
+            "org": "Telsy Elettronica e Telecomunicazioni"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Branching (version control)",
+        "Initialization vector",
+        "Stream cipher",
+        "Nonlinear system",
+        "Functional decomposition",
+        "Initialization",
+        "Boolean function"
+    ],
+    "references": [
+        "107556815",
+        "1604791554",
+        "1605416950"
+    ]
+}

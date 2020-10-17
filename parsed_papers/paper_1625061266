@@ -1,0 +1,73 @@
+{
+    "id": "1625061266",
+    "title": "Exploiting both pipelining and data parallelism with SIMD reconfigurable architecture",
+    "venue": "applied reconfigurable computing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yongjoo Kim",
+            "id": "2546025168",
+            "org": "School of EECS, Seoul National University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongeun Lee",
+            "id": "2145274687",
+            "org": "School of ECE, Ulsan National Institute of Science and Technology, Ulsan, Korea#TAB#"
+        },
+        {
+            "name": "Jinyong Lee",
+            "id": "2616931092",
+            "org": "School of EECS, Seoul National University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Toan X. Mai",
+            "id": "2098732530",
+            "org": "School of ECE, Ulsan National Institute of Science and Technology, Ulsan, Korea#TAB#"
+        },
+        {
+            "name": "Ingoo Heo",
+            "id": "2020802980",
+            "org": "School of EECS, Seoul National University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Yunheung Paek",
+            "id": "1983415555",
+            "org": "School of EECS, Seoul National University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SIMD",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Data parallelism",
+        "Scheduling (computing)",
+        "Granularity",
+        "Pipeline (computing)",
+        "Memory bank",
+        "Data mapping",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "105298322",
+        "1534434788",
+        "1583426719",
+        "1978692160",
+        "1982008951",
+        "2018348175",
+        "2025787141",
+        "2034919602",
+        "2034971312",
+        "2106416475",
+        "2112495948",
+        "2113780579",
+        "2122171990",
+        "2143823686",
+        "2145894958",
+        "2147657366",
+        "2156413870",
+        "2156504173",
+        "2172296269"
+    ]
+}

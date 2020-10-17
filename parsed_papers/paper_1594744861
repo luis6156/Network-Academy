@@ -1,0 +1,51 @@
+{
+    "id": "1594744861",
+    "title": "Adaptive Load Balancing for MPI Programs",
+    "venue": "international conference on computational science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Milind A. Bhandarkar",
+            "id": "1518194044",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Laxmikant V. Kale",
+            "id": "2115450241",
+            "org": "Computer Science"
+        },
+        {
+            "name": "Eric de Sturler",
+            "id": "258281664",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Jay Hoeflinger",
+            "id": "312486069",
+            "org": "University of Illinois at Urbana-Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "Object-oriented programming",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Parallel programming model",
+        "Dynamic loading",
+        "Dynamic load testing",
+        "Message passing",
+        "Runtime system",
+        "Dynamic programming",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1510543252",
+        "1514554472",
+        "1579190539",
+        "1633989273",
+        "2042735359",
+        "2103414666",
+        "2109942844",
+        "2169248772"
+    ]
+}

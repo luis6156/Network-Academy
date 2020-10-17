@@ -1,0 +1,47 @@
+{
+    "id": "1568036386",
+    "title": "Model checking of multi-applet javacard applications",
+    "venue": "smart card research and advanced application conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Gennady Chugunov",
+            "id": "1262430250",
+            "org": "Swedish Institute of Computer Science#TAB#"
+        },
+        {
+            "name": "Lars-Ake Fredlund",
+            "id": "2894317446",
+            "org": "Swedish Institute of Computer Science#TAB#"
+        },
+        {
+            "name": "Dilian Gurov",
+            "id": "2036471081",
+            "org": "Department of Microelectronics and Information Technology, Royal Institute of Technology (KTH)#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Java Card",
+        "Computer science",
+        "Java applet",
+        "Bytecode",
+        "Model checking",
+        "Linear temporal logic",
+        "Programming language",
+        "Real-time computing",
+        "Decidability",
+        "Abstraction model checking",
+        "Static program analysis"
+    ],
+    "references": [
+        "1491036809",
+        "1514446453",
+        "1589224558",
+        "1827592073",
+        "1905205673",
+        "2040060046",
+        "2135274583",
+        "2145529385"
+    ]
+}

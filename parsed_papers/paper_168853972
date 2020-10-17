@@ -1,0 +1,62 @@
+{
+    "id": "168853972",
+    "title": "Transaction reordering to reduce aborts in software transactional memory",
+    "venue": "high performance embedded architectures and compilers",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mohammad Ansari",
+            "id": "2155300446",
+            "org": "The University of Manchester, UK#TAB#"
+        },
+        {
+            "name": "Mikel Lujan",
+            "id": "2190413427",
+            "org": "The University of Manchester, UK#TAB#"
+        },
+        {
+            "name": "Christos Kotselidis",
+            "id": "2778373466",
+            "org": "The University of Manchester, UK#TAB#"
+        },
+        {
+            "name": "Kim Jarvis",
+            "id": "2131431081",
+            "org": "The University of Manchester, UK#TAB#"
+        },
+        {
+            "name": "Chris C. Kirkham",
+            "id": "2073614522",
+            "org": "The University of Manchester, UK#TAB#"
+        },
+        {
+            "name": "Ian Watson",
+            "id": "2098583161",
+            "org": "The University of Manchester, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Grace period",
+        "Scalability",
+        "Parallel computing",
+        "Computer science",
+        "Transactional memory",
+        "Distributed computing",
+        "Real-time computing",
+        "Software transactional memory",
+        "Linked list",
+        "Database transaction"
+    ],
+    "references": [
+        "1542975293",
+        "1966697570",
+        "1988800505",
+        "1993179651",
+        "2032401773",
+        "2105055683",
+        "2106871513",
+        "2125445874",
+        "2149089882",
+        "2166205759"
+    ]
+}

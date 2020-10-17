@@ -1,0 +1,47 @@
+{
+    "id": "1488743614",
+    "title": "Memory leak detection in Plumbr",
+    "venue": "Software - Practice and Experience",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Vladimir Sor",
+            "id": "318975533",
+            "org": "Software Technology and Applications Competence Center Plumbr OU, Ulikooli 2, Tartu Estonia"
+        },
+        {
+            "name": "Satish Narayana Srirama",
+            "id": "369694639",
+            "org": "Institute of Computer Science University of Tartu Tartu Estonia"
+        },
+        {
+            "name": "Nikita Salnikov-Tarnovski",
+            "id": "340685728",
+            "org": "Software Technology and Applications Competence Center Plumbr OU, Ulikooli 2, Tartu Estonia"
+        }
+    ],
+    "fields_of_study": [
+        "Crash",
+        "Computer science",
+        "Garbage collection",
+        "Plumbr",
+        "Memory management",
+        "Heap (data structure)",
+        "Garbage",
+        "Manual memory management",
+        "Real-time computing",
+        "Memory leak"
+    ],
+    "references": [
+        "54833955",
+        "1574130313",
+        "1825733274",
+        "2000100269",
+        "2012886500",
+        "2018600175",
+        "2028080565",
+        "2055862423",
+        "2162544703",
+        "2166542330"
+    ]
+}

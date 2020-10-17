@@ -1,0 +1,61 @@
+{
+    "id": "1488480972",
+    "title": "An efficient algorithm for on-the-fly data race detection using an epoch-based technique",
+    "venue": "Scientific Programming",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ok-Kyoon Ha",
+            "id": "2149766862",
+            "org": "Engineering Research Institute, Gyeongsang National University, Jinju-daero, Jinju, Gyeongsangnam-do, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Yong-Kee Jun",
+            "id": "2141574714",
+            "org": "Department of Informatics, Gyeongsang National University, Jinju-daero, Jinju, Gyeongsangnam-do, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Algorithm",
+        "Vector clock",
+        "Computer science",
+        "On the fly",
+        "Concurrency",
+        "Data structure",
+        "Real-time computing"
+    ],
+    "references": [
+        "181588126",
+        "1487375638",
+        "1561114929",
+        "1972544179",
+        "1973501242",
+        "1978903859",
+        "2011544478",
+        "2017986260",
+        "2025001147",
+        "2034256728",
+        "2040851906",
+        "2061239425",
+        "2072419942",
+        "2078197548",
+        "2086010014",
+        "2101414345",
+        "2105391037",
+        "2111378743",
+        "2114354140",
+        "2115968584",
+        "2127989655",
+        "2135531618",
+        "2137464085",
+        "2141975313",
+        "2143644287",
+        "2144249474",
+        "2150602145",
+        "2157539713",
+        "2160189327",
+        "2167744164",
+        "2170200862"
+    ]
+}

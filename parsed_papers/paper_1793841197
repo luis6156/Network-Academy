@@ -1,0 +1,52 @@
+{
+    "id": "1793841197",
+    "title": "SYN flooding attack detection by TCP handshake anomalies",
+    "venue": "Security and Communication Networks",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Martine Bellaiche",
+            "id": "2171520175",
+            "org": "Genie Informatique et Genie Logiciel, Ecole Polytechnique de Montreal, Montreal, QCCanada#TAB#"
+        },
+        {
+            "name": "Jean-Charles Gregoire",
+            "id": "2168182239",
+            "org": "INRS--EMT, Montreal, QCCanada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Transmission Control Protocol",
+        "Denial-of-service attack",
+        "Zeta-TCP",
+        "Network security",
+        "Computer science",
+        "Computer security",
+        "SYN flood",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP sequence prediction attack",
+        "Web traffic"
+    ],
+    "references": [
+        "1526572178",
+        "1559672438",
+        "2012547293",
+        "2081357650",
+        "2098792520",
+        "2112746910",
+        "2116433368",
+        "2119120810",
+        "2121904442",
+        "2125513999",
+        "2127273221",
+        "2134776773",
+        "2139498573",
+        "2146189323",
+        "2148275477",
+        "2154178154",
+        "2157366001",
+        "2157688311",
+        "2165719747"
+    ]
+}

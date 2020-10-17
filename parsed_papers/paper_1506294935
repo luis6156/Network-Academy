@@ -1,0 +1,42 @@
+{
+    "id": "1506294935",
+    "title": "A New Distributed Primality Test for Shared RSA Keys Using Quadratic Fields",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Ingrid Biehl",
+            "id": "212590601",
+            "org": "Technische Universitat Darmstadt"
+        },
+        {
+            "name": "Tsuyoshi Takagi",
+            "id": "2051837146",
+            "org": "Technische Universitat Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Lucas primality test",
+        "Mathematics",
+        "Solovay-Strassen primality test",
+        "Pi",
+        "Generating primes",
+        "Discrete mathematics",
+        "Distributed computing",
+        "Miller-Rabin primality test",
+        "Primality test",
+        "Primality certificate",
+        "Provable prime"
+    ],
+    "references": [
+        "1498896551",
+        "1523696464",
+        "1588742902",
+        "1600823322",
+        "1746297759",
+        "1990820504",
+        "2105807578",
+        "2112138431",
+        "2219292570"
+    ]
+}

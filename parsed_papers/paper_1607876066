@@ -1,0 +1,60 @@
+{
+    "id": "1607876066",
+    "title": "Multiple Differential Cryptanalysis of Round-Reduced PRINCE",
+    "venue": "fast software encryption",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Anne Canteaut",
+            "id": "300269431",
+            "org": "Inria, Rocquencourt, France"
+        },
+        {
+            "name": "Thomas Fuhr",
+            "id": "1634674595",
+            "org": "ANSSI"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "ANSSI"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "Inria, Rocquencourt, France"
+        },
+        {
+            "name": "Jean-Rene Reinhard",
+            "id": "2764782622",
+            "org": "ANSSI"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Block cipher",
+        "Cipher",
+        "Discrete mathematics",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "45372631",
+        "132386699",
+        "183217503",
+        "1436254147",
+        "1489035426",
+        "1529388387",
+        "1569252980",
+        "1599175145",
+        "1846045953",
+        "1894646615",
+        "1971372748",
+        "2135669462",
+        "2141124495",
+        "2208284559",
+        "2399950949",
+        "2400976025",
+        "2520671133"
+    ]
+}

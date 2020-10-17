@@ -1,0 +1,63 @@
+{
+    "id": "1769343819",
+    "title": "Protocol state fuzzing of TLS implementations",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Joeri de Ruiter",
+            "id": "2159331320",
+            "org": "School of Computer Science, University of Birmingham#TAB#"
+        },
+        {
+            "name": "Erik Poll",
+            "id": "2149911619",
+            "org": "Institute for Computing and Information Science, Radboud University Nijmegen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Key exchange",
+        "Black-box testing",
+        "Cryptographic protocol",
+        "Test harness",
+        "Computer science",
+        "Computer security",
+        "Fuzz testing",
+        "Client certificate",
+        "Finite-state machine",
+        "Java Secure Socket Extension"
+    ],
+    "references": [
+        "1425767035",
+        "1452942402",
+        "1495444061",
+        "1531296821",
+        "1662746580",
+        "1673604584",
+        "1733713784",
+        "1809974132",
+        "1835425562",
+        "1938383858",
+        "1965927058",
+        "1972505764",
+        "1976919795",
+        "1989445634",
+        "1996736473",
+        "2070775894",
+        "2072210640",
+        "2082264682",
+        "2107506969",
+        "2107670563",
+        "2108228210",
+        "2115675703",
+        "2126431182",
+        "2137837392",
+        "2149792581",
+        "2153041122",
+        "2160838772",
+        "2163005041",
+        "2165477067",
+        "2274779708",
+        "2580339477"
+    ]
+}

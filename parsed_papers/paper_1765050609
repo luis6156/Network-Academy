@@ -1,0 +1,58 @@
+{
+    "id": "1765050609",
+    "title": "Enhanced Algorithms for Multi-site Scheduling",
+    "venue": "grid computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Carsten Ernemann",
+            "id": "267212098",
+            "org": "University of Dortmund"
+        },
+        {
+            "name": "Volker Hamscher",
+            "id": "1969842527",
+            "org": "University of Dortmund"
+        },
+        {
+            "name": "Achim Streit",
+            "id": "2108019135",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Ramin Yahyapour",
+            "id": "380037160",
+            "org": "University of Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1487076132",
+        "1501479579",
+        "1575773008",
+        "1585314083",
+        "1599248213",
+        "1822495682",
+        "2027865026",
+        "2028057069",
+        "2044007789",
+        "2044378318",
+        "2049776775",
+        "2108905989",
+        "2111996486",
+        "2138307431",
+        "2150074609"
+    ]
+}

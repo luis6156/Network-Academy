@@ -1,0 +1,49 @@
+{
+    "id": "1581883591",
+    "title": "A Scheme to Base a Hash Function on a Block Cipher",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Shoichi Hirose",
+            "id": "2140040504",
+            "org": "Graduate School of Engineering, University of Fukui,#TAB#"
+        },
+        {
+            "name": "Hidenori Kuwakado",
+            "id": "260539752",
+            "org": "Graduate School of Engineering, Kobe University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Affine cipher",
+        "Transposition cipher",
+        "Cryptographic hash function",
+        "Discrete mathematics",
+        "Stream cipher",
+        "CBC-MAC",
+        "Pseudorandom permutation",
+        "MDC-2"
+    ],
+    "references": [
+        "1547537489",
+        "1579585272",
+        "1587127684",
+        "1656678770",
+        "1660562555",
+        "1689385595",
+        "1863270349",
+        "1939171670",
+        "2043711803",
+        "2060638651",
+        "2081479318",
+        "2131300413",
+        "2134615993",
+        "2156912159",
+        "2169290761",
+        "2404275717",
+        "2594768408"
+    ]
+}

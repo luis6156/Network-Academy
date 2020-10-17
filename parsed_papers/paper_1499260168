@@ -1,0 +1,46 @@
+{
+    "id": "1499260168",
+    "title": "MSCAN: a tool for analyzing MSC specifications",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Benedikt Bollig",
+            "id": "1555334462",
+            "org": "LSV, CNRS UMR 8643 & ENS de Cachan, France#TAB#"
+        },
+        {
+            "name": "Carsten Kern",
+            "id": "2152467039",
+            "org": "Software Modeling and Verification Group, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Markus Schlutter",
+            "id": "2040393588",
+            "org": "Department of Process Control Engineering, RWTH Aachen University, Germany#TAB#"
+        },
+        {
+            "name": "Volker Stolz",
+            "id": "2665516412",
+            "org": "Software Modeling and Verification Group, RWTH Aachen University, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Software development",
+        "Computer science",
+        "Message sequence chart",
+        "Lazy evaluation",
+        "Graphical user interface"
+    ],
+    "references": [
+        "1509234064",
+        "1512484645",
+        "1544702947",
+        "1551431268",
+        "1574587683",
+        "1606582305",
+        "1952030784",
+        "2585817176"
+    ]
+}

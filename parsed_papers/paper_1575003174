@@ -1,0 +1,40 @@
+{
+    "id": "1575003174",
+    "title": "Formal verification of a deadlock detection algorithm",
+    "venue": "meeting of the association for computational linguistics",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Freek Verbeek",
+            "id": "2125274975",
+            "org": "Radboud University"
+        },
+        {
+            "name": "Julien Schmaltz",
+            "id": "2121493230",
+            "org": "Open University of The Netherlands"
+        }
+    ],
+    "fields_of_study": [
+        "Formal verification",
+        "Theoretical computer science",
+        "Executable",
+        "Computer science",
+        "Deadlock",
+        "ACL2",
+        "Deadlock prevention algorithms",
+        "Wormhole switching",
+        "Correctness",
+        "Data structure",
+        "Real-time computing"
+    ],
+    "references": [
+        "1588366745",
+        "2025392198",
+        "2097027683",
+        "2121563512",
+        "2124552466",
+        "2128807112",
+        "2167940678"
+    ]
+}

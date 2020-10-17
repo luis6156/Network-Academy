@@ -1,0 +1,52 @@
+{
+    "id": "1581386200",
+    "title": "Processing MPI Datatypes Outside MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Robert B. Ross",
+            "id": "2135752517",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA 60439#TAB#"
+        },
+        {
+            "name": "Robert Latham",
+            "id": "2161297722",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA 60439#TAB#"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Computer Science Department, University of Illinois at Urbana-Champaign, Urbana, USA 61801#TAB#"
+        },
+        {
+            "name": "Ewing L. Lusk",
+            "id": "1977610862",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA 60439#TAB#"
+        },
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, USA 60439#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Implementation",
+        "Message Passing Interface",
+        "Copying"
+    ],
+    "references": [
+        "1508800646",
+        "1510543252",
+        "1514571304",
+        "1555194772",
+        "1577602444",
+        "1675778287",
+        "1969215126",
+        "2104486653",
+        "2156077349"
+    ]
+}

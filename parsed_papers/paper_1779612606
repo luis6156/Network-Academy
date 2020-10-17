@@ -1,0 +1,68 @@
+{
+    "id": "1779612606",
+    "title": "Combining billing codes, clinical notes, and medications from electronic health records provides superior phenotyping performance",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Wei-Qi Wei",
+            "id": "2096218954",
+            "org": "1Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, USA"
+        },
+        {
+            "name": "Pedro L. Teixeira",
+            "id": "2498634586",
+            "org": "1Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, USA"
+        },
+        {
+            "name": "Huan Mo",
+            "id": "2133545647",
+            "org": "1Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, USA"
+        },
+        {
+            "name": "Robert M. Cronin",
+            "id": "2402703194",
+            "org": "1Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, USA"
+        },
+        {
+            "name": "Jeremy L. Warner",
+            "id": "2131248401",
+            "org": "1Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, USA"
+        },
+        {
+            "name": "Joshua C. Denny",
+            "id": "2143892069",
+            "org": "1Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Disease",
+        "Medicine",
+        "Pathology",
+        "Medical record",
+        "Internal medicine",
+        "Data mining",
+        "F1 score",
+        "Diagnosis code",
+        "Atrial fibrillation",
+        "Chart",
+        "Predictive value of tests",
+        "Breast cancer"
+    ],
+    "references": [
+        "153173462",
+        "169580636",
+        "187840612",
+        "1512170015",
+        "1541954861",
+        "1808652302",
+        "1895358359",
+        "1963579426",
+        "2043768386",
+        "2105714645",
+        "2121382432",
+        "2154048976",
+        "2159636537",
+        "2171647789"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1564561023",
+    "title": "WSAT: A Tool for Formal Analysis of Web Services",
+    "venue": "computer aided verification",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Xiang Fu",
+            "id": "2144633880",
+            "org": "University of California"
+        },
+        {
+            "name": "Tevfik Bultan",
+            "id": "2279626640",
+            "org": "University of California"
+        },
+        {
+            "name": "Jianwen Su",
+            "id": "2104064298",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "XPath",
+        "Program analysis",
+        "XML",
+        "Asynchronous communication",
+        "Formal specification",
+        "Computer science",
+        "Web service",
+        "Database",
+        "Formal methods",
+        "Model checking"
+    ],
+    "references": [
+        "2081535979",
+        "2108370953",
+        "2127864248",
+        "2128433357",
+        "2132498115",
+        "2144531585",
+        "2154210739"
+    ]
+}

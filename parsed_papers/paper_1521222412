@@ -1,0 +1,58 @@
+{
+    "id": "1521222412",
+    "title": "Simple backdoors for RSA key generation",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Claude Crepeau",
+            "id": "2293660417",
+            "org": "School of Computer Science, McGill University, Montreal, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Alain Slakmon",
+            "id": "172680072",
+            "org": "Departement de Mathematiques, College de Bois-de-Boulogne, Montreal, Quebec, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tamper resistance",
+        "Side channel attack",
+        "Theoretical computer science",
+        "Blinding",
+        "Exponentiation",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Threat model",
+        "Power analysis",
+        "Key generation"
+    ],
+    "references": [
+        "189450844",
+        "1490982477",
+        "1499713421",
+        "1511843316",
+        "1522337283",
+        "1536508214",
+        "1544369918",
+        "1580300316",
+        "1591503962",
+        "1664808737",
+        "1860384618",
+        "1864311428",
+        "1996360405",
+        "2012857639",
+        "2101040389",
+        "2105374413",
+        "2119569175",
+        "2121017442",
+        "2129719496",
+        "2147906334",
+        "2148862943",
+        "2154909745",
+        "2156666175",
+        "2166780626",
+        "2786100402"
+    ]
+}

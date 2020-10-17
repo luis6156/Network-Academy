@@ -1,0 +1,50 @@
+{
+    "id": "164404488",
+    "title": "Store Buffer Reduction with MMUs",
+    "venue": "verified software theories tools experiments",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Geng Chen",
+            "id": "2504641014",
+            "org": "Saarland University"
+        },
+        {
+            "name": "Ernie Cohen",
+            "id": "2559239567",
+            "org": "University of Pennsylvania"
+        },
+        {
+            "name": "Mikhail Kovalev",
+            "id": "2702672585",
+            "org": "Saarland University"
+        }
+    ],
+    "fields_of_study": [
+        "Translation lookaside buffer",
+        "Thread (computing)",
+        "Hypervisor",
+        "Sequential consistency",
+        "Shared memory",
+        "Computer science",
+        "Win32 Thread Information Block",
+        "Page table",
+        "Operating system",
+        "Systems design",
+        "Programming language"
+    ],
+    "references": [
+        "136479479",
+        "146875869",
+        "155357827",
+        "1509000726",
+        "1545681762",
+        "1561412378",
+        "1594381772",
+        "2054739713",
+        "2066157470",
+        "2085773946",
+        "2120926795",
+        "2327217190"
+    ]
+}

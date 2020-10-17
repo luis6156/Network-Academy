@@ -1,0 +1,81 @@
+{
+    "id": "1594433671",
+    "title": "Vessels-Cut: a graph based approach to patient-specific carotid arteries modeling",
+    "venue": "3DPH'09 Proceedings of the 2009 international conference on Modelling the Physiological Human",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Moti Freiman",
+            "id": "2132380264",
+            "org": "School of Eng. and Computer Science, The Hebrew Univ. of Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Noah Broide",
+            "id": "1251424361",
+            "org": "School of Eng. and Computer Science, The Hebrew Univ. of Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Miriam Natanzon",
+            "id": "2059028971",
+            "org": "School of Eng. and Computer Science, The Hebrew Univ. of Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Einav Nammer",
+            "id": "2711734059",
+            "org": "Simbionix Ltd, Israel#TAB#"
+        },
+        {
+            "name": "Ofek Shilon",
+            "id": "1966609469",
+            "org": "Simbionix Ltd, Israel#TAB#"
+        },
+        {
+            "name": "Lior Weizman",
+            "id": "1911962646",
+            "org": "School of Eng. and Computer Science, The Hebrew Univ. of Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Leo Joskowicz",
+            "id": "148675920",
+            "org": "School of Eng. and Computer Science, The Hebrew Univ. of Jerusalem, Israel#TAB#"
+        },
+        {
+            "name": "Jacob Sosna",
+            "id": "1241811241",
+            "org": "Dept. Of Radiology, Hadassah Hebrew University Medical Center, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Segmentation",
+        "Cut",
+        "Interventional radiology",
+        "Active shape model",
+        "Aortic arch",
+        "Radiology",
+        "Voxel",
+        "Initialization",
+        "Aorta"
+    ],
+    "references": [
+        "4797066",
+        "155592068",
+        "1501474050",
+        "1777631236",
+        "1870947790",
+        "1974954013",
+        "2044049005",
+        "2048036649",
+        "2052636906",
+        "2098158945",
+        "2104355613",
+        "2105789358",
+        "2119300483",
+        "2124351162",
+        "2129534965",
+        "2146054025",
+        "2146445871",
+        "2153963165",
+        "2164774194"
+    ]
+}

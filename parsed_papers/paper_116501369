@@ -1,0 +1,32 @@
+{
+    "id": "116501369",
+    "title": "Design Principles for Iterated Hash Functions.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Stefan Lucks",
+            "id": "2810229488",
+            "org": "University of Mannheim"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Secure Hash Standard",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "81015123",
+        "1600432225",
+        "1863270349",
+        "2403237970"
+    ]
+}

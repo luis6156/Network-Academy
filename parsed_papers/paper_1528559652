@@ -1,0 +1,58 @@
+{
+    "id": "1528559652",
+    "title": "Finding collision on 45-step HAS-160",
+    "venue": "international conference on information security and cryptology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Aaram Yun",
+            "id": "2135582997",
+            "org": "National Security Research Institute, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Soo Hak Sung",
+            "id": "2167045751",
+            "org": "Department of Computing information & mathematics, Paichai University, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Sangwoo Park",
+            "id": "2169109665",
+            "org": "National Security Research Institute, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Donghoon Chang",
+            "id": "2120185276",
+            "org": "Center for Information and Security Technologies, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information and Security Technologies, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Hong Su Cho",
+            "id": "2606665869",
+            "org": "Graduate School of Information Security, Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD2",
+        "Cryptography",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Cryptographic hash function",
+        "HAS-160",
+        "Collision attack",
+        "Hash function",
+        "Collision",
+        "Collision resistance"
+    ],
+    "references": [
+        "1590269592",
+        "1656731780",
+        "2103239853",
+        "2131212920",
+        "2611506938"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1535477599",
+    "title": "Snakes on Triangle Meshes",
+    "venue": "Bildverarbeitung f&uuml;r die Medizin",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stephan Bischoff",
+            "id": "2706617745",
+            "org": "RWTH Aachen"
+        },
+        {
+            "name": "Tobias Weyand",
+            "id": "2106054434",
+            "org": "RWTH Aachen"
+        },
+        {
+            "name": "Leif Kobbelt",
+            "id": "1985366706",
+            "org": "RWTH Aachen"
+        }
+    ],
+    "fields_of_study": [
+        "Collision detection",
+        "Polygon mesh",
+        "Scissoring",
+        "Computer science",
+        "Merge (version control)",
+        "Triangle mesh",
+        "Topology",
+        "Tessellation",
+        "Projection (linear algebra)"
+    ],
+    "references": [
+        "1511744506",
+        "1988054474",
+        "2062518249",
+        "2130470231",
+        "2151552710"
+    ]
+}

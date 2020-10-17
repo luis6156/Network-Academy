@@ -1,0 +1,75 @@
+{
+    "id": "1487461673",
+    "title": "The MEET Approach: Securing Cryptographic Embedded Software Against Side Channel Attacks",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Giovanni Agosta",
+            "id": "2164102720",
+            "org": "Department of Electronics, Information and Bioengineering, Politecnico di Milano, Milan, Italy"
+        },
+        {
+            "name": "Alessandro Barenghi",
+            "id": "1779711972",
+            "org": "Department of Electronics, Information and Bioengineering, Politecnico di Milano, Milan, Italy"
+        },
+        {
+            "name": "Gerardo Pelosi",
+            "id": "1918540619",
+            "org": "Department of Electronics, Information and Bioengineering, Politecnico di Milano, Milan, Italy"
+        },
+        {
+            "name": "Michele Scandale",
+            "id": "89074788",
+            "org": "Department of Electronics, Information and Bioengineering, Politecnico di Milano, Milan, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Electronic engineering",
+        "Code segment",
+        "Side channel attack",
+        "Executable",
+        "Computer science",
+        "Compiler",
+        "Embedded software",
+        "Toolchain",
+        "Code morphing",
+        "Real-time computing"
+    ],
+    "references": [
+        "59374396",
+        "72918221",
+        "802019357",
+        "1472434837",
+        "1487782177",
+        "1490557050",
+        "1519539754",
+        "1569252980",
+        "1592625985",
+        "1598102953",
+        "1604252617",
+        "1847989447",
+        "1894646615",
+        "1994591685",
+        "2027325533",
+        "2038554971",
+        "2053832511",
+        "2062463502",
+        "2106846903",
+        "2107691219",
+        "2115394282",
+        "2116207513",
+        "2117290716",
+        "2126598527",
+        "2136347482",
+        "2141736588",
+        "2145380590",
+        "2153185479",
+        "2158963790",
+        "2160491639",
+        "2164826555",
+        "2176434173"
+    ]
+}

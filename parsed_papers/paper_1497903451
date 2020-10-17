@@ -1,0 +1,45 @@
+{
+    "id": "1497903451",
+    "title": "Process Structure and Scheduling in Real-Time Protocol Implementations",
+    "venue": "kommunikation in verteilten systemen",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "David P. Anderson",
+            "id": "2108671175",
+            "org": "International Computer Science Institute"
+        },
+        {
+            "name": "Luca Delgrossi",
+            "id": "2511955081",
+            "org": "International Computer Science Institute"
+        },
+        {
+            "name": "Ralf Guido Herrtwich",
+            "id": "2076952458",
+            "org": "International Computer Science Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Earliest deadline first scheduling",
+        "Network interface",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Computer network",
+        "Real-time computing",
+        "Time Protocol",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1790544354",
+        "1795908730",
+        "2103887028",
+        "2105703518",
+        "2159113298",
+        "2171469656"
+    ]
+}

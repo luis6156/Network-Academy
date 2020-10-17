@@ -1,0 +1,56 @@
+{
+    "id": "1601675633",
+    "title": "Considering block popularity in disk cache replacement for enhancing hit ratio with solid state drive",
+    "venue": "software engineering artificial intelligence networking and parallel distributed computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Yonjoong Ryou",
+            "id": "2055868866",
+            "org": "College of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea"
+        },
+        {
+            "name": "Byung Jun Lee",
+            "id": "2155718883",
+            "org": "College of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea"
+        },
+        {
+            "name": "Sang Hyun Yoo",
+            "id": "2464147841",
+            "org": "College of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea"
+        },
+        {
+            "name": "Hee Yong Youn",
+            "id": "2145152158",
+            "org": "College of Information and Communication Engineering, Sungkyunkwan University, Suwon, Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Disk buffer",
+        "Cache algorithms",
+        "Parallel computing",
+        "Computer science",
+        "Page cache",
+        "Real-time computing",
+        "Cache pollution",
+        "Solid-state drive",
+        "Adaptive replacement cache",
+        "Cache invalidation"
+    ],
+    "references": [
+        "133196353",
+        "1537068154",
+        "1860107648",
+        "1970737801",
+        "1975750427",
+        "1983274120",
+        "2004806949",
+        "2031460721",
+        "2057165054",
+        "2079369525",
+        "2131806537",
+        "2133128493",
+        "2158310845"
+    ]
+}

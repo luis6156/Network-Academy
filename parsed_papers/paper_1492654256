@@ -1,0 +1,48 @@
+{
+    "id": "1492654256",
+    "title": "Parallel Processing on Distributed Memory Multiprocessors",
+    "venue": "GI - 20. Jahrestagung I, Informatik auf dem Weg zum Anwender",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Max Lemke",
+            "id": "2641992107",
+            "org": "SUPRENUM GmbH"
+        },
+        {
+            "name": "Anton Schuller",
+            "id": "2153906189",
+            "org": "SUPRENUM GmbH"
+        },
+        {
+            "name": "Karl Solchenbach",
+            "id": "1666829567",
+            "org": "Gesellschaft fur Mathematik und Datenverarbeitung"
+        },
+        {
+            "name": "Ulrich Trottenberg",
+            "id": "150961819",
+            "org": "Gesellschaft fur Mathematik und Datenverarbeitung"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Cache-only memory architecture",
+        "Flat memory model",
+        "CUDA Pinned memory"
+    ],
+    "references": [
+        "1499054560",
+        "1972789974",
+        "1991268212",
+        "2008163988",
+        "2049824838",
+        "2058638623"
+    ]
+}

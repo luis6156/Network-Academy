@@ -1,0 +1,35 @@
+{
+    "id": "167577406",
+    "title": "A Formal Proof of Zhu's Signature Scheme.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Huafei Zhu",
+            "id": "2406220102",
+            "org": "Department of Information Science and Electronics Engineering"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Blind signature",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Formal proof",
+        "Strong RSA assumption",
+        "Hash function",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "1850675439",
+        "1882430379",
+        "1922219439",
+        "1972129951",
+        "2145301648",
+        "2151413173",
+        "2152521692",
+        "2563302303"
+    ]
+}

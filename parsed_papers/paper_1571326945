@@ -1,0 +1,46 @@
+{
+    "id": "1571326945",
+    "title": "Elliptic Curve Public-Key Cryptosystems - An Introduction",
+    "venue": "Advances in Computers",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Erik De Win",
+            "id": "2160326075",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Curve25519",
+        "Discrete mathematics",
+        "Computer science",
+        "Elliptic curve Diffie-Hellman",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1521787982",
+        "1529013801",
+        "1560768562",
+        "1660562555",
+        "1798342512",
+        "1869939343",
+        "2003736153",
+        "2046569422",
+        "2054020579",
+        "2099317248",
+        "2108558890",
+        "2111310412",
+        "2115840814"
+    ]
+}

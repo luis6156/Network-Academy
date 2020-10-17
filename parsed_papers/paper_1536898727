@@ -1,0 +1,62 @@
+{
+    "id": "1536898727",
+    "title": "RICH: Automatically Protecting Against Integer-Based Vulnerabilities",
+    "venue": "network and distributed system security symposium",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "David Brumley",
+            "id": "2157466369",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Dawn Song",
+            "id": "2131252044",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Tzi-cker Chiueh",
+            "id": "2112199241",
+            "org": "Stony Brook University"
+        },
+        {
+            "name": "Rob Johnson",
+            "id": "2097949663",
+            "org": "Stony Brook University"
+        },
+        {
+            "name": "Huijia Lin",
+            "id": "2159290181",
+            "org": "Cornell University"
+        }
+    ],
+    "fields_of_study": [
+        "Integer",
+        "Software",
+        "Computer science",
+        "Compiler",
+        "Integer overflow",
+        "Computer security",
+        "Server",
+        "Object code",
+        "Unix",
+        "Secure coding",
+        "Internet privacy"
+    ],
+    "references": [
+        "1491178396",
+        "1499226144",
+        "1536799011",
+        "1578723138",
+        "1593678010",
+        "1655226010",
+        "1825457006",
+        "2097990218",
+        "2101085206",
+        "2106972913",
+        "2114067856",
+        "2129538349",
+        "2141179168",
+        "2162284942"
+    ]
+}

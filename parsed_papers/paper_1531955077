@@ -1,0 +1,50 @@
+{
+    "id": "1531955077",
+    "title": "Static analysis of run-time errors in embedded critical parallel C programs",
+    "venue": "european symposium on programming",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Antoine Mine",
+            "id": "2113378078",
+            "org": "CNRS & Ecole Normale Superieure, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "C dynamic memory allocation",
+        "Parallel computing",
+        "Static analysis",
+        "Computer science",
+        "Mutual exclusion",
+        "Soundness",
+        "Memory semantics",
+        "Abstract interpretation",
+        "Real-time computing",
+        "Programming language"
+    ],
+    "references": [
+        "1493367105",
+        "1512985475",
+        "1556566737",
+        "1568729458",
+        "1588593984",
+        "1923608483",
+        "1964727056",
+        "1971332773",
+        "1973501242",
+        "2029601347",
+        "2030159266",
+        "2043100293",
+        "2054739713",
+        "2075419979",
+        "2091085450",
+        "2131135493",
+        "2132334337",
+        "2142481893",
+        "2150422093",
+        "2152221608",
+        "2170736936"
+    ]
+}

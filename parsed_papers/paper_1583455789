@@ -1,0 +1,41 @@
+{
+    "id": "1583455789",
+    "title": "Security of web browser scripting languages: vulnerabilities, attacks, and remedies",
+    "venue": "usenix security symposium",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Vinod Anupam",
+            "id": "37743088",
+            "org": "Bell Laboratories, Lucent Technologies, Murray Hill, NJ#TAB#"
+        },
+        {
+            "name": "Alain J. Mayer",
+            "id": "2611376370",
+            "org": "Bell Laboratories, Lucent Technologies, Murray Hill, NJ#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "HTML scripting",
+        "Remote scripting",
+        "Cross-zone scripting",
+        "Computer science",
+        "Server-side scripting",
+        "Client-side scripting",
+        "Computer security",
+        "Web application security",
+        "Content Security Policy",
+        "Cross-site scripting",
+        "Internet privacy"
+    ],
+    "references": [
+        "1484100760",
+        "1928533667",
+        "2030514900",
+        "2049217529",
+        "2057732821",
+        "2060565195",
+        "2544851795"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1556597491",
+    "title": "Weaknesses in the Key Scheduling Algorithm of RC4",
+    "venue": "selected areas in cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Scott R. Fluhrer",
+            "id": "305559842",
+            "org": "Cisco Systems, Inc."
+        },
+        {
+            "name": "Itsik Mantin",
+            "id": "2284665810",
+            "org": "The Weizmann Institute"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "The Weizmann Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Fluhrer, Mantin and Shamir attack",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Wired Equivalent Privacy",
+        "Weak key",
+        "Key space",
+        "RC4",
+        "Temporal Key Integrity Protocol",
+        "Key generation"
+    ],
+    "references": [
+        "1500414598",
+        "1515716392",
+        "1544956979",
+        "1602293460",
+        "1776302329",
+        "2786219742"
+    ]
+}

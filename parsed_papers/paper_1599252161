@@ -1,0 +1,50 @@
+{
+    "id": "1599252161",
+    "title": "Fault analysis study of IDEA",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Christophe Clavier",
+            "id": "2516421471",
+            "org": "Gemalto, Security Labs, La Ciotat Cedex, France#TAB#"
+        },
+        {
+            "name": "Benedikt Gierlichs",
+            "id": "2048388829",
+            "org": "K.U. Leuven, ESAT, SCD-COSIC, Leuven, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Ingrid Verbauwhede",
+            "id": "2044881251",
+            "org": "K.U. Leuven, ESAT, SCD-COSIC, Leuven, Heverlee, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fault indicator",
+        "Block cipher",
+        "Stuck-at fault",
+        "Computer science",
+        "Distributed computing",
+        "Differential fault analysis",
+        "Fault coverage",
+        "Fault (power engineering)",
+        "Real-time computing",
+        "Fault injection",
+        "Fault model"
+    ],
+    "references": [
+        "18028457",
+        "79095404",
+        "1484814447",
+        "1493213353",
+        "1500693694",
+        "1548264583",
+        "1550146135",
+        "1629301835",
+        "1978695162",
+        "2112284176",
+        "2144952508",
+        "2170489924"
+    ]
+}

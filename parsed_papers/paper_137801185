@@ -1,0 +1,53 @@
+{
+    "id": "137801185",
+    "title": "Type-Based analysis of PKCS#11 key management",
+    "venue": "principles of security and trust",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Matteo Centenaro",
+            "id": "1989679519",
+            "org": "DAIS, Universita Ca' Foscari Venezia, Italy#TAB#"
+        },
+        {
+            "name": "Riccardo Focardi",
+            "id": "344358645",
+            "org": "DAIS, Universita Ca' Foscari Venezia, Italy#TAB#"
+        },
+        {
+            "name": "Flaminia L. Luccio",
+            "id": "1248874653",
+            "org": "DAIS, Universita Ca' Foscari Venezia, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "PKCS #11",
+        "Computer science",
+        "Distributed computing",
+        "Security token",
+        "PKCS",
+        "Encryption",
+        "Key management",
+        "PKCS #1",
+        "Plaintext"
+    ],
+    "references": [
+        "203757321",
+        "1469272392",
+        "1502610071",
+        "1509083475",
+        "1514302123",
+        "1525307539",
+        "1588182391",
+        "1597184376",
+        "1721673008",
+        "1863793285",
+        "2077836579",
+        "2109266092",
+        "2125030112",
+        "2151180266",
+        "2154209904",
+        "2810385597"
+    ]
+}

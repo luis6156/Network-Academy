@@ -1,0 +1,44 @@
+{
+    "id": "1585795788",
+    "title": "Formalization and Analysis of Class Loading in Java",
+    "venue": "Higher-order and Symbolic Computation \\/ Lisp and Symbolic Computation",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Akihiko Tozawa",
+            "id": "684708935",
+            "org": "IBM Research, Tokyo Research Laboratory, IBM Japan Ltd., Japan. atozawa@jp.ibm.com#TAB#"
+        },
+        {
+            "name": "Masami Hagiya",
+            "id": "240110451",
+            "org": "Graduate School of Science, University of Tokyo, Japan. hagiya@is.s.u-tokyo.ac.jp#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Type safety",
+        "Theoretical computer science",
+        "Java",
+        "Exploit",
+        "Computer science",
+        "Bytecode",
+        "Soundness",
+        "Reference implementation",
+        "Formal methods",
+        "Virtual machine",
+        "Programming language"
+    ],
+    "references": [
+        "1538143411",
+        "1560655349",
+        "1820096046",
+        "1977509992",
+        "2025672027",
+        "2031833469",
+        "2035069210",
+        "2045903006",
+        "2083803628",
+        "2096213702",
+        "2135785452"
+    ]
+}

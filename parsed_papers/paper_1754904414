@@ -1,0 +1,68 @@
+{
+    "id": "1754904414",
+    "title": "Maximum flows by incremental breadth-first search",
+    "venue": "european symposium on algorithms",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Andrew V. Goldberg",
+            "id": "2129291095",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Sagi Hed",
+            "id": "2163939612",
+            "org": "Tel Aviv University#TAB#"
+        },
+        {
+            "name": "Haim Kaplan",
+            "id": "2294996757",
+            "org": "Tel Aviv University#TAB#"
+        },
+        {
+            "name": "Robert Endre Tarjan",
+            "id": "350567680",
+            "org": "Princeton University and HP Labs#TAB#"
+        },
+        {
+            "name": "Renato F. Werneck",
+            "id": "2162596805",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Maximum flow problem",
+        "Discrete mathematics",
+        "Breadth-first search",
+        "Adjacency list",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "60423602",
+        "1499695691",
+        "1554393825",
+        "1602012035",
+        "1685122025",
+        "1918148494",
+        "1986096063",
+        "1992170089",
+        "1998128290",
+        "2008292658",
+        "2018804864",
+        "2046043928",
+        "2056800373",
+        "2061872629",
+        "2085201606",
+        "2085849292",
+        "2090359754",
+        "2099463627",
+        "2109567578",
+        "2113137767",
+        "2123806189",
+        "2145532166",
+        "2149342630",
+        "2152216760"
+    ]
+}

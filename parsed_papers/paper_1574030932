@@ -1,0 +1,46 @@
+{
+    "id": "1574030932",
+    "title": "NUSMV: A New Symbolic Model Verifier",
+    "venue": "computer aided verification",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Alessandro Cimatti",
+            "id": "1478355294",
+            "org": "ITC-IRST"
+        },
+        {
+            "name": "Edmund M. Clarke",
+            "id": "2129477832",
+            "org": "Carnegie-Mellon University"
+        },
+        {
+            "name": "Fausto Giunchiglia",
+            "id": "164943294",
+            "org": "ITC-IRST"
+        },
+        {
+            "name": "Marco Roveri",
+            "id": "1957840925",
+            "org": "ITC-IRST"
+        }
+    ],
+    "fields_of_study": [
+        "Specification language",
+        "Algorithm",
+        "Source code",
+        "Computer science",
+        "Parse tree",
+        "Model checking",
+        "Systems architecture",
+        "Modular design",
+        "Graphical user interface"
+    ],
+    "references": [
+        "1573354578",
+        "1787074469",
+        "1822320350",
+        "2033657926",
+        "2113251992"
+    ]
+}

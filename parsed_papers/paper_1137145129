@@ -1,0 +1,71 @@
+{
+    "id": "1137145129",
+    "title": "Weak-Key and Related-Key Analysis of Hash-Counter-Hash Tweakable Enciphering Schemes",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Zhelei Sun",
+            "id": "2128192975",
+            "org": "Institute of Information Engineering, Chinese Academy of Sciences"
+        },
+        {
+            "name": "Peng Wang",
+            "id": "2764725433",
+            "org": "Institute of Information Engineering, Chinese Academy of Sciences"
+        },
+        {
+            "name": "Liting Zhang",
+            "id": "2103696780",
+            "org": "Institute of Software, Chinese Academy of Sciences"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Weak key",
+        "Universal hashing",
+        "Related-key attack",
+        "Authenticated encryption",
+        "Hash function",
+        "Message authentication code",
+        "Distinguishing attack"
+    ],
+    "references": [
+        "72141113",
+        "78271855",
+        "117856253",
+        "124625691",
+        "617944061",
+        "1414755073",
+        "1497481941",
+        "1504211573",
+        "1511186238",
+        "1515958737",
+        "1520309614",
+        "1523854767",
+        "1528724153",
+        "1543271574",
+        "1558550330",
+        "1586481148",
+        "1587868574",
+        "1976634665",
+        "1985623009",
+        "1991897749",
+        "2052207834",
+        "2106337617",
+        "2107358757",
+        "2126290606",
+        "2134079148",
+        "2138992486",
+        "2139172211",
+        "2145227448",
+        "2146350800",
+        "2149158041",
+        "2155115217",
+        "2165908632",
+        "2169290761"
+    ]
+}

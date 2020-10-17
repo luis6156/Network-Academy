@@ -1,0 +1,40 @@
+{
+    "id": "1563089601",
+    "title": "Stereo vision based reconstruction of huge urban areas from an airborne pushbroom camera (HRSC)",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Heiko Hirschmuller",
+            "id": "2309678857",
+            "org": "Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Oberpfaffenhofen#TAB#"
+        },
+        {
+            "name": "Frank Scholten",
+            "id": "2518088728",
+            "org": "Institute of Planetary Research, German Aerospace Center (DLR), Berlin, Germany#TAB#"
+        },
+        {
+            "name": "Gerd Hirzinger",
+            "id": "1791484504",
+            "org": "Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Oberpfaffenhofen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Stereopsis",
+        "Computer vision",
+        "Computer science",
+        "Terrain",
+        "Sensor array",
+        "High Resolution Stereo Camera",
+        "Epipolar geometry",
+        "Iterative reconstruction",
+        "Digital elevation model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1536827095",
+        "2104974755",
+        "2165114467"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1580897918",
+    "title": "The LCCP for optimizing kernel parameters for SVM",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sabri Boughorbel",
+            "id": "1173647859",
+            "org": "INRIA Rocquencourt, Le Chesnay, France#TAB#"
+        },
+        {
+            "name": "Jean Philippe Tarel",
+            "id": "2539816140",
+            "org": "DESE, LCPC, Paris, France#TAB#"
+        },
+        {
+            "name": "Nozha Boujemaa",
+            "id": "563774350",
+            "org": "INRIA Rocquencourt, Le Chesnay, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hyperparameter optimization",
+        "Mathematics",
+        "Machine learning",
+        "Pattern recognition",
+        "Kernel method",
+        "Cross-validation",
+        "Convex optimization",
+        "Support vector machine",
+        "Gradient descent",
+        "Logarithmically convex function",
+        "Mathematical optimization",
+        "Kernel (linear algebra)",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1540007258",
+        "2158001550",
+        "2166765763"
+    ]
+}

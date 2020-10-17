@@ -1,0 +1,62 @@
+{
+    "id": "1556740421",
+    "title": "Distinguishing and Second-Preimage Attacks on CBC-Like MACs",
+    "venue": "cryptology and network security",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Keting Jia",
+            "id": "2143996220",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100#TAB#"
+        },
+        {
+            "name": "Xiaoyun Wang",
+            "id": "2127169682",
+            "org": "Key Laboratory of Cryptologic Technology and Information Security, Ministry of Education, Shandong University, Jinan, China 250100 and Institute for Advanced Study, Tsinghua University, Beijing, C ...#TAB#"
+        },
+        {
+            "name": "Zheng Yuan",
+            "id": "2483566772",
+            "org": "Institute for Advanced Study, Tsinghua University, Beijing, China 100084 and Beijing Electronic Science and Technology Institute, Beijing, China 100070#TAB#"
+        },
+        {
+            "name": "Guangwu Xu",
+            "id": "2125432424",
+            "org": "Institute for Advanced Study, Tsinghua University, Beijing, China 100084 and Department of Electrical Engineering and Computer Science, University of Wisconsin-Milwaukee, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Watermarking attack",
+        "Interpolation attack",
+        "Theoretical computer science",
+        "Length extension attack",
+        "Birthday attack",
+        "Fluhrer, Mantin and Shamir attack",
+        "Padding oracle attack",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Slide attack",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "1484640685",
+        "1502336667",
+        "1546844943",
+        "1551325341",
+        "1560798398",
+        "1586481148",
+        "1597235115",
+        "1604454960",
+        "1891091891",
+        "2022521688",
+        "2107165730",
+        "2120644709",
+        "2125591151",
+        "2134518741",
+        "2143910645",
+        "2146009225",
+        "2395637693",
+        "2613962897"
+    ]
+}

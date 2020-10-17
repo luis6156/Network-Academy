@@ -1,0 +1,48 @@
+{
+    "id": "1798831264",
+    "title": "Approximation Algorithms for MAX-BISECTION on Low Degree Regular Graphs",
+    "venue": "Fundamenta Informaticae",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Marek Karpinski",
+            "id": "2118168888",
+            "org": "Department of Computer Science, University of Bonn, Bonn, Germany#TAB#"
+        },
+        {
+            "name": "Miroslaw Kowaluk",
+            "id": "96416573",
+            "org": "Institute of Informatics, Warsaw University, Banacha 2, Warsaw, Poland#TAB#"
+        },
+        {
+            "name": "Andrzej Lingas",
+            "id": "2018911135",
+            "org": "Department of Computer Science, Lund University, 22100 Lund, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Chordal graph",
+        "Maximum cut",
+        "Discrete mathematics",
+        "Pancyclic graph",
+        "1-planar graph",
+        "Combinatorics",
+        "Indifference graph",
+        "Random regular graph",
+        "Clique-sum",
+        "Hopcroft-Karp algorithm"
+    ],
+    "references": [
+        "1512148653",
+        "1601503375",
+        "1982180670",
+        "1985123706",
+        "2027048490",
+        "2049142782",
+        "2073705438",
+        "2074210283",
+        "2081957612",
+        "2130857672"
+    ]
+}

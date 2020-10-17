@@ -1,0 +1,59 @@
+{
+    "id": "148661690",
+    "title": "Cube cryptanalysis of hitag2 stream cipher",
+    "venue": "cryptology and network security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Siwei Sun",
+            "id": "2153310726",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Lei Hu",
+            "id": "2145762831",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Yonghong Xie",
+            "id": "2689393750",
+            "org": "State Key Laboratory of Information Security, Graduate School of Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Xiangyong Zeng",
+            "id": "2138514383",
+            "org": "Faculty of Mathematics and Computer Science, Hubei University, Wuhan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Theoretical computer science",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Distributed computing",
+        "Two-square cipher",
+        "Computer security",
+        "Unicity distance",
+        "Related-key attack",
+        "Slide attack",
+        "Key whitening",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "1699105",
+        "107680689",
+        "1570043269",
+        "1654132081",
+        "1832469506",
+        "1870923733",
+        "2111336263",
+        "2132161909",
+        "2142351551",
+        "2153971105",
+        "2160494425",
+        "2164455525",
+        "2227028477",
+        "2408648110",
+        "2742455357"
+    ]
+}

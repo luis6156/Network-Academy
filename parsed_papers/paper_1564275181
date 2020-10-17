@@ -1,0 +1,49 @@
+{
+    "id": "1564275181",
+    "title": "A comparison of RDF query languages",
+    "venue": "international semantic web conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Peter Haase",
+            "id": "2290566231",
+            "org": "Institute AIFB, University of Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Jeen Broekstra",
+            "id": "2105860987",
+            "org": "Vrije Universiteit Amsterdam, The Netherlands#TAB#"
+        },
+        {
+            "name": "Andreas Eberhart",
+            "id": "2047029390",
+            "org": "Institute AIFB, University of Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Raphael Volz",
+            "id": "2154656435",
+            "org": "Institute AIFB, University of Karlsruhe, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Web search query",
+        "Web query classification",
+        "Computer science",
+        "RDF/XML",
+        "Query language",
+        "RDF query language",
+        "Database",
+        "RDF Schema",
+        "SPARQL",
+        "Information retrieval",
+        "Query optimization"
+    ],
+    "references": [
+        "181148683",
+        "1799456667",
+        "2084130127",
+        "2084987750",
+        "2093625056",
+        "2113214500"
+    ]
+}

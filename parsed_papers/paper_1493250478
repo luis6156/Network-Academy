@@ -1,0 +1,59 @@
+{
+    "id": "1493250478",
+    "title": "Engineering an External Memory Minimum Spanning Tree Algorithm.",
+    "venue": "IFIP TCS",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Roman Dementiev",
+            "id": "2593652910",
+            "org": "Max-Planck-Institut f. Informatik, 66123 Saarbrucken, Germany"
+        },
+        {
+            "name": "Peter Sanders",
+            "id": "2056122262",
+            "org": "Max-Planck-Institut f. Informatik, 66123 Saarbrucken, Germany"
+        },
+        {
+            "name": "Dominik Schultes",
+            "id": "136210065",
+            "org": "Max-Planck-Institut f. Informatik, 66123 Saarbrucken, Germany"
+        },
+        {
+            "name": "Jop F. Sibeyn",
+            "id": "136624136",
+            "org": "Institut fur Informatik, Universitat Halle, 06099 Halle, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Spanning tree",
+        "Reverse-delete algorithm",
+        "Prim's algorithm",
+        "Distributed computing",
+        "Expected linear time MST algorithm",
+        "Minimum spanning tree",
+        "k-minimum spanning tree",
+        "Minimum spanning tree-based segmentation",
+        "Distributed minimum spanning tree",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "358088974",
+        "1485262373",
+        "1485508724",
+        "1508221111",
+        "1597952969",
+        "1887769558",
+        "1968348485",
+        "2018804864",
+        "2038142281",
+        "2049742196",
+        "2057839002",
+        "2071346873",
+        "2136354771",
+        "2138304862",
+        "2177751887"
+    ]
+}

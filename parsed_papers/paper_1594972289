@@ -1,0 +1,103 @@
+{
+    "id": "1594972289",
+    "title": "BotGrep: finding P2P bots with structured graph analysis",
+    "venue": "usenix security symposium",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Shishir Nagaraja",
+            "id": "2343141323",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Prateek Mittal",
+            "id": "2122368622",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Chi-Yao Hong",
+            "id": "2107341004",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Matthew Caesar",
+            "id": "2136255416",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        },
+        {
+            "name": "Nikita Borisov",
+            "id": "2893607278",
+            "org": "University of Illinois at Urbana-Champaign#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Power graph analysis",
+        "Network topology",
+        "Overlay",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Internet traffic",
+        "Software deployment",
+        "Backbone network",
+        "Botnet"
+    ],
+    "references": [
+        "1655456",
+        "16833051",
+        "47988595",
+        "187875600",
+        "191098608",
+        "202500387",
+        "1462349742",
+        "1481472066",
+        "1499648394",
+        "1523214132",
+        "1526879126",
+        "1550514379",
+        "1551705282",
+        "1551760018",
+        "1583098994",
+        "1585610988",
+        "1630225947",
+        "1756608328",
+        "1775772884",
+        "1854483861",
+        "1909494783",
+        "1922851884",
+        "1980793860",
+        "2009751443",
+        "2033281046",
+        "2034331023",
+        "2069620139",
+        "2075816541",
+        "2077439570",
+        "2087811006",
+        "2091692346",
+        "2096706512",
+        "2101755427",
+        "2102671922",
+        "2104209065",
+        "2105140491",
+        "2106895011",
+        "2107082801",
+        "2117420615",
+        "2118428193",
+        "2119245106",
+        "2121320294",
+        "2124365372",
+        "2126206464",
+        "2130550456",
+        "2132172731",
+        "2132280055",
+        "2147767253",
+        "2150593711",
+        "2152118092",
+        "2158049821",
+        "2162709050",
+        "2171957559",
+        "2280775762",
+        "2296396094",
+        "2464902793"
+    ]
+}

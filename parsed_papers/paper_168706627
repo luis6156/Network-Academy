@@ -1,0 +1,52 @@
+{
+    "id": "168706627",
+    "title": "Dependency-Based Automatic Parallelization of Java Applications",
+    "venue": "european conference on parallel processing",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Joao Rafael",
+            "id": "2105630305",
+            "org": "University of Coimbra"
+        },
+        {
+            "name": "Ivo Correia",
+            "id": "2629514910",
+            "org": "University of Coimbra"
+        },
+        {
+            "name": "Alcides Fonseca",
+            "id": "2193646990",
+            "org": "University of Coimbra"
+        },
+        {
+            "name": "Bruno Cabral",
+            "id": "2169454074",
+            "org": "University of Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Real time Java",
+        "Parallel computing",
+        "Speedup",
+        "Java",
+        "Executable",
+        "Computer science",
+        "Automatic programming",
+        "Dependency graph",
+        "strictfp",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1504751168",
+        "1526191609",
+        "1533109738",
+        "1534611368",
+        "1990025926",
+        "2016559894",
+        "2026585559",
+        "2074918600",
+        "2092967427",
+        "2171546589"
+    ]
+}

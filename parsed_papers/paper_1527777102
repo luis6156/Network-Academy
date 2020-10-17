@@ -1,0 +1,53 @@
+{
+    "id": "1527777102",
+    "title": "A theory of nested speculative execution",
+    "venue": "international conference on coordination models and languages",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Cristian Tapus",
+            "id": "2503811238",
+            "org": "California Institute of Technology#TAB#"
+        },
+        {
+            "name": "Jason Hickey",
+            "id": "2126477607",
+            "org": "California Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Speculative execution",
+        "Computer science",
+        "Distributed computing",
+        "Transactional memory",
+        "Rollback",
+        "Speculative multithreading",
+        "Correctness",
+        "Programming paradigm",
+        "Real-time computing",
+        "Operational semantics",
+        "Database transaction"
+    ],
+    "references": [
+        "1515932031",
+        "1580087508",
+        "1597760789",
+        "2043295270",
+        "2052915895",
+        "2092311766",
+        "2099795790",
+        "2100288563",
+        "2102568999",
+        "2105321788",
+        "2108204150",
+        "2110137598",
+        "2110425399",
+        "2112896782",
+        "2119964141",
+        "2121178808",
+        "2134182085",
+        "2161995137",
+        "2169202567",
+        "2296636214"
+    ]
+}

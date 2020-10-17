@@ -1,0 +1,71 @@
+{
+    "id": "1620415689",
+    "title": "Key-Private Proxy Re-encryption under LWE",
+    "venue": "international conference on progress in cryptology",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Yoshinori Aono",
+            "id": "2150768146",
+            "org": "NICT, Japan#TAB#"
+        },
+        {
+            "name": "Xavier Boyen",
+            "id": "67263304",
+            "org": "Queensland University of Technology, Australia#TAB#"
+        },
+        {
+            "name": "Le Trieu Phong",
+            "id": "2643288134",
+            "org": "NICT, Japan#TAB#"
+        },
+        {
+            "name": "Lihua Wang",
+            "id": "2112943366",
+            "org": "NICT, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Delegation",
+        "Mathematics",
+        "Theoretical computer science",
+        "Proxy re-encryption",
+        "Encryption",
+        "Alice and Bob",
+        "Learning with errors",
+        "Ciphertext",
+        "Random oracle"
+    ],
+    "references": [
+        "6981671",
+        "75310505",
+        "204567147",
+        "1517738348",
+        "1547036183",
+        "1557375247",
+        "1567827377",
+        "1572157978",
+        "1590823599",
+        "1607264302",
+        "1845765495",
+        "1958168824",
+        "1987152231",
+        "1995781254",
+        "2052267638",
+        "2061949491",
+        "2061997827",
+        "2070189400",
+        "2089477764",
+        "2106970188",
+        "2110356978",
+        "2113333997",
+        "2114428623",
+        "2139343945",
+        "2141064669",
+        "2155178472",
+        "2164101323",
+        "2226167778",
+        "2395302807"
+    ]
+}

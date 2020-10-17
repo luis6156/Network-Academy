@@ -1,0 +1,64 @@
+{
+    "id": "1565012864",
+    "title": "Related-Key differential attacks on cobra-s128, cobra-f64a, and cobra-f64b",
+    "venue": "international conference on progress in cryptology",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Changhoon Lee",
+            "id": "2809353927",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jongsung Kim",
+            "id": "2103203241",
+            "org": "Katholieke Universiteit Leuven, ESAT/SCD-COSIC, Belgium#TAB#"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Jaechul Sung",
+            "id": "2105677889",
+            "org": "Department of Mathematics, University of Seoul, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Block size",
+        "Theoretical computer science",
+        "Key schedule",
+        "Algorithm",
+        "Cipher",
+        "Computer science",
+        "Stream cipher",
+        "Related-key attack",
+        "Differential cryptanalysis",
+        "Correlation attack"
+    ],
+    "references": [
+        "798366527",
+        "1482776185",
+        "1506931772",
+        "1516699468",
+        "1535895762",
+        "1542982892",
+        "1546907539",
+        "1555491615",
+        "1556251672",
+        "1582964775",
+        "1592124145",
+        "1786888552",
+        "1871986277",
+        "1964723977",
+        "1979802565",
+        "1984275283"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1583571981",
+    "title": "Data and computation abstractions for dynamic and irregular computations",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Sriram Krishnamoorthy",
+            "id": "2720793370",
+            "org": "Department of Computer Science and Engineering, The Ohio State University, Columbus, OH#TAB#"
+        },
+        {
+            "name": "Jarek Nieplocha",
+            "id": "2056935207",
+            "org": "Computational Sciences and Mathematics, Pacific Northwest National Laboratory, Richland, WA#TAB#"
+        },
+        {
+            "name": "P. Sadayappan",
+            "id": "1966094299",
+            "org": "Department of Computer Science and Engineering, The Ohio State University, Columbus, OH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Parallel computing",
+        "Locality",
+        "Global Arrays",
+        "Distributed computing",
+        "Computer science",
+        "Data structure",
+        "Message passing",
+        "Parallel algorithm",
+        "Programming paradigm",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1501783757",
+        "1526191609",
+        "1612065083",
+        "1861151562",
+        "1969152955",
+        "2008654264",
+        "2073933343",
+        "2079577430",
+        "2095760405",
+        "2120970098",
+        "2142184646",
+        "2156768443"
+    ]
+}

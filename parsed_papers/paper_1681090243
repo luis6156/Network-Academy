@@ -1,0 +1,46 @@
+{
+    "id": "1681090243",
+    "title": "Sum-of-products evaluation schemes with fixed-point arithmetic, and their application to IIR filter implementation",
+    "venue": "conference on design and architectures for signal and image processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Benoit Lopez",
+            "id": "2164529286",
+            "org": "LIP6, University Pierre et Marie Curie (UPMC), Paris, France"
+        },
+        {
+            "name": "Thibault Hilaire",
+            "id": "1993939465",
+            "org": "LIP6, University Pierre et Marie Curie (UPMC), Paris, France"
+        },
+        {
+            "name": "Laurent-Stephane Didier",
+            "id": "2501564484",
+            "org": "LIP6, University Pierre et Marie Curie (UPMC), Paris, France"
+        }
+    ],
+    "fields_of_study": [
+        "Quantization (signal processing)",
+        "Linear filter",
+        "Transfer function",
+        "Adder",
+        "Theoretical computer science",
+        "Infinite impulse response",
+        "Fixed-point arithmetic",
+        "Computer science",
+        "Canonical normal form",
+        "Signal processing",
+        "Real-time computing"
+    ],
+    "references": [
+        "1656620728",
+        "1992292772",
+        "2036870239",
+        "2096182996",
+        "2097403787",
+        "2102440995",
+        "2147533055",
+        "2155963553"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1528618170",
+    "title": "An FPGA-based floating-point Jacobi iterative solver",
+    "venue": "international symposium on parallel architectures algorithms and networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Gerald R. Morris",
+            "id": "2306232116",
+            "org": "Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA"
+        },
+        {
+            "name": "Viktor K. Prasanna",
+            "id": "2088826626",
+            "org": "Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Solver",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Jacobi method",
+        "Coprocessor",
+        "Hardware acceleration",
+        "Reconfigurable computing",
+        "Embarrassingly parallel",
+        "Iterative method"
+    ],
+    "references": [
+        "114677020",
+        "120928512",
+        "1499226859",
+        "1506342804",
+        "1553214226",
+        "1981252059",
+        "2111509133",
+        "2115002670",
+        "2130289795"
+    ]
+}

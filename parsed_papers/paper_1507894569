@@ -1,0 +1,43 @@
+{
+    "id": "1507894569",
+    "title": "Improving performance of distributed haskell in mosix clusters",
+    "venue": "international conference on computational science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Lori Collins",
+            "id": "2679639832",
+            "org": "Department of Computer and Information Sciences, Brooklyn College, Brooklyn, NY#TAB#"
+        },
+        {
+            "name": "Murray Gross",
+            "id": "2528949601",
+            "org": "Department of Computer and Information Sciences, Brooklyn College, Brooklyn, NY#TAB#"
+        },
+        {
+            "name": "Paula A. Whitlock",
+            "id": "2310214292",
+            "org": "Department of Computer and Information Sciences, Brooklyn College, Brooklyn, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Micromanagement",
+        "Parallel computing",
+        "Computer science",
+        "Haskell",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Functional programming",
+        "Automatic programming",
+        "Performance improvement",
+        "Virtual machine",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "45738044",
+        "1525424259",
+        "2108167744",
+        "2160329451",
+        "2180914204"
+    ]
+}

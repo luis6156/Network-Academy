@@ -1,0 +1,41 @@
+{
+    "id": "1588764038",
+    "title": "On the importance of the key separation principle for different modes of operation",
+    "venue": "information security practice and experience",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Danilo Gligoroski",
+            "id": "304236320",
+            "org": "Centre for Quantifiable Quality of Service in Communication Systems, Norwegian University of Science and Technology, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "S Suzana Andova",
+            "id": "2308406723",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, Eindhoven, The Netherlands#TAB#"
+        },
+        {
+            "name": "Svein Johan Knapskog",
+            "id": "705755140",
+            "org": "Centre for Quantifiable Quality of Service in Communication Systems, Norwegian University of Science and Technology, Trondheim, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Block cipher",
+        "Block size",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Block cipher mode of operation",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Plaintext",
+        "Special case"
+    ],
+    "references": [
+        "1596153847",
+        "2133065964",
+        "2152723805"
+    ]
+}

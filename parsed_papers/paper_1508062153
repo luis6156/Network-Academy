@@ -1,0 +1,56 @@
+{
+    "id": "1508062153",
+    "title": "Exploiting result equivalence in caching dynamic web content",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Ben Smith",
+            "id": "2708812647",
+            "org": "Department of Computer Science, University of California, Santa Barbara, CA#TAB#"
+        },
+        {
+            "name": "Anurag Acharya",
+            "id": "2155302952",
+            "org": "Department of Computer Science, University of California, Santa Barbara, CA#TAB#"
+        },
+        {
+            "name": "Tao Yang",
+            "id": "2584189575",
+            "org": "Department of Computer Science, University of California, Santa Barbara, CA#TAB#"
+        },
+        {
+            "name": "Huican Zhu",
+            "id": "2101727735",
+            "org": "Department of Computer Science, University of California, Santa Barbara, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Semantics",
+        "Web content",
+        "Digital library",
+        "Dynamic web page",
+        "Locality",
+        "Computer science",
+        "Latency (engineering)",
+        "Database",
+        "Exploit"
+    ],
+    "references": [
+        "142559593",
+        "1536239070",
+        "1893265708",
+        "1977406469",
+        "2022261236",
+        "2044534358",
+        "2062596870",
+        "2066782797",
+        "2067330646",
+        "2067636581",
+        "2075532054",
+        "2133369126",
+        "2137847645",
+        "2166868187"
+    ]
+}

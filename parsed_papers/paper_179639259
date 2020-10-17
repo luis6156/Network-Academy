@@ -1,0 +1,40 @@
+{
+    "id": "179639259",
+    "title": "Static analysis of Android programs",
+    "venue": "conference on automated deduction",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Etienne Payet",
+            "id": "2127314613",
+            "org": "LIM-IREMIA, Universite de la Reunion, France#TAB#"
+        },
+        {
+            "name": "Fausto Spoto",
+            "id": "2309842473",
+            "org": "Dipartimento di Informatica, Universita di Verona, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Static analysis",
+        "XML",
+        "Computer science",
+        "Abstract interpretation",
+        "Correctness",
+        "Android (operating system)",
+        "Software verification",
+        "Programming language"
+    ],
+    "references": [
+        "1504196925",
+        "1583225756",
+        "1948625797",
+        "1996245589",
+        "2043100293",
+        "2075091218",
+        "2088238746",
+        "2106355420",
+        "2111422217"
+    ]
+}

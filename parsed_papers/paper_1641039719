@@ -1,0 +1,38 @@
+{
+    "id": "1641039719",
+    "title": "Mining Sequential Patterns: Generalizations and Performance Improvements",
+    "venue": "extending database technology",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ramakrishnan Srikant",
+            "id": "2069583943",
+            "org": "IBM Almaden Research Center"
+        },
+        {
+            "name": "Rakesh Agrawal",
+            "id": "2138427228",
+            "org": "IBM Almaden Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential Pattern Mining",
+        "Computer science",
+        "Data mining",
+        "GSP Algorithm",
+        "Hierarchy",
+        "Hash function",
+        "Performance improvement",
+        "Association rule learning",
+        "Generalization",
+        "Database transaction"
+    ],
+    "references": [
+        "20722260",
+        "1520890006",
+        "1578959085",
+        "2154765457",
+        "2158454296",
+        "2166559705"
+    ]
+}

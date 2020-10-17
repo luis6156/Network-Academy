@@ -1,0 +1,47 @@
+{
+    "id": "1566256432",
+    "title": "Bidirectional LSTM networks for improved phoneme classification and recognition",
+    "venue": "international conference on artificial neural networks",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Alex Graves",
+            "id": "2116712232",
+            "org": "IDSIA, Manno-Lugano, Switzerland#TAB#"
+        },
+        {
+            "name": "Santiago Fernandez",
+            "id": "2698053739",
+            "org": "IDSIA, Manno-Lugano, Switzerland#TAB#"
+        },
+        {
+            "name": "Jurgen Schmidhuber",
+            "id": "2116333191",
+            "org": "TU Munich, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Recurrent neural network",
+        "Artificial neural network",
+        "Long short term memory",
+        "Pattern recognition",
+        "Computer science",
+        "Markov model",
+        "Hidden Markov model",
+        "Hybrid system",
+        "Speech corpus",
+        "Speech recognition",
+        "TIMIT",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "21683646",
+        "2064675550",
+        "2079735306",
+        "2110871230",
+        "2131774270",
+        "2134299061",
+        "2147568880",
+        "2513222501"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "1623457189",
+    "title": "Detecting and preventing type flaws at static time",
+    "venue": "Journal of Computer Security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Chiara Bodei",
+            "id": "2039277195",
+            "org": "(Correspd.) Dipartimento di Informatica, Universita di Pisa, Via Pontecorvo, I-56127 Pisa, Italia. E-mails: {chiara, degano}@di.unipi.it#TAB#"
+        },
+        {
+            "name": "Linda Brodo",
+            "id": "162349626",
+            "org": "Dipartimento di Scienze dei Linguaggi, Universita di Sassari, via Tempio, 9, I-07100 Sassari, Italia. E-mail: [email protected]#TAB#"
+        },
+        {
+            "name": "Pierpaolo Degano",
+            "id": "2352208385",
+            "org": "Dipartimento di Informatica, Universita di Pisa, Via Pontecorvo, I-56127 Pisa, Italia. E-mails: {chiara, degano}@di.unipi.it#TAB#"
+        },
+        {
+            "name": "Han Gao",
+            "id": "2304010070",
+            "org": "Informatics and Mathematical Modelling, Technical University of Denmark, Richard Petersens Plads bldg 321, DK-2800 Kongens Lyngby, Denmark. E-mail: [email protected]#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Forcing (mathematics)",
+        "Theoretical computer science",
+        "Cryptographic protocol",
+        "Computer science",
+        "Confusion",
+        "Control flow analysis",
+        "Real-time computing",
+        "Polynomial"
+    ],
+    "references": [
+        "1586945915",
+        "1603799276",
+        "1603878273",
+        "1626825491",
+        "1648795825",
+        "1969090042",
+        "1991884788",
+        "2001367673",
+        "2029693536",
+        "2047179503",
+        "2072161326",
+        "2098830096",
+        "2099361263",
+        "2100569778",
+        "2117094531",
+        "2124030056",
+        "2125894704",
+        "2134732832",
+        "2135758617",
+        "2141582971",
+        "2141624400",
+        "2146681155",
+        "2156867996",
+        "2163758100",
+        "2166863759",
+        "2293770661"
+    ]
+}

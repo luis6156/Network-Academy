@@ -1,0 +1,39 @@
+{
+    "id": "1535168632",
+    "title": "A Platform for Combining Deductive with Algorithmic Verification",
+    "venue": "computer aided verification",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Amir Pnueli",
+            "id": "2171343426",
+            "org": "Weizmann Institute"
+        },
+        {
+            "name": "Elad Shahar",
+            "id": "2096937842",
+            "org": "Weizmann Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Linear temporal logic",
+        "Theoretical computer science",
+        "Computer science",
+        "Mutual exclusion",
+        "CTL*",
+        "Design language",
+        "Model checking",
+        "Electronic circuit",
+        "CPU cache"
+    ],
+    "references": [
+        "1498414460",
+        "1540180001",
+        "1546119015",
+        "1551406732",
+        "1582782085",
+        "2093916942",
+        "2129664123",
+        "2130308292"
+    ]
+}

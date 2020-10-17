@@ -1,0 +1,41 @@
+{
+    "id": "1560450186",
+    "title": "Compact DFA Representation for Fast Regular Expression Search",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Gonzalo Navarro",
+            "id": "2133226413",
+            "org": "University of Chile"
+        },
+        {
+            "name": "Mathieu Raffinot",
+            "id": "2222966039",
+            "org": "Universite de Versailles"
+        }
+    ],
+    "fields_of_study": [
+        "Deterministic finite automaton",
+        "Search algorithm",
+        "Mathematics",
+        "DFA minimization",
+        "Discrete mathematics",
+        "Regular expression",
+        "Combinatorics",
+        "Deterministic automaton",
+        "Generalized nondeterministic finite automaton",
+        "Nondeterministic finite automaton",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1491178396",
+        "1559969643",
+        "1574739914",
+        "1981409766",
+        "2045821558",
+        "2072607050",
+        "2092587157",
+        "2092860912"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1567936764",
+    "title": "The Cache Coherence Protocol of the Data Diffusion Machine",
+    "venue": "international conference on parallel architectures and languages europe",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Seif Haridi",
+            "id": "678106963",
+            "org": "Swedish Institute of Computer Science"
+        },
+        {
+            "name": "Erik Hagersten",
+            "id": "1982114091",
+            "org": "Swedish Institute of Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Bus sniffing",
+        "Uniform memory access",
+        "MESI protocol",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Data diffusion machine",
+        "MESIF protocol"
+    ],
+    "references": [
+        "136576737",
+        "137422242",
+        "2008802098",
+        "2136572251",
+        "2153287020"
+    ]
+}

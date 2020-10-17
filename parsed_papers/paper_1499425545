@@ -1,0 +1,40 @@
+{
+    "id": "1499425545",
+    "title": "Predictable scaling behaviour in the data centre with multiple application servers",
+    "venue": "distributed systems operations and management",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Mark Burgess",
+            "id": "2255205611",
+            "org": "Oslo University College, Norway#TAB#"
+        },
+        {
+            "name": "Gard Undheim",
+            "id": "950009194",
+            "org": "Oslo University College, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Service level",
+        "Application server",
+        "Computer science",
+        "Distributed computing",
+        "Quality of service",
+        "Network management",
+        "Data center",
+        "High availability",
+        "Queueing theory",
+        "Service-level agreement"
+    ],
+    "references": [
+        "1503012420",
+        "1585494821",
+        "1973861090",
+        "2104719652",
+        "2107986445",
+        "2124022185",
+        "2133985894",
+        "2139878103"
+    ]
+}

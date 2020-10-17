@@ -1,0 +1,51 @@
+{
+    "id": "1561805388",
+    "title": "GridARS: an advance reservation-based grid co-allocation framework for distributed computing and network resources",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Atsuko Takefusa",
+            "id": "130967471",
+            "org": "National Institute of Advanced Industrial Science and Technology#TAB#"
+        },
+        {
+            "name": "Hidemoto Nakada",
+            "id": "2076469802",
+            "org": "National Institute of Advanced Industrial Science and Technology#TAB#"
+        },
+        {
+            "name": "Tomohiro Kudoh",
+            "id": "1903269453",
+            "org": "National Institute of Advanced Industrial Science and Technology#TAB#"
+        },
+        {
+            "name": "Yoshio Tanaka",
+            "id": "2206279540",
+            "org": "National Institute of Advanced Industrial Science and Technology#TAB#"
+        },
+        {
+            "name": "Satoshi Sekiguchi",
+            "id": "2291719633",
+            "org": "National Institute of Advanced Industrial Science and Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Commit",
+        "Computer science",
+        "Distributed computing",
+        "Reservation",
+        "Grid",
+        "Distributed transaction",
+        "Computer network",
+        "Real-time computing",
+        "Resource (disambiguation)"
+    ],
+    "references": [
+        "1555993967",
+        "1608149079",
+        "2113098999",
+        "2124882746"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1502914266",
+    "title": "Modeling Computational Security in Long-Lived Systems, Version 2",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ran Canetti",
+            "id": "687553606",
+            "org": "IBM T. J. Watson Research Center"
+        },
+        {
+            "name": "Ling Cheung",
+            "id": "2039461291",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Dilsun Kirli Kaynar",
+            "id": "2106929497",
+            "org": "Carnegie Mellon University"
+        },
+        {
+            "name": "Nancy A. Lynch",
+            "id": "2180706138",
+            "org": "Massachusetts Institute of Technology"
+        },
+        {
+            "name": "Olivier Pereira",
+            "id": "2136049035",
+            "org": "Universite catholique de Louvain"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Computer security model",
+        "Concrete security",
+        "Cryptographic protocol",
+        "Computer science",
+        "Distributed computing",
+        "Computational hardness assumption",
+        "Security service",
+        "Security association",
+        "Controlled Cryptographic Item"
+    ],
+    "references": [
+        "138290785",
+        "1498063506",
+        "1499934958",
+        "1531644305",
+        "1542059364",
+        "1603068992",
+        "1730786737",
+        "2001539364",
+        "2046871034",
+        "2098593535",
+        "2119708968",
+        "2127222910",
+        "2161670619",
+        "2405789187"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1550505439",
+    "title": "OS circular: internet client for reference",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kuniyasu Suzaki",
+            "id": "1235585670",
+            "org": "National Institute of Advanced Industrial Science and Technology, Japan#TAB#"
+        },
+        {
+            "name": "Toshiki Yagi",
+            "id": "2294960754",
+            "org": "National Institute of Advanced Industrial Science and Technology, Japan#TAB#"
+        },
+        {
+            "name": "Kengo Iijima",
+            "id": "2097760988",
+            "org": "National Institute of Advanced Industrial Science and Technology, Japan#TAB#"
+        },
+        {
+            "name": "Nguyen Anh Quynh",
+            "id": "2309936528",
+            "org": "National Institute of Advanced Industrial Science and Technology, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Booting",
+        "Basic sequential access method",
+        "Computer science",
+        "Basic partitioned access method",
+        "Server",
+        "Embedded system",
+        "Queued Sequential Access Method",
+        "Basic direct access method",
+        "Operating system",
+        "The Internet",
+        "Virtual machine"
+    ],
+    "references": [
+        "1504669610",
+        "1565378820",
+        "1576397915",
+        "1999067777",
+        "2034613985",
+        "2098527590",
+        "2108959037",
+        "2116085955",
+        "2117882778",
+        "2166004296"
+    ]
+}

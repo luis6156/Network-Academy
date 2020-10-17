@@ -1,0 +1,52 @@
+{
+    "id": "1536748301",
+    "title": "A shared-memory multiprocessor scheduling algorithm",
+    "venue": "ifip world computer congress wcc",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Irene Zuccar",
+            "id": "2649641868",
+            "org": "Universidad de Santiago de"
+        },
+        {
+            "name": "Mauricio Solar",
+            "id": "2193100125",
+            "org": "Universidad de Santiago de"
+        },
+        {
+            "name": "Fernanda Kri",
+            "id": "2686715937",
+            "org": "Universidad de Santiago de"
+        },
+        {
+            "name": "Victor Parada",
+            "id": "2144266609",
+            "org": "Universidad de Santiago de"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Algorithm",
+        "Shared memory",
+        "Memory architecture",
+        "Computer science",
+        "Multiprocessor scheduling",
+        "Latency (engineering)",
+        "Distributed memory",
+        "Rate-monotonic scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "177450199",
+        "1516700110",
+        "1531841806",
+        "1595552956",
+        "1973531467",
+        "2037987555",
+        "2118396891",
+        "2151038512"
+    ]
+}

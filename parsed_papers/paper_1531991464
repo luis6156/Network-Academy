@@ -1,0 +1,53 @@
+{
+    "id": "1531991464",
+    "title": "ARCHERR: Runtime Environment Driven Program Safety",
+    "venue": "european symposium on research in computer security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Ramkumar Chinchani",
+            "id": "912239788",
+            "org": "University at Buffalo (SUNY)"
+        },
+        {
+            "name": "Anusha Iyer",
+            "id": "2125019985",
+            "org": "University at Buffalo (SUNY)"
+        },
+        {
+            "name": "Bharat Jayaraman",
+            "id": "1448804557",
+            "org": "University at Buffalo (SUNY)"
+        },
+        {
+            "name": "Shambhu J. Upadhyaya",
+            "id": "2109843937",
+            "org": "University at Buffalo (SUNY)"
+        }
+    ],
+    "fields_of_study": [
+        "Pointer (computer programming)",
+        "Exploit",
+        "Computer science",
+        "Distributed computing",
+        "Integer overflow",
+        "Runtime verification",
+        "Data type",
+        "Systems architecture",
+        "Heap overflow",
+        "Operating system",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "1499992849",
+        "1545927878",
+        "1579850852",
+        "1655226010",
+        "1825457006",
+        "2020841721",
+        "2055084740",
+        "2090181646",
+        "2140611647"
+    ]
+}

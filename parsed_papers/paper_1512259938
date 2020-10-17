@@ -1,0 +1,40 @@
+{
+    "id": "1512259938",
+    "title": "Support for MPI at the Network Interface Level",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Bernard Tourancheau",
+            "id": "228276202",
+            "org": "Sun Labs Europe"
+        },
+        {
+            "name": "Roland Westrelin",
+            "id": "120691778",
+            "org": "Universite de Lyon RESO project/INRIA ENS Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Port (computer networking)",
+        "Thread (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Network interface",
+        "Communications system",
+        "Message Passing Interface",
+        "Network interface controller",
+        "Real-time computing",
+        "Myrinet",
+        "User interface"
+    ],
+    "references": [
+        "1521734293",
+        "1553727810",
+        "1969215126",
+        "2123745836",
+        "2128578217",
+        "2136018049",
+        "2161210471"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "1500693694",
+    "title": "A Countermeasure against One Physical Cryptanalysis May Benefit Another Attack",
+    "venue": "international conference on information security and cryptology",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Sung-Ming Yen",
+            "id": "2103270851",
+            "org": "Laboratory of Cryptography and Information Security (LCIS), Department of Computer Science and Information Engineering, National Central University, Chung-Li, Taiwan, R.O.C."
+        },
+        {
+            "name": "Seungjoo Kim",
+            "id": "2139158536",
+            "org": "Cryptographic Technology Team, Information Security Technology Department, Korea Information Security Agency, Seoul, Korea"
+        },
+        {
+            "name": "Seongan Lim",
+            "id": "2101013755",
+            "org": "Cryptographic Technology Team, Information Security Technology Department, Korea Information Security Agency, Seoul, Korea"
+        },
+        {
+            "name": "SangJae Moon",
+            "id": "2106509025",
+            "org": "School of Electronic and Electrical Engineering, Kyungpook National University, Taegu, Korea"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Theoretical computer science",
+        "Pre-play attack",
+        "Side channel attack",
+        "Brute-force attack",
+        "Countermeasure",
+        "Computer science",
+        "Distributed computing",
+        "Power analysis",
+        "Attack model",
+        "Timing attack"
+    ],
+    "references": [
+        "1484814447",
+        "1503689022",
+        "1506530330",
+        "1510418153",
+        "1512062395",
+        "1540529576",
+        "1548656471",
+        "1560093457",
+        "1565369953",
+        "1569151289",
+        "1571786080",
+        "1583816927",
+        "1584975026",
+        "1587481360",
+        "1591209990",
+        "1591503962",
+        "1595231197",
+        "1613874182",
+        "1660562555",
+        "1664808737",
+        "1768621358",
+        "1897761346",
+        "1972014440",
+        "1994959057",
+        "1996360405",
+        "2108834246",
+        "2132250906",
+        "2144952508",
+        "2148862943",
+        "2154909745",
+        "2155938490",
+        "2170489924",
+        "2293004624",
+        "2612208439"
+    ]
+}

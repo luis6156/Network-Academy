@@ -1,0 +1,49 @@
+{
+    "id": "1537225432",
+    "title": "Fine-grained failover using connection migration",
+    "venue": "usenix symposium on internet technologies and systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Alex C. Snoeren",
+            "id": "2112598219",
+            "org": "MIT Laboratory for Computer Science, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "David G. Andersen",
+            "id": "2130397481",
+            "org": "MIT Laboratory for Computer Science, Cambridge, MA#TAB#"
+        },
+        {
+            "name": "Hari Balakrishnan",
+            "id": "1998464616",
+            "org": "MIT Laboratory for Computer Science, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "STREAMS",
+        "Experimental data",
+        "Telephony",
+        "Computer science",
+        "Distributed computing",
+        "Front and back ends",
+        "Server",
+        "Failover",
+        "Computer network",
+        "Fault tolerance",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "66643683",
+        "140414421",
+        "1710433637",
+        "2044534358",
+        "2095792082",
+        "2099084456",
+        "2101964937",
+        "2102748509",
+        "2119836184",
+        "2129822080",
+        "2148292441"
+    ]
+}

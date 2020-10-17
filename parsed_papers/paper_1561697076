@@ -1,0 +1,37 @@
+{
+    "id": "1561697076",
+    "title": "Using an RSA accelerator for modular inversion",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Martin Seysen",
+            "id": "2216349016",
+            "org": "Giesecke & Devrient GmbH, Munich, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Integer",
+        "Coprocessor",
+        "Elliptic curve cryptography",
+        "Extended Euclidean algorithm",
+        "Elliptic curve",
+        "Euclidean algorithm",
+        "Smart card"
+    ],
+    "references": [
+        "1509238864",
+        "1539482743",
+        "1572990863",
+        "1581806326",
+        "1601624599",
+        "1998153213",
+        "2073952448",
+        "2095980444",
+        "2286477783"
+    ]
+}

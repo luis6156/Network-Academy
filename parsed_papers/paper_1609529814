@@ -1,0 +1,46 @@
+{
+    "id": "1609529814",
+    "title": "cJVM: a single system image of a JVM on a cluster",
+    "venue": "international conference on parallel processing",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yariv Aridor",
+            "id": "152442579",
+            "org": "IBM Res. Lab., Haifa, Israel"
+        },
+        {
+            "name": "Michael Factor",
+            "id": "2778490586",
+            "org": "IBM Research Laboratory|Advanced Technology Center"
+        },
+        {
+            "name": "Avi Teperman",
+            "id": "2779871646",
+            "org": "IBM Research Laboratory|Advanced Technology Center"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Thread (computing)",
+        "Parallel computing",
+        "Java",
+        "Computer science",
+        "Distributed computing",
+        "Single system image",
+        "Myrinet",
+        "Java concurrency",
+        "Virtual machine",
+        "Architecture"
+    ],
+    "references": [
+        "1878278406",
+        "1942301248",
+        "1977319156",
+        "2064526036",
+        "2068458655",
+        "2121134342",
+        "2166349332",
+        "2170389900"
+    ]
+}

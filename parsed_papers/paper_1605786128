@@ -1,0 +1,77 @@
+{
+    "id": "1605786128",
+    "title": "Generic transforms to acquire CCA-Security for identity based encryption: the cases of FOPKC and REACT",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Takashi Kitagawa",
+            "id": "2777885656",
+            "org": "National Institute of Advanced Industrial Science and Technology (AIST), Research Centre for Information Security (RCIS), Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Peng Yang",
+            "id": "2696458447",
+            "org": "Institute of Industrial Science, University of Tokyo, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "National Institute of Advanced Industrial Science and Technology (AIST), Research Centre for Information Security (RCIS), Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Rui Zhang",
+            "id": "2665622727",
+            "org": "National Institute of Advanced Industrial Science and Technology (AIST), Research Centre for Information Security (RCIS), Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Hajime Watanabe",
+            "id": "2747488371",
+            "org": "National Institute of Advanced Industrial Science and Technology (AIST), Research Centre for Information Security (RCIS), Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kanta Matsuura",
+            "id": "2142430456",
+            "org": "Institute of Industrial Science, University of Tokyo, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "National Institute of Advanced Industrial Science and Technology (AIST), Research Centre for Information Security (RCIS), Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Formal verification",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Encryption",
+        "Chosen-ciphertext attack",
+        "Hash function",
+        "Random oracle",
+        "Public-key cryptography",
+        "Strong cryptography"
+    ],
+    "references": [
+        "1514242548",
+        "1541610148",
+        "1569083856",
+        "1589034595",
+        "1592092778",
+        "1607264302",
+        "1685548775",
+        "1797206029",
+        "1871739018",
+        "2086042811",
+        "2097638666",
+        "2114296987",
+        "2117685508",
+        "2121879207",
+        "2152924492",
+        "2161195863",
+        "2162653919",
+        "2611943339",
+        "2785449841"
+    ]
+}

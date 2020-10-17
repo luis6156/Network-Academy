@@ -1,0 +1,31 @@
+{
+    "id": "1808634574",
+    "title": "Elliptic Scalar Multiplication Using Point Halving",
+    "venue": "international cryptology conference",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Erik Woodward Knudsen",
+            "id": "2785583507",
+            "org": "De La Rue Card Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Normal basis",
+        "Polynomial basis",
+        "Elliptic curve",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1560768562",
+        "1584722274",
+        "1989258293",
+        "2109801498",
+        "2161531038"
+    ]
+}

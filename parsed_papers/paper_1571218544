@@ -1,0 +1,40 @@
+{
+    "id": "1571218544",
+    "title": "Increasing effective link bandwidth by suppressing replicated data",
+    "venue": "usenix annual technical conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jonathan R. Santos",
+            "id": "2299349341",
+            "org": "Software Devices and Systems Group, Laboratory for Computer Science, Massachusetts Institute of Technology#TAB#"
+        },
+        {
+            "name": "David Wetherall",
+            "id": "2064270007",
+            "org": "Software Devices and Systems Group, Laboratory for Computer Science, Massachusetts Institute of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Computer science",
+        "Bandwidth (signal processing)",
+        "Network packet",
+        "File Transfer Protocol",
+        "The Internet",
+        "Link layer",
+        "Computer network",
+        "Real-time computing",
+        "Bottleneck",
+        "Web traffic"
+    ],
+    "references": [
+        "1527961683",
+        "2011831586",
+        "2040402865",
+        "2119931026",
+        "2128883551",
+        "2137847645",
+        "2653563578"
+    ]
+}

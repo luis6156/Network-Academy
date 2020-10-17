@@ -1,0 +1,80 @@
+{
+    "id": "1561299197",
+    "title": "STAPL: an adaptive, generic parallel C++ library",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Ping An",
+            "id": "2476076453",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Alin Jula",
+            "id": "2146493623",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Silvius Rus",
+            "id": "2140449495",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Steven Saunders",
+            "id": "2100793259",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Timmie G. Smith",
+            "id": "2438047988",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Gabriel Tanase",
+            "id": "1988329735",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Nathan Thomas",
+            "id": "2133939486",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Nancy M. Amato",
+            "id": "2084418087",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        },
+        {
+            "name": "Lawrence Rauchwerger",
+            "id": "84560969",
+            "org": "Dept. of Computer Science, Texas A&M University, College Station, TX#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel Extensions",
+        "Theoretical computer science",
+        "Parallel computing",
+        "SPMD",
+        "Computer science",
+        "Compiler",
+        "Standard Template Library",
+        "Distributed shared memory",
+        "Work function",
+        "Preprocessor",
+        "Data structure"
+    ],
+    "references": [
+        "1709754610",
+        "1783972340",
+        "1899349177",
+        "2072725684",
+        "2077828271",
+        "2086664713",
+        "2098147619",
+        "2098815550",
+        "2112708371",
+        "2128274900",
+        "2130016667",
+        "2611598995"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "1632446669",
+    "title": "Analysis of fast blockcipher-based hash functions",
+    "venue": "international conference on computational science and its applications",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Martin Stanek",
+            "id": "2075690752",
+            "org": "Department of Computer Science, Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovak Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Collision resistance",
+        "Hash buster",
+        "Hash chain",
+        "Hash function",
+        "SWIFFT",
+        "MDC-2",
+        "Double hashing",
+        "Mathematical optimization",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "1488885050",
+        "1506484586",
+        "1525090271",
+        "1547537489",
+        "1549228503",
+        "1600432225",
+        "1863270349",
+        "1872065828"
+    ]
+}

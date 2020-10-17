@@ -1,0 +1,58 @@
+{
+    "id": "1577295318",
+    "title": "Load balancing design issues on prefetch-based DSM systems",
+    "venue": "advanced parallel programming technologies",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Hsiao-Hsi Wang",
+            "id": "2159686158",
+            "org": "Parallel and Distributed Processing Center (PDPC), Dept. of Computer Science and Information Management, Providence University, Shalu, Taichung, Taiwan#TAB#"
+        },
+        {
+            "name": "Kuan-Ching Li",
+            "id": "2151625448",
+            "org": "Parallel and Distributed Processing Center (PDPC), Dept. of Computer Science and Information Management, Providence University, Shalu, Taichung, Taiwan#TAB#"
+        },
+        {
+            "name": "Kuo-Jen Wang",
+            "id": "2165780852",
+            "org": "Parallel and Distributed Processing Center (PDPC), Dept. of Computer Science and Information Management, Providence University, Shalu, Taichung, Taiwan#TAB#"
+        },
+        {
+            "name": "Ssu-Hsuan Lu",
+            "id": "2122746525",
+            "org": "Parallel and Distributed Processing Center (PDPC), Dept. of Computer Science and Information Management, Providence University, Shalu, Taichung, Taiwan#TAB#"
+        },
+        {
+            "name": "Chun-Chieh Yang",
+            "id": "2306359701",
+            "org": "Parallel and Distributed Processing Center (PDPC), Dept. of Computer Science and Information Management, Providence University, Shalu, Taichung, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Page fault",
+        "Computer science",
+        "Distributed computing",
+        "Instruction prefetch",
+        "Distributed shared memory",
+        "Parallel algorithm",
+        "Distributed algorithm",
+        "Virtual memory",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "153617247",
+        "1501006102",
+        "1590085739",
+        "1971219864",
+        "2030907583",
+        "2039179345",
+        "2114316312",
+        "2128137190",
+        "2168181104",
+        "2171463257"
+    ]
+}

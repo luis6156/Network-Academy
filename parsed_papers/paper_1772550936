@@ -1,0 +1,53 @@
+{
+    "id": "1772550936",
+    "title": "DiPerF: an automated distributed performance testing framework",
+    "venue": "grid computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Catalin L. Dumitrescu",
+            "id": "2429489939",
+            "org": "Dept. of Comput. Sci., Chicago Univ., IL, USA"
+        },
+        {
+            "name": "Ioan Raicu",
+            "id": "2026896598",
+            "org": "Dept. of Comput. Sci., Chicago Univ., IL, USA"
+        },
+        {
+            "name": "Matei Ripeanu",
+            "id": "1576812999",
+            "org": "Dept. of Comput. Sci., Chicago Univ., IL, USA"
+        },
+        {
+            "name": "Ian T. Foster",
+            "id": "2017222965",
+            "org": "Dept. of Comput. Sci., Chicago Univ., IL, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Computer science",
+        "Distributed computing",
+        "Benchmark (computing)",
+        "Latency (engineering)",
+        "PlanetLab",
+        "Aggregate data",
+        "Real-time computing",
+        "Computer cluster"
+    ],
+    "references": [
+        "1489252188",
+        "1492040731",
+        "1556794685",
+        "1595668546",
+        "1989034754",
+        "2083209848",
+        "2095788918",
+        "2117644860",
+        "2138215866",
+        "2155444313",
+        "2166859157",
+        "2169005475"
+    ]
+}

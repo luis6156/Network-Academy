@@ -1,0 +1,37 @@
+{
+    "id": "1499317676",
+    "title": "Automatic boundary tumor segmentation of a liver",
+    "venue": "international conference on computational science and its applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Kyung-Sik Seo",
+            "id": "2303872777",
+            "org": "MOMED Company, Chosun Univ. ICVC 5111, Gwangju, Korea#TAB#"
+        },
+        {
+            "name": "Tae-Woong Chung",
+            "id": "2155771533",
+            "org": "Dept. of Diagnostic Radiology, Chonnam National University Hospital, Gwangju, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Maximum a posteriori estimation",
+        "Computer vision",
+        "Binary Object",
+        "Computer science",
+        "Filter (signal processing)",
+        "Minimum bounding box",
+        "Histogram",
+        "Pixel",
+        "Computer-aided",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1489079721",
+        "1575739010",
+        "2087437842",
+        "2143781397"
+    ]
+}

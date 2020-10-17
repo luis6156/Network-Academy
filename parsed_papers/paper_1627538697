@@ -1,0 +1,59 @@
+{
+    "id": "1627538697",
+    "title": "Cryptanalysis of Dynamic SHA(2)",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jean-Philippe Aumasson",
+            "id": "222277018",
+            "org": "FHNW, Windisch, Switzerland#TAB#"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Ecole Normale Superieure, INRIA, CNRS, Paris, France#TAB#"
+        },
+        {
+            "name": "Sebastiaan Indesteege",
+            "id": "79803544",
+            "org": "Department of Electrical Engineering ESAT/COSIC, Katholieke Universiteit Leuven, Belgium and Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Department of Electrical Engineering ESAT/COSIC, Katholieke Universiteit Leuven, Belgium and Interdisciplinary Institute for BroadBand Technology (IBBT), Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Secure Hash Standard",
+        "NIST hash function competition",
+        "Theoretical computer science",
+        "SHA-2",
+        "Rolling hash",
+        "Hash buster",
+        "Computer science",
+        "Collision attack",
+        "Double hashing",
+        "MDC-2"
+    ],
+    "references": [
+        "277504",
+        "116501369",
+        "124034723",
+        "1500356409",
+        "1533007301",
+        "1549228503",
+        "1566345534",
+        "1567888865",
+        "1591147293",
+        "1598517024",
+        "1767494015",
+        "1823132503",
+        "2096596497",
+        "2103239853",
+        "2121895731",
+        "2141664386",
+        "2593463031"
+    ]
+}

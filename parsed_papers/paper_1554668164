@@ -1,0 +1,44 @@
+{
+    "id": "1554668164",
+    "title": "Cryptoanalysis of the Immunized LL Public Key Systems",
+    "venue": "international cryptology conference",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Yair Frankel",
+            "id": "2608031713",
+            "org": "Sandia National Laboratories"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2097786798",
+            "org": "IBM T. J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Malleability",
+        "Computer science",
+        "Cramer-Shoup cryptosystem",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Ciphertext indistinguishability",
+        "Deterministic encryption",
+        "Attribute-based encryption",
+        "Semantic security",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1525737403",
+        "1589176872",
+        "1730634423",
+        "1996360405",
+        "2052267638",
+        "2073210531",
+        "2108104892",
+        "2108834246",
+        "2109365488",
+        "2117362057",
+        "2156186849"
+    ]
+}

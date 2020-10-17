@@ -1,0 +1,60 @@
+{
+    "id": "1584463697",
+    "title": "Improved Impossible Differential Cryptanalysis of Reduced-Round Camellia",
+    "venue": "selected areas in cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China 100190#TAB#"
+        },
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China 100190#TAB#"
+        },
+        {
+            "name": "Wentao Zhang",
+            "id": "2682674952",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China 100190#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Block cipher",
+        "Mathematics",
+        "Cipher",
+        "Algorithm",
+        "Cryptanalysis",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "CRYPTREC",
+        "Differential cryptanalysis"
+    ],
+    "references": [
+        "3926427",
+        "18798069",
+        "1489027369",
+        "1489575954",
+        "1494446935",
+        "1501856114",
+        "1507656853",
+        "1516671507",
+        "1541703086",
+        "1555570710",
+        "1564766222",
+        "1565705707",
+        "1588153376",
+        "1637140211",
+        "1794421227",
+        "1833400598",
+        "1841857093",
+        "1845115467",
+        "1868228027",
+        "1974355178",
+        "2067040124",
+        "2109112842",
+        "2466913488"
+    ]
+}

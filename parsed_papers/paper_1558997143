@@ -1,0 +1,64 @@
+{
+    "id": "1558997143",
+    "title": "Finding Synchronization-Free Slices of Operations in Arbitrarily Nested Loops",
+    "venue": "international conference on computational science and its applications",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Anna Beletska",
+            "id": "2309314249",
+            "org": "Dipartimento di Elettronica e Informazione, Politecnico di Milano, Milano, Italy 20122#TAB#"
+        },
+        {
+            "name": "Wlodzimierz Bielecki",
+            "id": "2809598546",
+            "org": "Faculty of Computer Science, Technical University of Szczecin, Szczecin, Poland 70210#TAB#"
+        },
+        {
+            "name": "Krzysztof Siedlecki",
+            "id": "1999217603",
+            "org": "Faculty of Computer Science, Technical University of Szczecin, Szczecin, Poland 70210#TAB#"
+        },
+        {
+            "name": "Pierluigi San Pietro",
+            "id": "2133526809",
+            "org": "Dipartimento di Elettronica e Informazione, Politecnico di Milano, Milano, Italy 20122#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Slicing",
+        "Discrete mathematics",
+        "Computer science",
+        "Distributed computing",
+        "Loop fusion",
+        "Dependence analysis",
+        "Synchronization",
+        "Tuple"
+    ],
+    "references": [
+        "1486289306",
+        "1494930385",
+        "1503923676",
+        "1514857085",
+        "1530670596",
+        "1533186609",
+        "1538073575",
+        "1575008551",
+        "1964354616",
+        "1970141743",
+        "1972784701",
+        "1992841586",
+        "1995270665",
+        "2008677874",
+        "2015478888",
+        "2026220934",
+        "2034591560",
+        "2074559757",
+        "2076485607",
+        "2076848169",
+        "2103156824",
+        "2194223632",
+        "2293624369"
+    ]
+}

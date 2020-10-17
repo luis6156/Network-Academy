@@ -1,0 +1,50 @@
+{
+    "id": "1492921812",
+    "title": "Hermes - a framework for location-based data management",
+    "venue": "extending database technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Nikos Pelekis",
+            "id": "2020175353",
+            "org": "Dept of Informatics, University of Piraeus, Greece#TAB#"
+        },
+        {
+            "name": "Yannis Theodoridis",
+            "id": "31261168",
+            "org": "Dept of Informatics, University of Piraeus, Greece#TAB#"
+        },
+        {
+            "name": "Spyros Vosinakis",
+            "id": "2762177965",
+            "org": "Dept of Informatics, University of Piraeus, Greece#TAB#"
+        },
+        {
+            "name": "Themis Panayiotopoulos",
+            "id": "200358804",
+            "org": "Dept of Informatics, University of Piraeus, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Relational database",
+        "Scalability",
+        "Computer science",
+        "Data mining",
+        "Distributed computing",
+        "Extensibility",
+        "Query language",
+        "SQL",
+        "Database",
+        "Temporal database",
+        "Spatial database",
+        "Data management"
+    ],
+    "references": [
+        "1766171436",
+        "2032521898",
+        "2038230692",
+        "2038796765",
+        "2066446428",
+        "2117750217"
+    ]
+}

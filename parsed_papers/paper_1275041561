@@ -1,0 +1,60 @@
+{
+    "id": "1275041561",
+    "title": "CAIN: silently breaking ASLR in the cloud",
+    "venue": "WOOT'15 Proceedings of the 9th USENIX Conference on Offensive Technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Antonio Barresi",
+            "id": "2104193114",
+            "org": "ETH Zurich#TAB#"
+        },
+        {
+            "name": "Kaveh Razavi",
+            "id": "2044536833",
+            "org": "VU University Amsterdam#TAB#"
+        },
+        {
+            "name": "Mathias Payer",
+            "id": "2305760116",
+            "org": "Purdue University#TAB#"
+        },
+        {
+            "name": "Thomas R. Gross",
+            "id": "2112219004",
+            "org": "ETH Zurich#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Windows Server",
+        "Memory footprint",
+        "Computer science",
+        "Data deduplication",
+        "Page",
+        "Computer security",
+        "Operating system",
+        "Memory protection",
+        "Virtual machine",
+        "Memory corruption",
+        "Page fault"
+    ],
+    "references": [
+        "98341770",
+        "1427174644",
+        "1429241971",
+        "1964281299",
+        "1964389195",
+        "1969501726",
+        "1969953090",
+        "1981260134",
+        "1982268168",
+        "1996931407",
+        "2001759130",
+        "2058189720",
+        "2097718182",
+        "2114030344",
+        "2117798902",
+        "2150620897",
+        "2162800072"
+    ]
+}

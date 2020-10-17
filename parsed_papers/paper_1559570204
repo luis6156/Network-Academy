@@ -1,0 +1,33 @@
+{
+    "id": "1559570204",
+    "title": "Estimating Cache Performance for Sequential and Data Parallel Programs",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Thomas Fahringer",
+            "id": "2891046429",
+            "org": "University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Smart Cache",
+        "Cache coloring",
+        "Distributed computing",
+        "Computer science",
+        "Pipeline burst cache",
+        "Real-time computing",
+        "Cache-oblivious algorithm",
+        "Write-once",
+        "Cache invalidation"
+    ],
+    "references": [
+        "1843640069",
+        "2077960035",
+        "2102210661",
+        "2119609467"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1771565499",
+    "title": "PaddyFrog: systematically detecting confused deputy vulnerability in Android applications",
+    "venue": "Security and Communication Networks",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jianliang Wu",
+            "id": "2652775970",
+            "org": "Shandong University, Ji'nan, China#TAB#"
+        },
+        {
+            "name": "Tingting Cui",
+            "id": "2634350019",
+            "org": "Shandong University, Ji'nan, China#TAB#"
+        },
+        {
+            "name": "Tao Ban",
+            "id": "2110532231",
+            "org": "National Institute of Information and Communications Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Shanqing Guo",
+            "id": "2150552918",
+            "org": "Shandong University, Ji'nan, China#TAB#"
+        },
+        {
+            "name": "Lizhen Cui",
+            "id": "2155397016",
+            "org": "Shandong University, Ji'nan, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Privilege escalation",
+        "Vulnerability",
+        "Computer science",
+        "Confused deputy problem",
+        "Computer security",
+        "Graph",
+        "Subroutine",
+        "Android (operating system)",
+        "Programming paradigm"
+    ],
+    "references": [
+        "81879861",
+        "87210284",
+        "1555215938",
+        "1680232729",
+        "1963971515",
+        "1986330503",
+        "1989147187",
+        "1994588724",
+        "2041276426",
+        "2056073317",
+        "2094245295",
+        "2105412867",
+        "2114275288",
+        "2121221235",
+        "2122403474",
+        "2153497135",
+        "2398484989",
+        "2399034518"
+    ]
+}

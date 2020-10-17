@@ -1,0 +1,49 @@
+{
+    "id": "1537002819",
+    "title": "Dynamically adapting tuple replication for managing availability in a shared data space",
+    "venue": "international conference on coordination models and languages",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Giovanni Russello",
+            "id": "2792197231",
+            "org": "Eindhoven University of Technology#TAB#"
+        },
+        {
+            "name": "Michel R. V. Chaudron",
+            "id": "2790951095",
+            "org": "Eindhoven University of Technology#TAB#"
+        },
+        {
+            "name": "Maarten van Steen",
+            "id": "2158260433",
+            "org": "Vrije Universiteit Amsterdam#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Data modeling",
+        "Real-time computing",
+        "Separation of concerns",
+        "Middleware",
+        "Tuple",
+        "Distributed algorithm",
+        "Component-based software engineering",
+        "Fault tolerance"
+    ],
+    "references": [
+        "150446900",
+        "1538073575",
+        "1550620224",
+        "1551028473",
+        "1573121473",
+        "1847271089",
+        "2025478843",
+        "2057628787",
+        "2143762005",
+        "2157390918",
+        "2161307885"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1603169531",
+    "title": "On the Power of Bitslice Implementation on Intel Core2 Processor",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Mitsuru Matsui",
+            "id": "2020760526",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation, 5-1-1 Ofuna Kamakura Kanagawa, Japan#TAB#"
+        },
+        {
+            "name": "Junko Nakajima",
+            "id": "1974280691",
+            "org": "Information Technology R&D Center, Mitsubishi Electric Corporation, 5-1-1 Ofuna Kamakura Kanagawa, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Byte",
+        "Parallel computing",
+        "SIMD",
+        "Block cipher mode of operation",
+        "Cipher",
+        "Microprocessor",
+        "Computer science",
+        "KASUMI",
+        "Architecture"
+    ],
+    "references": [
+        "89161022",
+        "1540875416",
+        "1548516269",
+        "2101368424",
+        "2106181459",
+        "2112244944",
+        "2127752881",
+        "2149174385"
+    ]
+}

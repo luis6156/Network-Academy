@@ -1,0 +1,63 @@
+{
+    "id": "132386699",
+    "title": "Security Analysis of PRINCE",
+    "venue": "fast software encryption",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Jeremy Jean",
+            "id": "2084267557",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "Ivica Nikolic",
+            "id": "2157574998",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Thomas Peyrin",
+            "id": "2524111462",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Lei Wang",
+            "id": "2713716783",
+            "org": "Nanyang Technological University"
+        },
+        {
+            "name": "Shuang Wu",
+            "id": "2124794005",
+            "org": "Nanyang Technological University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Key-recovery attack",
+        "Block cipher",
+        "Cipher",
+        "Algorithm",
+        "Running key cipher",
+        "Discrete mathematics",
+        "Weak key",
+        "Related-key attack",
+        "Slide attack",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "1515595447",
+        "1553792294",
+        "1554090281",
+        "1556212265",
+        "1599175145",
+        "1629301835",
+        "1680840309",
+        "1810232834",
+        "1886321933",
+        "1978143507",
+        "2012646342",
+        "2085797166",
+        "2096218735",
+        "2109265351",
+        "2177399963"
+    ]
+}

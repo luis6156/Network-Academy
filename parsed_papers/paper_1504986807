@@ -1,0 +1,53 @@
+{
+    "id": "1504986807",
+    "title": "FPGA Design of Self-certified Signature Verification on Koblitz Curves",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kimmo Jarvinen",
+            "id": "2152405023",
+            "org": "Helsinki University of Technology, Signal Processing Laboratory, Otakaari 5A, FIN-02150, Espoo, Finland#TAB#"
+        },
+        {
+            "name": "Juha Forsten",
+            "id": "2039950791",
+            "org": "Helsinki University of Technology, Signal Processing Laboratory, Otakaari 5A, FIN-02150, Espoo, Finland#TAB#"
+        },
+        {
+            "name": "Jorma Skytta",
+            "id": "2009588567",
+            "org": "Helsinki University of Technology, Signal Processing Laboratory, Otakaari 5A, FIN-02150, Espoo, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Stratix",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Cycles per instruction",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computation",
+        "Computer science",
+        "Family of curves",
+        "Elliptic curve",
+        "Multiplication"
+    ],
+    "references": [
+        "97777886",
+        "1486764722",
+        "1632631493",
+        "1634503271",
+        "1889596231",
+        "1963578159",
+        "2003736153",
+        "2007751412",
+        "2108834246",
+        "2109964473",
+        "2115190247",
+        "2127789392",
+        "2141841663",
+        "2161531038",
+        "2166531011"
+    ]
+}

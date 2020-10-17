@@ -1,0 +1,35 @@
+{
+    "id": "1599227824",
+    "title": "An efficient variant of the RSA cryptosystem.",
+    "venue": "IACR Cryptology ePrint Archive",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Cesar Alison Monteiro Paixao",
+            "id": "2400402725",
+            "org": "University of Sao Paulo"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Discrete mathematics",
+        "Merkle-Hellman knapsack cryptosystem",
+        "Cramer-Shoup cryptosystem",
+        "Benaloh cryptosystem",
+        "Plaintext-aware encryption",
+        "Cryptosystem",
+        "Deterministic encryption",
+        "Goldwasser-Micali cryptosystem",
+        "Generation time"
+    ],
+    "references": [
+        "1496801598",
+        "1503520699",
+        "1513429293",
+        "1660562555",
+        "1975821815",
+        "1996360405",
+        "2081882878",
+        "2166780626"
+    ]
+}

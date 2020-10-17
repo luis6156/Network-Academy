@@ -1,0 +1,86 @@
+{
+    "id": "1627002016",
+    "title": "Pasture: secure offline data access using commodity trusted hardware",
+    "venue": "operating systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ramakrishna Kotla",
+            "id": "1997971539",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Tom Rodeheffer",
+            "id": "2607518467",
+            "org": "Microsoft Research Silicon Valley#TAB#"
+        },
+        {
+            "name": "Indrajit Roy",
+            "id": "2271354082",
+            "org": "HP Labs, Palo Alto#TAB#"
+        },
+        {
+            "name": "Patrick Stuedi",
+            "id": "236486294",
+            "org": "IBM Research, Zurich#TAB#"
+        },
+        {
+            "name": "Benjamin Wester",
+            "id": "2027615108",
+            "org": "Facebook, Menlo Park#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Overhead (business)",
+        "Computer hardware",
+        "Hypervisor",
+        "Data access",
+        "Commodity",
+        "Computer science",
+        "Audit",
+        "Secure messaging",
+        "Verifiable secret sharing",
+        "Real-time computing",
+        "High availability"
+    ],
+    "references": [
+        "6340396",
+        "59931895",
+        "1504504841",
+        "1508521621",
+        "1519889149",
+        "1526879126",
+        "1562847663",
+        "1626908390",
+        "1729172517",
+        "2018045700",
+        "2029349492",
+        "2037683905",
+        "2043501224",
+        "2082222018",
+        "2082681648",
+        "2083228150",
+        "2086234010",
+        "2086838666",
+        "2092423386",
+        "2103131117",
+        "2105528199",
+        "2114349788",
+        "2116021422",
+        "2117260615",
+        "2121510533",
+        "2124074197",
+        "2128159601",
+        "2132779253",
+        "2136310957",
+        "2143541350",
+        "2147448476",
+        "2160170538",
+        "2162283517",
+        "2166004296",
+        "2167804035",
+        "2170961388",
+        "2175377689",
+        "2217222252"
+    ]
+}

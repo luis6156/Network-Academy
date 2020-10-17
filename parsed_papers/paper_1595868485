@@ -1,0 +1,53 @@
+{
+    "id": "1595868485",
+    "title": "Detecting DGA malware using NetFlow",
+    "venue": "integrated network management",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Martin Grill",
+            "id": "2119444354",
+            "org": "Faculty of Electrical Engineering, Czech Technical University in Prague"
+        },
+        {
+            "name": "Ivan Nikolaev",
+            "id": "2140733451",
+            "org": "Faculty of Electrical Engineering, Czech Technical University in Prague"
+        },
+        {
+            "name": "Veronica Valeros",
+            "id": "2230177213",
+            "org": "Cisco Systems, Inc."
+        },
+        {
+            "name": "Martin Rehak",
+            "id": "1982586455",
+            "org": "Faculty of Electrical Engineering, Czech Technical University in Prague"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "NetFlow",
+        "Reverse engineering",
+        "False positive paradox",
+        "Computer science",
+        "Router",
+        "Cluster analysis",
+        "Deep packet inspection",
+        "Computer network",
+        "Botnet"
+    ],
+    "references": [
+        "113692204",
+        "202500387",
+        "1561983441",
+        "1981294881",
+        "2016524761",
+        "2100307718",
+        "2144098589",
+        "2146729596",
+        "2152955531",
+        "2280775762",
+        "2591856843"
+    ]
+}

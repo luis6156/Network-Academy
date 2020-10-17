@@ -1,0 +1,53 @@
+{
+    "id": "1549699884",
+    "title": "Finding non-terminating executions in distributed asynchronous programs",
+    "venue": "static analysis symposium",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Michael Emmi",
+            "id": "2145226625",
+            "org": "LIAFA, Universite Paris Diderot, France#TAB#"
+        },
+        {
+            "name": "Akash Lal",
+            "id": "2123176980",
+            "org": "Microsoft Research, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Asynchronous communication",
+        "Asynchronous method invocation",
+        "Computer science",
+        "Distributed computing",
+        "Liveness",
+        "Message passing",
+        "Concurrency",
+        "Asynchronous system",
+        "Synchronization",
+        "Distributed algorithm",
+        "Real-time computing"
+    ],
+    "references": [
+        "111534223",
+        "115414801",
+        "182717014",
+        "1493367105",
+        "1499072146",
+        "1507006488",
+        "1556566737",
+        "1563374799",
+        "1933255669",
+        "1989813138",
+        "2031575609",
+        "2042684213",
+        "2075854425",
+        "2087046173",
+        "2109819183",
+        "2124909257",
+        "2131123849",
+        "2145062333",
+        "2611515161"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1599058895",
+    "title": "On the security of IV dependent stream ciphers",
+    "venue": "fast software encryption",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Come Berbain",
+            "id": "49561467",
+            "org": "France Telecom R&D, Moulineaux Cedex, France#TAB#"
+        },
+        {
+            "name": "Henri Gilbert",
+            "id": "2124974951",
+            "org": "France Telecom R&D, Moulineaux Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Theoretical computer science",
+        "Running key cipher",
+        "Fluhrer, Mantin and Shamir attack",
+        "Transposition cipher",
+        "Computer science",
+        "Distributed computing",
+        "Two-square cipher",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Rip van Winkle cipher"
+    ],
+    "references": [
+        "149964843",
+        "1495150777",
+        "1505348697",
+        "1531434127",
+        "1556597491",
+        "1777865687",
+        "1883830449",
+        "1888931688",
+        "2087115651",
+        "2097140439",
+        "2115141985",
+        "2117362057",
+        "2118755837",
+        "2130993035",
+        "2151564283",
+        "2163622972",
+        "2164284862",
+        "2526305112"
+    ]
+}

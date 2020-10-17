@@ -1,0 +1,65 @@
+{
+    "id": "14517147",
+    "title": "Vehicle ego-localization by matching in-vehicle camera images to an aerial image",
+    "venue": "international conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Masafumi Noda",
+            "id": "2405058857",
+            "org": "Nagoya University, Nagoya, Aichi, Japan#TAB#"
+        },
+        {
+            "name": "Tomokazu Takahashi",
+            "id": "2168210767",
+            "org": "Nagoya University, Nagoya, Aichi, Japan and Gifu Shotoku Gakuen University, Gifu, Japan#TAB#"
+        },
+        {
+            "name": "Daisuke Deguchi",
+            "id": "1245985325",
+            "org": "Nagoya University, Nagoya, Aichi, Japan#TAB#"
+        },
+        {
+            "name": "Ichiro Ide",
+            "id": "2063301822",
+            "org": "Nagoya University, Nagoya, Aichi, Japan#TAB#"
+        },
+        {
+            "name": "Hiroshi Murase",
+            "id": "2126729773",
+            "org": "Nagoya University, Nagoya, Aichi, Japan#TAB#"
+        },
+        {
+            "name": "Yoshiko Kojima",
+            "id": "2154173001",
+            "org": "Toyota Central Research & Development Laboratories, Inc., Nagakute, Aichi, Japan#TAB#"
+        },
+        {
+            "name": "Takashi Naito",
+            "id": "2141000276",
+            "org": "Toyota Central Research & Development Laboratories, Inc., Nagakute, Aichi, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Camera resectioning",
+        "Pinhole camera model",
+        "Image restoration",
+        "Template matching",
+        "Feature detection (computer vision)",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Camera auto-calibration",
+        "Image processing",
+        "Aerial image",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1544411027",
+        "1677409904",
+        "2021055045",
+        "2119605622",
+        "2131283072",
+        "2137234513"
+    ]
+}

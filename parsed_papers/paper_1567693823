@@ -1,0 +1,44 @@
+{
+    "id": "1567693823",
+    "title": "Parallel Robot Motion Planning in a Dynamic Environment",
+    "venue": "joint international conference on vector and parallel processing parallel processing",
+    "year": 1992,
+    "authors": [
+        {
+            "name": "El-Ghazali Talbi",
+            "id": "2285658467",
+            "org": "Institut National Polytechnique de Grenoble"
+        },
+        {
+            "name": "Pierre Bessiere",
+            "id": "2090643827",
+            "org": "Institut National Polytechnique de Grenoble"
+        },
+        {
+            "name": "Juan Manuel Ahuactzin",
+            "id": "2823890282",
+            "org": "Institut National Polytechnique de Grenoble"
+        },
+        {
+            "name": "Emmanuel Mazer",
+            "id": "2622137337",
+            "org": "Institut National Polytechnique de Grenoble"
+        }
+    ],
+    "fields_of_study": [
+        "Massively parallel",
+        "Motion planning",
+        "Distributed computing",
+        "Computer science",
+        "Graph partition",
+        "Curse of dimensionality",
+        "Optimization problem",
+        "Distributed memory",
+        "Parallel algorithm",
+        "Mathematical optimization",
+        "Parallel manipulator"
+    ],
+    "references": [
+        "1639032689"
+    ]
+}

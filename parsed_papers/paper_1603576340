@@ -1,0 +1,65 @@
+{
+    "id": "1603576340",
+    "title": "Automatic generation of compiler backends",
+    "venue": "Software - Practice and Experience",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Florian Brandner",
+            "id": "2054571196",
+            "org": "COMPSYS, LIP, ENS de Lyon, UMR 5668 CNRS - ENS de Lyon - UCB Lyon - INRIA, Lyon, France#TAB#"
+        },
+        {
+            "name": "Viktor Pavlu",
+            "id": "2043763736",
+            "org": "Programming Languages Group, Vienna University of Technology, Vienna, Austria#TAB#"
+        },
+        {
+            "name": "Andreas Krall",
+            "id": "2146753354",
+            "org": "Programming Languages Group, Vienna University of Technology, Vienna, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Processor register",
+        "Computer architecture",
+        "Software development",
+        "Information processor",
+        "Computer science",
+        "Compiler",
+        "Instruction set",
+        "Instruction selection",
+        "Application-specific instruction-set processor",
+        "Processor design"
+    ],
+    "references": [
+        "1519472684",
+        "1589497266",
+        "1590356999",
+        "1954375898",
+        "1981305988",
+        "1982205631",
+        "1995248109",
+        "2007894850",
+        "2008830197",
+        "2010074783",
+        "2025840053",
+        "2043785486",
+        "2051632385",
+        "2057455870",
+        "2070053315",
+        "2090846952",
+        "2111330410",
+        "2112085712",
+        "2112537029",
+        "2115153748",
+        "2118229154",
+        "2119166113",
+        "2129695855",
+        "2136285318",
+        "2140311411",
+        "2146348521",
+        "2153185479",
+        "2421250929"
+    ]
+}

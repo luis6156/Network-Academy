@@ -1,0 +1,45 @@
+{
+    "id": "1515963346",
+    "title": "Nonlinear body pose estimation from depth images",
+    "venue": "dagm conference on pattern recognition",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Daniel Grest",
+            "id": "305132201",
+            "org": "Multimedia Information Processing, Christian-Albrechts-University Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Jan Woetzel",
+            "id": "2000069502",
+            "org": "Multimedia Information Processing, Christian-Albrechts-University Kiel, Germany#TAB#"
+        },
+        {
+            "name": "Reinhard Koch",
+            "id": "2128502969",
+            "org": "Multimedia Information Processing, Christian-Albrechts-University Kiel, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Iterative closest point",
+        "Pose",
+        "Mathematics",
+        "Degrees of freedom (statistics)",
+        "3D pose estimation",
+        "Motion estimation",
+        "Nonlinear programming",
+        "Jacobian matrix and determinant",
+        "Iterative method",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1557476129",
+        "1589524543",
+        "1858177443",
+        "2090110089",
+        "2096600681",
+        "2104974755",
+        "2113190754",
+        "2118025528"
+    ]
+}

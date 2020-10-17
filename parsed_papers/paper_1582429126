@@ -1,0 +1,95 @@
+{
+    "id": "1582429126",
+    "title": "Implementing MPI on the BlueGene/L Supercomputer",
+    "venue": "european conference on parallel processing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "George S. Almasi",
+            "id": "593384113",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Charles J. Archer",
+            "id": "2620519798",
+            "org": "IBM Systems Group"
+        },
+        {
+            "name": "Jose G. Castanos",
+            "id": "2038065852",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "C. Christopher Erway",
+            "id": "1969716300",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Philip Heidelberger",
+            "id": "2244447445",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Xavier Martorell",
+            "id": "2155127561",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Jose E. Moreira",
+            "id": "2194395691",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Kurt Walter Pinnow",
+            "id": "2068589084",
+            "org": "IBM Systems Group"
+        },
+        {
+            "name": "Joe Ratterman",
+            "id": "2304020404",
+            "org": "IBM Systems Group"
+        },
+        {
+            "name": "Nils Smeds",
+            "id": "2274625755",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "Burkhard Steinmacher-Burow",
+            "id": "410630912",
+            "org": "IBM Thomas J. Watson Research Center"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "Brian R. Toonen",
+            "id": "255533804",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Network topology",
+        "Tree network",
+        "Parallel computing",
+        "Supercomputer",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Grid network",
+        "Programming paradigm"
+    ],
+    "references": [
+        "10909701",
+        "1501525194",
+        "1560511712",
+        "1624897526",
+        "1967800745",
+        "1971952282",
+        "2035443650",
+        "2154207621",
+        "2155066383"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "1534960419",
+    "title": "Scheduling dynamically spawned processes in MPI-2",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Marcia C. Cera",
+            "id": "2112441526",
+            "org": "Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil#TAB#"
+        },
+        {
+            "name": "Guilherme P. Pezzi",
+            "id": "1968223391",
+            "org": "Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil#TAB#"
+        },
+        {
+            "name": "Mauricio L. Pilla",
+            "id": "2251783524",
+            "org": "Universidade Catolica de Pelotas, Pelotas, Brazil#TAB#"
+        },
+        {
+            "name": "Nicolas Maillard",
+            "id": "2110535030",
+            "org": "Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil#TAB#"
+        },
+        {
+            "name": "Philippe Olivier Alexandre Navaux",
+            "id": "2008884277",
+            "org": "Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Foreground-background",
+        "Divide and conquer algorithms",
+        "Computer science",
+        "Distributed computing",
+        "Gang scheduling",
+        "Scheduling (computing)",
+        "Dynamic priority scheduling",
+        "Message Passing Interface",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "275028599",
+        "1510543252",
+        "1551272572",
+        "1574570877",
+        "1682557070",
+        "1825216778",
+        "1969215126",
+        "2009122662",
+        "2013121458",
+        "2064073280",
+        "2067522613",
+        "2104680817",
+        "2104861744",
+        "2108167744",
+        "2135950709",
+        "2167741394",
+        "2169631286"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1547121950",
+    "title": "Static analysis by policy iteration on relational domains",
+    "venue": "european symposium on programming",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Stephane Gaubert",
+            "id": "2198955772",
+            "org": "INRIA Rocquencourt#TAB#"
+        },
+        {
+            "name": "Eric Goubault",
+            "id": "2088963076",
+            "org": "CEA-LIST, MeASI#TAB#"
+        },
+        {
+            "name": "Ankur Taly",
+            "id": "2130033434",
+            "org": "IIT Bombay#TAB#"
+        },
+        {
+            "name": "Sarah Zennou",
+            "id": "2649441863",
+            "org": "CEA-LIST, MeASI#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Complete lattice",
+        "System of linear equations",
+        "Fixed point",
+        "Satisfiability",
+        "Computer science",
+        "Static analysis",
+        "Finite set",
+        "Abstract interpretation",
+        "Mathematical optimization",
+        "Linear programming",
+        "Programming language"
+    ],
+    "references": [
+        "75689942",
+        "1503756333",
+        "1507199453",
+        "1568478782",
+        "1938260438",
+        "2043100293",
+        "2084875723",
+        "2104021743",
+        "2111422217",
+        "2132661148",
+        "2142481893",
+        "2155791623"
+    ]
+}

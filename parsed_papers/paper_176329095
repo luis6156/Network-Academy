@@ -1,0 +1,52 @@
+{
+    "id": "176329095",
+    "title": "FFT Key Recovery for Integral Attack",
+    "venue": "cryptology and network security",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Yosuke Todo",
+            "id": "2137097168",
+            "org": "NTT Secure Platform Laboratories, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazumaro Aoki",
+            "id": "2437729937",
+            "org": "NTT Secure Platform Laboratories, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Time complexity",
+        "Mathematics",
+        "Block cipher",
+        "Theoretical computer science",
+        "Cipher",
+        "Discrete mathematics",
+        "Fast Walsh-Hadamard transform",
+        "Split-radix FFT algorithm",
+        "Feistel cipher",
+        "CLEFIA",
+        "Fast Fourier transform"
+    ],
+    "references": [
+        "45372631",
+        "131718440",
+        "1463173120",
+        "1522919234",
+        "1569252980",
+        "1582313396",
+        "1587120902",
+        "1701060964",
+        "1744216657",
+        "1810232834",
+        "1964723977",
+        "1991374982",
+        "2064939672",
+        "2096218735",
+        "2107762801",
+        "2109265351",
+        "2130574782",
+        "2133177393",
+        "2144956048"
+    ]
+}

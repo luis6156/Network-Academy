@@ -1,0 +1,49 @@
+{
+    "id": "1589237953",
+    "title": "Exploiting bit-level parallelism in GPGPUs: A case study on KeeLoq exhaustive key search attack",
+    "venue": "automation, robotics and control systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Giovanni Agosta",
+            "id": "2164102720",
+            "org": "Dipartimento di Elettronica e Informazione (DEI) Politecnico di Milano, 20133 Milano (MI), Italy"
+        },
+        {
+            "name": "Alessandro Barenghi",
+            "id": "1779711972",
+            "org": "Dipartimento di Elettronica e Informazione (DEI) Politecnico di Milano, 20133 Milano (MI), Italy"
+        },
+        {
+            "name": "Gerardo Pelosi",
+            "id": "1918540619",
+            "org": "Dipartimento di Elettronica e Informazione (DEI) Politecnico di Milano, 20133 Milano (MI), Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Parallel computing",
+        "Speedup",
+        "Theoretical computer science",
+        "Brute-force attack",
+        "Computer science",
+        "Parallel programming model",
+        "Bit-level parallelism",
+        "Cryptosystem",
+        "KeeLoq"
+    ],
+    "references": [
+        "1495989020",
+        "1548516269",
+        "1868652320",
+        "1870923733",
+        "1992021280",
+        "2028499920",
+        "2112565184",
+        "2132161909",
+        "2144447518",
+        "2155503253",
+        "2295862081"
+    ]
+}

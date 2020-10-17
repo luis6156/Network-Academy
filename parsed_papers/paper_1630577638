@@ -1,0 +1,72 @@
+{
+    "id": "1630577638",
+    "title": "A Proposal for Task Parallelism in OpenMP",
+    "venue": "international workshop on openmp",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Eduard Ayguade",
+            "id": "714308370",
+            "org": "BSC-UPC,#TAB#"
+        },
+        {
+            "name": "Nawal Copty",
+            "id": "2261596756",
+            "org": "Sun Microsystems,#TAB#"
+        },
+        {
+            "name": "Alejandro Duran",
+            "id": "2294930197",
+            "org": "BSC-UPC,#TAB#"
+        },
+        {
+            "name": "Jay Hoeflinger",
+            "id": "312486069",
+            "org": "Intel,#TAB#"
+        },
+        {
+            "name": "Yuan Lin",
+            "id": "2305186786",
+            "org": "Sun Microsystems,#TAB#"
+        },
+        {
+            "name": "Federico Massaioli",
+            "id": "2634020666",
+            "org": "CASPUR,#TAB#"
+        },
+        {
+            "name": "Ernesto Su",
+            "id": "2310928263",
+            "org": "Intel,#TAB#"
+        },
+        {
+            "name": "Priya Unnikrishnan",
+            "id": "2152139318",
+            "org": "IBM,#TAB#"
+        },
+        {
+            "name": "Guansong Zhang",
+            "id": "2138575906",
+            "org": "IBM,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Instruction-level parallelism",
+        "Parallel computing",
+        "Recursion",
+        "Pointer (computer programming)",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "Task parallelism"
+    ],
+    "references": [
+        "1984212674",
+        "2056662119",
+        "2072725684",
+        "2086794688",
+        "2112286143",
+        "2124295435",
+        "2169816952"
+    ]
+}

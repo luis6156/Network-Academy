@@ -1,0 +1,43 @@
+{
+    "id": "1518879074",
+    "title": "Issues of Security with the Oswald-Aigner Exponentiation Algorithm",
+    "venue": "the cryptographers' track at the rsa conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Colin D. Walter",
+            "id": "2170406325",
+            "org": "Comodo Research Lab"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Tamper resistance",
+        "Blinding",
+        "Randomized algorithm",
+        "Algorithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Encryption",
+        "Elliptic curve cryptography",
+        "Power analysis",
+        "Multiplication"
+    ],
+    "references": [
+        "189450844",
+        "1522337283",
+        "1531102506",
+        "1548023999",
+        "1548524713",
+        "1564234832",
+        "1664808737",
+        "1724890242",
+        "1838435525",
+        "1853876455",
+        "2096133993",
+        "2105374413",
+        "2121017442",
+        "2148862943",
+        "2154909745"
+    ]
+}

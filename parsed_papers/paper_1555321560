@@ -1,0 +1,44 @@
+{
+    "id": "1555321560",
+    "title": "Optimizing Data-Parallel Programs Using the BSP Cost Model",
+    "venue": "european conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "David B. Skillicorn",
+            "id": "2031406638",
+            "org": "Queen's University"
+        },
+        {
+            "name": "Marco Danelutto",
+            "id": "2107789154",
+            "org": "Queen's University"
+        },
+        {
+            "name": "Susanna Pelagatti",
+            "id": "2527168922",
+            "org": "Queen's University"
+        },
+        {
+            "name": "Andrea Zavanella",
+            "id": "66434030",
+            "org": "Universita di Pisa"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Dijkstra's algorithm",
+        "Program optimization"
+    ],
+    "references": [
+        "161608022",
+        "1579412726",
+        "1973797056",
+        "1981032261",
+        "2006416319",
+        "2086891775"
+    ]
+}

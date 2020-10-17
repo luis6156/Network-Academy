@@ -1,0 +1,62 @@
+{
+    "id": "1538510258",
+    "title": "Towards tamper resistant code encryption: practice and experience",
+    "venue": "information security practice and experience",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jan Cappaert",
+            "id": "2111203669",
+            "org": "Katholieke Universiteit Leuven, Department of Electrical Engineering, ESAT, SCD, COSIC, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven, Department of Electrical Engineering, ESAT, SCD, COSIC, Heverlee, Belgium#TAB#"
+        },
+        {
+            "name": "Bertrand Anckaert",
+            "id": "2082581945",
+            "org": "Universiteit Gent, Department of Electronics and Information Systems, ELIS-PARIS, Gent, Belgium#TAB#"
+        },
+        {
+            "name": "Matias Madou",
+            "id": "2126014361",
+            "org": "Universiteit Gent, Department of Electronics and Information Systems, ELIS-PARIS, Gent, Belgium#TAB#"
+        },
+        {
+            "name": "Koen De Bosschere",
+            "id": "2018048180",
+            "org": "Universiteit Gent, Department of Electronics and Information Systems, ELIS-PARIS, Gent, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tamper resistance",
+        "Test suite",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Software",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Dynamic program analysis",
+        "Self-modifying code",
+        "Link encryption"
+    ],
+    "references": [
+        "1580417272",
+        "1591147293",
+        "1660562555",
+        "1718337629",
+        "1990395488",
+        "2028800816",
+        "2113866753",
+        "2116433890",
+        "2144882558",
+        "2145071932",
+        "2145227448",
+        "2166462894",
+        "2167146581",
+        "2500662076"
+    ]
+}

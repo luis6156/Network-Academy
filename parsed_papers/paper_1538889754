@@ -1,0 +1,46 @@
+{
+    "id": "1538889754",
+    "title": "Opus IB : grid enabled Opteron cluster with InfiniBand interconnect",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Olaf Schneider",
+            "id": "2337597324",
+            "org": "Forschungszentrum Karlsruhe, Institut fur Wissenschaftliches Rechnen, Eggenstein-Leopoldshafen, Germany#TAB#"
+        },
+        {
+            "name": "Frank Schmitz",
+            "id": "2340107841",
+            "org": "Forschungszentrum Karlsruhe, Institut fur Wissenschaftliches Rechnen, Eggenstein-Leopoldshafen, Germany#TAB#"
+        },
+        {
+            "name": "Ivan Kondov",
+            "id": "426386712",
+            "org": "Forschungszentrum Karlsruhe, Institut fur Wissenschaftliches Rechnen, Eggenstein-Leopoldshafen, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Brandel",
+            "id": "2678609900",
+            "org": "Forschungszentrum Karlsruhe, Institut fur Wissenschaftliches Rechnen, Eggenstein-Leopoldshafen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "Computer science",
+        "InfiniBand",
+        "Grid",
+        "Transport layer",
+        "Middleware",
+        "High-throughput computing",
+        "File system",
+        "Grid computing"
+    ],
+    "references": [
+        "1555993967",
+        "1561836754",
+        "1964031104",
+        "2072637364"
+    ]
+}

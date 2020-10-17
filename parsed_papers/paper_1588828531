@@ -1,0 +1,45 @@
+{
+    "id": "1588828531",
+    "title": "Proving System Correctness with KIV 3.0",
+    "venue": "conference on automated deduction",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Wolfgang Reif",
+            "id": "2139633246",
+            "org": "Abt. Programmiermethodik, Universitat Ulm, Ulm, Germany"
+        },
+        {
+            "name": "Gerhard Schnellhorn",
+            "id": "2485989693",
+            "org": "Abt. Programmiermethodik, Universitat Ulm, Ulm, Germany"
+        },
+        {
+            "name": "Kurt Stenzel",
+            "id": "2131326225",
+            "org": "Abt. Programmiermethodik, Universitat Ulm, Ulm, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Discrete mathematics",
+        "Computer science",
+        "Proof theory",
+        "Symbolic execution",
+        "Correctness",
+        "Automated theorem proving",
+        "Rewriting"
+    ],
+    "references": [
+        "99916501",
+        "1512176711",
+        "1533795866",
+        "1539030153",
+        "1549434492",
+        "1555430809",
+        "1593511312",
+        "1600950634",
+        "1809452641",
+        "1987339920"
+    ]
+}

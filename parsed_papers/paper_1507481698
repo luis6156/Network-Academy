@@ -1,0 +1,47 @@
+{
+    "id": "1507481698",
+    "title": "McScM: a general framework for the verification of communicating machines",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Alexander Heussner",
+            "id": "2488577475",
+            "org": "Universite Libre de Bruxelles, Brussels, Belgium#TAB#"
+        },
+        {
+            "name": "Tristan Le Gall",
+            "id": "2123837822",
+            "org": "CEA, LIST, DILS/LMeASI, Gif-sur-Yvette, France#TAB#"
+        },
+        {
+            "name": "Gregoire Sutre",
+            "id": "2090879168",
+            "org": "LaBRI, UMR 5800, Univ. Bordeaux & CNRS, Talence, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "High-level verification",
+        "Theoretical computer science",
+        "FIFO (computing and electronics)",
+        "Computer science",
+        "Distributed computing",
+        "Communication channel",
+        "Abstract interpretation",
+        "Control theory",
+        "Abstraction",
+        "Model checking",
+        "Linear temporal logic"
+    ],
+    "references": [
+        "1480673006",
+        "1535063466",
+        "1565898282",
+        "1860772589",
+        "1977116278",
+        "2017872109",
+        "2025970201",
+        "2112562651",
+        "2127574686"
+    ]
+}

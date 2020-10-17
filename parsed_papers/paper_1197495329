@@ -1,0 +1,74 @@
+{
+    "id": "1197495329",
+    "title": "More Guidelines Than Rules: CSRF Vulnerabilities from Noncompliant OAuth 2.0 Implementations",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ethan Shernan",
+            "id": "1140280692",
+            "org": "Georgia Institute of Technology, Atlanta, USA#TAB#"
+        },
+        {
+            "name": "Henry Carter",
+            "id": "2293192240",
+            "org": "Georgia Institute of Technology, Atlanta, USA#TAB#"
+        },
+        {
+            "name": "Dave Tian",
+            "id": "2104927037",
+            "org": "University of Florida, Gainesville, USA#TAB#"
+        },
+        {
+            "name": "Patrick Traynor",
+            "id": "2282884927",
+            "org": "University of Florida, Gainesville, USA#TAB#"
+        },
+        {
+            "name": "Kevin R. B. Butler",
+            "id": "2113955458",
+            "org": "University of Florida, Gainesville, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Vulnerability",
+        "Implementation",
+        "Business",
+        "Cross-site request forgery",
+        "Computer security",
+        "User agent",
+        "Authorization",
+        "Web application",
+        "Internet privacy",
+        "Identity provider"
+    ],
+    "references": [
+        "88388190",
+        "174528657",
+        "200982326",
+        "1896223928",
+        "2012921353",
+        "2016358543",
+        "2023040061",
+        "2056073317",
+        "2072978486",
+        "2074656424",
+        "2086147103",
+        "2086585882",
+        "2089775132",
+        "2112995928",
+        "2119085032",
+        "2126123233",
+        "2133723082",
+        "2144380195",
+        "2145994642",
+        "2188710721",
+        "2217843339",
+        "2237141602",
+        "2283736639",
+        "2288204762",
+        "2398053170",
+        "2399231848",
+        "2408152660"
+    ]
+}

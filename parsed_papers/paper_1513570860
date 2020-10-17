@@ -1,0 +1,58 @@
+{
+    "id": "1513570860",
+    "title": "Toward Accurate Segmentation of the LV Myocardium and Chamber for Volumes Estimation in Gated SPECT Sequences",
+    "venue": "european conference on computer vision",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Diane Lingrand",
+            "id": "145323036",
+            "org": "I3S, UNSA/CNRS UMR 6070, B.P. 121, Sophia Antipolis, France"
+        },
+        {
+            "name": "Arnaud Charnoz",
+            "id": "1087172678",
+            "org": "I3S, UNSA/CNRS UMR 6070, B.P. 121, Sophia Antipolis, France"
+        },
+        {
+            "name": "Pierre Malick Koulibaly",
+            "id": "2065501009",
+            "org": "Centre Antoine Lacassagne, Nice, France"
+        },
+        {
+            "name": "Jacques Darcourt",
+            "id": "666553694",
+            "org": "Centre Antoine Lacassagne, Nice, France"
+        },
+        {
+            "name": "Johan Montagnat",
+            "id": "583200194",
+            "org": "CREATIS, CNRS/INSA Lyon, Villeurbanne Cedex, France"
+        }
+    ],
+    "fields_of_study": [
+        "Ejection fraction",
+        "Ventricle",
+        "Segmentation",
+        "Computer vision",
+        "Computer science",
+        "Real image",
+        "Active contour model",
+        "Gated SPECT",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1507389050",
+        "1569930776",
+        "1660067060",
+        "1968439442",
+        "2043647324",
+        "2099505818",
+        "2121782097",
+        "2124527064",
+        "2134820502",
+        "2138524633",
+        "2140601270",
+        "2149184914"
+    ]
+}

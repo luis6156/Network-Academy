@@ -1,0 +1,41 @@
+{
+    "id": "1570414793",
+    "title": "Shape-from-Silhouette/Stereo and Its Application to 3-D Digitizer",
+    "venue": "discrete geometry for computer imagery",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Yukinori Matsumoto",
+            "id": "2042804415",
+            "org": "SANYO Electric Co., Ltd."
+        },
+        {
+            "name": "Kouta Fujimura",
+            "id": "2094482885",
+            "org": "SANYO Electric Co., Ltd."
+        },
+        {
+            "name": "Toru Kitamura",
+            "id": "2145206215",
+            "org": "SANYO Electric Co., Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Computer vision",
+        "Computer science",
+        "Silhouette",
+        "Iterative reconstruction",
+        "Reconstruction algorithm",
+        "Voxel",
+        "Noise reduction",
+        "Computational geometry",
+        "Computer stereo vision",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1908470451",
+        "2013599012",
+        "2110432750",
+        "2122888449"
+    ]
+}

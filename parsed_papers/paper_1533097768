@@ -1,0 +1,42 @@
+{
+    "id": "1533097768",
+    "title": "The Software-Oriented Stream Cipher SSC2",
+    "venue": "fast software encryption",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Muxiang Zhang",
+            "id": "2221957977",
+            "org": "GTE Laboratories Inc."
+        },
+        {
+            "name": "Christopher Paul Carroll",
+            "id": "2563902007",
+            "org": "GTE Laboratories Inc."
+        },
+        {
+            "name": "Agnes Hui Chan",
+            "id": "2159499223",
+            "org": "Northeastern University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Keystream",
+        "Software",
+        "Computer science",
+        "Weak key",
+        "Encryption",
+        "Stream cipher",
+        "Stream cipher attack",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1526777359",
+        "1979198062",
+        "2147317602",
+        "2150276672",
+        "2161517294"
+    ]
+}

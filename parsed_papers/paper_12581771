@@ -1,0 +1,32 @@
+{
+    "id": "12581771",
+    "title": "Rethinking deduplication scalability",
+    "venue": "usenix conference on hot topics in storage and file systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Petros Efstathopoulos",
+            "id": "158949662",
+            "org": "Symantec Research Labs, Symantec Corporation, Culver City, CA#TAB#"
+        },
+        {
+            "name": "Fanglu Guo",
+            "id": "2781132854",
+            "org": "Symantec Research Labs, Symantec Corporation, Culver City, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Throughput",
+        "Design elements and principles",
+        "Computer science",
+        "Petabyte",
+        "Backup",
+        "Data deduplication",
+        "Database"
+    ],
+    "references": [
+        "200233886",
+        "1576397915"
+    ]
+}

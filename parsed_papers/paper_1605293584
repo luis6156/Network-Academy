@@ -1,0 +1,42 @@
+{
+    "id": "1605293584",
+    "title": "Algorithm Design and Performance Prediction in a Java-Based Grid System with Skeletons",
+    "venue": "european conference on parallel processing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Martin Alt",
+            "id": "2608320642",
+            "org": "Technical University of Berlin"
+        },
+        {
+            "name": "Holger Bischof",
+            "id": "2341578675",
+            "org": "Technical University of Berlin"
+        },
+        {
+            "name": "Sergei Gorlatch",
+            "id": "1984139201",
+            "org": "Technical University of Berlin"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Java",
+        "Algorithm design",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Parameterized complexity",
+        "Grid",
+        "strictfp",
+        "Performance prediction",
+        "Skeleton (computer programming)"
+    ],
+    "references": [
+        "2006312525",
+        "2082698794",
+        "2083209848",
+        "2172979163"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1538155009",
+    "title": "Building Medium-Vocabulary Isolated-Word Lithuanian HMM Speech Recognition System",
+    "venue": "Informatica (lithuanian Academy of Sciences)",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Gailius Raskinis",
+            "id": "555632693",
+            "org": "Faculty of Computer Science, Vytautas Magnus University, Vileikos 8, LT-3035 Kaunas, Lithuania, e-mail: idgara@vdu.lt#TAB#"
+        },
+        {
+            "name": "Danute Raskiniene",
+            "id": "2285453461",
+            "org": "Institute of Information Technologies, Lithuanian University of Agriculture, Student&uogon; 11, LT-4324 Akademija, Kauno r., Lithuania, e-mail: danra@info.lzua.lt#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Language model",
+        "Triphone",
+        "Word error rate",
+        "Pattern recognition",
+        "Computer science",
+        "Hidden Markov model",
+        "VoxForge",
+        "Speech corpus",
+        "Mel-frequency cepstrum",
+        "Speech recognition",
+        "Speaker recognition",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "41128018",
+        "1745207907",
+        "1815039817",
+        "1994851566"
+    ]
+}

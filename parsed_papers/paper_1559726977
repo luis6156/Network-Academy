@@ -1,0 +1,47 @@
+{
+    "id": "1559726977",
+    "title": "AR-TCP: a loss-aware adaptive rate based TCP for ad hoc wireless networks",
+    "venue": "Journal of High Speed Networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "B. Venkata Ramana",
+            "id": "2120364216",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology Madras, Chennai, India#TAB#"
+        },
+        {
+            "name": "B. S. Manoj",
+            "id": "1812986425",
+            "org": "CallT2, Jacobs School of Engineering, University of California, San Diego, CA#TAB#"
+        },
+        {
+            "name": "C. Siva Ram Murthy",
+            "id": "2102420446",
+            "org": "Department of Computer Science and Engineering, Indian Institute of Technology Madras, Chennai, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Compound TCP",
+        "Zeta-TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1488939323",
+        "2050042860",
+        "2094868465",
+        "2099574482",
+        "2131359132",
+        "2134127549",
+        "2156200189",
+        "2167088953",
+        "2167682412"
+    ]
+}

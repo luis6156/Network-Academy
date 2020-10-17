@@ -1,0 +1,80 @@
+{
+    "id": "1572046961",
+    "title": "Load Balancing for Parallel Query Execution on NUMA Multiprocessors",
+    "venue": "Distributed and Parallel Databases",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Luc Bouganim",
+            "id": "2296668023",
+            "org": "INRIA Rocquencourt, France. E-mail: luc.bouganim@inria.fr#TAB#"
+        },
+        {
+            "name": "Daniela Florescu",
+            "id": "2061024894",
+            "org": "INRIA Rocquencourt, France. E-mail: daniela.florescu@inria.fr#TAB#"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "INRIA Rocquencourt, France. E-mail: patrick.valduriez@inria.fr#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Idle",
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Execution model",
+        "Non-uniform memory access",
+        "Pipeline (computing)",
+        "Cache-only memory architecture",
+        "Exploit",
+        "Real-time computing",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "158628092",
+        "1508957747",
+        "1520750340",
+        "1535462869",
+        "1545720031",
+        "1549426500",
+        "1557445129",
+        "1557956086",
+        "1578006587",
+        "1581128986",
+        "1585614323",
+        "1597532222",
+        "1604793072",
+        "1605782097",
+        "1970196737",
+        "1975025054",
+        "1997020216",
+        "2034408574",
+        "2037394610",
+        "2039795706",
+        "2048408594",
+        "2049263029",
+        "2068088848",
+        "2078528123",
+        "2080427212",
+        "2104777670",
+        "2113313004",
+        "2122100378",
+        "2127547524",
+        "2130570354",
+        "2131886407",
+        "2136572251",
+        "2151197771",
+        "2151834759",
+        "2152056423",
+        "2160454978",
+        "2163738478",
+        "2164851674",
+        "2170432588",
+        "2171922437",
+        "2294693415"
+    ]
+}

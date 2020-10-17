@@ -1,0 +1,77 @@
+{
+    "id": "1507845365",
+    "title": "Dowsing for overflows: a guided fuzzer to find buffer boundary violations",
+    "venue": "usenix security symposium",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Istvan Haller",
+            "id": "1985346222",
+            "org": "VU University Amsterdam#TAB#"
+        },
+        {
+            "name": "Asia Slowinska",
+            "id": "210846225",
+            "org": "VU University Amsterdam#TAB#"
+        },
+        {
+            "name": "Matthias Neugschwandtner",
+            "id": "57987472",
+            "org": "Vienna University of Technology#TAB#"
+        },
+        {
+            "name": "Herbert Bos",
+            "id": "2269201832",
+            "org": "VU University Amsterdam#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Array data structure",
+        "Rendering (computer graphics)",
+        "Program analysis",
+        "Arithmetic underflow",
+        "Computer science",
+        "Symbolic execution",
+        "Computer security",
+        "Taint checking",
+        "Buffer overflow",
+        "Fuzz testing",
+        "Real-time computing"
+    ],
+    "references": [
+        "157156687",
+        "201766245",
+        "1495812593",
+        "1506510492",
+        "1515790419",
+        "1634837753",
+        "1655226010",
+        "1710734607",
+        "1720848645",
+        "1878544538",
+        "1968572451",
+        "1976878954",
+        "2002934700",
+        "2009489720",
+        "2032153666",
+        "2037017056",
+        "2063770056",
+        "2096449544",
+        "2105300539",
+        "2117030266",
+        "2121579803",
+        "2128985333",
+        "2129975948",
+        "2132897303",
+        "2137530017",
+        "2137726309",
+        "2140323279",
+        "2143546156",
+        "2144344516",
+        "2151585646",
+        "2153185479",
+        "2154398797",
+        "2156858199",
+        "2401617229"
+    ]
+}

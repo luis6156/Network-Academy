@@ -1,0 +1,44 @@
+{
+    "id": "1640829586",
+    "title": "Cache Line Impact on 3D PDE Solvers",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Masaaki Kondo",
+            "id": "1966464742",
+            "org": "Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan 153-8904#TAB#"
+        },
+        {
+            "name": "Mitsugu Iwamoto",
+            "id": "2893737699",
+            "org": "Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan 153-8904#TAB#"
+        },
+        {
+            "name": "Hiroshi Nakamura",
+            "id": "2137406547",
+            "org": "Research Center for Advanced Science and Technology, The University of Tokyo, Tokyo, Japan 153-8904#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Loop tiling",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Chip",
+        "Computer science",
+        "Locality",
+        "Partial differential equation",
+        "CPU cache",
+        "Locality of reference"
+    ],
+    "references": [
+        "1562841074",
+        "2069738303",
+        "2098220211",
+        "2119042753",
+        "2122418911",
+        "2158158791",
+        "2159309967",
+        "2166346826"
+    ]
+}

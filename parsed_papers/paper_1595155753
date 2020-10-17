@@ -1,0 +1,47 @@
+{
+    "id": "1595155753",
+    "title": "An AES smart card implementation resistant to power analysis attacks",
+    "venue": "applied cryptography and network security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Christoph Herbst",
+            "id": "2289622967",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Elisabeth Oswald",
+            "id": "2112794742",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        },
+        {
+            "name": "Stefan Mangard",
+            "id": "339490103",
+            "org": "Institute for Applied Information Processing and Communications (IAIK), Graz University of Technology, Graz, Austria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Cryptanalysis",
+        "Software",
+        "Countermeasure",
+        "Computer science",
+        "Computer security",
+        "Randomization",
+        "Power analysis",
+        "Smart card"
+    ],
+    "references": [
+        "108606907",
+        "130371449",
+        "1482353292",
+        "1504927043",
+        "1506890909",
+        "1512062395",
+        "1560093457",
+        "1748081333",
+        "2120203085",
+        "2154909745",
+        "2170478686"
+    ]
+}

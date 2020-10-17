@@ -1,0 +1,68 @@
+{
+    "id": "1584476834",
+    "title": "STEALTHMEM: system-level protection against cache-based side channel attacks in the cloud",
+    "venue": "usenix security symposium",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Taesoo Kim",
+            "id": "2135529837",
+            "org": "MIT CSAIL#TAB#"
+        },
+        {
+            "name": "Marcus Peinado",
+            "id": "2123463638",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Gloria Mainar-Ruiz",
+            "id": "350165920",
+            "org": "Microsoft Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Side channel attack",
+        "Shared memory",
+        "Computer science",
+        "Cache coloring",
+        "Bus sniffing",
+        "Computer security",
+        "Real-time computing",
+        "Cache pollution",
+        "Internet privacy",
+        "Cloud computing"
+    ],
+    "references": [
+        "1253017325",
+        "1488058190",
+        "1496265857",
+        "1504046403",
+        "1592889082",
+        "1664808737",
+        "1998955763",
+        "2025539306",
+        "2037322308",
+        "2048384964",
+        "2058189720",
+        "2067861590",
+        "2097778649",
+        "2102089995",
+        "2103289002",
+        "2104182023",
+        "2106728965",
+        "2119028650",
+        "2126132644",
+        "2128255161",
+        "2128885617",
+        "2129816520",
+        "2131202839",
+        "2132064685",
+        "2147150814",
+        "2160352512",
+        "2166293920",
+        "2169461225",
+        "2172060328"
+    ]
+}

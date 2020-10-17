@@ -1,0 +1,63 @@
+{
+    "id": "1497882246",
+    "title": "TAXYS: A Tool for the Development and Verification of Real-Time Embedded Systems",
+    "venue": "computer aided verification",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Etienne Closse",
+            "id": "1540776023",
+            "org": "France Telecom R&D"
+        },
+        {
+            "name": "Michel Poize",
+            "id": "2209458529",
+            "org": "France Telecom R&D"
+        },
+        {
+            "name": "Jacques Pulou",
+            "id": "180370417",
+            "org": "France Telecom R&D"
+        },
+        {
+            "name": "Joseph Sifakis",
+            "id": "2105927184",
+            "org": "2 UMR VERIMAG"
+        },
+        {
+            "name": "Patrick Venter",
+            "id": "2682533306",
+            "org": "France Telecom R&D"
+        },
+        {
+            "name": "Daniel Weil",
+            "id": "2150215859",
+            "org": "France Telecom R&D"
+        },
+        {
+            "name": "Sergio Yovine",
+            "id": "2096597339",
+            "org": "2 UMR VERIMAG"
+        }
+    ],
+    "fields_of_study": [
+        "Time to market",
+        "Algorithm",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Time constraint",
+        "Temporal logic",
+        "Automata theory",
+        "Embedded system",
+        "Correctness",
+        "Real-time operating system",
+        "Automaton"
+    ],
+    "references": [
+        "2024237509",
+        "2081938726",
+        "2101508170",
+        "2135287711"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "1567828350",
+    "title": "The six point algorithm revisited",
+    "venue": "international conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Akihiko Torii",
+            "id": "2041782220",
+            "org": "Tokyo Institute of Technology, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Zuzana Kukelova",
+            "id": "306718082",
+            "org": "CMP, Czech Technical University in Prague, Prague, Czech Republic#TAB#"
+        },
+        {
+            "name": "Martin Bujnak",
+            "id": "304968506",
+            "org": "CMP, Czech Technical University in Prague, Prague, Czech Republic"
+        },
+        {
+            "name": "Tomas Pajdla",
+            "id": "1996122094",
+            "org": "CMP, Czech Technical University in Prague, Prague, Czech Republic#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Camera resectioning",
+        "RANSAC",
+        "Mathematics",
+        "Homography",
+        "Algorithm",
+        "Computer vision",
+        "Real image",
+        "Focal length",
+        "Affine transformation",
+        "Fundamental matrix (computer vision)",
+        "Essential matrix",
+        "Mathematical optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1496447336",
+        "1597120896",
+        "1608655332",
+        "1882087933",
+        "1897550784",
+        "2047835845",
+        "2054157433",
+        "2085261163",
+        "2097382602",
+        "2099927035",
+        "2109635530",
+        "2109757902",
+        "2119605622",
+        "2124404372",
+        "2125774547",
+        "2129730824",
+        "2130156102",
+        "2135973942",
+        "2138620157",
+        "2147237076",
+        "2151103935",
+        "2154991443",
+        "2156116778",
+        "2163446794",
+        "2172188317",
+        "2337319582",
+        "2536680313"
+    ]
+}

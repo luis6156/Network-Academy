@@ -1,0 +1,57 @@
+{
+    "id": "164630100",
+    "title": "Constraint model-based planning and scheduling with multiple resources and complex collaboration schema",
+    "venue": "international conference on artificial intelligence planning systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Christophe Guettier",
+            "id": "2629091387",
+            "org": "Xerox Palo Alto Research Center, Palo Alto, CA#TAB#"
+        },
+        {
+            "name": "Bertrand Allo",
+            "id": "2574860657",
+            "org": "AXLOG Ingenierie, Arcueil, France#TAB#"
+        },
+        {
+            "name": "Vincent Legendre",
+            "id": "2651700904",
+            "org": "AXLOG Ingenierie, Arcueil, France#TAB#"
+        },
+        {
+            "name": "Jean-Clair Poncet",
+            "id": "2630834977",
+            "org": "AXLOG Ingenierie, Arcueil, France#TAB#"
+        },
+        {
+            "name": "Nelly Strady-Lecubin",
+            "id": "2798905585",
+            "org": "AXLOG Ingenierie, Arcueil, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Fixed-priority pre-emptive scheduling",
+        "Two-level scheduling",
+        "Genetic algorithm scheduling",
+        "Computer science",
+        "Scheduling (production processes)",
+        "Dynamic priority scheduling",
+        "Deadline-monotonic scheduling",
+        "Lottery scheduling",
+        "Management science",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "108408365",
+        "175655019",
+        "1496719043",
+        "2025460523",
+        "2049934619",
+        "2067273780",
+        "2112301857",
+        "2129591386",
+        "2160795258"
+    ]
+}

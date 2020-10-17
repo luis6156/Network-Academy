@@ -1,0 +1,35 @@
+{
+    "id": "1565618803",
+    "title": "Integrity, Concurrency, and Recovery in Databases",
+    "venue": "Proceedings of the Proceedings of the 1st European Cooperation in Informatics on ECI Conference 1976",
+    "year": 1976,
+    "authors": [
+        {
+            "name": "Rudolf Bayer",
+            "id": "2080780429",
+            "org": "Technische Universitat Munchen"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Computer science",
+        "Database",
+        "Concurrency",
+        "Deadlock prevention algorithms"
+    ],
+    "references": [
+        "25217438",
+        "34640755",
+        "1498150737",
+        "1991199257",
+        "1991699991",
+        "2031032746",
+        "2104508180",
+        "2104734478",
+        "2116436709",
+        "2156076209",
+        "2165467455",
+        "2294580796"
+    ]
+}

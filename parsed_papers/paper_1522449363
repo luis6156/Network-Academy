@@ -1,0 +1,49 @@
+{
+    "id": "1522449363",
+    "title": "Detailed cost estimation of CNTW attack against EMV signature scheme",
+    "venue": "financial cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Tetsuya Izu",
+            "id": "1990615295",
+            "org": "Fujitsu Laboratories Ltd., Kawasaki, Japan#TAB#"
+        },
+        {
+            "name": "Yoshitaka Morikawa",
+            "id": "2102026306",
+            "org": "Okayama University, Okayama, Japan#TAB#"
+        },
+        {
+            "name": "Yasuyuki Nogami",
+            "id": "2051834052",
+            "org": "Okayama University, Okayama, Japan#TAB#"
+        },
+        {
+            "name": "Yumi Sakemi",
+            "id": "2298290366",
+            "org": "Okayama University, Okayama, Japan#TAB#"
+        },
+        {
+            "name": "Masahiko Takenaka",
+            "id": "2114664078",
+            "org": "Fujitsu Laboratories Ltd., Kawasaki, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Computer security",
+        "Forging",
+        "Hash function",
+        "Debit card",
+        "Authentication",
+        "Internet privacy",
+        "Cost estimate"
+    ],
+    "references": [
+        "1495360227",
+        "1510116442",
+        "1961691336",
+        "2166362740"
+    ]
+}

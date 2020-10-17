@@ -1,0 +1,51 @@
+{
+    "id": "1482214997",
+    "title": "Okapi at TREC",
+    "venue": "text retrieval conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Stephen E. Robertson",
+            "id": "2129454193",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Steve Walker",
+            "id": "2135841218",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Susan Jones",
+            "id": "2103354836",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Micheline Hancock-Beaulieu",
+            "id": "2067095582",
+            "org": "Microsoft Research"
+        },
+        {
+            "name": "Mike Gatford",
+            "id": "267004717",
+            "org": "Microsoft Research"
+        }
+    ],
+    "fields_of_study": [
+        "Query expansion",
+        "Computer science",
+        "Document retrieval",
+        "Term Discrimination",
+        "Automatic indexing",
+        "Inverted index",
+        "Information retrieval",
+        "Relevance feedback",
+        "TREC Genomics",
+        "Okapi BM25"
+    ],
+    "references": [
+        "2026405322",
+        "2026937586",
+        "2043909051",
+        "2049312520"
+    ]
+}

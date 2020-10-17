@@ -1,0 +1,81 @@
+{
+    "id": "1503638523",
+    "title": "Duplexing the sponge: single-pass authenticated encryption and other applications",
+    "venue": "international conference on selected areas in cryptography",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Guido Bertoni",
+            "id": "2106307877",
+            "org": "STMicroelectronics, Belgium#TAB#"
+        },
+        {
+            "name": "Joan Daemen",
+            "id": "2022183134",
+            "org": "STMicroelectronics, Belgium#TAB#"
+        },
+        {
+            "name": "Michael Peeters",
+            "id": "2164522652",
+            "org": "NXP Semiconductors, Belgium#TAB#"
+        },
+        {
+            "name": "Gilles Van Assche",
+            "id": "1974686051",
+            "org": "STMicroelectronics, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Computer science",
+        "Distributed computing",
+        "Sponge function",
+        "Key Wrap",
+        "Duplex (telecommunications)",
+        "Authenticated encryption",
+        "Authentication",
+        "Permutation",
+        "Provable security"
+    ],
+    "references": [
+        "35428663",
+        "91031763",
+        "143219240",
+        "147018390",
+        "149964843",
+        "1512388984",
+        "1513957952",
+        "1527450129",
+        "1537849967",
+        "1539249970",
+        "1541150254",
+        "1553650484",
+        "1594302202",
+        "1596153847",
+        "1601321736",
+        "1604454960",
+        "1608254955",
+        "1619166970",
+        "1656028867",
+        "1689385595",
+        "1855109561",
+        "1866349918",
+        "1939171670",
+        "1990395488",
+        "1996182770",
+        "2052267638",
+        "2058940365",
+        "2107699585",
+        "2129876196",
+        "2133065964",
+        "2136910978",
+        "2137923131",
+        "2145227448",
+        "2152723805",
+        "2158554251",
+        "2165214731",
+        "2166669874",
+        "2171795845",
+        "2786169301"
+    ]
+}

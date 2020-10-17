@@ -1,0 +1,55 @@
+{
+    "id": "1537114515",
+    "title": "FBSA: a self-adjustable multi-source data scheduling algorithm for P2P media streaming",
+    "venue": "acm multimedia",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Shuangjia Chen",
+            "id": "2163091613",
+            "org": "Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China and Graduate School, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Longshe Huo",
+            "id": "2123395352",
+            "org": "Institute of Digital Media, Peking University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Qiang Fu",
+            "id": "2630810690",
+            "org": "Institute of Digital Media, Peking University, Beijing, China#TAB#"
+        },
+        {
+            "name": "Rui Guo",
+            "id": "2649286293",
+            "org": "Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China and Graduate School, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wen Gao",
+            "id": "2121069363",
+            "org": "Institute of Digital Media, Peking University, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Peer-to-peer",
+        "Overlay",
+        "Asynchronous communication",
+        "Computer science",
+        "Scheduling (computing)",
+        "Distributed computing",
+        "Multi-source",
+        "Quality of service",
+        "Heterogeneous network",
+        "Computer network",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1513710402",
+        "1547737876",
+        "2046082673",
+        "2103482883",
+        "2122629722",
+        "2147657151",
+        "2155495097"
+    ]
+}

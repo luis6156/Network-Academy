@@ -1,0 +1,50 @@
+{
+    "id": "1651936986",
+    "title": "An email worm vaccine architecture",
+    "venue": "information security practice and experience",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Stelios Sidiroglou",
+            "id": "2075452274",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        },
+        {
+            "name": "John Ioannidis",
+            "id": "2793014390",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        },
+        {
+            "name": "Angelos D. Keromytis",
+            "id": "299775663",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        },
+        {
+            "name": "Salvatore J. Stolfo",
+            "id": "2021877992",
+            "org": "Department of Computer Science, Columbia University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Malware",
+        "Computer virus",
+        "Computer science",
+        "Windows Registry",
+        "Distributed computing",
+        "Computer security",
+        "Server",
+        "Intrusion detection system",
+        "Anomaly detection",
+        "Virtual machine",
+        "Architecture"
+    ],
+    "references": [
+        "1562214856",
+        "1647135810",
+        "1653253285",
+        "2034887531",
+        "2143840553",
+        "2166564602",
+        "2167153793"
+    ]
+}

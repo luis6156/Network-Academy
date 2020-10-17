@@ -1,0 +1,102 @@
+{
+    "id": "112288133",
+    "title": "Ciphertext-policy delegatable hidden vector encryption and its application to searchable encryption in multi-user setting",
+    "venue": "IMACC'11 Proceedings of the 13th IMA international conference on Cryptography and Coding",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mitsuhiro Hattori",
+            "id": "2118044989",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Takato Hirano",
+            "id": "2158452714",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Takashi Ito",
+            "id": "2238658344",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Nori Matsuda",
+            "id": "1980246767",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Takumi Mori",
+            "id": "2127710244",
+            "org": "Mitsubishi Electric Corporation, Japan#TAB#"
+        },
+        {
+            "name": "Yusuke Sakai",
+            "id": "2120099836",
+            "org": "The University of Electro-Communications, Japan#TAB#"
+        },
+        {
+            "name": "Kazuo Ohta",
+            "id": "2130187483",
+            "org": "The University of Electro-Communications, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Wildcard character",
+        "Multi-user",
+        "Encryption",
+        "Probabilistic encryption",
+        "Random oracle",
+        "Ciphertext",
+        "Range query (data structures)"
+    ],
+    "references": [
+        "177444027",
+        "1483177297",
+        "1484751769",
+        "1495266644",
+        "1498316612",
+        "1502927489",
+        "1510795740",
+        "1511513446",
+        "1513098086",
+        "1516033050",
+        "1521253015",
+        "1534176767",
+        "1539207281",
+        "1546831026",
+        "1549397354",
+        "1576892942",
+        "1589843374",
+        "1596208550",
+        "1603068992",
+        "1604454960",
+        "1724472458",
+        "1769443955",
+        "2033747332",
+        "2046871034",
+        "2086042811",
+        "2101709669",
+        "2103349367",
+        "2108072891",
+        "2116556172",
+        "2117685508",
+        "2120976781",
+        "2138001464",
+        "2138669153",
+        "2145255308",
+        "2147436724",
+        "2151471396",
+        "2152924492",
+        "2154448764",
+        "2160331838",
+        "2161214158",
+        "2161214567",
+        "2169691038",
+        "2171440248",
+        "2395467170",
+        "2396907514",
+        "2610275508"
+    ]
+}

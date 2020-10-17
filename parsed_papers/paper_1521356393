@@ -1,0 +1,56 @@
+{
+    "id": "1521356393",
+    "title": "RDMA in the SiCortex cluster systems",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Lawrence C. Stewart",
+            "id": "2700464827",
+            "org": "SiCortex, Inc.#TAB#"
+        },
+        {
+            "name": "David Gingold",
+            "id": "2633427629",
+            "org": "SiCortex, Inc.#TAB#"
+        },
+        {
+            "name": "Jud Leonard",
+            "id": "2703415330",
+            "org": "SiCortex, Inc.#TAB#"
+        },
+        {
+            "name": "Peter Watkins",
+            "id": "2334694054",
+            "org": "SiCortex, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Parallel computing",
+        "Computer science",
+        "SiCortex",
+        "Latency (engineering)",
+        "Data transmission",
+        "Virtual memory"
+    ],
+    "references": [
+        "37241397",
+        "1554413585",
+        "1861151562",
+        "1888501279",
+        "1951864593",
+        "1984788566",
+        "2034274540",
+        "2110241978",
+        "2110468472",
+        "2120069836",
+        "2129691304",
+        "2135788542",
+        "2153216629",
+        "2154058140",
+        "2156275124",
+        "2171000060",
+        "2540564222"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1480579413",
+    "title": "Load balancing for the numerical solution of the navier-stokes equations",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Gregory Karagiorgos",
+            "id": "1247610053",
+            "org": "Department of Informatics, University of Athens, Athens, Greece#TAB#"
+        },
+        {
+            "name": "P. Katsafados",
+            "id": "2101062283",
+            "org": "Department of Physics, University of Athens, Athens, Greece#TAB#"
+        },
+        {
+            "name": "Andreas Kontarinis",
+            "id": "2494859030",
+            "org": "No Affiliation"
+        },
+        {
+            "name": "Nikolaos M. Missirlis",
+            "id": "2179650554",
+            "org": "Department of Informatics, University of Athens, Athens, Greece#TAB#"
+        },
+        {
+            "name": "Filippos Tzaferis",
+            "id": "2653701402",
+            "org": "Department of Informatics, University of Athens, Athens, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Vertical plane",
+        "Navier-Stokes equations",
+        "Atmospheric model",
+        "Horizontal plane",
+        "Domain decomposition methods",
+        "Steady state",
+        "Mathematical optimization",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1526599419",
+        "1544087529",
+        "1562433010",
+        "1575364847",
+        "1966461475",
+        "1974286267",
+        "1985451401",
+        "1992488583",
+        "2026337277",
+        "2031808753",
+        "2067153340",
+        "2129597412",
+        "2166417226"
+    ]
+}

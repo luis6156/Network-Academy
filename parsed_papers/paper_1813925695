@@ -1,0 +1,53 @@
+{
+    "id": "1813925695",
+    "title": "Mining association rules from multi-stream time series data on multiprocessor systems",
+    "venue": "international symposium on parallel and distributed processing and applications",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Biplab Kumer Sarker",
+            "id": "2306790871",
+            "org": "Faculty of Computer Science, University of New Brunswick, Fredericton, Canada#TAB#"
+        },
+        {
+            "name": "Toshiya Hirata",
+            "id": "2152678193",
+            "org": "Graduate School of Science and Technology, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Kuniaki Uehara",
+            "id": "2075153189",
+            "org": "Graduate School of Science and Technology, Kobe University, Japan#TAB#"
+        },
+        {
+            "name": "Virendra C. Bhavsar",
+            "id": "2029395019",
+            "org": "Faculty of Computer Science, University of New Brunswick, Fredericton, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Curse of dimensionality",
+        "Message Passing Interface",
+        "Information extraction",
+        "Multiprocessing",
+        "Message passing",
+        "Parallel algorithm",
+        "Association rule learning"
+    ],
+    "references": [
+        "151863654",
+        "1483118879",
+        "1483679765",
+        "1506285740",
+        "1531902130",
+        "1826290430",
+        "2017394090",
+        "2093456341",
+        "2122354896",
+        "2137860515",
+        "2156026066"
+    ]
+}

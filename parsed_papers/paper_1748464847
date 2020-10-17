@@ -1,0 +1,73 @@
+{
+    "id": "1748464847",
+    "title": "Code pointer masking: hardening applications against code injection attacks",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Pieter Philippaerts",
+            "id": "220035981",
+            "org": "DistriNet Research Group#TAB#"
+        },
+        {
+            "name": "Yves Younan",
+            "id": "707981970",
+            "org": "DistriNet Research Group#TAB#"
+        },
+        {
+            "name": "Stijn Muylle",
+            "id": "2058353176",
+            "org": "DistriNet Research Group#TAB#"
+        },
+        {
+            "name": "Frank Piessens",
+            "id": "233250515",
+            "org": "DistriNet Research Group#TAB#"
+        },
+        {
+            "name": "Sven Lachmund",
+            "id": "925259643",
+            "org": "DOCOMO Euro-Labs#TAB#"
+        },
+        {
+            "name": "Thomas Walter",
+            "id": "2310294206",
+            "org": "DOCOMO Euro-Labs#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dead code",
+        "Redundant code",
+        "Parallel computing",
+        "Pointer (computer programming)",
+        "Countermeasure",
+        "Code injection",
+        "Computer science",
+        "Unreachable code",
+        "Code bloat",
+        "Hardening (computing)",
+        "Real-time computing"
+    ],
+    "references": [
+        "1502612012",
+        "1545927878",
+        "1563300346",
+        "1591737503",
+        "1655226010",
+        "1964132576",
+        "1982778414",
+        "2023959340",
+        "2090181646",
+        "2098010707",
+        "2109219878",
+        "2117115928",
+        "2128637495",
+        "2138049695",
+        "2149230355",
+        "2160401437",
+        "2162800072",
+        "2162986442",
+        "2171264329",
+        "2171938395"
+    ]
+}

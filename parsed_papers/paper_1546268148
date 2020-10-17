@@ -1,0 +1,40 @@
+{
+    "id": "1546268148",
+    "title": "Reducing Certificate Revocating Cost using NPKI",
+    "venue": "information security",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Albert Levi",
+            "id": "2123065793",
+            "org": "Oregon State Univ., Corvallis#TAB#"
+        },
+        {
+            "name": "Cetin Kaya Koc",
+            "id": "2057074609",
+            "org": "Oregon State Univ., Corvallis#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Certificate signing request",
+        "Implicit certificate",
+        "Self-signed certificate",
+        "Root certificate",
+        "Computer science",
+        "X.509",
+        "Computer security",
+        "Certificate policy",
+        "Computer network",
+        "Online Certificate Status Protocol",
+        "Internet privacy",
+        "Certification path validation algorithm"
+    ],
+    "references": [
+        "1502896015",
+        "1542430206",
+        "1994219740",
+        "2089934546",
+        "2107598890",
+        "2160878415"
+    ]
+}

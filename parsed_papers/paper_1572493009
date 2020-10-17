@@ -1,0 +1,40 @@
+{
+    "id": "1572493009",
+    "title": "Locally adaptive techniques for pattern classification",
+    "venue": "Encyclopedia of Data Warehousing and Mining",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Carlotta Domeniconi",
+            "id": "45678088",
+            "org": "George Mason University, USA"
+        },
+        {
+            "name": "Dimitrios Gunopulos",
+            "id": "1656275121",
+            "org": "University of California, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Kernel density estimation",
+        "Pattern recognition",
+        "k-nearest neighbors algorithm",
+        "Curse of dimensionality",
+        "Feature vector",
+        "Nearest-neighbor chain algorithm",
+        "Cluster analysis",
+        "Support vector machine",
+        "Range query (data structures)",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1497310198",
+        "1689445748",
+        "2037753653",
+        "2088779313",
+        "2091632079",
+        "2116596942"
+    ]
+}

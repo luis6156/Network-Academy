@@ -1,0 +1,73 @@
+{
+    "id": "1583439447",
+    "title": "Certificateless Public Key Encryption in the Selective-ID Security Model (Without Random Oracles)",
+    "venue": "international conference on pairing-based cryptography",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jong Hwan Park",
+            "id": "2705738191",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul"
+        },
+        {
+            "name": "Kyu Young Choi",
+            "id": "2128616283",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul"
+        },
+        {
+            "name": "Jung Yeon Hwang",
+            "id": "2714189782",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2133942762",
+            "org": "Center for Information Security Technologies(CIST), Korea University, Seoul"
+        }
+    ],
+    "fields_of_study": [
+        "Optimal asymmetric encryption padding",
+        "40-bit encryption",
+        "Computer science",
+        "Distributed computing",
+        "Plaintext-aware encryption",
+        "Ciphertext indistinguishability",
+        "56-bit encryption",
+        "Deterministic encryption",
+        "Computer network",
+        "Attribute-based encryption",
+        "Semantic security"
+    ],
+    "references": [
+        "1492022199",
+        "1495266644",
+        "1497626621",
+        "1526778951",
+        "1542057243",
+        "1546774120",
+        "1563032947",
+        "1574785216",
+        "1587391206",
+        "1591524234",
+        "1592092778",
+        "1597702549",
+        "1603068992",
+        "1603589935",
+        "1797065970",
+        "1973801321",
+        "2046871034",
+        "2054938238",
+        "2068136832",
+        "2086042811",
+        "2097638666",
+        "2101803085",
+        "2108891943",
+        "2117685508",
+        "2117797270",
+        "2120154759",
+        "2131205526",
+        "2152688060",
+        "2152924492",
+        "2171872859"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1543544023",
+    "title": "Multiple Data Parallelism with HPF and KeLP",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "John H. Merlin",
+            "id": "2303998794",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Scott B. Baden",
+            "id": "513950326",
+            "org": "University of California"
+        },
+        {
+            "name": "Stephen J. Fink",
+            "id": "2163795084",
+            "org": "University of California"
+        },
+        {
+            "name": "Barbara M. Chapman",
+            "id": "2142555485",
+            "org": "University of Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer architecture",
+        "SPMD",
+        "Computer science",
+        "Compiler",
+        "Data parallelism",
+        "High Performance Fortran",
+        "Message Passing Interface",
+        "Solver",
+        "Program optimization",
+        "Fortran"
+    ],
+    "references": [
+        "1553159521",
+        "1854155214",
+        "1965936733",
+        "1987734677",
+        "2000184064",
+        "2065623206",
+        "2121547511"
+    ]
+}

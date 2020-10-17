@@ -1,0 +1,94 @@
+{
+    "id": "1576359684",
+    "title": "SSE Implementation of Multivariate PKCs on Modern x86 CPUs",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Anna Inn-Tung Chen",
+            "id": "2128932710",
+            "org": "National Taiwan University, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Ming-Shing Chen",
+            "id": "2144021435",
+            "org": "Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Tien-Ren Chen",
+            "id": "2483749678",
+            "org": "Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Chen-Mou Cheng",
+            "id": "2273475410",
+            "org": "National Taiwan University, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Jintai Ding",
+            "id": "2135465465",
+            "org": "University of Cincinnati, Cincinnati, USA#TAB#"
+        },
+        {
+            "name": "Eric Li-Hsiang Kuo",
+            "id": "2247163880",
+            "org": "Academia Sinica, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Frost Yu-Shuang Lee",
+            "id": "2250276599",
+            "org": "National Taiwan University, Taipei, Taiwan#TAB#"
+        },
+        {
+            "name": "Bo-Yin Yang",
+            "id": "2112375272",
+            "org": "Academia Sinica, Taipei, Taiwan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "SSE2",
+        "Theoretical computer science",
+        "Parallel computing",
+        "SSSE3",
+        "x86",
+        "Integer",
+        "Computer science",
+        "Multivariate cryptography",
+        "Prime (order theory)",
+        "Elliptic curve cryptography",
+        "Cryptosystem"
+    ],
+    "references": [
+        "127770406",
+        "137478731",
+        "1481415336",
+        "1489769990",
+        "1495277689",
+        "1525538022",
+        "1533810821",
+        "1536729852",
+        "1552337496",
+        "1568587963",
+        "1573563287",
+        "1588122562",
+        "1588706915",
+        "1597660579",
+        "1598238634",
+        "1602770810",
+        "1628272610",
+        "1652057085",
+        "1656731780",
+        "1906691896",
+        "1983096721",
+        "2015918966",
+        "2083889349",
+        "2100913437",
+        "2101243565",
+        "2119883816",
+        "2150548144",
+        "2169150396",
+        "2402439910",
+        "2607627035",
+        "2785629769"
+    ]
+}

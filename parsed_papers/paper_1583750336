@@ -1,0 +1,37 @@
+{
+    "id": "1583750336",
+    "title": "Architectures for exponentiation in GF (2 n )",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Thomas Beth",
+            "id": "649603640",
+            "org": "Univ. of Karlsruhe, Karlsruhe, W. Germany#TAB#"
+        },
+        {
+            "name": "B. M. Cook",
+            "id": "2664545691",
+            "org": "Univ. of Surrey, Surrey, UK#TAB#"
+        },
+        {
+            "name": "Dieter Gollmann",
+            "id": "2618478289",
+            "org": "Univ. of Karlsruhe, Karlsruhe, W. Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "GF(2)",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Key exchange",
+        "Exponentiation",
+        "Computer science",
+        "Diffie-Hellman key exchange",
+        "Data structure"
+    ],
+    "references": [
+        "1889596231",
+        "2091899615"
+    ]
+}

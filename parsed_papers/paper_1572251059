@@ -1,0 +1,60 @@
+{
+    "id": "1572251059",
+    "title": "Higher-Order Masking and Shuffling for Software Implementations of Block Ciphers",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Matthieu Rivain",
+            "id": "2323075243",
+            "org": "Oberthur Technologies, France and University of Luxembourg, Luxembourg#TAB#"
+        },
+        {
+            "name": "Emmanuel Prouff",
+            "id": "50202740",
+            "org": "Oberthur Technologies, France#TAB#"
+        },
+        {
+            "name": "Julien Doget",
+            "id": "2764550356",
+            "org": "Oberthur Technologies, France and Universite catholique de Louvain, Belgium and University of Paris 8, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Masking (art)",
+        "Key-recovery attack",
+        "Block cipher",
+        "Security parameter",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Computer science",
+        "Power analysis",
+        "Shuffling"
+    ],
+    "references": [
+        "108606907",
+        "1482353292",
+        "1484296207",
+        "1503689022",
+        "1510296609",
+        "1512062395",
+        "1513039030",
+        "1548656471",
+        "1549962104",
+        "1554257389",
+        "1560093457",
+        "1562362230",
+        "1569151289",
+        "1589364525",
+        "1595155753",
+        "1622403295",
+        "2124785100",
+        "2141841663",
+        "2154909745",
+        "2155861318",
+        "2170478686",
+        "2583913662",
+        "2612208439"
+    ]
+}

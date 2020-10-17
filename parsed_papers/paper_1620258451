@@ -1,0 +1,71 @@
+{
+    "id": "1620258451",
+    "title": "Flow-Aware Congestion Control to Improve Throughput under TCP Incast in Datacenter Networks",
+    "venue": "computer software and applications conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Chunghan Lee",
+            "id": "2180638399",
+            "org": "Fujitsu Labs. Ltd., Kawasaki, Japan"
+        },
+        {
+            "name": "Yukihiro Nakagawa",
+            "id": "2231356625",
+            "org": "Fujitsu Labs. Ltd., Kawasaki, Japan"
+        },
+        {
+            "name": "Kazuki Hyoudou",
+            "id": "2089887088",
+            "org": "Fujitsu Labs. Ltd., Kawasaki, Japan"
+        },
+        {
+            "name": "Shinji Kobayashi",
+            "id": "2497537047",
+            "org": "Fujitsu Labs. Ltd., Kawasaki, Japan"
+        },
+        {
+            "name": "Osamu Shiraki",
+            "id": "170234323",
+            "org": "Fujitsu Labs. Ltd., Kawasaki, Japan"
+        },
+        {
+            "name": "Takeshi Shimizu",
+            "id": "2121655821",
+            "org": "Fujitsu Labs. Ltd., Kawasaki, Japan"
+        }
+    ],
+    "fields_of_study": [
+        "Network congestion",
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "Computer network",
+        "H-TCP",
+        "TCP tuning",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1609755472",
+        "1698388015",
+        "1769222792",
+        "1785664926",
+        "1915146225",
+        "1945372741",
+        "1985311919",
+        "2004506529",
+        "2034673442",
+        "2056394733",
+        "2062832101",
+        "2125977806",
+        "2148132761",
+        "2149806230",
+        "2159083104",
+        "2160830750",
+        "2163404313",
+        "2164740236"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1518432802",
+    "title": "A modal logic for role-based access control",
+    "venue": "mathematical methods models and architectures for network security systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Thumrongsak Kosiyatrakul",
+            "id": "2034371098",
+            "org": "EECS Department, Syracuse University, Syracuse, New York#TAB#"
+        },
+        {
+            "name": "Susan Older",
+            "id": "1482567081",
+            "org": "EECS Department, Syracuse University, Syracuse, New York#TAB#"
+        },
+        {
+            "name": "Shiu-Kai Chin",
+            "id": "2197895133",
+            "org": "EECS Department, Syracuse University, Syracuse, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Role-based access control",
+        "Role hierarchy",
+        "Correctness",
+        "Kripke structure",
+        "HOL",
+        "Logic Control",
+        "Higher-order logic"
+    ],
+    "references": [
+        "1593628007",
+        "1987339920",
+        "1991305430",
+        "1997862012",
+        "2067580212",
+        "2081186654",
+        "2103317919",
+        "2128361829",
+        "2154765153",
+        "2610715017"
+    ]
+}

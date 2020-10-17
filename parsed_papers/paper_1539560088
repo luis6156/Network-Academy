@@ -1,0 +1,41 @@
+{
+    "id": "1539560088",
+    "title": "Oscillation, heuristic ordering and pruning in neighborhood search",
+    "venue": "principles and practice of constraint programming",
+    "year": 1997,
+    "authors": [
+        {
+            "name": "Jean-Marc Labat",
+            "id": "2158600123",
+            "org": "LIP6, UPMC, Paris, France#TAB#"
+        },
+        {
+            "name": "Laurent Mynard",
+            "id": "1530603152",
+            "org": "LIP6, UPMC, Paris, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Incremental heuristic search",
+        "Algorithm",
+        "Computer science",
+        "Combinatorial optimization",
+        "Local search (optimization)",
+        "Tabu search",
+        "Best-first search",
+        "Simulated annealing",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1545379711",
+        "1646038686",
+        "2043418025",
+        "2053913299",
+        "2090275183",
+        "2104670598",
+        "2150470619",
+        "2160645305"
+    ]
+}

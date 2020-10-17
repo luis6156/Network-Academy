@@ -1,0 +1,56 @@
+{
+    "id": "1502077606",
+    "title": "Scheduling file transfers for data-intensive jobs on heterogeneous clusters",
+    "venue": "european conference on parallel processing",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Gaurav Khanna",
+            "id": "2273439798",
+            "org": "Dept. of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Umit V. Catalyurek",
+            "id": "244960322",
+            "org": "Dept. of Biomedical Informatics, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Tahsin M. Kurc",
+            "id": "2310949129",
+            "org": "Dept. of Biomedical Informatics, The Ohio State University#TAB#"
+        },
+        {
+            "name": "P. Sadayappan",
+            "id": "1966094299",
+            "org": "Dept. of Computer Science and Engineering, The Ohio State University#TAB#"
+        },
+        {
+            "name": "Joel H. Saltz",
+            "id": "2111158966",
+            "org": "Dept. of Biomedical Informatics, The Ohio State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "I/O scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1538073575",
+        "1990033420",
+        "2090168101",
+        "2097025565",
+        "2099562728",
+        "2114461937",
+        "2127022339",
+        "2146176543"
+    ]
+}

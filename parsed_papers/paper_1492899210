@@ -1,0 +1,39 @@
+{
+    "id": "1492899210",
+    "title": "Analysis of arithmetic coding for data compression",
+    "venue": "data compression conference",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Paul G. Howard",
+            "id": "2793202253",
+            "org": "Dept. of Comput. Sci., Brown Univ., Providence, RI, USA"
+        },
+        {
+            "name": "Jeffrey Scott Vitter",
+            "id": "118037170",
+            "org": "Dept. of Comput. Sci., Brown Univ., Providence, RI, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Shannon-Fano coding",
+        "Discrete mathematics",
+        "Huffman coding",
+        "Context-adaptive binary arithmetic coding",
+        "Range encoding",
+        "Entropy encoding",
+        "Tunstall coding",
+        "Arithmetic coding",
+        "Variable-length code"
+    ],
+    "references": [
+        "2012603689",
+        "2041404167",
+        "2107927941",
+        "2129652681",
+        "2161628678",
+        "2171763016"
+    ]
+}

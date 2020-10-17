@@ -1,0 +1,91 @@
+{
+    "id": "1610688982",
+    "title": "TaintPipe: pipelined symbolic taint analysis",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jiang Ming",
+            "id": "2156525752",
+            "org": "College of Information Sciences and Technology, The Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Dinghao Wu",
+            "id": "2106073932",
+            "org": "College of Information Sciences and Technology, The Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Gaoyao Xiao",
+            "id": "2276995112",
+            "org": "College of Information Sciences and Technology, The Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Jun Wang",
+            "id": "2663167648",
+            "org": "College of Information Sciences and Technology, The Pennsylvania State University#TAB#"
+        },
+        {
+            "name": "Peng Liu",
+            "id": "2428201908",
+            "org": "College of Information Sciences and Technology, The Pennsylvania State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Speedup",
+        "Computer science",
+        "Computer security",
+        "Taint checking",
+        "Software deployment",
+        "Data flow diagram",
+        "Pipeline (computing)",
+        "Real-time computing",
+        "Bottleneck",
+        "Dynamic data"
+    ],
+    "references": [
+        "17195072",
+        "74868156",
+        "1538186256",
+        "1582331515",
+        "1820253543",
+        "1821004526",
+        "1963971515",
+        "1965817476",
+        "1983745511",
+        "2002251314",
+        "2014559961",
+        "2019641142",
+        "2030906223",
+        "2034567497",
+        "2053478431",
+        "2057330156",
+        "2063972446",
+        "2076029559",
+        "2089745089",
+        "2101310246",
+        "2101799521",
+        "2102970979",
+        "2104355531",
+        "2108747667",
+        "2113864883",
+        "2128117755",
+        "2132461047",
+        "2134633067",
+        "2138788987",
+        "2144789413",
+        "2151135920",
+        "2156453323",
+        "2157575657",
+        "2161992906",
+        "2166462894",
+        "2166743230",
+        "2167671111",
+        "2171295941",
+        "2172163424",
+        "2242837385",
+        "2296467253",
+        "2394543764",
+        "2398729674"
+    ]
+}

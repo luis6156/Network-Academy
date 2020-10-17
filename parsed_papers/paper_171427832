@@ -1,0 +1,50 @@
+{
+    "id": "171427832",
+    "title": "Decision support for virtual machine re-provisioning in production environments",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Kyrre M. Begnum",
+            "id": "1275680867",
+            "org": "Oslo University College, Norway#TAB#"
+        },
+        {
+            "name": "Matthew Disney",
+            "id": "2285032433",
+            "org": "Oslo University College, Norway#TAB#"
+        },
+        {
+            "name": "AEleen Frisch",
+            "id": "2709331046",
+            "org": "Exponential Consulting#TAB#"
+        },
+        {
+            "name": "Ingard Mevag",
+            "id": "156252470",
+            "org": "Oslo University College#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Virtualization",
+        "Provisioning",
+        "Computer science",
+        "Data mining",
+        "Server",
+        "Decision support system",
+        "Virtual machine",
+        "Temporal isolation among virtual machines"
+    ],
+    "references": [
+        "1499342788",
+        "1537929875",
+        "1618549302",
+        "1997269120",
+        "2070963260",
+        "2100418159",
+        "2101992934",
+        "2103732378",
+        "2112281738",
+        "2158498587"
+    ]
+}

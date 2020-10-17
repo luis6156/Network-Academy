@@ -1,0 +1,49 @@
+{
+    "id": "1496120840",
+    "title": "Gravel: A Communication Library to Fast Path MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Anthony Danalis",
+            "id": "545624236",
+            "org": "Department of Computer and Information Sciences, University of Delaware, Newark, DE 19716#TAB#"
+        },
+        {
+            "name": "Aaron Brown",
+            "id": "2299405259",
+            "org": "Department of Computer and Information Sciences, University of Delaware, Newark, DE 19716#TAB#"
+        },
+        {
+            "name": "Lori L. Pollock",
+            "id": "2099917311",
+            "org": "Department of Computer and Information Sciences, University of Delaware, Newark, DE 19716#TAB#"
+        },
+        {
+            "name": "D. Martin Swany",
+            "id": "2111383256",
+            "org": "Department of Computer and Information Sciences, University of Delaware, Newark, DE 19716#TAB#"
+        },
+        {
+            "name": "John Cavazos",
+            "id": "2144458851",
+            "org": "Department of Computer and Information Sciences, University of Delaware, Newark, DE 19716#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Remote direct memory access",
+        "Computer cluster",
+        "Parallel computing",
+        "Application layer",
+        "Data exchange",
+        "Communications protocol",
+        "Distributed computing",
+        "Computer science",
+        "Fast path"
+    ],
+    "references": [
+        "1554413585",
+        "1861151562",
+        "2126509165"
+    ]
+}

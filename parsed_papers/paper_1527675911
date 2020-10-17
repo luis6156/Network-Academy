@@ -1,0 +1,37 @@
+{
+    "id": "1527675911",
+    "title": "A Unified Markow Approach to Differential and Linear Cryptanalysis",
+    "venue": "international cryptology conference",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Luke O'Connor",
+            "id": "2112211850",
+            "org": "Distributed Systems Technology Centre (DSTC)"
+        },
+        {
+            "name": "Jovan Dj. Golic",
+            "id": "1237859792",
+            "org": "Queensland University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Round function",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Computer science",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Markov chain",
+        "Uniform distribution (continuous)",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1483362181",
+        "1575149347",
+        "1587697857",
+        "1629301835",
+        "1926480282",
+        "1964723977"
+    ]
+}

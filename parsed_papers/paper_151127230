@@ -1,0 +1,53 @@
+{
+    "id": "151127230",
+    "title": "Bus bunching detection by mining sequences of headway deviations",
+    "venue": "international conference on data mining",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Luis Moreira-Matias",
+            "id": "2166440515",
+            "org": "Departamento de Engenharia Informatica, Faculdade de Engenharia, Universidade do Porto, Porto, Portugal,LIAAD-INESC Porto L.A., Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Carlos Abreu Ferreira",
+            "id": "2653517658",
+            "org": "LIAAD-INESC Porto L.A., Porto, Portugal,Instituto Superior de Engenharia do Porto, Instituto Politecnico do Porto, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Joao Gama",
+            "id": "2113857198",
+            "org": "LIAAD-INESC Porto L.A., Porto, Portugal,Faculdade de Economia, Universidade do Porto, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Joao Mendes-Moreira",
+            "id": "2047917331",
+            "org": "Departamento de Engenharia Informatica, Faculdade de Engenharia, Universidade do Porto, Porto, Portugal,LIAAD-INESC Porto L.A., Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Jorge Freire de Sousa",
+            "id": "2140867918",
+            "org": "Departamento de Engenharia Industrial e Gestao, Faculdade de Engenharia, Universidade do Porto, Porto, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sequential Pattern Mining",
+        "Computer science",
+        "Data mining",
+        "PrefixSpan",
+        "Computer security",
+        "Bus bunching",
+        "Real-time computing",
+        "Headway"
+    ],
+    "references": [
+        "27933213",
+        "1506285740",
+        "1641039719",
+        "1981974386",
+        "2080811070",
+        "2104700682",
+        "2147014452",
+        "2158454296"
+    ]
+}

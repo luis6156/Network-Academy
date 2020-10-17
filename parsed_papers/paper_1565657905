@@ -1,0 +1,50 @@
+{
+    "id": "1565657905",
+    "title": "Security Analysis of CRT-Based Cryptosystems",
+    "venue": "applied cryptography and network security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Katsuyuki Okeya",
+            "id": "1780672632",
+            "org": "Hitachi, Ltd."
+        },
+        {
+            "name": "Tsuyoshi Takagi",
+            "id": "2051837146",
+            "org": "Technische Universitat Darmstadt"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Side channel attack",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Rabin cryptosystem",
+        "Power analysis",
+        "Cryptosystem",
+        "Hybrid cryptosystem",
+        "Public-key cryptography",
+        "Timing attack",
+        "Chosen-ciphertext attack"
+    ],
+    "references": [
+        "1485226944",
+        "1495447492",
+        "1503520699",
+        "1521664783",
+        "1522337283",
+        "1563765474",
+        "1587481360",
+        "1604304084",
+        "1664808737",
+        "1789043777",
+        "1994959057",
+        "2066425771",
+        "2104841597",
+        "2107691219",
+        "2148862943",
+        "2154909745"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "1551693317",
+    "title": "Design and implementation of modular key management protocol and IP secure tunnel on AIX",
+    "venue": "usenix security symposium",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Pau-Chen Cheng",
+            "id": "2779494291",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Juan A. Garay",
+            "id": "2163806572",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Amir Herzberg",
+            "id": "2178836961",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2025616804",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Internet Protocol",
+        "Port Control Protocol",
+        "IP tunnel",
+        "Computer science",
+        "Internet Protocol Control Protocol",
+        "Computer security",
+        "IP address management",
+        "Key management",
+        "Computer network",
+        "Internet protocol suite",
+        "Tunnel Setup Protocol"
+    ],
+    "references": [
+        "1533021744",
+        "1542059364",
+        "2011095011",
+        "2148156724",
+        "2156186849"
+    ]
+}

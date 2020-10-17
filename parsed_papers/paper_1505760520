@@ -1,0 +1,40 @@
+{
+    "id": "1505760520",
+    "title": "Malicious cryptography: kleptographic aspects",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Adam L. Young",
+            "id": "2107228572",
+            "org": "Cigital Labs#TAB#"
+        },
+        {
+            "name": "Moti Yung",
+            "id": "2885085283",
+            "org": "Dept. of Computer Science, Columbia University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Malware",
+        "Tamper resistance",
+        "Trojan horse",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Power analysis",
+        "Cryptovirology",
+        "Cryptosystem",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "98205893",
+        "1499713421",
+        "1521222412",
+        "1580300316",
+        "1593040835",
+        "1996360405",
+        "2129719496"
+    ]
+}

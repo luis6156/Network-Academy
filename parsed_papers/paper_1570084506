@@ -1,0 +1,38 @@
+{
+    "id": "1570084506",
+    "title": "Differential Cryptanalysis of Reduced Rounds of GOST",
+    "venue": "selected areas in cryptography",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Haruki Seki",
+            "id": "2147336166",
+            "org": "TAO (Telecommunications Advancement Organization of Japan)"
+        },
+        {
+            "name": "Toshinobu Kaneko",
+            "id": "2162955261",
+            "org": "Science University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Block cipher",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Meet-in-the-middle attack",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1500584382",
+        "1546907539",
+        "1629301835",
+        "1991897749",
+        "2234576048",
+        "2585139507"
+    ]
+}

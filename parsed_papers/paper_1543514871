@@ -1,0 +1,64 @@
+{
+    "id": "1543514871",
+    "title": "hCHAC-4, an ACO Algorithm for Solving the Four-Criteria Military Path-finding Problem",
+    "venue": "NICSO",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Antonio M. Mora",
+            "id": "2133629216",
+            "org": "University of Granada (Spain)"
+        },
+        {
+            "name": "J. J. Merelo",
+            "id": "2479567946",
+            "org": "University of Granada (Spain)"
+        },
+        {
+            "name": "Juan Luis Jimenez Laredo",
+            "id": "2311223803",
+            "org": "University of Granada (Spain)"
+        },
+        {
+            "name": "Pedro A. Castillo",
+            "id": "2135428831",
+            "org": "University of Granada (Spain)"
+        },
+        {
+            "name": "Pablo Garcia Sanchez",
+            "id": "2163328211",
+            "org": "University of Granada (Spain)"
+        },
+        {
+            "name": "Juan P. Sevilla",
+            "id": "2195898851",
+            "org": "University of Granada (Spain)"
+        },
+        {
+            "name": "Cristian Millan",
+            "id": "2131724150",
+            "org": "Mando de Adiestramiento y Doctrina. Spanish Army"
+        },
+        {
+            "name": "Juan Torrecillas",
+            "id": "2646693213",
+            "org": "Mando de Adiestramiento y Doctrina. Spanish Army"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Heuristic function",
+        "Ant colony optimization algorithms",
+        "Battlefield",
+        "Multi-objective optimization",
+        "Decision support system",
+        "Fast path",
+        "Engineering"
+    ],
+    "references": [
+        "114492606",
+        "1502839085",
+        "1533347244",
+        "1558687838"
+    ]
+}

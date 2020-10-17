@@ -1,0 +1,59 @@
+{
+    "id": "1546910565",
+    "title": "An authentication and key exchange protocol for secure credential services",
+    "venue": "international conference on information security",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "SeongHan Shin",
+            "id": "2111202997",
+            "org": "Research Center for Information Security (RCIS), National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Kazukuni Kobara",
+            "id": "2777180568",
+            "org": "Research Center for Information Security (RCIS), National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Hideki Imai",
+            "id": "2101807108",
+            "org": "Research Center for Information Security (RCIS), National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Key exchange",
+        "Extensible Authentication Protocol",
+        "Computer science",
+        "Computer security",
+        "Oakley protocol",
+        "Key-agreement protocol",
+        "Secure channel",
+        "Public-key cryptography",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "140743382",
+        "1509298722",
+        "1523871498",
+        "1526491104",
+        "1527465840",
+        "1535125298",
+        "1743634691",
+        "1967263393",
+        "2002930326",
+        "2052267638",
+        "2062231603",
+        "2111443676",
+        "2123544182",
+        "2124926080",
+        "2132147947",
+        "2134474749",
+        "2149445117",
+        "2149763025",
+        "2152688060",
+        "2157604883",
+        "2395186320",
+        "2403237970"
+    ]
+}

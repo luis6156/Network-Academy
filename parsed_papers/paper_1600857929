@@ -1,0 +1,45 @@
+{
+    "id": "1600857929",
+    "title": "Analysis of implementation options for MPI-2 one-sided",
+    "venue": "PVM/MPI'07 Proceedings of the 14th European conference on Recent Advances in Parallel Virtual Machine and Message Passing Interface",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Brian Barrett",
+            "id": "2810786813",
+            "org": "Los Alamos National Laboratory, Los Alamos, NM#TAB#"
+        },
+        {
+            "name": "Galen M. Shipman",
+            "id": "2074390756",
+            "org": "Los Alamos National Laboratory, Los Alamos, NM#TAB#"
+        },
+        {
+            "name": "Andrew Lumsdaine",
+            "id": "2140207053",
+            "org": "Indiana University, Bloomington, IN#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Parallel computing",
+        "Computer architecture",
+        "Remote memory",
+        "Computer science",
+        "Message Passing Interface",
+        "Layering"
+    ],
+    "references": [
+        "1552339343",
+        "1577580543",
+        "1590267976",
+        "1641327695",
+        "1825216778",
+        "1995396170",
+        "2069079195",
+        "2104679970",
+        "2120585109",
+        "2141107779",
+        "2541014599"
+    ]
+}

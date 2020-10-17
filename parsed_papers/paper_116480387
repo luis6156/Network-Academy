@@ -1,0 +1,64 @@
+{
+    "id": "116480387",
+    "title": "Combined fault and side-channel attack on protected implementations of AES",
+    "venue": "smart card research and advanced application conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Thomas Roche",
+            "id": "2019003671",
+            "org": "ANSSI, Paris 07, SP, France#TAB#"
+        },
+        {
+            "name": "Victor Lomne",
+            "id": "2684967223",
+            "org": "ANSSI, Paris 07, SP, France#TAB#"
+        },
+        {
+            "name": "Karim Khalfallah",
+            "id": "2690802405",
+            "org": "ANSSI, Paris 07, SP, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Computer science",
+        "Implementation",
+        "Computer security",
+        "AES implementations",
+        "Differential fault analysis",
+        "Real-time computing",
+        "Fault injection",
+        "Fault model"
+    ],
+    "references": [
+        "131640530",
+        "1495121609",
+        "1503689022",
+        "1506890909",
+        "1512062395",
+        "1524438853",
+        "1530646519",
+        "1537875328",
+        "1548656471",
+        "1560093457",
+        "1562542037",
+        "1599906532",
+        "1611613623",
+        "1651633114",
+        "1862426464",
+        "2091612798",
+        "2110162979",
+        "2110941647",
+        "2111725598",
+        "2112284176",
+        "2139750209",
+        "2144858417",
+        "2154909745",
+        "2161740631",
+        "2170489924",
+        "2171807145",
+        "2402517868",
+        "2612208439"
+    ]
+}

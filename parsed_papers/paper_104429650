@@ -1,0 +1,66 @@
+{
+    "id": "104429650",
+    "title": "Controlling Concurrency and Expressing Synchronization in Charm++ Programs",
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Laxmikant V. Kale",
+            "id": "2115450241",
+            "org": "University of Illinois at Urbana-Champaign"
+        },
+        {
+            "name": "Jonathan Lifflander",
+            "id": "37689821",
+            "org": "University of Illinois at Urbana-Champaign"
+        }
+    ],
+    "fields_of_study": [
+        "Combinatorial search",
+        "Computer science",
+        "Distributed computing",
+        "Runtime system",
+        "Concurrency",
+        "Synchronization",
+        "Concurrency control",
+        "Kernel (linear algebra)",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "9866328",
+        "10061220",
+        "1552339343",
+        "1579190539",
+        "1581399737",
+        "1596047731",
+        "1623282124",
+        "1781117264",
+        "1841377105",
+        "1983587324",
+        "1984689011",
+        "1991716724",
+        "1992788999",
+        "2000217822",
+        "2014413779",
+        "2014546690",
+        "2022194380",
+        "2027803990",
+        "2031260715",
+        "2038228400",
+        "2038498586",
+        "2046309377",
+        "2105864398",
+        "2107365310",
+        "2109942844",
+        "2119013990",
+        "2126002228",
+        "2128185020",
+        "2141514639",
+        "2145812623",
+        "2153438748",
+        "2159027807",
+        "2166111630",
+        "2169052433",
+        "2614041310"
+    ]
+}

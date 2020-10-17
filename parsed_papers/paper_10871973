@@ -1,0 +1,59 @@
+{
+    "id": "10871973",
+    "title": "Group Key Exchange Resilient to Leakage of Ephemeral Secret Keys with Strong Contributiveness",
+    "venue": "european public key infrastructure workshop",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Cheng Chen",
+            "id": "2680737959",
+            "org": "State Key Laboratory of Information Security SKLOIS Institute of Information Engineering IIE, Chinese Academy of Sciences CAS, China and Graduate University of Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Yanfei Guo",
+            "id": "2530974830",
+            "org": "State Key Laboratory of Information Security SKLOIS Institute of Information Engineering IIE, Chinese Academy of Sciences CAS, China and Graduate University of Chinese Academy of Sciences, China#TAB#"
+        },
+        {
+            "name": "Rui Zhang",
+            "id": "2630010481",
+            "org": "State Key Laboratory of Information Security SKLOIS Institute of Information Engineering IIE, Chinese Academy of Sciences CAS, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Group key",
+        "Ephemeral key",
+        "Mutual authentication",
+        "Key distribution",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Leakage (electronics)",
+        "Key (lock)",
+        "Internet privacy",
+        "Authenticated Key Exchange"
+    ],
+    "references": [
+        "53588593",
+        "56996347",
+        "1487877514",
+        "1520096918",
+        "1544153481",
+        "1604454960",
+        "1605836888",
+        "1709517452",
+        "1931780207",
+        "1977251372",
+        "1994926295",
+        "2007909731",
+        "2012885700",
+        "2026543801",
+        "2036126441",
+        "2049088527",
+        "2086415583",
+        "2112739182",
+        "2135042651",
+        "2135654420",
+        "2154671641"
+    ]
+}

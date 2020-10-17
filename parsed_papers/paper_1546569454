@@ -1,0 +1,59 @@
+{
+    "id": "1546569454",
+    "title": "A family of high-performance matrix multiplication algorithms",
+    "venue": "parallel computing",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "John A. Gunnels",
+            "id": "2402633652",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Fred G. Gustavson",
+            "id": "2077030820",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Greg Henry",
+            "id": "2132565796",
+            "org": "Intel Corporation#TAB#"
+        },
+        {
+            "name": "Robert A. van de Geijn",
+            "id": "226597869",
+            "org": "The University of Texas, Austin#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Matrix multiplication",
+        "Parallel computing",
+        "Algorithm",
+        "Memory hierarchy",
+        "Matrix (mathematics)",
+        "Matrix calculus",
+        "Parallel algorithm",
+        "Loop nest optimization",
+        "CPU cache",
+        "Operand"
+    ],
+    "references": [
+        "1512166633",
+        "1516000274",
+        "1584723861",
+        "1780740738",
+        "1972209410",
+        "1972501001",
+        "1975244539",
+        "1986334759",
+        "2002257715",
+        "2026237859",
+        "2079658918",
+        "2121449989",
+        "2135653967",
+        "2166737459",
+        "2534273435",
+        "2548341626"
+    ]
+}

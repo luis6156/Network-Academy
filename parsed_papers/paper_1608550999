@@ -1,0 +1,56 @@
+{
+    "id": "1608550999",
+    "title": "An O ( n 3 log log n / log 2 n ) time algorithm for all pairs shortest paths",
+    "venue": "scandinavian workshop on algorithm theory",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Yijie Han",
+            "id": "2708035237",
+            "org": "School of Computing and Engineering, University of Missouri at Kansas City, Kansas City, MO#TAB#"
+        },
+        {
+            "name": "Tadao Takaoka",
+            "id": "2168777670",
+            "org": "Department of Computer Science and Software Engineering, University of Canterbury, Christchurch, New Zealand#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Algorithm",
+        "Yen's algorithm",
+        "Floyd-Warshall algorithm",
+        "Computer science",
+        "Combinatorics",
+        "Johnson's algorithm",
+        "K shortest path routing",
+        "Log-log plot",
+        "Shortest Path Faster Algorithm",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1509653541",
+        "1544195453",
+        "1547799421",
+        "1569200683",
+        "1572758096",
+        "1574082713",
+        "1655990431",
+        "1969668378",
+        "1970052762",
+        "1999222448",
+        "1999545213",
+        "2006570180",
+        "2009283111",
+        "2028341270",
+        "2049500052",
+        "2058426370",
+        "2060919812",
+        "2065105907",
+        "2072064573",
+        "2084224084",
+        "2114365471",
+        "2136442765",
+        "2141389982",
+        "2152290683"
+    ]
+}

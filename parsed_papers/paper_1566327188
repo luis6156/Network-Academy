@@ -1,0 +1,49 @@
+{
+    "id": "1566327188",
+    "title": "A proximal Newton framework for composite minimization: Graph learning without Cholesky decompositions and matrix inversions",
+    "venue": "international conference on machine learning",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Quoc Tran Dinh",
+            "id": "2138012981",
+            "org": "LIONS, Ecole Polytechnique Federale de Lausanne, Switzerland"
+        },
+        {
+            "name": "Anastasios Kyrillidis",
+            "id": "2288456018",
+            "org": "LIONS, Ecole Polytechnique Federale de Lausanne, Switzerland"
+        },
+        {
+            "name": "Volkan Cevher",
+            "id": "162253719",
+            "org": "LIONS, Ecole Polytechnique Federale de Lausanne, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Mathematics",
+        "Composite number",
+        "Cholesky decomposition",
+        "Minimum degree algorithm",
+        "Matrix (mathematics)",
+        "Regularization (mathematics)",
+        "Convex optimization",
+        "Mathematical optimization",
+        "Rate of convergence",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "2053186586",
+        "2093042090",
+        "2100556411",
+        "2106116051",
+        "2116805437",
+        "2123499997",
+        "2123503703",
+        "2131237233",
+        "2148974830",
+        "2151128232"
+    ]
+}

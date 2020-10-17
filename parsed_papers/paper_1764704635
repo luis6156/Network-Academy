@@ -1,0 +1,77 @@
+{
+    "id": "1764704635",
+    "title": "Automated Anatomical Labeling of Bronchial Branches Extracted from CT Datasets Based on Machine Learning and Combination Optimization and Its Application to Bronchoscope Guidance",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Kensaku Mori",
+            "id": "2129174359",
+            "org": "Graduate School of Information Science, Nagoya University, and Innovative Research Center for Preventive Medical Engineering, Nagoya University,#TAB#"
+        },
+        {
+            "name": "Shunsuke Ota",
+            "id": "2169584387",
+            "org": "Graduate School of Information Science, Nagoya University,#TAB#"
+        },
+        {
+            "name": "Daisuke Deguchi",
+            "id": "1245985325",
+            "org": "Graduate School of Information Science, Nagoya University,#TAB#"
+        },
+        {
+            "name": "Takayuki Kitasaka",
+            "id": "2683580630",
+            "org": "Innovative Research Center for Preventive Medical Engineering, Nagoya University, and Faculty of Management and Information Science, Aichi Institute of Technology,#TAB#"
+        },
+        {
+            "name": "Yasuhito Suenaga",
+            "id": "1214507488",
+            "org": "Graduate School of Information Science, Nagoya University, and Innovative Research Center for Preventive Medical Engineering, Nagoya University,#TAB#"
+        },
+        {
+            "name": "Shingo Iwano",
+            "id": "2070498338",
+            "org": "Graduate School of Medicine, Nagoya University,#TAB#"
+        },
+        {
+            "name": "Yosihnori Hasegawa",
+            "id": "2163516881",
+            "org": "Innovative Research Center for Preventive Medical Engineering, Nagoya University, and Graduate School of Medicine, Nagoya University,#TAB#"
+        },
+        {
+            "name": "Hirotsugu Takabatake",
+            "id": "2013594605",
+            "org": "Sapporo Minami-Sanjyo Hospital,#TAB#"
+        },
+        {
+            "name": "Masaki Mori",
+            "id": "2144267689",
+            "org": "Sapporo Kosei Hospital,#TAB#"
+        },
+        {
+            "name": "Hiroshi Natori",
+            "id": "2192534209",
+            "org": "Nishioka Hospital,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "AdaBoost",
+        "Computer vision",
+        "Pattern recognition",
+        "Tree structure",
+        "Computer science",
+        "Bronchoscopy",
+        "Lobe",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1497143265",
+        "1555140890",
+        "2115857118",
+        "2117048269",
+        "2143944689",
+        "2159751112"
+    ]
+}

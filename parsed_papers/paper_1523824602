@@ -1,0 +1,69 @@
+{
+    "id": "1523824602",
+    "title": "Synchronization-Free automatic parallelization: beyond affine iteration-space slicing",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Anna Beletska",
+            "id": "2808765260",
+            "org": "INRIA Saclay, France#TAB#"
+        },
+        {
+            "name": "Wlodzimierz Bielecki",
+            "id": "2809598546",
+            "org": "West-Pomeranian Technical University, Poland#TAB#"
+        },
+        {
+            "name": "Albert Cohen",
+            "id": "2187997294",
+            "org": "INRIA Saclay, France#TAB#"
+        },
+        {
+            "name": "Marek Palkowski",
+            "id": "2808800367",
+            "org": "West-Pomeranian Technical University, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nested loop join",
+        "Transitive closure",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Slicing",
+        "Computer science",
+        "Topological graph theory",
+        "Polyhedron",
+        "Affine transformation",
+        "Hybrid automaton",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1486289306",
+        "1491240559",
+        "1532358383",
+        "1533186609",
+        "1550288578",
+        "1558997143",
+        "1567153395",
+        "1573046885",
+        "1581022180",
+        "1605124887",
+        "1623282124",
+        "1970141743",
+        "1975104688",
+        "1995270665",
+        "1999346024",
+        "2015478888",
+        "2026220934",
+        "2038543880",
+        "2062917934",
+        "2074559757",
+        "2076485607",
+        "2108228116",
+        "2118884205",
+        "2119273798",
+        "2147340401",
+        "2157324177"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": "1548437048",
+    "title": "Achieving superlinear speedups for the multiple polynomial quadratic sieve factoring algorithm on a distributed memory multiprocessor",
+    "venue": "CONPAR 90 Proceedings of the joint international conference on Vector and parallel processing",
+    "year": 1990,
+    "authors": [
+        {
+            "name": "Michel Cosnard",
+            "id": "71046053",
+            "org": "LIP - IMAG - Ecole Normale Superieure de Lyon"
+        },
+        {
+            "name": "Jean-Laurent Philippe",
+            "id": "2123214429",
+            "org": "LIP - IMAG - Ecole Normale Superieure de Lyon"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Parallel computing",
+        "Algorithm",
+        "Factor base",
+        "Multiprocessing",
+        "Quadratic sieve",
+        "Distributed memory",
+        "Hypercube",
+        "Gaussian elimination",
+        "Sieve",
+        "Mathematical optimization",
+        "Polynomial"
+    ],
+    "references": [
+        "1489753182",
+        "1512680026",
+        "1593711380",
+        "1987239048",
+        "2071483197",
+        "2079530345",
+        "2161964967",
+        "2179913373"
+    ]
+}

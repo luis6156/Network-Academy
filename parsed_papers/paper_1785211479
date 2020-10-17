@@ -1,0 +1,50 @@
+{
+    "id": "1785211479",
+    "title": "Approximate string matching in LDAP based on edit distance",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Chi-Chien Pan",
+            "id": "2140602461",
+            "org": "Department of Computer Science and Information Engineering|National Taiwan University"
+        },
+        {
+            "name": "Kai-Hsiang Yang",
+            "id": "2109830029",
+            "org": "Department of Computer Science and Information Engineering|National Taiwan University"
+        },
+        {
+            "name": "Tzao-Lin Lee",
+            "id": "2696750982",
+            "org": "Department of Computer Science and Information Engineering|National Taiwan University"
+        }
+    ],
+    "fields_of_study": [
+        "String metric",
+        "Theoretical computer science",
+        "Algorithm design",
+        "Distributed computing",
+        "Computer science",
+        "Soundex",
+        "String-to-string correction problem",
+        "Wagner-Fischer algorithm",
+        "Data structure",
+        "Edit distance",
+        "Approximate string matching"
+    ],
+    "references": [
+        "230099169",
+        "1554174647",
+        "1557257771",
+        "1887000090",
+        "1971927246",
+        "1974708980",
+        "2001496424",
+        "2012010763",
+        "2026054568",
+        "2055417893",
+        "2135574162",
+        "2161936973"
+    ]
+}

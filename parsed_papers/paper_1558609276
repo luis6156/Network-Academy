@@ -1,0 +1,47 @@
+{
+    "id": "1558609276",
+    "title": "Differential-Linear Cryptanalysis of Serpent",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Eli Biham",
+            "id": "34241300",
+            "org": "Technion"
+        },
+        {
+            "name": "Orr Dunkelman",
+            "id": "2074518692",
+            "org": "Technion"
+        },
+        {
+            "name": "Nathan Keller",
+            "id": "2039105092",
+            "org": "Technion"
+        }
+    ],
+    "fields_of_study": [
+        "Ciphertext-only attack",
+        "Mathematics",
+        "XSL attack",
+        "Interpolation attack",
+        "Integral cryptanalysis",
+        "Algorithm",
+        "Boomerang attack",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "Differential-linear attack"
+    ],
+    "references": [
+        "52191336",
+        "1518406241",
+        "1532041351",
+        "1540066842",
+        "1598870173",
+        "1862865750",
+        "1870015754",
+        "1964723977",
+        "1979802565",
+        "2615126819"
+    ]
+}

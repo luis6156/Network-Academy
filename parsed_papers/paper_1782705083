@@ -1,0 +1,38 @@
+{
+    "id": "1782705083",
+    "title": "Processor Verification with Precise Exeptions and Speculative Execution",
+    "venue": "computer aided verification",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Jun Sawada",
+            "id": "2665536067",
+            "org": "University of Texas at Austin"
+        },
+        {
+            "name": "Warren A. Hunt",
+            "id": "2095896588",
+            "org": "IBM Austin Research Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Speculative execution",
+        "Formal verification",
+        "Algorithm",
+        "Computer science",
+        "ACL2",
+        "Microarchitecture",
+        "Real-time computing",
+        "Correctness",
+        "Systems architecture",
+        "Systems design",
+        "Re-order buffer"
+    ],
+    "references": [
+        "1498855130",
+        "1555915743",
+        "2006120207",
+        "2095572512",
+        "2115348053"
+    ]
+}

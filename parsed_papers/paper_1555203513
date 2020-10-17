@@ -1,0 +1,40 @@
+{
+    "id": "1555203513",
+    "title": "Scaled CGEM: a fast accelerated EM",
+    "venue": "european conference on machine learning",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jorg Fischer",
+            "id": "2419154482",
+            "org": "Institute for Computer Science, Machine Learning Lab, Albert-Ludwigs-University, Freiburg i. Brg., Germany#TAB#"
+        },
+        {
+            "name": "Kristian Kersting",
+            "id": "2252032993",
+            "org": "Institute for Computer Science, Machine Learning Lab, Albert-Ludwigs-University, Freiburg i. Brg., Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Conjugate gradient method",
+        "Missing data",
+        "Bayesian network",
+        "Line search",
+        "Expectation-maximization algorithm",
+        "Scaling",
+        "Fisher information",
+        "Artificial neural network",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1505477995",
+        "1518054784",
+        "1593254146",
+        "1754776789",
+        "1780353274",
+        "1801737117",
+        "1980452149",
+        "2159080219"
+    ]
+}

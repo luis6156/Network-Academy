@@ -1,0 +1,80 @@
+{
+    "id": "1604726995",
+    "title": "A Comparative Analysis of Scheduling Mechanisms for Virtual Screening Workflow in a Shared Resource Environment",
+    "venue": "ieee/acm international symposium cluster, cloud and grid computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jik-Soo Kim",
+            "id": "2274480265",
+            "org": "Nat. Inst. of Supercomput. & Networking, KISTI Daejeon, Daejeon, South Korea"
+        },
+        {
+            "name": "Seungwoo Rho",
+            "id": "2155722118",
+            "org": "Nat. Inst. of Supercomput. & Networking, KISTI Daejeon, Daejeon, South Korea"
+        },
+        {
+            "name": "Seoyoung Kim",
+            "id": "2111270476",
+            "org": "Nat. Inst. of Supercomput. & Networking, KISTI Daejeon, Daejeon, South Korea"
+        },
+        {
+            "name": "Sangwan Kim",
+            "id": "2686931663",
+            "org": "Lab. de Phys. Corpusculaire, France"
+        },
+        {
+            "name": "Soonwook Hwang",
+            "id": "2123787071",
+            "org": "Lab. de Phys. Corpusculaire, France"
+        },
+        {
+            "name": "Emmanuel Medernach",
+            "id": "2019781334",
+            "org": "Lab. de Phys. Corpusculaire, France"
+        },
+        {
+            "name": "Vincent Breton",
+            "id": "2302821017",
+            "org": "Lab. de Phys. Corpusculaire, France"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "Many-task computing",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Virtual screening",
+        "Dynamic priority scheduling",
+        "Middleware",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1558306065",
+        "1571646234",
+        "1585314083",
+        "1603731243",
+        "2006887358",
+        "2017166153",
+        "2027482274",
+        "2042854825",
+        "2073326936",
+        "2076127975",
+        "2082853993",
+        "2103363198",
+        "2103803358",
+        "2104704206",
+        "2108599535",
+        "2111908613",
+        "2119738171",
+        "2123130398",
+        "2123134606",
+        "2142863519",
+        "2148317584",
+        "2173213060"
+    ]
+}

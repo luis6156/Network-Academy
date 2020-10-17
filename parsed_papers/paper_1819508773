@@ -1,0 +1,49 @@
+{
+    "id": "1819508773",
+    "title": "Practical threshold signatures without random oracles",
+    "venue": "provable security",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jin Li",
+            "id": "2257074422",
+            "org": "International Research center for Information Security, Information and Communications University, Daejeon, Korea#TAB#"
+        },
+        {
+            "name": "Tsz Hon Yuen",
+            "id": "2157733878",
+            "org": "School of Information Technology and Computer Science, University of Wollongong, NSW, Australia#TAB#"
+        },
+        {
+            "name": "Kwangjo Kim",
+            "id": "2421077175",
+            "org": "International Research center for Information Security, Information and Communications University, Daejeon, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Blind signature",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "EdDSA",
+        "Schnorr signature",
+        "Random oracle",
+        "Merkle signature scheme",
+        "Ring signature",
+        "ElGamal signature scheme"
+    ],
+    "references": [
+        "174706587",
+        "1526778951",
+        "1541239915",
+        "1546996295",
+        "1592092778",
+        "1757892214",
+        "1885156594",
+        "2019616576",
+        "2113929724",
+        "2116881075",
+        "2141420453",
+        "2168970529"
+    ]
+}

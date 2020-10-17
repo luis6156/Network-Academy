@@ -1,0 +1,79 @@
+{
+    "id": "1492789543",
+    "title": "A hybrid method for airway segmentation and automated measurement of bronchial wall thickness on CT",
+    "venue": "Medical Image Analysis",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ziyue Xu",
+            "id": "2144854313",
+            "org": "Center for Infectious Disease Imaging (CIDI), Radiology and Imaging Science Department, National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+        },
+        {
+            "name": "Ulas Bagci",
+            "id": "1162469211",
+            "org": "Center for Research in Computer Vision (CRCV), Department of Computer Science, University of Central Florida (UCF), Orlando, FL 32816, United States"
+        },
+        {
+            "name": "Brent Foster",
+            "id": "2192768951",
+            "org": "Center for Infectious Disease Imaging (CIDI), Radiology and Imaging Science Department, National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+        },
+        {
+            "name": "Awais Mansoor",
+            "id": "2170481910",
+            "org": "Center for Infectious Disease Imaging (CIDI), Radiology and Imaging Science Department, National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+        },
+        {
+            "name": "Jayaram K. Udupa",
+            "id": "36542275",
+            "org": "Department of Radiology, University of Pennsylvania, Philadelphia, PA 19104, United States"
+        },
+        {
+            "name": "Daniel J. Mollura",
+            "id": "236967710",
+            "org": "Center for Infectious Disease Imaging (CIDI), Radiology and Imaging Science Department, National Institutes of Health (NIH), Bethesda, MD 20892, United States"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Infectious Lung Diseases",
+        "Segmentation",
+        "Computer vision",
+        "Pattern recognition",
+        "High-resolution computed tomography",
+        "Tree structure",
+        "Data set",
+        "Airway",
+        "Lumen (unit)",
+        "Phase congruency",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "22079571",
+        "130387664",
+        "166863747",
+        "175563506",
+        "182202747",
+        "1582842690",
+        "1777631236",
+        "1870947790",
+        "1988977196",
+        "1989503120",
+        "1990457853",
+        "2006265748",
+        "2024536942",
+        "2045898750",
+        "2047461330",
+        "2078687025",
+        "2101975343",
+        "2111744777",
+        "2113622874",
+        "2125637308",
+        "2129534965",
+        "2136057478",
+        "2150398959",
+        "2156769441",
+        "2166050869"
+    ]
+}

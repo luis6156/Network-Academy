@@ -1,0 +1,45 @@
+{
+    "id": "1561387739",
+    "title": "XSS-GUARD: Precise Dynamic Prevention of Cross-Site Scripting Attacks",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Prithvi Bisht",
+            "id": "1965174876",
+            "org": "Systems and Internet Security Lab, Department of Computer Science, University of Illinois, Chicago,#TAB#"
+        },
+        {
+            "name": "V. N. Venkatakrishnan",
+            "id": "2036717930",
+            "org": "Systems and Internet Security Lab, Department of Computer Science, University of Illinois, Chicago,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Server-side",
+        "Data validation",
+        "Computer science",
+        "Guard (information security)",
+        "Computer security",
+        "Web application",
+        "Exploit",
+        "Scripting language",
+        "Cross-site scripting"
+    ],
+    "references": [
+        "109951691",
+        "1222699389",
+        "1505465226",
+        "1511560695",
+        "1582331515",
+        "1598083179",
+        "1975428729",
+        "1997389706",
+        "2078944436",
+        "2111487235",
+        "2134646643",
+        "2144696387",
+        "2162316255"
+    ]
+}

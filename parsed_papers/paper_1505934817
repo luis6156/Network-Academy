@@ -1,0 +1,51 @@
+{
+    "id": "1505934817",
+    "title": "High-Order attacks against the exponent splitting protection",
+    "venue": "public key cryptography",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Frederic Muller",
+            "id": "2165156849",
+            "org": "HSBC, France#TAB#"
+        },
+        {
+            "name": "Frederic Valette",
+            "id": "1898783707",
+            "org": "CELAR, RENNES, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Exponent",
+        "Side channel attack",
+        "Exponentiation",
+        "Countermeasure",
+        "Discrete mathematics",
+        "Computer science",
+        "Passive attack",
+        "Elliptic curve cryptography",
+        "Modular exponentiation",
+        "Fault injection"
+    ],
+    "references": [
+        "131640530",
+        "1497375467",
+        "1511843316",
+        "1515945839",
+        "1519947494",
+        "1540529576",
+        "1543701437",
+        "1546849562",
+        "1548656471",
+        "1565369953",
+        "1613874182",
+        "1664808737",
+        "1897761346",
+        "1996360405",
+        "2141420453",
+        "2141469508",
+        "2154909745",
+        "2168356719",
+        "2612208439"
+    ]
+}

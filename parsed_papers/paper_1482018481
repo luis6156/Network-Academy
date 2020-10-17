@@ -1,0 +1,64 @@
+{
+    "id": "1482018481",
+    "title": "Group signature implies PKE with non-interactive opening and threshold PKE",
+    "venue": "international workshop on security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Keita Emura",
+            "id": "2063418278",
+            "org": "Center for Highly Dependable Embedded Systems Technology, Japan Advanced Institute of Science and Technology, Nomi, Ishikawa, Japan#TAB#"
+        },
+        {
+            "name": "Goichiro Hanaoka",
+            "id": "1896382425",
+            "org": "Research Center for Information Security, National Institute of Advanced Industrial Science and Technology, Chiyoda, Tokyo, Japan#TAB#"
+        },
+        {
+            "name": "Yusuke Sakai",
+            "id": "2120099836",
+            "org": "Graduate School of Information and Communication Engineering, The University of Electro-Communications, Chofu-shi, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Computer science",
+        "Distributed computing",
+        "Computer security",
+        "Random oracle",
+        "Public-key cryptography",
+        "Internet privacy",
+        "Group signature"
+    ],
+    "references": [
+        "17749334",
+        "1493267831",
+        "1532186359",
+        "1532295511",
+        "1548963432",
+        "1574256401",
+        "1587773402",
+        "1587945298",
+        "1710991894",
+        "1821600963",
+        "1854738139",
+        "1906615496",
+        "1987975907",
+        "2034313414",
+        "2057636642",
+        "2060456500",
+        "2074594718",
+        "2110326321",
+        "2116881075",
+        "2129359810",
+        "2130056156",
+        "2135656098",
+        "2141395382",
+        "2141420453",
+        "2159339434",
+        "2163614799",
+        "2607627035",
+        "2610931382"
+    ]
+}

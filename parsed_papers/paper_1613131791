@@ -1,0 +1,56 @@
+{
+    "id": "1613131791",
+    "title": "Using solid state drives as a mid-tier cache in enterprise database OLTP applications",
+    "venue": "tpc technology conference",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Badriddine Khessib",
+            "id": "1246636516",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Kushagra Vaid",
+            "id": "2057572943",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Sriram Sankar",
+            "id": "2171151519",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        },
+        {
+            "name": "Chengliang Zhang",
+            "id": "2714789772",
+            "org": "Microsoft Corporation, Redmond, WA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Online transaction processing",
+        "Parallel computing",
+        "Software",
+        "Memory hierarchy",
+        "Computer science",
+        "Transaction processing",
+        "Database",
+        "Real-time computing",
+        "Solid-state drive",
+        "Total cost of ownership",
+        "Cost efficiency"
+    ],
+    "references": [
+        "1612371111",
+        "1981029608",
+        "1990946453",
+        "2038619757",
+        "2058178853",
+        "2071364162",
+        "2079369525",
+        "2092614923",
+        "2095905546",
+        "2119331217",
+        "2141048674",
+        "2341964175"
+    ]
+}

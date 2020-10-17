@@ -1,0 +1,73 @@
+{
+    "id": "1630146767",
+    "title": "Massively multithreaded maxflow for image segmentation on the Cray XMT-2",
+    "venue": "Concurrency and Computation: Practice and Experience",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Shahid H. Bokhari",
+            "id": "2310474497",
+            "org": "Algopath LLC, Cupertino, CA 95014, USA#TAB#"
+        },
+        {
+            "name": "Umit V. Catalyurek",
+            "id": "244960322",
+            "org": "Department of Biomedical Informatics and Electrical & Computer Engineering, The Ohio State University, Columbus, OH 43210, USA#TAB#"
+        },
+        {
+            "name": "Metin N. Gurcan",
+            "id": "2073558761",
+            "org": "Department of Biomedical Informatics, The Ohio State University, Columbus, OH 43210, USA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Massively parallel",
+        "Supercomputer",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computer science",
+        "Distributed computing",
+        "Cray XMT",
+        "Image segmentation",
+        "Multithreading",
+        "Digital image",
+        "Architecture"
+    ],
+    "references": [
+        "321794269",
+        "1588437534",
+        "1737501191",
+        "1754904414",
+        "1968767190",
+        "1994609277",
+        "2007389171",
+        "2010576683",
+        "2045144252",
+        "2055058950",
+        "2058328643",
+        "2081040934",
+        "2083147924",
+        "2090359754",
+        "2101939815",
+        "2113137767",
+        "2119300483",
+        "2119653719",
+        "2123269393",
+        "2124155137",
+        "2125950518",
+        "2129362674",
+        "2134436132",
+        "2139860988",
+        "2141662114",
+        "2149342630",
+        "2152216760",
+        "2152907584",
+        "2156252638",
+        "2157443293",
+        "2160685564",
+        "2164041305",
+        "2166612895",
+        "2566666872"
+    ]
+}

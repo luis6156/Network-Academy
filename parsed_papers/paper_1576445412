@@ -1,0 +1,53 @@
+{
+    "id": "1576445412",
+    "title": "Improving Microaggregation for Complex Record Anonymization",
+    "venue": "modeling decisions for artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jordi Pont-Tuset",
+            "id": "2311818099",
+            "org": "DAMA-UPC, Computer Architecture Dept., Universitat Politecnica de Catalunya, Barcelona, Spain 08034#TAB#"
+        },
+        {
+            "name": "Jordi Nin",
+            "id": "2145810119",
+            "org": "IIIA, Artificial Intelligence Research Institute CSIC, Spanish National Research Council, Bellaterra, Spain 08193#TAB#"
+        },
+        {
+            "name": "Pau Medrano-Gracia",
+            "id": "1655718471",
+            "org": "DAMA-UPC, Computer Architecture Dept., Universitat Politecnica de Catalunya, Barcelona, Spain 08034#TAB#"
+        },
+        {
+            "name": "Josep-lluis Larriba-pey",
+            "id": "2105659415",
+            "org": "DAMA-UPC, Computer Architecture Dept., Universitat Politecnica de Catalunya, Barcelona, Spain 08034#TAB#"
+        },
+        {
+            "name": "Victor Muntes-Mulero",
+            "id": "269041426",
+            "org": "DAMA-UPC, Computer Architecture Dept., Universitat Politecnica de Catalunya, Barcelona, Spain 08034#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Microdata (HTML)",
+        "Centroid",
+        "Anonymity",
+        "k-anonymity",
+        "Data mining",
+        "Computer science"
+    ],
+    "references": [
+        "1484545941",
+        "2067620714",
+        "2101460029",
+        "2113427031",
+        "2119047901",
+        "2129751437",
+        "2137213577",
+        "2152993171",
+        "2159024459",
+        "2170398441"
+    ]
+}

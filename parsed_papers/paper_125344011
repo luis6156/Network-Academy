@@ -1,0 +1,55 @@
+{
+    "id": "125344011",
+    "title": "An SSH-based toolkit for user-based network services",
+    "venue": "usenix large installation systems administration conference",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Joyita Sikder",
+            "id": "2438702515",
+            "org": "Univ. of Illinois at Chicago#TAB#"
+        },
+        {
+            "name": "Manigandan Radhakrishnan",
+            "id": "2424224528",
+            "org": "VMware#TAB#"
+        },
+        {
+            "name": "Jon A. Solworth",
+            "id": "2309926570",
+            "org": "Univ. of Illinois at Chicago#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Application server",
+        "Network Access Control",
+        "Authentication protocol",
+        "Source code",
+        "Computer science",
+        "Remainder",
+        "Distributed computing",
+        "Privilege separation",
+        "Authentication"
+    ],
+    "references": [
+        "6385438",
+        "48010649",
+        "55937681",
+        "60530214",
+        "1590096238",
+        "1591051730",
+        "1809664600",
+        "1958859150",
+        "1969794418",
+        "1996360405",
+        "2026879388",
+        "2095881341",
+        "2132185316",
+        "2136119519",
+        "2146749986",
+        "2146750633",
+        "2166975838",
+        "2282318976"
+    ]
+}

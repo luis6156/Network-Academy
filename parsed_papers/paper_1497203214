@@ -1,0 +1,51 @@
+{
+    "id": "1497203214",
+    "title": "A new public key broadcast encryption using Boneh-Boyen-Goh's HIBE scheme",
+    "venue": "information security practice and experience",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Jong Hwan Park",
+            "id": "2723822304",
+            "org": "Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Dong Hoon Lee",
+            "id": "2645991814",
+            "org": "Center for Information Security Technologies, Korea University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Keyfile",
+        "Theoretical computer science",
+        "40-bit encryption",
+        "Computer science",
+        "Computer security",
+        "Key Wrap",
+        "Ciphertext indistinguishability",
+        "56-bit encryption",
+        "Deterministic encryption",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "1486107224",
+        "1495266644",
+        "1508689723",
+        "1522268755",
+        "1534748576",
+        "1596144702",
+        "1793265733",
+        "1905774212",
+        "2034313414",
+        "2086042811",
+        "2097638666",
+        "2116556172",
+        "2117685508",
+        "2145255308",
+        "2152924492",
+        "2164052311",
+        "2168571148",
+        "2610275508"
+    ]
+}

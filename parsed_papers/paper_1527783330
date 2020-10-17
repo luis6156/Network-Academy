@@ -1,0 +1,67 @@
+{
+    "id": "1527783330",
+    "title": "Simultaneous Model-Based Segmentation of Multiple Objects",
+    "venue": "Bildverarbeitung f&uuml;r die Medizin",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Astrid Franz",
+            "id": "2188365202",
+            "org": "Philips Research Europe - Hamburg"
+        },
+        {
+            "name": "Robin Wolz",
+            "id": "2779133039",
+            "org": "Philips Research Europe - Hamburg"
+        },
+        {
+            "name": "Tobias Klinder",
+            "id": "2094625634",
+            "org": "Philips Research Europe - Hamburg"
+        },
+        {
+            "name": "Cristian Lorenz",
+            "id": "2104394241",
+            "org": "Philips Research Europe - Hamburg"
+        },
+        {
+            "name": "Hans Barschdorf",
+            "id": "1204925637",
+            "org": "Philips Research Europe - Hamburg"
+        },
+        {
+            "name": "Thomas Blaffert",
+            "id": "153376015",
+            "org": "Philips Research Europe - Hamburg"
+        },
+        {
+            "name": "Sebastian Peter Michael Dries",
+            "id": "2167053397",
+            "org": "Philips Research Europe - Hamburg"
+        },
+        {
+            "name": "Steffen Renisch",
+            "id": "1969692250",
+            "org": "Philips Research Europe - Hamburg"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Computer vision",
+        "Polygon mesh",
+        "Pattern recognition",
+        "Computer science",
+        "Scale-space segmentation",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1482417937",
+        "1508664185",
+        "1581328655",
+        "1600107057",
+        "1931897168",
+        "1964201328",
+        "2099290282",
+        "2135191473"
+    ]
+}

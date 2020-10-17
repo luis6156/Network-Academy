@@ -1,0 +1,76 @@
+{
+    "id": "1815088304",
+    "title": "Checkpoint/restart-enabled parallel debugging",
+    "venue": "EuroMPI'10 Proceedings of the 17th European MPI users' group meeting conference on Recent advances in the message passing interface",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Joshua Hursey",
+            "id": "1513549892",
+            "org": "Open Systems Laboratory, Indiana University#TAB#"
+        },
+        {
+            "name": "Chris January",
+            "id": "2048188831",
+            "org": "Allinea Software Ltd.#TAB#"
+        },
+        {
+            "name": "Mark O'Connor",
+            "id": "2285531538",
+            "org": "Allinea Software Ltd.#TAB#"
+        },
+        {
+            "name": "Paul Hargrove",
+            "id": "2018597733",
+            "org": "Lawrence Berkeley National Laboratory#TAB#"
+        },
+        {
+            "name": "David Lecomber",
+            "id": "2586912535",
+            "org": "Allinea Software Ltd.#TAB#"
+        },
+        {
+            "name": "Jeffrey M. Squyres",
+            "id": "169428505",
+            "org": "Cisco Systems, Inc.#TAB#"
+        },
+        {
+            "name": "Andrew Lumsdaine",
+            "id": "2140207053",
+            "org": "Open Systems Laboratory, Indiana University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software development",
+        "Background debug mode interface",
+        "Computer science",
+        "Distributed computing",
+        "Algorithmic program debugging",
+        "Implementation",
+        "Message Passing Interface",
+        "Shotgun debugging",
+        "Design specification",
+        "Operating system",
+        "Debugging"
+    ],
+    "references": [
+        "1516416232",
+        "1643342729",
+        "1730721998",
+        "1780860177",
+        "1965091139",
+        "1969215126",
+        "1979117305",
+        "2044906492",
+        "2073720444",
+        "2082498963",
+        "2083796365",
+        "2100970777",
+        "2108208207",
+        "2118697699",
+        "2131053137",
+        "2155662278",
+        "2162351670",
+        "2170454619"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "12570917",
+    "title": "Instrumenting C programs with nested word monitors",
+    "venue": "international spin conference on model checking software",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Swarat Chaudhuri",
+            "id": "2153285360",
+            "org": "University of Pennsylvania#TAB#"
+        },
+        {
+            "name": "Rajeev Alur",
+            "id": "689646243",
+            "org": "University of Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Specification language",
+        "Control flow",
+        "Computer science",
+        "System model",
+        "Runtime verification",
+        "Real-time computing",
+        "Model checking",
+        "Nested word",
+        "Finite-state machine",
+        "Assertion",
+        "Programming language"
+    ],
+    "references": [
+        "1535237014",
+        "1556262481",
+        "1556462035",
+        "1964830323",
+        "2115309705",
+        "2131886132",
+        "2166985644",
+        "2466269612"
+    ]
+}

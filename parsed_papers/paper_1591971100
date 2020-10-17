@@ -1,0 +1,48 @@
+{
+    "id": "1591971100",
+    "title": "Hash Functions Based on Block Ciphers and Quaternary Codes",
+    "venue": "international cryptology conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Lars R. Knudsen",
+            "id": "2035224540",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "SHA-2",
+        "Discrete mathematics",
+        "Hash chain",
+        "Security of cryptographic hash functions",
+        "Collision attack",
+        "Hash function",
+        "Double hashing",
+        "MDC-2",
+        "Collision resistance"
+    ],
+    "references": [
+        "1488885050",
+        "1542068190",
+        "1547537489",
+        "1549228503",
+        "1600432225",
+        "1872065828",
+        "1926480282",
+        "1972792640",
+        "2026522166",
+        "2048061709",
+        "2098801947",
+        "2134518741",
+        "2168631744",
+        "2172433705",
+        "2208910531"
+    ]
+}

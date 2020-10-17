@@ -1,0 +1,41 @@
+{
+    "id": "1519082146",
+    "title": "PARSHA-256 - A New Parallelizable Hash Function and a Multithreaded Implementation",
+    "venue": "fast software encryption",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Pinakpani Pal",
+            "id": "2206670607",
+            "org": "Cryptology Research Group ECSU and ASU Indian Statistical Institute"
+        },
+        {
+            "name": "Palash Sarkar",
+            "id": "2126988666",
+            "org": "Cryptology Research Group ECSU and ASU Indian Statistical Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Parallel computing",
+        "Parallelizable manifold",
+        "Binary tree",
+        "Concurrent computing",
+        "Computer science",
+        "Concurrency",
+        "Hash function",
+        "Parallel algorithm",
+        "Collision"
+    ],
+    "references": [
+        "1495653136",
+        "1549228503",
+        "1600432225",
+        "1650977141",
+        "2090135172",
+        "2100762331",
+        "2104633167",
+        "2158794453",
+        "2504511403"
+    ]
+}

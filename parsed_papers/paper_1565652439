@@ -1,0 +1,62 @@
+{
+    "id": "1565652439",
+    "title": "Safe-error attack on SPA-FA resistant exponentiations using a HW modular multiplier",
+    "venue": "international conference on information security and cryptology",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Chong Hee Kim",
+            "id": "2223378643",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Jong Hoon Shin",
+            "id": "2100348427",
+            "org": "Dept. of Electronic and Electrical Eng., POSTECH, Pohang, Korea#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Universite Catholique de Louvain, Belgium#TAB#"
+        },
+        {
+            "name": "Pil Joong Lee",
+            "id": "2139910894",
+            "org": "Dept. of Electronic and Electrical Eng., POSTECH, Pohang, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Parallel computing",
+        "Computer science",
+        "Timing attack",
+        "Power analysis",
+        "Real-time computing",
+        "Modular arithmetic",
+        "Modular exponentiation",
+        "Smart card",
+        "Modular design"
+    ],
+    "references": [
+        "1495447492",
+        "1521788351",
+        "1554128539",
+        "1570388754",
+        "1584975026",
+        "1613874182",
+        "1664808737",
+        "2026436569",
+        "2066425771",
+        "2096133993",
+        "2105114022",
+        "2111725598",
+        "2117317147",
+        "2129280880",
+        "2144952508",
+        "2145386488",
+        "2155441237",
+        "2161198480"
+    ]
+}

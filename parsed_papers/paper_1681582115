@@ -1,0 +1,38 @@
+{
+    "id": "1681582115",
+    "title": "An Efficient State Recovery Attack on X-FCSR-256",
+    "venue": "fast software encryption",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Paul Stankovski",
+            "id": "1896199137",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Lund, Sweden 221 00#TAB#"
+        },
+        {
+            "name": "Martin Hell",
+            "id": "2097958848",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Lund, Sweden 221 00#TAB#"
+        },
+        {
+            "name": "Thomas Johansson",
+            "id": "2289389470",
+            "org": "Dept. of Electrical and Information Technology, Lund University, Lund, Sweden 221 00#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Fluhrer, Mantin and Shamir attack",
+        "Computer science",
+        "Stream cipher",
+        "Stream cipher attack"
+    ],
+    "references": [
+        "1502317825",
+        "1566252749",
+        "1573567540",
+        "1584542188",
+        "2132247054"
+    ]
+}

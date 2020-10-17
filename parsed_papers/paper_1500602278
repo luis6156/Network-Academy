@@ -1,0 +1,43 @@
+{
+    "id": "1500602278",
+    "title": "Expected distortion of dct-coefficients in video streaming over unreliable channel",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Marco Fumagalli",
+            "id": "2162333019",
+            "org": "CEFRIEL - Politecnico di Milano, Milano, Italy#TAB#"
+        },
+        {
+            "name": "Marco Tagliasacchi",
+            "id": "304913227",
+            "org": "Dip. di Elet.e Inf., Politecnico di Milano, Milano, Italy#TAB#"
+        },
+        {
+            "name": "Stefano Tubaro",
+            "id": "338905720",
+            "org": "Dip. di Elet.e Inf., Politecnico di Milano, Milano, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discrete cosine transform",
+        "Distortion",
+        "Computer science",
+        "Communication channel",
+        "Encoder",
+        "Rope",
+        "Motion vector",
+        "Image processing",
+        "Real-time computing",
+        "Packet loss"
+    ],
+    "references": [
+        "1786377235",
+        "2000235669",
+        "2120653648",
+        "2120858337",
+        "2130192161",
+        "2156498695"
+    ]
+}

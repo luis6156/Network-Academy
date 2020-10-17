@@ -1,0 +1,31 @@
+{
+    "id": "1536455114",
+    "title": "Radix-2 multi-dimensional transposition-free FFT algorithm for Modern Single Instruction Multiple Data (SIMD) architectures",
+    "venue": "european signal processing conference",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "V. Paul Rodriguez",
+            "id": "2231036255",
+            "org": "Image and Video Processing and Communication Lab (ivPCL), Department of Electrical and Computer Engineering - University of New Mexico, Albuquerque, 87131 United States of America"
+        }
+    ],
+    "fields_of_study": [
+        "Twiddle factor",
+        "Parallel computing",
+        "SIMD",
+        "Transpose",
+        "Theoretical computer science",
+        "Ranging",
+        "Split-radix FFT algorithm",
+        "Computer science",
+        "Prime-factor FFT algorithm",
+        "Fast Fourier transform",
+        "Architecture"
+    ],
+    "references": [
+        "1820775600",
+        "2138289268",
+        "2164197394"
+    ]
+}

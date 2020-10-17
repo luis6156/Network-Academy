@@ -1,0 +1,48 @@
+{
+    "id": "1559705588",
+    "title": "A Sequential Monte Carlo Method for Bayesian Analysis of Massive Datasets",
+    "venue": "Data Mining and Knowledge Discovery",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Greg Ridgeway",
+            "id": "1906399036",
+            "org": "RAND, P.O. Box 2138, Santa Monica, CA 90407-2138, USA. gregr@rand.org#TAB#"
+        },
+        {
+            "name": "David Madigan",
+            "id": "2232911153",
+            "org": "Department of Statistics, 477 Hill Center, Rutgers University, Piscataway, NJ 08855, USA. madigan@stat.rutgers.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Bayesian inference",
+        "Particle filter",
+        "Logistic regression",
+        "Remainder",
+        "Data mining",
+        "Computer science",
+        "Markov chain Monte Carlo",
+        "Importance sampling",
+        "Posterior probability",
+        "Mixture model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1480392687",
+        "1494853941",
+        "1524688041",
+        "1569279788",
+        "1602329118",
+        "1648445109",
+        "2020999234",
+        "2087221762",
+        "2100964305",
+        "2125781844",
+        "2135194391",
+        "2150962169",
+        "2156512439",
+        "2615953416"
+    ]
+}

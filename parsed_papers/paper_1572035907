@@ -1,0 +1,46 @@
+{
+    "id": "1572035907",
+    "title": "Towards distributing block ciphers computations",
+    "venue": "wireless communications and networking conference",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Andrea G. Forte",
+            "id": "2095746324",
+            "org": "AT&T Labs, USA"
+        },
+        {
+            "name": "Gianluigi Ferrari",
+            "id": "2122224181",
+            "org": "University of Parma, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Block size",
+        "Ciphertext stealing",
+        "CCM mode",
+        "Computer science",
+        "Two-square cipher",
+        "Triple DES",
+        "Differential cryptanalysis",
+        "CBC-MAC",
+        "Galois/Counter Mode",
+        "Computer network"
+    ],
+    "references": [
+        "45372631",
+        "153516704",
+        "1511189048",
+        "1539473506",
+        "1558515754",
+        "1894646615",
+        "1972328497",
+        "2045683888",
+        "2096333427",
+        "2102937091",
+        "2106335692",
+        "2112244944",
+        "2129542188",
+        "2138356423"
+    ]
+}

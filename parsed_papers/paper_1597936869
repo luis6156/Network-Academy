@@ -1,0 +1,30 @@
+{
+    "id": "1597936869",
+    "title": "SAFER K-64: A Byte-Oriented Block-Ciphering Algorithm",
+    "venue": "fast software encryption",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "James L. Massey",
+            "id": "1513199363",
+            "org": "Swiss Federal Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Mathematics",
+        "40-bit encryption",
+        "Theoretical computer science",
+        "Algorithm",
+        "Plaintext-aware encryption",
+        "Probabilistic encryption",
+        "Key clustering",
+        "Deterministic encryption",
+        "56-bit encryption",
+        "Attribute-based encryption"
+    ],
+    "references": [
+        "1978695162",
+        "1979802565"
+    ]
+}

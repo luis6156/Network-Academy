@@ -1,0 +1,83 @@
+{
+    "id": "1642392512",
+    "title": "Designing distributed systems using approximate synchrony in data center networks",
+    "venue": "networked systems design and implementation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Dan R. K. Ports",
+            "id": "1513655371",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Jialin Li",
+            "id": "2105191977",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Vincent Liu",
+            "id": "2062601765",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Naveen Kr. Sharma",
+            "id": "2159186294",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Arvind Krishnamurthy",
+            "id": "2088689873",
+            "org": "University of Washington#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Multicast",
+        "Throughput",
+        "Computer science",
+        "Distributed computing",
+        "Latency (engineering)",
+        "Raft",
+        "State machine replication",
+        "Network layer",
+        "Paxos",
+        "Data center",
+        "Real-time computing"
+    ],
+    "references": [
+        "100679602",
+        "192446467",
+        "1500258551",
+        "1543942291",
+        "1565495482",
+        "1577169013",
+        "1801241948",
+        "1831997210",
+        "1850597240",
+        "1893504272",
+        "1973501242",
+        "1992479210",
+        "2003214215",
+        "2013409485",
+        "2035362408",
+        "2067740651",
+        "2075854425",
+        "2077240273",
+        "2101939036",
+        "2109213558",
+        "2112564224",
+        "2121178808",
+        "2123016589",
+        "2125936380",
+        "2126087831",
+        "2126969025",
+        "2127872526",
+        "2130531694",
+        "2131929623",
+        "2139359217",
+        "2147118406",
+        "2152465173",
+        "2157614013",
+        "2168595508",
+        "2293633413"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "1495613484",
+    "title": "RaceGuard: kernel protection from temporary file race vulnerabilities",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Crispin Cowan",
+            "id": "2151486281",
+            "org": "WireX Communications, Inc.#TAB#"
+        },
+        {
+            "name": "Steve Beattie",
+            "id": "2137267308",
+            "org": "WireX Communications, Inc.#TAB#"
+        },
+        {
+            "name": "Chris Wright",
+            "id": "2508966135",
+            "org": "WireX Communications, Inc.#TAB#"
+        },
+        {
+            "name": "Greg Kroah-Hartman",
+            "id": "2641933471",
+            "org": "WireX Communications, Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Vulnerability",
+        "Computer science",
+        "Computer security",
+        "Exploit",
+        "Real-time computing",
+        "Temporary file",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1655226010",
+        "2004340162",
+        "2095881341",
+        "2145287008",
+        "2150277819",
+        "2169476734"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "103986934",
+    "title": "Guest-Transparent Prevention of Kernel Rootkits with VMM-Based Memory Shadowing",
+    "venue": "recent advances in intrusion detection",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Ryan Riley",
+            "id": "2396163602",
+            "org": "CERIAS and Department of Computer Science, Purdue University,#TAB#"
+        },
+        {
+            "name": "Xuxian Jiang",
+            "id": "2101920419",
+            "org": "Department of Computer Science, North Carolina State University,#TAB#"
+        },
+        {
+            "name": "Dongyan Xu",
+            "id": "2133101947",
+            "org": "CERIAS and Department of Computer Science, Purdue University,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Rootkit",
+        "Computer science",
+        "Hybrid kernel",
+        "Kernel preemption",
+        "Computer security",
+        "Shadow memory",
+        "Privilege level",
+        "Embedded system",
+        "Operating system",
+        "Configfs",
+        "Real-time computing",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "1112477",
+        "94181602",
+        "124732759",
+        "161166442",
+        "1504669610",
+        "1522250664",
+        "1641762327",
+        "1742385376",
+        "1829003931",
+        "1966825932",
+        "2029224396",
+        "2054840305",
+        "2081768685",
+        "2101077503",
+        "2104948281",
+        "2109219878",
+        "2111015674",
+        "2112731379",
+        "2115175416",
+        "2117882778",
+        "2142892618",
+        "2146431583",
+        "2150709728",
+        "2152507484",
+        "2154933195",
+        "2155750598",
+        "2159059513",
+        "2162800072",
+        "2166004296"
+    ]
+}

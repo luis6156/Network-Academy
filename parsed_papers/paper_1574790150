@@ -1,0 +1,57 @@
+{
+    "id": "1574790150",
+    "title": "accULL: an OpenACC implementation with CUDA and OpenCL support",
+    "venue": "international conference on parallel processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Ruym",
+            "id": "2414301500",
+            "org": "Dept. de E.I.O. y Computacion, Universidad de La Laguna, La Laguna, Spain#TAB#"
+        },
+        {
+            "name": "n Reyes",
+            "id": "2502916294",
+            "org": "Dept. de E.I.O. y Computacion, Universidad de La Laguna, La Laguna, Spain#TAB#"
+        },
+        {
+            "name": "Iv",
+            "id": "2462557177",
+            "org": "Dept. de E.I.O. y Computacion, Universidad de La Laguna, La Laguna, Spain#TAB#"
+        },
+        {
+            "name": "n Lopez-Rodriguez",
+            "id": "2410929503",
+            "org": "Dept. de E.I.O. y Computacion, Universidad de La Laguna, La Laguna, Spain#TAB#"
+        },
+        {
+            "name": "Juan J. Fumero",
+            "id": "1987825642",
+            "org": "Universidad de La Laguna"
+        },
+        {
+            "name": "Francisco de Sande",
+            "id": "2023852493",
+            "org": "Universidad de La Laguna"
+        }
+    ],
+    "fields_of_study": [
+        "Runtime library",
+        "Parallel computing",
+        "Computer architecture",
+        "Leverage (finance)",
+        "Distributed computing",
+        "Computer science",
+        "Compiler",
+        "Symmetric multiprocessor system",
+        "CUDA",
+        "Exploit"
+    ],
+    "references": [
+        "1773994630",
+        "1974519274",
+        "2018270886",
+        "2078994750",
+        "2098426571"
+    ]
+}

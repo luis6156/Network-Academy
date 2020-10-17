@@ -1,0 +1,45 @@
+{
+    "id": "1586922985",
+    "title": "Modeling of multiversion concurrency control system using Event-B",
+    "venue": "federated conference on computer science and information systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Raghuraj Suryavanshi",
+            "id": "2308494981",
+            "org": "Institute of Engineering and Technology, GBTU, Lucknow 226021, India"
+        },
+        {
+            "name": "Divakar Yadav",
+            "id": "2178748542",
+            "org": "Faculty of Mathematics and Computer Science, South Asian University, New Delhi 110067, India"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Multiversion concurrency control",
+        "Snapshot isolation",
+        "Computer science",
+        "Optimistic concurrency control",
+        "Rollback",
+        "Database",
+        "Real-time computing",
+        "Distributed concurrency control",
+        "Timestamp-based concurrency control",
+        "Isolation (database systems)"
+    ],
+    "references": [
+        "160787565",
+        "1490212646",
+        "1506978116",
+        "1511729915",
+        "1545155892",
+        "1556500444",
+        "1698768438",
+        "1972153061",
+        "2018217105",
+        "2070694647",
+        "2138824635",
+        "2435606122"
+    ]
+}

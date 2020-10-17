@@ -1,0 +1,39 @@
+{
+    "id": "1511936789",
+    "title": "From Time-Triggered to Time-Deterministic Real-Time Systems",
+    "venue": "IFIP Working Conference on Distributed and Parallel Embedded Systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Peter P. Puschner",
+            "id": "1980714858",
+            "org": "Vienna University of Technology"
+        },
+        {
+            "name": "Raimund Kirner",
+            "id": "2088947914",
+            "org": "Vienna University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow",
+        "Clock synchronization",
+        "Input/output",
+        "Software",
+        "Computer science",
+        "Distributed computing",
+        "Determinism",
+        "Static timing analysis",
+        "Real-time computing",
+        "Time-triggered architecture"
+    ],
+    "references": [
+        "1563826489",
+        "1585031979",
+        "2098933180",
+        "2099104684",
+        "2132281467",
+        "2137169528",
+        "2140311411"
+    ]
+}

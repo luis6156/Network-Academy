@@ -1,0 +1,42 @@
+{
+    "id": "1512062395",
+    "title": "An Implementation of DES and AES, Secure against Some Attacks",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Mehdi-Laurent Akkar",
+            "id": "1748474100",
+            "org": "Schlumberger CP8"
+        },
+        {
+            "name": "Christophe Giraud",
+            "id": "2154295012",
+            "org": "Oberthur Card Systems"
+        }
+    ],
+    "fields_of_study": [
+        "Masking (art)",
+        "Block cipher",
+        "Cryptography",
+        "Theoretical computer science",
+        "Countermeasure",
+        "Advanced Encryption Standard",
+        "Computer science",
+        "Distributed computing",
+        "Implementation",
+        "Power analysis",
+        "Smart card"
+    ],
+    "references": [
+        "1503689022",
+        "1548656471",
+        "1573725807",
+        "1602453119",
+        "1897761346",
+        "1987282814",
+        "2154909745",
+        "2155938490",
+        "2612208439"
+    ]
+}

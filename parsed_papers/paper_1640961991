@@ -1,0 +1,43 @@
+{
+    "id": "1640961991",
+    "title": "An improved upper bound on the expected regret of UCB-type policies for a matching-selection bandit problem",
+    "venue": "Operations Research Letters",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Ryo Watanabe",
+            "id": "2110425665",
+            "org": "Graduate School of Information Science and Technology, Hokkaido University, Kita 14, Nishi 9, Kita-ku, Sapporo 060-0814, Japan#TAB#"
+        },
+        {
+            "name": "Atsuyoshi Nakamura",
+            "id": "2894782007",
+            "org": "Graduate School of Information Science and Technology, Hokkaido University, Kita 14, Nishi 9, Kita-ku, Sapporo 060-0814, Japan#TAB#"
+        },
+        {
+            "name": "Mineichi Kudo",
+            "id": "2182998134",
+            "org": "Graduate School of Information Science and Technology, Hokkaido University, Kita 14, Nishi 9, Kita-ku, Sapporo 060-0814, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Regret",
+        "Matching (graph theory)",
+        "Combinatorics",
+        "Complete bipartite graph",
+        "M.2",
+        "Multi-armed bandit",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "1508384000",
+        "1561097743",
+        "1969357318",
+        "1981479258",
+        "2093562354",
+        "2139552971",
+        "2149342630"
+    ]
+}

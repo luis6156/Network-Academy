@@ -1,0 +1,56 @@
+{
+    "id": "1493937689",
+    "title": "Improved preimage attack for 68-step HAS-160",
+    "venue": "international conference on information security and cryptology",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Deukjo Hong",
+            "id": "2506787373",
+            "org": "The Attached Institute of ETRI#TAB#"
+        },
+        {
+            "name": "Bonwook Koo",
+            "id": "2153385751",
+            "org": "The Attached Institute of ETRI#TAB#"
+        },
+        {
+            "name": "Yu Sasaki",
+            "id": "2234126549",
+            "org": "NTT Information Sharing Platform Laboratories, NTT Corporation and The University of Electro-Communications#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "MD4",
+        "MD2",
+        "Theoretical computer science",
+        "Pre-play attack",
+        "SHA-2",
+        "Cryptographic hash function",
+        "Computer science",
+        "Collision attack",
+        "Hash function",
+        "Preimage attack"
+    ],
+    "references": [
+        "1484795761",
+        "1494920542",
+        "1499593564",
+        "1517923646",
+        "1528559652",
+        "1530387410",
+        "1533007301",
+        "1549518467",
+        "1550036077",
+        "1563951935",
+        "1568906052",
+        "1598517024",
+        "1660562555",
+        "1814882979",
+        "2110407451",
+        "2118019590",
+        "2147436724",
+        "2398733311",
+        "2521026666"
+    ]
+}

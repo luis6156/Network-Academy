@@ -1,0 +1,94 @@
+{
+    "id": "1494319617",
+    "title": "Trusted virtual domains - design, implementation and lessons learned",
+    "venue": "international conference on trusted systems",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Luigi Catuogno",
+            "id": "2237402842",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Alexandra Dmitrienko",
+            "id": "2234360275",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Konrad Eriksson",
+            "id": "2396659367",
+            "org": "IBM Research, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Dirk Kuhlmann",
+            "id": "2116942034",
+            "org": "Hewlett Packard Laboratories, Bristol, England#TAB#"
+        },
+        {
+            "name": "Gianluca Ramunno",
+            "id": "2078948204",
+            "org": "Dip. di Automatica e Informatica, Politecnico di Torino, Italy#TAB#"
+        },
+        {
+            "name": "Ahmad-Reza Sadeghi",
+            "id": "2120420677",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Steffen Schulz",
+            "id": "2112005546",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Matthias Schunter",
+            "id": "2048769069",
+            "org": "IBM Research, Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Marcel Winandy",
+            "id": "2094986108",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        },
+        {
+            "name": "Jing Zhan",
+            "id": "2309157059",
+            "org": "Horst Gortz Institute for IT Security, Ruhr-University Bochum, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Hypervisor",
+        "Microkernel",
+        "Virtualization",
+        "Trusted Computing",
+        "Computer science",
+        "Distributed computing",
+        "Abstraction layer",
+        "Security policy",
+        "Virtual machine",
+        "Architecture"
+    ],
+    "references": [
+        "6340396",
+        "161166442",
+        "1496463952",
+        "1511232353",
+        "1514236929",
+        "1529633947",
+        "1534101489",
+        "1540128709",
+        "1641762327",
+        "1729172517",
+        "1987474526",
+        "2021179554",
+        "2055529357",
+        "2065999483",
+        "2076317514",
+        "2124922306",
+        "2131726714",
+        "2150663003",
+        "2159265516",
+        "2164490659",
+        "2168084064",
+        "2540011323"
+    ]
+}

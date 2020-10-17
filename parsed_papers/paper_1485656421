@@ -1,0 +1,60 @@
+{
+    "id": "1485656421",
+    "title": "On the use of shamir's secret sharing against side-channel analysis",
+    "venue": "smart card research and advanced application conference",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2107548386",
+            "org": "Tranef, France#TAB#"
+        },
+        {
+            "name": "Emmanuel Prouff",
+            "id": "50202740",
+            "org": "ANSSI, Paris 07 SP, France#TAB#"
+        },
+        {
+            "name": "Thomas Roche",
+            "id": "2019003671",
+            "org": "ANSSI, Paris 07 SP, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Side channel attack",
+        "Countermeasure",
+        "Computer science",
+        "Computer security",
+        "Discrete Fourier transform",
+        "Shamir's Secret Sharing",
+        "Tilde"
+    ],
+    "references": [
+        "40446008",
+        "57414702",
+        "130371449",
+        "147290027",
+        "1506890909",
+        "1562362230",
+        "1592625985",
+        "1748081333",
+        "1838677899",
+        "1883495059",
+        "1915672942",
+        "1939687213",
+        "2036133214",
+        "2072356129",
+        "2112244944",
+        "2124164831",
+        "2131544010",
+        "2141420453",
+        "2147436724",
+        "2154220188",
+        "2155861318",
+        "2161740631",
+        "2170478686",
+        "2192045618",
+        "2247006822"
+    ]
+}

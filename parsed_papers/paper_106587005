@@ -1,0 +1,50 @@
+{
+    "id": "106587005",
+    "title": "Cryptanalysis of Reduced-Round SMS4 Block Cipher",
+    "venue": "australasian conference on information security and privacy",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Lei Zhang",
+            "id": "2656279517",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China 100190 and State Key Laboratory of Information Security, Graduate University o ...#TAB#"
+        },
+        {
+            "name": "Wentao Zhang",
+            "id": "2682674952",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China 100190#TAB#"
+        },
+        {
+            "name": "Wenling Wu",
+            "id": "2169613169",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, P.R. China 100190#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Block cipher",
+        "Rail fence cipher",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Computer science",
+        "Residual block termination",
+        "Two-square cipher",
+        "Higher-order differential cryptanalysis",
+        "Slide attack",
+        "CBC-MAC"
+    ],
+    "references": [
+        "52191336",
+        "150724439",
+        "1498330251",
+        "1515958737",
+        "1540066842",
+        "1629301835",
+        "1760415648",
+        "1870015754",
+        "1979802565",
+        "2113043611",
+        "2136016758",
+        "2493686639",
+        "2592352276"
+    ]
+}

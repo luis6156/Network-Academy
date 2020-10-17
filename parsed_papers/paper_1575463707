@@ -1,0 +1,52 @@
+{
+    "id": "1575463707",
+    "title": "Scalable distributed concolic testing: a case study on a flash storage platform",
+    "venue": "international colloquium on theoretical aspects of computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yunho Kim",
+            "id": "2162321390",
+            "org": "CS Dept., KAIST, Daejeon, South Korea#TAB#"
+        },
+        {
+            "name": "Moonzoo Kim",
+            "id": "2136793182",
+            "org": "CS Dept., KAIST, Daejeon, South Korea#TAB#"
+        },
+        {
+            "name": "Nam Dang",
+            "id": "2480924944",
+            "org": "CS Dept., KAIST, Daejeon, South Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Mobile device",
+        "Concolic testing",
+        "Test case",
+        "Parallel computing",
+        "Flash memory",
+        "Computer science",
+        "Symbolic execution",
+        "Model checking",
+        "File system",
+        "Real-time computing"
+    ],
+    "references": [
+        "157156687",
+        "1486608343",
+        "1582498514",
+        "1710734607",
+        "1852929912",
+        "2009489720",
+        "2013711971",
+        "2096449544",
+        "2101512909",
+        "2125967324",
+        "2133900335",
+        "2159878871",
+        "2163499368",
+        "2171683519"
+    ]
+}

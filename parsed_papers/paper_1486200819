@@ -1,0 +1,50 @@
+{
+    "id": "1486200819",
+    "title": "On the release of CRLs in public key infrastructure",
+    "venue": "usenix security symposium",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Chengyu Ma",
+            "id": "2493500117",
+            "org": "Beijing University#TAB#"
+        },
+        {
+            "name": "Nan Hu",
+            "id": "2140706338",
+            "org": "Singapore Management, University#TAB#"
+        },
+        {
+            "name": "Yingjiu Li",
+            "id": "2263273413",
+            "org": "Singapore Management, University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Certificate signing request",
+        "Implicit certificate",
+        "Self-signed certificate",
+        "Root certificate",
+        "Computer science",
+        "X.509",
+        "Public key certificate",
+        "Computer security",
+        "Online Certificate Status Protocol",
+        "Internet privacy",
+        "Certification path validation algorithm"
+    ],
+    "references": [
+        "1502896015",
+        "1504393564",
+        "1528787622",
+        "2006097813",
+        "2008524185",
+        "2018439061",
+        "2022423003",
+        "2089934546",
+        "2103702580",
+        "2111712517",
+        "2140298579",
+        "2160878415"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "1575389912",
+    "title": "Impossible Differential Cryptanalysis of Reduced Round XTEA and TEA",
+    "venue": "fast software encryption",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Dukjae Moon",
+            "id": "2131345726",
+            "org": "Korea University"
+        },
+        {
+            "name": "Kyungdeok Hwang",
+            "id": "2131748457",
+            "org": "Korea University"
+        },
+        {
+            "name": "Wonil Lee",
+            "id": "2162950431",
+            "org": "Korea University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Jongin Lim",
+            "id": "2146922335",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Boomerang attack",
+        "Impossible differential cryptanalysis",
+        "XTEA",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1541703086",
+        "1629301835",
+        "1991897749",
+        "2234576048"
+    ]
+}

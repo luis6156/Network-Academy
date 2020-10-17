@@ -1,0 +1,64 @@
+{
+    "id": "1502558273",
+    "title": "StarPU-MPI: task programming over clusters of machines enhanced with accelerators",
+    "venue": "EuroMPI'12 Proceedings of the 19th European conference on Recent Advances in the Message Passing Interface",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Cedric Augonnet",
+            "id": "9232881",
+            "org": "NVIDIA Corporation, Santa Clara, California#TAB#"
+        },
+        {
+            "name": "Olivier Aumage",
+            "id": "33265524",
+            "org": "Inria, Bordeaux, France#TAB#"
+        },
+        {
+            "name": "Nathalie Furmento",
+            "id": "2501917887",
+            "org": "LaBRI, CNRS, University of Bordeaux, France#TAB#"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "LaBRI, CNRS, University of Bordeaux, France#TAB#"
+        },
+        {
+            "name": "Samuel Thibault",
+            "id": "2085880144",
+            "org": "LaBRI, CNRS, University of Bordeaux, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Idle",
+        "Parallel computing",
+        "Computation",
+        "Computer science",
+        "Scheduling (computing)",
+        "Graph",
+        "Runtime system",
+        "CUDA",
+        "Cluster (physics)",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1673512521",
+        "1720285298",
+        "1964477602",
+        "1966385318",
+        "1981534910",
+        "2061306165",
+        "2067183844",
+        "2070587796",
+        "2095668076",
+        "2104008467",
+        "2112379629",
+        "2121893797",
+        "2123031400",
+        "2139116943",
+        "2150476673",
+        "2153439050",
+        "2169610548"
+    ]
+}

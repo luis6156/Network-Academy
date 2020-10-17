@@ -1,0 +1,45 @@
+{
+    "id": "129489999",
+    "title": "Application-Replay attack on java cards: when the garbage collector gets confused",
+    "venue": "international conference on engineering secure software and systems",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Guillaume Barbu",
+            "id": "2422212261",
+            "org": "Departement COMELEC, Institut Telecom / Telecom ParisTech, CNRS LTCI, Paris Cedex 13, France#TAB#"
+        },
+        {
+            "name": "Philippe Hoogvorst",
+            "id": "2041124441",
+            "org": "Departement COMELEC, Institut Telecom / Telecom ParisTech, CNRS LTCI, Paris Cedex 13, France#TAB#"
+        },
+        {
+            "name": "Guillaume Duc",
+            "id": "2481917178",
+            "org": "Departement COMELEC, Institut Telecom / Telecom ParisTech, CNRS LTCI, Paris Cedex 13, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unspecified behavior",
+        "Pre-play attack",
+        "Java",
+        "Java Card",
+        "Computer science",
+        "Garbage collection",
+        "Application firewall",
+        "Manual memory management",
+        "Replay attack",
+        "Real-time computing"
+    ],
+    "references": [
+        "9454512",
+        "130444605",
+        "1486835620",
+        "1577865981",
+        "1786689303",
+        "2102362134",
+        "2150852819",
+        "2154159026"
+    ]
+}

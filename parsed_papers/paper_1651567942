@@ -1,0 +1,86 @@
+{
+    "id": "1651567942",
+    "title": "Guaranteeing Weak Termination in Service Discovery",
+    "venue": "Fundamenta Informaticae",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Karsten Wolf",
+            "id": "2214687144",
+            "org": "(Correspd.) (Supported by the DFG within grant \"Operating Guidelines for Services\" (WO 1466/8-1)) Universitat Rostock, 18051 Rostock, Germany. karsten.wolf@uni-rostock.de#TAB#"
+        },
+        {
+            "name": "Christian Stahl",
+            "id": "2283650355",
+            "org": "Department of Mathematics and Computer Science, Technische Universiteit Eindhoven, P.O. Box 513, 5600 MB Eindhoven, The Netherlands. [email protected]#TAB#"
+        },
+        {
+            "name": "Daniela Weinberg",
+            "id": "2009303540",
+            "org": "Institut fur Informatik, Humboldt-Universitat zu Berlin, Unter den Linden 6, 10099 Berlin, Germany. weinberg,jott,danitz@informatik.hu-berlin.de#TAB#"
+        },
+        {
+            "name": "Janine Ott",
+            "id": "2883619680",
+            "org": "Institut fur Informatik, Humboldt-Universitat zu Berlin, Unter den Linden 6, 10099 Berlin, Germany. weinberg,jott,danitz@informatik.hu-berlin.de#TAB#"
+        },
+        {
+            "name": "Robert Danitz",
+            "id": "228315316",
+            "org": "Institut fur Informatik, Humboldt-Universitat zu Berlin, Unter den Linden 6, 10099 Berlin, Germany. weinberg,jott,danitz@informatik.hu-berlin.de#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Service discovery",
+        "Computation",
+        "State space",
+        "Distributed computing",
+        "Computer science",
+        "Publication",
+        "Service-oriented architecture",
+        "Real-time computing",
+        "Deadlock",
+        "The Internet"
+    ],
+    "references": [
+        "1482911025",
+        "1501731334",
+        "1503973138",
+        "1505632640",
+        "1509607930",
+        "1515425532",
+        "1528441743",
+        "1533492668",
+        "1540501475",
+        "1547562281",
+        "1556194431",
+        "1564354068",
+        "1571406878",
+        "1583562696",
+        "1593284044",
+        "1673753150",
+        "1728798265",
+        "1854041751",
+        "1934074768",
+        "1978469611",
+        "1987298286",
+        "2001243851",
+        "2003009718",
+        "2024066532",
+        "2025172542",
+        "2062606382",
+        "2062650147",
+        "2099431275",
+        "2099729591",
+        "2110920860",
+        "2129260213",
+        "2129466958",
+        "2129862753",
+        "2153074919",
+        "2167612543",
+        "2169696634",
+        "2177661198",
+        "2340735175",
+        "2494940261"
+    ]
+}

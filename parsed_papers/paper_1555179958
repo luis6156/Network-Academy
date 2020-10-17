@@ -1,0 +1,51 @@
+{
+    "id": "1555179958",
+    "title": "A Basis for Verifying Multi-threaded Programs",
+    "venue": "european symposium on programming",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "K. Rustan M. Leino",
+            "id": "710865586",
+            "org": "Microsoft Research, Redmond, USA#TAB#"
+        },
+        {
+            "name": "Peter Muller",
+            "id": "2285904575",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Theoretical computer science",
+        "Linked list",
+        "Separation logic",
+        "Computer science",
+        "Lock (computer science)",
+        "Double-checked locking",
+        "Deadlock prevention algorithms",
+        "Concurrency",
+        "Data structure",
+        "Programming language"
+    ],
+    "references": [
+        "80370608",
+        "1480909796",
+        "1553421328",
+        "1562865234",
+        "1584342183",
+        "1606177908",
+        "1861989620",
+        "1972316716",
+        "1983572666",
+        "2053154567",
+        "2070111977",
+        "2074285438",
+        "2121405115",
+        "2131791649",
+        "2132761501",
+        "2155032935",
+        "2156428492",
+        "2504100651"
+    ]
+}

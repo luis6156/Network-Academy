@@ -1,0 +1,50 @@
+{
+    "id": "1518928998",
+    "title": "Security Architecture for Device Encryption and VPN",
+    "venue": "Innovations in Systems and Software Engineering",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Ammar Alkassar",
+            "id": "25520755",
+            "org": "Sirrix AG Security Technologies"
+        },
+        {
+            "name": "Michael Scheibel",
+            "id": "2476399975",
+            "org": "Sirrix AG Security Technologies"
+        },
+        {
+            "name": "Michael Stubel",
+            "id": "2482584907",
+            "org": "Ruhr-University Bochum"
+        },
+        {
+            "name": "Ahmad-Reza Sadeghi",
+            "id": "2120420677",
+            "org": "Ruhr-University Bochum"
+        },
+        {
+            "name": "Marcel Winandy",
+            "id": "2094986108",
+            "org": "Ruhr-University Bochum"
+        }
+    ],
+    "fields_of_study": [
+        "Disk encryption hardware",
+        "Client-side encryption",
+        "40-bit encryption",
+        "Computer science",
+        "Encryption",
+        "Computer security",
+        "Disk encryption theory",
+        "Link encryption",
+        "56-bit encryption",
+        "On-the-fly encryption",
+        "Computer network"
+    ],
+    "references": [
+        "1504669610",
+        "1537022082"
+    ]
+}

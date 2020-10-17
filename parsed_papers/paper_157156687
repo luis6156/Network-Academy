@@ -1,0 +1,57 @@
+{
+    "id": "157156687",
+    "title": "Automated Whitebox Fuzz Testing.",
+    "venue": "network and distributed system security symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Patrice Godefroid",
+            "id": "2634395717",
+            "org": "Microsoft"
+        },
+        {
+            "name": "Michael Y. Levin",
+            "id": "2153084974",
+            "org": "Microsoft"
+        },
+        {
+            "name": "David Molnar",
+            "id": "2001305480",
+            "org": "University of California, Berkeley"
+        }
+    ],
+    "fields_of_study": [
+        "Concolic testing",
+        "Computer architecture",
+        "Software",
+        "Computer science",
+        "Symbolic execution",
+        "Tracing",
+        "Fuzz testing",
+        "Code coverage",
+        "Dynamic testing",
+        "Static program analysis"
+    ],
+    "references": [
+        "82260615",
+        "200765967",
+        "1536898727",
+        "1582456956",
+        "1972429847",
+        "2009007001",
+        "2009489720",
+        "2075827176",
+        "2096449544",
+        "2098115125",
+        "2101512909",
+        "2104993088",
+        "2107794009",
+        "2117058582",
+        "2118915305",
+        "2132897303",
+        "2133612077",
+        "2135023759",
+        "2156858199",
+        "2165100126"
+    ]
+}

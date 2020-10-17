@@ -1,0 +1,61 @@
+{
+    "id": "1533715392",
+    "title": "Complexity Analysis of a Cache Controller for Speculative Multithreading Chip Multiprocessors",
+    "venue": "ieee international conference on high performance computing, data, and analytics",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yoshimitsu Yanagawa",
+            "id": "2291979343",
+            "org": "The Institute of Space and Astronautical Science"
+        },
+        {
+            "name": "Luong Dinh Hung",
+            "id": "2108973174",
+            "org": "The University of Tokyo"
+        },
+        {
+            "name": "Chitaka Iwama",
+            "id": "2041329138",
+            "org": "The University of Tokyo"
+        },
+        {
+            "name": "Niko Demus Barli",
+            "id": "234593873",
+            "org": "The University of Tokyo"
+        },
+        {
+            "name": "Shuichi Sakai",
+            "id": "2149404630",
+            "org": "The University of Tokyo"
+        },
+        {
+            "name": "Hidehiko Tanaka",
+            "id": "2149292659",
+            "org": "The University of Tokyo"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Cache coloring",
+        "Computer science",
+        "Bus sniffing",
+        "MSI protocol",
+        "MESI protocol",
+        "Cache pollution",
+        "MESIF protocol",
+        "Real-time computing"
+    ],
+    "references": [
+        "1525227808",
+        "2029479717",
+        "2106018697",
+        "2109502721",
+        "2131867938",
+        "2136798749",
+        "2150547581",
+        "2296006986"
+    ]
+}

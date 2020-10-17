@@ -1,0 +1,61 @@
+{
+    "id": "1528439592",
+    "title": "A Performance Model of Dense Matrix Operations on Many-Core Architectures",
+    "venue": "european conference on parallel processing",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Guoping Long",
+            "id": "2208127091",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080#TAB#"
+        },
+        {
+            "name": "Dongrui Fan",
+            "id": "2107724744",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080#TAB#"
+        },
+        {
+            "name": "Junchao Zhang",
+            "id": "2166008230",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080#TAB#"
+        },
+        {
+            "name": "Fenglong Song",
+            "id": "2129273459",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080#TAB#"
+        },
+        {
+            "name": "Nan Yuan",
+            "id": "2110069924",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080#TAB#"
+        },
+        {
+            "name": "Wei Lin",
+            "id": "2685070140",
+            "org": "Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100080#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Cholesky decomposition",
+        "Matrix multiplication",
+        "Parallel computing",
+        "Experimental data",
+        "Computer science",
+        "Distributed computing",
+        "Bandwidth (signal processing)",
+        "Memory bandwidth",
+        "Static random-access memory",
+        "Bottleneck"
+    ],
+    "references": [
+        "1497408648",
+        "1692608938",
+        "1999217875",
+        "2039787998",
+        "2065771339",
+        "2080285119",
+        "2125357468",
+        "2548341626"
+    ]
+}

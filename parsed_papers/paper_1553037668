@@ -1,0 +1,84 @@
+{
+    "id": "1553037668",
+    "title": "The emergence of networking abstractions and techniques in TinyOS",
+    "venue": "networked systems design and implementation",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Philip Levis",
+            "id": "2052109716",
+            "org": "EECS Department, University of California, Berkeley, California#TAB#"
+        },
+        {
+            "name": "Samuel Madden",
+            "id": "2139913828",
+            "org": "CSAIL, MIT, Cambridge, MA and Intel Research Berkeley, Berkeley, California#TAB#"
+        },
+        {
+            "name": "Joseph Polastre",
+            "id": "246462544",
+            "org": "EECS Department, University of California, Berkeley, California#TAB#"
+        },
+        {
+            "name": "Robert Szewczyk",
+            "id": "2058905646",
+            "org": "EECS Department, University of California, Berkeley, California#TAB#"
+        },
+        {
+            "name": "Alec Woo",
+            "id": "2096933253",
+            "org": "EECS Department, University of California, Berkeley, California#TAB#"
+        },
+        {
+            "name": "Eric A. Brewer",
+            "id": "1975802069",
+            "org": "EECS Department, University of California, Berkeley, California#TAB#"
+        },
+        {
+            "name": "David E. Culler",
+            "id": "348251026",
+            "org": "EECS Department, University of California, Berkeley, California#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Distributed computing",
+        "Wireless sensor network",
+        "Active networking",
+        "Abstraction",
+        "Systems design",
+        "Real-time computing",
+        "nesC"
+    ],
+    "references": [
+        "196904133",
+        "1480362451",
+        "1966938284",
+        "1975964775",
+        "2011662871",
+        "2012987308",
+        "2014550373",
+        "2025806161",
+        "2038562061",
+        "2041248965",
+        "2098502330",
+        "2099574482",
+        "2101963262",
+        "2102258543",
+        "2104532741",
+        "2105666891",
+        "2127949150",
+        "2128883551",
+        "2134400988",
+        "2135505702",
+        "2143160644",
+        "2143229717",
+        "2152809170",
+        "2161235426",
+        "2163624108",
+        "2163661874",
+        "2167465093",
+        "2169458211",
+        "2170715240"
+    ]
+}

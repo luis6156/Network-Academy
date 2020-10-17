@@ -1,0 +1,51 @@
+{
+    "id": "1589448563",
+    "title": "BiChord: an improved approach for lookup routing in chord",
+    "venue": "advances in databases and information systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Junjie Jiang",
+            "id": "2118242967",
+            "org": "Department of Computer Science and Engineering, Shanghai Jiaotong University, Shanghai, P.R. China#TAB#"
+        },
+        {
+            "name": "Ruoyu Pan",
+            "id": "2229699237",
+            "org": "Institute of Network and System, Hefei University of Technology, Hefei, P.R. China#TAB#"
+        },
+        {
+            "name": "Changyong Liang",
+            "id": "2692570414",
+            "org": "Institute of Network and System, Hefei University of Technology, Hefei, P.R. China#TAB#"
+        },
+        {
+            "name": "Weinong Wang",
+            "id": "2149846208",
+            "org": "Network Center, Shanghai Jiaotong University, Shanghai, P.R. China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Chord (peer-to-peer)",
+        "Peer-to-peer",
+        "Computer science",
+        "Distributed computing",
+        "Computer network",
+        "Distributed hash table",
+        "Bidirectional search",
+        "Koorde",
+        "Database",
+        "Hash function",
+        "Routing table",
+        "Pastry"
+    ],
+    "references": [
+        "1521538824",
+        "1557863502",
+        "1684236127",
+        "2118428193",
+        "2150676586",
+        "2163059190",
+        "2163498454"
+    ]
+}

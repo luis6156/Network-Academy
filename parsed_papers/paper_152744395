@@ -1,0 +1,60 @@
+{
+    "id": "152744395",
+    "title": "3D tensor normalization for improved accuracy in DTI tensor registration methods",
+    "venue": "workshop on biomedical image registration",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Aditya Gupta",
+            "id": "2432731098",
+            "org": "Department of Pediatrics, University of Pittsburgh#TAB#"
+        },
+        {
+            "name": "Maria L. Escolar",
+            "id": "2161393871",
+            "org": "Department of Pediatrics, University of Pittsburgh#TAB#"
+        },
+        {
+            "name": "Cheryl Dietrich",
+            "id": "2110611747",
+            "org": "Department of Psychiatry, University of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "John H. Gilmore",
+            "id": "2030546753",
+            "org": "Department of Psychiatry, University of North Carolina at Chapel Hill#TAB#"
+        },
+        {
+            "name": "Guido Gerig",
+            "id": "806245018",
+            "org": "Scientific Computing and Imaging Institute, University of Utah#TAB#"
+        },
+        {
+            "name": "Martin Styner",
+            "id": "2060185383",
+            "org": "Department of Psychiatry, University of North Carolina at Chapel Hill, USA, Department of Computer Science, University of North Carolina at Chapel Hill#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Tensor",
+        "Mathematics",
+        "Computer vision",
+        "Deformation (mechanics)",
+        "Anisotropy",
+        "Diffusion MRI",
+        "Fractional anisotropy",
+        "Cumulative distribution function",
+        "Normalization (statistics)",
+        "Mathematical optimization",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1526085390",
+        "1968663451",
+        "2096334395",
+        "2115144214",
+        "2153174620",
+        "2154277604",
+        "2170563037"
+    ]
+}

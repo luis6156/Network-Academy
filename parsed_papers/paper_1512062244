@@ -1,0 +1,59 @@
+{
+    "id": "1512062244",
+    "title": "Conflict-Free Code Block Scheduling to Hide SpMT Inter-Core Register Sync Delay",
+    "venue": "parallel and distributed computing: applications and technologies",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "John M. Ye",
+            "id": "2231216773",
+            "org": "Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China"
+        },
+        {
+            "name": "Jason Chen",
+            "id": "2437103514",
+            "org": "Intel China Res. Center, Beijing, China"
+        },
+        {
+            "name": "Tianzhou Chen",
+            "id": "2107238495",
+            "org": "Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China"
+        },
+        {
+            "name": "Qingsong Shi",
+            "id": "2695198579",
+            "org": "Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Two-level scheduling",
+        "Earliest deadline first scheduling",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Computer science",
+        "Dynamic priority scheduling",
+        "Hybrid Scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1503242218",
+        "1513299783",
+        "1516571040",
+        "1968723134",
+        "2009006053",
+        "2009264559",
+        "2023832055",
+        "2026585559",
+        "2028499920",
+        "2029171059",
+        "2029479717",
+        "2066093704",
+        "2121420032",
+        "2129232868",
+        "2170634604"
+    ]
+}

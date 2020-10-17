@@ -1,0 +1,91 @@
+{
+    "id": "17122945",
+    "title": "Block Ciphers - Focus on the Linear Layer (feat. PRIDE )",
+    "venue": "international cryptology conference",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Martin R. Albrecht",
+            "id": "2691074675",
+            "org": "Royal Holloway, University of London"
+        },
+        {
+            "name": "Benedikt Driessen",
+            "id": "2251637688",
+            "org": "Infineon AG, Neubiberg"
+        },
+        {
+            "name": "Elif Bilge Kavun",
+            "id": "2062544466",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Gregor Leander",
+            "id": "2036774799",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Christof Paar",
+            "id": "356053134",
+            "org": "Ruhr-Universitat Bochum"
+        },
+        {
+            "name": "Tolga Yalcin",
+            "id": "2467593619",
+            "org": "University of Information Science and Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Affine cipher",
+        "Cycle count",
+        "Ciphertext stealing",
+        "Theoretical computer science",
+        "Block cipher",
+        "Discrete mathematics",
+        "Computer science",
+        "Pride",
+        "Residual block termination",
+        "CBC-MAC",
+        "Substitution-permutation network"
+    ],
+    "references": [
+        "35428663",
+        "40376036",
+        "45372631",
+        "66229595",
+        "98521887",
+        "112080296",
+        "157243396",
+        "182571705",
+        "930621015",
+        "1489021826",
+        "1507705751",
+        "1511842436",
+        "1527450129",
+        "1528065150",
+        "1553792294",
+        "1569252980",
+        "1575062508",
+        "1599175145",
+        "1629301835",
+        "1692612036",
+        "1746727744",
+        "1886321933",
+        "1894646615",
+        "1959383191",
+        "1964723977",
+        "2020301329",
+        "2033629016",
+        "2048262908",
+        "2079047661",
+        "2085797166",
+        "2092583284",
+        "2109265351",
+        "2126066913",
+        "2141124495",
+        "2152711321",
+        "2185521131",
+        "2247832471",
+        "2520671133"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "17205552",
+    "title": "Increasing block sizes using feistel networks: the example of the AES",
+    "venue": "Cryptography and Security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jacques Patarin",
+            "id": "2115493875",
+            "org": "University of Versailles, Saint-Quentin-en-Yvelines, France#TAB#"
+        },
+        {
+            "name": "Benjamin Gittins",
+            "id": "2663005276",
+            "org": "Synaptic Laboratories Limited, Malta, Europe#TAB#"
+        },
+        {
+            "name": "Joana Treger",
+            "id": "1985975494",
+            "org": "University of Versailles, Saint-Quentin-en-Yvelines, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Block size",
+        "Theoretical computer science",
+        "S-box",
+        "Key schedule",
+        "Avalanche effect",
+        "T-function",
+        "Pseudorandomness",
+        "Permutation"
+    ],
+    "references": [
+        "1504949818",
+        "1521460972",
+        "1537351103",
+        "1552032016",
+        "1554865288",
+        "1588952639",
+        "2084652510",
+        "2133382934",
+        "2169357192",
+        "2179792569",
+        "2245952156"
+    ]
+}

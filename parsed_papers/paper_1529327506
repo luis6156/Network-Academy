@@ -1,0 +1,31 @@
+{
+    "id": "1529327506",
+    "title": "Implementing MPI's One-Sided Communications for WMPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Fernando Elson Mourao",
+            "id": "2518757857",
+            "org": "Universidade de Coimbra"
+        },
+        {
+            "name": "Joao Gabriel Silva",
+            "id": "2136798047",
+            "org": "Universidade de Coimbra"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Computer science",
+        "Distributed computing",
+        "Thread safety",
+        "Implementation",
+        "Virtual machine"
+    ],
+    "references": [
+        "1521244776",
+        "1557255476",
+        "2081612620"
+    ]
+}

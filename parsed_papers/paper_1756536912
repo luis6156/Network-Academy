@@ -1,0 +1,113 @@
+{
+    "id": "1756536912",
+    "title": "Optimizing data shuffling in data-parallel computation by understanding user-defined functions",
+    "venue": "networked systems design and implementation",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Jiaxing Zhang",
+            "id": "2141329623",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Hucheng Zhou",
+            "id": "2118058200",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Rishan Chen",
+            "id": "2135915164",
+            "org": "Microsoft Research Asia and Peking University#TAB#"
+        },
+        {
+            "name": "Xuepeng Fan",
+            "id": "2149467915",
+            "org": "Microsoft Research Asia and Huazhong University of Science and Technology#TAB#"
+        },
+        {
+            "name": "Zhenyu Guo",
+            "id": "2097628309",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Haoxiang Lin",
+            "id": "2139123949",
+            "org": "Microsoft Research Asia#TAB#"
+        },
+        {
+            "name": "Jack Li",
+            "id": "2597456057",
+            "org": "Microsoft Research Asia and Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Wei Lin",
+            "id": "2616991086",
+            "org": "Microsoft Bing#TAB#"
+        },
+        {
+            "name": "Jingren Zhou",
+            "id": "2702077502",
+            "org": "Huazhong University of Science and Technology#TAB#"
+        },
+        {
+            "name": "Lidong Zhou",
+            "id": "2158515488",
+            "org": "Microsoft Research Asia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Theoretical computer science",
+        "Computation",
+        "Distributed computing",
+        "Computer science",
+        "Data processing",
+        "User-defined function",
+        "Black box",
+        "Real-time computing",
+        "Shuffling"
+    ],
+    "references": [
+        "37827439",
+        "1487337216",
+        "1491178396",
+        "1493893823",
+        "1494930385",
+        "1531082802",
+        "1535431348",
+        "1547205936",
+        "1585877844",
+        "1597532222",
+        "1980590442",
+        "1983342812",
+        "1983587324",
+        "1993433750",
+        "2025549137",
+        "2037168816",
+        "2090777502",
+        "2094469165",
+        "2096092966",
+        "2098935637",
+        "2100830825",
+        "2110086534",
+        "2110104287",
+        "2114067856",
+        "2114103324",
+        "2114303224",
+        "2119400430",
+        "2119714163",
+        "2122465391",
+        "2126594616",
+        "2145335345",
+        "2147722789",
+        "2153329411",
+        "2153889808",
+        "2154894831",
+        "2157182386",
+        "2158050820",
+        "2293624369",
+        "2295114861",
+        "2295244175",
+        "2296349066"
+    ]
+}

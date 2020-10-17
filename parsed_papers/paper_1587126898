@@ -1,0 +1,36 @@
+{
+    "id": "1587126898",
+    "title": "FPGA Implementation of Modular Exponentiation",
+    "venue": "international parallel processing symposium",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Alexander Tiountchik",
+            "id": "2266043200",
+            "org": "National Academy of Sciences of Belarus"
+        },
+        {
+            "name": "Elena Trichina",
+            "id": "2307933830",
+            "org": "University of South Australia"
+        }
+    ],
+    "fields_of_study": [
+        "Systolic array",
+        "Cryptography",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Computer architecture",
+        "Integer",
+        "Chip",
+        "Computer science",
+        "Modular exponentiation",
+        "512-bit"
+    ],
+    "references": [
+        "1504564894",
+        "2120608395",
+        "2127856956",
+        "2226285591"
+    ]
+}

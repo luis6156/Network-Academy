@@ -1,0 +1,50 @@
+{
+    "id": "1689649578",
+    "title": "Descriptor-free representation of arrays with dependent types",
+    "venue": "implementation and application of functional languages",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Kai Trojahner",
+            "id": "286801984",
+            "org": "Institute of Software Technology and Programming Languages, University of Lubeck, Germany#TAB#"
+        },
+        {
+            "name": "Clemens Grelck",
+            "id": "1974525757",
+            "org": "Institute of Informatics, University of Amsterdam, Netherlands and School of Computer Science, University of Hertfordshire, United Kingdom#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Array data type",
+        "Theoretical computer science",
+        "Array data structure",
+        "Compile time",
+        "Bounds checking",
+        "Computer science",
+        "Memory management",
+        "Dope vector",
+        "Hashed array tree",
+        "Dependent type"
+    ],
+    "references": [
+        "190007662",
+        "269338226",
+        "1511598601",
+        "1564453741",
+        "1565378037",
+        "1578634556",
+        "1580170210",
+        "1828782849",
+        "1996747354",
+        "2000387981",
+        "2002871272",
+        "2024914463",
+        "2050903906",
+        "2062849401",
+        "2096881384",
+        "2109772966",
+        "2119897009",
+        "2158094629"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "1820235686",
+    "title": "Single lock manager approach for achieving concurrency control in mobile environments",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Salman Abdul Moiz",
+            "id": "1894800875",
+            "org": "CSE, Muffakham Jah College of Engineering & Technology, Hyderabad, India#TAB#"
+        },
+        {
+            "name": "Lakshmi Rajamani",
+            "id": "2024134849",
+            "org": "CSE, University College of Engineering, Osmania University, Hyderabad, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Timestamp-based concurrency control",
+        "Parallel computing",
+        "Multiversion concurrency control",
+        "Serializability",
+        "Computer science",
+        "Distributed computing",
+        "Optimistic concurrency control",
+        "Distributed transaction",
+        "Distributed concurrency control",
+        "Real-time computing",
+        "Isolation (database systems)",
+        "Two-phase locking"
+    ],
+    "references": [
+        "1493310242",
+        "1562569843",
+        "1591901309",
+        "1926260895",
+        "2024605252",
+        "2065961934",
+        "2074001027",
+        "2105165887",
+        "2120441966"
+    ]
+}

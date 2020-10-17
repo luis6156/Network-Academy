@@ -1,0 +1,60 @@
+{
+    "id": "1565113942",
+    "title": "Detecting format string vulnerabilities with type qualifiers",
+    "venue": "usenix security symposium",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Umesh Shankar",
+            "id": "2590735698",
+            "org": "University of California at Berkeley#TAB#"
+        },
+        {
+            "name": "Kunal Talwar",
+            "id": "2125003972",
+            "org": "University of California at Berkeley#TAB#"
+        },
+        {
+            "name": "Jeffrey S. Foster",
+            "id": "2155210674",
+            "org": "University of California at Berkeley#TAB#"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California at Berkeley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "scanf format string",
+        "Software",
+        "Vulnerability",
+        "Computer science",
+        "False positive paradox",
+        "Type inference",
+        "Computer security",
+        "Type qualifier"
+    ],
+    "references": [
+        "289744816",
+        "1518533182",
+        "1544633123",
+        "1848617919",
+        "1963569294",
+        "1973326708",
+        "2007181618",
+        "2051328776",
+        "2061117785",
+        "2066859698",
+        "2079752311",
+        "2099587209",
+        "2131135493",
+        "2137952932",
+        "2150174204",
+        "2150277819",
+        "2154564703",
+        "2163319971",
+        "2169136701",
+        "2169476734"
+    ]
+}

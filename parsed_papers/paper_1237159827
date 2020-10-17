@@ -1,0 +1,69 @@
+{
+    "id": "1237159827",
+    "title": "CASH: A Cost Asymmetric Secure Hash Algorithm for Optimal Password Protection",
+    "venue": "ieee computer security foundations symposium",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Jeremiah Blocki",
+            "id": "2122410992",
+            "org": "Microsoft Res., Cambridge, MA, USA"
+        },
+        {
+            "name": "Anupam Datta",
+            "id": "2147094257",
+            "org": "Carnegie Mellon Univ., Pittsburgh, PA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Zero-knowledge password proof",
+        "S/KEY",
+        "Salt (cryptography)",
+        "Password policy",
+        "Password strength",
+        "Rainbow table",
+        "Computer science",
+        "Distributed computing",
+        "Password",
+        "One-time password"
+    ],
+    "references": [
+        "152471209",
+        "1485033854",
+        "1504521876",
+        "1516750986",
+        "1533392841",
+        "1549671385",
+        "1607915502",
+        "1652517948",
+        "1746848557",
+        "1805165030",
+        "1823595194",
+        "1873763122",
+        "1971309210",
+        "1992851378",
+        "2014833947",
+        "2027670258",
+        "2034969941",
+        "2041404167",
+        "2048755632",
+        "2050670328",
+        "2063239745",
+        "2087133238",
+        "2093397575",
+        "2113266120",
+        "2126453598",
+        "2127171880",
+        "2142442406",
+        "2149473266",
+        "2149929743",
+        "2155044004",
+        "2288836617",
+        "2396697587",
+        "2407837154",
+        "2408009274",
+        "2503779953",
+        "2517104773",
+        "2578455612"
+    ]
+}

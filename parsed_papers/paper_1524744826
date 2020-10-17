@@ -1,0 +1,37 @@
+{
+    "id": "1524744826",
+    "title": "TIM: A simple, lazy abstract machine to execute supercombinatorics",
+    "venue": "international conference on functional programming",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "John Fairbairn",
+            "id": "2633397237",
+            "org": "Univ. of Cambridge, Cambridge, UK#TAB#"
+        },
+        {
+            "name": "Stuart Wray",
+            "id": "2125590298",
+            "org": "Olivetti Research, Cambridge, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Reducer",
+        "Combinatory logic",
+        "Computer science",
+        "Garbage collection",
+        "Abstract machine",
+        "Pointer machine",
+        "Strictness analysis",
+        "Lazy evaluation",
+        "Programming language"
+    ],
+    "references": [
+        "1499416596",
+        "1526879784",
+        "2010184978",
+        "2048115385",
+        "2071166391",
+        "2484162979"
+    ]
+}

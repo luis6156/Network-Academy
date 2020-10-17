@@ -1,0 +1,50 @@
+{
+    "id": "1805882648",
+    "title": "LODStats --- an extensible framework for high-performance dataset analytics",
+    "venue": "knowledge acquisition, modeling and management",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Soren Auer",
+            "id": "1994200327",
+            "org": "AKSW/BIS, Universitat Leipzig, Germany#TAB#"
+        },
+        {
+            "name": "Jan Demter",
+            "id": "2517579576",
+            "org": "AKSW/BIS, Universitat Leipzig, Germany#TAB#"
+        },
+        {
+            "name": "Michael Martin",
+            "id": "2139594711",
+            "org": "AKSW/BIS, Universitat Leipzig, Germany#TAB#"
+        },
+        {
+            "name": "Jens Lehmann",
+            "id": "2106343576",
+            "org": "AKSW/BIS, Universitat Leipzig, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Memory footprint",
+        "Computer science",
+        "Data mining",
+        "Analytics",
+        "SPARQL",
+        "Extensibility",
+        "Metadata registry",
+        "Data Web",
+        "RDF"
+    ],
+    "references": [
+        "156172657",
+        "192652968",
+        "1491268609",
+        "1825936731",
+        "1978947899",
+        "2075351444",
+        "2109360361",
+        "2125442437"
+    ]
+}

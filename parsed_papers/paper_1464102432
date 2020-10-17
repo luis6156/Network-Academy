@@ -1,0 +1,62 @@
+{
+    "id": "1464102432",
+    "title": "Static Compilation Analysis for Host-Accelerator Communication Optimization",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Mehdi Amini",
+            "id": "2170667032",
+            "org": "HPC Project"
+        },
+        {
+            "name": "Fabien Coelho",
+            "id": "2124034971",
+            "org": "MINES ParisTech/CRI"
+        },
+        {
+            "name": "Francois Irigoin",
+            "id": "1480894473",
+            "org": "MINES ParisTech/CRI"
+        },
+        {
+            "name": "Ronan Keryell",
+            "id": "2475275830",
+            "org": "HPC Project"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Speedup",
+        "Heuristics",
+        "Computer science",
+        "Compiler",
+        "Program transformation",
+        "Multiprocessing",
+        "CUDA",
+        "Hardware acceleration",
+        "Automatic parallelization"
+    ],
+    "references": [
+        "1494271578",
+        "1554715164",
+        "1788503589",
+        "1832821548",
+        "1833703044",
+        "1967802285",
+        "2018270886",
+        "2032039029",
+        "2080592089",
+        "2082268702",
+        "2098426571",
+        "2121893797",
+        "2126026097",
+        "2129960401",
+        "2131025895",
+        "2136083615",
+        "2139935536",
+        "2154786353",
+        "2156455047",
+        "2170634604"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1502924772",
+    "title": "Related Key Differential Attacks on 27 Rounds of XTEA and Full-Round GOST",
+    "venue": "fast software encryption",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Youngdai Ko",
+            "id": "2116678351",
+            "org": "Korea University"
+        },
+        {
+            "name": "Seokhie Hong",
+            "id": "2308102277",
+            "org": "Korea University"
+        },
+        {
+            "name": "Wonil Lee",
+            "id": "2162950431",
+            "org": "Korea University"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        },
+        {
+            "name": "Ju-Sung Kang",
+            "id": "2706623147",
+            "org": "Section 0741, Information Security Technology Division, ETRI"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Theoretical computer science",
+        "Algorithm",
+        "Random permutation",
+        "Encryption",
+        "XTEA",
+        "Meet-in-the-middle attack",
+        "Distinguishing attack",
+        "Permutation"
+    ],
+    "references": [
+        "1498785007",
+        "1516699468",
+        "1530646519",
+        "1546907539",
+        "1570084506",
+        "1575389912",
+        "1979802565",
+        "2091612798"
+    ]
+}

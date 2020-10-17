@@ -1,0 +1,40 @@
+{
+    "id": "1503848428",
+    "title": "A survey of public-key cryptography on J2ME-enabled mobile devices",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Stefan Tillich",
+            "id": "2122320320",
+            "org": "Graz University of Technology"
+        },
+        {
+            "name": "Johann Grossschadl",
+            "id": "2669762380",
+            "org": "Graz University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Java",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Elliptic curve cryptography",
+        "Digital signature",
+        "Mobile computing",
+        "Virtual machine",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1490476950",
+        "1522228241",
+        "1860992226",
+        "1996360405",
+        "2151163104",
+        "2156186849",
+        "2156476575",
+        "2286477783"
+    ]
+}

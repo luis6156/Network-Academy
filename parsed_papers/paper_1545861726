@@ -1,0 +1,61 @@
+{
+    "id": "1545861726",
+    "title": "The open run-time environment (OpenRTE): a transparent multi-cluster environment for high-performance computing",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Ralph H. Castain",
+            "id": "2578738835",
+            "org": "Los Alamos National Lab#TAB#"
+        },
+        {
+            "name": "Timothy S. Woodall",
+            "id": "2029622895",
+            "org": "Los Alamos National Lab#TAB#"
+        },
+        {
+            "name": "David Daniel",
+            "id": "2148362046",
+            "org": "Los Alamos National Lab#TAB#"
+        },
+        {
+            "name": "Jeffrey M. Squyres",
+            "id": "169428505",
+            "org": "Indiana University#TAB#"
+        },
+        {
+            "name": "Brian Barrett",
+            "id": "2619323566",
+            "org": "Indiana University#TAB#"
+        },
+        {
+            "name": "Graham E. Fagg",
+            "id": "2021370764",
+            "org": "University of Tennessee, Knoxville#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed algorithm",
+        "Inter-process communication",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Message passing",
+        "Systems architecture",
+        "Computer cluster",
+        "Virtual machine",
+        "Architecture"
+    ],
+    "references": [
+        "1579775238",
+        "1641327695",
+        "1825216778",
+        "2108021372",
+        "2108095339",
+        "2111996486",
+        "2142277156",
+        "2149469432",
+        "2167464077"
+    ]
+}

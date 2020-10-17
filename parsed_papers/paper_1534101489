@@ -1,0 +1,87 @@
+{
+    "id": "1534101489",
+    "title": "Towards automated security policy enforcement in multi-tenant virtual data centers",
+    "venue": "Journal of Computer Security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Serdar Cabuk",
+            "id": "2049903457",
+            "org": "Hewlett-Packard Labs, Bristol, UK. E-mails: serdar.cabuk@gmail.com, {cid, dirk.kuhlmann}@hp.com#TAB#"
+        },
+        {
+            "name": "Chris I. Dalton",
+            "id": "2293626644",
+            "org": "Hewlett-Packard Labs, Bristol, UK. E-mails: serdar.cabuk@gmail.com, {cid, dirk.kuhlmann}@hp.com#TAB#"
+        },
+        {
+            "name": "Konrad Eriksson",
+            "id": "2396659367",
+            "org": "IBM Zurich Research Laboratory, Ruschlikon, Switzerland. E-mails: {kon, mts}@zurich.ibm.com#TAB#"
+        },
+        {
+            "name": "Dirk Kuhlmann",
+            "id": "2116942034",
+            "org": "Hewlett-Packard Labs, Bristol, UK. E-mails: serdar.cabuk@gmail.com, {cid, dirk.kuhlmann}@hp.com#TAB#"
+        },
+        {
+            "name": "HariGovind V. Ramasamy",
+            "id": "2146232952",
+            "org": "IBM T. J. Watson Research Center, Hawthorne, NY, USA. E-mail: hvramasa@us.ibm.com#TAB#"
+        },
+        {
+            "name": "Gianluca Ramunno",
+            "id": "2078948204",
+            "org": "Politecnico di Torino, Turin, Italy. E-mail: ramunno@polito.it#TAB#"
+        },
+        {
+            "name": "Ahmad-Reza Sadeghi",
+            "id": "2120420677",
+            "org": "Ruhr-University Bochum, Germany. E-mail: ahmad.sadeghi@trust.rub.de#TAB#"
+        },
+        {
+            "name": "Matthias Schunter",
+            "id": "2048769069",
+            "org": "IBM Zurich Research Laboratory, Ruschlikon, Switzerland. E-mails: {kon, mts}@zurich.ibm.com#TAB#"
+        },
+        {
+            "name": "Christian Stuble",
+            "id": "142891155",
+            "org": "Sirrix AG Security Technologies, Bochum, Germany. E-mail: stueble@sirrix.com#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Watson",
+        "Virtualization",
+        "Trusted Computing",
+        "Computer science",
+        "IBM",
+        "Computer security",
+        "Security policy",
+        "Data center",
+        "Trusted Network Connect",
+        "Research center"
+    ],
+    "references": [
+        "174317439",
+        "1462190747",
+        "1504669610",
+        "1537022082",
+        "1569447580",
+        "1618082515",
+        "1713323079",
+        "1885120025",
+        "1987474526",
+        "2002233360",
+        "2021069544",
+        "2050529434",
+        "2055529357",
+        "2072633121",
+        "2109014781",
+        "2117826841",
+        "2124922306",
+        "2131726714",
+        "2148656332",
+        "2150782623"
+    ]
+}

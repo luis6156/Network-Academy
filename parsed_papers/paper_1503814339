@@ -1,0 +1,70 @@
+{
+    "id": "1503814339",
+    "title": "S$A: A Shared Cache Attack That Works across Cores and Defies VM Sandboxing -- and Its Application to AES",
+    "venue": "ieee symposium on security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Gorka Irazoqui",
+            "id": "2082933840",
+            "org": "Worcester Polytech. Inst., Worcester, MA, USA"
+        },
+        {
+            "name": "Thomas Eisenbarth",
+            "id": "2200657679",
+            "org": "Worcester Polytech. Inst., Worcester, MA, USA"
+        },
+        {
+            "name": "Berk Sunar",
+            "id": "662498110",
+            "org": "Worcester Polytech. Inst., Worcester, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Shared memory",
+        "Computer science",
+        "Data deduplication",
+        "Computer security",
+        "Exploit",
+        "Cold boot attack",
+        "Timing attack",
+        "CPU cache"
+    ],
+    "references": [
+        "58308990",
+        "98341770",
+        "131431941",
+        "1427174644",
+        "1488058190",
+        "1496265857",
+        "1555915743",
+        "1592889082",
+        "1740185811",
+        "1890449996",
+        "1934458198",
+        "1964281299",
+        "1992291252",
+        "2001759130",
+        "2062189676",
+        "2076837008",
+        "2103289002",
+        "2119028650",
+        "2126132644",
+        "2131726714",
+        "2137243422",
+        "2145229476",
+        "2146573211",
+        "2152001105",
+        "2159520802",
+        "2164988937",
+        "2165666960",
+        "2166293920",
+        "2169461225",
+        "2172060328",
+        "2188789433",
+        "2394553605",
+        "2402941556"
+    ]
+}

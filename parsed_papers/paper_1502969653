@@ -1,0 +1,51 @@
+{
+    "id": "1502969653",
+    "title": "Discovering cyclic causal models by independent components analysis",
+    "venue": "uncertainty in artificial intelligence",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Gustavo Lacerda",
+            "id": "2033134611",
+            "org": "Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Peter Spirtes",
+            "id": "2264677196",
+            "org": "Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Joseph Ramsey",
+            "id": "2113768324",
+            "org": "Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA#TAB#"
+        },
+        {
+            "name": "Patrik O. Hoyer",
+            "id": "2107833897",
+            "org": "Dept. of Computer Science, University of Helsinki, Helsinki, Finland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Independent component analysis",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Equivalence class",
+        "Graph",
+        "Population",
+        "Structural equation modeling",
+        "Causal model",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1539702341",
+        "1550193283",
+        "1589927998",
+        "1593648993",
+        "1642681790",
+        "1884001723",
+        "2099741732",
+        "2151226328",
+        "2402939792"
+    ]
+}

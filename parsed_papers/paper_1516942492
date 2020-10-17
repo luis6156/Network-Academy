@@ -1,0 +1,41 @@
+{
+    "id": "1516942492",
+    "title": "A meta-scheduling service for co-allocating arbitrary types of resources",
+    "venue": "parallel processing and applied mathematics",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Oliver Waldrich",
+            "id": "84700319",
+            "org": "Department of Bioinformatics, Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        },
+        {
+            "name": "Philipp Wieder",
+            "id": "2121074600",
+            "org": "Central Institute for Applied Mathematics, Research Centre Julich, Julich, Germany#TAB#"
+        },
+        {
+            "name": "Wolfgang Ziegler",
+            "id": "2292028617",
+            "org": "Department of Bioinformatics, Fraunhofer Institute SCAI, Sankt Augustin, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Web service",
+        "Meta-scheduling",
+        "Quality of service",
+        "Resource Management System",
+        "Middleware"
+    ],
+    "references": [
+        "1498845059",
+        "1522537946",
+        "1559381305",
+        "2112418921"
+    ]
+}

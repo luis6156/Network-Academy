@@ -1,0 +1,48 @@
+{
+    "id": "1439913320",
+    "title": "Two ports of a full evolutionary algorithm onto GPGPU",
+    "venue": "EA'11 Proceedings of the 10th international conference on Artificial Evolution",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Ogier Maitre",
+            "id": "2169864358",
+            "org": "LSIIT, University of Strasbourg, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Nicolas Lachiche",
+            "id": "254277980",
+            "org": "LSIIT, University of Strasbourg, Illkirch, France#TAB#"
+        },
+        {
+            "name": "Pierre Collet",
+            "id": "2042503075",
+            "org": "LSIIT, University of Strasbourg, Illkirch, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Port (computer networking)",
+        "Operator (computer programming)",
+        "SIMD",
+        "Speedup",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Shared memory",
+        "Computer science",
+        "Evolutionary algorithm",
+        "General-purpose computing on graphics processing units"
+    ],
+    "references": [
+        "1591385770",
+        "1786289616",
+        "1974361763",
+        "2011281319",
+        "2027862966",
+        "2066680901",
+        "2071724226",
+        "2134871533",
+        "2150871235",
+        "2157371713",
+        "2159899916"
+    ]
+}

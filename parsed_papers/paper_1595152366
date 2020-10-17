@@ -1,0 +1,31 @@
+{
+    "id": "1595152366",
+    "title": "Lexical file names in plan 9 or getting dot-dot right",
+    "venue": "usenix annual technical conference",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Rob Pike",
+            "id": "2233513462",
+            "org": "Bell Laboratories, Murray Hill, New Jersey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Everything is a file",
+        "Unix file types",
+        "resolv.conf",
+        "Computer science",
+        "Versioning file system",
+        "Zone file",
+        "Database",
+        "Stub file",
+        "File Control Block",
+        "Working directory",
+        "Real-time computing"
+    ],
+    "references": [
+        "97599710",
+        "105733652",
+        "2100077456"
+    ]
+}

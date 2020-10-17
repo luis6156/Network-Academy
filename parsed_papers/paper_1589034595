@@ -1,0 +1,35 @@
+{
+    "id": "1589034595",
+    "title": "How to prove yourself: practical solutions to identification and signature problems",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Amos Fiat",
+            "id": "2645255886",
+            "org": "Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        },
+        {
+            "name": "Adi Shamir",
+            "id": "2201755339",
+            "org": "Weizmann Institute of Science, Rehovot, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Non-interactive zero-knowledge proof",
+        "Theoretical computer science",
+        "Computer science",
+        "Strong RSA assumption",
+        "Ring signature",
+        "Schnorr signature",
+        "Public-key cryptography",
+        "Smart card",
+        "Provable security",
+        "Group signature"
+    ],
+    "references": [
+        "1569083856",
+        "1952573265",
+        "2117362057"
+    ]
+}

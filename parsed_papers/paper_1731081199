@@ -1,0 +1,107 @@
+{
+    "id": "1731081199",
+    "title": "Domain-adversarial training of neural networks",
+    "venue": "Journal of Machine Learning Research",
+    "year": 2016,
+    "authors": [
+        {
+            "name": "Yaroslav Ganin",
+            "id": "2496948775",
+            "org": "Skolkovo Institute of Science and Technology (Skoltech), Skolkovo, Moscow Region, Russia#TAB#"
+        },
+        {
+            "name": "Evgeniya Ustinova",
+            "id": "2271586418",
+            "org": "Skolkovo Institute of Science and Technology (Skoltech), Skolkovo, Moscow Region, Russia#TAB#"
+        },
+        {
+            "name": "Hana Ajakan",
+            "id": "2507508090",
+            "org": "Departement d'informatique et de genie logiciel, Universite Laval, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Pascal Germain",
+            "id": "2130645691",
+            "org": "Departement d'informatique et de genie logiciel, Universite Laval, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Hugo Larochelle",
+            "id": "1963576484",
+            "org": "Departement d'informatique, Universite de Sherbrooke, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Francois Laviolette",
+            "id": "2076579854",
+            "org": "Departement d'informatique et de genie logiciel, Universite Laval, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Mario Marchand",
+            "id": "2128721840",
+            "org": "Departement d'informatique et de genie logiciel, Universite Laval, Quebec, Canada#TAB#"
+        },
+        {
+            "name": "Victor S. Lempitsky",
+            "id": "2241827754",
+            "org": "Skolkovo Institute of Science and Technology, Skolkovo, Moscow Region, Russia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Backpropagation",
+        "Pattern recognition",
+        "Computer science",
+        "Effective domain",
+        "Feature learning",
+        "Stochastic gradient descent",
+        "Artificial neural network",
+        "Discriminative model",
+        "Deep learning",
+        "Semi-supervised learning"
+    ],
+    "references": [
+        "6908809",
+        "22861983",
+        "204268067",
+        "1544165511",
+        "1565327149",
+        "1577269164",
+        "1596233070",
+        "1722318740",
+        "1849277567",
+        "1882958252",
+        "1920259731",
+        "2030558520",
+        "2033547469",
+        "2047632871",
+        "2064447488",
+        "2083544878",
+        "2096873754",
+        "2104094955",
+        "2108069432",
+        "2110158442",
+        "2115403315",
+        "2117155597",
+        "2118585731",
+        "2120587290",
+        "2126443908",
+        "2128053425",
+        "2131953535",
+        "2141067830",
+        "2146502635",
+        "2147093486",
+        "2147629985",
+        "2149466042",
+        "2155541015",
+        "2155893237",
+        "2158108973",
+        "2158815628",
+        "2159291411",
+        "2159570078",
+        "2161381512",
+        "2164943005",
+        "2165741220",
+        "2618530766",
+        "2811380766"
+    ]
+}

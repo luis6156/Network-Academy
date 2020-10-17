@@ -1,0 +1,73 @@
+{
+    "id": "1603068992",
+    "title": "A forward-secure public-key encryption scheme",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Ran Canetti",
+            "id": "687553606",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Shai Halevi",
+            "id": "1686185850",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "Dept. of Computer Science, University of Maryland, College Park, MD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Symmetric-key algorithm",
+        "Attribute-based encryption",
+        "ID-based encryption",
+        "Computer science",
+        "Encryption",
+        "Forward secrecy",
+        "Computer security",
+        "Ciphertext",
+        "Public-key cryptography",
+        "Plaintext"
+    ],
+    "references": [
+        "1493969756",
+        "1498063506",
+        "1512229420",
+        "1516512945",
+        "1532140623",
+        "1532836984",
+        "1540442590",
+        "1566256504",
+        "1576892942",
+        "1588301088",
+        "1589176872",
+        "1607264302",
+        "1610688607",
+        "1655990431",
+        "1718722133",
+        "1801771305",
+        "1967263393",
+        "1983762057",
+        "1994386233",
+        "1998368731",
+        "2011550196",
+        "2073210531",
+        "2086042811",
+        "2096430557",
+        "2101082016",
+        "2112876561",
+        "2129876196",
+        "2141420453",
+        "2145255308",
+        "2151413173",
+        "2152924492",
+        "2159339434",
+        "2227653143",
+        "2402135123",
+        "2605928589",
+        "2610275508"
+    ]
+}

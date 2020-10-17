@@ -1,0 +1,44 @@
+{
+    "id": "1595331547",
+    "title": "State Complexity of Basic Operations on Finite Languages",
+    "venue": "WIA '99 Revised Papers from the 4th International Workshop on Automata Implementation",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Cezar Campeanu",
+            "id": "2789961830",
+            "org": "Department of Computer Science|University of South Carolina"
+        },
+        {
+            "name": "Karel Culik",
+            "id": "2130516865",
+            "org": "University of South Carolina Department of Computer Science Columbia SC 29208 USA"
+        },
+        {
+            "name": "Kai Salomaa",
+            "id": "2149856031",
+            "org": "The University of Western Ontario Department of Computer Science London Ontario Canada N6A 5B7"
+        },
+        {
+            "name": "Sheng Yu",
+            "id": "2022078535",
+            "org": "The University of Western Ontario Department of Computer Science London Ontario Canada N6A 5B7"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "State complexity",
+        "Discrete mathematics",
+        "DFA minimization",
+        "Regular language",
+        "Combinatorics",
+        "Catenation",
+        "Alphabet",
+        "Pumping lemma for regular languages"
+    ],
+    "references": [
+        "120113369",
+        "2006629323",
+        "2063230375"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "1585561471",
+    "title": "Implementing a high-assurance smart-card OS",
+    "venue": "financial cryptography",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Paul A. Karger",
+            "id": "693371167",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "David C. Toll",
+            "id": "2136386776",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Elaine R. Palmer",
+            "id": "2171408404",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Suzanne K. McIntosh",
+            "id": "2102922148",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Sam Weber",
+            "id": "2119084097",
+            "org": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY#TAB#"
+        },
+        {
+            "name": "Jonathan W. Edwards",
+            "id": "2342877600",
+            "org": "IBM Global Business Services, Lexington, KY#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Authentication protocol",
+        "Download",
+        "Computer science",
+        "Public sector",
+        "Computer security",
+        "Data integrity",
+        "Embedded system",
+        "Security policy",
+        "Internet privacy",
+        "Smart card",
+        "Covert channel"
+    ],
+    "references": [
+        "1489868610",
+        "1606635928",
+        "2058457645",
+        "2098375905",
+        "2103741267",
+        "2106887953",
+        "2113350481",
+        "2121707639",
+        "2144669522",
+        "2156186849"
+    ]
+}

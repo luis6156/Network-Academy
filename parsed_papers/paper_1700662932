@@ -1,0 +1,57 @@
+{
+    "id": "1700662932",
+    "title": "Block ciphers sensitive to grobner basis attacks",
+    "venue": "the cryptographers track at the rsa conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Johannes A. Buchmann",
+            "id": "1552168940",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Andrei Pyshkin",
+            "id": "1971992527",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Ralf-Philipp Weinmann",
+            "id": "2147515735",
+            "org": "Fachbereich Informatik, Technische Universitat Darmstadt, Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block size",
+        "Key schedule",
+        "S-box",
+        "Discrete mathematics",
+        "Avalanche effect",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis",
+        "Correlation attack"
+    ],
+    "references": [
+        "1520260307",
+        "1525447969",
+        "1530798571",
+        "1531334709",
+        "1534818369",
+        "1542020576",
+        "1547223805",
+        "1576368798",
+        "1588408025",
+        "1588952639",
+        "1629301835",
+        "1654806544",
+        "1676521748",
+        "1964723977",
+        "1979366382",
+        "1985969574",
+        "2021706119",
+        "2040327317",
+        "2059522106",
+        "2109265351"
+    ]
+}

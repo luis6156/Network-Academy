@@ -1,0 +1,39 @@
+{
+    "id": "1509245927",
+    "title": "On multiple precision based Montgomery multiplication without precomputation of N'/sub 0/=-N/sub 0//sup -1/ mod W",
+    "venue": "international conference on computer design",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Hagen Ploog",
+            "id": "2057154811",
+            "org": "Dept. of Electr. Eng., Rostock Univ., Germany"
+        },
+        {
+            "name": "Dirk Timmermann",
+            "id": "2763999660",
+            "org": "Department of Electrical Engineering and Information Technology|University of Rostock"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Algorithm design",
+        "Computer science",
+        "Precomputation",
+        "Mod",
+        "Modular arithmetic",
+        "Public-key cryptography",
+        "Modular exponentiation"
+    ],
+    "references": [
+        "1528624309",
+        "1550170577",
+        "1996360405",
+        "2116295087",
+        "2151163104",
+        "2152979345",
+        "2613496446"
+    ]
+}

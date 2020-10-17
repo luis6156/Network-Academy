@@ -1,0 +1,35 @@
+{
+    "id": "1606762295",
+    "title": "Cryptanalysis of the Dickson-scheme",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1986,
+    "authors": [
+        {
+            "name": "Winfried B. Muller",
+            "id": "2683882793",
+            "org": "Universitat Klagenfurt"
+        },
+        {
+            "name": "Rupert Nobauer",
+            "id": "2634813322",
+            "org": "Universitat Klagenfurt"
+        }
+    ],
+    "fields_of_study": [
+        "Integer",
+        "Discrete mathematics",
+        "Computer science",
+        "Boomerang attack",
+        "Benaloh cryptosystem",
+        "Cryptosystem",
+        "Goldwasser-Micali cryptosystem",
+        "Paillier cryptosystem",
+        "Hybrid cryptosystem",
+        "Plaintext"
+    ],
+    "references": [
+        "1999537317",
+        "2065982804",
+        "2071138842"
+    ]
+}

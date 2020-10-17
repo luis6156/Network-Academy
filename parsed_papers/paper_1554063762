@@ -1,0 +1,51 @@
+{
+    "id": "1554063762",
+    "title": "SLAB: a certifying model checker for infinite-state concurrent systems",
+    "venue": "tools and algorithms for construction and analysis of systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Klaus Drager",
+            "id": "2049348410",
+            "org": "Universitat des Saarlandes, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Andrey Kupriyanov",
+            "id": "2706149821",
+            "org": "Universitat des Saarlandes, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Bernd Finkbeiner",
+            "id": "2016569228",
+            "org": "Universitat des Saarlandes, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Heike Wehrheim",
+            "id": "2062320239",
+            "org": "Universitat Paderborn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Craig interpolation",
+        "State space",
+        "Transition system",
+        "Correctness",
+        "Concurrency",
+        "Counterexample",
+        "Model checking",
+        "Certificate"
+    ],
+    "references": [
+        "1489391022",
+        "1540180001",
+        "1596552075",
+        "2091968063",
+        "2108443473",
+        "2112350720",
+        "2136877520",
+        "2295481620"
+    ]
+}

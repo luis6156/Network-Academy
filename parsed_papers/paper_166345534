@@ -1,0 +1,51 @@
+{
+    "id": "166345534",
+    "title": "An FPGA implementation of elliptic curve cryptography for future secure web transaction.",
+    "venue": "ISCA PDCS",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Jian Huang",
+            "id": "2674557424",
+            "org": "Department of Computer Science and Engineering|University of North Texas"
+        },
+        {
+            "name": "Hao Li",
+            "id": "2436035403",
+            "org": "Department of Computer Science and Engineering|University of North Texas"
+        },
+        {
+            "name": "Philip H. Sweany",
+            "id": "741979407",
+            "org": "Department of Computer Science and Engineering|University of North Texas"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Curve25519",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Computer science",
+        "Elliptic curve Diffie-Hellman",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Cryptosystem",
+        "Elliptic curve",
+        "Key size"
+    ],
+    "references": [
+        "310700731",
+        "1480030470",
+        "1522228241",
+        "1589682573",
+        "1978098791",
+        "1989727469",
+        "1996360405",
+        "2003736153",
+        "2007751412",
+        "2101533612",
+        "2105832889",
+        "2116180223",
+        "2153329264",
+        "2164262733"
+    ]
+}

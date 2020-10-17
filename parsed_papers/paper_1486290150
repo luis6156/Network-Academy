@@ -1,0 +1,59 @@
+{
+    "id": "1486290150",
+    "title": "Admit Your Weakness: Verifying Correctness on TSO Architectures",
+    "venue": "formal aspects of component software",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Graeme Smith",
+            "id": "2247007614",
+            "org": "The University of Queensland"
+        },
+        {
+            "name": "John Derrick",
+            "id": "2126147314",
+            "org": "University of Sheffield"
+        },
+        {
+            "name": "Brijesh Dongol",
+            "id": "2103345461",
+            "org": "University of Sheffield"
+        }
+    ],
+    "fields_of_study": [
+        "Linearizability",
+        "Multi-core processor",
+        "Computer science",
+        "Distributed computing",
+        "Concurrent algorithm",
+        "Seqlock",
+        "Memory model",
+        "Correctness"
+    ],
+    "references": [
+        "27871822",
+        "119039509",
+        "136533073",
+        "146875869",
+        "196827001",
+        "1496133442",
+        "1509000726",
+        "1540997098",
+        "1600923511",
+        "1915629499",
+        "1972955159",
+        "1983572666",
+        "2054739713",
+        "2085773946",
+        "2089064888",
+        "2101939036",
+        "2109717427",
+        "2111910505",
+        "2138927523",
+        "2170293694",
+        "2194223632",
+        "2294090198",
+        "2295944892",
+        "2508779702"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "1571706060",
+    "title": "Impossibility of blind signatures from one-way permutations",
+    "venue": "theory of cryptography conference",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Jonathan Katz",
+            "id": "2237101560",
+            "org": "University of Maryland#TAB#"
+        },
+        {
+            "name": "Dominique Schroder",
+            "id": "2343333256",
+            "org": "Darmstadt University of Technology, Germany#TAB#"
+        },
+        {
+            "name": "Arkady Yerukhimovich",
+            "id": "2095085050",
+            "org": "University of Maryland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Blind signature",
+        "Discrete mathematics",
+        "Random permutation",
+        "Combinatorics",
+        "One-way function",
+        "Permutation",
+        "Schnorr signature",
+        "Random oracle",
+        "Ring signature"
+    ],
+    "references": [
+        "1521253015",
+        "1526518474",
+        "1536662568",
+        "1538454813",
+        "1538831988",
+        "1560301396",
+        "1583170144",
+        "1601001795",
+        "1603546715",
+        "1625658248",
+        "1832113522",
+        "1839386101",
+        "1869559082",
+        "1870860953",
+        "1972792640",
+        "2004881597",
+        "2013689473",
+        "2054482077",
+        "2069002101",
+        "2074594718",
+        "2100993438",
+        "2139861794",
+        "2157920764",
+        "2167882086",
+        "2169194339",
+        "2201681885",
+        "2241482071",
+        "2793618823"
+    ]
+}

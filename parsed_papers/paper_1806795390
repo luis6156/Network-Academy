@@ -1,0 +1,77 @@
+{
+    "id": "1806795390",
+    "title": "Universal designated verifier signatures without random oracles or non-black box assumptions",
+    "venue": "security and cryptography for networks",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Fabien Laguillaumie",
+            "id": "5555332",
+            "org": "Projet TANC - INRIA Futurs, Laboratoire d'informatique (LIX), Ecole polytechnique, Palaiseau, France#TAB#"
+        },
+        {
+            "name": "Benoit Libert",
+            "id": "2004097371",
+            "org": "UCL Crypto Group, Louvain-La-Neuve, Belgium#TAB#"
+        },
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "UCL Crypto Group, Louvain-La-Neuve, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Designated verifier signature",
+        "Cryptography",
+        "Oracle",
+        "Theoretical computer science",
+        "Discrete mathematics",
+        "Computer science",
+        "Anonymity",
+        "Diffie-Hellman problem",
+        "Algorithmics",
+        "Verifiable secret sharing",
+        "Random oracle"
+    ],
+    "references": [
+        "1492571680",
+        "1495266644",
+        "1500682127",
+        "1523567567",
+        "1525737403",
+        "1532836984",
+        "1543732261",
+        "1546600652",
+        "1550137840",
+        "1553083934",
+        "1568745847",
+        "1569033204",
+        "1584840928",
+        "1589034595",
+        "1589586740",
+        "1592092778",
+        "1592741821",
+        "1599446772",
+        "1603523225",
+        "1604454960",
+        "1607933920",
+        "1646354800",
+        "1826437507",
+        "1988619302",
+        "1998368731",
+        "2052267638",
+        "2070122514",
+        "2086042811",
+        "2106681386",
+        "2107561818",
+        "2117797270",
+        "2121786567",
+        "2125556794",
+        "2126609334",
+        "2134679597",
+        "2151413173",
+        "2152688060",
+        "2152924492",
+        "2401697392"
+    ]
+}

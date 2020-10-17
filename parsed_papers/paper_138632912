@@ -1,0 +1,63 @@
+{
+    "id": "138632912",
+    "title": "Efficient distributed top-k query processing with caching",
+    "venue": "database systems for advanced applications",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Norvald H. Ryeng",
+            "id": "672745529",
+            "org": "Norwegian University of Science and Technology, Department of Computer and Information Science, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Akrivi Vlachou",
+            "id": "2022052041",
+            "org": "Norwegian University of Science and Technology, Department of Computer and Information Science, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Christos Doulkeridis",
+            "id": "167530315",
+            "org": "Norwegian University of Science and Technology, Department of Computer and Information Science, Trondheim, Norway#TAB#"
+        },
+        {
+            "name": "Kjetil Norvag",
+            "id": "202808005",
+            "org": "Norwegian University of Science and Technology, Department of Computer and Information Science, Trondheim, Norway#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Distributed database",
+        "Result set",
+        "View",
+        "Range query (database)",
+        "Computer science",
+        "Data mining",
+        "Boolean conjunctive query",
+        "Database",
+        "Tuple",
+        "Query optimization"
+    ],
+    "references": [
+        "1483763945",
+        "1488719427",
+        "1543980078",
+        "1965952235",
+        "2009688537",
+        "2016071357",
+        "2037303840",
+        "2099797738",
+        "2100142773",
+        "2116400826",
+        "2124838580",
+        "2128756912",
+        "2133406951",
+        "2134195632",
+        "2139273822",
+        "2141649964",
+        "2158851632",
+        "2162060957",
+        "2167917855",
+        "2221389368"
+    ]
+}

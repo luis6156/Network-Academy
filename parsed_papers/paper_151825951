@@ -1,0 +1,72 @@
+{
+    "id": "151825951",
+    "title": "Reducing delay and power consumption of the wakeup logic through instruction packing and tag memoization",
+    "venue": "PACS'04 Proceedings of the 4th international conference on Power-Aware Computer Systems",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Joseph J. Sharkey",
+            "id": "2106200696",
+            "org": "Department of Computer Science, State University of New York, Binghamton, NY#TAB#"
+        },
+        {
+            "name": "Dmitry Ponomarev",
+            "id": "689483227",
+            "org": "Department of Computer Science, State University of New York, Binghamton, NY#TAB#"
+        },
+        {
+            "name": "Kanad Ghose",
+            "id": "2010743733",
+            "org": "Department of Computer Science, State University of New York, Binghamton, NY#TAB#"
+        },
+        {
+            "name": "Oguz Ergin",
+            "id": "2117482803",
+            "org": "Intel Barcelona Research Center, Intel Labs, UPC, Barcelona, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Parallel computing",
+        "Instruction scheduling",
+        "Computer science",
+        "Memoization",
+        "Queue",
+        "Out-of-order execution",
+        "Dynamic priority scheduling",
+        "Associative property",
+        "Real-time computing",
+        "Operand"
+    ],
+    "references": [
+        "1499795650",
+        "1989569696",
+        "1991805474",
+        "2032094184",
+        "2039631685",
+        "2048455467",
+        "2098190976",
+        "2098477977",
+        "2108039095",
+        "2119160224",
+        "2119874774",
+        "2121539621",
+        "2123413169",
+        "2130124967",
+        "2130261923",
+        "2140782438",
+        "2143032080",
+        "2148570943",
+        "2149379863",
+        "2153512189",
+        "2156174665",
+        "2156263417",
+        "2161864047",
+        "2164376452",
+        "2167799773",
+        "2169823452",
+        "2533807529",
+        "2535965777",
+        "2542426564"
+    ]
+}

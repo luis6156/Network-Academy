@@ -1,0 +1,35 @@
+{
+    "id": "1605876683",
+    "title": "Heuristic Methods for Over-Constrained Constraint Satisfaction Problems",
+    "venue": "principles and practice of constraint programming",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Richard J. Wallace",
+            "id": "2776942389",
+            "org": "University of New Hampshire"
+        },
+        {
+            "name": "Eugene C. Freuder",
+            "id": "1993946344",
+            "org": "University of New Hampshire"
+        }
+    ],
+    "fields_of_study": [
+        "Constraint satisfaction dual problem",
+        "Constraint satisfaction problem",
+        "Computer science",
+        "Min-conflicts algorithm",
+        "Constraint learning",
+        "Hybrid algorithm (constraint satisfaction)",
+        "AC-3 algorithm",
+        "Complexity of constraint satisfaction",
+        "Backtracking",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "18766686",
+        "1667614912",
+        "2121766240"
+    ]
+}

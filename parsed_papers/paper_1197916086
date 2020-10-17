@@ -1,0 +1,82 @@
+{
+    "id": "1197916086",
+    "title": "Poisson Dependency Networks: Gradient Boosted Models for Multivariate Count Data",
+    "venue": "Machine Learning",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Fabian Hadiji",
+            "id": "1270999205",
+            "org": "LS VIII, TU Dortmund University, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Alejandro Molina",
+            "id": "2281562365",
+            "org": "LS VIII, TU Dortmund University, Dortmund, Germany#TAB#"
+        },
+        {
+            "name": "Sriraam Natarajan",
+            "id": "2156930872",
+            "org": "School of Informatics and Computing, Indiana University, Bloomington, USA#TAB#"
+        },
+        {
+            "name": "Kristian Kersting",
+            "id": "2252032993",
+            "org": "LS VIII, TU Dortmund University, Dortmund, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Count data",
+        "Pattern recognition",
+        "Gibbs sampling",
+        "Poisson distribution",
+        "Compound Poisson distribution",
+        "Graphical model",
+        "Quasi-likelihood",
+        "Statistics",
+        "Zero-inflated model",
+        "Poisson regression",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "128101668",
+        "1504110645",
+        "1507625188",
+        "1860991815",
+        "1922870332",
+        "2003528492",
+        "2017546480",
+        "2020999234",
+        "2021602734",
+        "2035079251",
+        "2059199596",
+        "2060204748",
+        "2066442872",
+        "2080072192",
+        "2100398996",
+        "2113547349",
+        "2125261539",
+        "2125810619",
+        "2125922627",
+        "2126398289",
+        "2128594680",
+        "2128990575",
+        "2131529421",
+        "2135029798",
+        "2147880316",
+        "2149251234",
+        "2150475393",
+        "2154290889",
+        "2156478927",
+        "2166946383",
+        "2178628967",
+        "2209434878",
+        "2271929959",
+        "2294370754",
+        "2296699298",
+        "2404281525",
+        "2743557766"
+    ]
+}

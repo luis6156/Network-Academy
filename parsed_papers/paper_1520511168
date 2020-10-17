@@ -1,0 +1,51 @@
+{
+    "id": "1520511168",
+    "title": "Analyzing the Worst-Case Execution Time by Abstract Interpretation of Executable Code",
+    "venue": "Automotive Software Workshop",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christian Ferdinand",
+            "id": "2135737970",
+            "org": "AbsInt Angewandte Informatik GmbH, Email: info@absint.com"
+        },
+        {
+            "name": "Reinhold Heckmann",
+            "id": "1971317241",
+            "org": "AbsInt Angewandte Informatik GmbH, Email: info@absint.com"
+        },
+        {
+            "name": "Reinhard Wilhelm",
+            "id": "2127844901",
+            "org": "Universitat des Saarlandes"
+        }
+    ],
+    "fields_of_study": [
+        "Worst-case execution time",
+        "Algorithm",
+        "Executable",
+        "Static analysis",
+        "Basic block",
+        "Reactive system",
+        "Computer science",
+        "Annotation",
+        "Abstract interpretation",
+        "Real-time operating system",
+        "Real-time computing"
+    ],
+    "references": [
+        "6828443",
+        "144980680",
+        "1507495123",
+        "1554539787",
+        "1567692042",
+        "1595868330",
+        "1957506489",
+        "1993953231",
+        "2019566212",
+        "2027377876",
+        "2043100293",
+        "2104626020",
+        "2122403474"
+    ]
+}

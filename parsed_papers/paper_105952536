@@ -1,0 +1,35 @@
+{
+    "id": "105952536",
+    "title": "Recognition of Musical Instruments in Intervals and Chords",
+    "venue": "GfKl",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Markus Eichhoff",
+            "id": "1994616856",
+            "org": "TU Dortmund"
+        },
+        {
+            "name": "Claus Weihs",
+            "id": "197391645",
+            "org": "TU Dortmund"
+        }
+    ],
+    "fields_of_study": [
+        "Chord (music)",
+        "Random forest",
+        "Statistical model",
+        "Feature selection",
+        "Polyphony",
+        "Mel-frequency cepstrum",
+        "Support vector machine",
+        "Speech recognition",
+        "Boosting (machine learning)"
+    ],
+    "references": [
+        "1560013842",
+        "1607142029",
+        "2052384514",
+        "2283944578"
+    ]
+}

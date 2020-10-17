@@ -1,0 +1,56 @@
+{
+    "id": "1554299772",
+    "title": "An identity-based signcryption scheme with short ciphertext from pairings",
+    "venue": "embedded and ubiquitous computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Huiyan Chen",
+            "id": "2399793306",
+            "org": "State Key Laboratory of Information Security Graduate School of Chinese, Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Shuwang Lu",
+            "id": "2629084132",
+            "org": "State Key Laboratory of Information Security Graduate School of Chinese, Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Zhenhua Liu",
+            "id": "2640241671",
+            "org": "State Key Laboratory of Information Security Graduate School of Chinese, Academy of Sciences, Beijing, P.R. China#TAB#"
+        },
+        {
+            "name": "Qing Chen",
+            "id": "2497414376",
+            "org": "Peking Knowledge Security Engineering Center, Beijing#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Signcryption",
+        "Mathematics",
+        "Malleability",
+        "Discrete mathematics",
+        "Key clustering",
+        "Ciphertext indistinguishability",
+        "Ciphertext",
+        "Random oracle",
+        "Semantic security",
+        "Plaintext"
+    ],
+    "references": [
+        "115792472",
+        "1250588604",
+        "1486255205",
+        "1489428282",
+        "1492257397",
+        "1499103434",
+        "1504092670",
+        "1504307241",
+        "1510433380",
+        "1516634197",
+        "1569083856",
+        "1571093585",
+        "2146319100",
+        "2148437174"
+    ]
+}

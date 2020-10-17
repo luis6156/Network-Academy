@@ -1,0 +1,53 @@
+{
+    "id": "1482227858",
+    "title": "Apuama: combining intra-query and inter-query parallelism in a database cluster",
+    "venue": "extending database technology",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Bernardo Miranda",
+            "id": "2144508252",
+            "org": "Computer Science Department, COPPE, Federal University of Rio de Janeiro#TAB#"
+        },
+        {
+            "name": "Alexandre A. B. Lima",
+            "id": "2161022388",
+            "org": "Computer Science Department, COPPE, Federal University of Rio de Janeiro#TAB#"
+        },
+        {
+            "name": "Patrick Valduriez",
+            "id": "2223920688",
+            "org": "Atlas Group, INRIA and LINA, University of Nantes, France#TAB#"
+        },
+        {
+            "name": "Marta Mattoso",
+            "id": "2242263115",
+            "org": "Computer Science Department, COPPE, Federal University of Rio de Janeiro#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Instruction-level parallelism",
+        "Online transaction processing",
+        "Distributed database",
+        "Online analytical processing",
+        "Speedup",
+        "Parallel computing",
+        "Computer science",
+        "Data parallelism",
+        "Transaction processing",
+        "Database",
+        "Task parallelism"
+    ],
+    "references": [
+        "1482997398",
+        "1501977046",
+        "1648820737",
+        "2007093160",
+        "2063281504",
+        "2072764742",
+        "2161580080",
+        "2163820446",
+        "2178083330",
+        "2296112963"
+    ]
+}

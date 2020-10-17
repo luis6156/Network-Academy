@@ -1,0 +1,64 @@
+{
+    "id": "140235344",
+    "title": "Noninterference for operating system kernels",
+    "venue": "certified programs and proofs",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Toby C. Murray",
+            "id": "2160784950",
+            "org": "NICTA, Sydney, Australia,School of Computer Science and Engineering, UNSW, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Daniel Matichuk",
+            "id": "2085531563",
+            "org": "NICTA, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Matthew Brassil",
+            "id": "2163584551",
+            "org": "NICTA, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Peter Gammie",
+            "id": "2807411778",
+            "org": "NICTA, Sydney, Australia#TAB#"
+        },
+        {
+            "name": "Gerwin Klein",
+            "id": "2121963599",
+            "org": "NICTA, Sydney, Australia,School of Computer Science and Engineering, UNSW, Sydney, Australia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Nondeterministic algorithm",
+        "Microkernel",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Scheduling (computing)",
+        "Proof calculus",
+        "Monad (functional programming)",
+        "Information flow (information theory)",
+        "Kernel (linear algebra)"
+    ],
+    "references": [
+        "51058944",
+        "55413947",
+        "823343027",
+        "1581993637",
+        "1594381772",
+        "1594455430",
+        "1848210326",
+        "1867052887",
+        "1977764760",
+        "2106192381",
+        "2113521415",
+        "2136310957",
+        "2139799388",
+        "2141890389",
+        "2146530476",
+        "2149996206"
+    ]
+}

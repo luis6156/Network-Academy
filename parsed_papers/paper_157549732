@@ -1,0 +1,40 @@
+{
+    "id": "157549732",
+    "title": "CAF versus MPI - applicability of coarray fortran to a flow solver",
+    "venue": "EuroMPI'11 Proceedings of the 18th European MPI Users' Group conference on Recent advances in the message passing interface",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Manuel Hasert",
+            "id": "2177175666",
+            "org": "German Research School for Simulation Sciences GmbH, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Harald Klimach",
+            "id": "2325624534",
+            "org": "German Research School for Simulation Sciences GmbH, Aachen, Germany#TAB#"
+        },
+        {
+            "name": "Sabine Roller",
+            "id": "1886762988",
+            "org": "German Research School for Simulation Sciences GmbH, Aachen, Germany and RWTH Aachen University, Aachen, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Partitioned global address space",
+        "Parallel computing",
+        "Computational science",
+        "Compiler",
+        "Computation",
+        "Computer science",
+        "Coarray Fortran",
+        "Usability",
+        "Solver",
+        "Fortran"
+    ],
+    "references": [
+        "1572016165",
+        "2096263410",
+        "2112966019"
+    ]
+}

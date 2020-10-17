@@ -1,0 +1,68 @@
+{
+    "id": "1688725932",
+    "title": "Hulk: eliciting malicious behavior in browser extensions",
+    "venue": "usenix security symposium",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Alexandros Kapravelos",
+            "id": "2156406900",
+            "org": "UC Santa Barbara#TAB#"
+        },
+        {
+            "name": "Chris Grier",
+            "id": "2097669272",
+            "org": "UC Berkeley and International Computer Science Institute#TAB#"
+        },
+        {
+            "name": "Neha Chachra",
+            "id": "429190142",
+            "org": "UC San Diego#TAB#"
+        },
+        {
+            "name": "Christopher Kruegel",
+            "id": "2001160045",
+            "org": "UC Santa Barbara#TAB#"
+        },
+        {
+            "name": "Giovanni Vigna",
+            "id": "2192390985",
+            "org": "UC Santa Barbara#TAB#"
+        },
+        {
+            "name": "Vern Paxson",
+            "id": "716133098",
+            "org": "UC Berkeley and International Computer Science Institute#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "World Wide Web",
+        "Event (computing)",
+        "Web page",
+        "Computer science",
+        "Browser security",
+        "Computer security",
+        "Internet security",
+        "Fuzz testing",
+        "Internet privacy"
+    ],
+    "references": [
+        "74184291",
+        "1489067988",
+        "1519699895",
+        "1521413888",
+        "1598325486",
+        "1630762513",
+        "1970867218",
+        "2040977706",
+        "2094568767",
+        "2101678831",
+        "2112459589",
+        "2127184807",
+        "2159710624",
+        "2161784403",
+        "2169771430",
+        "2400462880",
+        "2404981861"
+    ]
+}

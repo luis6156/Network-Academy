@@ -1,0 +1,44 @@
+{
+    "id": "1531481226",
+    "title": "FACT: Co-evaluation Environment for FPGA Architecture and CAD System",
+    "venue": "field programmable logic and applications",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Toshiaki Miyazaki",
+            "id": "2097530829",
+            "org": "NTT LSI Laboratories"
+        },
+        {
+            "name": "Akihiro Tsutsui",
+            "id": "2107529375",
+            "org": "NTT LSI Laboratories"
+        },
+        {
+            "name": "Kenji Ishii",
+            "id": "2504336815",
+            "org": "NTT LSI Laboratories"
+        },
+        {
+            "name": "Naohisa Ohta",
+            "id": "2307022270",
+            "org": "NTT LSI Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Field-programmable gate array",
+        "Parallel computing",
+        "Concurrent engineering",
+        "Computer science",
+        "FPGA prototype",
+        "Logic block",
+        "Reconfigurable computing",
+        "Architecture"
+    ],
+    "references": [
+        "2142612171",
+        "2142623358",
+        "2144848513",
+        "2157431560"
+    ]
+}

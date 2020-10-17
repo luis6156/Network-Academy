@@ -1,0 +1,48 @@
+{
+    "id": "1573286687",
+    "title": "Detecting self-mutating malware using control-flow graph matching",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Danilo Bruschi",
+            "id": "1964755389",
+            "org": "Dip. Informatica e Comunicazione, Universita degli Studi di Milano, Milan, Italy#TAB#"
+        },
+        {
+            "name": "Lorenzo Martignoni",
+            "id": "1251691842",
+            "org": "Dip. Informatica e Comunicazione, Universita degli Studi di Milano, Milan, Italy#TAB#"
+        },
+        {
+            "name": "Mattia Monga",
+            "id": "2156588810",
+            "org": "Dip. Informatica e Comunicazione, Universita degli Studi di Milano, Milan, Italy#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow graph",
+        "Malware",
+        "Experimental data",
+        "Control flow",
+        "Computer science",
+        "Distributed computing",
+        "Cryptovirology",
+        "Subgraph isomorphism problem",
+        "Pattern matching",
+        "Data flow diagram"
+    ],
+    "references": [
+        "1491178396",
+        "1544837488",
+        "1564075167",
+        "1966150547",
+        "1969031936",
+        "2114067856",
+        "2131523719",
+        "2137786570",
+        "2142368292",
+        "2166462894",
+        "2178663527"
+    ]
+}

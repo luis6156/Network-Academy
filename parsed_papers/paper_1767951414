@@ -1,0 +1,87 @@
+{
+    "id": "1767951414",
+    "title": "Automatic aorta segmentation and valve landmark detection in C-Arm CT: application to aortic valve implantation",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Yefeng Zheng",
+            "id": "2110607565",
+            "org": "Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Matthias John",
+            "id": "2169461187",
+            "org": "Siemens AG, Healthcare Sector, Forchheim, Germany#TAB#"
+        },
+        {
+            "name": "Rui Liao",
+            "id": "2892911255",
+            "org": "Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Jan Boese",
+            "id": "2163660528",
+            "org": "Siemens AG, Healthcare Sector, Forchheim, Germany#TAB#"
+        },
+        {
+            "name": "Uwe Kirschstein",
+            "id": "2106479823",
+            "org": "Siemens AG, Healthcare Sector, Forchheim, Germany#TAB#"
+        },
+        {
+            "name": "Bogdan Georgescu",
+            "id": "2073911244",
+            "org": "Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "S. Kevin Zhou",
+            "id": "2167740186",
+            "org": "Siemens Corporate Research, Princeton#TAB#"
+        },
+        {
+            "name": "Jorg Kempfert",
+            "id": "1905067874",
+            "org": "Department of Cardiac Surgery, Heart Center, University of Leipzig, Germany#TAB#"
+        },
+        {
+            "name": "Thomas Walther",
+            "id": "2010359787",
+            "org": "Department of Cardiac Surgery, Kerckoff Heart Center, Bad Nauheim, Germany#TAB#"
+        },
+        {
+            "name": "Gernot Brockmann",
+            "id": "2807581170",
+            "org": "Department of Cardiovascular Surgery, German Heart Center, Munich, Germany#TAB#"
+        },
+        {
+            "name": "Dorin Comaniciu",
+            "id": "2054682710",
+            "org": "Siemens Corporate Research, Princeton#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Discriminative learning",
+        "Segmentation",
+        "Descending aorta",
+        "Computer science",
+        "Aortic arch",
+        "Anatomy",
+        "Ascending aorta",
+        "Radiology",
+        "Landmark",
+        "Aorta",
+        "Aortic valve"
+    ],
+    "references": [
+        "1517542533",
+        "1550273251",
+        "1753164127",
+        "1842290555",
+        "1938796541",
+        "2007127870",
+        "2072573283",
+        "2101689475",
+        "2158050435"
+    ]
+}

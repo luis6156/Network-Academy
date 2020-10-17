@@ -1,0 +1,62 @@
+{
+    "id": "1604154211",
+    "title": "Hierarchical segmentation and identification of thoracic vertebra using learning-based edge detection and coarse- to-fine deformable model",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Jun Ma",
+            "id": "2722733875",
+            "org": "CAD & Knowledge Solutions, Siemens Healthcare, Malvern, PA and Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Le Lu",
+            "id": "2119127965",
+            "org": "CAD & Knowledge Solutions, Siemens Healthcare, Malvern, PA and Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Yiqiang Zhan",
+            "id": "2138174825",
+            "org": "CAD & Knowledge Solutions, Siemens Healthcare, Malvern, PA and Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Xiang Sean Zhou",
+            "id": "2762616846",
+            "org": "CAD & Knowledge Solutions, Siemens Healthcare, Malvern, PA and Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Marcos Salganicoff",
+            "id": "1589525214",
+            "org": "CAD & Knowledge Solutions, Siemens Healthcare, Malvern, PA and Johns Hopkins University, Baltimore, MD#TAB#"
+        },
+        {
+            "name": "Arun Krishnan",
+            "id": "2236486307",
+            "org": "CAD & Knowledge Solutions, Siemens Healthcare, Malvern, PA and Johns Hopkins University, Baltimore, MD#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Segmentation",
+        "Vertebra",
+        "Computer vision",
+        "Polygon mesh",
+        "Pattern recognition",
+        "Medical imaging",
+        "Computer science",
+        "Thoracic vertebrae",
+        "Classifier (linguistics)",
+        "Edge detection",
+        "Discriminative model",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1563797250",
+        "1967241215",
+        "1979064019",
+        "2101689475",
+        "2132014319",
+        "2133537747",
+        "2134491911",
+        "2165914352"
+    ]
+}

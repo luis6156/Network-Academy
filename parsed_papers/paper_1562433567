@@ -1,0 +1,56 @@
+{
+    "id": "1562433567",
+    "title": "Sparse conditional logistic regression for analyzing large-scale matched data from epidemiological studies: a simple algorithm.",
+    "venue": "BMC Bioinformatics",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Marta Avalos",
+            "id": "2161728091",
+            "org": "SISTM team, INRIA, F-33000 Bordeaux, France"
+        },
+        {
+            "name": "Helene Pouyes",
+            "id": "1407886401",
+            "org": "Univ. de Pau et des Pays de l'Adour, F-64012 Pau, France"
+        },
+        {
+            "name": "Yves Grandvalet",
+            "id": "24574532",
+            "org": "Univ. de Technologie de Compiegne, CNRS, Heudiasyc UMR7253, Compiegne, France"
+        },
+        {
+            "name": "Ludivine Orriols",
+            "id": "2057830273",
+            "org": "Univ. Bordeaux, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, F-33000 Bordeaux, France"
+        },
+        {
+            "name": "Emmanuel Lagarde",
+            "id": "2071982022",
+            "org": "Univ. Bordeaux, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, F-33000 Bordeaux, France"
+        }
+    ],
+    "fields_of_study": [
+        "Coordinate descent",
+        "Computer science",
+        "Regularization (mathematics)",
+        "Sample size determination",
+        "Feature selection",
+        "Lasso (statistics)",
+        "SIMPLE algorithm",
+        "Likelihood function",
+        "Bioinformatics",
+        "Regression analysis"
+    ],
+    "references": [
+        "56897548",
+        "202180119",
+        "1504194272",
+        "2119853782",
+        "2128431628",
+        "2138145347",
+        "2158497151",
+        "2159370862",
+        "2161765392"
+    ]
+}

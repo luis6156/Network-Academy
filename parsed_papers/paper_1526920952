@@ -1,0 +1,117 @@
+{
+    "id": "1526920952",
+    "title": "Multi-sensor super-resolution for hybrid range imaging with application to 3-D endoscopy and open surgery",
+    "venue": "Medical Image Analysis",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Thomas Kohler",
+            "id": "2267140525",
+            "org": "Pattern Recognition Lab, Department of Computer Science, Friedrich-Alexander-Universitat Erlangen-Nurnberg, Germany"
+        },
+        {
+            "name": "Sven Haase",
+            "id": "2151664122",
+            "org": "Pattern Recognition Lab, Department of Computer Science, Friedrich-Alexander-Universitat Erlangen-Nurnberg, Germany"
+        },
+        {
+            "name": "Sebastian Bauer",
+            "id": "2099860176",
+            "org": "Pattern Recognition Lab, Department of Computer Science, Friedrich-Alexander-Universitat Erlangen-Nurnberg, Germany"
+        },
+        {
+            "name": "Jakob Wasza",
+            "id": "2054211819",
+            "org": "Pattern Recognition Lab, Department of Computer Science, Friedrich-Alexander-Universitat Erlangen-Nurnberg, Germany"
+        },
+        {
+            "name": "Thomas Kilgus",
+            "id": "2032501563",
+            "org": "Division of Medical and Biological Informatics Junior Group: Computer-assisted Interventions, German Cancer Research Center (DKFZ) Heidelberg, Germany"
+        },
+        {
+            "name": "Lena Maier-Hein",
+            "id": "38652433",
+            "org": "Division of Medical and Biological Informatics Junior Group: Computer-assisted Interventions, German Cancer Research Center (DKFZ) Heidelberg, Germany"
+        },
+        {
+            "name": "Christian Stock",
+            "id": "1996184698",
+            "org": "Institute of Medical Biometry and Informatics, University of Heidelberg, Germany"
+        },
+        {
+            "name": "Joachim Hornegger",
+            "id": "51092151",
+            "org": "Pattern Recognition Lab, Department of Computer Science, Friedrich-Alexander-Universitat Erlangen-Nurnberg, Germany"
+        },
+        {
+            "name": "Hubertus Feussner",
+            "id": "1970814277",
+            "org": "Research Group Minimally-invasive interdisciplinary therapeutical intervention, Klinikum rechts der Isar of the Technical University Munich, Germany"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Computer vision",
+        "Pattern recognition",
+        "Synthetic data",
+        "Surgery",
+        "Motion estimation",
+        "Superresolution",
+        "Structural similarity",
+        "Image resolution",
+        "Subpixel rendering",
+        "Sensor fusion",
+        "Classification of discontinuities",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "65124300",
+        "147544163",
+        "158386523",
+        "270041273",
+        "1507924120",
+        "1528736491",
+        "1561920876",
+        "1607376735",
+        "1762322375",
+        "1964370383",
+        "1975840851",
+        "1979715606",
+        "1985806826",
+        "1991617202",
+        "1992303731",
+        "2016620160",
+        "2024427324",
+        "2027274752",
+        "2030922012",
+        "2039495012",
+        "2046434485",
+        "2066678776",
+        "2081604761",
+        "2087380704",
+        "2089526501",
+        "2095569354",
+        "2095604302",
+        "2097209441",
+        "2101131403",
+        "2104600947",
+        "2104620097",
+        "2107384509",
+        "2109047032",
+        "2115548755",
+        "2117004362",
+        "2125188192",
+        "2132253387",
+        "2133665775",
+        "2138449156",
+        "2140257560",
+        "2140611763",
+        "2154226209",
+        "2156875677",
+        "2158688931",
+        "2160956336",
+        "2163523041",
+        "2165939075"
+    ]
+}

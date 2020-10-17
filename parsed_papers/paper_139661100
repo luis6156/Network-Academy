@@ -1,0 +1,44 @@
+{
+    "id": "139661100",
+    "title": "A timed semantics for SDL",
+    "venue": "formal techniques for (networked and) distributed systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Simon Mork",
+            "id": "1979885681",
+            "org": "Technical University of Denmark"
+        },
+        {
+            "name": "Jens Chr. Godskesen",
+            "id": "2799230095",
+            "org": "Tele Danmark Research and Development"
+        },
+        {
+            "name": "Michael R. Hansen",
+            "id": "2173345052",
+            "org": "Technical University of Denmark"
+        },
+        {
+            "name": "Robin Sharp",
+            "id": "2493421127",
+            "org": "Technical University of Denmark"
+        }
+    ],
+    "fields_of_study": [
+        "Semantics",
+        "Specification language",
+        "Theoretical computer science",
+        "Temporal logic",
+        "Computer science",
+        "Scheduling (computing)",
+        "Duration calculus",
+        "Semantics of logic",
+        "Interval temporal logic",
+        "Concurrency"
+    ],
+    "references": [
+        "1497559908",
+        "1774201030"
+    ]
+}

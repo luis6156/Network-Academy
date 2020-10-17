@@ -1,0 +1,52 @@
+{
+    "id": "1572847050",
+    "title": "Conditional Differential Cryptanalysis of NLFSR-Based Cryptosystems",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Simon Knellwolf",
+            "id": "152425193",
+            "org": "FHNW"
+        },
+        {
+            "name": "Willi Meier",
+            "id": "2125800030",
+            "org": "FHNW"
+        },
+        {
+            "name": "Maria Naya-Plasencia",
+            "id": "23374441",
+            "org": "FHNW"
+        }
+    ],
+    "fields_of_study": [
+        "eSTREAM",
+        "Block cipher",
+        "Theoretical computer science",
+        "Computer science",
+        "Impossible differential cryptanalysis",
+        "Higher-order differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Cryptosystem",
+        "Linear cryptanalysis",
+        "Distinguishing attack"
+    ],
+    "references": [
+        "1561363170",
+        "1601159549",
+        "1607874478",
+        "1629301835",
+        "1758759527",
+        "2076397729",
+        "2103239853",
+        "2104770404",
+        "2147227205",
+        "2160494425",
+        "2164455525",
+        "2171493601",
+        "2234576048",
+        "2405515207",
+        "2406342588"
+    ]
+}

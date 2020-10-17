@@ -1,0 +1,51 @@
+{
+    "id": "1529356657",
+    "title": "Locality optimization of stencil applications using data dependency graphs",
+    "venue": "languages and compilers for parallel computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Daniel A. Orozco",
+            "id": "2139588259",
+            "org": "University of Delaware, Electrical and Computer Engineering Department#TAB#"
+        },
+        {
+            "name": "Elkin Garcia",
+            "id": "2125628578",
+            "org": "University of Delaware, Electrical and Computer Engineering Department#TAB#"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "University of Delaware, Electrical and Computer Engineering Department#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Parallel computing",
+        "Source code",
+        "Computation",
+        "Chip",
+        "Computer science",
+        "Data dependency",
+        "Mathematical proof",
+        "Memory bandwidth",
+        "Stencil",
+        "Loop tiling"
+    ],
+    "references": [
+        "50554118",
+        "1504751168",
+        "1600335798",
+        "1964354616",
+        "1970787534",
+        "1973923211",
+        "2003798513",
+        "2055534506",
+        "2063249715",
+        "2093783472",
+        "2119609467",
+        "2153768689",
+        "2296218291"
+    ]
+}

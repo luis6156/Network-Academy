@@ -1,0 +1,61 @@
+{
+    "id": "1519490651",
+    "title": "Dynamic Task and Data Placement over NUMA Architectures: An OpenMP Runtime Perspective",
+    "venue": "international workshop on openmp",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Francois Broquedis",
+            "id": "66313114",
+            "org": "University of Bordeaux,#TAB#"
+        },
+        {
+            "name": "Nathalie Furmento",
+            "id": "2501917887",
+            "org": "CNRS LaBRI, Talence F-33405#TAB#"
+        },
+        {
+            "name": "Brice Goglin",
+            "id": "121241302",
+            "org": "INRIA, France"
+        },
+        {
+            "name": "Raymond Namyst",
+            "id": "118112312",
+            "org": "University of Bordeaux,#TAB#"
+        },
+        {
+            "name": "Pierre-Andre Wacrenier",
+            "id": "1234376516",
+            "org": "University of Bordeaux,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Interleaved memory",
+        "Scheduling (computing)",
+        "Memory management",
+        "Runtime system",
+        "Memory model",
+        "Cache-only memory architecture",
+        "Real-time computing",
+        "Architecture"
+    ],
+    "references": [
+        "1531079003",
+        "1657789554",
+        "2032138357",
+        "2037244283",
+        "2072725684",
+        "2081145200",
+        "2092388465",
+        "2109566345",
+        "2113538230",
+        "2141065980",
+        "2153644244",
+        "2171119362"
+    ]
+}

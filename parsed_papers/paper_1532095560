@@ -1,0 +1,41 @@
+{
+    "id": "1532095560",
+    "title": "A Taxonomy of Forgetting Automata",
+    "venue": "mathematical foundations of computer science",
+    "year": 1993,
+    "authors": [
+        {
+            "name": "Petr Jancar",
+            "id": "8200839",
+            "org": "University of Ostrava"
+        },
+        {
+            "name": "Frantisek Mraz",
+            "id": "1969032849",
+            "org": "Charles University"
+        },
+        {
+            "name": "Martin Platek",
+            "id": "2128508079",
+            "org": "Charles University"
+        }
+    ],
+    "fields_of_study": [
+        "Chomsky hierarchy",
+        "Nondeterministic algorithm",
+        "Linear bounded automaton",
+        "Algorithm",
+        "Symbol",
+        "Discrete mathematics",
+        "Forgetting",
+        "Computer science",
+        "Pushdown automaton",
+        "Rewriting"
+    ],
+    "references": [
+        "1520726113",
+        "1595754579",
+        "1978405212",
+        "1982129592"
+    ]
+}

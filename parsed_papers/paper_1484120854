@@ -1,0 +1,68 @@
+{
+    "id": "1484120854",
+    "title": "Gang scheduling extensions for I/O intensive workloads",
+    "venue": "job scheduling strategies for parallel processing",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Yanyong Zhang",
+            "id": "2143548513",
+            "org": "Rutgers, The State University of New Jersey"
+        },
+        {
+            "name": "Antony Yang",
+            "id": "2480185339",
+            "org": "Rutgers, The State University of New Jersey"
+        },
+        {
+            "name": "Anand Sivasubramaniam",
+            "id": "2167092868",
+            "org": "The Pennsylvania State University"
+        },
+        {
+            "name": "Jose E. Moreira",
+            "id": "2194395691",
+            "org": "IBM T. J. Watson Research Center"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Peer-to-peer",
+        "Input/output",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Gang scheduling",
+        "Process migration",
+        "Parallel algorithm",
+        "Real-time computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "48700391",
+        "1487076132",
+        "1541858096",
+        "1548019789",
+        "1573602196",
+        "1589576271",
+        "1596620545",
+        "1599248213",
+        "1603868614",
+        "1870205120",
+        "1956328060",
+        "1984922700",
+        "2039573521",
+        "2068411009",
+        "2080694137",
+        "2106843513",
+        "2107959373",
+        "2113078279",
+        "2115599946",
+        "2117170988",
+        "2150074609",
+        "2163987965",
+        "2169805268",
+        "2170305808",
+        "2489559643"
+    ]
+}

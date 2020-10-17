@@ -1,0 +1,50 @@
+{
+    "id": "1582975578",
+    "title": "A Model for Performance Analysis of MPI Applications on Terascale Systems",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Srigurunath Chakravarthi",
+            "id": "2076526550",
+            "org": "MPI Software Technology Inc."
+        },
+        {
+            "name": "C. R. Krishna Kumar",
+            "id": "2670266373",
+            "org": "MPI Software Technology India Pvt. Ltd."
+        },
+        {
+            "name": "Anthony Skjellum",
+            "id": "2146998834",
+            "org": "MPI Software Technology Inc."
+        },
+        {
+            "name": "H. A. Prahalad",
+            "id": "2661020216",
+            "org": "MPI Software Technology India Pvt. Ltd."
+        },
+        {
+            "name": "Bharath Seshadri",
+            "id": "2128752889",
+            "org": "MPI Software Technology India Pvt. Ltd."
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Profiling (computer programming)",
+        "Software design",
+        "Theoretical computer science",
+        "Program analysis",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Usability",
+        "Performance tuning",
+        "User interface"
+    ],
+    "references": [
+        "1508567954",
+        "2098984303"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1523525818",
+    "title": "Exploiting Spatial and Temporal Locality of Accesses: A New Hardware-Based Monitoring Approach for DSM Systems",
+    "venue": "european conference on parallel processing",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Robert Hockauf",
+            "id": "290073258",
+            "org": "Institut fr Informatik der Technischen Universitt Mnchen"
+        },
+        {
+            "name": "Wolfgang Karl",
+            "id": "1995047450",
+            "org": "Institut fr Informatik der Technischen Universitt Mnchen"
+        },
+        {
+            "name": "Markus Leberecht",
+            "id": "326409450",
+            "org": "Institut fr Informatik der Technischen Universitt Mnchen"
+        },
+        {
+            "name": "Michael Oberhuber",
+            "id": "302302312",
+            "org": "Institut fr Informatik der Technischen Universitt Mnchen"
+        },
+        {
+            "name": "Michael Wagner",
+            "id": "2503244485",
+            "org": "Institut fr Informatik der Technischen Universitt Mnchen"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Remote memory",
+        "Locality",
+        "Distributed computing",
+        "Computer science",
+        "Circular buffer",
+        "Exploit",
+        "Systems architecture",
+        "Locality of reference"
+    ],
+    "references": [
+        "1577054627",
+        "2032732648",
+        "2109870518"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "1694077306",
+    "title": "FIE on firmware: finding vulnerabilities in embedded systems using symbolic execution",
+    "venue": "usenix security symposium",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Drew Davidson",
+            "id": "2282451864",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Benjamin Moench",
+            "id": "2285247218",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Somesh Jha",
+            "id": "2193269139",
+            "org": "University of Wisconsin-Madison#TAB#"
+        },
+        {
+            "name": "Thomas Ristenpart",
+            "id": "197246800",
+            "org": "University of Wisconsin-Madison#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Microcontroller",
+        "Software",
+        "Memory safety",
+        "Firmware",
+        "Computer science",
+        "Symbolic execution",
+        "Vulnerability",
+        "Computer security",
+        "Audit",
+        "Embedded system",
+        "Extensibility",
+        "Real-time computing"
+    ],
+    "references": [
+        "27630839",
+        "87635799",
+        "195082763",
+        "1496222301",
+        "1497028280",
+        "1559986905",
+        "1585877844",
+        "1710734607",
+        "1979693894",
+        "2008626182",
+        "2009489720",
+        "2024296478",
+        "2062200967",
+        "2095551048",
+        "2097576663",
+        "2100583963",
+        "2105614525",
+        "2107558499",
+        "2116520617",
+        "2116998907",
+        "2123070675",
+        "2132897303",
+        "2137530017",
+        "2143472559",
+        "2145385214",
+        "2159849744",
+        "2165015106",
+        "2398729674",
+        "2406734572"
+    ]
+}

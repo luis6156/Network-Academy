@@ -1,0 +1,40 @@
+{
+    "id": "1526098320",
+    "title": "FLAME: a flow-level anomaly modeling engine",
+    "venue": "usenix security symposium",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Daniela Brauckhoff",
+            "id": "1649739011",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Arno Wagner",
+            "id": "2127857902",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        },
+        {
+            "name": "Martin May",
+            "id": "2161647403",
+            "org": "ETH Zurich, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Anomaly detection",
+        "Computer security",
+        "Controllability"
+    ],
+    "references": [
+        "1484917059",
+        "1564684005",
+        "2096928898",
+        "2108673751",
+        "2113061123",
+        "2130598205",
+        "2138350171",
+        "2163034159",
+        "2164210932"
+    ]
+}

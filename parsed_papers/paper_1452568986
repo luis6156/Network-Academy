@@ -1,0 +1,84 @@
+{
+    "id": "1452568986",
+    "title": "Lazy-CSeq: A Context-Bounded Model Checking Tool for Multi-threaded C-Programs",
+    "venue": "automated software engineering",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Omar Inverso",
+            "id": "248295364",
+            "org": "Electron. & Comput. Sci., Univ. of Southampton, Southampton, UK"
+        },
+        {
+            "name": "Truc L. Nguyen",
+            "id": "2115967150",
+            "org": "Electron. & Comput. Sci., Univ. of Southampton, Southampton, UK"
+        },
+        {
+            "name": "Bernd Fischer",
+            "id": "2616912264",
+            "org": "Div. of Comput. Sci., Stellenbosch Univ., Stellenbosch, South Africa"
+        },
+        {
+            "name": "Salvatore La Torre",
+            "id": "2598748035",
+            "org": "Dipt. di Inf., Univ. degli Studi di Salerno, Fisciano, Italy"
+        },
+        {
+            "name": "Gennaro Parlato",
+            "id": "2091404442",
+            "org": "Electron. & Comput. Sci., Univ. of Southampton, Southampton, UK"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Monitor",
+        "Computer science",
+        "Concurrent computing",
+        "Distributed computing",
+        "Bounded function",
+        "Concurrency",
+        "POSIX Threads",
+        "Model checking",
+        "Assertion"
+    ],
+    "references": [
+        "115414801",
+        "121665445",
+        "155951047",
+        "207365901",
+        "234123616",
+        "349361545",
+        "1493367105",
+        "1510687364",
+        "1544533039",
+        "1560743762",
+        "1562679818",
+        "1597642815",
+        "1602156367",
+        "1710734607",
+        "1782479956",
+        "1787074469",
+        "1933255669",
+        "2029912316",
+        "2035510793",
+        "2044772623",
+        "2056637671",
+        "2061751777",
+        "2087046173",
+        "2090064527",
+        "2091879780",
+        "2109819183",
+        "2114641424",
+        "2119142490",
+        "2128453996",
+        "2129538349",
+        "2130760447",
+        "2135948849",
+        "2136797233",
+        "2143502475",
+        "2161253570",
+        "2395156089",
+        "2405051693"
+    ]
+}

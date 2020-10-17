@@ -1,0 +1,44 @@
+{
+    "id": "1504337538",
+    "title": "Implementing Ada.Real_Time.Clock and Absolute Delays in Real-Time Kernels",
+    "venue": "international conference on reliable software technologies",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Juan Zamorano",
+            "id": "2097330703",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Jose Ruiz",
+            "id": "2206376029",
+            "org": "Universidad Politecnica de Madrid"
+        },
+        {
+            "name": "Juan Antonio de la Puente",
+            "id": "2181468809",
+            "org": "Universidad Politecnica de Madrid"
+        }
+    ],
+    "fields_of_study": [
+        "Software",
+        "Human multitasking",
+        "Chip",
+        "Computer science",
+        "Timer",
+        "Embedded system",
+        "Race condition",
+        "Real-time operating system",
+        "Operating system",
+        "Interrupt handler",
+        "Real-time computing",
+        "Kernel (linear algebra)",
+        "Programming language"
+    ],
+    "references": [
+        "1529901150",
+        "1601453474",
+        "1974591841",
+        "2024481357"
+    ]
+}

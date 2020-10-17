@@ -1,0 +1,88 @@
+{
+    "id": "1682770403",
+    "title": "Change-point detection in time-series data by relative density-ratio estimation",
+    "venue": "Neural Networks",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Song Liu",
+            "id": "2233902754",
+            "org": "Tokyo Institute of Technology, 2-12-1 O-okayama, Meguro-ku, Tokyo 152-8552, Japan#TAB#"
+        },
+        {
+            "name": "Makoto Yamada",
+            "id": "2164730556",
+            "org": "NTT Communication Science Laboratories, 2-4, Hikaridai, Seika-cho, Kyoto 619-0237, Japan#TAB#"
+        },
+        {
+            "name": "Nigel Collier",
+            "id": "2112598428",
+            "org": "National Institute of Informatics (NII), 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan and European Bioinformatics Institute (EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1S ...#TAB#"
+        },
+        {
+            "name": "Masashi Sugiyama",
+            "id": "2130456104",
+            "org": "Tokyo Institute of Technology, 2-12-1 O-okayama, Meguro-ku, Tokyo 152-8552, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Time series",
+        "Pattern recognition",
+        "Kernel method",
+        "Statistics",
+        "Change detection",
+        "Ratio estimator",
+        "Divergence",
+        "Relative density",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "91088564",
+        "1512947164",
+        "1560724230",
+        "1601129096",
+        "1964274671",
+        "1966026565",
+        "1974314970",
+        "2001245517",
+        "2006501157",
+        "2009371655",
+        "2010581677",
+        "2017116866",
+        "2028563099",
+        "2045064676",
+        "2046868034",
+        "2052103094",
+        "2058148593",
+        "2086619942",
+        "2091319256",
+        "2095345875",
+        "2101895600",
+        "2102689555",
+        "2105510466",
+        "2106844107",
+        "2109531142",
+        "2112724113",
+        "2118882002",
+        "2119410311",
+        "2119821739",
+        "2120587290",
+        "2124499489",
+        "2127770723",
+        "2132870739",
+        "2136105240",
+        "2136681493",
+        "2136690843",
+        "2137981002",
+        "2140427797",
+        "2148477345",
+        "2148603752",
+        "2150621701",
+        "2157801062",
+        "2166944917",
+        "2214495238",
+        "2613860617",
+        "2811380766"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "1591611304",
+    "title": "Toward a fully parallel multigrid in time algorithm in PETSc environment: A case study in ocean models",
+    "venue": "international conference on high performance computing and simulation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Luisa Carracciuolo",
+            "id": "1988670524",
+            "org": "National Research Council, Naples, Italy"
+        },
+        {
+            "name": "Luisa D'Amore",
+            "id": "2097172280",
+            "org": "University of Naples Federico II, Italy"
+        },
+        {
+            "name": "Valeria Mele",
+            "id": "2115073858",
+            "org": "University of Naples Federico II, Italy"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "Grid",
+        "Linear system",
+        "Discretization",
+        "Multigrid method"
+    ],
+    "references": [
+        "98888689",
+        "1490448317",
+        "1502604000",
+        "1536960396",
+        "2012630580",
+        "2022916138",
+        "2037779359",
+        "2065439410",
+        "2073130516"
+    ]
+}

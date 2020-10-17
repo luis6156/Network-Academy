@@ -1,0 +1,36 @@
+{
+    "id": "1608623199",
+    "title": "Automatic segmentation of the liver in CT images using a model of approximate contour",
+    "venue": "international symposium on computer and information sciences",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Marcin Ciecholewski",
+            "id": "1975904736",
+            "org": "Institue of Automatics, AGH University of Science and Technology, Krakow, Poland#TAB#"
+        },
+        {
+            "name": "Krzysztof Debski",
+            "id": "2320910833",
+            "org": "Institue of Radiology and Nuclear Medicine, Medical University, Gdansk, Poland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Polygon",
+        "Segmentation",
+        "Computed tomography",
+        "Software",
+        "Computer vision",
+        "Computer science",
+        "Edge detection",
+        "Scale-space segmentation",
+        "Liver structure",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1483857267",
+        "1489079721",
+        "1495623034",
+        "2104095591"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "1508086784",
+    "title": "Partially Ordered Runs: A Case Study",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Yuri Gurevich",
+            "id": "2154094381",
+            "org": "University of Zagreb"
+        },
+        {
+            "name": "Dean Rosenzweig",
+            "id": "2101772180",
+            "org": "University of Zagreb"
+        }
+    ],
+    "fields_of_study": [
+        "Coherence condition",
+        "Critical section",
+        "Computer science",
+        "Distributed computing",
+        "Abstract machine",
+        "Lamport's bakery algorithm",
+        "Correctness",
+        "Initial segment",
+        "Concurrency",
+        "Deadlock"
+    ],
+    "references": [
+        "1503754652",
+        "1574117976",
+        "1600689686",
+        "1969402593",
+        "2070908350",
+        "2132638915"
+    ]
+}

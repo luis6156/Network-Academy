@@ -1,0 +1,58 @@
+{
+    "id": "1793843726",
+    "title": "Exploiting unit propagation to compute lower bounds in branch and bound Max-SAT solvers",
+    "venue": "principles and practice of constraint programming",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Chu Min Li",
+            "id": "2299865889",
+            "org": "LaRIA, Universite de Picardie Jules Verne, Amiens, France#TAB#"
+        },
+        {
+            "name": "Felip Manya",
+            "id": "2892539671",
+            "org": "Artificial Intelligence Research Institute (IIIA-CSIC), Campus UAB, Bellaterra, Spain#TAB#"
+        },
+        {
+            "name": "Jordi Planes",
+            "id": "2098550941",
+            "org": "Computer Science Department, Universitat de Lleida, Lleida, Spain#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Unit propagation",
+        "Algorithm",
+        "Branch and bound",
+        "Discrete mathematics",
+        "Computer science",
+        "Maximum satisfiability problem",
+        "Constraint satisfaction",
+        "Heuristic",
+        "Solver",
+        "Boolean satisfiability problem",
+        "Mathematical optimization",
+        "Upper and lower bounds"
+    ],
+    "references": [
+        "14839205",
+        "19577439",
+        "1504034731",
+        "1506775176",
+        "1511155470",
+        "1521053613",
+        "1530962882",
+        "1569133313",
+        "1581661059",
+        "1581890749",
+        "1667614912",
+        "1993837454",
+        "2020133533",
+        "2044560939",
+        "2075959177",
+        "2085301456",
+        "2096307462",
+        "2154474334",
+        "2156469081"
+    ]
+}

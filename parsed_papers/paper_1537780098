@@ -1,0 +1,51 @@
+{
+    "id": "1537780098",
+    "title": "A methodology to compute task remaining execution time",
+    "venue": "international symposium on computers and communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Sarah Tasneem",
+            "id": "2121995560",
+            "org": "Dept. of Comput. Sci. & Eng., Connecticut Univ., Storrs, CT, USA"
+        },
+        {
+            "name": "Reda A. Ammar",
+            "id": "2238465941",
+            "org": "Dept. of Comput. Sci. & Eng., Connecticut Univ., Storrs, CT, USA"
+        },
+        {
+            "name": "Howard A. Sholl",
+            "id": "301041003",
+            "org": "Dept. of Comput. Sci. & Eng., Connecticut Univ., Storrs, CT, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Foreground-background",
+        "Parallel computing",
+        "Two-level scheduling",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Real-time computing",
+        "Rate-monotonic scheduling",
+        "Lottery scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "I/O scheduling",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "37918579",
+        "1657203581",
+        "1996363841",
+        "2073440460",
+        "2084881175",
+        "2093268638",
+        "2109943812",
+        "2111087562",
+        "2120945246",
+        "2141925883",
+        "2146398836",
+        "2176566884"
+    ]
+}

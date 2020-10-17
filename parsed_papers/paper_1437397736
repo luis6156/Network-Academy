@@ -1,0 +1,88 @@
+{
+    "id": "1437397736",
+    "title": "Design tradeoffs for data deduplication performance in backup workloads",
+    "venue": "file and storage technologies",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Min Fu",
+            "id": "2443862508",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Dan Feng",
+            "id": "2112861373",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Yu Hua",
+            "id": "2011022802",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Xubin He",
+            "id": "2163428461",
+            "org": "Dept. of Electrical and Computer Engineering, Virginia Commonwealth University, VA#TAB#"
+        },
+        {
+            "name": "Zuoning Chen",
+            "id": "2607177775",
+            "org": "National Engineering Research Center for Parallel Computer, Beijing, China#TAB#"
+        },
+        {
+            "name": "Wen Xia",
+            "id": "2126719784",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Yucheng Zhang",
+            "id": "2497934003",
+            "org": "Wuhan National Lab for Optoelectronics, School of Computer, Huazhong University of Science and Technology, Wuhan, China#TAB#"
+        },
+        {
+            "name": "Yujuan Tan",
+            "id": "2585255654",
+            "org": "College of Computer Science, Chongqing University, Chongqing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Memory footprint",
+        "Computer science",
+        "Backup",
+        "Data deduplication",
+        "Sampling (statistics)",
+        "Parameter space",
+        "Real-time computing"
+    ],
+    "references": [
+        "5335935",
+        "22807665",
+        "69510097",
+        "120798314",
+        "182307532",
+        "200233886",
+        "1521407587",
+        "1576397915",
+        "1838765419",
+        "1871705262",
+        "1969126835",
+        "1997349095",
+        "1998817683",
+        "2016947394",
+        "2027016098",
+        "2029433591",
+        "2033062224",
+        "2038908732",
+        "2077850713",
+        "2102148930",
+        "2107551255",
+        "2123845384",
+        "2142606934",
+        "2147504831",
+        "2149509741",
+        "2156468933",
+        "2158935814",
+        "2172174733",
+        "2281363974"
+    ]
+}

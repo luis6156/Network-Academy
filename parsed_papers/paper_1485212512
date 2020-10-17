@@ -1,0 +1,40 @@
+{
+    "id": "1485212512",
+    "title": "An Optimal Locking Scheme in Object-Oriented Database Systems",
+    "venue": "web age information management",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Woochun Jun",
+            "id": "2159814393",
+            "org": "Seoul National University of Education"
+        },
+        {
+            "name": "Le Gruenwald",
+            "id": "2188709943",
+            "org": "University of Oklahoma"
+        }
+    ],
+    "fields_of_study": [
+        "Non-lock concurrency control",
+        "Object-oriented programming",
+        "Access control",
+        "Computer science",
+        "Distributed computing",
+        "Double-checked locking",
+        "Database",
+        "Concurrency control"
+    ],
+    "references": [
+        "149857224",
+        "1533048705",
+        "1545155892",
+        "1598992674",
+        "1991199257",
+        "2021367188",
+        "2119059276",
+        "2138709157",
+        "2159992382",
+        "2160017790"
+    ]
+}

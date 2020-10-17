@@ -1,0 +1,39 @@
+{
+    "id": "1552950500",
+    "title": "Graph Partitioning in Scientific Simulations: Multilevel Schemes versus Space-Filling Curves",
+    "venue": "parallel computing technologies",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Stefan Schamberger",
+            "id": "2100124067",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Jens-Michael Wierum",
+            "id": "1213567382",
+            "org": "Paderborn Center for Parallel Computing"
+        }
+    ],
+    "fields_of_study": [
+        "Space-filling curve",
+        "Numerical analysis",
+        "Mathematics",
+        "Polygon mesh",
+        "Discrete mathematics",
+        "Computation",
+        "Finite element method",
+        "Graph partition",
+        "Graph theory",
+        "Domain decomposition methods"
+    ],
+    "references": [
+        "1496529272",
+        "1563955133",
+        "2065309575",
+        "2070232376",
+        "2077240465",
+        "2095117703",
+        "2138222131"
+    ]
+}

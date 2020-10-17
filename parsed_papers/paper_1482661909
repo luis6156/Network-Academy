@@ -1,0 +1,44 @@
+{
+    "id": "1482661909",
+    "title": "Analyzing the overload behavior of a simple web server",
+    "venue": "ALS'00 Proceedings of the 4th annual Linux Showcase & Conference - Volume 4",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Niels Provos",
+            "id": "2274458662",
+            "org": "University of Michigan, Ann Arbor#TAB#"
+        },
+        {
+            "name": "Chuck Lever",
+            "id": "2096430985",
+            "org": "AOL-Netscape, Incorporated, University of Michigan, Ann Arbor#TAB#"
+        },
+        {
+            "name": "Stephen Tweedie",
+            "id": "2397551215",
+            "org": "Red Hat Software, University of Michigan, Ann Arbor#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Technical report",
+        "POSIX",
+        "Computer science",
+        "Latency (engineering)",
+        "Web server",
+        "System call",
+        "Real-time computing"
+    ],
+    "references": [
+        "56843469",
+        "1482102510",
+        "1570160575",
+        "1851082386",
+        "1969949820",
+        "2064332668",
+        "2066660519",
+        "2090260433",
+        "2753542457"
+    ]
+}

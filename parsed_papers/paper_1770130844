@@ -1,0 +1,51 @@
+{
+    "id": "1770130844",
+    "title": "Tractable inference systems: an extension with a deducibility predicate",
+    "venue": "conference on automated deduction",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Hubert Comon-Lundh",
+            "id": "324484722",
+            "org": "LSV, CNRS & ENS Cachan, France#TAB#"
+        },
+        {
+            "name": "Veronique Cortier",
+            "id": "492607290",
+            "org": "LORIA, CNRS, France#TAB#"
+        },
+        {
+            "name": "Guillaume Scerri",
+            "id": "2666271619",
+            "org": "LSV, CNRS & ENS Cachan, France,LORIA, CNRS, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Boolean satisfiability problem",
+        "Unit propagation",
+        "Predicate (grammar)",
+        "Algorithm",
+        "Horn-satisfiability",
+        "Discrete mathematics",
+        "P",
+        "Rule of inference",
+        "Horn clause",
+        "Atomic formula"
+    ],
+    "references": [
+        "188034648",
+        "1480122568",
+        "1505522548",
+        "1527450129",
+        "1860797715",
+        "1963801750",
+        "1973745704",
+        "2056241458",
+        "2108978217",
+        "2123991163",
+        "2127035198",
+        "2285541160",
+        "2572799557"
+    ]
+}

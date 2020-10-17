@@ -1,0 +1,65 @@
+{
+    "id": "1539849472",
+    "title": "A Uniform Framework for Ad-Hoc Indexes to Answer Reachability Queries on Large Graphs",
+    "venue": "database systems for advanced applications",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Linhong Zhu",
+            "id": "2114458094",
+            "org": "Nanyang Technological University, Singapore#TAB#"
+        },
+        {
+            "name": "Byron Choi",
+            "id": "2117040297",
+            "org": "Hong Kong Baptist University, China#TAB#"
+        },
+        {
+            "name": "Bingsheng He",
+            "id": "2893452594",
+            "org": "Microsoft Research Asia,#TAB#"
+        },
+        {
+            "name": "Jeffrey Xu Yu",
+            "id": "2119358208",
+            "org": "Chinese University of Hong Kong, China#TAB#"
+        },
+        {
+            "name": "Wee Keong Ng",
+            "id": "2120738522",
+            "org": "Nanyang Technological University, Singapore#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Graph (abstract data type)",
+        "Theoretical computer science",
+        "Graph database",
+        "Indexation",
+        "Computer science",
+        "Data mining",
+        "Implicit graph",
+        "Reachability",
+        "Database",
+        "Null graph",
+        "Clique-width",
+        "Transitive reduction"
+    ],
+    "references": [
+        "1502577746",
+        "1553945535",
+        "1604983895",
+        "1690273063",
+        "1880176610",
+        "1994924587",
+        "2030178622",
+        "2043655327",
+        "2064750939",
+        "2076109400",
+        "2092251403",
+        "2101282805",
+        "2102563702",
+        "2109153941",
+        "2118382442",
+        "2119514203"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "169414593",
+    "title": "Discriminative Training of Kalman Filters",
+    "venue": "robotics science and systems",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Pieter Abbeel",
+            "id": "243981275",
+            "org": "Department of Computer Science|Stanford University"
+        },
+        {
+            "name": "Adam Coates",
+            "id": "2141511558",
+            "org": "Department of Computer Science|Stanford University"
+        },
+        {
+            "name": "Michael Montemerlo",
+            "id": "1851008863",
+            "org": "Department of Computer Science|Stanford University"
+        },
+        {
+            "name": "Andrew Y. Ng",
+            "id": "2104401652",
+            "org": "Department of Computer Science|Stanford University"
+        },
+        {
+            "name": "Sebastian Thrun",
+            "id": "2075956027",
+            "org": "Department of Computer Science|Stanford University"
+        }
+    ],
+    "fields_of_study": [
+        "Pattern recognition",
+        "Computer science",
+        "Extended Kalman filter",
+        "Kalman filter",
+        "Discriminative model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1510793943",
+        "1598033630",
+        "1949804828",
+        "2103139809",
+        "2108734173",
+        "2139302369",
+        "2147880316",
+        "2148603752",
+        "2336416123"
+    ]
+}

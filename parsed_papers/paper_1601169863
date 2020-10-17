@@ -1,0 +1,51 @@
+{
+    "id": "1601169863",
+    "title": "The Sensitivity of TCP to Sudden Delay Variations in Mobile Networks",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Michael Scharf",
+            "id": "2047359752",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Marc C. Necker",
+            "id": "2087186649",
+            "org": "University of Stuttgart"
+        },
+        {
+            "name": "Bernd Gloss",
+            "id": "1837882274",
+            "org": "University of Stuttgart"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "HSTCP",
+        "Computer science",
+        "TCP tuning",
+        "TCP global synchronization",
+        "TCP Friendly Rate Control",
+        "Real-time computing",
+        "TCP delayed acknowledgment",
+        "TCP pacing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1540641082",
+        "1566678743",
+        "1594437080",
+        "1606965030",
+        "1714781699",
+        "1766083700",
+        "1993835026",
+        "2034121590",
+        "2090782608",
+        "2097668316",
+        "2105347639",
+        "2117264435",
+        "2137955662",
+        "2153486199"
+    ]
+}

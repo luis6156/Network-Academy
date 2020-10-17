@@ -1,0 +1,35 @@
+{
+    "id": "1495321475",
+    "title": "Security Weakness of Flexible Group Key Exchange with On-Demand Computation of Subgroup Keys",
+    "venue": "arXiv: Cryptography and Security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Qingfeng Cheng",
+            "id": "2722487671",
+            "org": "Zhengzhou Information Science and Technology Institute"
+        },
+        {
+            "name": "Chuangui Ma",
+            "id": "2659724744",
+            "org": "Zhengzhou Information Science and Technology Institute"
+        }
+    ],
+    "fields_of_study": [
+        "Group key",
+        "Countermeasure",
+        "Computation",
+        "Computer science",
+        "Computer security",
+        "Key (lock)",
+        "Random oracle"
+    ],
+    "references": [
+        "1709517452",
+        "1715062266",
+        "1923836303",
+        "2007909731",
+        "2116877248",
+        "2139755063"
+    ]
+}

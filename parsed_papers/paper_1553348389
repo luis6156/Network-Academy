@@ -1,0 +1,36 @@
+{
+    "id": "1553348389",
+    "title": "How branch mispredictions affect quicksort",
+    "venue": "european symposium on algorithms",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Kanela Kaligosi",
+            "id": "151234623",
+            "org": "Max Planck Institut fur Informatik, Saarbrucken, Germany#TAB#"
+        },
+        {
+            "name": "Peter Sanders",
+            "id": "2056122262",
+            "org": "Universitat Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Quicksort",
+        "Discrete mathematics",
+        "Branching (version control)",
+        "Counterintuitive",
+        "Branch predictor",
+        "Sorting algorithm"
+    ],
+    "references": [
+        "1539580421",
+        "1548333879",
+        "1555915743",
+        "2057843273",
+        "2082357899",
+        "2109426391",
+        "2172457606"
+    ]
+}

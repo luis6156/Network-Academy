@@ -1,0 +1,52 @@
+{
+    "id": "1543918313",
+    "title": "Evolutionary Heuristics for Finding Cryptographically Strong S-Boxes",
+    "venue": "international conference on information and communication security",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "William Millan",
+            "id": "1971674438",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Linda Burnett",
+            "id": "2168321920",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Gary Carter",
+            "id": "2178822063",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Andrew J. Clark",
+            "id": "2152482024",
+            "org": "Queensland University of Technology"
+        },
+        {
+            "name": "Ed Dawson",
+            "id": "2147948275",
+            "org": "Queensland University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Compromise",
+        "S-box",
+        "Heuristics",
+        "Brute-force search",
+        "Hill climbing",
+        "Genetic algorithm",
+        "Heuristic",
+        "Mathematical optimization",
+        "Rate of convergence"
+    ],
+    "references": [
+        "140633939",
+        "1531636866",
+        "1578291629",
+        "1629301835",
+        "1776788878"
+    ]
+}

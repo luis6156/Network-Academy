@@ -1,0 +1,55 @@
+{
+    "id": "1642062776",
+    "title": "Compiler optimization of C++ virtual function calls",
+    "venue": "COOTS'96 Proceedings of the 2nd conference on USENIX Conference on Object-Oriented Technologies (COOTS) - Volume 2",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Sara Porat",
+            "id": "2054103831",
+            "org": "IBM Haifa Research Laboratory, Matam, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "David Bernstein",
+            "id": "2096240259",
+            "org": "IBM Haifa Research Laboratory, Matam, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Yaroslav Fedorov",
+            "id": "2276239621",
+            "org": "IBM Haifa Research Laboratory, Matam, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Joseph Rodrigue",
+            "id": "2407843794",
+            "org": "IBM Haifa Research Laboratory, Matam, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Eran Yahav",
+            "id": "2194672974",
+            "org": "IBM Haifa Research Laboratory, Matam, Haifa, Israel#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Inline function",
+        "Intrinsic function",
+        "Double dispatch",
+        "Interprocedural optimization",
+        "Computer science",
+        "Single Compilation Unit",
+        "Copy elision",
+        "Optimizing compiler",
+        "Real-time computing",
+        "Program optimization"
+    ],
+    "references": [
+        "1574093496",
+        "1637758212",
+        "1922020944",
+        "1982322251",
+        "2041910814",
+        "2073888041",
+        "2093334386",
+        "2095390121"
+    ]
+}

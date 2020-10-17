@@ -1,0 +1,45 @@
+{
+    "id": "1506585282",
+    "title": "Improving integral attacks against Rijndael-256 up to 9 rounds",
+    "venue": "international conference on progress in cryptology",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Samuel Galice",
+            "id": "1149727930",
+            "org": "CITI, INSA-Lyon, Villeurbanne#TAB#"
+        },
+        {
+            "name": "Marine Minier",
+            "id": "2170245978",
+            "org": "CITI, INSA-Lyon, Villeurbanne#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "XSL attack",
+        "Block cipher",
+        "Cipher",
+        "Algorithm",
+        "Theoretical computer science",
+        "Cryptanalysis",
+        "Advanced Encryption Standard",
+        "Plaintext",
+        "3-Way",
+        "Rijndael key schedule"
+    ],
+    "references": [
+        "45309531",
+        "85295516",
+        "1542020576",
+        "1568817903",
+        "1587120902",
+        "1588952639",
+        "1593401740",
+        "1596744447",
+        "1676521748",
+        "1798672631",
+        "2061323203",
+        "2109265351"
+    ]
+}

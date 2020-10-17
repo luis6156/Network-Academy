@@ -1,0 +1,69 @@
+{
+    "id": "1590243065",
+    "title": "LT-TCP: end-to-end framework to improve TCP performance over networks with lossy channels",
+    "venue": "international workshop on quality of service",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Omesh Tickoo",
+            "id": "2242195575",
+            "org": "Dept. of ECSE, RPI#TAB#"
+        },
+        {
+            "name": "Vijaynarayanan Subramanian",
+            "id": "2109767171",
+            "org": "Dept. of ECSE, RPI#TAB#"
+        },
+        {
+            "name": "Shivkumar Kalyanaraman",
+            "id": "1969120992",
+            "org": "Dept. of ECSE, RPI#TAB#"
+        },
+        {
+            "name": "K. K. Ramakrishnan",
+            "id": "2133259603",
+            "org": "AT&T Labs Research#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "TCP Westwood plus",
+        "Zeta-TCP",
+        "Computer science",
+        "CUBIC TCP",
+        "H-TCP",
+        "TCP tuning",
+        "Maximum segment size",
+        "TCP global synchronization",
+        "Computer network",
+        "Real-time computing",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1572391794",
+        "1601332534",
+        "1608848201",
+        "1609755472",
+        "1752514067",
+        "1763580265",
+        "1766239798",
+        "1799261774",
+        "1866225161",
+        "1887783640",
+        "1976680514",
+        "1993835026",
+        "1997517797",
+        "2001393432",
+        "2008793926",
+        "2021085547",
+        "2088024958",
+        "2098578006",
+        "2108481447",
+        "2110414676",
+        "2138186717",
+        "2144265621",
+        "2150286524",
+        "2161342511",
+        "2296125569",
+        "2336581025"
+    ]
+}

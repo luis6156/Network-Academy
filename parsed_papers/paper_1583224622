@@ -1,0 +1,40 @@
+{
+    "id": "1583224622",
+    "title": "Linear cryptanalysis using multiple approximations and FEAL",
+    "venue": "fast software encryption",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Burton S. Kaliski",
+            "id": "2235882987",
+            "org": "RSA Laboratories"
+        },
+        {
+            "name": "Matthew J. B. Robshaw",
+            "id": "2297649051",
+            "org": "RSA Laboratories"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Block cipher",
+        "Linear approximation",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "FEAL",
+        "Higher-order differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "380217570",
+        "1523702841",
+        "1531810027",
+        "1537206908",
+        "1542500920",
+        "1553753418",
+        "1599572980",
+        "1862865750",
+        "1964723977",
+        "1979802565"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "1586689125",
+    "title": "On compressing encrypted data without the encryption key",
+    "venue": "theory of cryptography conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mark S. Johnson",
+            "id": "2809873608",
+            "org": "University of California"
+        },
+        {
+            "name": "David A. Wagner",
+            "id": "2109123731",
+            "org": "University of California"
+        },
+        {
+            "name": "Kannan Ramchandran",
+            "id": "2205924584",
+            "org": "University of California"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Data compression",
+        "Theoretical computer science",
+        "Client-side encryption",
+        "Computer science",
+        "Key (cryptography)",
+        "Key generator",
+        "Encryption",
+        "Communication channel",
+        "Lossless compression"
+    ],
+    "references": [
+        "1547410848",
+        "1868552688",
+        "2044492449",
+        "2088587246",
+        "2099213070",
+        "2110110846",
+        "2138256990",
+        "2142521365",
+        "2146101030",
+        "2146963604",
+        "2148180254",
+        "2340787257"
+    ]
+}

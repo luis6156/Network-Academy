@@ -1,0 +1,36 @@
+{
+    "id": "1661175875",
+    "title": "On a fast correlation attack on certain stream ciphers",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1991,
+    "authors": [
+        {
+            "name": "Vladimir V. Chepyzhov",
+            "id": "1656450185",
+            "org": "Institute for Problems of Information Transmission, USSR Academy of Sciences, Moscow, USSR#TAB#"
+        },
+        {
+            "name": "Ben Smeets",
+            "id": "2653011320",
+            "org": "Department of Information Theory, Lund University, Lund, Sweden#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Polynomial",
+        "Theoretical computer science",
+        "Computer science",
+        "Stream cipher",
+        "Exponential growth",
+        "Linear code",
+        "Shift register",
+        "Recovery procedure",
+        "Correlation attack",
+        "Berlekamp-Massey algorithm"
+    ],
+    "references": [
+        "1979198062",
+        "2108139581",
+        "2127909992",
+        "2161517294"
+    ]
+}

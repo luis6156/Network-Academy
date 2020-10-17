@@ -1,0 +1,53 @@
+{
+    "id": "1748850098",
+    "title": "Integrated Spatio-Temporal Segmentation of Longitudinal Brain Tumor Imaging Studies",
+    "venue": "International MICCAI Workshop on Medical Computer Vision",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Stefan Bauer",
+            "id": "1987619973",
+            "org": "University of Bern"
+        },
+        {
+            "name": "Jean Tessier",
+            "id": "2829420142",
+            "org": "F. Hoffmann-La Roche Ltd."
+        },
+        {
+            "name": "Oliver Krieter",
+            "id": "2083418458",
+            "org": "Roche Diagnostics GmbH"
+        },
+        {
+            "name": "Lutz-Peter Nolte",
+            "id": "2054196965",
+            "org": "University of Bern"
+        },
+        {
+            "name": "Mauricio Reyes",
+            "id": "2342913785",
+            "org": "University of Bern"
+        }
+    ],
+    "fields_of_study": [
+        "Biology",
+        "Segmentation",
+        "Pattern recognition",
+        "Glioma",
+        "Conditional random field",
+        "Bioinformatics",
+        "Brain tumor",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1865761",
+        "1524094261",
+        "2012433182",
+        "2037316890",
+        "2041131965",
+        "2098056602",
+        "2098762572",
+        "2141460808"
+    ]
+}

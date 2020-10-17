@@ -1,0 +1,43 @@
+{
+    "id": "1606276444",
+    "title": "Two Techniques to Improve Finite Model Search",
+    "venue": "conference on automated deduction",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Gilles Audemard",
+            "id": "83376002",
+            "org": "Centre de Mathematiques et d'Informatique"
+        },
+        {
+            "name": "Belaid Benhamou",
+            "id": "953609139",
+            "org": "Centre de Mathematiques et d'Informatique"
+        },
+        {
+            "name": "Laurent Henocque",
+            "id": "134422231",
+            "org": "Centre de Mathematiques et d'Informatique"
+        }
+    ],
+    "fields_of_study": [
+        "Unit propagation",
+        "Algorithm",
+        "Branching (version control)",
+        "Computer science",
+        "Constraint satisfaction",
+        "Program transformation",
+        "Local consistency",
+        "Heuristic",
+        "Program optimization",
+        "Rewriting"
+    ],
+    "references": [
+        "14839205",
+        "130655838",
+        "1488799655",
+        "1805394487",
+        "2012294154",
+        "2033561430"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "1594122454",
+    "title": "Hash-merge join: a non-blocking join algorithm for producing fast and early join results",
+    "venue": "international conference on data engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Mohamed F. Mokbel",
+            "id": "696807755",
+            "org": "Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA"
+        },
+        {
+            "name": "Ming Lu",
+            "id": "2574443025",
+            "org": "Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA"
+        },
+        {
+            "name": "Walid G. Aref",
+            "id": "220758600",
+            "org": "Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Operator (computer programming)",
+        "Parallel computing",
+        "Algorithm",
+        "Recursive join",
+        "Merge (version control)",
+        "Distributed computing",
+        "Computer science",
+        "Hash join",
+        "Database",
+        "Block nested loop",
+        "Sort-merge join",
+        "Hash function"
+    ],
+    "references": [
+        "150801922",
+        "1589482605",
+        "1684311429",
+        "1858414509",
+        "1997020216",
+        "2015372451",
+        "2020147322",
+        "2078528123",
+        "2095891890",
+        "2097345556",
+        "2109149785",
+        "2132808937",
+        "2148322068",
+        "2151663987",
+        "2157637666",
+        "2158237121",
+        "2164433331",
+        "2169486917",
+        "2201552871",
+        "2203361072",
+        "2296677182"
+    ]
+}

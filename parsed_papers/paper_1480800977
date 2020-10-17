@@ -1,0 +1,58 @@
+{
+    "id": "1480800977",
+    "title": "An Innovative Energy-Aware Cloud Task Scheduling Framework",
+    "venue": "international conference on cloud computing",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Abdulrahman Alahmadi",
+            "id": "2223686990",
+            "org": "Dept. of Comput. Sci., Southern Illinois Univ., Carbondale, IL, USA"
+        },
+        {
+            "name": "Dunren Che",
+            "id": "2797989507",
+            "org": "Dept. of Comput. Sci., Southern Illinois Univ., Carbondale, IL, USA"
+        },
+        {
+            "name": "Mustafa Khaleel",
+            "id": "2232406763",
+            "org": "Dept. of Comput. Sci., Southern Illinois Univ., Carbondale, IL, USA"
+        },
+        {
+            "name": "Michelle M. Zhu",
+            "id": "2102777786",
+            "org": "Dept. of Comput. Sci., Southern Illinois Univ., Carbondale, IL, USA"
+        },
+        {
+            "name": "Parsia Ghodous",
+            "id": "2225656583",
+            "org": "Dept. of Comput. Sci., Univ. Lyon 1, Villeurbanne, France"
+        }
+    ],
+    "fields_of_study": [
+        "Round-robin scheduling",
+        "Two-level scheduling",
+        "CloudSim",
+        "Computer science",
+        "Distributed computing",
+        "Dynamic priority scheduling",
+        "Rate-monotonic scheduling",
+        "Fixed-priority pre-emptive scheduling",
+        "Real-time computing",
+        "Cloud computing",
+        "Fair-share scheduling"
+    ],
+    "references": [
+        "1627076825",
+        "1995521716",
+        "2013445029",
+        "2027737396",
+        "2109558263",
+        "2124146147",
+        "2128033718",
+        "2149472591",
+        "2159081109",
+        "2166361539"
+    ]
+}

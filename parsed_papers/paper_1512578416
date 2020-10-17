@@ -1,0 +1,38 @@
+{
+    "id": "1512578416",
+    "title": "A physical model for DT-MRI based connectivity map computation",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Erdem Yoruk",
+            "id": "1970428918",
+            "org": "Department of Electrical&Electronics Engineering, Bogazici University, Turkey#TAB#"
+        },
+        {
+            "name": "Burak Acar",
+            "id": "2460459563",
+            "org": "Department of Electrical&Electronics Engineering, Bogazici University, Turkey#TAB#"
+        },
+        {
+            "name": "Roland Bammer",
+            "id": "2052419594",
+            "org": "LUCAS MRS/I Center, Department of Radiology, Stanford University, CA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Stable map",
+        "Brain White Matter",
+        "Energy minimization",
+        "Computation",
+        "Computer science",
+        "Anisotropy",
+        "Physical system",
+        "Kernel smoother",
+        "Topology"
+    ],
+    "references": [
+        "127809959",
+        "142794626"
+    ]
+}

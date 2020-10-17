@@ -1,0 +1,57 @@
+{
+    "id": "1661854482",
+    "title": "Flexible coscheduling: mitigating load imbalance and improving utilization of heterogeneous resources",
+    "venue": "international parallel and distributed processing symposium",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Eitan Frachtenberg",
+            "id": "86554823",
+            "org": "Comput. & Computational Sci. Div., Los Alamos Nat. Lab., NM, USA"
+        },
+        {
+            "name": "Dror G. Feitelson",
+            "id": "2137277626",
+            "org": "Los Alamos National Laboratory"
+        },
+        {
+            "name": "Fabrizio Petrini",
+            "id": "2190729344",
+            "org": "Los Alamos National Laboratory"
+        },
+        {
+            "name": "Juan C. Fernandez",
+            "id": "2141412950",
+            "org": "Hebrew University of Jerusalem"
+        }
+    ],
+    "fields_of_study": [
+        "Resource management",
+        "Parallel computing",
+        "Resource allocation",
+        "Slicing",
+        "Job scheduler",
+        "Computer science",
+        "Distributed computing",
+        "Gang scheduling",
+        "Coscheduling",
+        "Computer cluster",
+        "Load balancing (computing)"
+    ],
+    "references": [
+        "1543037292",
+        "1596277129",
+        "1810115926",
+        "1850405760",
+        "2045271686",
+        "2055228661",
+        "2094526959",
+        "2104994660",
+        "2106843513",
+        "2143966293",
+        "2151080836",
+        "2153848178",
+        "2168722543",
+        "2533204039"
+    ]
+}

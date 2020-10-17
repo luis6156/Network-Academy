@@ -1,0 +1,55 @@
+{
+    "id": "170118461",
+    "title": "RRT-plan: a randomized algorithm for STRIPS planning",
+    "venue": "international conference on automated planning and scheduling",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Daniel Burfoot",
+            "id": "2301274353",
+            "org": "Centre for Intelligent Machines, McGill University, Montreal, Canada#TAB#"
+        },
+        {
+            "name": "Joelle Pineau",
+            "id": "2092672596",
+            "org": "Centre for Intelligent Machines, McGill University, Montreal, Canada#TAB#"
+        },
+        {
+            "name": "Gregory Dudek",
+            "id": "2044010133",
+            "org": "Centre for Intelligent Machines, McGill University, Montreal, Canada#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Randomized algorithm",
+        "Planner",
+        "Motion planning",
+        "Computer science",
+        "STRIPS",
+        "Random tree",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "143123170",
+        "1491690797",
+        "1545688112",
+        "1568398390",
+        "1683730406",
+        "1731763842",
+        "1781384914",
+        "2061146398",
+        "2101217972",
+        "2101512350",
+        "2101901809",
+        "2110415190",
+        "2111384628",
+        "2114193135",
+        "2135998713",
+        "2141664020",
+        "2147334703",
+        "2162288387",
+        "2167963482"
+    ]
+}

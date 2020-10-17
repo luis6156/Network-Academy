@@ -1,0 +1,56 @@
+{
+    "id": "1670792291",
+    "title": "Atomic recovery units: failure atomicity for logical disks",
+    "venue": "international conference on distributed computing systems",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Robert Grimm",
+            "id": "2164693876",
+            "org": "Lab. for Comput. Sci., MIT, Cambridge, MA, USA"
+        },
+        {
+            "name": "Wilson C. Hsieh",
+            "id": "2136379990",
+            "org": "Lab. for Comput. Sci., MIT, Cambridge, MA, USA"
+        },
+        {
+            "name": "M.F. Kaashoek",
+            "id": "2847401311",
+            "org": "Lab. for Comput. Sci., MIT, Cambridge, MA, USA"
+        },
+        {
+            "name": "W. de Jonge",
+            "id": "2723362930",
+            "org": "Massachusetts Institute of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Unix file types",
+        "Logical disk",
+        "Computer science",
+        "Distributed computing",
+        "Versioning file system",
+        "Disk mirroring",
+        "Stub file",
+        "File system fragmentation",
+        "Self-certifying File System",
+        "Real-time computing",
+        "Volume (computing)"
+    ],
+    "references": [
+        "201248661",
+        "1515932031",
+        "1538319448",
+        "2090844738",
+        "2093793584",
+        "2108183412",
+        "2114167330",
+        "2115600841",
+        "2140317247",
+        "2165848246",
+        "2171352284",
+        "2205436351"
+    ]
+}

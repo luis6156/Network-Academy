@@ -1,0 +1,44 @@
+{
+    "id": "1596888534",
+    "title": "Logging kernel events on clusters",
+    "venue": "international conference on computational science",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Jurgen Reuter",
+            "id": "2153883688",
+            "org": "Institut fur Programmstrukturen und Datenorganisation, Fakultat fur Informatik, Universitat Karlsruhe, Karlsruhe, Germany#TAB#"
+        },
+        {
+            "name": "Walter F. Tichy",
+            "id": "2074083528",
+            "org": "Institut fur Programmstrukturen und Datenorganisation, Fakultat fur Informatik, Universitat Karlsruhe, Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Computer science",
+        "Distributed computing",
+        "Gang scheduling",
+        "Scheduling (computing)",
+        "System time",
+        "Visualization",
+        "Configfs",
+        "Interrupt handler",
+        "Real-time computing",
+        "Computer cluster"
+    ],
+    "references": [
+        "1534946390",
+        "1595501290",
+        "1655105796",
+        "1850760600",
+        "2125722135",
+        "2129317091",
+        "2133778458",
+        "2140348269",
+        "2143229717",
+        "2144433126",
+        "2172126802"
+    ]
+}

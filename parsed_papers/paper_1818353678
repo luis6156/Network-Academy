@@ -1,0 +1,43 @@
+{
+    "id": "1818353678",
+    "title": "Cryptanalysis of TWIS block cipher",
+    "venue": "WEWoRC'11 Proceedings of the 4th Western European conference on Research in Cryptology",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Onur Kocak",
+            "id": "2127481564",
+            "org": "Institute of Applied Mathematics, Middle East Technical University, Turkey#TAB#"
+        },
+        {
+            "name": "Nese Oztop",
+            "id": "1768191086",
+            "org": "Institute of Applied Mathematics, Middle East Technical University, Turkey#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Affine cipher",
+        "Block cipher",
+        "Theoretical computer science",
+        "Transposition cipher",
+        "Two-square cipher",
+        "Slide attack",
+        "Stream cipher attack",
+        "CBC-MAC",
+        "Polyalphabetic cipher"
+    ],
+    "references": [
+        "1512497838",
+        "1541703086",
+        "1541853791",
+        "1569252980",
+        "1607874478",
+        "1629301835",
+        "1758440352",
+        "1894646615",
+        "1964723977",
+        "2076397729",
+        "2130585055"
+    ]
+}

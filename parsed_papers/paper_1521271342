@@ -1,0 +1,51 @@
+{
+    "id": "1521271342",
+    "title": "Extending real-time heuristic search Part I: Dynamically-changing goal sets",
+    "venue": "Multiagent and Grid Systems",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Said Kerrache",
+            "id": "2253477212",
+            "org": "University of Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8573, Japan#TAB#"
+        },
+        {
+            "name": "Habiba Drias",
+            "id": "2306801064",
+            "org": "National Institute of Computer Science, BP 68M Oued Smar, Elharrach, Algiers 16309, Algeria#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Search algorithm",
+        "Incremental heuristic search",
+        "Computer science",
+        "Distributed computing",
+        "State space search",
+        "Iterative deepening depth-first search",
+        "Bidirectional search",
+        "Best-first search",
+        "Fringe search"
+    ],
+    "references": [
+        "1666476",
+        "146271727",
+        "256487942",
+        "1521672401",
+        "1582355372",
+        "1646038686",
+        "1668099530",
+        "1982948368",
+        "2021061679",
+        "2083104145",
+        "2106389684",
+        "2107591285",
+        "2122128939",
+        "2137351138",
+        "2140471031",
+        "2142047061",
+        "2148927391",
+        "2155710497",
+        "2156750468"
+    ]
+}

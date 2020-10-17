@@ -1,0 +1,68 @@
+{
+    "id": "1549171111",
+    "title": "Side Channels in the McEliece PKC",
+    "venue": "PQCrypto '08 Proceedings of the 2nd International Workshop on Post-Quantum Cryptography",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Falko Strenzke",
+            "id": "2654084954",
+            "org": "FlexSecure GmbH, Germany#TAB#"
+        },
+        {
+            "name": "Erik Tews",
+            "id": "1485344885",
+            "org": "Cryptography and Computeralgebra, Department of Computer Science, Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "H. Gregor Molter",
+            "id": "2016983243",
+            "org": "Integrated Circuits and Systems Lab, Department of Computer Science, Technische Universitat Darmstadt, Germany#TAB#"
+        },
+        {
+            "name": "Raphael Overbeck",
+            "id": "2678755369",
+            "org": "Ecole Polytechnique Federale de Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Abdulhadi Shoufan",
+            "id": "2793459308",
+            "org": "Integrated Circuits and Systems Lab, Department of Computer Science, Technische Universitat Darmstadt, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Side channel attack",
+        "Post-quantum cryptography",
+        "Distributed computing",
+        "Computer security",
+        "Cryptosystem",
+        "McEliece cryptosystem",
+        "Engineering",
+        "Public-key cryptography",
+        "Quantum cryptography",
+        "Timing attack",
+        "Key generation"
+    ],
+    "references": [
+        "1499081748",
+        "1566345534",
+        "1579684562",
+        "1594742286",
+        "1600113341",
+        "1613874182",
+        "1660562555",
+        "1664808737",
+        "1832887889",
+        "1996360405",
+        "2001123117",
+        "2003736153",
+        "2099250555",
+        "2108834246",
+        "2131019288",
+        "2135205181",
+        "2137147061",
+        "2154909745",
+        "2156186849",
+        "2168676717"
+    ]
+}

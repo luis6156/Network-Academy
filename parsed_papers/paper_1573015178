@@ -1,0 +1,52 @@
+{
+    "id": "1573015178",
+    "title": "Mining numbers in text using suffix arrays and clustering based on dirichlet process mixture models",
+    "venue": "knowledge discovery and data mining",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Minoru Yoshida",
+            "id": "2224840993",
+            "org": "University of Tokyo, Tokyo#TAB#"
+        },
+        {
+            "name": "Issei Sato",
+            "id": "2148390776",
+            "org": "University of Tokyo, Tokyo#TAB#"
+        },
+        {
+            "name": "Hiroshi Nakagawa",
+            "id": "2094248864",
+            "org": "University of Tokyo, Tokyo#TAB#"
+        },
+        {
+            "name": "Akira Terada",
+            "id": "2097864428",
+            "org": "Japan Airlines, Tokyo, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Suffix",
+        "Pattern recognition",
+        "Computer science",
+        "Data mining",
+        "Latent Dirichlet allocation",
+        "Dirichlet process",
+        "Generalized suffix tree",
+        "Suffix array",
+        "Cluster analysis",
+        "Compressed suffix array",
+        "Mixture model",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1496765408",
+        "1506845741",
+        "1666941160",
+        "1969173824",
+        "1985748883",
+        "2120636621",
+        "2158874082"
+    ]
+}

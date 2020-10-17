@@ -1,0 +1,50 @@
+{
+    "id": "1537617436",
+    "title": "BioPortal as a dataset of linked biomedical ontologies and terminologies in RDF",
+    "venue": "Semantic Web archive",
+    "year": 2013,
+    "authors": [
+        {
+            "name": "Manuel Salvadores",
+            "id": "2311069779",
+            "org": "Stanford Center for Biomedical Informatics Research, Stanford University, USA. E-mail: {manuelso,palexander,musen,noy}@stanford.edu#TAB#"
+        },
+        {
+            "name": "Paul R. Alexander",
+            "id": "2251990520",
+            "org": "Stanford Center for Biomedical Informatics Research, Stanford University, USA. E-mail: {manuelso,palexander,musen,noy}@stanford.edu#TAB#"
+        },
+        {
+            "name": "Mark A. Musen",
+            "id": "2169034151",
+            "org": "Stanford Center for Biomedical Informatics Research, Stanford University, USA. E-mail: {manuelso,palexander,musen,noy}@stanford.edu#TAB#"
+        },
+        {
+            "name": "Natalya Fridman Noy",
+            "id": "2021138233",
+            "org": "Stanford Center for Biomedical Informatics Research, Stanford University, USA. E-mail: {manuelso,palexander,musen,noy}@stanford.edu#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Open Biomedical Ontologies",
+        "Ontology (information science)",
+        "Computer science",
+        "Linked data",
+        "Metadata",
+        "SPARQL",
+        "RDF Schema",
+        "Information retrieval",
+        "RDF",
+        "Web Ontology Language"
+    ],
+    "references": [
+        "69498482",
+        "91108659",
+        "181857603",
+        "1601038846",
+        "1809130274",
+        "2116231264",
+        "2131660156",
+        "2168528736"
+    ]
+}

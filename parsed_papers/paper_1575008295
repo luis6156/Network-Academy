@@ -1,0 +1,45 @@
+{
+    "id": "1575008295",
+    "title": "Dynamic C++ classes: a lightweight mechanism to update code in a running program",
+    "venue": "usenix annual technical conference",
+    "year": 1998,
+    "authors": [
+        {
+            "name": "Gisli Hjalmtysson",
+            "id": "2232155595",
+            "org": "AT&T Labs - Research, Florham Park, NJ#TAB#"
+        },
+        {
+            "name": "Robert S. Gray",
+            "id": "2120463413",
+            "org": "Thayer School of Engineering, Dartmouth College, Hanover, NH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dynamic software updating",
+        "Compiler",
+        "Allocator",
+        "Smart pointer",
+        "Computer science",
+        "Class implementation file",
+        "Programmer",
+        "Run-time type information",
+        "Operating system",
+        "Real-time computing",
+        "Programming language",
+        "Proxy pattern"
+    ],
+    "references": [
+        "5488697",
+        "15290526",
+        "70883290",
+        "90487644",
+        "1483827732",
+        "1587166076",
+        "2081788205",
+        "2093635516",
+        "2125213362",
+        "2134342348",
+        "2336741951"
+    ]
+}

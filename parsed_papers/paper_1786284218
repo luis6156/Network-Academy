@@ -1,0 +1,57 @@
+{
+    "id": "1786284218",
+    "title": "Real-time 3D ball trajectory estimation for RoboCup middle size league using a single camera",
+    "venue": "robot soccer world cup",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Hugo Silva",
+            "id": "2501470531",
+            "org": "INESC PORTO/ISEP, ISEP, Instituto Superior de Engenharia do Porto, Escola Superior de Estudos Industriais e de Gestao, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Andre Dias",
+            "id": "2097559862",
+            "org": "INESC PORTO/ISEP, ISEP, Instituto Superior de Engenharia do Porto, Escola Superior de Estudos Industriais e de Gestao, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Jose Miguel Almeida",
+            "id": "2166517978",
+            "org": "INESC PORTO/ISEP, ISEP, Instituto Superior de Engenharia do Porto, Escola Superior de Estudos Industriais e de Gestao, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Alfredo Martins",
+            "id": "2279411251",
+            "org": "INESC PORTO/ISEP, ISEP, Instituto Superior de Engenharia do Porto, Escola Superior de Estudos Industriais e de Gestao, Porto, Portugal#TAB#"
+        },
+        {
+            "name": "Eduardo Silva",
+            "id": "2098722833",
+            "org": "INESC PORTO/ISEP, ISEP, Instituto Superior de Engenharia do Porto, Escola Superior de Estudos Industriais e de Gestao, Porto, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Simulation",
+        "League",
+        "Recursion",
+        "Computer vision",
+        "Monocular vision",
+        "Computer science",
+        "Ground truth",
+        "Extended Kalman filter",
+        "Monocular",
+        "Trajectory",
+        "Architecture",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "150212305",
+        "1485514918",
+        "1540058391",
+        "1553094409",
+        "1997436935",
+        "1999575292",
+        "2116153333",
+        "2126106288"
+    ]
+}

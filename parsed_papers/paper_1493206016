@@ -1,0 +1,57 @@
+{
+    "id": "1493206016",
+    "title": "Implementing sequentially consistent shared objects using broadcast and point-to-point communication",
+    "venue": "international conference on distributed computing systems",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Alan Fekete",
+            "id": "2154123352",
+            "org": "Dept. of Comput. Sci., Sydney Univ., NSW, Australia"
+        },
+        {
+            "name": "M. F. Kaashoek",
+            "id": "2653256773",
+            "org": "tDepartment of Computer Science|MIT Laboratory for Computes Science|University of Sydney"
+        },
+        {
+            "name": "Nancy A. Lynch",
+            "id": "2180706138",
+            "org": "tDepartment of Computer Science|MIT Laboratory for Computes Science|University of Sydney"
+        }
+    ],
+    "fields_of_study": [
+        "Distributed algorithm",
+        "Point-to-point",
+        "Sequential consistency",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Broadcast communication network",
+        "Communication channel",
+        "Broadcasting",
+        "Real-time computing",
+        "Computer network",
+        "Multicast"
+    ],
+    "references": [
+        "1545792627",
+        "1769402780",
+        "1973501242",
+        "1978074610",
+        "1990936405",
+        "2007567551",
+        "2051789131",
+        "2054739713",
+        "2101939036",
+        "2102584610",
+        "2114925953",
+        "2118153508",
+        "2125267672",
+        "2126990153",
+        "2133486861",
+        "2176864362",
+        "2295903464",
+        "2611515161"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "1580713326",
+    "title": "Model Checking Multi-Agent Programs with CASP",
+    "venue": "computer aided verification",
+    "year": 2003,
+    "authors": [
+        {
+            "name": "Rafael H. Bordini",
+            "id": "362231347",
+            "org": "University of Liverpool"
+        },
+        {
+            "name": "Michael Fisher",
+            "id": "2096665950",
+            "org": "University of Liverpool"
+        },
+        {
+            "name": "Carmen Pardavila",
+            "id": "2091157572",
+            "org": "University of Liverpool"
+        },
+        {
+            "name": "Willem Visser",
+            "id": "2157438562",
+            "org": "RIACS/NASA Ames Research Center"
+        },
+        {
+            "name": "Michael Wooldridge",
+            "id": "2345025092",
+            "org": "University of Liverpool"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Algorithm",
+        "Computer science",
+        "SPIN model checker",
+        "Deliberation",
+        "CASP",
+        "Rational agent",
+        "Abstraction",
+        "Model checking",
+        "Linear temporal logic",
+        "Logic programming"
+    ],
+    "references": [
+        "1489391022",
+        "1976097854",
+        "2103739844",
+        "2145899763",
+        "2171480813"
+    ]
+}

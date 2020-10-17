@@ -1,0 +1,47 @@
+{
+    "id": "1583784092",
+    "title": "MPC-MPI: An MPI Implementation Reducing the Overall Memory Consumption",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Marc Perache",
+            "id": "953794469",
+            "org": "CEA, DAM, DIF, Arpajon, France F-91297#TAB#"
+        },
+        {
+            "name": "Patrick Carribault",
+            "id": "2798676322",
+            "org": "CEA, DAM, DIF, Arpajon, France F-91297#TAB#"
+        },
+        {
+            "name": "Herve Jourdren",
+            "id": "2576872286",
+            "org": "CEA, DAM, DIF, Arpajon, France F-91297#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Interleaved memory",
+        "Uniform memory access",
+        "Memory management",
+        "Non-uniform memory access",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Registered memory"
+    ],
+    "references": [
+        "22448193",
+        "1602359794",
+        "1623282124",
+        "1998141415",
+        "2053663473",
+        "2081612620",
+        "2114262241",
+        "2128274900",
+        "2140264347",
+        "2142562690"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1704483751",
+    "title": "Improved Bounds on Security Reductions for Discrete Log Based Signatures",
+    "venue": "international cryptology conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Sanjam Garg",
+            "id": "2111572205",
+            "org": "IIT, Delhi, India#TAB#"
+        },
+        {
+            "name": "Raghav Bhaskar",
+            "id": "2131141885",
+            "org": "Microsoft Research India, Bangalore, India#TAB#"
+        },
+        {
+            "name": "Satyanarayana V. Lokam",
+            "id": "234956361",
+            "org": "Microsoft Research India, Bangalore, India#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Discrete logarithm",
+        "Discrete mathematics",
+        "Combinatorics",
+        "Algebraic number",
+        "Schnorr signature",
+        "Random oracle",
+        "Baby-step giant-step",
+        "Upper and lower bounds",
+        "Provable security"
+    ],
+    "references": [
+        "1508759756",
+        "1646354800",
+        "1660562555",
+        "1880955573",
+        "2023083137",
+        "2052267638",
+        "2166462813",
+        "2169194339",
+        "2493686639"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1669180877",
+    "title": "From serial loops to parallel execution on distributed systems",
+    "venue": "international conference on parallel processing",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "George Bosilca",
+            "id": "339462875",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Aurelien Bouteiller",
+            "id": "2121807780",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Anthony Danalis",
+            "id": "545624236",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Thomas Herault",
+            "id": "177990261",
+            "org": "University of Tennessee, Knoxville, TN#TAB#"
+        },
+        {
+            "name": "Jack J. Dongarra",
+            "id": "288512535",
+            "org": "University of Tennessee, Knoxville, TN, USA, University of Manchester, Manchester, UK#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Functional compiler",
+        "Compiler",
+        "Compiler construction",
+        "Data flow diagram",
+        "Compiler correctness",
+        "Software portability",
+        "Exploit",
+        "Loop optimization"
+    ],
+    "references": [
+        "1494930385",
+        "1533186609",
+        "1969923711",
+        "1980999196",
+        "1995270665",
+        "2007962166",
+        "2020165759",
+        "2032391783",
+        "2034761517",
+        "2061305782",
+        "2065823344",
+        "2076485607",
+        "2078113878",
+        "2078314687",
+        "2079235644",
+        "2097699872",
+        "2101285930",
+        "2107742417",
+        "2111364199",
+        "2112482891",
+        "2113277707",
+        "2114067856",
+        "2124480634",
+        "2128249697",
+        "2137086253",
+        "2148597203",
+        "2153439050",
+        "2153913439",
+        "2158577386",
+        "2163488221",
+        "2168612748",
+        "2169631286"
+    ]
+}

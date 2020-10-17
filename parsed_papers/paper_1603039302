@@ -1,0 +1,51 @@
+{
+    "id": "1603039302",
+    "title": "Towards Easy-to-Use Checkpointing of MPI Applications within CLUSTERIX",
+    "venue": "parallel computing in electrical engineering",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Pawel Czarnul",
+            "id": "2085347578",
+            "org": "Gdansk University of Technology, Poland"
+        },
+        {
+            "name": "Arkadiusz Urbaniak",
+            "id": "2340620780",
+            "org": "Gdansk University of Technology, Poland#TAB#"
+        },
+        {
+            "name": "Marcin Fraczak",
+            "id": "2443427394",
+            "org": "Gdansk University of Technology, Poland#TAB#"
+        },
+        {
+            "name": "Maciej Dyczkowski",
+            "id": "2125474689",
+            "org": "Wroclaw University of Technology#TAB#"
+        },
+        {
+            "name": "Bartlomiej Balcerek",
+            "id": "2716733893",
+            "org": "Wroclaw University of Technology#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "SPMD",
+        "Process state",
+        "Computer science",
+        "Distributed computing",
+        "Message passing"
+    ],
+    "references": [
+        "1537929875",
+        "1562472872",
+        "1571582830",
+        "1767718504",
+        "2030907583",
+        "2045879521",
+        "2106763580",
+        "2132458035"
+    ]
+}

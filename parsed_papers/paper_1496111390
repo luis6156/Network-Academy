@@ -1,0 +1,41 @@
+{
+    "id": "1496111390",
+    "title": "Automatic mutual exclusion",
+    "venue": "workshop on hot topics in operating systems",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Michael Isard",
+            "id": "2004792601",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        },
+        {
+            "name": "Andrew Birrell",
+            "id": "2779861439",
+            "org": "Microsoft Research, Silicon Valley#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Legacy code",
+        "Computer science",
+        "Concurrent computing",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Mutual exclusion",
+        "Serialization",
+        "Correctness",
+        "Programming paradigm",
+        "Real-time computing",
+        "Software transactional memory",
+        "Programming language"
+    ],
+    "references": [
+        "1521891776",
+        "1995057602",
+        "1995503716",
+        "2105055683",
+        "2108204150",
+        "2129990308",
+        "2167710134"
+    ]
+}

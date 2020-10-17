@@ -1,0 +1,80 @@
+{
+    "id": "1587317090",
+    "title": "Dynamic resource allocation for database servers running on virtual storage",
+    "venue": "file and storage technologies",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Gokul Soundararajan",
+            "id": "2305737780",
+            "org": "Department of Electrical and Computer Engineering, University of Toronto#TAB#"
+        },
+        {
+            "name": "Daniel Lupei",
+            "id": "224132505",
+            "org": "Department of Electrical and Computer Engineering, University of Toronto#TAB#"
+        },
+        {
+            "name": "Saeed Ghanbari",
+            "id": "2051198127",
+            "org": "Department of Electrical and Computer Engineering, University of Toronto#TAB#"
+        },
+        {
+            "name": "Adrian Popescu",
+            "id": "2340378199",
+            "org": "Department of Electrical and Computer Engineering, University of Toronto#TAB#"
+        },
+        {
+            "name": "Jin Chen",
+            "id": "2121244630",
+            "org": "Department of Computer Science, University of Toronto#TAB#"
+        },
+        {
+            "name": "Cristiana Amza",
+            "id": "2107834659",
+            "org": "Department of Electrical and Computer Engineering, University of Toronto#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Parallel computing",
+        "Resource allocation",
+        "Cache coloring",
+        "Allocator",
+        "Computer science",
+        "Hierarchy",
+        "File server",
+        "Real-time computing",
+        "Database server"
+    ],
+    "references": [
+        "54400829",
+        "137206813",
+        "1520815598",
+        "1551508721",
+        "1569184546",
+        "1580054209",
+        "1992331625",
+        "1998927861",
+        "2001500256",
+        "2054308357",
+        "2072753794",
+        "2111087562",
+        "2111338347",
+        "2117406969",
+        "2121542813",
+        "2121598006",
+        "2128418848",
+        "2131726714",
+        "2137226992",
+        "2138428327",
+        "2144916960",
+        "2151795327",
+        "2156599987",
+        "2158310845",
+        "2163012480",
+        "2164705534",
+        "2172191070"
+    ]
+}

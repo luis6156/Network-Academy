@@ -1,0 +1,88 @@
+{
+    "id": "1437814062",
+    "title": "SUPOR: precise and scalable sensitive user input detection for android apps",
+    "venue": "usenix security symposium",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jianjun Huang",
+            "id": "2346927377",
+            "org": "Department of Computer Science, Purdue University#TAB#"
+        },
+        {
+            "name": "Zhichun Li",
+            "id": "2777641154",
+            "org": "NEC Labs America#TAB#"
+        },
+        {
+            "name": "Xusheng Xiao",
+            "id": "2110208788",
+            "org": "NEC Labs America#TAB#"
+        },
+        {
+            "name": "Zhenyu Wu",
+            "id": "2552658497",
+            "org": "NEC Labs America#TAB#"
+        },
+        {
+            "name": "Kangjie Lu",
+            "id": "2149428023",
+            "org": "School of Computer Science, Georgia Institute of Technology#TAB#"
+        },
+        {
+            "name": "Xiangyu Zhang",
+            "id": "2157206324",
+            "org": "Department of Computer Science, Purdue University#TAB#"
+        },
+        {
+            "name": "Guofei Jiang",
+            "id": "2168090285",
+            "org": "NEC Labs America#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Computer science",
+        "Computer security",
+        "Taint checking",
+        "Password",
+        "Android (operating system)",
+        "Information sensitivity",
+        "Internet privacy",
+        "User interface"
+    ],
+    "references": [
+        "79696261",
+        "81879861",
+        "124941384",
+        "781283046",
+        "1438616768",
+        "1507338659",
+        "1555215938",
+        "1963971515",
+        "1988036170",
+        "2018956134",
+        "2019798206",
+        "2028806953",
+        "2032724464",
+        "2041276426",
+        "2061445336",
+        "2078197322",
+        "2083794595",
+        "2085577046",
+        "2097606805",
+        "2122672392",
+        "2122997043",
+        "2125011234",
+        "2133280805",
+        "2158888459",
+        "2164019165",
+        "2164539435",
+        "2164948420",
+        "2166743230",
+        "2168649891",
+        "2172081876",
+        "2398354233",
+        "2398484989"
+    ]
+}

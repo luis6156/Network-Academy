@@ -1,0 +1,117 @@
+{
+    "id": "1441763937",
+    "title": "f4: Facebook's warm BLOB storage system",
+    "venue": "operating systems design and implementation",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Subramanian Muralidhar",
+            "id": "2286857652",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Wyatt Lloyd",
+            "id": "2114199729",
+            "org": "University of Southern California and Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Sabyasachi Roy",
+            "id": "2125748045",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Cory Hill",
+            "id": "2291817600",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Ernest Lin",
+            "id": "2281948856",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Weiwen Liu",
+            "id": "2478337473",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Satadru Pan",
+            "id": "2276667518",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Shiva Shankar",
+            "id": "2429061838",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Viswanath Sivakumar",
+            "id": "2073068065",
+            "org": "Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Linpeng Tang",
+            "id": "2894520314",
+            "org": "Princeton University and Facebook Inc.#TAB#"
+        },
+        {
+            "name": "Sanjeev Kumar",
+            "id": "2617761387",
+            "org": "Facebook Inc.#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Binary large object",
+        "Computer data storage",
+        "Throughput",
+        "Haystack",
+        "Computer science",
+        "Latency (engineering)",
+        "Storage efficiency",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "154253821",
+        "1236737278",
+        "1476041289",
+        "1483412554",
+        "1592162257",
+        "1785664926",
+        "1825603816",
+        "1836955865",
+        "1964089084",
+        "1974401809",
+        "1981420413",
+        "1995790197",
+        "1999984505",
+        "2005373714",
+        "2012706015",
+        "2018292377",
+        "2025413686",
+        "2029467255",
+        "2032431003",
+        "2035606364",
+        "2087000303",
+        "2088221489",
+        "2104210894",
+        "2107460938",
+        "2107502666",
+        "2108183412",
+        "2115600841",
+        "2116142433",
+        "2116777751",
+        "2119565742",
+        "2124288146",
+        "2135916267",
+        "2137808089",
+        "2138744797",
+        "2141884312",
+        "2146033465",
+        "2147343704",
+        "2147504831",
+        "2147527217",
+        "2147853062",
+        "2613324619"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "1807555227",
+    "title": "Tardigrade: leveraging lightweight virtual machines to easily and efficiently construct fault-tolerant services",
+    "venue": "networked systems design and implementation",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Jacob R. Lorch",
+            "id": "2150137935",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Andrew Baumann",
+            "id": "2150586784",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Lisa Glendenning",
+            "id": "2099959597",
+            "org": "University of Washington#TAB#"
+        },
+        {
+            "name": "Dutch T. Meyer",
+            "id": "2110980001",
+            "org": "University of British Columbia#TAB#"
+        },
+        {
+            "name": "Andrew Warfield",
+            "id": "2106730373",
+            "org": "University of British Columbia#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer science",
+        "Sandbox (computer security)",
+        "Distributed computing",
+        "Virtual machine",
+        "Real-time computing",
+        "Fault tolerance"
+    ],
+    "references": [
+        "15883",
+        "192446467",
+        "1850597240",
+        "1900515362",
+        "1978714022",
+        "1992479210",
+        "1997269120",
+        "2007537982",
+        "2013592197",
+        "2114579022",
+        "2117350649",
+        "2118671104",
+        "2118726720",
+        "2121133177",
+        "2121178808",
+        "2121542813",
+        "2130846554",
+        "2131053137",
+        "2134337235",
+        "2138107754",
+        "2138180780",
+        "2147853062",
+        "2152465173",
+        "2154884316",
+        "2156332425",
+        "2157801087",
+        "2164170013",
+        "2164901581",
+        "2172126130",
+        "2216311525"
+    ]
+}

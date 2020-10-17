@@ -1,0 +1,57 @@
+{
+    "id": "1748251377",
+    "title": "Formal System Development with KIV",
+    "venue": "fundamental approaches to software engineering",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Michael Balser",
+            "id": "2308594213",
+            "org": "Universitat Ulm"
+        },
+        {
+            "name": "Wolfgang Reif",
+            "id": "2139633246",
+            "org": "Universitat Ulm"
+        },
+        {
+            "name": "Gerhard Schellhorn",
+            "id": "123694094",
+            "org": "Universitat Ulm"
+        },
+        {
+            "name": "Kurt Stenzel",
+            "id": "2131326225",
+            "org": "Universitat Ulm"
+        },
+        {
+            "name": "Andreas Thums",
+            "id": "250619553",
+            "org": "Universitat Ulm"
+        }
+    ],
+    "fields_of_study": [
+        "Computer security model",
+        "Abstract state machines",
+        "ITSEC",
+        "Executable",
+        "Computer science",
+        "Compiler",
+        "Data type",
+        "Correctness",
+        "Formal system",
+        "Programming language"
+    ],
+    "references": [
+        "71478258",
+        "99916501",
+        "1490966766",
+        "1512176711",
+        "1533795866",
+        "1553730215",
+        "1555430809",
+        "1593511312",
+        "1818561783",
+        "2132638915"
+    ]
+}

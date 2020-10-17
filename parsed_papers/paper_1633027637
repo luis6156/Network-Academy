@@ -1,0 +1,50 @@
+{
+    "id": "1633027637",
+    "title": "Person authentication based on hand shape",
+    "venue": "signal processing and communications applications conference",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Erdem Yoruk",
+            "id": "1970428918",
+            "org": "Electrical and Electronic Engineering Department, Bogazici University, Bebek, Istanbul, Turkey"
+        },
+        {
+            "name": "Ender Konukoglu",
+            "id": "2504475462",
+            "org": "Electrical and Electronic Engineering Department, Bogazici University, Bebek, Istanbul, Turkey"
+        },
+        {
+            "name": "Bulent Sankur",
+            "id": "1443609876",
+            "org": "Electrical and Electronic Engineering Department, Bogazici University, Bebek, Istanbul, Turkey"
+        },
+        {
+            "name": "Jerome Darbon",
+            "id": "2777043771",
+            "org": "EPITA (Ecole Pour l'Informatique et les Techniques Avancees), Paris, France"
+        }
+    ],
+    "fields_of_study": [
+        "Virtual colonoscopy",
+        "Access control",
+        "Computer vision",
+        "Pattern recognition",
+        "Computer science",
+        "Silhouette",
+        "Contextual image classification",
+        "Authentication",
+        "Hand geometry",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1543181810",
+        "1554023438",
+        "1987497528",
+        "2035782554",
+        "2119332272",
+        "2123649031",
+        "2130972944",
+        "2139517647"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1517010824",
+    "title": "Defense against low-rate TCP-targeted denial-of-service attacks",
+    "venue": "international symposium on computers and communications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Guang Yang",
+            "id": "2604342441",
+            "org": "Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA"
+        },
+        {
+            "name": "Mario Gerla",
+            "id": "563121846",
+            "org": "Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA"
+        },
+        {
+            "name": "M. Y. Sanadidi",
+            "id": "1992374527",
+            "org": "Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Timeout",
+        "Compound TCP",
+        "Zeta-TCP",
+        "Retransmission",
+        "Computer science",
+        "TCP tuning",
+        "TCP global synchronization",
+        "Computer network",
+        "Real-time computing",
+        "TCP sequence prediction attack",
+        "TCP acceleration"
+    ],
+    "references": [
+        "1540641082",
+        "1969949820",
+        "1984707196",
+        "2105347639",
+        "2130583399",
+        "2133671968",
+        "2153486199",
+        "2158733823",
+        "2532683353"
+    ]
+}

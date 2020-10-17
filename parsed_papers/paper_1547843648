@@ -1,0 +1,54 @@
+{
+    "id": "1547843648",
+    "title": "A new DDoS detection model using multiple SVMs and TRA",
+    "venue": "embedded and ubiquitous computing",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jungtaek Seo",
+            "id": "2126361023",
+            "org": "National Security Research Institute, Daejeon, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Cheolho Lee",
+            "id": "2141337710",
+            "org": "National Security Research Institute, Daejeon, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Taeshik Shon",
+            "id": "2092121144",
+            "org": "CIST, KOREA University, Seoul, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Kyuhyung Cho",
+            "id": "2312188776",
+            "org": "CIST, KOREA University, Seoul, Republic of Korea#TAB#"
+        },
+        {
+            "name": "Jongsub Moon",
+            "id": "2097599302",
+            "org": "CIST, KOREA University, Seoul, Republic of Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Denial-of-service attack",
+        "Computer science",
+        "Distributed computing",
+        "False positive rate",
+        "Support vector machine",
+        "Ubiquitous computing",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1486542739",
+        "1524600321",
+        "1638203394",
+        "2005406777",
+        "2081357650",
+        "2127273221",
+        "2139212933",
+        "2157157130",
+        "2170529556"
+    ]
+}

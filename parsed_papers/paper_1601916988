@@ -1,0 +1,59 @@
+{
+    "id": "1601916988",
+    "title": "Shape-based diffeomorphic registration on hippocampal surfaces using beltrami holomorphic flow",
+    "venue": "medical image computing and computer assisted intervention",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Lok Ming Lui",
+            "id": "2570591422",
+            "org": "Department of Mathematics, Harvard University, Cambridge, MA and Department of Mathematics, UCLA, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "Tsz Wai Wong",
+            "id": "2129040750",
+            "org": "Department of Mathematics, UCLA, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "Paul M. Thompson",
+            "id": "2114138198",
+            "org": "Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA#TAB#"
+        },
+        {
+            "name": "Tony F. Chan",
+            "id": "2156155040",
+            "org": "Hong Kong University of Science and Technology, Hong Kong#TAB#"
+        },
+        {
+            "name": "Xianfeng Gu",
+            "id": "2113143229",
+            "org": "Department of Computer Science, SUNY Stony Brook, Stony Brook, NY#TAB#"
+        },
+        {
+            "name": "Shing-Tung Yau",
+            "id": "2106526481",
+            "org": "Department of Mathematics, Harvard University, Cambridge, MA#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Indexation",
+        "Holomorphic function",
+        "Shape analysis (digital geometry)",
+        "Topology",
+        "Diffeomorphism",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "1532229066",
+        "1994954091",
+        "1997202486",
+        "2011842664",
+        "2032977736",
+        "2042070546",
+        "2127033124",
+        "2141383192",
+        "2142441066",
+        "2143736779"
+    ]
+}

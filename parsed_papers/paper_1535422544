@@ -1,0 +1,49 @@
+{
+    "id": "1535422544",
+    "title": "Implementation of Parallel Collection Equi-Join Using MPI",
+    "venue": "parallel computing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Nung Kion Lee",
+            "id": "2121032659",
+            "org": "Monash University"
+        },
+        {
+            "name": "David Taniar",
+            "id": "2250317084",
+            "org": "La Trobe University"
+        },
+        {
+            "name": "J. Wenny Rahayu",
+            "id": "2524068582",
+            "org": "Monash University"
+        },
+        {
+            "name": "Mafruz Zaman Ashrafi",
+            "id": "2115649788",
+            "org": "La Trobe University"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Object-oriented programming",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Data parallelism",
+        "sort",
+        "Hash join",
+        "Message Passing Interface",
+        "Message passing",
+        "Joins",
+        "Programming language"
+    ],
+    "references": [
+        "1793564634",
+        "2121755579",
+        "2123975697",
+        "2132536544",
+        "2136277825"
+    ]
+}

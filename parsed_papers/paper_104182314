@@ -1,0 +1,65 @@
+{
+    "id": "104182314",
+    "title": "p -Cipher: Authenticated Encryption for Big Data",
+    "venue": "nordic conference on secure it systems",
+    "year": 2014,
+    "authors": [
+        {
+            "name": "Danilo Gligoroski",
+            "id": "304236320",
+            "org": "NTNU"
+        },
+        {
+            "name": "Hristina Mihajloska",
+            "id": "2012269760",
+            "org": "FCSE, \"Ss Cyril and Methodius\" University"
+        },
+        {
+            "name": "Simona Samardjiska",
+            "id": "2791267368",
+            "org": "NTNU"
+        },
+        {
+            "name": "Hakon Jacobsen",
+            "id": "2798409316",
+            "org": "NTNU"
+        },
+        {
+            "name": "Rune Erlend Jensen",
+            "id": "2158624627",
+            "org": "NTNU"
+        },
+        {
+            "name": "Mohamed El-Hadedy",
+            "id": "2222741781",
+            "org": "NTNU"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptographic primitive",
+        "Cryptography",
+        "Block cipher",
+        "Theoretical computer science",
+        "Block cipher mode of operation",
+        "Cipher",
+        "Ranging",
+        "Cryptographic nonce",
+        "Distributed computing",
+        "Computer science",
+        "Authenticated encryption"
+    ],
+    "references": [
+        "1503638523",
+        "1531269151",
+        "1548701190",
+        "1553650484",
+        "1802259427",
+        "2133065964",
+        "2145227448",
+        "2152723805",
+        "2153530968",
+        "2167569963",
+        "2295261975",
+        "2404376426"
+    ]
+}

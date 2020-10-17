@@ -1,0 +1,44 @@
+{
+    "id": "1521013649",
+    "title": "Memory reuse for CHR",
+    "venue": "international conference on logic programming",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jon Sneyers",
+            "id": "85281905",
+            "org": "Dept. of Computer Science, K.U. Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Tom Schrijvers",
+            "id": "1504167664",
+            "org": "Dept. of Computer Science, K.U. Leuven, Belgium#TAB#"
+        },
+        {
+            "name": "Bart Demoen",
+            "id": "713720536",
+            "org": "Dept. of Computer Science, K.U. Leuven, Belgium#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Algorithm",
+        "Memory footprint",
+        "Computer science",
+        "Garbage collection",
+        "Constraint Handling Rules",
+        "Constraint satisfaction",
+        "Constrained optimization",
+        "Correctness",
+        "Optimizing compiler",
+        "CPU cache"
+    ],
+    "references": [
+        "1498867194",
+        "1519788915",
+        "1542629157",
+        "1578535952",
+        "2056750970",
+        "2079333278"
+    ]
+}

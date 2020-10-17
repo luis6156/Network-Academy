@@ -1,0 +1,51 @@
+{
+    "id": "1579743517",
+    "title": "Fast Generation of Pairs (k, [k]P) for Koblitz Elliptic Curves",
+    "venue": "selected areas in cryptography",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Jean-Sebastien Coron",
+            "id": "2130492708",
+            "org": "Ecole Normale Superieure"
+        },
+        {
+            "name": "David M'raihi",
+            "id": "1584275688",
+            "org": "Gemplus Card International 3 Lagoon Drive--Suite 300 94065-1566 Redwood City CA USA"
+        },
+        {
+            "name": "Christophe Tymen",
+            "id": "71261984",
+            "org": "Ecole Normale Superieure 45 rue d'Ulm 75230 Paris France"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Scalar multiplication",
+        "Discrete mathematics",
+        "Encryption",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Polynomial basis",
+        "Elliptic curve",
+        "Pseudorandom generator"
+    ],
+    "references": [
+        "81386586",
+        "1507106163",
+        "1520091057",
+        "1561590459",
+        "1584722274",
+        "1646354800",
+        "1751761265",
+        "2003736153",
+        "2095708839",
+        "2099317248",
+        "2107347355",
+        "2109801498",
+        "2161531038",
+        "2208595511"
+    ]
+}

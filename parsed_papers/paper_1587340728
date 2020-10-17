@@ -1,0 +1,50 @@
+{
+    "id": "1587340728",
+    "title": "Experiences using minos as a tool for capturing and analyzing novel worms for unknown vulnerabilities",
+    "venue": "international conference on detection of intrusions and malware and vulnerability assessment",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Jedidiah R. Crandall",
+            "id": "2292347190",
+            "org": "Computer Science Department, University of California at Davis#TAB#"
+        },
+        {
+            "name": "S. Felix Wu",
+            "id": "2648878583",
+            "org": "Computer Science Department, University of California at Davis#TAB#"
+        },
+        {
+            "name": "Frederic T. Chong",
+            "id": "2236701477",
+            "org": "Computer Science Department, University of California at Davis#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Control flow",
+        "Program analysis",
+        "Computer science",
+        "Distributed computing",
+        "Microarchitecture",
+        "Intrusion detection system",
+        "Buffer overflow",
+        "Exploit",
+        "Architecture",
+        "Honeypot"
+    ],
+    "references": [
+        "1485086418",
+        "1498585374",
+        "1540548505",
+        "1597305440",
+        "1671661096",
+        "2036709951",
+        "2097174997",
+        "2100666033",
+        "2102970979",
+        "2103919170",
+        "2138926528",
+        "2147767253",
+        "2163762767"
+    ]
+}

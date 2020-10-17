@@ -1,0 +1,45 @@
+{
+    "id": "1573329052",
+    "title": "Understanding and addressing blocking-induced network server latency",
+    "venue": "usenix annual technical conference",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Yaoping Ruan",
+            "id": "2037831908",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Vivek S. Pai",
+            "id": "2303316918",
+            "org": "Princeton University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Inter-process communication",
+        "Computer science",
+        "Queue",
+        "Scheduling (computing)",
+        "Server",
+        "Latency (engineering)",
+        "Web server",
+        "Real-time computing"
+    ],
+    "references": [
+        "1489152739",
+        "1495070269",
+        "1532659787",
+        "1553596078",
+        "1593686717",
+        "1606894208",
+        "2101204871",
+        "2105321788",
+        "2105772643",
+        "2114398912",
+        "2126022651",
+        "2148620466",
+        "2152407381",
+        "2167756215"
+    ]
+}

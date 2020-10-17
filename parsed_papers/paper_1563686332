@@ -1,0 +1,87 @@
+{
+    "id": "1563686332",
+    "title": "An efficient on-the-fly cycle collection",
+    "venue": "compiler construction",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Harel Paz",
+            "id": "2168970265",
+            "org": "Dept. of Computer Science, Technion - Israel Institute of Technology, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Erez Petrank",
+            "id": "123545119",
+            "org": "Dept. of Computer Science, Technion - Israel Institute of Technology, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "David F. Bacon",
+            "id": "2069733440",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        },
+        {
+            "name": "Elliot K. Kolodner",
+            "id": "2020275207",
+            "org": "IBM Haifa Research Lab#TAB#"
+        },
+        {
+            "name": "V. T. Rajan",
+            "id": "2206207446",
+            "org": "IBM T.J. Watson Research Center#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Parallel computing",
+        "Computer science",
+        "Garbage collection",
+        "Backup",
+        "Tracing",
+        "Memory management",
+        "Multiprocessing",
+        "Reference counting",
+        "Runtime system",
+        "Real-time computing"
+    ],
+    "references": [
+        "1484799852",
+        "1545451070",
+        "1583464938",
+        "1702434361",
+        "1965601529",
+        "1967924971",
+        "1971233256",
+        "1987079491",
+        "1998569509",
+        "2000387981",
+        "2001595400",
+        "2002250868",
+        "2009049834",
+        "2020431536",
+        "2024190114",
+        "2031707629",
+        "2046866979",
+        "2049820860",
+        "2062372058",
+        "2062730511",
+        "2079043385",
+        "2080953060",
+        "2084659024",
+        "2099972435",
+        "2104055277",
+        "2112630372",
+        "2127007340",
+        "2129105805",
+        "2130376240",
+        "2137239193",
+        "2146340823",
+        "2148499966",
+        "2151261044",
+        "2156004619",
+        "2158525816",
+        "2160068354",
+        "2161318861",
+        "2161531345",
+        "2162435060"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "1579008505",
+    "title": "Constrained heuristic search",
+    "venue": "international joint conference on artificial intelligence",
+    "year": 1989,
+    "authors": [
+        {
+            "name": "Mark S. Fox",
+            "id": "2144997312",
+            "org": "Robotics Institute & Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        },
+        {
+            "name": "Norman M. Sadeh",
+            "id": "100648250",
+            "org": "Robotics Institute & Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        },
+        {
+            "name": "Can A. Baykan",
+            "id": "1990061600",
+            "org": "Robotics Institute & Computer Science Department, Carnegie Mellon University, Pittsburgh, Pennsylvania#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Incremental heuristic search",
+        "Computer science",
+        "Min-conflicts algorithm",
+        "Constraint satisfaction",
+        "Iterative deepening depth-first search",
+        "Guided Local Search",
+        "Best-first search",
+        "Heuristic",
+        "Mathematical optimization",
+        "Machine learning",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1981627423",
+        "2002478775",
+        "2020475839",
+        "2021337406",
+        "2042619750",
+        "2051768896",
+        "2061734130",
+        "2068852367",
+        "2085621600",
+        "2135432705",
+        "2180809782"
+    ]
+}

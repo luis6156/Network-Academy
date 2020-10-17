@@ -1,0 +1,53 @@
+{
+    "id": "1546138476",
+    "title": "Fast elliptic curve algorithm combining Frobenius map and table reference to adapt to higher characteristic",
+    "venue": "theory and application of cryptographic techniques",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Tetsutaro Kobayashi",
+            "id": "2153766434",
+            "org": "NTT Laboratories, Nippon Telegraph and Telephone Corporation, Yokosuka-shi, Kanagawa-ken, Japan#TAB#"
+        },
+        {
+            "name": "Hikaru Morita",
+            "id": "2097033960",
+            "org": "NTT Laboratories, Nippon Telegraph and Telephone Corporation, Yokosuka-shi, Kanagawa-ken, Japan#TAB#"
+        },
+        {
+            "name": "Kunio Kobayashi",
+            "id": "2513495652",
+            "org": "NTT Laboratories, Nippon Telegraph and Telephone Corporation, Yokosuka-shi, Kanagawa-ken, Japan#TAB#"
+        },
+        {
+            "name": "Fumitaka Hoshino",
+            "id": "2774641610",
+            "org": "NTT Laboratories, Nippon Telegraph and Telephone Corporation, Yokosuka-shi, Kanagawa-ken, Japan#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Schoof-Elkies-Atkin algorithm",
+        "Algorithm",
+        "Elliptic Curve Digital Signature Algorithm",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Schoof's algorithm",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1489132985",
+        "1507106163",
+        "1529013801",
+        "1538333734",
+        "1539482743",
+        "1869939343",
+        "1989258293",
+        "2054020579",
+        "2155937429",
+        "2161531038"
+    ]
+}

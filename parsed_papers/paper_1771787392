@@ -1,0 +1,46 @@
+{
+    "id": "1771787392",
+    "title": "On-line adaptive parallel prefix computation",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Jean-Louis Roch",
+            "id": "2092360786",
+            "org": "Laboratoire d'Informatique de Grenoble, Equipe MOAIS (CNRS-INRIA-INPG-UJF), Montbonnot Saint Martin, France#TAB#"
+        },
+        {
+            "name": "Daouda Traore",
+            "id": "2525683959",
+            "org": "Laboratoire d'Informatique de Grenoble, Equipe MOAIS (CNRS-INRIA-INPG-UJF), Montbonnot Saint Martin, France#TAB#"
+        },
+        {
+            "name": "Julien Bernard",
+            "id": "2764108991",
+            "org": "Laboratoire d'Informatique de Grenoble, Equipe MOAIS (CNRS-INRIA-INPG-UJF), Montbonnot Saint Martin, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Sequential algorithm",
+        "Computer science",
+        "Distributed computing",
+        "Computation",
+        "Scheduling (computing)",
+        "Adaptive algorithm",
+        "Parallel algorithm",
+        "Prefix code",
+        "Upper and lower bounds",
+        "Work stealing"
+    ],
+    "references": [
+        "1484741854",
+        "1996868125",
+        "2064073280",
+        "2072725684",
+        "2074224805",
+        "2081855978",
+        "2082248799",
+        "2143462372"
+    ]
+}

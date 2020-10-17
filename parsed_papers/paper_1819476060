@@ -1,0 +1,44 @@
+{
+    "id": "1819476060",
+    "title": "Costs and Benefits of Multithreading with Off-the-Shelf RISC Processors",
+    "venue": "european conference on parallel processing",
+    "year": 1995,
+    "authors": [
+        {
+            "name": "Olivier Maquelin",
+            "id": "1874353872",
+            "org": "McGill University"
+        },
+        {
+            "name": "Herbert H. J. Hum",
+            "id": "2096074820",
+            "org": "Concordia University"
+        },
+        {
+            "name": "Guang R. Gao",
+            "id": "1909978535",
+            "org": "McGill University"
+        }
+    ],
+    "fields_of_study": [
+        "Context switch",
+        "Parallel computing",
+        "Computer architecture",
+        "Computer science",
+        "Reduced instruction set computing",
+        "Multiprocessing",
+        "Multithreading",
+        "Execution unit",
+        "Synchronization",
+        "Cost-benefit analysis"
+    ],
+    "references": [
+        "1614268734",
+        "2011311244",
+        "2109189514",
+        "2116425892",
+        "2145851359",
+        "2152056423",
+        "2155066383"
+    ]
+}

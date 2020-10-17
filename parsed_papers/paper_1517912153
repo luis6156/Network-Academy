@@ -1,0 +1,50 @@
+{
+    "id": "1517912153",
+    "title": "Optimizing Mutual Exclusion Synchronization in Explicitly Parallel Programs",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2000,
+    "authors": [
+        {
+            "name": "Diego Novillo",
+            "id": "2133099532",
+            "org": "Red Hat Canada, Ltd."
+        },
+        {
+            "name": "Ronald C. Unrau",
+            "id": "2894579520",
+            "org": "Red Hat Canada, Ltd."
+        },
+        {
+            "name": "Jonathan Schaeffer",
+            "id": "2278512575",
+            "org": "University of Alberta"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Critical section",
+        "Computer science",
+        "Distributed computing",
+        "Mutual exclusion",
+        "Program transformation",
+        "Semaphore",
+        "Optimizing compiler",
+        "Synchronization",
+        "Program optimization"
+    ],
+    "references": [
+        "1491178396",
+        "1507881093",
+        "1936400588",
+        "1966285605",
+        "1982205631",
+        "2002427499",
+        "2050048491",
+        "2055060936",
+        "2056941229",
+        "2065818693",
+        "2094449661",
+        "2112482891",
+        "2163488221"
+    ]
+}

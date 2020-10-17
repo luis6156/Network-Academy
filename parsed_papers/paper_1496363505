@@ -1,0 +1,47 @@
+{
+    "id": "1496363505",
+    "title": "How to prevent DPA and fault attack in a unified way for ECC scalar multiplication: ring extension method",
+    "venue": "information security practice and experience",
+    "year": 2007,
+    "authors": [
+        {
+            "name": "Yoo-Jin Baek",
+            "id": "2036098971",
+            "org": "Embedded SW Center, Samsung Electronics, Korea#TAB#"
+        },
+        {
+            "name": "Ihor Vasyltsov",
+            "id": "2626212534",
+            "org": "Embedded SW Center, Samsung Electronics, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Side channel attack",
+        "Scalar multiplication",
+        "Subring",
+        "Computer security",
+        "Elliptic curve point multiplication",
+        "Elliptic curve cryptography",
+        "Cryptosystem",
+        "Elliptic curve",
+        "Fault injection"
+    ],
+    "references": [
+        "1501265301",
+        "1521664783",
+        "1522228241",
+        "1532398039",
+        "1565369953",
+        "1582598608",
+        "1660562555",
+        "1712428406",
+        "1935672779",
+        "2003736153",
+        "2096133993",
+        "2104841597",
+        "2137567577",
+        "2154909745"
+    ]
+}

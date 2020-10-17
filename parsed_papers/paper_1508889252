@@ -1,0 +1,87 @@
+{
+    "id": "1508889252",
+    "title": "Subspace similarity search: efficient k-NN queries in arbitrary subspaces",
+    "venue": "statistical and scientific database management",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Thomas Bernecker",
+            "id": "1977319283",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Tobias Emrich",
+            "id": "2056229408",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Franz Graf",
+            "id": "2699017785",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Hans-Peter Kriegel",
+            "id": "1919135125",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Peer Kroger",
+            "id": "2100673337",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Matthias Renz",
+            "id": "2150497105",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Erich Schubert",
+            "id": "2011689237",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        },
+        {
+            "name": "Arthur Zimek",
+            "id": "242745652",
+            "org": "Institut fur Informatik, Ludwig-Maximilians-Universitat Munchen#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Nearest neighbor search",
+        "Full table scan",
+        "Indexation",
+        "Pattern recognition",
+        "Linear subspace",
+        "Data mining",
+        "Computer science",
+        "Subspace topology",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "1541459201",
+        "1564444521",
+        "1595303882",
+        "1672197616",
+        "1964094468",
+        "1969357402",
+        "2018416842",
+        "2031043614",
+        "2066060819",
+        "2079361215",
+        "2097042476",
+        "2118269922",
+        "2119479037",
+        "2126777999",
+        "2134206624",
+        "2135033814",
+        "2144241215",
+        "2145725688",
+        "2148013500",
+        "2151135734",
+        "2155130690",
+        "2159086712",
+        "2165533158",
+        "2168532736",
+        "2238624099",
+        "2666600683"
+    ]
+}

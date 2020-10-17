@@ -1,0 +1,76 @@
+{
+    "id": "1552242122",
+    "title": "Okamoto-Tanaka revisited: fully authenticated diffie-hellman with minimal overhead",
+    "venue": "applied cryptography and network security",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rosario Gennaro",
+            "id": "2108521744",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, New York#TAB#"
+        },
+        {
+            "name": "Hugo Krawczyk",
+            "id": "2025616804",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, New York#TAB#"
+        },
+        {
+            "name": "Tal Rabin",
+            "id": "2131142900",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, New York#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Universal composability",
+        "Computer science",
+        "Distributed computing",
+        "Forward secrecy",
+        "Overhead (computing)",
+        "Computer security",
+        "Oakley protocol",
+        "Key-agreement protocol",
+        "Diffie-Hellman key exchange",
+        "Otway-Rees protocol",
+        "Certificate"
+    ],
+    "references": [
+        "140743382",
+        "1485374110",
+        "1502577962",
+        "1506423323",
+        "1511771844",
+        "1525737403",
+        "1536074886",
+        "1549244102",
+        "1550137840",
+        "1561441787",
+        "1569083856",
+        "1586563142",
+        "1592052841",
+        "1593401740",
+        "1660562555",
+        "1822822445",
+        "1921661296",
+        "1927099252",
+        "1969694673",
+        "1979828147",
+        "1989407184",
+        "1994386233",
+        "1998368731",
+        "2009432965",
+        "2076965705",
+        "2087115651",
+        "2096832922",
+        "2117455301",
+        "2134679597",
+        "2137943631",
+        "2147172043",
+        "2153281696",
+        "2155672489",
+        "2156186849",
+        "2164988972",
+        "2166362740",
+        "2227653143"
+    ]
+}

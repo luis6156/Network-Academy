@@ -1,0 +1,44 @@
+{
+    "id": "1498889240",
+    "title": "Improving performance of OpenMP for SMP clusters through overlapped page migrations",
+    "venue": "international workshop on openmp",
+    "year": 2005,
+    "authors": [
+        {
+            "name": "Woo-Chul Jeun",
+            "id": "1565736619",
+            "org": "Electrical Engineering and Computer Science, Seoul National University, Seoul, Korea#TAB#"
+        },
+        {
+            "name": "Yang-Suk Kee",
+            "id": "2775902617",
+            "org": "Computer Science & Engineering, University of California, San Diego#TAB#"
+        },
+        {
+            "name": "Soonhoi Ha",
+            "id": "2156958397",
+            "org": "Electrical Engineering and Computer Science, Seoul National University, Seoul, Korea#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "Computer science",
+        "Computation",
+        "Distributed computing",
+        "Distributed shared memory",
+        "Programming paradigm"
+    ],
+    "references": [
+        "109376764",
+        "1532125006",
+        "1940650585",
+        "2044902313",
+        "2049482525",
+        "2088915003",
+        "2107546372",
+        "2115162681",
+        "2147845718",
+        "2167548825"
+    ]
+}

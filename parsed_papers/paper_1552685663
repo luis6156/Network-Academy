@@ -1,0 +1,47 @@
+{
+    "id": "1552685663",
+    "title": "Higher Order Universal One-Way Hash Functions",
+    "venue": "international conference on the theory and application of cryptology and information security",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Deukjo Hong",
+            "id": "2810097668",
+            "org": "Korea University"
+        },
+        {
+            "name": "Bart Preneel",
+            "id": "2156397333",
+            "org": "Katholieke Universiteit Leuven"
+        },
+        {
+            "name": "Sangjin Lee",
+            "id": "2130556419",
+            "org": "Korea University"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Primary clustering",
+        "Discrete mathematics",
+        "Rolling hash",
+        "Hash buster",
+        "Hash chain",
+        "SWIFFT",
+        "Double hashing",
+        "MDC-2",
+        "Security of cryptographic hash functions"
+    ],
+    "references": [
+        "11110026",
+        "1499074627",
+        "1549125137",
+        "1600432225",
+        "1853400974",
+        "1972792640",
+        "2099391615",
+        "2151748484",
+        "2155690458"
+    ]
+}

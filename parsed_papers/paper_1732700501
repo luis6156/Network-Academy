@@ -1,0 +1,56 @@
+{
+    "id": "1732700501",
+    "title": "Timing UDP: Mechanized Semantics for Sockets, Threads, and Failures",
+    "venue": "european symposium on programming",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Keith Wansbrough",
+            "id": "737446796",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "Michael Norrish",
+            "id": "2103706242",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "Peter Sewell",
+            "id": "2083541332",
+            "org": "University of Cambridge"
+        },
+        {
+            "name": "Andrei Serjantov",
+            "id": "303149343",
+            "org": "University of Cambridge"
+        }
+    ],
+    "fields_of_study": [
+        "Thread (computing)",
+        "Semantics",
+        "Theoretical computer science",
+        "Executable",
+        "Computer science",
+        "Distributed computing",
+        "Failure semantics",
+        "Internet Control Message Protocol",
+        "Knowledge representation and reasoning",
+        "HOL",
+        "Real-time computing",
+        "Operational semantics",
+        "Programming language"
+    ],
+    "references": [
+        "1491196069",
+        "1546402579",
+        "1553037777",
+        "1590810061",
+        "1591694044",
+        "1674145689",
+        "1979302214",
+        "2016014698",
+        "2041540671",
+        "2133477898",
+        "2155750235"
+    ]
+}

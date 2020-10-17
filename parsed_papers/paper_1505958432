@@ -1,0 +1,53 @@
+{
+    "id": "1505958432",
+    "title": "ViSMI: software distributed shared memory for Infiniband clusters",
+    "venue": "network computing and applications",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Christian Osendorfer",
+            "id": "198691809",
+            "org": "Lehrstuhl fur Rechnertechnik und Rechnerorganisation, Technische Univ. Munchen, Garching, Germany"
+        },
+        {
+            "name": "Carsten Trinitis",
+            "id": "2233889641",
+            "org": "Lehrstuhl fur Rechnertechnik und Rechnerorganisation, Technische Univ. Munchen, Garching, Germany"
+        },
+        {
+            "name": "Martin Mairandres",
+            "id": "2224037909",
+            "org": "Lehrstuhl fur Rechnertechnik und Rechnerorganisation, Technische Univ. Munchen, Garching, Germany"
+        },
+        {
+            "name": "Jie Tao",
+            "id": "2429299179",
+            "org": "Universitat Karlsruhe, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Software",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "InfiniBand",
+        "False sharing",
+        "Cache coherence",
+        "Distributed shared memory",
+        "Distributed memory",
+        "Supercomputer architecture"
+    ],
+    "references": [
+        "51427095",
+        "1524584778",
+        "1542985837",
+        "1779513555",
+        "2054739713",
+        "2104094072",
+        "2110244632",
+        "2133834475",
+        "2141318181",
+        "2145021036"
+    ]
+}

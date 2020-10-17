@@ -1,0 +1,41 @@
+{
+    "id": "1554500429",
+    "title": "Security of Camellia against Truncated Differential Cryptanalysis",
+    "venue": "fast software encryption",
+    "year": 2001,
+    "authors": [
+        {
+            "name": "Masayuki Kanda",
+            "id": "2136074932",
+            "org": "NTT Information Sharing Platform Laboratories"
+        },
+        {
+            "name": "Tsutomu Matsumoto",
+            "id": "2253012118",
+            "org": "Yokohama National University"
+        }
+    ],
+    "fields_of_study": [
+        "Camellia",
+        "Block cipher",
+        "Mathematics",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Piling-up lemma",
+        "Higher-order differential cryptanalysis",
+        "Truncated differential cryptanalysis",
+        "Differential cryptanalysis",
+        "Linear cryptanalysis"
+    ],
+    "references": [
+        "1488537309",
+        "1489027369",
+        "1500584382",
+        "1540875416",
+        "1979802565",
+        "2109265351",
+        "2115355035",
+        "2120464016",
+        "2234576048"
+    ]
+}

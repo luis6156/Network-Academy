@@ -1,0 +1,41 @@
+{
+    "id": "1667057730",
+    "title": "Public-Key Cryptography Based on a Cubic Extension of the Lucas Functions",
+    "venue": "Fundamenta Informaticae",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Eric L. Roettger",
+            "id": "2036830975",
+            "org": "(Correspd.) Dept. of General Education, Mount Royal University, Canada. eroettger@mtroyal.ca#TAB#"
+        },
+        {
+            "name": "Hugh C. Williams",
+            "id": "2126192346",
+            "org": "(Supported by NSERC of Canada and iCORE of Alberta) Dept. of Mathematics and Statistics, University of Calgary, Canada. williams@math.ucalgary.ca#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Theoretical computer science",
+        "Key exchange",
+        "Key distribution",
+        "Discrete mathematics",
+        "Key (cryptography)",
+        "Key space",
+        "Diffie-Hellman key exchange",
+        "Public-key cryptography",
+        "Baby-step giant-step",
+        "Key generation"
+    ],
+    "references": [
+        "1534901184",
+        "1571393139",
+        "1595231197",
+        "1597998262",
+        "1996360405",
+        "2124093107",
+        "2144048023",
+        "2156186849"
+    ]
+}

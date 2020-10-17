@@ -1,0 +1,47 @@
+{
+    "id": "1511009001",
+    "title": "PadFEM: A Portable Parallel FEM-Tool",
+    "venue": "ieee international conference on high performance computing data and analytics",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Ralf Diekmann",
+            "id": "2015479854",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Uwe Dralle",
+            "id": "1574977364",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Friedhelm Neugebauer",
+            "id": "2134263654",
+            "org": "University of Paderborn"
+        },
+        {
+            "name": "Thomas Romke",
+            "id": "370978119",
+            "org": "University of Paderborn"
+        }
+    ],
+    "fields_of_study": [
+        "Conjugate gradient method",
+        "Parallel computing",
+        "Theoretical computer science",
+        "Mixed boundary condition",
+        "Computer science",
+        "Finite element method",
+        "Domain decomposition methods",
+        "Distributed memory",
+        "Boundary value problem",
+        "Modular design",
+        "Mesh generation"
+    ],
+    "references": [
+        "1498221497",
+        "2120018535",
+        "2134342348",
+        "2171819226"
+    ]
+}

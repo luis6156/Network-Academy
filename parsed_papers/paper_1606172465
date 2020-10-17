@@ -1,0 +1,69 @@
+{
+    "id": "1606172465",
+    "title": "Subtleties in tolerating correlated failures in wide-area storage systems",
+    "venue": "networked systems design and implementation",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Suman Nath",
+            "id": "2120595703",
+            "org": "Microsoft Research#TAB#"
+        },
+        {
+            "name": "Haifeng Yu",
+            "id": "2138265396",
+            "org": "Intel Research Pittsburgh#TAB#"
+        },
+        {
+            "name": "Phillip B. Gibbons",
+            "id": "2144092273",
+            "org": "Intel Research Pittsburgh#TAB#"
+        },
+        {
+            "name": "Srinivasan Seshan",
+            "id": "2093924322",
+            "org": "Carnegie Mellon University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Computer data storage",
+        "Design elements and principles",
+        "Computer science",
+        "Distributed computing",
+        "PlanetLab",
+        "Distributed data store",
+        "Real-time computing",
+        "High availability"
+    ],
+    "references": [
+        "1494215701",
+        "1505678522",
+        "1587246893",
+        "1591141258",
+        "1601488132",
+        "1608234229",
+        "1743681434",
+        "1974401809",
+        "1997802075",
+        "2019470153",
+        "2036489582",
+        "2068666958",
+        "2075854425",
+        "2077704332",
+        "2104210894",
+        "2110765100",
+        "2115599946",
+        "2116777751",
+        "2121947440",
+        "2123820820",
+        "2126789306",
+        "2128796442",
+        "2130078562",
+        "2131308780",
+        "2133109535",
+        "2136417515",
+        "2150676586",
+        "2171337572",
+        "2405200838"
+    ]
+}

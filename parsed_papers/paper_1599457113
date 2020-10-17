@@ -1,0 +1,58 @@
+{
+    "id": "1599457113",
+    "title": "Coordinate blinding over large prime fields",
+    "venue": "cryptographic hardware and embedded systems",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Michael Tunstall",
+            "id": "2686577516",
+            "org": "Department of Computer Science, University of Bristol, Bristol, United Kingdom#TAB#"
+        },
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Technicolor, Security & Content Protection Labs, Cesson-Sevigne Cedex, France#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Montgomery curve",
+        "Mathematics",
+        "Curve25519",
+        "Discrete mathematics",
+        "Elliptic curve point multiplication",
+        "Hessian form of an elliptic curve",
+        "Elliptic curve cryptography",
+        "Jacobian curve",
+        "Modular elliptic curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "1482850715",
+        "1507823573",
+        "1511843316",
+        "1512062395",
+        "1521664783",
+        "1531102506",
+        "1536508214",
+        "1539482743",
+        "1540529576",
+        "1562542037",
+        "1565369953",
+        "1603220704",
+        "1664808737",
+        "1724890242",
+        "1825519517",
+        "1836556492",
+        "1996360405",
+        "2086936456",
+        "2104841597",
+        "2108558890",
+        "2137567577",
+        "2144952508",
+        "2151279347",
+        "2154290215",
+        "2154909745",
+        "2245967636"
+    ]
+}

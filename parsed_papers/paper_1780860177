@@ -1,0 +1,34 @@
+{
+    "id": "1780860177",
+    "title": "A Standard Interface for Debugger Access to Message Queue Information in MPI",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "James Cownie",
+            "id": "1981659651",
+            "org": "Etnus Inc."
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "MPICH",
+        "Computer science",
+        "IBM",
+        "Distributed computing",
+        "Implementation",
+        "Data transmission",
+        "Information system",
+        "Debugger",
+        "Message queue"
+    ],
+    "references": [
+        "1480151475",
+        "1969215126",
+        "2081612620"
+    ]
+}

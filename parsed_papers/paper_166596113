@@ -1,0 +1,38 @@
+{
+    "id": "166596113",
+    "title": "The initialization stage analysis of ZUC v1.5",
+    "venue": "cryptology and network security",
+    "year": 2011,
+    "authors": [
+        {
+            "name": "Chunfang Zhou",
+            "id": "2637273083",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Xiutao Feng",
+            "id": "2649674018",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        },
+        {
+            "name": "Dongdai Lin",
+            "id": "2655547442",
+            "org": "State Key Laboratory of Information Security, Institute of Software, Chinese Academy of Sciences, Beijing, China#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Theoretical computer science",
+        "Computer science",
+        "Stream cipher",
+        "Computer security",
+        "Initialization",
+        "Linear feedback shift register"
+    ],
+    "references": [
+        "199966775",
+        "1535006789",
+        "1601159549",
+        "1629301835",
+        "1758759527"
+    ]
+}

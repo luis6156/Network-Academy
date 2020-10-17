@@ -1,0 +1,57 @@
+{
+    "id": "1527961683",
+    "title": "A hierarchical internet object cache",
+    "venue": "usenix annual technical conference",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Anawat Chankhunthod",
+            "id": "82782674",
+            "org": "Computer Science Department, University of Southern California#TAB#"
+        },
+        {
+            "name": "Peter B. Danzig",
+            "id": "205853394",
+            "org": "Computer Science Department, University of Southern California#TAB#"
+        },
+        {
+            "name": "Chuck Neerdaels",
+            "id": "1979264003",
+            "org": "Computer Science Department, University of Southern California#TAB#"
+        },
+        {
+            "name": "Michael F. Schwartz",
+            "id": "2124765833",
+            "org": "Computer Science Department, University of Colorado, Boulder#TAB#"
+        },
+        {
+            "name": "Kurt J. Worrell",
+            "id": "2708710116",
+            "org": "Computer Science Department, University of Colorado, Boulder#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Cache algorithms",
+        "Smart Cache",
+        "Cache stampede",
+        "Distributed computing",
+        "Computer science",
+        "Real-time computing",
+        "Internet traffic engineering",
+        "Cache invalidation"
+    ],
+    "references": [
+        "14647670",
+        "64525249",
+        "1993909409",
+        "2005373714",
+        "2011831586",
+        "2044743392",
+        "2049994230",
+        "2066709184",
+        "2111427271",
+        "2119045813",
+        "2120500054"
+    ]
+}

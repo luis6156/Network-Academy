@@ -1,0 +1,66 @@
+{
+    "id": "1574130313",
+    "title": "LeakSurvivor: towards safely tolerating memory leaks for garbage-collected languages",
+    "venue": "usenix annual technical conference",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Yan Tang",
+            "id": "2125254426",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Qi Gao",
+            "id": "2114137539",
+            "org": "The Ohio State University#TAB#"
+        },
+        {
+            "name": "Feng Qin",
+            "id": "2345606310",
+            "org": "The Ohio State University#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Memory ordering",
+        "Computer science",
+        "Garbage collection",
+        "Memory management",
+        "Garbage",
+        "Manual memory management",
+        "Memory corruption",
+        "Real-time computing",
+        "Memory leak",
+        "Virtual memory"
+    ],
+    "references": [
+        "1510358061",
+        "1916709771",
+        "1969235224",
+        "1970917887",
+        "1983156473",
+        "2000100269",
+        "2014462389",
+        "2055862423",
+        "2081413727",
+        "2098809490",
+        "2102323965",
+        "2102674270",
+        "2104510605",
+        "2105204977",
+        "2108183412",
+        "2109192777",
+        "2110137598",
+        "2116730320",
+        "2122901253",
+        "2129181700",
+        "2136938453",
+        "2138369269",
+        "2138716216",
+        "2140991542",
+        "2145106894",
+        "2146766856",
+        "2156956446",
+        "2166091242"
+    ]
+}

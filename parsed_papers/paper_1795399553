@@ -1,0 +1,75 @@
+{
+    "id": "1795399553",
+    "title": "Fast randomized test-and-set and renaming",
+    "venue": "international symposium on distributed computing",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Dan Alistarh",
+            "id": "102275441",
+            "org": "Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Hagit Attiya",
+            "id": "685665164",
+            "org": "Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland and Technion, Haifa, Israel#TAB#"
+        },
+        {
+            "name": "Seth Gilbert",
+            "id": "2142599983",
+            "org": "National University of Singapore#TAB#"
+        },
+        {
+            "name": "Andrei Giurgiu",
+            "id": "2064436923",
+            "org": "Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland#TAB#"
+        },
+        {
+            "name": "Rachid Guerraoui",
+            "id": "115057321",
+            "org": "Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Identifier",
+        "Asynchronous communication",
+        "Distributed computing",
+        "Computer science",
+        "Random testing",
+        "Namespace",
+        "Test-and-set"
+    ],
+    "references": [
+        "118320842",
+        "1513857410",
+        "1525123207",
+        "1551716502",
+        "1592308569",
+        "1595409123",
+        "1651545195",
+        "1672483193",
+        "1814330927",
+        "1925776923",
+        "1992427547",
+        "1997124359",
+        "2005147105",
+        "2008370075",
+        "2021785007",
+        "2023866984",
+        "2031502627",
+        "2034229945",
+        "2035362408",
+        "2036862097",
+        "2044657757",
+        "2052556176",
+        "2054439685",
+        "2077437089",
+        "2085407655",
+        "2101939036",
+        "2112250471",
+        "2124129198",
+        "2147823853",
+        "2149907923",
+        "2611515161"
+    ]
+}

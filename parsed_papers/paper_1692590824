@@ -1,0 +1,81 @@
+{
+    "id": "1692590824",
+    "title": "SODA: an optimizing scheduler for large-scale stream-based distributed computer systems",
+    "venue": "acm ifip usenix international conference on middleware",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Joel L. Wolf",
+            "id": "2127587015",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Nikhil Bansal",
+            "id": "2145779519",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Kirsten Hildrum",
+            "id": "1726335268",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Sujay Parekh",
+            "id": "2167336336",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Deepak Rajan",
+            "id": "2125494363",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Rohit Wagle",
+            "id": "2113390777",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Kun-Lung Wu",
+            "id": "2095612124",
+            "org": "IBM T.J. Watson Research Center, Hawthorne, NY#TAB#"
+        },
+        {
+            "name": "Lisa Fleischer",
+            "id": "2098179069",
+            "org": "Dartmouth College, Hanover, NH#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Scalability",
+        "Resource allocation",
+        "Computer science",
+        "Distributed computing",
+        "Scheduling (computing)",
+        "Optimization problem",
+        "Admission control",
+        "Stream processing",
+        "Real-time computing",
+        "Heuristic"
+    ],
+    "references": [
+        "87905120",
+        "1517058083",
+        "1646696449",
+        "1812617214",
+        "1968143987",
+        "1979255157",
+        "2004518630",
+        "2010801412",
+        "2115503987",
+        "2140955554",
+        "2147544162",
+        "2158460713",
+        "2161229477",
+        "2161569281",
+        "2165318620",
+        "2169070268",
+        "2171145370",
+        "2398660820",
+        "2622422319"
+    ]
+}

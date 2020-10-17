@@ -1,0 +1,41 @@
+{
+    "id": "1483707547",
+    "title": "A Fast Distributed Algorithm for Approximating the Maximum Matching",
+    "venue": "Discrete Applied Mathematics",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Andrzej Czygrinow",
+            "id": "2291939432",
+            "org": "Department of Mathematics and Statistics, Arizona State University, Tempe, AZ 85287-1804, USA"
+        },
+        {
+            "name": "Michal Hanckowiak",
+            "id": "113118727",
+            "org": "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Poznan, Poland"
+        },
+        {
+            "name": "Edyta Szymanska",
+            "id": "2618906732",
+            "org": "Faculty of Mathematics and Computer Science, Adam Mickiewicz University, Poznan, Poland"
+        }
+    ],
+    "fields_of_study": [
+        "Mathematics",
+        "Ramer-Douglas-Peucker algorithm",
+        "Push-relabel maximum flow algorithm",
+        "3-dimensional matching",
+        "Dinic's algorithm",
+        "FSA-Red Algorithm",
+        "Brooks-Iyengar algorithm",
+        "Commentz-Walter algorithm",
+        "Mathematical optimization",
+        "Distributed minimum spanning tree"
+    ],
+    "references": [
+        "1983211386",
+        "1998375300",
+        "2054910423",
+        "2100061495"
+    ]
+}

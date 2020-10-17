@@ -1,0 +1,44 @@
+{
+    "id": "1501633760",
+    "title": "Language-model look-ahead for large vocabulary speech recognition",
+    "venue": "international conference on spoken language processing",
+    "year": 1996,
+    "authors": [
+        {
+            "name": "Stefan Ortmanns",
+            "id": "2305600265",
+            "org": "Lehrstuhl fur Inf., Tech. Hochschule Aachen, Germany"
+        },
+        {
+            "name": "Hermann Ney",
+            "id": "2293758362",
+            "org": "Lehrstuhl fiir Informatik|University of Technology"
+        },
+        {
+            "name": "Andreas Eiden",
+            "id": "1995126366",
+            "org": "Lehrstuhl fur Informatik|University of Technology"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Bigram",
+        "Language model",
+        "Search algorithm",
+        "Vocabulary",
+        "Computer science",
+        "Pronunciation",
+        "Lexicon",
+        "Speech recognition",
+        "Cache language model"
+    ],
+    "references": [
+        "15592790",
+        "1878610756",
+        "1953567190",
+        "2081323593",
+        "2118204484",
+        "2122602353",
+        "2151058131"
+    ]
+}

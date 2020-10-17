@@ -1,0 +1,47 @@
+{
+    "id": "1517943782",
+    "title": "UML collaboration diagrams and their transformation to java",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Gregor Engels",
+            "id": "2136680303",
+            "org": "University of Paderborn, Dept. of Computer Science, Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Roland Hucking",
+            "id": "2287295420",
+            "org": "SAP AG, Lo. Dev. PP-PI, Walldorf, Germany#TAB#"
+        },
+        {
+            "name": "Stefan Sauer",
+            "id": "2134847361",
+            "org": "University of Paderborn, Dept. of Computer Science, Paderborn, Germany#TAB#"
+        },
+        {
+            "name": "Annika Wagner",
+            "id": "2101535396",
+            "org": "University of Paderborn, Dept. of Computer Science, Paderborn, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Java",
+        "Interaction overview diagram",
+        "Computer science",
+        "State diagram",
+        "Story-driven modeling",
+        "Metamodeling",
+        "Code generation",
+        "Communication diagram",
+        "Programming language",
+        "Class diagram"
+    ],
+    "references": [
+        "1998017916",
+        "2121163444",
+        "2127447375",
+        "2127964314",
+        "2164827830"
+    ]
+}

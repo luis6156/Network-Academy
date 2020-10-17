@@ -1,0 +1,41 @@
+{
+    "id": "1598834986",
+    "title": "Reducing communication overhead and page faults in SDSM platforms",
+    "venue": "international conference on parallel processing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Artemis A. Christopoulou",
+            "id": "2223895345",
+            "org": "High Performance Information Systems Laboratory, Computer Engineering & Informatics Department, University of Patras, Rio, Greece#TAB#"
+        },
+        {
+            "name": "Eleftherios D. Polychronopoulos",
+            "id": "56925266",
+            "org": "High Performance Information Systems Laboratory, Computer Engineering & Informatics Department, University of Patras, Rio, Greece#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Parallel computing",
+        "Shared memory",
+        "Computer science",
+        "Distributed computing",
+        "Lock (computer science)",
+        "Latency (engineering)",
+        "Cache coherence",
+        "Distributed shared memory",
+        "Distributed algorithm",
+        "Real-time computing",
+        "Consistency model",
+        "Page fault"
+    ],
+    "references": [
+        "51427095",
+        "1590085739",
+        "1906764035",
+        "2092816328",
+        "2095651049",
+        "2144770489",
+        "2166146590"
+    ]
+}

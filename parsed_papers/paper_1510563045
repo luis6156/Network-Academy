@@ -1,0 +1,32 @@
+{
+    "id": "1510563045",
+    "title": "Compressed Storage of Sparse Finite-State Transducers",
+    "venue": "WIA '99 Revised Papers from the 4th International Workshop on Automata Implementation",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "George Anton Kiraz",
+            "id": "2105460704",
+            "org": "Bell Labs -- Lucent Technologies"
+        }
+    ],
+    "fields_of_study": [
+        "Sparse matrix",
+        "Transducer",
+        "Theoretical computer science",
+        "Indexation",
+        "Computer science",
+        "Dictionary coder",
+        "Lossless compression",
+        "Bit manipulation",
+        "Data compression ratio",
+        "Finite-state machine"
+    ],
+    "references": [
+        "1513168562",
+        "1654022110",
+        "2051049045",
+        "2100000146",
+        "2143173740"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1603198778",
+    "title": "Camera pose estimation using images of planar mirror reflections",
+    "venue": "european conference on computer vision",
+    "year": 2010,
+    "authors": [
+        {
+            "name": "Rui C. Rodrigues",
+            "id": "2119121122",
+            "org": "Institute of Systems and Robotics, Dept. of Electrical and Computer Engineering, University of Coimbra, Coimbra, Portugal#TAB#"
+        },
+        {
+            "name": "Joao Pedro Barreto",
+            "id": "2133042332",
+            "org": "Institute of Systems and Robotics, Dept. of Electrical and Computer Engineering, University of Coimbra, Coimbra, Portugal#TAB#"
+        },
+        {
+            "name": "Urbano Nunes",
+            "id": "2145423762",
+            "org": "Institute of Systems and Robotics, Dept. of Electrical and Computer Engineering, University of Coimbra, Coimbra, Portugal#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Articulated body pose estimation",
+        "Camera resectioning",
+        "Stereo camera",
+        "Pinhole camera model",
+        "Computer vision",
+        "Computer science",
+        "Camera matrix",
+        "Camera auto-calibration",
+        "Epipolar geometry",
+        "Motion field",
+        "Artificial intelligence"
+    ],
+    "references": [
+        "165571211",
+        "1551184541",
+        "1598351315",
+        "1981745143",
+        "2089170011",
+        "2128112920",
+        "2155755183",
+        "2162265152",
+        "2172213452"
+    ]
+}

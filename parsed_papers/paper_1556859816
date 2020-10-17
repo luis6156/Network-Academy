@@ -1,0 +1,31 @@
+{
+    "id": "1556859816",
+    "title": "Secret Distribution of Keys for Public-Key Systems",
+    "venue": "international cryptology conference",
+    "year": 1987,
+    "authors": [
+        {
+            "name": "Jean-Jacques Quisquater",
+            "id": "2195205560",
+            "org": "Philips Research Laboratory Brussels"
+        }
+    ],
+    "fields_of_study": [
+        "Key (lock)",
+        "Theoretical computer science",
+        "Key distribution",
+        "Computer science",
+        "Proactive secret sharing",
+        "One-way function",
+        "Computational complexity theory",
+        "Cryptosystem",
+        "Hybrid cryptosystem",
+        "Public-key cryptography"
+    ],
+    "references": [
+        "1514192054",
+        "1569083856",
+        "1606273473",
+        "1878907771"
+    ]
+}

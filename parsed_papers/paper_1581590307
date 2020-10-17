@@ -1,0 +1,43 @@
+{
+    "id": "1581590307",
+    "title": "Efficient on-the-fly analysis of program behavior and static cache simulation",
+    "venue": "static analysis symposium",
+    "year": 1994,
+    "authors": [
+        {
+            "name": "Frank Mueller",
+            "id": "2107119837",
+            "org": "Florida State University"
+        },
+        {
+            "name": "David B. Whalley",
+            "id": "2099007890",
+            "org": "Florida State University"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Control flow",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Small number",
+        "Basic block",
+        "Computer science",
+        "On the fly",
+        "Instrumentation",
+        "Call graph",
+        "Real-time computing",
+        "CPU cache"
+    ],
+    "references": [
+        "1484206933",
+        "1491178396",
+        "1967022475",
+        "2015604007",
+        "2016909415",
+        "2020235248",
+        "2038473908",
+        "2143632005",
+        "2160946197"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1494946454",
+    "title": "Serving DNS Using a Peer-to-Peer Lookup Service",
+    "venue": "international workshop on peer to peer systems",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Russ Cox",
+            "id": "2279462466",
+            "org": "MIT Laboratory for Computer Science"
+        },
+        {
+            "name": "Athicha Muthitacharoen",
+            "id": "1554803164",
+            "org": "MIT Laboratory for Computer Science"
+        },
+        {
+            "name": "Robert Tappan Morris",
+            "id": "2112752255",
+            "org": "MIT Laboratory for Computer Science"
+        }
+    ],
+    "fields_of_study": [
+        "Hash table",
+        "Peer-to-peer",
+        "Computer science",
+        "Distributed computing",
+        "Zone file",
+        "DNS zone transfer",
+        "Distributed hash table",
+        "Domain Name System",
+        "nsupdate",
+        "Round-robin DNS",
+        "Computer network"
+    ],
+    "references": [
+        "1675263286",
+        "1828150029",
+        "2102333560",
+        "2118428193",
+        "2122269925",
+        "2150676586",
+        "2153545488",
+        "2158049821",
+        "2165071399"
+    ]
+}

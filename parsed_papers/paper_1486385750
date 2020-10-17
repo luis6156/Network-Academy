@@ -1,0 +1,55 @@
+{
+    "id": "1486385750",
+    "title": "Weak Proof-Number Search",
+    "venue": "annual conference on computers",
+    "year": 2008,
+    "authors": [
+        {
+            "name": "Toru Ueda",
+            "id": "2546133186",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa, Japan 923-1292#TAB#"
+        },
+        {
+            "name": "Tsuyoshi Hashimoto",
+            "id": "2106720199",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa, Japan 923-1292#TAB#"
+        },
+        {
+            "name": "Junichi Hashimoto",
+            "id": "2237694113",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa, Japan 923-1292#TAB#"
+        },
+        {
+            "name": "Hiroyuki Iida",
+            "id": "2303136208",
+            "org": "School of Information Science, Japan Advanced Institute of Science and Technology, Ishikawa, Japan 923-1292#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Beam search",
+        "Mathematics",
+        "Search algorithm",
+        "Incremental heuristic search",
+        "Iterative deepening depth-first search",
+        "Beam stack search",
+        "Best-first search",
+        "Fringe search",
+        "Dichotomic search",
+        "Mathematical optimization"
+    ],
+    "references": [
+        "43746527",
+        "132163688",
+        "152132799",
+        "1533835174",
+        "1544560613",
+        "1579046794",
+        "1603772156",
+        "1990386132",
+        "1992249923",
+        "2009833344",
+        "2012464823",
+        "2049361636",
+        "2061653391"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1481759808",
+    "title": "On the Security of the Lee-Chang Group Signature Scheme and Its Derivatives",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 1999,
+    "authors": [
+        {
+            "name": "Marc Joye",
+            "id": "2070444920",
+            "org": "Gemplus Card International"
+        },
+        {
+            "name": "Narn-Yih Lee",
+            "id": "2104891742",
+            "org": "Nan-Tai Institute of Technology"
+        },
+        {
+            "name": "Tzonelih Hwang",
+            "id": "2128783725",
+            "org": "National Cheng-Kung University"
+        }
+    ],
+    "fields_of_study": [
+        "Cryptography",
+        "Mathematics",
+        "Discrete logarithm",
+        "Cryptanalysis",
+        "Discrete mathematics",
+        "Digital signature",
+        "Merkle signature scheme",
+        "Ring signature",
+        "Group signature"
+    ],
+    "references": [
+        "255366893",
+        "1577274403",
+        "2080302839",
+        "2156186849"
+    ]
+}

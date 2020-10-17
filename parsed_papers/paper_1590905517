@@ -1,0 +1,37 @@
+{
+    "id": "1590905517",
+    "title": "Cache oblivious matrix operations using Peano curves",
+    "venue": "parallel computing",
+    "year": 2006,
+    "authors": [
+        {
+            "name": "Michael Bader",
+            "id": "2153404012",
+            "org": "Institut fur Informatik, Technische Universitat Munchen, Garching, Germany#TAB#"
+        },
+        {
+            "name": "Christian Mayer",
+            "id": "2422301744",
+            "org": "Institut fur Informatik, Technische Universitat Munchen, Garching, Germany#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Cache",
+        "Space-filling curve",
+        "Mathematics",
+        "Cache algorithms",
+        "Theoretical computer science",
+        "Parallel computing",
+        "Cache coloring",
+        "LU decomposition",
+        "Cache-oblivious algorithm",
+        "Write-once",
+        "Cache invalidation"
+    ],
+    "references": [
+        "1504931814",
+        "1544836076",
+        "2026237859",
+        "2166737459"
+    ]
+}

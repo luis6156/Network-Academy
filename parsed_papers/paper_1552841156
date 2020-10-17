@@ -1,0 +1,47 @@
+{
+    "id": "1552841156",
+    "title": "Minimizing Synchronization Overhead in the Implementation of MPI One-Sided Communication",
+    "venue": "Lecture Notes in Computer Science",
+    "year": 2004,
+    "authors": [
+        {
+            "name": "Rajeev Thakur",
+            "id": "2202691758",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "William Gropp",
+            "id": "293862447",
+            "org": "Argonne National Laboratory"
+        },
+        {
+            "name": "Brian R. Toonen",
+            "id": "255533804",
+            "org": "Argonne National Laboratory"
+        }
+    ],
+    "fields_of_study": [
+        "Point-to-point",
+        "Parallel computing",
+        "Computer science",
+        "Distributed computing",
+        "Data synchronization",
+        "Implementation",
+        "Message Passing Interface",
+        "Message passing",
+        "Synchronization (computer science)",
+        "Synchronization",
+        "Virtual machine"
+    ],
+    "references": [
+        "1492255554",
+        "1529327506",
+        "1596157658",
+        "2041327854",
+        "2102650110",
+        "2104679970",
+        "2109982223",
+        "2135232264",
+        "2541014599"
+    ]
+}

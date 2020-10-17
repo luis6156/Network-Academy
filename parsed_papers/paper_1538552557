@@ -1,0 +1,81 @@
+{
+    "id": "1538552557",
+    "title": "How to be consistent with persistent memory? An evaluation approach",
+    "venue": "networking architecture and storages",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Chundong Wang",
+            "id": "2179227774",
+            "org": "Data Storage Institute, A?STAR, Singapore"
+        },
+        {
+            "name": "Qingsong Wei",
+            "id": "2694033832",
+            "org": "Data Storage Institute, A?STAR, Singapore"
+        },
+        {
+            "name": "Jun Yang",
+            "id": "2306949014",
+            "org": "Data Storage Institute, A?STAR, Singapore"
+        },
+        {
+            "name": "Cheng Chen",
+            "id": "2602599161",
+            "org": "Data Storage Institute, A?STAR, Singapore"
+        },
+        {
+            "name": "Mingdi Xue",
+            "id": "2068062223",
+            "org": "Data Storage Institute, A?STAR, Singapore"
+        }
+    ],
+    "fields_of_study": [
+        "Memory-mapped file",
+        "Parallel computing",
+        "Conventional memory",
+        "Computer science",
+        "Uniform memory access",
+        "Memory management",
+        "File Control Block",
+        "Journaling file system",
+        "Registered memory",
+        "Real-time computing",
+        "Flat memory model"
+    ],
+    "references": [
+        "98895588",
+        "1013240226",
+        "1422898865",
+        "1437323374",
+        "1487773734",
+        "1567210335",
+        "1965912002",
+        "1972388231",
+        "1992755462",
+        "2009404871",
+        "2016839924",
+        "2082070657",
+        "2101960070",
+        "2102148930",
+        "2105271931",
+        "2108453702",
+        "2113637091",
+        "2114482828",
+        "2115510101",
+        "2120111376",
+        "2124306283",
+        "2137227672",
+        "2137598681",
+        "2150662965",
+        "2157808045",
+        "2159081928",
+        "2162121187",
+        "2165832195",
+        "2166905397",
+        "2168968494",
+        "2205845299",
+        "2209415352",
+        "2610308442"
+    ]
+}

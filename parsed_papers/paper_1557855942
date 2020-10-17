@@ -1,0 +1,93 @@
+{
+    "id": "1557855942",
+    "title": "On Subnormal Floating Point and Abnormal Timing",
+    "venue": "ieee symposium on security and privacy",
+    "year": 2015,
+    "authors": [
+        {
+            "name": "Marc Andrysco",
+            "id": "2228445178",
+            "org": "Dept. of Comput. Sci. & Eng., Univ. of California, San Diego, La Jolla, CA, USA"
+        },
+        {
+            "name": "David Kohlbrenner",
+            "id": "2222858091",
+            "org": "Dept. of Comput. Sci. & Eng., Univ. of California, San Diego, La Jolla, CA, USA"
+        },
+        {
+            "name": "Keaton Mowery",
+            "id": "1975157056",
+            "org": "Dept. of Comput. Sci. & Eng., Univ. of California, San Diego, La Jolla, CA, USA"
+        },
+        {
+            "name": "Ranjit Jhala",
+            "id": "2068611990",
+            "org": "Dept. of Comput. Sci. & Eng., Univ. of California, San Diego, La Jolla, CA, USA"
+        },
+        {
+            "name": "Sorin Lerner",
+            "id": "2223743999",
+            "org": "Dept. of Comput. Sci. & Eng., Univ. of California, San Diego, La Jolla, CA, USA"
+        },
+        {
+            "name": "Hovav Shacham",
+            "id": "2893102664",
+            "org": "Dept. of Comput. Sci. & Eng., Univ. of California, San Diego, La Jolla, CA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Double-precision floating-point format",
+        "x86",
+        "Parallel computing",
+        "Minifloat",
+        "Fixed point",
+        "Fixed-point arithmetic",
+        "Floating-point unit",
+        "Communication channel",
+        "Computer science",
+        "Real-time computing",
+        "Floating point"
+    ],
+    "references": [
+        "50107694",
+        "55681943",
+        "116729575",
+        "192814132",
+        "1566914742",
+        "1567270082",
+        "1584260451",
+        "1584476834",
+        "1664808737",
+        "1969074822",
+        "1992291252",
+        "1997775274",
+        "2001759130",
+        "2008332764",
+        "2024490197",
+        "2027595342",
+        "2037851672",
+        "2040210405",
+        "2042946599",
+        "2071929572",
+        "2072978486",
+        "2077217970",
+        "2094258292",
+        "2096870293",
+        "2104647943",
+        "2106573617",
+        "2107691219",
+        "2108384401",
+        "2108776769",
+        "2116647386",
+        "2116807588",
+        "2117550587",
+        "2128255161",
+        "2150619336",
+        "2152795079",
+        "2168686464",
+        "2168753065",
+        "2169004268",
+        "2245967636",
+        "2530218835"
+    ]
+}

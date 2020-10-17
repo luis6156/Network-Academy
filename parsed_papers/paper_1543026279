@@ -1,0 +1,46 @@
+{
+    "id": "1543026279",
+    "title": "A Blocking Algorithm for Parallel 1-D FFT on Clusters of PCs",
+    "venue": "european conference on parallel processing",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Daisuke Takahashi",
+            "id": "2156780583",
+            "org": "University of Tsukuba"
+        },
+        {
+            "name": "Taisuke Boku",
+            "id": "184900542",
+            "org": "University of Tsukuba"
+        },
+        {
+            "name": "Mitsuhisa Sato",
+            "id": "2434321585",
+            "org": "University of Tsukuba"
+        }
+    ],
+    "fields_of_study": [
+        "Twiddle factor",
+        "Parallel computing",
+        "Algorithm",
+        "Computer science",
+        "Split-radix FFT algorithm",
+        "Cooley-Tukey FFT algorithm",
+        "Prime-factor FFT algorithm",
+        "Fast Fourier transform",
+        "Cache-oblivious algorithm",
+        "Parallel algorithm",
+        "Bruun's FFT algorithm"
+    ],
+    "references": [
+        "1489894178",
+        "1756320466",
+        "1866830630",
+        "2011253351",
+        "2045836768",
+        "2070455226",
+        "2127391977",
+        "2166395705"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "1584454960",
+    "title": "Performance Analysis for MPI Applications with SCALEA",
+    "venue": "european pvm mpi users group meeting on recent advances in parallel virtual machine and message passing interface",
+    "year": 2002,
+    "authors": [
+        {
+            "name": "Hong Linh Truong",
+            "id": "2060647386",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Thomas Fahringer",
+            "id": "1991808295",
+            "org": "University of Vienna"
+        },
+        {
+            "name": "Michael Geissler",
+            "id": "2653160955",
+            "org": "Technical University Vienna"
+        },
+        {
+            "name": "Georg K. H. Madsen",
+            "id": "2124532230",
+            "org": "Technical University Vienna"
+        }
+    ],
+    "fields_of_study": [
+        "Program analysis",
+        "Source code",
+        "Computer science",
+        "Distributed computing",
+        "Message Passing Interface",
+        "Visualization",
+        "Message passing",
+        "Instrumentation",
+        "Graphical user interface",
+        "Architecture"
+    ],
+    "references": [
+        "1534946390",
+        "2098984303",
+        "2125955291",
+        "2126189438",
+        "2137165486"
+    ]
+}

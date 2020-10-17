@@ -1,0 +1,75 @@
+{
+    "id": "1502328873",
+    "title": "An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials",
+    "venue": "public key cryptography",
+    "year": 2009,
+    "authors": [
+        {
+            "name": "Jan Camenisch",
+            "id": "2001749418",
+            "org": "IBM Research Zurich,#TAB#"
+        },
+        {
+            "name": "Markulf Kohlweiss",
+            "id": "1520953178",
+            "org": "Katholieke Universiteit Leuven / IBBT,#TAB#"
+        },
+        {
+            "name": "Claudio Soriente",
+            "id": "2054300324",
+            "org": "University of California, Irvine,#TAB#"
+        }
+    ],
+    "fields_of_study": [
+        "Dynamic accumulator",
+        "Cryptography",
+        "Credential",
+        "Computer science",
+        "Computer security",
+        "Electronic authentication",
+        "Digital credential",
+        "Revocation",
+        "Authentication",
+        "Certificate"
+    ],
+    "references": [
+        "172970726",
+        "1483714364",
+        "1494232233",
+        "1498339544",
+        "1521092767",
+        "1528195422",
+        "1529348530",
+        "1538706266",
+        "1545622906",
+        "1562394980",
+        "1576148849",
+        "1603546715",
+        "1607188293",
+        "1754500122",
+        "1824938273",
+        "1847217253",
+        "1851031742",
+        "1888254701",
+        "1905774212",
+        "1931152882",
+        "1978183200",
+        "1983556845",
+        "1998865180",
+        "2006921752",
+        "2031618446",
+        "2033820870",
+        "2038771877",
+        "2095708839",
+        "2102632861",
+        "2116556172",
+        "2117797270",
+        "2120265856",
+        "2137664544",
+        "2153193245",
+        "2161140461",
+        "2170001900",
+        "2172174332",
+        "2563302303"
+    ]
+}

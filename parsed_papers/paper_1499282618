@@ -1,0 +1,52 @@
+{
+    "id": "1499282618",
+    "title": "Non-linear error detection for elliptic curve cryptosystems",
+    "venue": "Iet Information Security",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Kahraman D. Akdemir",
+            "id": "2122424397",
+            "org": "Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA, USA"
+        },
+        {
+            "name": "Deniz Karakoyunlu",
+            "id": "1422082756",
+            "org": "Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA, USA"
+        },
+        {
+            "name": "Berk Sunar",
+            "id": "662498110",
+            "org": "Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA, USA"
+        }
+    ],
+    "fields_of_study": [
+        "Montgomery curve",
+        "Lenstra elliptic curve factorization",
+        "Twisted Edwards curve",
+        "Mathematics",
+        "Edwards curve",
+        "Curve25519",
+        "Discrete mathematics",
+        "Hessian form of an elliptic curve",
+        "Jacobian curve",
+        "Tripling-oriented Doche-Icart-Kohel curve"
+    ],
+    "references": [
+        "22191693",
+        "94002110",
+        "1490476950",
+        "1583816927",
+        "1991823557",
+        "2057209427",
+        "2064665687",
+        "2106916437",
+        "2111725598",
+        "2119543450",
+        "2124101165",
+        "2124791099",
+        "2125358392",
+        "2135632173",
+        "2168890650"
+    ]
+}

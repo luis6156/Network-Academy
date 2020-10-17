@@ -1,0 +1,40 @@
+{
+    "id": "1727336311",
+    "title": "Let's Parse to Prevent Pwnage.",
+    "venue": "Presented as part of the 5th USENIX Workshop on Large-Scale Exploits and Emergent Threats",
+    "year": 2012,
+    "authors": [
+        {
+            "name": "Mike Samuel",
+            "id": "2123758338",
+            "org": "Google, Inc."
+        },
+        {
+            "name": "Ulfar Erlingsson",
+            "id": "691809822",
+            "org": "Google, Inc."
+        }
+    ],
+    "fields_of_study": [
+        "Web content",
+        "Web page",
+        "Computer science",
+        "Sandbox (computer security)",
+        "Attack surface",
+        "Web server",
+        "Web application",
+        "Cross-site scripting",
+        "SQL injection",
+        "Programming language"
+    ],
+    "references": [
+        "125279808",
+        "1432803199",
+        "2013578787",
+        "2131261404",
+        "2139339270",
+        "2144696387",
+        "2152725427",
+        "2166509025"
+    ]
+}

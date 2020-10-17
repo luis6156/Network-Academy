@@ -1,0 +1,68 @@
+{
+    "id": "1517517866",
+    "title": "Ring Paxos: High-Throughput Atomic Broadcast",
+    "venue": "The Computer Journal",
+    "year": 2017,
+    "authors": [
+        {
+            "name": "Parisa Jalili Marandi",
+            "id": "1475715874",
+            "org": "Microsoft Research, Cambridge, UK"
+        },
+        {
+            "name": "Marco Primi",
+            "id": "2063883766",
+            "org": "Apple, Cupertino, USA"
+        },
+        {
+            "name": "Nicolas Schiper",
+            "id": "2275441673",
+            "org": "Midokura, Minato, Japan"
+        },
+        {
+            "name": "Fernando Pedone",
+            "id": "237383867",
+            "org": "University of Lugano, Lugano, Switzerland"
+        }
+    ],
+    "fields_of_study": [
+        "Throughput",
+        "Executable",
+        "Asynchrony",
+        "Distributed computing",
+        "Liveness",
+        "Computer science",
+        "Raft",
+        "Paxos",
+        "Atomic broadcast"
+    ],
+    "references": [
+        "212436359",
+        "1701489392",
+        "1814543774",
+        "1884778945",
+        "1901911236",
+        "1963615255",
+        "1973501242",
+        "1985349143",
+        "1992479210",
+        "2003214215",
+        "2016404663",
+        "2019644892",
+        "2035362408",
+        "2038951911",
+        "2075854425",
+        "2077671984",
+        "2080030163",
+        "2118153508",
+        "2121898964",
+        "2122533533",
+        "2130264930",
+        "2130923111",
+        "2133943294",
+        "2143149536",
+        "2168105523",
+        "2249200448",
+        "2294934895"
+    ]
+}
